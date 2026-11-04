@@ -1,13 +1,13 @@
 {
   "_help": "Add or remove feeds. enabled:false switches one off. lang is rw or en. category is free text (news, politics, sports, tech, health...). Run: node crawl.js --test   to see which URLs really answer. type:'page' is for a site without RSS (reads only title + description of that one page).",
   "feeds": [
-    { "name": "BBC Gahuza",      "url": "https://feeds.bbci.co.uk/gahuza/rss.xml",           "lang": "rw", "category": "news" },
-    { "name": "BBC Africa",      "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml", "lang": "en", "category": "news" },
-    { "name": "KT Press",        "url": "https://www.ktpress.rw/feed/",                       "lang": "en", "category": "news" },
-    { "name": "Taarifa Rwanda",  "url": "https://taarifa.rw/feed/",                           "lang": "en", "category": "news" },
-    { "name": "Igihe",           "url": "https://www.igihe.com/spip.php?page=backend",        "lang": "rw", "category": "news" },
-    { "name": "Kigali Today",    "url": "https://www.kigalitoday.com/spip.php?page=backend",  "lang": "rw", "category": "news" },
-    { "name": "The New Times",   "url": "https://www.newtimes.co.rw/rss.xml",                 "lang": "en", "category": "news", "enabled": false },
-    { "name": "Wikinews",        "url": "https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Africa&notcategories=No%20publish%7CArchived&namespace=0&count=15", "lang": "en", "category": "news" }
+    {"name": "BBC Gahuza", "url": "https://feeds.bbci.co.uk/gahuza/rss.xml", "lang": "rw", "category": "news"},
+    {"name": "BBC Africa", "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml", "lang": "en", "category": "news"},
+    {"name": "KT Press", "url": "https://www.ktpress.rw/feed/", "lang": "en", "category": "news"},
+    {"name": "Taarifa Rwanda", "url": "https://taarifa.rw/feed/", "lang": "en", "category": "news"},
+    {"name": "Igihe", "url": "https://www.igihe.com/spip.php?page=backend", "lang": "rw", "category": "news", "enabled": false},
+    {"name": "Kigali Today", "url": "https://www.kigalitoday.com/spip.php?page=backend", "lang": "rw", "category": "news"},
+    {"name": "The New Times", "url": "https://www.newtimes.co.rw/rss.xml", "lang": "en", "category": "news", "enabled": false},
+    {"name": "Wikinews", "url": "https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Africa&notcategories=No%20publish%7CArchived&namespace=0&count=15", "lang": "en", "category": "news", "enabled": false}
   ]
 }
