@@ -48,6 +48,29 @@ function safeUrl(u, base) {
 }
 function hash(s) { let h = 5381; for (let i = 0; i < s.length; i++) h = ((h << 5) + h + s.charCodeAt(i)) >>> 0; return h.toString(36); }
 
+
+/* ---------- picture of the story (free, from the feed itself) ---------- */
+const BAD_IMG = /pixel|tracker|tracking|1x1|spacer|blank\.|\/ads?\/|doubleclick|feedburner|gravatar|emoji|smilies/i;
+function pickImage(block, feedUrl) {
+  const cands = [];
+  const attr = (tagRe, name) => { let m, re = new RegExp(tagRe, "gi"); while ((m = re.exec(block))) { const a = m[0].match(new RegExp(name + "=[\"']([^\"']+)[\"']", "i")); if (a) cands.push({ u: decode(a[1]), t: m[0] }); } };
+  attr("<media:content[^>]*>", "url");
+  attr("<media:thumbnail[^>]*>", "url");
+  attr("<enclosure[^>]*>", "url");
+  attr("<link[^>]*rel=[\"']enclosure[\"'][^>]*>", "href");
+  const ok = c => /image|\.(jpe?g|png|webp|gif|avif)(\?|$)/i.test(c.t + " " + c.u) && !/video|audio/i.test(c.t.replace(/image/gi, ""));
+  let best = cands.filter(ok)[0];
+  let url = best ? best.u : "";
+  if (!url) {                                   // first <img> inside the story text (may be escaped as &lt;img)
+    const body = decode(tag(block, "content:encoded") || tag(block, "description") || tag(block, "content") || tag(block, "summary"));
+    const re = /<img[^>]+src=["']([^"']+)["']/gi; let m;
+    while ((m = re.exec(body))) { if (!BAD_IMG.test(m[1])) { url = decode(m[1]); break; } }
+  }
+  url = safeUrl(url, feedUrl);
+  if (!url || BAD_IMG.test(url)) return "";
+  return url.replace(/^http:\/\//i, "https://");  // https page cannot show http pictures
+}
+
 /* ---------- RSS / Atom parser (no dependencies) ---------- */
 function parseFeed(xml, feed) {
   const items = [];
@@ -68,7 +91,7 @@ function parseFeed(xml, feed) {
     const date = toIsoDate(tag(b, "pubDate") || tag(b, "published") || tag(b, "updated") || tag(b, "dc:date"));
     const cats = (b.match(/<category[^>]*>([\s\S]*?)<\/category>/gi) || []).map(c => clean(c, 40)).filter(Boolean).slice(0, 6);
     if (!title || !link) continue;
-    items.push({ title, link, summary: clean(desc, CFG.summaryChars) || title, date, cats });
+    items.push({ title, link, summary: clean(desc, CFG.summaryChars) || title, date, cats, image: pickImage(b, feed.url) });
   }
   return items;
 }
@@ -80,7 +103,8 @@ function parsePage(html, feed) {
   const title = clean(meta("og:title") || tag(html, "title"), 200);
   const summary = clean(meta("og:description") || meta("description"), CFG.summaryChars);
   const date = toIsoDate(meta("article:published_time")) || new Date().toISOString().slice(0, 10);
-  return title ? [{ title, link: feed.url, summary: summary || title, date, cats: [] }] : [];
+  const image = safeUrl(meta("og:image"), feed.url).replace(/^http:\/\//i, "https://");
+  return title ? [{ title, link: feed.url, summary: summary || title, date, cats: [], image }] : [];
 }
 
 /* ---------- robots.txt (simple, polite) ---------- */
@@ -130,6 +154,7 @@ function toArticle(it, feed) {
     lang: feed.lang || "en",
     keywords: kw
   };
+  if (it.image) { a.image = it.image; a.thumbnail = it.image; }
   if (feed.lang === "rw") { a.title_rw = it.title; a.summary_rw = it.summary; } else { a.title_en = it.title; a.summary_en = it.summary; }
   return a;
 }
@@ -191,6 +216,12 @@ function selftest() {
     ["atom: escaped html stripped", b[0].summary === "Sum x"],
     ["article: rw fields + id", art.title_rw === "Amatora & byinshi" && art.id.startsWith("crawl_")],
     ["merge: dedupe by link, newest first", merge([{ link: "x", date: "2026-11-01", title: "old" }], [{ link: "x", date: "2026-11-02", title: "new" }, { link: "y", date: "2026-11-03" }]).map(z => z.link).join() === "y,x"],
+    ["image: media:content", parseFeed('<rss><channel><item><title>T</title><link>https://ex.rw/1</link><media:content url="http://cdn.ex.rw/p.jpg?w=600&amp;h=1" medium="image"/></item></channel></rss>', { url: "https://ex.rw/f" })[0].image === "https://cdn.ex.rw/p.jpg?w=600&h=1"],
+    ["image: enclosure", parseFeed('<rss><channel><item><title>T</title><link>https://ex.rw/2</link><enclosure url="https://cdn.ex.rw/e.png" type="image/png" length="1"/></item></channel></rss>', { url: "https://ex.rw/f" })[0].image === "https://cdn.ex.rw/e.png"],
+    ["image: first <img> in escaped description (tracking pixel skipped)", parseFeed('<rss><channel><item><title>T</title><link>https://ex.rw/3</link><description>&lt;img src="https://x.rw/pixel.gif"&gt;&lt;img src="/uploads/a.jpg"&gt; text</description></item></channel></rss>', { url: "https://ex.rw/f" })[0].image === "https://ex.rw/uploads/a.jpg"],
+    ["image: audio enclosure ignored", parseFeed('<rss><channel><item><title>T</title><link>https://ex.rw/4</link><enclosure url="https://cdn.ex.rw/a.mp3" type="audio/mpeg"/></item></channel></rss>', { url: "https://ex.rw/f" })[0].image === ""],
+    ["atom: enclosure image link", parseFeed('<feed xmlns="http://www.w3.org/2005/Atom"><entry><title>A</title><link rel="alternate" href="https://ex.rw/5"/><link rel="enclosure" type="image/jpeg" href="https://cdn.ex.rw/z.jpg"/></entry></feed>', { url: "https://ex.rw/f" })[0].image === "https://cdn.ex.rw/z.jpg"],
+    ["article: image + thumbnail", toArticle({ title: "t", link: "https://ex.rw/6", summary: "s", date: "", cats: [], image: "https://i.rw/1.jpg" }, { name: "N" }).thumbnail === "https://i.rw/1.jpg"],
     ["javascript: links refused", safeUrl("javascript:alert(1)") === ""]
   ];
   let bad = 0; checks.forEach(([n, ok]) => { console.log((ok ? "PASS  " : "FAIL  ") + n); if (!ok) bad++; });
