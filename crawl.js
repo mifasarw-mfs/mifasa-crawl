@@ -15,6 +15,7 @@ const fs = require("fs"), path = require("path");
 const DIR = __dirname;
 const FEEDS_FILE = path.join(DIR, "crawl-feeds.json");
 const OUT_FILE = path.join(DIR, "crawl-news.json");
+const WORDS_FILE = path.join(DIR, "crawl-words.json");
 const UA = "MifasaCrawler/1.0 (+https://mifasarw.neocities.org; polite, free, reads public RSS only)";
 const CFG = { timeoutMs: 15000, delayMs: 1500, perFeed: 25, keepDays: 60, maxItems: 800, summaryChars: 400 };
 
@@ -139,6 +140,35 @@ async function fetchText(url, ms) {
   } finally { clearTimeout(t); }
 }
 
+
+/* ---------- vocabulary: words seen in the Kinyarwanda stories (the AI uses it to learn and to tell words apart) ---------- */
+const STOP = new Set(("abantu aba abo aho ari ariko ayo bari bose bwa bya cya cyangwa cyane gusa iby ibi ibyo iki icyo iyi iyo kandi kuko kuva kuri mbere muri nyuma nyamara nka none ntabwo nubwo rwa rya uko uku uyu uyu ubwo yari yavuze yavuzeko yose zose zari ngo ngira kugira kuba bari bavuga abandi abandi ubu ubwo icyakora byose bizakora byari akaba bikaba bamwe benshi mu na ku ya wa ba za bo yo ko no ni se maze hanyuma ahubwo kandi n'abo n'ibi").split(/\s+/));
+function tokens(text) {
+  return String(text || "").toLowerCase().normalize("NFC").split(/[^a-zà-ÿ]+/).filter(w => w.length >= 4 && !STOP.has(w));
+}
+function buildWords(items, max) {
+  const rw = items.filter(a => a && a.lang === "rw");
+  const df = new Map(), docs = [];
+  rw.forEach(a => {
+    const set = [...new Set(tokens((a.title || "") + " " + (a.summary || "")))];
+    docs.push({ a, set });
+    set.forEach(w => df.set(w, (df.get(w) || 0) + 1));
+  });
+  const kept = [...df.entries()].filter(([, n]) => n >= 2).sort((x, y) => y[1] - x[1] || x[0].localeCompare(y[0])).slice(0, max || 400);
+  const keep = new Set(kept.map(k => k[0]));
+  const out = kept.map(([w, n]) => {
+    const co = new Map(), ex = [];
+    docs.forEach(d => {
+      if (!d.set.includes(w)) return;
+      d.set.forEach(o => { if (o !== w && df.get(o) >= 2) co.set(o, (co.get(o) || 0) + 1); });
+      if (ex.length < 2) ex.push({ t: String(d.a.title).slice(0, 140), s: d.a.source || "", u: d.a.link });
+    });
+    const ctx = [...co.entries()].sort((x, y) => y[1] - x[1] || x[0].localeCompare(y[0])).slice(0, 6).map(e => e[0]);
+    return { w, n, ctx, ex };
+  });
+  return { generated: new Date().toISOString().slice(0, 10), stories: rw.length, words: out };
+}
+
 /* ---------- crawl ---------- */
 function toArticle(it, feed) {
   const kw = [...new Set([feed.name, feed.category, ...(feed.keywords || []), ...it.cats].filter(Boolean))].slice(0, 12);
@@ -195,7 +225,9 @@ async function main() {
   const all = merge(old, fresh);
   if (dry) { console.log(JSON.stringify(all.slice(0, 3), null, 1)); return; }
   fs.writeFileSync(OUT_FILE, JSON.stringify(all, null, 1) + "\n");
-  console.log(`crawl-news.json written: ${all.length} items. Upload it to neocities.`);
+  const w = buildWords(all, 400);
+  fs.writeFileSync(WORDS_FILE, JSON.stringify(w) + "\n");
+  console.log(`crawl-news.json written: ${all.length} items. crawl-words.json written: ${w.words.length} words from ${w.stories} Kinyarwanda stories. Upload both to neocities.`);
 }
 
 function selftest() {
@@ -222,6 +254,7 @@ function selftest() {
     ["image: audio enclosure ignored", parseFeed('<rss><channel><item><title>T</title><link>https://ex.rw/4</link><enclosure url="https://cdn.ex.rw/a.mp3" type="audio/mpeg"/></item></channel></rss>', { url: "https://ex.rw/f" })[0].image === ""],
     ["atom: enclosure image link", parseFeed('<feed xmlns="http://www.w3.org/2005/Atom"><entry><title>A</title><link rel="alternate" href="https://ex.rw/5"/><link rel="enclosure" type="image/jpeg" href="https://cdn.ex.rw/z.jpg"/></entry></feed>', { url: "https://ex.rw/f" })[0].image === "https://cdn.ex.rw/z.jpg"],
     ["article: image + thumbnail", toArticle({ title: "t", link: "https://ex.rw/6", summary: "s", date: "", cats: [], image: "https://i.rw/1.jpg" }, { name: "N" }).thumbnail === "https://i.rw/1.jpg"],
+    ["words: df>=2, stopwords out, examples + context", (() => { const it = [1,2,3].map(i => ({ lang: "rw", title: "Perezida avuze ku bukungu " + i, summary: "ubukungu bw'igihugu burazamuka", source: "S", link: "https://ex.rw/" + i })); it.push({ lang: "en", title: "Economy economy economy", summary: "", link: "https://ex.rw/e" }); const r = buildWords(it, 50); const w = r.words.find(x => x.w === "ubukungu"); return !!w && w.n === 3 && w.ex.length === 2 && w.ctx.includes("perezida") && !r.words.some(x => x.w === "economy" || x.w === "ibyo"); })()],
     ["javascript: links refused", safeUrl("javascript:alert(1)") === ""]
   ];
   let bad = 0; checks.forEach(([n, ok]) => { console.log((ok ? "PASS  " : "FAIL  ") + n); if (!ok) bad++; });
