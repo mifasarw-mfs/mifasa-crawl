@@ -15,7 +15,6 @@ const fs = require("fs"), path = require("path");
 const DIR = __dirname;
 const FEEDS_FILE = path.join(DIR, "crawl-feeds.json");
 const OUT_FILE = path.join(DIR, "crawl-news.json");
-const WORDS_FILE = path.join(DIR, "crawl-words.json");
 const UA = "MifasaCrawler/1.0 (+https://mifasarw.neocities.org; polite, free, reads public RSS only)";
 const CFG = { timeoutMs: 15000, delayMs: 1500, perFeed: 25, keepDays: 60, maxItems: 800, summaryChars: 400 };
 
@@ -49,29 +48,6 @@ function safeUrl(u, base) {
 }
 function hash(s) { let h = 5381; for (let i = 0; i < s.length; i++) h = ((h << 5) + h + s.charCodeAt(i)) >>> 0; return h.toString(36); }
 
-
-/* ---------- picture of the story (free, from the feed itself) ---------- */
-const BAD_IMG = /pixel|tracker|tracking|1x1|spacer|blank\.|\/ads?\/|doubleclick|feedburner|gravatar|emoji|smilies/i;
-function pickImage(block, feedUrl) {
-  const cands = [];
-  const attr = (tagRe, name) => { let m, re = new RegExp(tagRe, "gi"); while ((m = re.exec(block))) { const a = m[0].match(new RegExp(name + "=[\"']([^\"']+)[\"']", "i")); if (a) cands.push({ u: decode(a[1]), t: m[0] }); } };
-  attr("<media:content[^>]*>", "url");
-  attr("<media:thumbnail[^>]*>", "url");
-  attr("<enclosure[^>]*>", "url");
-  attr("<link[^>]*rel=[\"']enclosure[\"'][^>]*>", "href");
-  const ok = c => /image|\.(jpe?g|png|webp|gif|avif)(\?|$)/i.test(c.t + " " + c.u) && !/video|audio/i.test(c.t.replace(/image/gi, ""));
-  let best = cands.filter(ok)[0];
-  let url = best ? best.u : "";
-  if (!url) {                                   // first <img> inside the story text (may be escaped as &lt;img)
-    const body = decode(tag(block, "content:encoded") || tag(block, "description") || tag(block, "content") || tag(block, "summary"));
-    const re = /<img[^>]+src=["']([^"']+)["']/gi; let m;
-    while ((m = re.exec(body))) { if (!BAD_IMG.test(m[1])) { url = decode(m[1]); break; } }
-  }
-  url = safeUrl(url, feedUrl);
-  if (!url || BAD_IMG.test(url)) return "";
-  return url.replace(/^http:\/\//i, "https://");  // https page cannot show http pictures
-}
-
 /* ---------- RSS / Atom parser (no dependencies) ---------- */
 function parseFeed(xml, feed) {
   const items = [];
@@ -92,7 +68,7 @@ function parseFeed(xml, feed) {
     const date = toIsoDate(tag(b, "pubDate") || tag(b, "published") || tag(b, "updated") || tag(b, "dc:date"));
     const cats = (b.match(/<category[^>]*>([\s\S]*?)<\/category>/gi) || []).map(c => clean(c, 40)).filter(Boolean).slice(0, 6);
     if (!title || !link) continue;
-    items.push({ title, link, summary: clean(desc, CFG.summaryChars) || title, date, cats, image: pickImage(b, feed.url) });
+    items.push({ title, link, summary: clean(desc, CFG.summaryChars) || title, date, cats });
   }
   return items;
 }
@@ -104,8 +80,7 @@ function parsePage(html, feed) {
   const title = clean(meta("og:title") || tag(html, "title"), 200);
   const summary = clean(meta("og:description") || meta("description"), CFG.summaryChars);
   const date = toIsoDate(meta("article:published_time")) || new Date().toISOString().slice(0, 10);
-  const image = safeUrl(meta("og:image"), feed.url).replace(/^http:\/\//i, "https://");
-  return title ? [{ title, link: feed.url, summary: summary || title, date, cats: [], image }] : [];
+  return title ? [{ title, link: feed.url, summary: summary || title, date, cats: [] }] : [];
 }
 
 /* ---------- robots.txt (simple, polite) ---------- */
@@ -140,35 +115,6 @@ async function fetchText(url, ms) {
   } finally { clearTimeout(t); }
 }
 
-
-/* ---------- vocabulary: words seen in the Kinyarwanda stories (the AI uses it to learn and to tell words apart) ---------- */
-const STOP = new Set(("abantu aba abo aho ari ariko ayo bari bose bwa bya cya cyangwa cyane gusa iby ibi ibyo iki icyo iyi iyo kandi kuko kuva kuri mbere muri nyuma nyamara nka none ntabwo nubwo rwa rya uko uku uyu uyu ubwo yari yavuze yavuzeko yose zose zari ngo ngira kugira kuba bari bavuga abandi abandi ubu ubwo icyakora byose bizakora byari akaba bikaba bamwe benshi mu na ku ya wa ba za bo yo ko no ni se maze hanyuma ahubwo kandi n'abo n'ibi").split(/\s+/));
-function tokens(text) {
-  return String(text || "").toLowerCase().normalize("NFC").split(/[^a-zà-ÿ]+/).filter(w => w.length >= 4 && !STOP.has(w));
-}
-function buildWords(items, max) {
-  const rw = items.filter(a => a && a.lang === "rw");
-  const df = new Map(), docs = [];
-  rw.forEach(a => {
-    const set = [...new Set(tokens((a.title || "") + " " + (a.summary || "")))];
-    docs.push({ a, set });
-    set.forEach(w => df.set(w, (df.get(w) || 0) + 1));
-  });
-  const kept = [...df.entries()].filter(([, n]) => n >= 2).sort((x, y) => y[1] - x[1] || x[0].localeCompare(y[0])).slice(0, max || 400);
-  const keep = new Set(kept.map(k => k[0]));
-  const out = kept.map(([w, n]) => {
-    const co = new Map(), ex = [];
-    docs.forEach(d => {
-      if (!d.set.includes(w)) return;
-      d.set.forEach(o => { if (o !== w && df.get(o) >= 2) co.set(o, (co.get(o) || 0) + 1); });
-      if (ex.length < 2) ex.push({ t: String(d.a.title).slice(0, 140), s: d.a.source || "", u: d.a.link });
-    });
-    const ctx = [...co.entries()].sort((x, y) => y[1] - x[1] || x[0].localeCompare(y[0])).slice(0, 6).map(e => e[0]);
-    return { w, n, ctx, ex };
-  });
-  return { generated: new Date().toISOString().slice(0, 10), stories: rw.length, words: out };
-}
-
 /* ---------- crawl ---------- */
 function toArticle(it, feed) {
   const kw = [...new Set([feed.name, feed.category, ...(feed.keywords || []), ...it.cats].filter(Boolean))].slice(0, 12);
@@ -178,20 +124,19 @@ function toArticle(it, feed) {
     summary: it.summary,
     link: it.link,
     url: it.link,
-    date: it.date,
+    date: it.date || new Date().toISOString().slice(0, 10),   // no date in the feed -> first day we saw it
     source: feed.name,
     category: feed.category || "news",
     lang: feed.lang || "en",
     keywords: kw
   };
-  if (it.image) { a.image = it.image; a.thumbnail = it.image; }
   if (feed.lang === "rw") { a.title_rw = it.title; a.summary_rw = it.summary; } else { a.title_en = it.title; a.summary_en = it.summary; }
   return a;
 }
 
 function merge(oldItems, fresh) {
   const map = new Map();
-  [...oldItems, ...fresh].forEach(a => { if (a && a.link) map.set(a.link, { ...(map.get(a.link) || {}), ...a }); });
+  [...oldItems, ...fresh].forEach(a => { if (a && a.link) { const o = map.get(a.link) || {}; map.set(a.link, { ...o, ...a, date: o.date || a.date || "" }); } });   // first-seen date wins
   const cutoff = Date.now() - CFG.keepDays * 864e5;
   return [...map.values()]
     .filter(a => !a.date || new Date(a.date).getTime() >= cutoff)
@@ -205,7 +150,7 @@ async function main() {
   if (!fs.existsSync(FEEDS_FILE)) { console.error("crawl-feeds.json not found"); process.exit(1); }
   const feeds = JSON.parse(fs.readFileSync(FEEDS_FILE, "utf8")).feeds.filter(f => f.enabled !== false);
   const testOnly = args.includes("--test"), dry = args.includes("--dry");
-  const fresh = []; let ok = 0, bad = 0;
+  const fresh = []; let ok = 0, bad = 0; const status = [];
   for (const f of feeds) {
     try {
       if (!(await allowedByRobots(f.url))) { console.log("SKIP (robots.txt)  " + f.name); continue; }
@@ -213,8 +158,8 @@ async function main() {
       const items = f.type === "page" ? parsePage(body, f) : parseFeed(body, f);
       if (!items.length) throw new Error("no items found (is this really an RSS/Atom feed?)");
       console.log("OK    " + String(items.length).padStart(3) + " items  " + f.name);
-      items.forEach(it => fresh.push(toArticle(it, f))); ok++;
-    } catch (e) { console.log("FAIL  " + f.name + "  -> " + (e.name === "AbortError" ? "timeout" : e.message)); bad++; }
+      items.forEach(it => fresh.push(toArticle(it, f))); ok++; status.push({ name: f.name, ok: true, items: items.length });
+    } catch (e) { const why = e.name === "AbortError" ? "timeout" : e.message; console.log("FAIL  " + f.name + "  -> " + why); bad++; status.push({ name: f.name, ok: false, error: why }); }
     await sleep(CFG.delayMs);
   }
   console.log(`\n${ok} feeds ok, ${bad} failed, ${fresh.length} fresh items`);
@@ -225,9 +170,28 @@ async function main() {
   const all = merge(old, fresh);
   if (dry) { console.log(JSON.stringify(all.slice(0, 3), null, 1)); return; }
   fs.writeFileSync(OUT_FILE, JSON.stringify(all, null, 1) + "\n");
-  const w = buildWords(all, 400);
-  fs.writeFileSync(WORDS_FILE, JSON.stringify(w) + "\n");
-  console.log(`crawl-news.json written: ${all.length} items. crawl-words.json written: ${w.words.length} words from ${w.stories} Kinyarwanda stories. Upload both to neocities.`);
+  fs.writeFileSync(path.join(DIR, "crawl-words.json"), JSON.stringify(buildWords(all)) + "\n");
+  fs.writeFileSync(path.join(DIR, "crawl-status.json"), JSON.stringify({ updated: new Date().toISOString(), ok, failed: bad, fresh: fresh.length, total: all.length, feeds: status }, null, 1) + "\n");
+  console.log(`crawl-news.json written: ${all.length} items. Upload it to neocities.`);
+}
+
+/* ---------- crawl-words.json: frequent words of Kinyarwanda headlines (script.js reads {generated, stories, words:[{w,n,ex,ctx}]}) ---------- */
+const STOP = new Set("ariko kandi nawe nabo nayo ubwo ubundi uyu uyu buri muri mbere nyuma hagati kugira kuba bari baba abo iyo icyo iki iyi izi aba aya ayo ntabwo nta ibyo byose yose zose rwose cyane ngo kuko nuko none noneho umwaka umunsi mu ku ya wa rya cya bya za ba mba ibi iby uko kuri kugeza gusa niba hari hariho bwa bwo twe mwe bo we jye wowe".split(" "));
+function buildWords(all) {
+  const rw = all.filter(a => a.lang === "rw" && a.title);
+  const map = new Map();
+  rw.forEach((a, idx) => {
+    const ws = [...new Set((a.title + " " + (a.summary || "")).toLowerCase().replace(/[’‘`]/g, "'").match(/[a-zà-ÿ']{4,25}/g) || [])].filter(w => !STOP.has(w));
+    ws.forEach(w => {
+      const e = map.get(w) || { w, n: 0, ex: [], co: new Map() };
+      e.n++; if (e.ex.length < 3) e.ex.push({ t: a.title, u: a.link, s: a.source });
+      ws.forEach(o => { if (o !== w) e.co.set(o, (e.co.get(o) || 0) + 1); });
+      map.set(w, e);
+    });
+  });
+  const words = [...map.values()].filter(e => e.n >= 3).sort((x, y) => y.n - x.n).slice(0, 300)
+    .map(e => ({ w: e.w, n: e.n, ex: e.ex, ctx: [...e.co.entries()].sort((a, b) => b[1] - a[1]).slice(0, 6).map(x => x[0]) }));
+  return { generated: new Date().toISOString().slice(0, 10), stories: rw.length, words };
 }
 
 function selftest() {
@@ -248,13 +212,8 @@ function selftest() {
     ["atom: escaped html stripped", b[0].summary === "Sum x"],
     ["article: rw fields + id", art.title_rw === "Amatora & byinshi" && art.id.startsWith("crawl_")],
     ["merge: dedupe by link, newest first", merge([{ link: "x", date: "2026-11-01", title: "old" }], [{ link: "x", date: "2026-11-02", title: "new" }, { link: "y", date: "2026-11-03" }]).map(z => z.link).join() === "y,x"],
-    ["image: media:content", parseFeed('<rss><channel><item><title>T</title><link>https://ex.rw/1</link><media:content url="http://cdn.ex.rw/p.jpg?w=600&amp;h=1" medium="image"/></item></channel></rss>', { url: "https://ex.rw/f" })[0].image === "https://cdn.ex.rw/p.jpg?w=600&h=1"],
-    ["image: enclosure", parseFeed('<rss><channel><item><title>T</title><link>https://ex.rw/2</link><enclosure url="https://cdn.ex.rw/e.png" type="image/png" length="1"/></item></channel></rss>', { url: "https://ex.rw/f" })[0].image === "https://cdn.ex.rw/e.png"],
-    ["image: first <img> in escaped description (tracking pixel skipped)", parseFeed('<rss><channel><item><title>T</title><link>https://ex.rw/3</link><description>&lt;img src="https://x.rw/pixel.gif"&gt;&lt;img src="/uploads/a.jpg"&gt; text</description></item></channel></rss>', { url: "https://ex.rw/f" })[0].image === "https://ex.rw/uploads/a.jpg"],
-    ["image: audio enclosure ignored", parseFeed('<rss><channel><item><title>T</title><link>https://ex.rw/4</link><enclosure url="https://cdn.ex.rw/a.mp3" type="audio/mpeg"/></item></channel></rss>', { url: "https://ex.rw/f" })[0].image === ""],
-    ["atom: enclosure image link", parseFeed('<feed xmlns="http://www.w3.org/2005/Atom"><entry><title>A</title><link rel="alternate" href="https://ex.rw/5"/><link rel="enclosure" type="image/jpeg" href="https://cdn.ex.rw/z.jpg"/></entry></feed>', { url: "https://ex.rw/f" })[0].image === "https://cdn.ex.rw/z.jpg"],
-    ["article: image + thumbnail", toArticle({ title: "t", link: "https://ex.rw/6", summary: "s", date: "", cats: [], image: "https://i.rw/1.jpg" }, { name: "N" }).thumbnail === "https://i.rw/1.jpg"],
-    ["words: df>=2, stopwords out, examples + context", (() => { const it = [1,2,3].map(i => ({ lang: "rw", title: "Perezida avuze ku bukungu " + i, summary: "ubukungu bw'igihugu burazamuka", source: "S", link: "https://ex.rw/" + i })); it.push({ lang: "en", title: "Economy economy economy", summary: "", link: "https://ex.rw/e" }); const r = buildWords(it, 50); const w = r.words.find(x => x.w === "ubukungu"); return !!w && w.n === 3 && w.ex.length === 2 && w.ctx.includes("perezida") && !r.words.some(x => x.w === "economy" || x.w === "ibyo"); })()],
+    ["merge: empty fresh date keeps old date", merge([{ link: "k", date: "2026-11-01" }], [{ link: "k", date: "" }])[0].date === "2026-11-01"],
+    ["words: built from rw titles", buildWords([1,2,3].map(i => ({ lang: "rw", title: "Ubukungu bw'igihugu bwazamutse", link: "https://e/" + i, source: "T" }))).words.some(x => x.w === "ubukungu" && x.n === 3)],
     ["javascript: links refused", safeUrl("javascript:alert(1)") === ""]
   ];
   let bad = 0; checks.forEach(([n, ok]) => { console.log((ok ? "PASS  " : "FAIL  ") + n); if (!ok) bad++; });
