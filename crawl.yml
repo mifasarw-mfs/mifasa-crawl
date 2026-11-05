@@ -1,25 +1,42 @@
-# Runs the crawler every day for free on GitHub and uploads crawl-news.json + crawl-words.json to Neocities.
+# Runs the crawler automatically and uploads crawl-news.json + crawl-words.json to Neocities ONLY when something changed.
 # Needs the secret NEOCITIES_API_KEY (Settings > Secrets and variables > Actions).
+#
+# HOW OFTEN?  Change the cron line below:
+#   "*/30 * * * *"  every 30 minutes  -> fits GitHub's free minutes for a PRIVATE repo (about 1,500 of 2,000 a month)
+#   "*/5 * * * *"   every 5 minutes   -> the fastest GitHub allows. Use it only if the repo is PUBLIC (public repos have unlimited free minutes)
+# GitHub may start a run a few minutes late when it is busy. Seconds are not possible.
 name: mifasa-crawl
 on:
-  schedule: [{ cron: "0 5 * * *" }]
+  schedule: [{ cron: "*/5 * * * *" }]
   workflow_dispatch: {}
 permissions:
   contents: write
+concurrency:
+  group: mifasa-crawl
+  cancel-in-progress: false
 jobs:
   crawl:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
       - run: node crawl.js
       - name: Keep the new files in the repo
+        id: keep
         run: |
           git config user.name "mifasa-crawler"
           git config user.email "actions@users.noreply.github.com"
           git add crawl-news.json crawl-words.json
-          git commit -m "crawl: update news" || echo "no change"
-          git push || true
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Nothing new."
+          else
+            git commit -m "crawl: update news"
+            git push || true
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
       - name: Upload to Neocities
+        if: steps.keep.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
         env:
           NEOCITIES_API_KEY: ${{ secrets.NEOCITIES_API_KEY }}
         run: |
