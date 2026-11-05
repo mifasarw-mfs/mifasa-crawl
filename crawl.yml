@@ -1,8 +1,8 @@
-# OPTIONAL: runs the crawler every day for free on GitHub and uploads crawl-news.json to Neocities.
-# Setup: put this folder in a GitHub repo, then Settings > Secrets > Actions > add NEOCITIES_API_KEY (neocities.org/settings > API).
+# Runs the crawler every day for free on GitHub and uploads crawl-news.json + crawl-words.json to Neocities.
+# Needs the secret NEOCITIES_API_KEY (Settings > Secrets and variables > Actions).
 name: mifasa-crawl
 on:
-  schedule: [{ cron: "0 5 * * *" }]   # every day 05:00 UTC
+  schedule: [{ cron: "0 5 * * *" }]
   workflow_dispatch: {}
 permissions:
   contents: write
@@ -12,10 +12,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: node crawl.js
-      - name: Keep the new file in the repo
+      - name: Keep the new files in the repo
         run: |
-          git config user.name "mifasa-crawler"; git config user.email "actions@users.noreply.github.com"
-          git add crawl-news.json; git commit -m "crawl: update news" || echo "no change"; git push || true
+          git config user.name "mifasa-crawler"
+          git config user.email "actions@users.noreply.github.com"
+          git add crawl-news.json crawl-words.json
+          git commit -m "crawl: update news" || echo "no change"
+          git push || true
       - name: Upload to Neocities
-        env: { NEOCITIES_API_KEY: "${{ secrets.NEOCITIES_API_KEY }}" }
-        run: curl -fsS -H "Authorization: Bearer $NEOCITIES_API_KEY" -F "crawl-news.json=@crawl-news.json" https://neocities.org/api/upload
+        env:
+          NEOCITIES_API_KEY: ${{ secrets.NEOCITIES_API_KEY }}
+        run: |
+          curl -fsS -H "Authorization: Bearer $NEOCITIES_API_KEY" -F "crawl-news.json=@crawl-news.json" -F "crawl-words.json=@crawl-words.json" https://neocities.org/api/upload
