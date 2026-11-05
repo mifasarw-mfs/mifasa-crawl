@@ -1,13 +1,9 @@
-# Runs the crawler automatically and uploads crawl-news.json + crawl-words.json to Neocities ONLY when something changed.
+# Runs crawl.js and uploads crawl-news.json + crawl-words.json + crawl-status.json to Neocities.
 # Needs the secret NEOCITIES_API_KEY (Settings > Secrets and variables > Actions).
-#
-# HOW OFTEN?  Change the cron line below:
-#   "*/30 * * * *"  every 30 minutes  -> fits GitHub's free minutes for a PRIVATE repo (about 1,500 of 2,000 a month)
-#   "*/5 * * * *"   every 5 minutes   -> the fastest GitHub allows. Use it only if the repo is PUBLIC (public repos have unlimited free minutes)
-# GitHub may start a run a few minutes late when it is busy. Seconds are not possible.
+# Cron: "*/30 * * * *" = every 30 min (OK for a PRIVATE repo). Use "*/5 * * * *" ONLY if the repo is PUBLIC.
 name: mifasa-crawl
 on:
-  schedule: [{ cron: "*/5 * * * *" }]
+  schedule: [{ cron: "*/30 * * * *" }]
   workflow_dispatch: {}
 permissions:
   contents: write
@@ -22,22 +18,29 @@ jobs:
       - uses: actions/checkout@v4
       - run: node crawl.js
       - name: Keep the new files in the repo
-        id: keep
         run: |
           git config user.name "mifasa-crawler"
           git config user.email "actions@users.noreply.github.com"
-          git add crawl-news.json crawl-words.json
-          if git diff --cached --quiet; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "Nothing new."
-          else
+          git add -A crawl-news.json crawl-words.json crawl-status.json 2>/dev/null || true
+          if ! git diff --cached --quiet; then
             git commit -m "crawl: update news"
-            git push || true
-            echo "changed=true" >> "$GITHUB_OUTPUT"
+            git pull --rebase -q || true
+            git push || echo "::warning::push failed"
           fi
-      - name: Upload to Neocities
-        if: steps.keep.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+      - name: Upload to Neocities when the LIVE site differs
         env:
           NEOCITIES_API_KEY: ${{ secrets.NEOCITIES_API_KEY }}
         run: |
-          curl -fsS -H "Authorization: Bearer $NEOCITIES_API_KEY" -F "crawl-news.json=@crawl-news.json" -F "crawl-words.json=@crawl-words.json" https://neocities.org/api/upload
+          need=false
+          for f in crawl-news.json crawl-words.json; do
+            [ -f "$f" ] || continue
+            curl -fsS "https://mifasarw.neocities.org/$f?t=$(date +%s)" -o "live-$f" || : > "live-$f"
+            cmp -s "$f" "live-$f" || need=true
+          done
+          if [ "$need" = true ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            args=()
+            for f in crawl-news.json crawl-words.json crawl-status.json; do [ -f "$f" ] && args+=(-F "$f=@$f"); done
+            curl -fsS -H "Authorization: Bearer $NEOCITIES_API_KEY" "${args[@]}" https://neocities.org/api/upload
+          else
+            echo "Live site already up to date."
+          fi
