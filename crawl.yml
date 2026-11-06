@@ -1,10 +1,16 @@
-# Runs crawl.js and uploads crawl-news.json + crawl-words.json + crawl-status.json to Neocities.
-# Needs the secret NEOCITIES_API_KEY (Settings > Secrets and variables > Actions).
-# Cron: "*/30 * * * *" = every 30 min (OK for a PRIVATE repo). Use "*/5 * * * *" ONLY if the repo is PUBLIC.
+# MIFASA crawler on GitHub (free).
+#   every 5 minutes : RSS/Atom sources (news that changes fast)          -> node crawl.js --mode=fast
+#   every hour (:07) : sites WITHOUT RSS + Wikipedia knowledge topics     -> node crawl.js --mode=slow  +  node crawl-knowledge.js
+#   when you edit crawl-feeds.json / crawl-topics.json / the crawlers     -> everything at once
+# Uploads to Neocities ONLY when something changed. Needs the secret NEOCITIES_API_KEY.
 name: mifasa-crawl
 on:
-  schedule: [{ cron: "*/30 * * * *" }]
+  schedule:
+    - cron: "*/5 * * * *"
+    - cron: "7 * * * *"
   workflow_dispatch: {}
+  push:
+    paths: ["crawl-feeds.json", "crawl-topics.json", "crawl.js", "crawl-knowledge.js", ".github/workflows/crawl.yml"]
 permissions:
   contents: write
 concurrency:
@@ -13,34 +19,40 @@ concurrency:
 jobs:
   crawl:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
-      - run: node crawl.js
+      - name: Choose what to crawl
+        id: mode
+        env:
+          EVENT: ${{ github.event_name }}
+          SCHEDULE: ${{ github.event.schedule }}
+        run: |
+          if [ "$EVENT" = "schedule" ] && [ "$SCHEDULE" = "7 * * * *" ]; then echo "mode=slow" >> "$GITHUB_OUTPUT"
+          elif [ "$EVENT" = "schedule" ]; then echo "mode=fast" >> "$GITHUB_OUTPUT"
+          else echo "mode=all" >> "$GITHUB_OUTPUT"; fi
+      - name: Crawl news
+        run: node crawl.js --mode=${{ steps.mode.outputs.mode }}
+      - name: Update Wikipedia knowledge
+        if: steps.mode.outputs.mode != 'fast'
+        run: node crawl-knowledge.js
       - name: Keep the new files in the repo
+        id: keep
         run: |
           git config user.name "mifasa-crawler"
           git config user.email "actions@users.noreply.github.com"
-          git add -A crawl-news.json crawl-words.json crawl-status.json 2>/dev/null || true
-          if ! git diff --cached --quiet; then
-            git commit -m "crawl: update news"
-            git pull --rebase -q || true
-            git push || echo "::warning::push failed"
+          git add crawl-news.json crawl-words.json crawl-knowledge.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Nothing new."
+          else
+            git commit -m "crawl: update"
+            git push || true
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
-      - name: Upload to Neocities when the LIVE site differs
+      - name: Upload to Neocities
+        if: steps.keep.outputs.changed == 'true' || github.event_name != 'schedule'
         env:
           NEOCITIES_API_KEY: ${{ secrets.NEOCITIES_API_KEY }}
         run: |
-          need=false
-          for f in crawl-news.json crawl-words.json; do
-            [ -f "$f" ] || continue
-            curl -fsS "https://mifasarw.neocities.org/$f?t=$(date +%s)" -o "live-$f" || : > "live-$f"
-            cmp -s "$f" "live-$f" || need=true
-          done
-          if [ "$need" = true ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            args=()
-            for f in crawl-news.json crawl-words.json crawl-status.json; do [ -f "$f" ] && args+=(-F "$f=@$f"); done
-            curl -fsS -H "Authorization: Bearer $NEOCITIES_API_KEY" "${args[@]}" https://neocities.org/api/upload
-          else
-            echo "Live site already up to date."
-          fi
+          curl -fsS -H "Authorization: Bearer $NEOCITIES_API_KEY" -F "crawl-news.json=@crawl-news.json" -F "crawl-words.json=@crawl-words.json" -F "crawl-knowledge.json=@crawl-knowledge.json" https://neocities.org/api/upload

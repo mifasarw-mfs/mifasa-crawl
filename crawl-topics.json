@@ -1,0 +1,403 @@
+{
+ "_help": "List ENGLISH Wikipedia page titles in 'en' (the Kinyarwanda page is found automatically; add 'rw' only to force a title). category and keywords (Kinyarwanda words people may type) help MIFASA AI find the topic. enabled:false switches one off. A title that does not exist is only reported as MISS in the log.",
+ "topics": [
+  {
+   "en": "Rwanda",
+   "category": "rwanda",
+   "keywords": [
+    "u rwanda",
+    "igihugu cy'u rwanda"
+   ]
+  },
+  {
+   "en": "Kigali",
+   "category": "rwanda",
+   "keywords": [
+    "umujyi wa kigali"
+   ]
+  },
+  {
+   "en": "History of Rwanda",
+   "category": "rwanda",
+   "keywords": [
+    "amateka y'u rwanda"
+   ]
+  },
+  {
+   "en": "Geography of Rwanda",
+   "category": "rwanda"
+  },
+  {
+   "en": "Provinces of Rwanda",
+   "category": "rwanda",
+   "keywords": [
+    "intara"
+   ]
+  },
+  {
+   "en": "Districts of Rwanda",
+   "category": "rwanda",
+   "keywords": [
+    "uturere"
+   ]
+  },
+  {
+   "en": "Demographics of Rwanda",
+   "category": "rwanda"
+  },
+  {
+   "en": "Economy of Rwanda",
+   "category": "rwanda",
+   "keywords": [
+    "ubukungu bw'u rwanda"
+   ]
+  },
+  {
+   "en": "Education in Rwanda",
+   "category": "rwanda",
+   "keywords": [
+    "uburezi"
+   ]
+  },
+  {
+   "en": "Health in Rwanda",
+   "category": "rwanda",
+   "keywords": [
+    "ubuzima"
+   ]
+  },
+  {
+   "en": "Politics of Rwanda",
+   "category": "rwanda"
+  },
+  {
+   "en": "Culture of Rwanda",
+   "category": "rwanda",
+   "keywords": [
+    "umuco nyarwanda"
+   ]
+  },
+  {
+   "en": "Rwandan cuisine",
+   "category": "rwanda"
+  },
+  {
+   "en": "Music of Rwanda",
+   "category": "rwanda",
+   "keywords": [
+    "umuziki"
+   ]
+  },
+  {
+   "en": "Kinyarwanda",
+   "category": "rwanda",
+   "keywords": [
+    "ikinyarwanda"
+   ]
+  },
+  {
+   "en": "Rwandan franc",
+   "category": "rwanda",
+   "keywords": [
+    "amafaranga y'u rwanda",
+    "frw"
+   ]
+  },
+  {
+   "en": "Rwandan genocide",
+   "category": "rwanda"
+  },
+  {
+   "en": "Gacaca courts",
+   "category": "rwanda",
+   "keywords": [
+    "gacaca"
+   ]
+  },
+  {
+   "en": "Umuganda",
+   "category": "rwanda",
+   "keywords": [
+    "umuganda"
+   ]
+  },
+  {
+   "en": "Lake Kivu",
+   "category": "rwanda",
+   "keywords": [
+    "ikiyaga cya kivu"
+   ]
+  },
+  {
+   "en": "Volcanoes National Park",
+   "category": "rwanda",
+   "keywords": [
+    "pariki y'ibirunga"
+   ]
+  },
+  {
+   "en": "Nyungwe National Park",
+   "category": "rwanda",
+   "keywords": [
+    "nyungwe"
+   ]
+  },
+  {
+   "en": "Akagera National Park",
+   "category": "rwanda",
+   "keywords": [
+    "akagera"
+   ]
+  },
+  {
+   "en": "Mountain gorilla",
+   "category": "rwanda",
+   "keywords": [
+    "ingagi"
+   ]
+  },
+  {
+   "en": "Tour du Rwanda",
+   "category": "rwanda",
+   "keywords": [
+    "tour du rwanda"
+   ]
+  },
+  {
+   "en": "Rwanda national football team",
+   "category": "rwanda",
+   "keywords": [
+    "amavubi"
+   ]
+  },
+  {
+   "en": "Transport in Rwanda",
+   "category": "rwanda"
+  },
+  {
+   "en": "Kigali Convention Centre",
+   "category": "rwanda"
+  },
+  {
+   "en": "East African Community",
+   "category": "world",
+   "keywords": [
+    "eac"
+   ]
+  },
+  {
+   "en": "African Union",
+   "category": "world",
+   "keywords": [
+    "au"
+   ]
+  },
+  {
+   "en": "United Nations",
+   "category": "world",
+   "keywords": [
+    "umuryango w'abibumbye",
+    "onu"
+   ]
+  },
+  {
+   "en": "World Health Organization",
+   "category": "health",
+   "keywords": [
+    "oms",
+    "who"
+   ]
+  },
+  {
+   "en": "Africa",
+   "category": "geography",
+   "keywords": [
+    "afurika"
+   ]
+  },
+  {
+   "en": "East Africa",
+   "category": "geography"
+  },
+  {
+   "en": "Earth",
+   "category": "science",
+   "keywords": [
+    "isi",
+    "isi yacu"
+   ]
+  },
+  {
+   "en": "Solar System",
+   "category": "science"
+  },
+  {
+   "en": "Democracy",
+   "category": "world",
+   "keywords": [
+    "demokarasi"
+   ]
+  },
+  {
+   "en": "Human rights",
+   "category": "world",
+   "keywords": [
+    "uburenganzira bwa muntu"
+   ]
+  },
+  {
+   "en": "Climate change",
+   "category": "science",
+   "keywords": [
+    "imihindagurikire y'ikirere"
+   ]
+  },
+  {
+   "en": "Renewable energy",
+   "category": "science"
+  },
+  {
+   "en": "Electricity",
+   "category": "science",
+   "keywords": [
+    "amashanyarazi"
+   ]
+  },
+  {
+   "en": "Photosynthesis",
+   "category": "science"
+  },
+  {
+   "en": "Water cycle",
+   "category": "science"
+  },
+  {
+   "en": "Mathematics",
+   "category": "science",
+   "keywords": [
+    "imibare"
+   ]
+  },
+  {
+   "en": "Malaria",
+   "category": "health",
+   "keywords": [
+    "malariya"
+   ]
+  },
+  {
+   "en": "HIV/AIDS",
+   "category": "health",
+   "keywords": [
+    "sida",
+    "virusi itera sida"
+   ]
+  },
+  {
+   "en": "Tuberculosis",
+   "category": "health",
+   "keywords": [
+    "igituntu"
+   ]
+  },
+  {
+   "en": "Diabetes",
+   "category": "health",
+   "keywords": [
+    "diyabete"
+   ]
+  },
+  {
+   "en": "Vaccine",
+   "category": "health",
+   "keywords": [
+    "urukingo",
+    "inkingo"
+   ]
+  },
+  {
+   "en": "COVID-19",
+   "category": "health",
+   "keywords": [
+    "korona",
+    "covid"
+   ]
+  },
+  {
+   "en": "Nutrition",
+   "category": "health",
+   "keywords": [
+    "imirire"
+   ]
+  },
+  {
+   "en": "Artificial intelligence",
+   "category": "technology",
+   "keywords": [
+    "ai",
+    "ubwenge bw'ikoranabuhanga"
+   ]
+  },
+  {
+   "en": "Machine learning",
+   "category": "technology"
+  },
+  {
+   "en": "Large language model",
+   "category": "technology",
+   "keywords": [
+    "llm"
+   ]
+  },
+  {
+   "en": "Internet",
+   "category": "technology",
+   "keywords": [
+    "murandasi"
+   ]
+  },
+  {
+   "en": "World Wide Web",
+   "category": "technology",
+   "keywords": [
+    "urubuga"
+   ]
+  },
+  {
+   "en": "Mobile phone",
+   "category": "technology",
+   "keywords": [
+    "telefoni"
+   ]
+  },
+  {
+   "en": "Computer",
+   "category": "technology",
+   "keywords": [
+    "mudasobwa"
+   ]
+  },
+  {
+   "en": "Programming language",
+   "category": "technology"
+  },
+  {
+   "en": "JavaScript",
+   "category": "technology"
+  },
+  {
+   "en": "Python (programming language)",
+   "category": "technology",
+   "keywords": [
+    "python"
+   ]
+  },
+  {
+   "en": "Education",
+   "category": "society",
+   "keywords": [
+    "uburezi"
+   ]
+  }
+ ]
+}

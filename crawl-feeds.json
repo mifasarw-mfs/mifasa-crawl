@@ -1,5 +1,5 @@
 {
-  "_help": "Add or remove feeds. enabled:false switches one off. lang is rw or en. category is free text (news, politics, sports, tech, health...). Run: node crawl.js --test   to see which URLs really answer. type:'page' is for a site without RSS (reads only title + description of that one page).",
+  "_help": "Add or remove sources. enabled:false switches one off. lang is rw or en. category: news, sports, entertainment, tech, health, business, science, world. TYPES: (default) RSS/Atom feed, checked every 5 minutes.  \"type\":\"site\" = a site WITHOUT RSS: the crawler reads its front page, finds the story links and reads each story page (title, description, picture, time only), once an hour; optional \"max\" (stories per run) and \"include\" (a regex for story paths, e.g. \"^/inkuru/\") if the default guess is wrong.  \"type\":\"page\" = one single page. TIP: every WordPress site has a feed for each category page: add /feed/ to the category URL. Run: node crawl.js --test   to see which sources answer.",
   "feeds": [
     {"name": "BBC Gahuza", "url": "https://feeds.bbci.co.uk/gahuza/rss.xml", "lang": "rw", "category": "news"},
     {"name": "BBC Africa", "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml", "lang": "en", "category": "news"},
@@ -8,6 +8,23 @@
     {"name": "Igihe", "url": "https://www.igihe.com/spip.php?page=backend", "lang": "rw", "category": "news", "enabled": false},
     {"name": "Kigali Today", "url": "https://www.kigalitoday.com/spip.php?page=backend", "lang": "rw", "category": "news"},
     {"name": "The New Times", "url": "https://www.newtimes.co.rw/rss.xml", "lang": "en", "category": "news", "enabled": false},
-    {"name": "Wikinews", "url": "https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Africa&notcategories=No%20publish%7CArchived&namespace=0&count=15", "lang": "en", "category": "news", "enabled": false}
+    {"name": "Wikinews", "url": "https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Africa&notcategories=No%20publish%7CArchived&namespace=0&count=15", "lang": "en", "category": "news", "enabled": false},
+    {"name": "BBC Sport Africa", "url": "https://feeds.bbci.co.uk/sport/africa/rss.xml", "lang": "en", "category": "sports"},
+    {"name": "BBC Technology", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml", "lang": "en", "category": "tech"},
+    {"name": "BBC Health", "url": "https://feeds.bbci.co.uk/news/health/rss.xml", "lang": "en", "category": "health"},
+    {"name": "BBC Business", "url": "https://feeds.bbci.co.uk/news/business/rss.xml", "lang": "en", "category": "business"},
+    {"name": "BBC Science", "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml", "lang": "en", "category": "science"},
+    {"name": "BBC World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "lang": "en", "category": "world"},
+    {"name": "BBC Entertainment", "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml", "lang": "en", "category": "entertainment"},
+    {"name": "BBC Football", "url": "https://feeds.bbci.co.uk/sport/football/rss.xml", "lang": "en", "category": "sports"},
+    {"name": "KT Press Sports", "url": "https://www.ktpress.rw/category/sports/feed/", "lang": "en", "category": "sports"},
+    {"name": "Igihe (site)", "url": "https://igihe.com/", "type": "site", "max": 8, "lang": "rw", "category": "news"},
+    {"name": "Inyarwanda", "url": "https://inyarwanda.com/", "type": "site", "max": 8, "lang": "rw", "category": "entertainment"},
+    {"name": "Umuseke", "url": "https://umuseke.rw/", "type": "site", "max": 8, "lang": "rw", "category": "news"},
+    {"name": "RBA", "url": "https://www.rba.co.rw/", "type": "site", "max": 8, "lang": "rw", "category": "news"},
+    {"name": "The New Times", "url": "https://www.newtimes.co.rw/", "type": "site", "max": 8, "lang": "en", "category": "news"},
+    {"name": "arXiv AI research", "url": "https://export.arxiv.org/api/query?search_query=cat:cs.AI&sortBy=submittedDate&sortOrder=descending&max_results=12", "lang": "en", "category": "tech"},
+    {"name": "arXiv language research", "url": "https://export.arxiv.org/api/query?search_query=cat:cs.CL&sortBy=submittedDate&sortOrder=descending&max_results=12", "lang": "en", "category": "tech"},
+    {"name": "Hugging Face blog", "url": "https://huggingface.co/blog/feed.xml", "lang": "en", "category": "tech"}
   ]
 }
