@@ -1,5 +1,24 @@
 [
  {
+  "id": "crawl_iz1am",
+  "title": "Dormice 'thrive' at National Trust site",
+  "summary": "Killerton National Trust has 100 nest boxes across its estate in Devon.",
+  "link": "https://www.bbc.co.uk/news/articles/c50meerl8xp1o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c50meerl8xp1o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-08T12:22:05.000Z",
+  "source": "BBC Science",
+  "category": "science",
+  "lang": "en",
+  "keywords": [
+   "BBC Science",
+   "science"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c752/live/e92c4c00-d9ad-11f1-8903-3de9eeffdc2b.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c752/live/e92c4c00-d9ad-11f1-8903-3de9eeffdc2b.jpg",
+  "title_en": "Dormice 'thrive' at National Trust site",
+  "summary_en": "Killerton National Trust has 100 nest boxes across its estate in Devon."
+ },
+ {
   "id": "crawl_yl30xc",
   "title": "Last season difficult with injury and miscarriage - Muniz",
   "summary": "Fulham striker Rodrigo Muniz, who scored for his side in a 1-1 draw against Newcastle United, speaks of the struggles he endured last season.",
@@ -7540,6 +7559,25 @@
   "summary": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
   "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-03T20:30:00.000Z",
+  "source": "BBC Technology",
+  "category": "tech",
+  "lang": "en",
+  "keywords": [
+   "BBC Technology",
+   "tech"
+  ],
+  "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pl43cw.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pl43cw.jpg",
+  "title_en": "Tech Life",
+  "summary_en": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show."
+ },
+ {
+  "id": "crawl_1w5rm86",
+  "title": "Tech Life",
+  "summary": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
+  "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-03T20:30:00.000Z",
   "source": "BBC Technology",
   "category": "tech",
