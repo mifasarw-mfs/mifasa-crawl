@@ -201,6 +201,26 @@ async function allowedByRobots(url) {
   } catch (e) { return true; }
 }
 
+/* YouTube "most popular" (trending) per country: official YouTube Data API v3, needs the secret YOUTUBE_API_KEY (1 quota unit per call, free 10,000/day) */
+function ytVideosToItems(json, max) {
+  return ((json && json.items) || []).slice(0, max || 10).map(v => {
+    const s = v.snippet || {}, id = String(v.id || "");
+    if (!/^[\w-]{11}$/.test(id)) return null;
+    const th = s.thumbnails || {}, img = (th.high || th.medium || th.default || {}).url || "";
+    return { title: decode(s.title || "").trim(), link: "https://www.youtube.com/watch?v=" + id, summary: decode(s.description || "").replace(/\s+/g, " ").trim().slice(0, CFG.summaryChars),
+             date: toIsoDate(s.publishedAt), cats: ["trending"].concat((s.tags || []).slice(0, 3)), image: img.replace(/^http:/, "https:"), video: id };
+  }).filter(it => it && it.title);
+}
+async function youtubeTrending(f) {
+  const key = process.env.YOUTUBE_API_KEY;
+  if (!key) throw new Error("YOUTUBE_API_KEY is not set (GitHub: Settings > Secrets > Actions)");
+  if (!/^[A-Z]{2}$/.test(f.region || "")) throw new Error("\"region\" must be a 2-letter country code like RW");
+  const url = "https://www.googleapis.com/youtube/v3/videos?part=snippet&chart=mostPopular&maxResults=" + Math.min(f.max || 10, 50) + "&regionCode=" + f.region + (f.videoCategoryId ? "&videoCategoryId=" + f.videoCategoryId : "") + "&key=" + encodeURIComponent(key);
+  let body;
+  try { body = await fetchText(url); } catch (e) { throw new Error(e.message + " (YouTube API; 400/403 = key wrong, API not enabled or quota used)"); }   // never print the url: it holds the key
+  return ytVideosToItems(JSON.parse(body), f.max || 10);
+}
+
 async function fetchText(url, ms) {
   const ac = new AbortController(), t = setTimeout(() => ac.abort(), ms || CFG.timeoutMs);
   try {
@@ -331,9 +351,15 @@ async function main() {
     let f = f0;
     try {
       if (f0.type === "youtube") f = { ...f0, url: await youtubeFeedUrl(f0) };            // official public feed of a channel: no robots check needed
+      else if (f0.type === "youtube-trending") { /* official API, no robots check */ }
       else if (!(await allowedByRobots(f.url))) { console.log("SKIP (robots.txt)  " + f.name); continue; }
       let items;
-      if (f.type === "site") {
+      if (f.type === "youtube-trending") {
+        items = await youtubeTrending(f);
+        if (!items.length) throw new Error("no trending videos returned for " + f.region);
+        console.log("OK    " + String(items.length).padStart(3) + " trending  " + f.name);
+        items.forEach(it => fresh.push(toArticle(it, f))); ok++;
+      } else if (f.type === "site") {
         const r = await crawlSite(f, known); items = r.items;
         if (!items.length && !r.found) throw new Error("no story links found: set \"include\" (a regex for story paths) for this site");
         console.log("OK    " + String(items.length).padStart(3) + " new stories  " + f.name + "  (" + r.found + " new links seen)");
@@ -403,6 +429,7 @@ function selftest() {
     ["merge keeps the first-seen date of a known story", merge([{ link: "x", date: "2026-11-01T01:00:00.000Z" }], [{ link: "x", date: "2026-11-04T09:00:00.000Z", title: "t" }])[0].date === "2026-11-01T01:00:00.000Z"],
     ["youtube: atom entry -> video id, thumbnail, type video", (() => { const y = parseFeed('<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><entry><yt:videoId>dQw4w9WgXcQ</yt:videoId><title>Video nshya</title><link rel="alternate" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"/><published>2026-11-01T10:00:00+00:00</published><media:group><media:description>Ibisobanuro</media:description></media:group></entry></feed>', { url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC18ODLNtqXiW5nsEumf8cnQ" }); const a = toArticle(y[0], { name: "MIFASARW YouTube", type: "youtube", category: "entertainment", lang: "rw" }); return y.length === 1 && a.video && a.video.id === "dQw4w9WgXcQ" && a.type === "video" && a.thumbnail.includes("dQw4w9WgXcQ"); })()],
     ["youtube: channel id format", /^UC[\w-]{22}$/.test("UC18ODLNtqXiW5nsEumf8cnQ")],
+    ["youtube-trending: API json -> items with video id", (() => { const r = ytVideosToItems({ items: [{ id: "XWasJSROw2s", snippet: { title: "Indirimbo nshya", description: "Ibisobanuro  birebire", publishedAt: "2026-11-08T11:33:37Z", tags: ["a", "b"], thumbnails: { high: { url: "https://i.ytimg.com/vi/XWasJSROw2s/hqdefault.jpg" } } } }, { id: "bad", snippet: { title: "x" } }] }, 10); return r.length === 1 && r[0].video === "XWasJSROw2s" && r[0].link.endsWith("XWasJSROw2s") && r[0].cats[0] === "trending" && r[0].summary === "Ibisobanuro birebire"; })()],
     ["javascript: links refused", safeUrl("javascript:alert(1)") === ""]
   ];
   let bad = 0; checks.forEach(([n, ok]) => { console.log((ok ? "PASS  " : "FAIL  ") + n); if (!ok) bad++; });

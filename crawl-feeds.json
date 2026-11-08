@@ -1,23 +1,141 @@
 {
   "_help": "Add or remove feeds. enabled:false switches one off. lang is rw or en. category must be one of: news, sports, entertainment, tech, health, business, science, world (these become the filter buttons in the crawl box). TIP: every WordPress site has a feed for each category page: add /feed/ at the end of the category URL. Run: node crawl.js --test   to see which URLs really answer. type:'page' is for a site without RSS (reads only title + description of that one page).",
   "feeds": [
-    {"name": "BBC Gahuza", "url": "https://feeds.bbci.co.uk/gahuza/rss.xml", "lang": "rw", "category": "news"},
-    {"name": "BBC Africa", "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml", "lang": "en", "category": "news"},
-    {"name": "KT Press", "url": "https://www.ktpress.rw/feed/", "lang": "en", "category": "news"},
-    {"name": "Taarifa Rwanda", "url": "https://taarifa.rw/feed/", "lang": "en", "category": "news"},
-    {"name": "Igihe", "url": "https://www.igihe.com/spip.php?page=backend", "lang": "rw", "category": "news", "enabled": false},
-    {"name": "Kigali Today", "url": "https://www.kigalitoday.com/spip.php?page=backend", "lang": "rw", "category": "news"},
-    {"name": "The New Times", "url": "https://www.newtimes.co.rw/rss.xml", "lang": "en", "category": "news", "enabled": false},
-    {"name": "Wikinews", "url": "https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Africa&notcategories=No%20publish%7CArchived&namespace=0&count=15", "lang": "en", "category": "news", "enabled": false},
-    {"name": "BBC Sport Africa", "url": "https://feeds.bbci.co.uk/sport/africa/rss.xml", "lang": "en", "category": "sports"},
-    {"name": "BBC Technology", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml", "lang": "en", "category": "tech"},
-    {"name": "BBC Health", "url": "https://feeds.bbci.co.uk/news/health/rss.xml", "lang": "en", "category": "health"},
-    {"name": "BBC Business", "url": "https://feeds.bbci.co.uk/news/business/rss.xml", "lang": "en", "category": "business"},
-    {"name": "BBC Science", "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml", "lang": "en", "category": "science"},
-    {"name": "BBC World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "lang": "en", "category": "world"},
-    {"name": "BBC Entertainment", "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml", "lang": "en", "category": "entertainment"},
-    {"name": "BBC Football", "url": "https://feeds.bbci.co.uk/sport/football/rss.xml", "lang": "en", "category": "sports"},
-    {"name": "KT Press Sports", "url": "https://www.ktpress.rw/category/sports/feed/", "lang": "en", "category": "sports"},
-    {"name": "MIFASARW YouTube", "type": "youtube", "channel_id": "UC18ODLNtqXiW5nsEumf8cnQ", "lang": "rw", "category": "entertainment"}
+    {
+      "name": "BBC Gahuza",
+      "url": "https://feeds.bbci.co.uk/gahuza/rss.xml",
+      "lang": "rw",
+      "category": "news"
+    },
+    {
+      "name": "BBC Africa",
+      "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "lang": "en",
+      "category": "news"
+    },
+    {
+      "name": "KT Press",
+      "url": "https://www.ktpress.rw/feed/",
+      "lang": "en",
+      "category": "news"
+    },
+    {
+      "name": "Taarifa Rwanda",
+      "url": "https://taarifa.rw/feed/",
+      "lang": "en",
+      "category": "news"
+    },
+    {
+      "name": "Igihe",
+      "url": "https://www.igihe.com/spip.php?page=backend",
+      "lang": "rw",
+      "category": "news",
+      "enabled": false
+    },
+    {
+      "name": "Kigali Today",
+      "url": "https://www.kigalitoday.com/spip.php?page=backend",
+      "lang": "rw",
+      "category": "news"
+    },
+    {
+      "name": "The New Times",
+      "url": "https://www.newtimes.co.rw/rss.xml",
+      "lang": "en",
+      "category": "news",
+      "enabled": false
+    },
+    {
+      "name": "Wikinews",
+      "url": "https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Africa&notcategories=No%20publish%7CArchived&namespace=0&count=15",
+      "lang": "en",
+      "category": "news",
+      "enabled": false
+    },
+    {
+      "name": "BBC Sport Africa",
+      "url": "https://feeds.bbci.co.uk/sport/africa/rss.xml",
+      "lang": "en",
+      "category": "sports"
+    },
+    {
+      "name": "BBC Technology",
+      "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "lang": "en",
+      "category": "tech"
+    },
+    {
+      "name": "BBC Health",
+      "url": "https://feeds.bbci.co.uk/news/health/rss.xml",
+      "lang": "en",
+      "category": "health"
+    },
+    {
+      "name": "BBC Business",
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "lang": "en",
+      "category": "business"
+    },
+    {
+      "name": "BBC Science",
+      "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "lang": "en",
+      "category": "science"
+    },
+    {
+      "name": "BBC World",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "lang": "en",
+      "category": "world"
+    },
+    {
+      "name": "BBC Entertainment",
+      "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+      "lang": "en",
+      "category": "entertainment"
+    },
+    {
+      "name": "BBC Football",
+      "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
+      "lang": "en",
+      "category": "sports"
+    },
+    {
+      "name": "KT Press Sports",
+      "url": "https://www.ktpress.rw/category/sports/feed/",
+      "lang": "en",
+      "category": "sports"
+    },
+    {
+      "name": "MIFASARW YouTube",
+      "type": "youtube",
+      "channel_id": "UC18ODLNtqXiW5nsEumf8cnQ",
+      "lang": "rw",
+      "category": "entertainment"
+    },
+    {
+      "name": "YouTube Trending Rwanda",
+      "type": "youtube-trending",
+      "region": "RW",
+      "max": 10,
+      "lang": "rw",
+      "category": "entertainment"
+    },
+    {
+      "name": "YouTube Trending Kenya",
+      "type": "youtube-trending",
+      "region": "KE",
+      "max": 10,
+      "lang": "en",
+      "category": "entertainment"
+    },
+    {
+      "name": "YouTube Trending Uganda",
+      "type": "youtube-trending",
+      "region": "UG",
+      "max": 10,
+      "lang": "en",
+      "category": "entertainment"
+    }
   ]
 }
