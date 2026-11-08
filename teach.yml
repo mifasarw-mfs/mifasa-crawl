@@ -1,0 +1,50 @@
+# MIFASA teach (GitHub, ubuntu, AUTOMATIC): buri masaha 3 LLM yigisha MIFASA AI ubumenyi bw'ibanze bushya (ai16.json).
+# Nta Pull Request. Ibyemejwe n'umugenzuzi wa kabiri (fact-check) ni byo byonyine bikomeza. Gusiba ikitari cyo: siba entry ifite "auto": true muri ai16.json.
+# Secrets: GEMINI_API_KEY, NEOCITIES_API_KEY
+name: mifasa-teach
+on:
+  schedule:
+    - cron: "15 */3 * * *"
+  workflow_dispatch:
+    inputs:
+      category:
+        description: "Icyiciro (rwanda, science, health, technology, history, business, world, education, sports, safety, language, math, agriculture, environment, culture, finance), cyangwa ubusa"
+        required: false
+        default: ""
+permissions:
+  contents: write
+concurrency:
+  group: mifasa-teach
+  cancel-in-progress: false
+jobs:
+  teach:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - name: Teach new knowledge
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          MAX_TOPICS: "6"
+          TEACH_CATEGORY: ${{ github.event.inputs.category }}
+        run: node teach.js
+      - name: Keep ai16.json in the repo
+        id: keep
+        run: |
+          git config user.name "mifasa-teacher"
+          git config user.email "actions@users.noreply.github.com"
+          git add ai16.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Nothing new."
+          else
+            git commit -m "teach: new knowledge"
+            for i in 1 2 3; do git pull --rebase -q && git push && break || sleep 5; done
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Upload to Neocities
+        if: steps.keep.outputs.changed == 'true'
+        env:
+          NEOCITIES_API_KEY: ${{ secrets.NEOCITIES_API_KEY }}
+        run: |
+          curl -fsS -H "Authorization: Bearer $NEOCITIES_API_KEY" -F "ai16.json=@ai16.json" https://neocities.org/api/upload
