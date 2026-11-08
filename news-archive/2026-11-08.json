@@ -1,7 +1,47 @@
 {
  "day": "2026-11-08",
- "count": 68,
+ "count": 70,
  "articles": [
+  {
+   "id": "crawl_17lkpwt",
+   "title": "Seventh-tier Wimborne knock out League Two Crawley in FA Cup upset",
+   "summary": "Seventh-tier Wimborne Town beat League Two Crawley in a huge FA Cup upset, to reach round two of the competition for the first time in their history.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmy83620wq2wo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cmy83620wq2wo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-08T18:56:55.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a3b/live/3c193440-db99-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a3b/live/3c193440-db99-11f1-b441-2b33b063138f.jpg",
+   "title_en": "Seventh-tier Wimborne knock out League Two Crawley in FA Cup upset",
+   "summary_en": "Seventh-tier Wimborne Town beat League Two Crawley in a huge FA Cup upset, to reach round two of the competition for the first time in their history.",
+   "share_id": "MN202611_17lkpwty1e3"
+  },
+  {
+   "id": "crawl_1p7tvfd",
+   "title": "Dorgu makes dramatic impact - Man Utd v Aston Villa ratings",
+   "summary": "Man Utd fight back from two goals down twice in 4-4 draw with Aston Villa - but who did well and who didn't in player ratings?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwj34k7k54veo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwj34k7k54veo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-08T18:46:45.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6507/live/8fdebc40-dba2-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6507/live/8fdebc40-dba2-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "Dorgu makes dramatic impact - Man Utd v Aston Villa ratings",
+   "summary_en": "Man Utd fight back from two goals down twice in 4-4 draw with Aston Villa - but who did well and who didn't in player ratings?",
+   "share_id": "MN202611_1p7tvfdlstz"
+  },
   {
    "id": "crawl_m72asw",
    "title": "Female paramedic sustains multiple injuries in hospital assault",
@@ -1396,5 +1436,5 @@
    "share_id": "MN202611_1ws8grn11vl"
   }
  ],
- "updated": "2026-11-08T18:46:49.469Z"
+ "updated": "2026-11-08T19:11:02.684Z"
 }
