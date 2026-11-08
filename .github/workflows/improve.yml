@@ -1,0 +1,54 @@
+# MIFASA improve (GitHub, ubuntu, AUTOMATIC): buri masaha 2 LLM yigisha moteri (script.js) gusobanukirwa ibibazo bishya
+# ikoresheje IBISUBIZO WIYANDIKIYE (ai17.json = "alias" z'imvugo nshya). Buri alias igeragezwa na moteri ubwayo n'ibizamini byawe (mifasa_tests.json);
+# iyo hari ikizamini gishya gitsindwa, nta kintu cyandikwa. Gusiba ikitari cyo: siba entry ifite "auto": true muri ai17.json.
+# Secrets: GEMINI_API_KEY, EXPORT_TOKEN, WORKER_EXPORT_URL, NEOCITIES_API_KEY.  Repo ikeneye: improve.js, mifasa_tests.json (mu mizi).
+name: mifasa-improve
+on:
+  schedule:
+    - cron: "45 */2 * * *"
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: mifasa-improve
+  cancel-in-progress: false
+jobs:
+  improve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download the live engine and brain files
+        run: |
+          mkdir -p _site
+          for f in script.js dictionary.json grammar.json ai.json ai2json.json ai_core.json $(seq -f "ai%g.json" 3 16); do
+            curl -fsS -o "_site/$f" "https://mifasarw.neocities.org/$f" || rm -f "_site/$f"
+          done
+          ls _site
+      - name: Improve the engine
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          EXPORT_TOKEN: ${{ secrets.EXPORT_TOKEN }}
+          WORKER_EXPORT_URL: ${{ secrets.WORKER_EXPORT_URL }}
+          MAX_NEW: "12"
+        run: node improve.js
+      - name: Keep ai17.json in the repo
+        id: keep
+        run: |
+          git config user.name "mifasa-improver"
+          git config user.email "actions@users.noreply.github.com"
+          git add ai17.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Nothing new."
+          else
+            git commit -m "improve: new aliases"
+            for i in 1 2 3; do git pull --rebase -q && git push && break || sleep 5; done
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Upload to Neocities
+        if: steps.keep.outputs.changed == 'true'
+        env:
+          NEOCITIES_API_KEY: ${{ secrets.NEOCITIES_API_KEY }}
+        run: |
+          curl -fsS -H "Authorization: Bearer $NEOCITIES_API_KEY" -F "ai17.json=@ai17.json" https://neocities.org/api/upload
