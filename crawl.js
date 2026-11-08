@@ -18,6 +18,7 @@ const DIR = __dirname;
 const FEEDS_FILE = path.join(DIR, "crawl-feeds.json");
 const OUT_FILE = path.join(DIR, "crawl-news.json");
 const WORDS_FILE = path.join(DIR, "crawl-words.json");
+const ARCHIVE_DIR = path.join(DIR, "news-archive");          // PERMANENT archive: one file per DAY (news-archive/YYYY-MM-DD.json) + index.json, never pruned (crawl-news.json keeps only the last 60 days)
 const UA = "MifasaCrawler/1.0 (+https://mifasarw.neocities.org; polite, free, reads public RSS only)";
 const CFG = { timeoutMs: 15000, delayMs: 1500, perFeed: 25, keepDays: 60, maxItems: 800, summaryChars: 400 };
 
@@ -50,6 +51,9 @@ function safeUrl(u, base) {
   if (!String(u || "").trim()) return "";
   try { const x = new URL(String(u || "").trim(), base); return /^https?:$/.test(x.protocol) ? x.href : ""; } catch (e) { return ""; }
 }
+function monthOf(date) { const d = new Date(String(date || "")); return isNaN(d) ? new Date().toISOString().slice(0, 7) : d.toISOString().slice(0, 7); }
+function dayOf(date) { const d = new Date(String(date || "")); return isNaN(d) ? new Date().toISOString().slice(0, 10) : d.toISOString().slice(0, 10); }
+function permanentId(a) { const k = String(a.link || a.url || a.title || ""); return "MN" + monthOf(a.date).replace("-", "") + "_" + hash(k) + hash("~" + k).slice(-4); }   // same story = same id, forever
 function hash(s) { let h = 5381; for (let i = 0; i < s.length; i++) h = ((h << 5) + h + s.charCodeAt(i)) >>> 0; return h.toString(36); }
 
 
@@ -91,13 +95,30 @@ function parseFeed(xml, feed) {
       link = clean(tag(b, "link")) || clean(tag(b, "guid"));
     }
     link = safeUrl(link, feed.url);
-    const desc = tag(b, "description") || tag(b, "summary") || tag(b, "content:encoded") || tag(b, "content");
+    const desc = tag(b, "description") || tag(b, "summary") || tag(b, "content:encoded") || tag(b, "content") || tag(b, "media:description");
     const date = toIsoDate(tag(b, "pubDate") || tag(b, "published") || tag(b, "updated") || tag(b, "dc:date"));
     const cats = (b.match(/<category[^>]*>([\s\S]*?)<\/category>/gi) || []).map(c => clean(c, 40)).filter(Boolean).slice(0, 6);
     if (!title || !link) continue;
-    items.push({ title, link, summary: clean(desc, CFG.summaryChars) || title, date, cats, image: pickImage(b, feed.url) });
+    const vid = ((b.match(/<yt:videoId>([\w-]{11})<\/yt:videoId>/i) || [])[1]) || ((/^https?:\/\/(?:www\.|m\.)?youtube\.com\/watch/i.test(link) && (link.match(/[?&]v=([\w-]{11})/) || [])[1]) || "");
+    items.push({ title, link, summary: clean(desc, CFG.summaryChars) || title, date, cats, image: pickImage(b, feed.url), video: vid });
   }
   return items;
+}
+
+/* YouTube channel without any API key: the channel's public Atom feed.  Feed entry:  { "name":"MIFASARW YouTube", "type":"youtube", "handle":"@mifasarw", "category":"video", "lang":"rw" }
+   (or "channel_id":"UC..." which is safest).  The handle is turned into the channel id by reading the channel page. */
+async function youtubeFeedUrl(f) {
+  if (f.url) return f.url;
+  let id = String(f.channel_id || "").trim();
+  if (!/^UC[\w-]{22}$/.test(id)) {
+    const h = String(f.handle || "").trim().replace(/^@?/, "@");
+    if (h.length < 3) throw new Error("youtube source needs channel_id or handle");
+    const html = await fetchText("https://www.youtube.com/" + h);
+    const m = html.match(/"channelId":"(UC[\w-]{22})"/) || html.match(/channel\/(UC[\w-]{22})/);
+    if (!m) throw new Error("could not find the channel id for " + h + " (put \"channel_id\" in crawl-feeds.json)");
+    id = m[1];
+  }
+  return "https://www.youtube.com/feeds/videos.xml?channel_id=" + id;
 }
 
 /* ---------- pages: for sites WITHOUT an RSS feed ---------- */
@@ -233,6 +254,7 @@ function toArticle(it, feed) {
     lang: feed.lang || "en",
     keywords: kw
   };
+  if (it.video) { a.video = { provider: "youtube", id: it.video }; a.type = "video"; a.keywords = [...new Set([...a.keywords, "video"])].slice(0, 12); it.image = it.image || ("https://i.ytimg.com/vi/" + it.video + "/hqdefault.jpg"); }
   if (it.image) { a.image = it.image; a.thumbnail = it.image; }
   if (feed.lang === "rw") { a.title_rw = it.title; a.summary_rw = it.summary; } else { a.title_en = it.title; a.summary_en = it.summary; }
   return a;
@@ -243,13 +265,53 @@ function merge(oldItems, fresh) {
   [...oldItems, ...fresh].forEach(a => {
     if (!a || !a.link) return;
     const before = map.get(a.link);
-    map.set(a.link, { ...(before || {}), ...a, ...(before && before.date ? { date: before.date } : {}) });   // first-seen date stays
+    map.set(a.link, { ...(before || {}), ...a, ...(before && before.date ? { date: before.date } : {}), ...(before && before.share_id ? { share_id: before.share_id } : {}) });   // first-seen date and first id stay
   });
   const cutoff = Date.now() - CFG.keepDays * 864e5;
   return [...map.values()]
     .filter(a => !a.date || new Date(a.date).getTime() >= cutoff)
     .sort((a, b) => String(b.date || "").localeCompare(String(a.date || "")))
     .slice(0, CFG.maxItems);
+}
+
+/* ---------- permanent ids + monthly archive ---------- */
+function ensureIds(items) { items.forEach(a => { if (!a.share_id) a.share_id = permanentId(a); }); return items; }
+
+function archiveItems(items) {
+  /* Adds every story to news-archive/YYYY-MM-DD.json (by its date). Append-only: a stored story is never removed or re-numbered; only missing fields are filled.
+     Returns the list of archive files that changed (so the workflow uploads only those). */
+  fs.mkdirSync(ARCHIVE_DIR, { recursive: true });
+  const byDay = new Map();
+  items.forEach(a => { if (!a || !a.link) return; const m = dayOf(a.date); if (!byDay.has(m)) byDay.set(m, []); byDay.get(m).push(a); });
+  const changed = [];
+  for (const [m, list] of byDay) {
+    const file = path.join(ARCHIVE_DIR, m + ".json");
+    let doc = { day: m, count: 0, articles: [] };
+    try { const j = JSON.parse(fs.readFileSync(file, "utf8")); if (j && Array.isArray(j.articles)) doc = j; } catch (e) {}
+    const have = new Map(doc.articles.map(a => [a.link, a]));
+    let dirty = false;
+    for (const a of list) {
+      const old = have.get(a.link);
+      if (!old) { const copy = { ...a }; doc.articles.push(copy); have.set(a.link, copy); dirty = true; }
+      else for (const k of Object.keys(a)) if (old[k] === undefined || old[k] === "") { old[k] = a[k]; dirty = true; }       // fill gaps only; ids and dates never change
+    }
+    if (!dirty) continue;
+    doc.articles.sort((x, y) => String(y.date || "").localeCompare(String(x.date || "")));
+    doc.count = doc.articles.length; doc.updated = new Date().toISOString();
+    fs.writeFileSync(file, JSON.stringify(doc, null, 1) + "\n");
+    changed.push("news-archive/" + m + ".json");
+  }
+  /* index of all days (small file the site can read first) */
+  const months = fs.readdirSync(ARCHIVE_DIR).filter(f => /^\d{4}-\d{2}-\d{2}\.json$/.test(f)).sort().reverse().map(f => {
+    let n = 0; try { n = JSON.parse(fs.readFileSync(path.join(ARCHIVE_DIR, f), "utf8")).count || 0; } catch (e) {}
+    return { day: f.slice(0, 10), file: "news-archive/" + f, count: n };
+  });
+  const idx = { updated: new Date().toISOString(), total: months.reduce((s, x) => s + x.count, 0), days: months };
+  const idxFile = path.join(ARCHIVE_DIR, "index.json");
+  let prev = ""; try { prev = fs.readFileSync(idxFile, "utf8"); } catch (e) {}
+  const prevCmp = prev ? JSON.stringify({ ...JSON.parse(prev), updated: 0 }) : "";
+  if (prevCmp !== JSON.stringify({ ...idx, updated: 0 })) { fs.writeFileSync(idxFile, JSON.stringify(idx, null, 1) + "\n"); changed.push("news-archive/index.json"); }
+  return changed;
 }
 
 async function main() {
@@ -265,9 +327,11 @@ async function main() {
   const known = new Set(old.map(a => a.link));
   const fresh = []; let ok = 0, bad = 0;
   console.log(`mode: ${mode}, ${feeds.length} sources`);
-  for (const f of feeds) {
+  for (const f0 of feeds) {
+    let f = f0;
     try {
-      if (!(await allowedByRobots(f.url))) { console.log("SKIP (robots.txt)  " + f.name); continue; }
+      if (f0.type === "youtube") f = { ...f0, url: await youtubeFeedUrl(f0) };            // official public feed of a channel: no robots check needed
+      else if (!(await allowedByRobots(f.url))) { console.log("SKIP (robots.txt)  " + f.name); continue; }
       let items;
       if (f.type === "site") {
         const r = await crawlSite(f, known); items = r.items;
@@ -276,7 +340,7 @@ async function main() {
         items.forEach(it => fresh.push(toArticle(it, f))); ok++;
       } else {
         const body = await fetchText(f.url);
-        items = f.type === "page" ? parsePage(body, f) : parseFeed(body, f);
+        items = f.type === "page" ? parsePage(body, f) : parseFeed(body, f);   // "rss", "atom" and "youtube" all use parseFeed
         if (!items.length) throw new Error("no items found (is this really an RSS/Atom feed?)");
         console.log("OK    " + String(items.length).padStart(3) + " items  " + f.name);
         items.forEach(it => fresh.push(toArticle(it, f))); ok++;
@@ -287,9 +351,11 @@ async function main() {
   console.log(`\n${ok} feeds ok, ${bad} failed, ${fresh.length} fresh items`);
   if (testOnly) return;
   if (!fresh.length) { console.log("Nothing fresh: crawl-news.json left unchanged."); return; }   // never wipe the file when offline
-  const all = merge(old, fresh);
+  const all = ensureIds(merge(old, fresh));
   if (dry) { console.log(JSON.stringify(all.slice(0, 3), null, 1)); return; }
   fs.writeFileSync(OUT_FILE, JSON.stringify(all, null, 1) + "\n");
+  const arch = archiveItems(all);
+  console.log(`archive: ${arch.length} file(s) changed` + (arch.length ? " -> " + arch.join(", ") : ""));
   const w = buildWords(all, 400);
   fs.writeFileSync(WORDS_FILE, JSON.stringify(w) + "\n");
   const dayCount = {}; all.forEach(a => { const d = String(a.date || "").slice(0, 10); dayCount[d] = (dayCount[d] || 0) + 1; });

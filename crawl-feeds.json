@@ -1,5 +1,5 @@
 {
-  "_help": "Add or remove sources. enabled:false switches one off. lang is rw or en. category: news, sports, entertainment, tech, health, business, science, world. TYPES: (default) RSS/Atom feed, checked every 5 minutes.  \"type\":\"site\" = a site WITHOUT RSS: the crawler reads its front page, finds the story links and reads each story page (title, description, picture, time only), once an hour; optional \"max\" (stories per run) and \"include\" (a regex for story paths, e.g. \"^/inkuru/\") if the default guess is wrong.  \"type\":\"page\" = one single page. TIP: every WordPress site has a feed for each category page: add /feed/ to the category URL. Run: node crawl.js --test   to see which sources answer.",
+  "_help": "Add or remove feeds. enabled:false switches one off. lang is rw or en. category must be one of: news, sports, entertainment, tech, health, business, science, world (these become the filter buttons in the crawl box). TIP: every WordPress site has a feed for each category page: add /feed/ at the end of the category URL. Run: node crawl.js --test   to see which URLs really answer. type:'page' is for a site without RSS (reads only title + description of that one page).",
   "feeds": [
     {"name": "BBC Gahuza", "url": "https://feeds.bbci.co.uk/gahuza/rss.xml", "lang": "rw", "category": "news"},
     {"name": "BBC Africa", "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml", "lang": "en", "category": "news"},
@@ -18,13 +18,6 @@
     {"name": "BBC Entertainment", "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml", "lang": "en", "category": "entertainment"},
     {"name": "BBC Football", "url": "https://feeds.bbci.co.uk/sport/football/rss.xml", "lang": "en", "category": "sports"},
     {"name": "KT Press Sports", "url": "https://www.ktpress.rw/category/sports/feed/", "lang": "en", "category": "sports"},
-    {"name": "Igihe (site)", "url": "https://igihe.com/", "type": "site", "max": 8, "lang": "rw", "category": "news"},
-    {"name": "Inyarwanda", "url": "https://inyarwanda.com/", "type": "site", "max": 8, "lang": "rw", "category": "entertainment"},
-    {"name": "Umuseke", "url": "https://umuseke.rw/", "type": "site", "max": 8, "lang": "rw", "category": "news"},
-    {"name": "RBA", "url": "https://www.rba.co.rw/", "type": "site", "max": 8, "lang": "rw", "category": "news"},
-    {"name": "The New Times", "url": "https://www.newtimes.co.rw/", "type": "site", "max": 8, "lang": "en", "category": "news"},
-    {"name": "arXiv AI research", "url": "https://export.arxiv.org/api/query?search_query=cat:cs.AI&sortBy=submittedDate&sortOrder=descending&max_results=12", "lang": "en", "category": "tech"},
-    {"name": "arXiv language research", "url": "https://export.arxiv.org/api/query?search_query=cat:cs.CL&sortBy=submittedDate&sortOrder=descending&max_results=12", "lang": "en", "category": "tech"},
-    {"name": "Hugging Face blog", "url": "https://huggingface.co/blog/feed.xml", "lang": "en", "category": "tech"}
+    {"name": "MIFASARW YouTube", "type": "youtube", "channel_id": "UC18ODLNtqXiW5nsEumf8cnQ", "lang": "rw", "category": "entertainment"}
   ]
 }
