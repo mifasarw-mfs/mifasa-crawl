@@ -386,6 +386,102 @@
    ],
    "auto": true,
    "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_1fa6e3f4_q",
+   "label_rw": "Gucunga Umutungo",
+   "label_en": "Budgeting Basics",
+   "patterns_en": [
+    "What is the importance of budgeting?",
+    "How can you create a personal budget?",
+    "How do you avoid unnecessary debt?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyiza cyo gucunga umutungo?",
+    "Wategura ute ingengo y'imari yawe?",
+    "Ni gute wakwirinda imyenda idakenewe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gucunga umutungo ni uburyo bwo gutegura uko amafaranga azakoreshwa mu gihe kizaza. Bifasha umuntu kumenya aho amafaranga ava n'aho ajya. Gutegura ingengo y'imari bituma umuntu abasha kwizigamira no kwirinda imyenda idakenewe.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Budgeting is the process of creating a plan to spend and save money. It helps individuals track their income and expenses. Effective financial planning enables people to build savings and avoid unnecessary debt.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_c21d665c_q",
+   "label_rw": "Gusobanukirwa Umwenda",
+   "label_en": "Understanding Debt",
+   "patterns_en": [
+    "What is debt?",
+    "How is debt repaid?",
+    "What are the consequences of bad debt?"
+   ],
+   "patterns_rw": [
+    "Umwenda ni iki?",
+    "Ni gute umwenda wishyurwa?",
+    "Ni izihe ngaruka z'umwenda mubi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Umwenda ni amafaranga umuntu cyangwa ikigo gifata kuwundi muntu cyangwa banki, akaba agomba kwishyurwa hamwe n'inyungu. Kwishyura umwenda ku gihe bifasha kubaka amateka meza y'imari bikorohereza umuntukongera gufata inguzanyo mu gihe kizaza. Gicungwa nabi, umwenda ushobora guteza ibibazo bikomeye by'ubukungu.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Debt is money borrowed from a lender, usually a bank, that must be repaid with interest. Repaying debt on time helps build a good credit history and makes it easier to borrow in the future. Mismanaged debt can lead to severe financial difficulties.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_0b0b6795_q",
+   "label_rw": "Serivisi za Banki",
+   "label_en": "Banking Services",
+   "patterns_en": [
+    "What are the basic services provided by a bank?",
+    "How can I open a bank account?",
+    "What is a bank loan used for?"
+   ],
+   "patterns_rw": [
+    "Ni izihe serivisi z'ibanze zitangwa na banki?",
+    "Twafungura dute konti muri banki?",
+    "Inguzanyo ya banki ikoreshwa mu ki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Serivisi za banki ni ibikorwa byose banki itanga bifasha abantu n'ibigo kubika amafaranga, kuyohereza, no gufata inguzanyo. Zirimo konti zo kubikamo no gusohora amafaranga, kwishyura fagitire, no gutanga inguzanyo zo guteza imbere ubucuruzi cyangwa imishinga y'abaturage.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Banking services are financial activities provided by banks to help individuals and institutions save money, transfer funds, and borrow. They typically include savings and checking accounts, bill payments, and loans to support business growth and personal projects.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_9c72b439_q",
+   "label_rw": "Ubumenyi bw'Ubwishingizi",
+   "label_en": "Insurance Concepts",
+   "patterns_en": [
+    "What is insurance?",
+    "What are the types of insurance available?",
+    "Why is insurance important?"
+   ],
+   "patterns_rw": [
+    "Ubishingizi ni iki?",
+    "Ni izihe nzego z'ubwishingizi zihari?",
+    "Kuki ubwishingizi ari ingenzi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubwishingizi ni amasezerano aho umuntu cyangwa ikigo bishyura amafaranga ku kigo cy'ubwishingizi, maze icyo kigo kikishyura ibyangiritse mu bihe by'ibyago. Bitanga umutekano w'umutungo n'abantu. Hari ubwishingizi bw'ubuzima, ubw'imodoka, ndetse n'ubw'imitungo itandukanye.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Insurance is a contract where an individual or organization pays a fee to an insurance company, which then covers losses during unexpected events. It provides financial security for assets and people. Common types include health, motor vehicle, and property insurance.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
   }
  ],
  "knowledge": [
@@ -703,6 +799,85 @@
     "abashyitsi",
     "visitors",
     "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_1fa6e3f4",
+   "category": "finance",
+   "title_rw": "Gucunga Umutungo",
+   "title_en": "Budgeting Basics",
+   "summary_rw": "Gucunga umutungo ni uburyo bwo gutegura uko amafaranga azakoreshwa mu gihe kizaza. Bifasha umuntu kumenya aho amafaranga ava n'aho ajya. Gutegura ingengo y'imari bituma umuntu abasha kwizigamira no kwirinda imyenda idakenewe.",
+   "summary_en": "Budgeting is the process of creating a plan to spend and save money. It helps individuals track their income and expenses. Effective financial planning enables people to build savings and avoid unnecessary debt.",
+   "keywords": [
+    "umutungo",
+    "budget",
+    "amafaranga",
+    "money",
+    "kwizigamira",
+    "savings",
+    "imari",
+    "finance"
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_c21d665c",
+   "category": "finance",
+   "title_rw": "Gusobanukirwa Umwenda",
+   "title_en": "Understanding Debt",
+   "summary_rw": "Umwenda ni amafaranga umuntu cyangwa ikigo gifata kuwundi muntu cyangwa banki, akaba agomba kwishyurwa hamwe n'inyungu. Kwishyura umwenda ku gihe bifasha kubaka amateka meza y'imari bikorohereza umuntukongera gufata inguzanyo mu gihe kizaza. Gicungwa nabi, umwenda ushobora guteza ibibazo bikomeye by'ubukungu.",
+   "summary_en": "Debt is money borrowed from a lender, usually a bank, that must be repaid with interest. Repaying debt on time helps build a good credit history and makes it easier to borrow in the future. Mismanaged debt can lead to severe financial difficulties.",
+   "keywords": [
+    "umwenda",
+    "debt",
+    "amafaranga",
+    "money",
+    "banki",
+    "bank",
+    "inyungu",
+    "interest"
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_0b0b6795",
+   "category": "finance",
+   "title_rw": "Serivisi za Banki",
+   "title_en": "Banking Services",
+   "summary_rw": "Serivisi za banki ni ibikorwa byose banki itanga bifasha abantu n'ibigo kubika amafaranga, kuyohereza, no gufata inguzanyo. Zirimo konti zo kubikamo no gusohora amafaranga, kwishyura fagitire, no gutanga inguzanyo zo guteza imbere ubucuruzi cyangwa imishinga y'abaturage.",
+   "summary_en": "Banking services are financial activities provided by banks to help individuals and institutions save money, transfer funds, and borrow. They typically include savings and checking accounts, bill payments, and loans to support business growth and personal projects.",
+   "keywords": [
+    "banki",
+    "amafaranga",
+    "konti",
+    "inguzanyo",
+    "ubwizigame",
+    "banking",
+    "money",
+    "account"
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_9c72b439",
+   "category": "finance",
+   "title_rw": "Ubumenyi bw'Ubwishingizi",
+   "title_en": "Insurance Concepts",
+   "summary_rw": "Ubwishingizi ni amasezerano aho umuntu cyangwa ikigo bishyura amafaranga ku kigo cy'ubwishingizi, maze icyo kigo kikishyura ibyangiritse mu bihe by'ibyago. Bitanga umutekano w'umutungo n'abantu. Hari ubwishingizi bw'ubuzima, ubw'imodoka, ndetse n'ubw'imitungo itandukanye.",
+   "summary_en": "Insurance is a contract where an individual or organization pays a fee to an insurance company, which then covers losses during unexpected events. It provides financial security for assets and people. Common types include health, motor vehicle, and property insurance.",
+   "keywords": [
+    "ubwishingizi",
+    "insurance",
+    "amafaranga",
+    "ibyago",
+    "amasezerano",
+    "umutungo",
+    "finance"
    ],
    "auto": true,
    "taught": "2026-11-08"
