@@ -339,7 +339,13 @@ async function main() {
         console.log("OK    " + String(items.length).padStart(3) + " new stories  " + f.name + "  (" + r.found + " new links seen)");
         items.forEach(it => fresh.push(toArticle(it, f))); ok++;
       } else {
-        const body = await fetchText(f.url);
+        let body;
+        if (f.type === "youtube") {                       // YouTube sometimes answers 404/5xx for a moment: try 3 times
+          for (let k = 1; k <= 3; k++) {
+            try { body = await fetchText(f.url); break; }
+            catch (e) { if (k === 3) throw new Error(e.message + (/404/.test(e.message) ? "  (channel_id looks wrong: open " + f.url + " in a browser)" : "")); await sleep(2000 * k); }
+          }
+        } else body = await fetchText(f.url);
         items = f.type === "page" ? parsePage(body, f) : parseFeed(body, f);   // "rss", "atom" and "youtube" all use parseFeed
         if (!items.length) throw new Error("no items found (is this really an RSS/Atom feed?)");
         console.log("OK    " + String(items.length).padStart(3) + " items  " + f.name);
@@ -395,6 +401,8 @@ function selftest() {
     ["site: non-story page (no og:type article, no time) refused", parseArticle('<head><title>Home page of the site</title><meta property="og:title" content="Home page of the site"></head>', "https://x.rw/", {}) === null],
     ["future dates are clamped to now", toIsoDate("2999-01-01T00:00:00Z") <= new Date().toISOString()],
     ["merge keeps the first-seen date of a known story", merge([{ link: "x", date: "2026-11-01T01:00:00.000Z" }], [{ link: "x", date: "2026-11-04T09:00:00.000Z", title: "t" }])[0].date === "2026-11-01T01:00:00.000Z"],
+    ["youtube: atom entry -> video id, thumbnail, type video", (() => { const y = parseFeed('<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><entry><yt:videoId>dQw4w9WgXcQ</yt:videoId><title>Video nshya</title><link rel="alternate" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"/><published>2026-11-01T10:00:00+00:00</published><media:group><media:description>Ibisobanuro</media:description></media:group></entry></feed>', { url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC18ODLNtqXiW5nsEumf8cnQ" }); const a = toArticle(y[0], { name: "MIFASARW YouTube", type: "youtube", category: "entertainment", lang: "rw" }); return y.length === 1 && a.video && a.video.id === "dQw4w9WgXcQ" && a.type === "video" && a.thumbnail.includes("dQw4w9WgXcQ"); })()],
+    ["youtube: channel id format", /^UC[\w-]{22}$/.test("UC18ODLNtqXiW5nsEumf8cnQ")],
     ["javascript: links refused", safeUrl("javascript:alert(1)") === ""]
   ];
   let bad = 0; checks.forEach(([n, ok]) => { console.log((ok ? "PASS  " : "FAIL  ") + n); if (!ok) bad++; });
