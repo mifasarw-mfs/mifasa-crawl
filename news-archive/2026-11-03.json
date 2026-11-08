@@ -1,6 +1,6 @@
 {
  "day": "2026-11-03",
- "count": 72,
+ "count": 73,
  "articles": [
   {
    "id": "crawl_nxmv05",
@@ -147,6 +147,26 @@
    "title_en": "Tech Life",
    "summary_en": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
    "share_id": "MN202611_1w5rm86sffo"
+  },
+  {
+   "id": "crawl_1ub87dn",
+   "title": "Tech Life",
+   "summary": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
+   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-03T20:30:00.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pl43cw.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pl43cw.jpg",
+   "title_en": "Tech Life",
+   "summary_en": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
+   "share_id": "MN202611_1ub87dn8ard"
   },
   {
    "id": "crawl_wqmi6c",
@@ -1545,5 +1565,5 @@
    "share_id": "MN202611_1l8qsr3b7n1"
   }
  ],
- "updated": "2026-11-08T23:11:23.326Z"
+ "updated": "2026-11-08T23:44:38.289Z"
 }

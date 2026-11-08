@@ -11206,6 +11206,26 @@
   "share_id": "MN202611_1w5rm86sffo"
  },
  {
+  "id": "crawl_1ub87dn",
+  "title": "Tech Life",
+  "summary": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
+  "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-03T20:30:00.000Z",
+  "source": "BBC Technology",
+  "category": "tech",
+  "lang": "en",
+  "keywords": [
+   "BBC Technology",
+   "tech"
+  ],
+  "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pl43cw.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pl43cw.jpg",
+  "title_en": "Tech Life",
+  "summary_en": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
+  "share_id": "MN202611_1ub87dn8ard"
+ },
+ {
   "id": "crawl_wqmi6c",
   "title": "Ibitero byibusasu bya kirimbuzi kuri Iran? Intambara igiye guhindura isura,byakanze ISI yose",
   "summary": "Donald Trump may drop a nuclear bomb on Iran's Pickaxe Mountain, according to political commentator and former ally Tucker Carlson. Is the U.S. President looking to re-start the war after the midterm elections,",
@@ -17197,23 +17217,5 @@
   "title_en": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
   "summary_en": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
   "share_id": "MN202610_1f3kibi8wf0"
- },
- {
-  "id": "crawl_v1kjvm",
-  "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-  "summary": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-  "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
-  "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-  "date": "2026-10-20T00:00:00.000Z",
-  "source": "Hugging Face blog",
-  "category": "tech",
-  "lang": "en",
-  "keywords": [
-   "Hugging Face blog",
-   "tech"
-  ],
-  "title_en": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-  "summary_en": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-  "share_id": "MN202610_v1kjvmbhkw"
  }
 ]
