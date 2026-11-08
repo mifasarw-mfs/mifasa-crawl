@@ -194,6 +194,102 @@
    ],
    "auto": true,
    "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_654118bf_q",
+   "label_rw": "Isuri mu Rwanda",
+   "label_en": "Soil Erosion in Rwanda",
+   "patterns_en": [
+    "What causes soil erosion in Rwanda?",
+    "How can soil erosion be prevented?",
+    "What are the impacts of soil erosion on agriculture?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera isuri mu Rwanda?",
+    "Ni gute isuri yafatanywa mu kurwanywa?",
+    "Ingaruka z'isuri ku buhinzi ni izihe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Isuri ni ikibazo cyugarije ubutaka bw'u Rwanda bitewe n'imisozi miremire n'imvura nyinshi. Ibi bitwara intungamubiri z'ubutaka bigateza n'inkangu. Leta n'abaturage bashyiraho ingamba nko gukora terrase na gahunda yo gutera ibiti kugira ngo barinde ubutaka bwabo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Soil erosion is a major environmental challenge in Rwanda due to the country's steep topography and heavy rainfall. It removes vital soil nutrients and causes landslides. The government and citizens implement measures like radical terraces and tree planting initiatives to protect agricultural land and prevent environmental degradation.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_9ca54a64_q",
+   "label_rw": "Gucunga Imyanda mu Rwanda",
+   "label_en": "Waste Management in Rwanda",
+   "patterns_en": [
+    "How is waste managed in Rwanda?",
+    "Are all plastics banned in Rwanda?",
+    "What can be done to protect the environment?"
+   ],
+   "patterns_rw": [
+    "Ni gute imyanda icungwa mu Rwanda?",
+    "Ese amaplastiki yose arabujijwe mu Rwanda?",
+    "Ni iki cyakorwa kugira ngo ibidukikije birindwe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gucunga imyanda mu Rwanda ni gahunda y'ingenzi yo kubungabunga ibidukikije. Leta y'u Rwanda yashyizeho amategeko abuzanya amplastike akoreshwa rimwe gusa. Hari ibigo bishinzwe gutondeka no gutunganya imyanda kugira ngo hatagira ingaruka mbi ku buzima bw'abaturage.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Waste management in Rwanda is an essential practice for environmental protection. The government of Rwanda has established laws banning single-use plastics. There are designated institutions responsible for sorting and processing waste to prevent negative impacts on public health.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_732c5793_q",
+   "label_rw": "Urusobe rw'ibinyabuzima mu Rwanda",
+   "label_en": "Biodiversity in Rwanda",
+   "patterns_en": [
+    "What contributes to Rwanda's biodiversity?",
+    "Which national parks have the most wildlife in Rwanda?",
+    "How can we protect biodiversity?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera urusobe rw'ibinyabuzima mu Rwanda?",
+    "Ni izihe pariki zibamo inyamaswa nyinshi mu Rwanda?",
+    "Ni gute twarinda urusobe rw'ibinyabuzima?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "u Rwanda rufite urusobe rw'ibinyabuzima rutandukanye cyane. Harimo amashyamba yo mu misozi miremire, pariki z'igihugu, n'ibyanya bikomewe. Ibi byose bitanga ubuzima ku bwoko bwinshi bw'inyamaswa n'ibimera. Ibikorwa by'abantu n'imihindagurikire y'ikirere biri mu bishobora gushyira ubwo buzima mu kaga.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Rwanda has a diverse range of biological life. This includes montane forests, national parks, and protected reserves. These areas support many species of animals and plants. Human activities and climate change pose threats to this environment.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_dd632020_q",
+   "label_rw": "Umwanda wo mu kirere",
+   "label_en": "Air pollution",
+   "patterns_en": [
+    "What causes air pollution?",
+    "What are the effects of air pollution?",
+    "How can we prevent air pollution?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera umwanda wo mu kirere?",
+    "Umwanda wo mu kirere ugira ingaruka izihe?",
+    "Ni gute twakumira umwanda wo mu kirere?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Umwanda wo mu kirere ni igihe ibintu bihumanya ikirere byangiza ubuzima bw'abantu n'ibidukikije. Ibyo bintu birimo imyotsi y'imodoka n'inganda. Mu Rwanda, ubuyobozi bushyiraho ingamba zo kugabanya uwo mwanda kugira ngo abaturage bagire ubuzima bwiza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Air pollution occurs when harmful substances damage the atmosphere, negatively affecting human health and the environment. Major sources include vehicle emissions and industrial smoke. In Rwanda, authorities implement measures to reduce air pollution to ensure public well-being.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
   }
  ],
  "knowledge": [
@@ -353,6 +449,85 @@
     "storage",
     "guhitamo",
     "selection"
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_654118bf",
+   "category": "environment",
+   "title_rw": "Isuri mu Rwanda",
+   "title_en": "Soil Erosion in Rwanda",
+   "summary_rw": "Isuri ni ikibazo cyugarije ubutaka bw'u Rwanda bitewe n'imisozi miremire n'imvura nyinshi. Ibi bitwara intungamubiri z'ubutaka bigateza n'inkangu. Leta n'abaturage bashyiraho ingamba nko gukora terrase na gahunda yo gutera ibiti kugira ngo barinde ubutaka bwabo.",
+   "summary_en": "Soil erosion is a major environmental challenge in Rwanda due to the country's steep topography and heavy rainfall. It removes vital soil nutrients and causes landslides. The government and citizens implement measures like radical terraces and tree planting initiatives to protect agricultural land and prevent environmental degradation.",
+   "keywords": [
+    "isuri",
+    "erosion",
+    "ubutaka",
+    "soil",
+    "terrase",
+    "terrace",
+    "rwanda",
+    "ibidukikije"
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_9ca54a64",
+   "category": "environment",
+   "title_rw": "Gucunga Imyanda mu Rwanda",
+   "title_en": "Waste Management in Rwanda",
+   "summary_rw": "Gucunga imyanda mu Rwanda ni gahunda y'ingenzi yo kubungabunga ibidukikije. Leta y'u Rwanda yashyizeho amategeko abuzanya amplastike akoreshwa rimwe gusa. Hari ibigo bishinzwe gutondeka no gutunganya imyanda kugira ngo hatagira ingaruka mbi ku buzima bw'abaturage.",
+   "summary_en": "Waste management in Rwanda is an essential practice for environmental protection. The government of Rwanda has established laws banning single-use plastics. There are designated institutions responsible for sorting and processing waste to prevent negative impacts on public health.",
+   "keywords": [
+    "imyanda",
+    "waste",
+    "ibidukikije",
+    "environment",
+    "plastiki",
+    "plastics",
+    "u rwanda",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_732c5793",
+   "category": "environment",
+   "title_rw": "Urusobe rw'ibinyabuzima mu Rwanda",
+   "title_en": "Biodiversity in Rwanda",
+   "summary_rw": "u Rwanda rufite urusobe rw'ibinyabuzima rutandukanye cyane. Harimo amashyamba yo mu misozi miremire, pariki z'igihugu, n'ibyanya bikomewe. Ibi byose bitanga ubuzima ku bwoko bwinshi bw'inyamaswa n'ibimera. Ibikorwa by'abantu n'imihindagurikire y'ikirere biri mu bishobora gushyira ubwo buzima mu kaga.",
+   "summary_en": "Rwanda has a diverse range of biological life. This includes montane forests, national parks, and protected reserves. These areas support many species of animals and plants. Human activities and climate change pose threats to this environment.",
+   "keywords": [
+    "urusobe",
+    "ibinyabuzima",
+    "rwanda",
+    "pariki",
+    "amashyamba",
+    "biodiversity",
+    "environment",
+    "nature"
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_dd632020",
+   "category": "environment",
+   "title_rw": "Umwanda wo mu kirere",
+   "title_en": "Air pollution",
+   "summary_rw": "Umwanda wo mu kirere ni igihe ibintu bihumanya ikirere byangiza ubuzima bw'abantu n'ibidukikije. Ibyo bintu birimo imyotsi y'imodoka n'inganda. Mu Rwanda, ubuyobozi bushyiraho ingamba zo kugabanya uwo mwanda kugira ngo abaturage bagire ubuzima bwiza.",
+   "summary_en": "Air pollution occurs when harmful substances damage the atmosphere, negatively affecting human health and the environment. Major sources include vehicle emissions and industrial smoke. In Rwanda, authorities implement measures to reduce air pollution to ensure public well-being.",
+   "keywords": [
+    "ikirere",
+    "air",
+    "umwanda",
+    "pollution",
+    "ibidukikije",
+    "environment",
+    "rwanda"
    ],
    "auto": true,
    "taught": "2026-11-08"
