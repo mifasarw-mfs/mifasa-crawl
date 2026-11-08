@@ -1,7 +1,27 @@
 {
  "day": "2026-11-08",
- "count": 101,
+ "count": 102,
  "articles": [
+  {
+   "id": "crawl_173dmcn",
+   "title": "Bizarre & thrilling theatre as Carrick's Man Utd future still in limbo",
+   "summary": "It was a Premier League classic at Old Trafford but what as Man Utd's 4-4 draw with Aston Villa done to Michael Carrick's future?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-08T21:50:05.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbf2/live/f5d8ac10-dbb4-11f1-b35d-8ff000e4934a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbf2/live/f5d8ac10-dbb4-11f1-b35d-8ff000e4934a.jpg",
+   "title_en": "Bizarre & thrilling theatre as Carrick's Man Utd future still in limbo",
+   "summary_en": "It was a Premier League classic at Old Trafford but what as Man Utd's 4-4 draw with Aston Villa done to Michael Carrick's future?",
+   "share_id": "MN202611_173dmcn5jr9"
+  },
   {
    "id": "crawl_68co51",
    "title": "Villa's Kamara on Chelsea watchlist - Monday's gossip",
@@ -2160,5 +2180,5 @@
    "share_id": "MN202611_1ws8grn11vl"
   }
  ],
- "updated": "2026-11-08T21:17:26.941Z"
+ "updated": "2026-11-08T22:01:26.516Z"
 }

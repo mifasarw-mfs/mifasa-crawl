@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_173dmcn",
+  "title": "Bizarre & thrilling theatre as Carrick's Man Utd future still in limbo",
+  "summary": "It was a Premier League classic at Old Trafford but what as Man Utd's 4-4 draw with Aston Villa done to Michael Carrick's future?",
+  "link": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-08T21:50:05.000Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbf2/live/f5d8ac10-dbb4-11f1-b35d-8ff000e4934a.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbf2/live/f5d8ac10-dbb4-11f1-b35d-8ff000e4934a.jpg",
+  "title_en": "Bizarre & thrilling theatre as Carrick's Man Utd future still in limbo",
+  "summary_en": "It was a Premier League classic at Old Trafford but what as Man Utd's 4-4 draw with Aston Villa done to Michael Carrick's future?",
+  "share_id": "MN202611_173dmcn5jr9"
+ },
+ {
   "id": "crawl_68co51",
   "title": "Villa's Kamara on Chelsea watchlist - Monday's gossip",
   "summary": "Aston Villa midfielder Boubacar Kamara is on Chelsea's watchlist, Manchester United could make an offer for Nottingham Forest's Murillo, plus more.",
@@ -21,7 +41,7 @@
  },
  {
   "id": "crawl_m4e5tq",
-  "title": "Palace consider replacing Sage with Frank among contenders",
+  "title": "Palace consider replacing Sage, with Frank among contenders",
   "summary": "Crystal Palace manager Pierre Sage is in serious danger of losing his job, with Thomas Frank among the contenders to replace him.",
   "link": "https://www.bbc.co.uk/sport/football/articles/c623dpeey3e4o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/sport/football/articles/c623dpeey3e4o?at_medium=RSS&at_campaign=rss",
@@ -35,7 +55,7 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82df/live/76bb35a0-dbb5-11f1-93e1-3b657b665bcf.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82df/live/76bb35a0-dbb5-11f1-93e1-3b657b665bcf.jpg",
-  "title_en": "Palace consider replacing Sage with Frank among contenders",
+  "title_en": "Palace consider replacing Sage, with Frank among contenders",
   "summary_en": "Crystal Palace manager Pierre Sage is in serious danger of losing his job, with Thomas Frank among the contenders to replace him.",
   "share_id": "MN202611_m4e5tq638c"
  },
@@ -17190,31 +17210,5 @@
   "title_rw": "Alex Dusabe aritegura gutaramira mu Bwongereza",
   "summary_rw": "Mu gihe Isi ikomeje guhangana n’ibibazo bireba imiryango, umuhanzi w’indirimbo zo kuramya no guhimbaza Imana, Alexis Dusabe ari kwitegura urugendo rw’igitaramo kitwa ‘The hope uk worship &amp…",
   "share_id": "MN202610_8mob74i87i"
- },
- {
-  "id": "crawl_18ih3je",
-  "title": "Haricyo Mbona 😳🥶",
-  "summary": "Haricyo Mbona 😳🥶",
-  "link": "https://www.youtube.com/shorts/2mWvlkorhwI",
-  "url": "https://www.youtube.com/shorts/2mWvlkorhwI",
-  "date": "2026-10-19T08:34:32.000Z",
-  "source": "Yee Fanta YouTube",
-  "category": "entertainment",
-  "lang": "rw",
-  "keywords": [
-   "Yee Fanta YouTube",
-   "entertainment",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "2mWvlkorhwI"
-  },
-  "type": "video",
-  "image": "https://i3.ytimg.com/vi/2mWvlkorhwI/hqdefault.jpg",
-  "thumbnail": "https://i3.ytimg.com/vi/2mWvlkorhwI/hqdefault.jpg",
-  "title_rw": "Haricyo Mbona 😳🥶",
-  "summary_rw": "Haricyo Mbona 😳🥶",
-  "share_id": "MN202610_18ih3jesyq0"
  }
 ]
