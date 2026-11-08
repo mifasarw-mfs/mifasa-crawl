@@ -1,6 +1,6 @@
 {
  "day": "2026-10-23",
- "count": 12,
+ "count": 13,
  "articles": [
   {
    "id": "crawl_1379s41",
@@ -135,6 +135,32 @@
    "share_id": "MN202610_1fyivuvizhh"
   },
   {
+   "id": "crawl_u8agsp",
+   "title": "URUGENDO ❤️♥️",
+   "summary": "URUGENDO ❤️♥️",
+   "link": "https://www.youtube.com/shorts/BSJNraQo3io",
+   "url": "https://www.youtube.com/shorts/BSJNraQo3io",
+   "date": "2026-10-23T11:17:51.000Z",
+   "source": "Dogiteri Nsabi Music YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Dogiteri Nsabi Music YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "BSJNraQo3io"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/BSJNraQo3io/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/BSJNraQo3io/hqdefault.jpg",
+   "title_rw": "URUGENDO ❤️♥️",
+   "summary_rw": "URUGENDO ❤️♥️",
+   "share_id": "MN202610_u8agspmbzb"
+  },
+  {
    "id": "crawl_c5qrv1",
    "title": "The Indian workers filming their work to train AI",
    "summary": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
@@ -253,5 +279,5 @@
    "share_id": "MN202610_188gx3q9i7o"
   }
  ],
- "updated": "2026-11-08T20:56:45.126Z"
+ "updated": "2026-11-08T21:17:26.957Z"
 }

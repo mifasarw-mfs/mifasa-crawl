@@ -1,6 +1,6 @@
 {
  "day": "2026-10-26",
- "count": 9,
+ "count": 10,
  "articles": [
   {
    "id": "crawl_18wo7ih",
@@ -27,6 +27,32 @@
    "title_rw": "Burikantu asabye imbabazi",
    "summary_rw": "Burikantu asabye imbabazi",
    "share_id": "MN202610_18wo7ih02p3"
+  },
+  {
+   "id": "crawl_1390244",
+   "title": "MY DEAR🎥 #mydear #fyp",
+   "summary": "MY DEAR🎥 #mydear #fyp",
+   "link": "https://www.youtube.com/shorts/5TRzCGhQ6GA",
+   "url": "https://www.youtube.com/shorts/5TRzCGhQ6GA",
+   "date": "2026-10-26T17:29:16.000Z",
+   "source": "Element Eleeeh YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Element Eleeeh YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "5TRzCGhQ6GA"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/5TRzCGhQ6GA/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/5TRzCGhQ6GA/hqdefault.jpg",
+   "title_rw": "MY DEAR🎥 #mydear #fyp",
+   "summary_rw": "MY DEAR🎥 #mydear #fyp",
+   "share_id": "MN202610_1390244bxaq"
   },
   {
    "id": "crawl_1bbdzzr",
@@ -201,5 +227,5 @@
    "share_id": "MN202610_1hl7w9q0sqk"
   }
  ],
- "updated": "2026-11-08T20:56:45.125Z"
+ "updated": "2026-11-08T21:17:26.956Z"
 }

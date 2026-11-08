@@ -1,31 +1,31 @@
 {
- "updated": "2026-11-08T20:56:45.134Z",
- "total": 842,
+ "updated": "2026-11-08T21:17:26.964Z",
+ "total": 878,
  "days": [
   {
    "day": "2026-11-08",
    "file": "news-archive/2026-11-08.json",
-   "count": 93
+   "count": 101
   },
   {
    "day": "2026-11-07",
    "file": "news-archive/2026-11-07.json",
-   "count": 85
+   "count": 90
   },
   {
    "day": "2026-11-06",
    "file": "news-archive/2026-11-06.json",
-   "count": 128
+   "count": 134
   },
   {
    "day": "2026-11-05",
    "file": "news-archive/2026-11-05.json",
-   "count": 112
+   "count": 117
   },
   {
    "day": "2026-11-04",
    "file": "news-archive/2026-11-04.json",
-   "count": 69
+   "count": 75
   },
   {
    "day": "2026-11-03",
@@ -35,7 +35,7 @@
   {
    "day": "2026-11-02",
    "file": "news-archive/2026-11-02.json",
-   "count": 45
+   "count": 47
   },
   {
    "day": "2026-11-01",
@@ -45,7 +45,7 @@
   {
    "day": "2026-10-31",
    "file": "news-archive/2026-10-31.json",
-   "count": 17
+   "count": 18
   },
   {
    "day": "2026-10-30",
@@ -70,7 +70,7 @@
   {
    "day": "2026-10-26",
    "file": "news-archive/2026-10-26.json",
-   "count": 9
+   "count": 10
   },
   {
    "day": "2026-10-25",
@@ -85,7 +85,7 @@
   {
    "day": "2026-10-23",
    "file": "news-archive/2026-10-23.json",
-   "count": 12
+   "count": 13
   },
   {
    "day": "2026-10-22",
@@ -100,7 +100,7 @@
   {
    "day": "2026-10-20",
    "file": "news-archive/2026-10-20.json",
-   "count": 10
+   "count": 11
   },
   {
    "day": "2026-10-19",

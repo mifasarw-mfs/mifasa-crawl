@@ -1,6 +1,6 @@
 {
  "day": "2026-10-31",
- "count": 17,
+ "count": 18,
  "articles": [
   {
    "id": "crawl_3tjic",
@@ -271,6 +271,32 @@
    "share_id": "MN202610_rkbu4jnpb5"
   },
   {
+   "id": "crawl_1noyhx8",
+   "title": "Umuhaye angahe /10? 🥰🥰🥰🥰🥰🥰 #urugendo",
+   "summary": "Umuhaye angahe /10? 🥰🥰🥰🥰🥰🥰 #urugendo",
+   "link": "https://www.youtube.com/shorts/qpACo7b3ctg",
+   "url": "https://www.youtube.com/shorts/qpACo7b3ctg",
+   "date": "2026-10-31T07:39:04.000Z",
+   "source": "Dogiteri Nsabi Music YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Dogiteri Nsabi Music YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "qpACo7b3ctg"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/qpACo7b3ctg/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/qpACo7b3ctg/hqdefault.jpg",
+   "title_rw": "Umuhaye angahe /10? 🥰🥰🥰🥰🥰🥰 #urugendo",
+   "summary_rw": "Umuhaye angahe /10? 🥰🥰🥰🥰🥰🥰 #urugendo",
+   "share_id": "MN202610_1noyhx8ad3u"
+  },
+  {
    "id": "crawl_1sn7ano",
    "title": "Muze tubahe",
    "summary": "Muze tubahe",
@@ -395,5 +421,5 @@
    "share_id": "MN202610_1ezs8prl56l"
   }
  ],
- "updated": "2026-11-08T20:56:45.123Z"
+ "updated": "2026-11-08T21:17:26.954Z"
 }

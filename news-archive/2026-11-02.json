@@ -1,6 +1,6 @@
 {
  "day": "2026-11-02",
- "count": 45,
+ "count": 47,
  "articles": [
   {
    "id": "crawl_lluz1g",
@@ -227,6 +227,32 @@
    "share_id": "MN202611_wda9la6cfg"
   },
   {
+   "id": "crawl_1l20eic",
+   "title": "#diamondplatnumz #wcb #TseMonate",
+   "summary": "#diamondplatnumz #wcb #TseMonate",
+   "link": "https://www.youtube.com/shorts/jhrSwV-GCZA",
+   "url": "https://www.youtube.com/shorts/jhrSwV-GCZA",
+   "date": "2026-11-02T11:24:37.000Z",
+   "source": "Diamond Platnumz YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Diamond Platnumz YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "jhrSwV-GCZA"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/jhrSwV-GCZA/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/jhrSwV-GCZA/hqdefault.jpg",
+   "title_rw": "#diamondplatnumz #wcb #TseMonate",
+   "summary_rw": "#diamondplatnumz #wcb #TseMonate",
+   "share_id": "MN202611_1l20eicc9oy"
+  },
+  {
    "id": "crawl_1lh4xw",
    "title": "NAME CHANGE REQUEST",
    "summary": "Visit the post for more.",
@@ -245,6 +271,32 @@
    "title_rw": "NAME CHANGE REQUEST",
    "summary_rw": "Visit the post for more.",
    "share_id": "MN202611_1lh4xwx23m"
+  },
+  {
+   "id": "crawl_dn3rur",
+   "title": "#diamondplatnumz #wcb #Tsemonate",
+   "summary": "#diamondplatnumz #wcb #Tsemonate",
+   "link": "https://www.youtube.com/shorts/4aHfh6KsD9I",
+   "url": "https://www.youtube.com/shorts/4aHfh6KsD9I",
+   "date": "2026-11-02T10:40:12.000Z",
+   "source": "Diamond Platnumz YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Diamond Platnumz YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "4aHfh6KsD9I"
+   },
+   "type": "video",
+   "image": "https://i1.ytimg.com/vi/4aHfh6KsD9I/hqdefault.jpg",
+   "thumbnail": "https://i1.ytimg.com/vi/4aHfh6KsD9I/hqdefault.jpg",
+   "title_rw": "#diamondplatnumz #wcb #Tsemonate",
+   "summary_rw": "#diamondplatnumz #wcb #Tsemonate",
+   "share_id": "MN202611_dn3rurjp0h"
   },
   {
    "id": "crawl_1dhcay7",
@@ -989,5 +1041,5 @@
    "share_id": "MN202611_1bsxwlxibhv"
   }
  ],
- "updated": "2026-11-08T20:56:45.122Z"
+ "updated": "2026-11-08T21:17:26.953Z"
 }

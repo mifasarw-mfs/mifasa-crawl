@@ -1,6 +1,6 @@
 {
  "day": "2026-10-20",
- "count": 10,
+ "count": 11,
  "articles": [
   {
    "id": "crawl_a9i7t1",
@@ -41,6 +41,32 @@
    "title_en": "Tech Life",
    "summary_en": "The next generation of chip is thinner and flexible when compared to traditional silicon.",
    "share_id": "MN202610_42xcc7qgut"
+  },
+  {
+   "id": "crawl_7ljp1e",
+   "title": "The Ben - Inshallah Cover By SILVIZO ft Dechou Bdi (Official video lyrics )",
+   "summary": "IBIHE - Vestine and Dorcas (Official Video) Diez Dola - ONIVA Ft The Ben (Official Music Video) The Ben - Inshallah (Official Music Video)",
+   "link": "https://www.youtube.com/watch?v=64De-ImOGZg",
+   "url": "https://www.youtube.com/watch?v=64De-ImOGZg",
+   "date": "2026-10-20T11:30:09.000Z",
+   "source": "Silvizo YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Silvizo YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "64De-ImOGZg"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/64De-ImOGZg/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/64De-ImOGZg/hqdefault.jpg",
+   "title_rw": "The Ben - Inshallah Cover By SILVIZO ft Dechou Bdi (Official video lyrics )",
+   "summary_rw": "IBIHE - Vestine and Dorcas (Official Video) Diez Dola - ONIVA Ft The Ben (Official Music Video) The Ben - Inshallah (Official Music Video)",
+   "share_id": "MN202610_7ljp1ejtuo"
   },
   {
    "id": "crawl_14k0a8i",
@@ -209,5 +235,5 @@
    "share_id": "MN202610_1apfgf6etq8"
   }
  ],
- "updated": "2026-11-08T20:56:45.126Z"
+ "updated": "2026-11-08T21:17:26.957Z"
 }
