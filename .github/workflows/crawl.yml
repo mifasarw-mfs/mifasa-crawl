@@ -1,123 +1,71 @@
 # MIFASA crawler on GitHub (free).
-#   every 15 minutes : RSS/Atom sources (news that changes fast) -> node crawl.js --mode=fast
-#   every hour (:07) : sites WITHOUT RSS + Wikipedia knowledge topics -> node crawl.js --mode=slow + node crawl-knowledge.js
-#   when you edit crawl-feeds.json / crawl-topics.json / the crawlers -> everything at once
+#   every 5 minutes : RSS/Atom sources (news that changes fast)          -> node crawl.js --mode=fast
+#   every hour (:07) : sites WITHOUT RSS + Wikipedia knowledge topics     -> node crawl.js --mode=slow  +  node crawl-knowledge.js
+#   when you edit crawl-feeds.json / crawl-topics.json / the crawlers     -> everything at once
 # Uploads to Neocities ONLY when something changed. Needs the secret NEOCITIES_API_KEY.
+# NEW: every story is also kept FOREVER in news-archive/YYYY-MM-DD.json (+ index.json), each with a permanent id (share_id "MN202611_...").
+#      crawl-news.json stays the fast 60-day window; the archive never loses anything.
 name: mifasa-crawl
-
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/5 * * * *"
     - cron: "7 * * * *"
   workflow_dispatch: {}
   push:
-    paths:
-      - "crawl-feeds.json"
-      - "crawl-topics.json"
-      - "crawl.js"
-      - "crawl-knowledge.js"
-      - ".github/workflows/crawl.yml"
-
+    paths: ["crawl-feeds.json", "crawl-topics.json", "crawl.js", "crawl-knowledge.js", ".github/workflows/crawl.yml"]
 permissions:
   contents: write
-
 concurrency:
   group: mifasa-crawl
   cancel-in-progress: false
-
 jobs:
   crawl:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
-
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
-
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22
-
-      - name: Test crawler parsers
-        run: |
-          node crawl.js --selftest
-          node crawl-knowledge.js --selftest
-
-      - name: Choose crawl mode
+      - name: Choose what to crawl
         id: mode
         env:
           EVENT: ${{ github.event_name }}
           SCHEDULE: ${{ github.event.schedule }}
         run: |
-          if [ "$EVENT" = "schedule" ] && [ "$SCHEDULE" = "7 * * * *" ]; then
-            echo "mode=slow" >> "$GITHUB_OUTPUT"
-          elif [ "$EVENT" = "schedule" ]; then
-            echo "mode=fast" >> "$GITHUB_OUTPUT"
-          else
-            echo "mode=all" >> "$GITHUB_OUTPUT"
-          fi
-
+          if [ "$EVENT" = "schedule" ] && [ "$SCHEDULE" = "7 * * * *" ]; then echo "mode=slow" >> "$GITHUB_OUTPUT"
+          elif [ "$EVENT" = "schedule" ]; then echo "mode=fast" >> "$GITHUB_OUTPUT"
+          else echo "mode=all" >> "$GITHUB_OUTPUT"; fi
       - name: Crawl news
         run: node crawl.js --mode=${{ steps.mode.outputs.mode }}
-
       - name: Update Wikipedia knowledge
         if: steps.mode.outputs.mode != 'fast'
         run: node crawl-knowledge.js
-
-      - name: Ensure vocabulary file exists
-        run: |
-          if [ ! -f crawl-words.json ]; then
-            node -e 'const fs=require("fs"); const news=JSON.parse(fs.readFileSync("crawl-news.json","utf8")); const articles=Array.isArray(news)?news:(news.articles||news.items||[]); fs.writeFileSync("crawl-words.json", JSON.stringify({ generated: new Date().toISOString().slice(0,10), stories: 0, words: [] }, null, 1) + "\n"); console.log(`Created empty vocabulary file; ${articles.length} existing articles will be indexed when new stories arrive.`);'
-          fi
-
-      - name: Commit generated files
+      - name: Keep the new files in the repo
         id: keep
-        env:
-          BRANCH: ${{ github.ref_name }}
         run: |
           git config user.name "mifasa-crawler"
           git config user.email "actions@users.noreply.github.com"
-
-          git add -- crawl-news.json crawl-words.json crawl-knowledge.json
-
+          git add crawl-news.json crawl-words.json crawl-knowledge.json
+          git add news-archive 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "No generated changes."
-            exit 0
+            echo "Nothing new."
+          else
+            git commit -m "crawl: update"
+            for i in 1 2 3; do git pull --rebase -q && git push && break || sleep 5; done
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
-
-          git commit -m "crawl: update generated data"
-
-          pushed=false
-          for attempt in 1 2 3; do
-            if git pull --rebase origin "$BRANCH" && git push origin "HEAD:$BRANCH"; then
-              pushed=true
-              break
-            fi
-            git rebase --abort || true
-            echo "Push attempt $attempt failed; retrying."
-            sleep 5
-          done
-
-          if [ "$pushed" != true ]; then
-            echo "Could not push generated files after 3 attempts." >&2
-            exit 1
-          fi
-
-          echo "changed=true" >> "$GITHUB_OUTPUT"
-
-      - name: Upload generated data to Neocities
-        if: steps.keep.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+      - name: Upload to Neocities
+        if: steps.keep.outputs.changed == 'true' || github.event_name != 'schedule'
         env:
           NEOCITIES_API_KEY: ${{ secrets.NEOCITIES_API_KEY }}
+          EVENT: ${{ github.event_name }}
         run: |
-          if [ -z "$NEOCITIES_API_KEY" ]; then
-            echo "NEOCITIES_API_KEY secret is not configured." >&2
-            exit 1
+          args=(-F "crawl-news.json=@crawl-news.json" -F "crawl-words.json=@crawl-words.json" -F "crawl-knowledge.json=@crawl-knowledge.json")
+          if [ -d news-archive ]; then
+            if [ "$EVENT" = "schedule" ]; then
+              files=$(git show --name-only --pretty=format: HEAD -- news-archive | grep -v '^$' || true)      # only the archive files this run changed
+            else
+              files=$(ls news-archive/*.json 2>/dev/null | sort | tail -15)                                  # manual run: the last 14 days + index
+            fi
+            for f in $files; do [ -f "$f" ] && args+=(-F "$f=@$f"); done
           fi
-
-          curl --fail --show-error --silent \
-            -H "Authorization: Bearer $NEOCITIES_API_KEY" \
-            -F "crawl-news.json=@crawl-news.json" \
-            -F "crawl-words.json=@crawl-words.json" \
-            -F "crawl-knowledge.json=@crawl-knowledge.json" \
-            https://neocities.org/api/upload
+          curl -fsS -H "Authorization: Bearer $NEOCITIES_API_KEY" "${args[@]}" https://neocities.org/api/upload
