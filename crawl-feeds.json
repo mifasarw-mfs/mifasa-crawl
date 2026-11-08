@@ -191,12 +191,48 @@
       "category": "entertainment"
     },
     {
+      "name": "Ish Kevin YouTube",
+      "type": "youtube",
+      "handle": "@ishkevin",
+      "lang": "rw",
+      "category": "entertainment"
+    },
+    {
+      "name": "Kid From Kigali YouTube",
+      "type": "youtube",
+      "handle": "@kidfromkigali",
+      "lang": "rw",
+      "category": "entertainment"
+    },
+    {
+      "name": "Intare Irikurutare YouTube",
+      "type": "youtube",
+      "handle": "@intareirikurutare",
+      "lang": "rw",
+      "category": "entertainment"
+    },
+    {
+      "name": "Yee Fanta YouTube",
+      "type": "youtube",
+      "handle": "@yeefanta",
+      "lang": "rw",
+      "category": "entertainment"
+    },
+    {
+      "name": "Buri Kantu Na Buri Nguni YouTube",
+      "type": "youtube",
+      "handle": "@burikantunaburinguni",
+      "lang": "rw",
+      "category": "entertainment"
+    },
+    {
       "name": "YouTube Trending Rwanda",
       "type": "youtube-trending",
       "region": "RW",
       "max": 10,
       "lang": "rw",
-      "category": "entertainment"
+      "category": "entertainment",
+      "enabled": false
     },
     {
       "name": "YouTube Trending Kenya",
