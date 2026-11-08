@@ -1,0 +1,54 @@
+# MIFASA learn on GitHub (free, AUTOMATIC): buri minota 30 AI ihindura ibibazo bikunze kubazwa ibisubizo bishya (ai15.json),
+# ikabishyira kuri Neocities ubwayo. Nta Pull Request, nta gusuzuma.
+# (GitHub Actions ntishobora gukora munsi y'iminota 5; kwiga buri minota 30 bihuye n'imipaka y'ubuntu ya Gemini.)
+# Secrets: GEMINI_API_KEY, EXPORT_TOKEN, WORKER_EXPORT_URL, NEOCITIES_API_KEY
+name: mifasa-learn
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: mifasa-learn
+  cancel-in-progress: false
+jobs:
+  learn:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download the live brain files
+        run: |
+          mkdir -p _site
+          for f in ai.json ai2json.json ai_core.json crawl-knowledge.json $(seq -f "ai%g.json" 3 17); do
+            curl -fsS -o "_site/$f" "https://mifasarw.neocities.org/$f" || rm -f "_site/$f"
+          done
+      - name: Learn new answers
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SITE_DIR: _site
+          EXPORT_TOKEN: ${{ secrets.EXPORT_TOKEN }}
+          WORKER_EXPORT_URL: ${{ secrets.WORKER_EXPORT_URL }}
+          MAX_NEW: "5"
+        run: node learn.js
+      - name: Keep ai15.json in the repo
+        id: keep
+        run: |
+          git config user.name "mifasa-learner"
+          git config user.email "actions@users.noreply.github.com"
+          git add ai15.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Nothing new."
+          else
+            git commit -m "learn: new answers"
+            for i in 1 2 3; do git pull --rebase -q && git push && break || sleep 5; done
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Upload to Neocities
+        if: steps.keep.outputs.changed == 'true'
+        env:
+          NEOCITIES_API_KEY: ${{ secrets.NEOCITIES_API_KEY }}
+        run: |
+          curl -fsS -H "Authorization: Bearer $NEOCITIES_API_KEY" -F "ai15.json=@ai15.json" https://neocities.org/api/upload
