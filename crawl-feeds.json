@@ -226,6 +226,55 @@
       "category": "entertainment"
     },
     {
+      "name": "Element Eleeeh YouTube",
+      "type": "youtube",
+      "handle": "@elementeleeeh",
+      "lang": "rw",
+      "category": "entertainment"
+    },
+    {
+      "name": "Diamond Platnumz YouTube",
+      "type": "youtube",
+      "handle": "@dplatnumz",
+      "lang": "rw",
+      "category": "entertainment"
+    },
+    {
+      "name": "Diez Dola YouTube",
+      "type": "youtube",
+      "handle": "@callmediezdola",
+      "lang": "rw",
+      "category": "entertainment"
+    },
+    {
+      "name": "Silvizo YouTube",
+      "type": "youtube",
+      "handle": "@silvizoofficial1108",
+      "lang": "rw",
+      "category": "entertainment"
+    },
+    {
+      "name": "Dogiteri Nsabi Music YouTube",
+      "type": "youtube",
+      "handle": "@dogiterinsabiimusic",
+      "lang": "rw",
+      "category": "entertainment"
+    },
+    {
+      "name": "Radio Rwanda YouTube",
+      "type": "youtube",
+      "handle": "@radiorwanda",
+      "lang": "rw",
+      "category": "news"
+    },
+    {
+      "name": "RBA TV Rwanda YouTube",
+      "type": "youtube",
+      "handle": "@RwandanTVRBAHafiYawe",
+      "lang": "rw",
+      "category": "news"
+    },
+    {
       "name": "YouTube Trending Rwanda",
       "type": "youtube-trending",
       "region": "RW",
