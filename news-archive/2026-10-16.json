@@ -1,6 +1,6 @@
 {
  "day": "2026-10-16",
- "count": 6,
+ "count": 8,
  "articles": [
   {
    "id": "crawl_192yerp",
@@ -21,6 +21,32 @@
    "title_en": "Why people who have never smoked are getting hooked on vapes",
    "summary_en": "More than one million people now vape who have never been smokers, according to the ONS.",
    "share_id": "MN202610_192yerprb8j"
+  },
+  {
+   "id": "crawl_4fhxd6",
+   "title": "Ubwiherero bwo ku mashuri #genzcomedyshowkigali by @joshua_comedian",
+   "summary": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+   "link": "https://www.youtube.com/shorts/Bb2p9k2A4VE",
+   "url": "https://www.youtube.com/shorts/Bb2p9k2A4VE",
+   "date": "2026-10-16T20:50:14.000Z",
+   "source": "Gen-Z Comedy Show YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Gen-Z Comedy Show YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "Bb2p9k2A4VE"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/Bb2p9k2A4VE/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/Bb2p9k2A4VE/hqdefault.jpg",
+   "title_rw": "Ubwiherero bwo ku mashuri #genzcomedyshowkigali by @joshua_comedian",
+   "summary_rw": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+   "share_id": "MN202610_4fhxd6xuiw"
   },
   {
    "id": "crawl_jktph7",
@@ -104,6 +130,32 @@
    "share_id": "MN202610_l8jym8qeu6"
   },
   {
+   "id": "crawl_64pgn8",
+   "title": "NOMA SANAAAAA 🚀🚀🚀🚀",
+   "summary": "NOMA SANAAAAA 🚀🚀🚀🚀",
+   "link": "https://www.youtube.com/shorts/m1efwQbF1D8",
+   "url": "https://www.youtube.com/shorts/m1efwQbF1D8",
+   "date": "2026-10-16T07:17:49.000Z",
+   "source": "The Ben YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "The Ben YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "m1efwQbF1D8"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/m1efwQbF1D8/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/m1efwQbF1D8/hqdefault.jpg",
+   "title_rw": "NOMA SANAAAAA 🚀🚀🚀🚀",
+   "summary_rw": "NOMA SANAAAAA 🚀🚀🚀🚀",
+   "share_id": "MN202610_64pgn85dsy"
+  },
+  {
    "id": "crawl_1561y5z",
    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
    "summary": "Welcome Beam: a 501B open model you can own, customize, and scale",
@@ -122,5 +174,5 @@
    "share_id": "MN202610_1561y5zy105"
   }
  ],
- "updated": "2026-11-08T17:52:54.948Z"
+ "updated": "2026-11-08T20:27:11.001Z"
 }

@@ -1,7 +1,33 @@
 {
  "day": "2026-10-13",
- "count": 3,
+ "count": 4,
  "articles": [
+  {
+   "id": "crawl_1fepocu",
+   "title": "Abagore barusha abagabo ubwenge? @ishimwe.joseph #genzcomedyshowkigali",
+   "summary": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+   "link": "https://www.youtube.com/shorts/Q06dnf1FRd4",
+   "url": "https://www.youtube.com/shorts/Q06dnf1FRd4",
+   "date": "2026-10-13T21:13:16.000Z",
+   "source": "Gen-Z Comedy Show YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Gen-Z Comedy Show YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "Q06dnf1FRd4"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/Q06dnf1FRd4/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/Q06dnf1FRd4/hqdefault.jpg",
+   "title_rw": "Abagore barusha abagabo ubwenge? @ishimwe.joseph #genzcomedyshowkigali",
+   "summary_rw": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+   "share_id": "MN202610_1fepocu1jjg"
+  },
   {
    "id": "crawl_ianrw6",
    "title": "Tech Life",
@@ -61,5 +87,5 @@
    "share_id": "MN202610_1tm11pemv40"
   }
  ],
- "updated": "2026-11-08T17:52:54.948Z"
+ "updated": "2026-11-08T20:27:11.002Z"
 }

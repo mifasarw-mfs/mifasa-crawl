@@ -1,6 +1,6 @@
 {
  "day": "2026-10-08",
- "count": 1,
+ "count": 2,
  "articles": [
   {
    "id": "crawl_76v01l",
@@ -21,7 +21,33 @@
    "title_rw": "Apôtre Mutabazi yasezeranye n’umugore mushya",
    "summary_rw": "Mu bukwe bwari bumaze igihe buteguzwa abakurikira imbuga nkoranyambaga, byarangiye ibirori bibaye impamo, Apotre Mutabazi Kabarira Maurice asezerana n’umugore we mushya Mukamana Béatrice. Apô…",
    "share_id": "MN202610_76v01ltfmf"
+  },
+  {
+   "id": "crawl_7t1cv5",
+   "title": "Fun Stories for Kids | Best Bedtime Stories & Moral Stories for Children | Kids Hut",
+   "summary": "@kidshut family presents \"Fun Stories for Kids | Best Bedtime Stories & Moral Stories for Children | Kids Hut\" by KIDS HUT. 1. MOTHER'S DAY 2. THE SECRET MOTHER'S DAY SURPRISE 3. A THANKSGIVING SURPRISE 4. APRIL FOOLS DAY 5. HAPPY BIRTHDAY 6. A DAY TO REMEMBER 7. THE BONSON'S GINGERBREAD DELIGHT ------------------------------------- NEW UPLOADS COLLECTION ► http://bit.ly/1TTDl6r…",
+   "link": "https://www.youtube.com/watch?v=IqK78V0UG1E",
+   "url": "https://www.youtube.com/watch?v=IqK78V0UG1E",
+   "date": "2026-10-08T10:59:39.000Z",
+   "source": "T-Series YouTube",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "T-Series YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "IqK78V0UG1E"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/IqK78V0UG1E/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/IqK78V0UG1E/hqdefault.jpg",
+   "title_en": "Fun Stories for Kids | Best Bedtime Stories & Moral Stories for Children | Kids Hut",
+   "summary_en": "@kidshut family presents \"Fun Stories for Kids | Best Bedtime Stories & Moral Stories for Children | Kids Hut\" by KIDS HUT. 1. MOTHER'S DAY 2. THE SECRET MOTHER'S DAY SURPRISE 3. A THANKSGIVING SURPRISE 4. APRIL FOOLS DAY 5. HAPPY BIRTHDAY 6. A DAY TO REMEMBER 7. THE BONSON'S GINGERBREAD DELIGHT ------------------------------------- NEW UPLOADS COLLECTION ► http://bit.ly/1TTDl6r…",
+   "share_id": "MN202610_7t1cv51hof"
   }
  ],
- "updated": "2026-11-08T17:52:54.949Z"
+ "updated": "2026-11-08T20:27:11.003Z"
 }

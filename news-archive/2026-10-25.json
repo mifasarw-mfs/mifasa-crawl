@@ -1,7 +1,59 @@
 {
  "day": "2026-10-25",
- "count": 2,
+ "count": 4,
  "articles": [
+  {
+   "id": "crawl_1japnhc",
+   "title": "How 1 Clinic Can Change A Village",
+   "summary": "Still can’t believe we pulled this off… In just 90 days, we built an entire medical clinic in Ghana, giving over 1,000 people access to healthcare right in their own village! ❤️ Before this, the only medical care available was a tiny room with one bed and no running water. If someone got seriously sick or a mother needed to give birth, reaching the nearest hospital meant traveling over an hour.…",
+   "link": "https://www.youtube.com/watch?v=yzls1ntNrR4",
+   "url": "https://www.youtube.com/watch?v=yzls1ntNrR4",
+   "date": "2026-10-25T16:00:02.000Z",
+   "source": "MrBeast YouTube",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "MrBeast YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "yzls1ntNrR4"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/yzls1ntNrR4/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/yzls1ntNrR4/hqdefault.jpg",
+   "title_en": "How 1 Clinic Can Change A Village",
+   "summary_en": "Still can’t believe we pulled this off… In just 90 days, we built an entire medical clinic in Ghana, giving over 1,000 people access to healthcare right in their own village! ❤️ Before this, the only medical care available was a tiny room with one bed and no running water. If someone got seriously sick or a mother needed to give birth, reaching the nearest hospital meant traveling over an hour.…",
+   "share_id": "MN202610_1japnhclqbi"
+  },
+  {
+   "id": "crawl_8lzcer",
+   "title": "Nawe Disi yitwa Dorcas Avuye Mu Ntambara ya Congo Disi ararimba ukumva warira 😭🥰",
+   "summary": "Ushatse kutuvugisha #0787413998 #MIEempire https://www.instagram.com/mie_empire.rw/ https://www.instagram.com/irenemurindahabi/",
+   "link": "https://www.youtube.com/watch?v=nD6OGzf7aAg",
+   "url": "https://www.youtube.com/watch?v=nD6OGzf7aAg",
+   "date": "2026-10-25T15:28:15.000Z",
+   "source": "Mie Empire YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Mie Empire YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "nD6OGzf7aAg"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/nD6OGzf7aAg/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/nD6OGzf7aAg/hqdefault.jpg",
+   "title_rw": "Nawe Disi yitwa Dorcas Avuye Mu Ntambara ya Congo Disi ararimba ukumva warira 😭🥰",
+   "summary_rw": "Ushatse kutuvugisha #0787413998 #MIEempire https://www.instagram.com/mie_empire.rw/ https://www.instagram.com/irenemurindahabi/",
+   "share_id": "MN202610_8lzcerzh81"
+  },
   {
    "id": "crawl_1f8w5to",
    "title": "Avengers: Doomsday | In Theaters December 18",
@@ -52,5 +104,5 @@
    "share_id": "MN202610_1ud01gnsxxh"
   }
  ],
- "updated": "2026-11-08T18:46:49.481Z"
+ "updated": "2026-11-08T20:27:10.998Z"
 }

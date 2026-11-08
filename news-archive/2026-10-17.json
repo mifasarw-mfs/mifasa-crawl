@@ -1,7 +1,59 @@
 {
  "day": "2026-10-17",
- "count": 2,
+ "count": 5,
  "articles": [
+  {
+   "id": "crawl_o982k5",
+   "title": "Ubushakashatsi bwa @nkirigitowacu #genzcomedyshowkigali",
+   "summary": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+   "link": "https://www.youtube.com/shorts/IJTAdiARva8",
+   "url": "https://www.youtube.com/shorts/IJTAdiARva8",
+   "date": "2026-10-17T21:44:25.000Z",
+   "source": "Gen-Z Comedy Show YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Gen-Z Comedy Show YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "IJTAdiARva8"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/IJTAdiARva8/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/IJTAdiARva8/hqdefault.jpg",
+   "title_rw": "Ubushakashatsi bwa @nkirigitowacu #genzcomedyshowkigali",
+   "summary_rw": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+   "share_id": "MN202610_o982k5jxqr"
+  },
+  {
+   "id": "crawl_djqm4c",
+   "title": "Merci yakiriye @GisubizoMinistry-Kigali baraturirimbira turafashwa.",
+   "summary": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+   "link": "https://www.youtube.com/watch?v=5qeEj5fLqRc",
+   "url": "https://www.youtube.com/watch?v=5qeEj5fLqRc",
+   "date": "2026-10-17T18:15:38.000Z",
+   "source": "Gen-Z Comedy Show YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Gen-Z Comedy Show YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "5qeEj5fLqRc"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/5qeEj5fLqRc/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/5qeEj5fLqRc/hqdefault.jpg",
+   "title_rw": "Merci yakiriye @GisubizoMinistry-Kigali baraturirimbira turafashwa.",
+   "summary_rw": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+   "share_id": "MN202610_djqm4cqqxm"
+  },
   {
    "id": "crawl_177rtg0",
    "title": "Rabagirana Choir yashyize hanze indirimbo nshya “Wa Musaraba” (VIDEO)",
@@ -21,6 +73,32 @@
    "title_rw": "Rabagirana Choir yashyize hanze indirimbo nshya “Wa Musaraba” (VIDEO)",
    "summary_rw": "Korali Rabagirana yo muri ADEPR Gatsata, ahazwi nka Gariraya, yashyize hanze indirimbo nshya yitwa “Wa Musaraba”, igaruka ku mumaro w’umusaraba Yesu Kristo yabambweho n’icyo igitambo cye gisobanuye…",
    "share_id": "MN202610_177rtg0o8mm"
+  },
+  {
+   "id": "crawl_1dneb3u",
+   "title": "SOBANUKIRWA INDWARA Y'IHUNGABANA MPUZABITSINA ITERA UMUNTU KUBATWA N'IMIBONANO",
+   "summary": "#dashdashyogacenter SOBANUKIRWA BYINSHI BIRAMBUYE KU NDWARA IDASANZWE Y'IRENGAYOBORA MPUZABITSINA AHO BENSHI BATINYA KUYIVUZA BIKARANGIRA IBAGIZEHO INGARUKA ZIKOMEYE.",
+   "link": "https://www.youtube.com/watch?v=eRxkpidCiYI",
+   "url": "https://www.youtube.com/watch?v=eRxkpidCiYI",
+   "date": "2026-10-17T07:04:24.000Z",
+   "source": "Dash Dash TV YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Dash Dash TV YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "eRxkpidCiYI"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/eRxkpidCiYI/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/eRxkpidCiYI/hqdefault.jpg",
+   "title_rw": "SOBANUKIRWA INDWARA Y'IHUNGABANA MPUZABITSINA ITERA UMUNTU KUBATWA N'IMIBONANO",
+   "summary_rw": "#dashdashyogacenter SOBANUKIRWA BYINSHI BIRAMBUYE KU NDWARA IDASANZWE Y'IRENGAYOBORA MPUZABITSINA AHO BENSHI BATINYA KUYIVUZA BIKARANGIRA IBAGIZEHO INGARUKA ZIKOMEYE.",
+   "share_id": "MN202610_1dneb3uady0"
   },
   {
    "id": "crawl_fvu8kz",
@@ -43,5 +121,5 @@
    "share_id": "MN202610_fvu8kzqvo1"
   }
  ],
- "updated": "2026-11-08T17:52:54.948Z"
+ "updated": "2026-11-08T20:27:11.001Z"
 }

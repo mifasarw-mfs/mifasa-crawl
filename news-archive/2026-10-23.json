@@ -1,6 +1,6 @@
 {
  "day": "2026-10-23",
- "count": 10,
+ "count": 11,
  "articles": [
   {
    "id": "crawl_1379s41",
@@ -21,6 +21,32 @@
    "title_en": "GP says she was forced out of job after raising concerns about gender treatment",
    "summary_en": "The doctor says she faced a brutal investigation after she passed on complaints brought to her by other doctors.",
    "share_id": "MN202610_1379s412okv"
+  },
+  {
+   "id": "crawl_evz1db",
+   "title": "🔥🔥 MBEGA ABANA BAFITE IMPANO 🔥🔥 MERCI YAKIRIYE ABANA BARATUBYINIRA TUREMERA🔥🔥BARARENZE!",
+   "summary": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+   "link": "https://www.youtube.com/watch?v=E_b0hXX10Dg",
+   "url": "https://www.youtube.com/watch?v=E_b0hXX10Dg",
+   "date": "2026-10-23T17:45:03.000Z",
+   "source": "Gen-Z Comedy Show YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Gen-Z Comedy Show YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "E_b0hXX10Dg"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/E_b0hXX10Dg/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/E_b0hXX10Dg/hqdefault.jpg",
+   "title_rw": "🔥🔥 MBEGA ABANA BAFITE IMPANO 🔥🔥 MERCI YAKIRIYE ABANA BARATUBYINIRA TUREMERA🔥🔥BARARENZE!",
+   "summary_rw": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+   "share_id": "MN202610_evz1dbz66l"
   },
   {
    "id": "crawl_1i598p7",
@@ -201,5 +227,5 @@
    "share_id": "MN202610_188gx3q9i7o"
   }
  ],
- "updated": "2026-11-08T17:52:54.947Z"
+ "updated": "2026-11-08T20:27:10.999Z"
 }

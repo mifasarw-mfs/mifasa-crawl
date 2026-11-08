@@ -1,6 +1,6 @@
 {
  "day": "2026-10-14",
- "count": 4,
+ "count": 6,
  "articles": [
   {
    "id": "crawl_g6m5j6",
@@ -43,6 +43,32 @@
    "share_id": "MN202610_1uallpyei6s"
   },
   {
+   "id": "crawl_yhatd1",
+   "title": "Malayika Gabriel abonekera Titi Brown mu nzozi @minister_pirate #genzcomedyshowkigali",
+   "summary": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+   "link": "https://www.youtube.com/shorts/zrDTzuZyPy8",
+   "url": "https://www.youtube.com/shorts/zrDTzuZyPy8",
+   "date": "2026-10-14T21:16:14.000Z",
+   "source": "Gen-Z Comedy Show YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Gen-Z Comedy Show YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "zrDTzuZyPy8"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/zrDTzuZyPy8/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/zrDTzuZyPy8/hqdefault.jpg",
+   "title_rw": "Malayika Gabriel abonekera Titi Brown mu nzozi @minister_pirate #genzcomedyshowkigali",
+   "summary_rw": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+   "share_id": "MN202610_yhatd1mojn"
+  },
+  {
    "id": "crawl_1p9my5p",
    "title": "Urukiko rwaciye Ishimwe Vestine ihazabu ya 200.000 Frw",
    "summary": "Urukiko rw’Ibanze rwa Kicukiro rwaciye Ishimwe Vestine ihazabu ya 200.000 Frw nyuma yo gusubika urubanza Idrissa Ouedraogo yamurezemo, kubera ko inyandiko y’ivuka ry’umwana wagombaga gukorerwa isuz…",
@@ -61,6 +87,32 @@
    "title_rw": "Urukiko rwaciye Ishimwe Vestine ihazabu ya 200.000 Frw",
    "summary_rw": "Urukiko rw’Ibanze rwa Kicukiro rwaciye Ishimwe Vestine ihazabu ya 200.000 Frw nyuma yo gusubika urubanza Idrissa Ouedraogo yamurezemo, kubera ko inyandiko y’ivuka ry’umwana wagombaga gukorerwa isuz…",
    "share_id": "MN202610_1p9my5pdfrf"
+  },
+  {
+   "id": "crawl_161pw12",
+   "title": "NIWIBONAHO IBI BIMENYETSO UZIHUTIRE KUJYA KWA MUGANGA / SOBANUKIRWA UBUBI BW'INDWARA YA RUBAGIMPANDE",
+   "summary": "#dashdashyogacenter SOBANUKIRWA UBUBI BW'INDWARA YA RUBAGIMPANDE UMENYE UBURYO YIBASIRA UMUBIRI, IBIMENYETSO BIYIRANGA NDETSE N'UBURYO UMUNTU YAHANGANA NAYO.",
+   "link": "https://www.youtube.com/watch?v=idU6v8xevAw",
+   "url": "https://www.youtube.com/watch?v=idU6v8xevAw",
+   "date": "2026-10-14T06:00:28.000Z",
+   "source": "Dash Dash TV YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Dash Dash TV YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "idU6v8xevAw"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/idU6v8xevAw/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/idU6v8xevAw/hqdefault.jpg",
+   "title_rw": "NIWIBONAHO IBI BIMENYETSO UZIHUTIRE KUJYA KWA MUGANGA / SOBANUKIRWA UBUBI BW'INDWARA YA RUBAGIMPANDE",
+   "summary_rw": "#dashdashyogacenter SOBANUKIRWA UBUBI BW'INDWARA YA RUBAGIMPANDE UMENYE UBURYO YIBASIRA UMUBIRI, IBIMENYETSO BIYIRANGA NDETSE N'UBURYO UMUNTU YAHANGANA NAYO.",
+   "share_id": "MN202610_161pw12lyv8"
   },
   {
    "id": "crawl_1e6mu4d",
@@ -83,5 +135,5 @@
    "share_id": "MN202610_1e6mu4deriz"
   }
  ],
- "updated": "2026-11-08T17:52:54.948Z"
+ "updated": "2026-11-08T20:27:11.002Z"
 }

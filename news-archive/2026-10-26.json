@@ -1,7 +1,59 @@
 {
  "day": "2026-10-26",
- "count": 6,
+ "count": 8,
  "articles": [
+  {
+   "id": "crawl_1bbdzzr",
+   "title": "🔥🔥 KAGARARA AKOJEJE MERCI ISONI MURI PUSH UP CHALLENGE 🔥🔥ABANTU BAGUZE IGITABO CYE KU BWINSHI🔥🔥",
+   "summary": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+   "link": "https://www.youtube.com/watch?v=oVUMrIXdTek",
+   "url": "https://www.youtube.com/watch?v=oVUMrIXdTek",
+   "date": "2026-10-26T17:15:36.000Z",
+   "source": "Gen-Z Comedy Show YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Gen-Z Comedy Show YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "oVUMrIXdTek"
+   },
+   "type": "video",
+   "image": "https://i4.ytimg.com/vi/oVUMrIXdTek/hqdefault.jpg",
+   "thumbnail": "https://i4.ytimg.com/vi/oVUMrIXdTek/hqdefault.jpg",
+   "title_rw": "🔥🔥 KAGARARA AKOJEJE MERCI ISONI MURI PUSH UP CHALLENGE 🔥🔥ABANTU BAGUZE IGITABO CYE KU BWINSHI🔥🔥",
+   "summary_rw": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+   "share_id": "MN202610_1bbdzzra2tx"
+  },
+  {
+   "id": "crawl_10pj9ys",
+   "title": "Yongwe nyuma yo Gukubitwa na Philpeter 🤣aje yariye karungu🤣Kuri Papa çava Papa na Rocky🤣",
+   "summary": "Ushatse kutuvugisha #0787413998 #MIEempire https://www.instagram.com/mie_empire.rw/ https://www.instagram.com/irenemurindahabi/",
+   "link": "https://www.youtube.com/watch?v=sd7ywRiDBms",
+   "url": "https://www.youtube.com/watch?v=sd7ywRiDBms",
+   "date": "2026-10-26T15:47:15.000Z",
+   "source": "Mie Empire YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Mie Empire YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "sd7ywRiDBms"
+   },
+   "type": "video",
+   "image": "https://i4.ytimg.com/vi/sd7ywRiDBms/hqdefault.jpg",
+   "thumbnail": "https://i4.ytimg.com/vi/sd7ywRiDBms/hqdefault.jpg",
+   "title_rw": "Yongwe nyuma yo Gukubitwa na Philpeter 🤣aje yariye karungu🤣Kuri Papa çava Papa na Rocky🤣",
+   "summary_rw": "Ushatse kutuvugisha #0787413998 #MIEempire https://www.instagram.com/mie_empire.rw/ https://www.instagram.com/irenemurindahabi/",
+   "share_id": "MN202610_10pj9ysfcsy"
+  },
   {
    "id": "crawl_vuerhs",
    "title": "Consultant doctors in England to strike next month",
@@ -123,5 +175,5 @@
    "share_id": "MN202610_1hl7w9q0sqk"
   }
  ],
- "updated": "2026-11-08T17:52:54.947Z"
+ "updated": "2026-11-08T20:27:10.998Z"
 }

@@ -1,6 +1,6 @@
 {
  "day": "2026-10-20",
- "count": 8,
+ "count": 9,
  "articles": [
   {
    "id": "crawl_a9i7t1",
@@ -61,6 +61,32 @@
    "title_rw": "Umunyamahirwe yatsindiye miliyoni 10,7Frw yateze Frw 20,000!",
    "summary_rw": "Ku mafaranga 20,000RWF gusa umunyamahirwe w’icyumweru yerekanye uburyo watsindira ‘cash’ mu buryo bwihuse hamwe na Fortebet. Ku ipari yari igizwe n’imikino 21 uyu munyamahirwe yirinze g…",
    "share_id": "MN202610_1v6m2dhenhf"
+  },
+  {
+   "id": "crawl_6qkqdu",
+   "title": "NTUZONGERA KURYA IBIRIBWA BITETSE GUSA NUMARA KUMVA AKAMARO KO KURYA IBIRIBWA BIBISI",
+   "summary": "#dashdashyogacenter SOBANUKIRWA AKAMARO KO KURYA IBIRIBWA BIBISI, UMENYE UBURYO ARI BYIZA CYANE MU BUZIMA BWA BURI MUNSI KURUSHA IBIRIBWA BIHIYE.",
+   "link": "https://www.youtube.com/watch?v=dNfuHfWayy8",
+   "url": "https://www.youtube.com/watch?v=dNfuHfWayy8",
+   "date": "2026-10-20T09:07:47.000Z",
+   "source": "Dash Dash TV YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Dash Dash TV YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "dNfuHfWayy8"
+   },
+   "type": "video",
+   "image": "https://i1.ytimg.com/vi/dNfuHfWayy8/hqdefault.jpg",
+   "thumbnail": "https://i1.ytimg.com/vi/dNfuHfWayy8/hqdefault.jpg",
+   "title_rw": "NTUZONGERA KURYA IBIRIBWA BITETSE GUSA NUMARA KUMVA AKAMARO KO KURYA IBIRIBWA BIBISI",
+   "summary_rw": "#dashdashyogacenter SOBANUKIRWA AKAMARO KO KURYA IBIRIBWA BIBISI, UMENYE UBURYO ARI BYIZA CYANE MU BUZIMA BWA BURI MUNSI KURUSHA IBIRIBWA BIHIYE.",
+   "share_id": "MN202610_6qkqdukv74"
   },
   {
    "id": "crawl_ilr1bt",
@@ -157,5 +183,5 @@
    "share_id": "MN202610_1apfgf6etq8"
   }
  ],
- "updated": "2026-11-08T17:52:54.947Z"
+ "updated": "2026-11-08T20:27:11.000Z"
 }

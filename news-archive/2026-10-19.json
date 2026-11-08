@@ -1,7 +1,33 @@
 {
  "day": "2026-10-19",
- "count": 6,
+ "count": 7,
  "articles": [
+  {
+   "id": "crawl_1dzp9qt",
+   "title": "NGWINO URARE LIVE @titibrowndancer 🔥🔥 MERCI YAKIRIYE TITI BROWN ATUBWIRA BYINSHI KU NDIRIMBO YE 🔥🔥",
+   "summary": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+   "link": "https://www.youtube.com/watch?v=60_vLrJK-dA",
+   "url": "https://www.youtube.com/watch?v=60_vLrJK-dA",
+   "date": "2026-10-19T16:45:01.000Z",
+   "source": "Gen-Z Comedy Show YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Gen-Z Comedy Show YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "60_vLrJK-dA"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/60_vLrJK-dA/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/60_vLrJK-dA/hqdefault.jpg",
+   "title_rw": "NGWINO URARE LIVE @titibrowndancer 🔥🔥 MERCI YAKIRIYE TITI BROWN ATUBWIRA BYINSHI KU NDIRIMBO YE 🔥🔥",
+   "summary_rw": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+   "share_id": "MN202610_1dzp9qtlckz"
+  },
   {
    "id": "crawl_18h1ynv",
    "title": "Rwanda Secures Long-Awaited AFCON U-17 Qualification",
@@ -122,5 +148,5 @@
    "share_id": "MN202610_1dfyaynr7fh"
   }
  ],
- "updated": "2026-11-08T17:52:54.948Z"
+ "updated": "2026-11-08T20:27:11.000Z"
 }

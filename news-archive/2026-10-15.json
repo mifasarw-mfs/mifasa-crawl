@@ -1,6 +1,6 @@
 {
  "day": "2026-10-15",
- "count": 8,
+ "count": 10,
  "articles": [
   {
    "id": "crawl_1clgdv8",
@@ -21,6 +21,32 @@
    "title_en": "Living with a stink? Technology might help",
    "summary_en": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
    "share_id": "MN202610_1clgdv89ac2"
+  },
+  {
+   "id": "crawl_1h6isis",
+   "title": "Inyajwi \"W\" by @joshua_comedian #genzcomedyshowkigali #jokeoftheday Powered by MTN Yolo",
+   "summary": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+   "link": "https://www.youtube.com/shorts/bJAfCSVVOuM",
+   "url": "https://www.youtube.com/shorts/bJAfCSVVOuM",
+   "date": "2026-10-15T20:00:58.000Z",
+   "source": "Gen-Z Comedy Show YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Gen-Z Comedy Show YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "bJAfCSVVOuM"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/bJAfCSVVOuM/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/bJAfCSVVOuM/hqdefault.jpg",
+   "title_rw": "Inyajwi \"W\" by @joshua_comedian #genzcomedyshowkigali #jokeoftheday Powered by MTN Yolo",
+   "summary_rw": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+   "share_id": "MN202610_1h6isisunpe"
   },
   {
    "id": "crawl_1ukttrl",
@@ -128,6 +154,32 @@
    "share_id": "MN202610_18l5c7mjjn4"
   },
   {
+   "id": "crawl_1kxnngl",
+   "title": "Tikupa Tikupa won’t stop in my head",
+   "summary": "Tikupa Tikupa won’t stop in my head",
+   "link": "https://www.youtube.com/shorts/g4vzdtNmf8k",
+   "url": "https://www.youtube.com/shorts/g4vzdtNmf8k",
+   "date": "2026-10-15T05:52:01.000Z",
+   "source": "The Ben YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "The Ben YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "g4vzdtNmf8k"
+   },
+   "type": "video",
+   "image": "https://i4.ytimg.com/vi/g4vzdtNmf8k/hqdefault.jpg",
+   "thumbnail": "https://i4.ytimg.com/vi/g4vzdtNmf8k/hqdefault.jpg",
+   "title_rw": "Tikupa Tikupa won’t stop in my head",
+   "summary_rw": "Tikupa Tikupa won’t stop in my head",
+   "share_id": "MN202610_1kxnnglzin7"
+  },
+  {
    "id": "crawl_1kh7co5",
    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
    "summary": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
@@ -164,5 +216,5 @@
    "share_id": "MN202610_2y6xbdl22v"
   }
  ],
- "updated": "2026-11-08T18:46:49.482Z"
+ "updated": "2026-11-08T20:27:11.001Z"
 }

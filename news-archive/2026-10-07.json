@@ -1,6 +1,6 @@
 {
  "day": "2026-10-07",
- "count": 2,
+ "count": 7,
  "articles": [
   {
    "id": "crawl_yua6wu",
@@ -24,6 +24,136 @@
    "share_id": "MN202610_yua6wullng"
   },
   {
+   "id": "crawl_1h7xdm3",
+   "title": "Inshallah by the Ben",
+   "summary": "Inshallah by the Ben",
+   "link": "https://www.youtube.com/shorts/XuwnZ-q6AkA",
+   "url": "https://www.youtube.com/shorts/XuwnZ-q6AkA",
+   "date": "2026-10-07T13:13:08.000Z",
+   "source": "The Ben YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "The Ben YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "XuwnZ-q6AkA"
+   },
+   "type": "video",
+   "image": "https://i1.ytimg.com/vi/XuwnZ-q6AkA/hqdefault.jpg",
+   "thumbnail": "https://i1.ytimg.com/vi/XuwnZ-q6AkA/hqdefault.jpg",
+   "title_rw": "Inshallah by the Ben",
+   "summary_rw": "Inshallah by the Ben",
+   "share_id": "MN202610_1h7xdm398sp"
+  },
+  {
+   "id": "crawl_19poqqo",
+   "title": "Little angel vibing to inshallah by the Ben",
+   "summary": "Little angel vibing to inshallah by the Ben",
+   "link": "https://www.youtube.com/shorts/DsEpxFuumns",
+   "url": "https://www.youtube.com/shorts/DsEpxFuumns",
+   "date": "2026-10-07T13:11:02.000Z",
+   "source": "The Ben YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "The Ben YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "DsEpxFuumns"
+   },
+   "type": "video",
+   "image": "https://i1.ytimg.com/vi/DsEpxFuumns/hqdefault.jpg",
+   "thumbnail": "https://i1.ytimg.com/vi/DsEpxFuumns/hqdefault.jpg",
+   "title_rw": "Little angel vibing to inshallah by the Ben",
+   "summary_rw": "Little angel vibing to inshallah by the Ben",
+   "share_id": "MN202610_19poqqo0lxa"
+  },
+  {
+   "id": "crawl_1gjs2gv",
+   "title": "INSHALLAH TRENDING WORLDWIDE",
+   "summary": "INSHALLAH TRENDING WORLDWIDE",
+   "link": "https://www.youtube.com/shorts/eWAzUynbG2s",
+   "url": "https://www.youtube.com/shorts/eWAzUynbG2s",
+   "date": "2026-10-07T13:07:26.000Z",
+   "source": "The Ben YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "The Ben YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "eWAzUynbG2s"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/eWAzUynbG2s/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/eWAzUynbG2s/hqdefault.jpg",
+   "title_rw": "INSHALLAH TRENDING WORLDWIDE",
+   "summary_rw": "INSHALLAH TRENDING WORLDWIDE",
+   "share_id": "MN202610_1gjs2gv3xnh"
+  },
+  {
+   "id": "crawl_fdfmtb",
+   "title": "Little angel dancing to Inshallah",
+   "summary": "Little angel dancing to Inshallah",
+   "link": "https://www.youtube.com/shorts/XslNOTG8370",
+   "url": "https://www.youtube.com/shorts/XslNOTG8370",
+   "date": "2026-10-07T13:06:46.000Z",
+   "source": "The Ben YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "The Ben YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "XslNOTG8370"
+   },
+   "type": "video",
+   "image": "https://i1.ytimg.com/vi/XslNOTG8370/hqdefault.jpg",
+   "thumbnail": "https://i1.ytimg.com/vi/XslNOTG8370/hqdefault.jpg",
+   "title_rw": "Little angel dancing to Inshallah",
+   "summary_rw": "Little angel dancing to Inshallah",
+   "share_id": "MN202610_fdfmtbvjz1"
+  },
+  {
+   "id": "crawl_15t1o2h",
+   "title": "Inshallah by the Ben trending worldwide",
+   "summary": "Inshallah by the Ben trending worldwide",
+   "link": "https://www.youtube.com/shorts/SbcpOPBczFo",
+   "url": "https://www.youtube.com/shorts/SbcpOPBczFo",
+   "date": "2026-10-07T13:04:16.000Z",
+   "source": "The Ben YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "The Ben YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "SbcpOPBczFo"
+   },
+   "type": "video",
+   "image": "https://i4.ytimg.com/vi/SbcpOPBczFo/hqdefault.jpg",
+   "thumbnail": "https://i4.ytimg.com/vi/SbcpOPBczFo/hqdefault.jpg",
+   "title_rw": "Inshallah by the Ben trending worldwide",
+   "summary_rw": "Inshallah by the Ben trending worldwide",
+   "share_id": "MN202610_15t1o2hdj93"
+  },
+  {
    "id": "crawl_1axxmt4",
    "title": "Abarimu bemeza ko kwigisha bataha kure y’imiryango yabo ari imbogamizi ku ireme ry’uburezi",
    "summary": "Rusizi: Abarimu bo mu murenge wa Kamembe, bavuga ko kuba bamwe muri bo bakora akazi bataha kure y’imiryango yabo, bikiri imbogamizi y’uburezi bufite ireme. Ku wa Mbere tariki ya 5 Ukwakira 2026, ab…",
@@ -44,5 +174,5 @@
    "share_id": "MN202610_1axxmt4zxzq"
   }
  ],
- "updated": "2026-11-08T17:52:54.949Z"
+ "updated": "2026-11-08T20:27:11.003Z"
 }

@@ -1,6 +1,6 @@
 {
  "day": "2026-10-21",
- "count": 5,
+ "count": 7,
  "articles": [
   {
    "id": "crawl_1x8w3wy",
@@ -21,6 +21,32 @@
    "title_en": "The grads ditching the UK for a fresh start abroad",
    "summary_en": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
    "share_id": "MN202610_1x8w3wyp0ds"
+  },
+  {
+   "id": "crawl_15rxx4l",
+   "title": "🔥🔥 MUHINDE YAKIRIYE JUNIOR KIDS BARATUBYINIRA TUREMERA🔥🔥BAFITE IMPANO IDASANZWE 🔥🔥",
+   "summary": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+   "link": "https://www.youtube.com/watch?v=WRhGV47-uzk",
+   "url": "https://www.youtube.com/watch?v=WRhGV47-uzk",
+   "date": "2026-10-21T18:29:20.000Z",
+   "source": "Gen-Z Comedy Show YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Gen-Z Comedy Show YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "WRhGV47-uzk"
+   },
+   "type": "video",
+   "image": "https://i4.ytimg.com/vi/WRhGV47-uzk/hqdefault.jpg",
+   "thumbnail": "https://i4.ytimg.com/vi/WRhGV47-uzk/hqdefault.jpg",
+   "title_rw": "🔥🔥 MUHINDE YAKIRIYE JUNIOR KIDS BARATUBYINIRA TUREMERA🔥🔥BAFITE IMPANO IDASANZWE 🔥🔥",
+   "summary_rw": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+   "share_id": "MN202610_15rxx4ltzyr"
   },
   {
    "id": "crawl_i6w0k1",
@@ -57,6 +83,32 @@
    "title_en": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
    "summary_en": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
    "share_id": "MN202610_1gfqb0voqlp"
+  },
+  {
+   "id": "crawl_1ojqa8t",
+   "title": "Halloween Rhymes for Kids 🎃👻 | Halloween Special | Best Nursery Rhymes for Kids | Tia & Tofu",
+   "summary": "@kidshut family presents \"Halloween Rhymes for Kids 🎃👻 | Halloween Special | Best Nursery Rhymes for Kids | Tia & Tofu\" by KIDS HUT. 1. Halloween Night (Kids Halloween Song) 2. Party with the Dracula Halloween song 3. It's Halloween night - Halloween song ------------------------------------- NEW UPLOADS COLLECTION ► http://bit.ly/1TTDl6r ------------------------------------- ✿ Voice Credit:…",
+   "link": "https://www.youtube.com/watch?v=VO3marNjkHE",
+   "url": "https://www.youtube.com/watch?v=VO3marNjkHE",
+   "date": "2026-10-21T09:53:23.000Z",
+   "source": "T-Series YouTube",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "T-Series YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "VO3marNjkHE"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/VO3marNjkHE/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/VO3marNjkHE/hqdefault.jpg",
+   "title_en": "Halloween Rhymes for Kids 🎃👻 | Halloween Special | Best Nursery Rhymes for Kids | Tia & Tofu",
+   "summary_en": "@kidshut family presents \"Halloween Rhymes for Kids 🎃👻 | Halloween Special | Best Nursery Rhymes for Kids | Tia & Tofu\" by KIDS HUT. 1. Halloween Night (Kids Halloween Song) 2. Party with the Dracula Halloween song 3. It's Halloween night - Halloween song ------------------------------------- NEW UPLOADS COLLECTION ► http://bit.ly/1TTDl6r ------------------------------------- ✿ Voice Credit:…",
+   "share_id": "MN202610_1ojqa8tmd2z"
   },
   {
    "id": "crawl_1jm6df9",
@@ -99,5 +151,5 @@
    "share_id": "MN202610_12iyu735c71"
   }
  ],
- "updated": "2026-11-08T17:52:54.947Z"
+ "updated": "2026-11-08T20:27:11.000Z"
 }
