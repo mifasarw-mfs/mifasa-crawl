@@ -1,6 +1,6 @@
 {
  "day": "2026-11-02",
- "count": 43,
+ "count": 45,
  "articles": [
   {
    "id": "crawl_lluz1g",
@@ -247,6 +247,32 @@
    "share_id": "MN202611_1lh4xwx23m"
   },
   {
+   "id": "crawl_1dhcay7",
+   "title": "Ndabyanga - Acoustic version ❤️🙏",
+   "summary": "Ndabyanga - Acoustic version ❤️🙏",
+   "link": "https://www.youtube.com/shorts/llp-rrh3ioE",
+   "url": "https://www.youtube.com/shorts/llp-rrh3ioE",
+   "date": "2026-11-02T09:45:00.000Z",
+   "source": "Yee Fanta YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Yee Fanta YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "llp-rrh3ioE"
+   },
+   "type": "video",
+   "image": "https://i1.ytimg.com/vi/llp-rrh3ioE/hqdefault.jpg",
+   "thumbnail": "https://i1.ytimg.com/vi/llp-rrh3ioE/hqdefault.jpg",
+   "title_rw": "Ndabyanga - Acoustic version ❤️🙏",
+   "summary_rw": "Ndabyanga - Acoustic version ❤️🙏",
+   "share_id": "MN202611_1dhcay7o64t"
+  },
+  {
    "id": "crawl_kwnd07",
    "title": "UPDATED: RIB yavuze ko Visi Mayor wa Gisagara agifunze, n’ukuriye ubugenzacyaha muri ako karere",
    "summary": "UPDATED KU WA MBERE 01h13 a.m: Umuvugizi w’Urego rw’Igihugu rw’Ubugenzacyaha, Dr Murangira B Thierry, yemeje ko Umuyobozi w’Akarere ka Gisagara wungirije ushinzwe imibereho myiza y’abaturage,…",
@@ -379,6 +405,32 @@
    "title_en": "A Pass - Shillingi (Official Music Video)",
    "summary_en": "Official Music Video for \"Shillingi\" A Pass. Shillingi is now available on all digital platforms Credits: Video Director: Director = BASH OG D.O.P = DIRVIGO | Assistant Camera = Newton Colorist = LEP Artists: A Pass Production/ Producer/Beat Maker: Tryton Recording Engineer: Bagonza Alexander aka A Pass Additional Production: Ernest (Bassist) Myko Ouma (Guitar & Ndingidi) Mixing & Mastering Engine",
    "share_id": "MN202611_1d4faqdbdkj"
+  },
+  {
+   "id": "crawl_cl88pv",
+   "title": "Niko yeee ntimurire",
+   "summary": "Niko yeee ntimurire",
+   "link": "https://www.youtube.com/shorts/vMyMHYCXjuA",
+   "url": "https://www.youtube.com/shorts/vMyMHYCXjuA",
+   "date": "2026-11-02T02:03:59.000Z",
+   "source": "Buri Kantu Na Buri Nguni YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Buri Kantu Na Buri Nguni YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "vMyMHYCXjuA"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/vMyMHYCXjuA/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/vMyMHYCXjuA/hqdefault.jpg",
+   "title_rw": "Niko yeee ntimurire",
+   "summary_rw": "Niko yeee ntimurire",
+   "share_id": "MN202611_cl88pvo5vl"
   },
   {
    "id": "crawl_1ivwcy7",
@@ -937,5 +989,5 @@
    "share_id": "MN202611_1bsxwlxibhv"
   }
  ],
- "updated": "2026-11-08T20:27:10.995Z"
+ "updated": "2026-11-08T20:56:45.122Z"
 }

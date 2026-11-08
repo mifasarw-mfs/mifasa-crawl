@@ -1,6 +1,6 @@
 {
  "day": "2026-11-05",
- "count": 110,
+ "count": 112,
  "articles": [
   {
    "id": "crawl_1qdwl2q",
@@ -322,6 +322,32 @@
    "title_rw": "Umukobwa yaturitse ararira mu rukiko yumvise igihano gisabiwe uwamuteye inda",
    "summary_rw": "Muhanga: Umukobwa w’imyaka 18 y’amavuko yasutse amarira ubwo yumvaga Ubushinjacyaha busabiye umusore wamuteye inda, igifungo cy’imyaka 25. Iburanisha ryabereye mu Rukiko Rwisumbuy…",
    "share_id": "MN202611_dnhj2dvqhv"
+  },
+  {
+   "id": "crawl_19x8cqf",
+   "title": "Harahiye🚨BABU arongoye UMUKOBWA WA MUTABARUKA wa TV1🔥induru ziravuze murukundo",
+   "summary": "Harahiye🚨BABU arongoye UMUKOBWA WA MUTABARUKA wa TV1🔥induru ziravuze murukundo",
+   "link": "https://www.youtube.com/watch?v=JnJkPvyMnDw",
+   "url": "https://www.youtube.com/watch?v=JnJkPvyMnDw",
+   "date": "2026-11-05T19:15:54.000Z",
+   "source": "Buri Kantu Na Buri Nguni YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Buri Kantu Na Buri Nguni YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "JnJkPvyMnDw"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/JnJkPvyMnDw/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/JnJkPvyMnDw/hqdefault.jpg",
+   "title_rw": "Harahiye🚨BABU arongoye UMUKOBWA WA MUTABARUKA wa TV1🔥induru ziravuze murukundo",
+   "summary_rw": "Harahiye🚨BABU arongoye UMUKOBWA WA MUTABARUKA wa TV1🔥induru ziravuze murukundo",
+   "share_id": "MN202611_19x8cqf4fkl"
   },
   {
    "id": "crawl_15q9kht",
@@ -1849,6 +1875,32 @@
    "share_id": "MN202611_1wdaip12g3n"
   },
   {
+   "id": "crawl_1molthj",
+   "title": "#aura #rap #newmusic",
+   "summary": "#aura #rap #newmusic",
+   "link": "https://www.youtube.com/shorts/S_fdRZH2Y68",
+   "url": "https://www.youtube.com/shorts/S_fdRZH2Y68",
+   "date": "2026-11-05T07:00:13.000Z",
+   "source": "Ish Kevin YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Ish Kevin YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "S_fdRZH2Y68"
+   },
+   "type": "video",
+   "image": "https://i4.ytimg.com/vi/S_fdRZH2Y68/hqdefault.jpg",
+   "thumbnail": "https://i4.ytimg.com/vi/S_fdRZH2Y68/hqdefault.jpg",
+   "title_rw": "#aura #rap #newmusic",
+   "summary_rw": "#aura #rap #newmusic",
+   "share_id": "MN202611_1molthjxoo5"
+  },
+  {
    "id": "crawl_86lbvk",
    "title": "Poundland owner in crunch talks as retailer's collapse looms",
    "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
@@ -2251,5 +2303,5 @@
    "share_id": "MN202611_17ts6dg8jj6"
   }
  ],
- "updated": "2026-11-08T20:27:10.991Z"
+ "updated": "2026-11-08T20:56:45.118Z"
 }

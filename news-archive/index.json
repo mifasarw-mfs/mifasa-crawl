@@ -1,51 +1,51 @@
 {
- "updated": "2026-11-08T20:27:11.009Z",
- "total": 814,
+ "updated": "2026-11-08T20:56:45.134Z",
+ "total": 842,
  "days": [
   {
    "day": "2026-11-08",
    "file": "news-archive/2026-11-08.json",
-   "count": 89
+   "count": 93
   },
   {
    "day": "2026-11-07",
    "file": "news-archive/2026-11-07.json",
-   "count": 84
+   "count": 85
   },
   {
    "day": "2026-11-06",
    "file": "news-archive/2026-11-06.json",
-   "count": 125
+   "count": 128
   },
   {
    "day": "2026-11-05",
    "file": "news-archive/2026-11-05.json",
-   "count": 110
+   "count": 112
   },
   {
    "day": "2026-11-04",
    "file": "news-archive/2026-11-04.json",
-   "count": 68
+   "count": 69
   },
   {
    "day": "2026-11-03",
    "file": "news-archive/2026-11-03.json",
-   "count": 71
+   "count": 72
   },
   {
    "day": "2026-11-02",
    "file": "news-archive/2026-11-02.json",
-   "count": 43
+   "count": 45
   },
   {
    "day": "2026-11-01",
    "file": "news-archive/2026-11-01.json",
-   "count": 17
+   "count": 19
   },
   {
    "day": "2026-10-31",
    "file": "news-archive/2026-10-31.json",
-   "count": 16
+   "count": 17
   },
   {
    "day": "2026-10-30",
@@ -60,32 +60,32 @@
   {
    "day": "2026-10-28",
    "file": "news-archive/2026-10-28.json",
-   "count": 12
+   "count": 14
   },
   {
    "day": "2026-10-27",
    "file": "news-archive/2026-10-27.json",
-   "count": 12
+   "count": 14
   },
   {
    "day": "2026-10-26",
    "file": "news-archive/2026-10-26.json",
-   "count": 8
+   "count": 9
   },
   {
    "day": "2026-10-25",
    "file": "news-archive/2026-10-25.json",
-   "count": 4
+   "count": 5
   },
   {
    "day": "2026-10-24",
    "file": "news-archive/2026-10-24.json",
-   "count": 4
+   "count": 6
   },
   {
    "day": "2026-10-23",
    "file": "news-archive/2026-10-23.json",
-   "count": 11
+   "count": 12
   },
   {
    "day": "2026-10-22",
@@ -100,12 +100,12 @@
   {
    "day": "2026-10-20",
    "file": "news-archive/2026-10-20.json",
-   "count": 9
+   "count": 10
   },
   {
    "day": "2026-10-19",
    "file": "news-archive/2026-10-19.json",
-   "count": 7
+   "count": 8
   },
   {
    "day": "2026-10-18",

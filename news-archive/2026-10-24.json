@@ -1,7 +1,33 @@
 {
  "day": "2026-10-24",
- "count": 4,
+ "count": 6,
  "articles": [
+  {
+   "id": "crawl_u79y22",
+   "title": "Umwali 🔥",
+   "summary": "Umwali 🔥",
+   "link": "https://www.youtube.com/shorts/YGnRB2DsA00",
+   "url": "https://www.youtube.com/shorts/YGnRB2DsA00",
+   "date": "2026-10-24T17:59:05.000Z",
+   "source": "Kid From Kigali YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Kid From Kigali YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "YGnRB2DsA00"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/YGnRB2DsA00/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/YGnRB2DsA00/hqdefault.jpg",
+   "title_rw": "Umwali 🔥",
+   "summary_rw": "Umwali 🔥",
+   "share_id": "MN202610_u79y22lt8o"
+  },
   {
    "id": "crawl_p7tjwp",
    "title": "We Built A Medical Clinic",
@@ -27,6 +53,32 @@
    "title_en": "We Built A Medical Clinic",
    "summary_en": "We Built A Medical Clinic",
    "share_id": "MN202610_p7tjwp5f3b"
+  },
+  {
+   "id": "crawl_1w8ew2",
+   "title": "#newmusic #rap #hiphop #music #rapper",
+   "summary": "#newmusic #rap #hiphop #music #rapper",
+   "link": "https://www.youtube.com/shorts/zfxgHEsinuY",
+   "url": "https://www.youtube.com/shorts/zfxgHEsinuY",
+   "date": "2026-10-24T12:18:58.000Z",
+   "source": "Ish Kevin YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Ish Kevin YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "zfxgHEsinuY"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/zfxgHEsinuY/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/zfxgHEsinuY/hqdefault.jpg",
+   "title_rw": "#newmusic #rap #hiphop #music #rapper",
+   "summary_rw": "#newmusic #rap #hiphop #music #rapper",
+   "share_id": "MN202610_1w8ew2oc1s"
   },
   {
    "id": "crawl_v4zm5",
@@ -89,5 +141,5 @@
    "share_id": "MN202610_19vsek9kbyv"
   }
  ],
- "updated": "2026-11-08T20:27:10.999Z"
+ "updated": "2026-11-08T20:56:45.125Z"
 }

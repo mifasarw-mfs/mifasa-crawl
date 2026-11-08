@@ -1,6 +1,6 @@
 {
  "day": "2026-10-20",
- "count": 9,
+ "count": 10,
  "articles": [
   {
    "id": "crawl_a9i7t1",
@@ -41,6 +41,32 @@
    "title_en": "Tech Life",
    "summary_en": "The next generation of chip is thinner and flexible when compared to traditional silicon.",
    "share_id": "MN202610_42xcc7qgut"
+  },
+  {
+   "id": "crawl_14k0a8i",
+   "title": "Aura #rap #newmusic #hiphop #music #freestyle #rapper #trap #lyrics #trappish3_winsomelosesome",
+   "summary": "Aura #rap #newmusic #hiphop #music #freestyle #rapper #trap #lyrics #trappish3_winsomelosesome",
+   "link": "https://www.youtube.com/shorts/pmytUeOww2A",
+   "url": "https://www.youtube.com/shorts/pmytUeOww2A",
+   "date": "2026-10-20T10:35:36.000Z",
+   "source": "Ish Kevin YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Ish Kevin YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "pmytUeOww2A"
+   },
+   "type": "video",
+   "image": "https://i1.ytimg.com/vi/pmytUeOww2A/hqdefault.jpg",
+   "thumbnail": "https://i1.ytimg.com/vi/pmytUeOww2A/hqdefault.jpg",
+   "title_rw": "Aura #rap #newmusic #hiphop #music #freestyle #rapper #trap #lyrics #trappish3_winsomelosesome",
+   "summary_rw": "Aura #rap #newmusic #hiphop #music #freestyle #rapper #trap #lyrics #trappish3_winsomelosesome",
+   "share_id": "MN202610_14k0a8ic5f4"
   },
   {
    "id": "crawl_1v6m2dh",
@@ -183,5 +209,5 @@
    "share_id": "MN202610_1apfgf6etq8"
   }
  ],
- "updated": "2026-11-08T20:27:11.000Z"
+ "updated": "2026-11-08T20:56:45.126Z"
 }

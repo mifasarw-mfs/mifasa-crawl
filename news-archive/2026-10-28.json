@@ -1,6 +1,6 @@
 {
  "day": "2026-10-28",
- "count": 12,
+ "count": 14,
  "articles": [
   {
    "id": "crawl_1pns6zx",
@@ -75,6 +75,32 @@
    "share_id": "MN202610_v4xvjdqs07"
   },
   {
+   "id": "crawl_jv4rfc",
+   "title": "Harahiye🚨video za BWIZA ASOMANA numu ex wumudiaspora irarikoze 😭manager bimugezeho sasa",
+   "summary": "Harahiye🚨video za BWIZA ASOMANA numu ex wumudiaspora irarikoze 😭manager bimugezeho sasa",
+   "link": "https://www.youtube.com/watch?v=6gw5svperyQ",
+   "url": "https://www.youtube.com/watch?v=6gw5svperyQ",
+   "date": "2026-10-28T18:58:31.000Z",
+   "source": "Buri Kantu Na Buri Nguni YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Buri Kantu Na Buri Nguni YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "6gw5svperyQ"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/6gw5svperyQ/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/6gw5svperyQ/hqdefault.jpg",
+   "title_rw": "Harahiye🚨video za BWIZA ASOMANA numu ex wumudiaspora irarikoze 😭manager bimugezeho sasa",
+   "summary_rw": "Harahiye🚨video za BWIZA ASOMANA numu ex wumudiaspora irarikoze 😭manager bimugezeho sasa",
+   "share_id": "MN202610_jv4rfc4w8m"
+  },
+  {
    "id": "crawl_15t46ne",
    "title": "Safi na Sonia Ba TikTok 😂Udusisters Duhora Turwana🤣Mbega Utwana uraseka wihirike🤣🤣",
    "summary": "Ushatse kutuvugisha #0787413998 #MIEempire https://www.instagram.com/mie_empire.rw/ https://www.instagram.com/irenemurindahabi/",
@@ -146,6 +172,32 @@
    "title_en": "JUMANJI: OPEN WORLD - New Trailer (4K)",
    "summary_en": "Our world. New rules. One final game. The final countdown begins. Watch the new trailer for #Jumanji: Open World - exclusively in theatres Christmas Day. Follow Us On Social: https://www.facebook.com/JumanjiMovie https://www.twitter.com/JumanjiMovie https://www.instagram.com/JumanjiMovie https://www.tiktok.com/@jumanjimovie This Christmas, Dwayne Johnson, Kevin Hart, Jack Black, and Karen Gillan a",
    "share_id": "MN202610_1oq8k8w4n32"
+  },
+  {
+   "id": "crawl_61uxwb",
+   "title": "#greatness #newmusic #trappishmusic #album #2026",
+   "summary": "#greatness #newmusic #trappishmusic #album #2026",
+   "link": "https://www.youtube.com/shorts/bND84Dr_h00",
+   "url": "https://www.youtube.com/shorts/bND84Dr_h00",
+   "date": "2026-10-28T12:33:29.000Z",
+   "source": "Ish Kevin YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Ish Kevin YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "bND84Dr_h00"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/bND84Dr_h00/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/bND84Dr_h00/hqdefault.jpg",
+   "title_rw": "#greatness #newmusic #trappishmusic #album #2026",
+   "summary_rw": "#greatness #newmusic #trappishmusic #album #2026",
+   "share_id": "MN202610_61uxwbav21"
   },
   {
    "id": "crawl_1juzbar",
@@ -284,5 +336,5 @@
    "share_id": "MN202610_1k96sg8u1eu"
   }
  ],
- "updated": "2026-11-08T20:27:10.997Z"
+ "updated": "2026-11-08T20:56:45.124Z"
 }

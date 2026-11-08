@@ -1,7 +1,33 @@
 {
  "day": "2026-10-26",
- "count": 8,
+ "count": 9,
  "articles": [
+  {
+   "id": "crawl_18wo7ih",
+   "title": "Burikantu asabye imbabazi",
+   "summary": "Burikantu asabye imbabazi",
+   "link": "https://www.youtube.com/shorts/qq1LphlyTxc",
+   "url": "https://www.youtube.com/shorts/qq1LphlyTxc",
+   "date": "2026-10-26T20:04:59.000Z",
+   "source": "Buri Kantu Na Buri Nguni YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Buri Kantu Na Buri Nguni YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "qq1LphlyTxc"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/qq1LphlyTxc/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/qq1LphlyTxc/hqdefault.jpg",
+   "title_rw": "Burikantu asabye imbabazi",
+   "summary_rw": "Burikantu asabye imbabazi",
+   "share_id": "MN202610_18wo7ih02p3"
+  },
   {
    "id": "crawl_1bbdzzr",
    "title": "🔥🔥 KAGARARA AKOJEJE MERCI ISONI MURI PUSH UP CHALLENGE 🔥🔥ABANTU BAGUZE IGITABO CYE KU BWINSHI🔥🔥",
@@ -175,5 +201,5 @@
    "share_id": "MN202610_1hl7w9q0sqk"
   }
  ],
- "updated": "2026-11-08T20:27:10.998Z"
+ "updated": "2026-11-08T20:56:45.125Z"
 }

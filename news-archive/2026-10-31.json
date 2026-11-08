@@ -1,6 +1,6 @@
 {
  "day": "2026-10-31",
- "count": 16,
+ "count": 17,
  "articles": [
   {
    "id": "crawl_3tjic",
@@ -271,6 +271,32 @@
    "share_id": "MN202610_rkbu4jnpb5"
   },
   {
+   "id": "crawl_1sn7ano",
+   "title": "Muze tubahe",
+   "summary": "Muze tubahe",
+   "link": "https://www.youtube.com/shorts/DO-y10sSz9c",
+   "url": "https://www.youtube.com/shorts/DO-y10sSz9c",
+   "date": "2026-10-31T02:53:24.000Z",
+   "source": "Buri Kantu Na Buri Nguni YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Buri Kantu Na Buri Nguni YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "DO-y10sSz9c"
+   },
+   "type": "video",
+   "image": "https://i1.ytimg.com/vi/DO-y10sSz9c/hqdefault.jpg",
+   "thumbnail": "https://i1.ytimg.com/vi/DO-y10sSz9c/hqdefault.jpg",
+   "title_rw": "Muze tubahe",
+   "summary_rw": "Muze tubahe",
+   "share_id": "MN202610_1sn7anoj5ua"
+  },
+  {
    "id": "crawl_10yn17j",
    "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
    "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
@@ -369,5 +395,5 @@
    "share_id": "MN202610_1ezs8prl56l"
   }
  ],
- "updated": "2026-11-08T20:27:10.996Z"
+ "updated": "2026-11-08T20:56:45.123Z"
 }

@@ -1,6 +1,6 @@
 {
  "day": "2026-10-19",
- "count": 7,
+ "count": 8,
  "articles": [
   {
    "id": "crawl_1dzp9qt",
@@ -90,6 +90,32 @@
    "share_id": "MN202610_8mob74i87i"
   },
   {
+   "id": "crawl_18ih3je",
+   "title": "Haricyo Mbona 😳🥶",
+   "summary": "Haricyo Mbona 😳🥶",
+   "link": "https://www.youtube.com/shorts/2mWvlkorhwI",
+   "url": "https://www.youtube.com/shorts/2mWvlkorhwI",
+   "date": "2026-10-19T08:34:32.000Z",
+   "source": "Yee Fanta YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Yee Fanta YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "2mWvlkorhwI"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/2mWvlkorhwI/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/2mWvlkorhwI/hqdefault.jpg",
+   "title_rw": "Haricyo Mbona 😳🥶",
+   "summary_rw": "Haricyo Mbona 😳🥶",
+   "share_id": "MN202610_18ih3jesyq0"
+  },
+  {
    "id": "crawl_8kvobi",
    "title": "'It gives me the ick': Can you cheat on someone with a video game?",
    "summary": "Grand Theft Auto VI lets you build and nurture a romantic relationship but some say dates with a fictional character are a step too far.",
@@ -148,5 +174,5 @@
    "share_id": "MN202610_1dfyaynr7fh"
   }
  ],
- "updated": "2026-11-08T20:27:11.000Z"
+ "updated": "2026-11-08T20:56:45.127Z"
 }

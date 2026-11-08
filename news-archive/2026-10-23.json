@@ -1,6 +1,6 @@
 {
  "day": "2026-10-23",
- "count": 11,
+ "count": 12,
  "articles": [
   {
    "id": "crawl_1379s41",
@@ -21,6 +21,32 @@
    "title_en": "GP says she was forced out of job after raising concerns about gender treatment",
    "summary_en": "The doctor says she faced a brutal investigation after she passed on complaints brought to her by other doctors.",
    "share_id": "MN202610_1379s412okv"
+  },
+  {
+   "id": "crawl_dnb9l5",
+   "title": "Harahiye🚨BWIZA ARONGOWE NA MANAGER WE nka KNOWLESS NA CLEMENT😍yateye indobo umudiapora",
+   "summary": "Harahiye🚨BWIZA ARONGOWE NA MANAGER WE nka KNOWLESS NA CLEMENT😍yateye indobo umudiapora",
+   "link": "https://www.youtube.com/watch?v=birZ9BxA22E",
+   "url": "https://www.youtube.com/watch?v=birZ9BxA22E",
+   "date": "2026-10-23T18:53:02.000Z",
+   "source": "Buri Kantu Na Buri Nguni YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Buri Kantu Na Buri Nguni YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "birZ9BxA22E"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/birZ9BxA22E/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/birZ9BxA22E/hqdefault.jpg",
+   "title_rw": "Harahiye🚨BWIZA ARONGOWE NA MANAGER WE nka KNOWLESS NA CLEMENT😍yateye indobo umudiapora",
+   "summary_rw": "Harahiye🚨BWIZA ARONGOWE NA MANAGER WE nka KNOWLESS NA CLEMENT😍yateye indobo umudiapora",
+   "share_id": "MN202610_dnb9l5beef"
   },
   {
    "id": "crawl_evz1db",
@@ -227,5 +253,5 @@
    "share_id": "MN202610_188gx3q9i7o"
   }
  ],
- "updated": "2026-11-08T20:27:10.999Z"
+ "updated": "2026-11-08T20:56:45.126Z"
 }

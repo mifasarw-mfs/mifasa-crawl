@@ -1,6 +1,6 @@
 {
  "day": "2026-10-25",
- "count": 4,
+ "count": 5,
  "articles": [
   {
    "id": "crawl_1japnhc",
@@ -55,6 +55,32 @@
    "share_id": "MN202610_8lzcerzh81"
   },
   {
+   "id": "crawl_1wyguix",
+   "title": "Mr take Profits Burikantu",
+   "summary": "Mr take Profits Burikantu",
+   "link": "https://www.youtube.com/shorts/UZVx8FXXX1w",
+   "url": "https://www.youtube.com/shorts/UZVx8FXXX1w",
+   "date": "2026-10-25T10:58:01.000Z",
+   "source": "Buri Kantu Na Buri Nguni YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Buri Kantu Na Buri Nguni YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "UZVx8FXXX1w"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/UZVx8FXXX1w/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/UZVx8FXXX1w/hqdefault.jpg",
+   "title_rw": "Mr take Profits Burikantu",
+   "summary_rw": "Mr take Profits Burikantu",
+   "share_id": "MN202610_1wyguixsppj"
+  },
+  {
    "id": "crawl_1f8w5to",
    "title": "Avengers: Doomsday | In Theaters December 18",
    "summary": "Stand together. Avengers: Doomsday arrives in theaters everywhere December 18. Get your tickets now: fandango.com/avengersdoomsday ► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1 ► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/ Follow on social media to get the ",
@@ -104,5 +130,5 @@
    "share_id": "MN202610_1ud01gnsxxh"
   }
  ],
- "updated": "2026-11-08T20:27:10.998Z"
+ "updated": "2026-11-08T20:56:45.125Z"
 }

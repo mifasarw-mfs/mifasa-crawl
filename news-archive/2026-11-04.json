@@ -1,6 +1,6 @@
 {
  "day": "2026-11-04",
- "count": 68,
+ "count": 69,
  "articles": [
   {
    "id": "crawl_8trwvy",
@@ -113,6 +113,32 @@
    "title_rw": "WAMUFARANSA Noneho yokeje imbwa Scovia Abijemo😱",
    "summary_rw": "#mufaransa #funny #rwanda",
    "share_id": "MN202611_17wzxemw08s"
+  },
+  {
+   "id": "crawl_377dwv",
+   "title": "Harahiye🚨UMWANA WA VESTINE NUWA M.IRENE?😭DNA TEST ZIRAVUGA IKI🚨🚨",
+   "summary": "Harahiye🚨UMWANA WA VESTINE NUWA M.IRENE?😭DNA TEST ZIRAVUGA IKI🚨🚨",
+   "link": "https://www.youtube.com/watch?v=LMntpGnDcRA",
+   "url": "https://www.youtube.com/watch?v=LMntpGnDcRA",
+   "date": "2026-11-04T18:12:48.000Z",
+   "source": "Buri Kantu Na Buri Nguni YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Buri Kantu Na Buri Nguni YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "LMntpGnDcRA"
+   },
+   "type": "video",
+   "image": "https://i1.ytimg.com/vi/LMntpGnDcRA/hqdefault.jpg",
+   "thumbnail": "https://i1.ytimg.com/vi/LMntpGnDcRA/hqdefault.jpg",
+   "title_rw": "Harahiye🚨UMWANA WA VESTINE NUWA M.IRENE?😭DNA TEST ZIRAVUGA IKI🚨🚨",
+   "summary_rw": "Harahiye🚨UMWANA WA VESTINE NUWA M.IRENE?😭DNA TEST ZIRAVUGA IKI🚨🚨",
+   "share_id": "MN202611_377dwv7iq5"
   },
   {
    "id": "crawl_1lq56mo",
@@ -1469,5 +1495,5 @@
    "share_id": "MN202611_uw9tou7j8s"
   }
  ],
- "updated": "2026-11-08T20:35:09.809Z"
+ "updated": "2026-11-08T20:56:45.119Z"
 }

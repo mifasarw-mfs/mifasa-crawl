@@ -1,6 +1,6 @@
 {
  "day": "2026-10-27",
- "count": 12,
+ "count": 14,
  "articles": [
   {
    "id": "crawl_1an0fem",
@@ -157,6 +157,32 @@
    "share_id": "MN202610_gnet936qnp"
   },
   {
+   "id": "crawl_j4gp4x",
+   "title": "🚨BURIKANTU ATAMAJE ABAGOREKA IMVUGO YEE KURI president pk WACU 🇷🇼",
+   "summary": "🚨BURIKANTU ATAMAJE ABAGOREKA IMVUGO YEE KURI president pk WACU 🇷🇼",
+   "link": "https://www.youtube.com/watch?v=UuU4SP-WAzw",
+   "url": "https://www.youtube.com/watch?v=UuU4SP-WAzw",
+   "date": "2026-10-27T11:08:18.000Z",
+   "source": "Buri Kantu Na Buri Nguni YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Buri Kantu Na Buri Nguni YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "UuU4SP-WAzw"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/UuU4SP-WAzw/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/UuU4SP-WAzw/hqdefault.jpg",
+   "title_rw": "🚨BURIKANTU ATAMAJE ABAGOREKA IMVUGO YEE KURI president pk WACU 🇷🇼",
+   "summary_rw": "🚨BURIKANTU ATAMAJE ABAGOREKA IMVUGO YEE KURI president pk WACU 🇷🇼",
+   "share_id": "MN202610_j4gp4xgty7"
+  },
+  {
    "id": "crawl_15xe96r",
    "title": "The Witch Who Forgot Her Magic 🧙‍♀️✨ | Magical Bedtime Story for Kids | Fairy Tales for Children",
    "summary": "Kids Hut family presents \"The Witch Who Forgot Her Magic 🧙‍♀️✨ | Magical Bedtime Story for Kids | Fairy Tales for Children\" by KIDS HUT. ------------------------------------- NEW UPLOADS COLLECTION ► http://bit.ly/1TTDl6r ------------------------------------- ✿ Voice Credit: Tulsi Kumar -------------------------------------- #HalloweenStory #WitchStory #HalloweenForKids ★ SUBSCRIBE us on…",
@@ -181,6 +207,32 @@
    "title_en": "The Witch Who Forgot Her Magic 🧙‍♀️✨ | Magical Bedtime Story for Kids | Fairy Tales for Children",
    "summary_en": "Kids Hut family presents \"The Witch Who Forgot Her Magic 🧙‍♀️✨ | Magical Bedtime Story for Kids | Fairy Tales for Children\" by KIDS HUT. ------------------------------------- NEW UPLOADS COLLECTION ► http://bit.ly/1TTDl6r ------------------------------------- ✿ Voice Credit: Tulsi Kumar -------------------------------------- #HalloweenStory #WitchStory #HalloweenForKids ★ SUBSCRIBE us on…",
    "share_id": "MN202610_15xe96rac0x"
+  },
+  {
+   "id": "crawl_unhivp",
+   "title": "Muze mutugurire",
+   "summary": "Muze mutugurire",
+   "link": "https://www.youtube.com/shorts/AjCLRN-m5iE",
+   "url": "https://www.youtube.com/shorts/AjCLRN-m5iE",
+   "date": "2026-10-27T06:38:32.000Z",
+   "source": "Buri Kantu Na Buri Nguni YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Buri Kantu Na Buri Nguni YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "AjCLRN-m5iE"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/AjCLRN-m5iE/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/AjCLRN-m5iE/hqdefault.jpg",
+   "title_rw": "Muze mutugurire",
+   "summary_rw": "Muze mutugurire",
+   "share_id": "MN202610_unhivpte2b"
   },
   {
    "id": "crawl_1nh6j9m",
@@ -269,5 +321,5 @@
    "share_id": "MN202610_v8xqyrmdb5"
   }
  ],
- "updated": "2026-11-08T20:27:10.998Z"
+ "updated": "2026-11-08T20:56:45.124Z"
 }

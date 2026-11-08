@@ -1,6 +1,6 @@
 {
  "day": "2026-11-03",
- "count": 71,
+ "count": 72,
  "articles": [
   {
    "id": "crawl_nxmv05",
@@ -367,6 +367,32 @@
    "title_rw": "Irene acakiye Chita🤣Ngo ni Mubyara Wa Miss Jolly 🤣Dore ikiganiro Cy’Umuriro 🔥",
    "summary_rw": "Ushatse kutuvugisha #0787413998 #MIEempire https://www.instagram.com/mie_empire.rw/ https://www.instagram.com/irenemurindahabi/",
    "share_id": "MN202611_1h9goivcrd1"
+  },
+  {
+   "id": "crawl_afy9ip",
+   "title": "Abari kuvugw ko ndwanya amashuri nabandwanya",
+   "summary": "Abari kuvugw ko ndwanya amashuri nabandwanya",
+   "link": "https://www.youtube.com/shorts/UQmccgar_jw",
+   "url": "https://www.youtube.com/shorts/UQmccgar_jw",
+   "date": "2026-11-03T15:41:04.000Z",
+   "source": "Buri Kantu Na Buri Nguni YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Buri Kantu Na Buri Nguni YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "UQmccgar_jw"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/UQmccgar_jw/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/UQmccgar_jw/hqdefault.jpg",
+   "title_rw": "Abari kuvugw ko ndwanya amashuri nabandwanya",
+   "summary_rw": "Abari kuvugw ko ndwanya amashuri nabandwanya",
+   "share_id": "MN202611_afy9ipe6of"
   },
   {
    "id": "crawl_15ghte2",
@@ -1519,5 +1545,5 @@
    "share_id": "MN202611_1l8qsr3b7n1"
   }
  ],
- "updated": "2026-11-08T20:35:09.812Z"
+ "updated": "2026-11-08T20:56:45.121Z"
 }

@@ -1,6 +1,6 @@
 {
  "day": "2026-11-07",
- "count": 84,
+ "count": 85,
  "articles": [
   {
    "id": "crawl_1eg1ea0",
@@ -1091,6 +1091,32 @@
    "share_id": "MN202611_1ns3gmfwd39"
   },
   {
+   "id": "crawl_8fn8vn",
+   "title": "Yee Fanta - Bounce ( Visualizer)",
+   "summary": "Spotify :https://open.spotify.com/track/4YbNpRE2FcjJoTQIEVlbYD?1011ljwEH=&si=1&nd=1&dlsi=1fb66a618aec4c82&autoplay_ok=1 Youtube:https://www.youtube.com/watch?v=nQPOWdmxjzE Apple Music :https://music.apple.com/au/album/bounce/6825815044?i=6825815265 Deezer:https://link.deezer.com/s/34TqdfGkAef0DZzxQvt5t Audiomack:https://audiomack.com/yeefanta/song/bounce…",
+   "link": "https://www.youtube.com/watch?v=danxjozSHvo",
+   "url": "https://www.youtube.com/watch?v=danxjozSHvo",
+   "date": "2026-11-07T11:28:29.000Z",
+   "source": "Yee Fanta YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Yee Fanta YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "danxjozSHvo"
+   },
+   "type": "video",
+   "image": "https://i1.ytimg.com/vi/danxjozSHvo/hqdefault.jpg",
+   "thumbnail": "https://i1.ytimg.com/vi/danxjozSHvo/hqdefault.jpg",
+   "title_rw": "Yee Fanta - Bounce ( Visualizer)",
+   "summary_rw": "Spotify :https://open.spotify.com/track/4YbNpRE2FcjJoTQIEVlbYD?1011ljwEH=&si=1&nd=1&dlsi=1fb66a618aec4c82&autoplay_ok=1 Youtube:https://www.youtube.com/watch?v=nQPOWdmxjzE Apple Music :https://music.apple.com/au/album/bounce/6825815044?i=6825815265 Deezer:https://link.deezer.com/s/34TqdfGkAef0DZzxQvt5t Audiomack:https://audiomack.com/yeefanta/song/bounce…",
+   "share_id": "MN202611_8fn8vnndox"
+  },
+  {
    "id": "crawl_1mdn2x1",
    "title": "Abafite ubumuga barashima umushinga wabafashije kwigira no kuva mu bwigunge",
    "summary": "Abantu bafite ubumuga mu Rwanda barashimira umushinga wa ‘Turengere Abafite Ubumuga’ wabafashije kwihangira imirimo, kwizigamira no kwitabira ibikorwa by’iterambere, bityo ukabafasha kwikura mu buk…",
@@ -1787,5 +1813,5 @@
    "share_id": "MN202611_11cd3unxan1"
   }
  ],
- "updated": "2026-11-08T20:27:10.988Z"
+ "updated": "2026-11-08T20:56:45.114Z"
 }
