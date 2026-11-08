@@ -1,6 +1,6 @@
 {
  "day": "2026-10-15",
- "count": 7,
+ "count": 8,
  "articles": [
   {
    "id": "crawl_1clgdv8",
@@ -21,6 +21,33 @@
    "title_en": "Living with a stink? Technology might help",
    "summary_en": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
    "share_id": "MN202610_1clgdv89ac2"
+  },
+  {
+   "id": "crawl_1ukttrl",
+   "title": "BUKUTU BY KAROLE KASITA & SHEEBAH official Music Video 4K",
+   "summary": "THE BEST GIFT FOR THE COUNTRY",
+   "link": "https://www.youtube.com/watch?v=S84fG_hbSoE",
+   "url": "https://www.youtube.com/watch?v=S84fG_hbSoE",
+   "date": "2026-10-15T19:38:45.000Z",
+   "source": "YouTube Trending Uganda",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "YouTube Trending Uganda",
+    "entertainment",
+    "trending",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "S84fG_hbSoE"
+   },
+   "type": "video",
+   "image": "https://i.ytimg.com/vi/S84fG_hbSoE/hqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/S84fG_hbSoE/hqdefault.jpg",
+   "title_en": "BUKUTU BY KAROLE KASITA & SHEEBAH official Music Video 4K",
+   "summary_en": "THE BEST GIFT FOR THE COUNTRY",
+   "share_id": "MN202610_1ukttrlpwlr"
   },
   {
    "id": "crawl_3zzi80",
@@ -137,5 +164,5 @@
    "share_id": "MN202610_2y6xbdl22v"
   }
  ],
- "updated": "2026-11-08T17:52:54.948Z"
+ "updated": "2026-11-08T18:46:49.482Z"
 }

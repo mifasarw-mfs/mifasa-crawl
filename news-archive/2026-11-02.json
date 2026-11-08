@@ -1,6 +1,6 @@
 {
  "day": "2026-11-02",
- "count": 37,
+ "count": 39,
  "articles": [
   {
    "id": "crawl_lluz1g",
@@ -163,6 +163,33 @@
    "share_id": "MN202611_kwnd07j73p"
   },
   {
+   "id": "crawl_6jpbq9",
+   "title": "Trailer Din Part 25",
+   "summary": "Follow our official UK social media pages for daily drama clips, highlights, and exclusive previews: 📌 TIKTOK: https://tiktok.com/@habtomentertainment 📌 FACEBOOK: https://facebook.com/HabtomEntertainment Trailer Din Part 25 https://youtu.be/XNhqsqWlpEQ",
+   "link": "https://www.youtube.com/watch?v=XNhqsqWlpEQ",
+   "url": "https://www.youtube.com/watch?v=XNhqsqWlpEQ",
+   "date": "2026-11-02T09:00:08.000Z",
+   "source": "YouTube Trending Uganda",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "YouTube Trending Uganda",
+    "entertainment",
+    "trending",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "XNhqsqWlpEQ"
+   },
+   "type": "video",
+   "image": "https://i.ytimg.com/vi/XNhqsqWlpEQ/hqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/XNhqsqWlpEQ/hqdefault.jpg",
+   "title_en": "Trailer Din Part 25",
+   "summary_en": "Follow our official UK social media pages for daily drama clips, highlights, and exclusive previews: 📌 TIKTOK: https://tiktok.com/@habtomentertainment 📌 FACEBOOK: https://facebook.com/HabtomEntertainment Trailer Din Part 25 https://youtu.be/XNhqsqWlpEQ",
+   "share_id": "MN202611_6jpbq9pgjj"
+  },
+  {
    "id": "crawl_1tmvpf6",
    "title": "Parents' concerns to trigger urgent checks in A&E",
    "summary": "Concerns from staff, parents, carers or the child themselves will trigger an immediate escalation of care.",
@@ -221,6 +248,33 @@
    "title_rw": "Umusore wari umaze iminsi 10 abuze yabonetse yapfuye",
    "summary_rw": "Rusizi: Hari umusore w’imyaka 17 wo mu murenge wa Nyakabuye wari umaze iminsi icumi yarabuze, ashakishwa n’umuryango we, yabonetse mu murenge wa Gitambi yarapfuye. Amakuru agera ku MUSEKE avuga ko …",
    "share_id": "MN202611_1m1h39u65tc"
+  },
+  {
+   "id": "crawl_1d4faqd",
+   "title": "A Pass - Shillingi (Official Music Video)",
+   "summary": "Official Music Video for \"Shillingi\" A Pass. Shillingi is now available on all digital platforms Credits: Video Director: Director = BASH OG D.O.P = DIRVIGO | Assistant Camera = Newton Colorist = LEP Artists: A Pass Production/ Producer/Beat Maker: Tryton Recording Engineer: Bagonza Alexander aka A Pass Additional Production: Ernest (Bassist) Myko Ouma (Guitar & Ndingidi) Mixing & Mastering Engine",
+   "link": "https://www.youtube.com/watch?v=cQQLMan2UcI",
+   "url": "https://www.youtube.com/watch?v=cQQLMan2UcI",
+   "date": "2026-11-02T05:28:02.000Z",
+   "source": "YouTube Trending Uganda",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "YouTube Trending Uganda",
+    "entertainment",
+    "trending",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "cQQLMan2UcI"
+   },
+   "type": "video",
+   "image": "https://i.ytimg.com/vi/cQQLMan2UcI/hqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/cQQLMan2UcI/hqdefault.jpg",
+   "title_en": "A Pass - Shillingi (Official Music Video)",
+   "summary_en": "Official Music Video for \"Shillingi\" A Pass. Shillingi is now available on all digital platforms Credits: Video Director: Director = BASH OG D.O.P = DIRVIGO | Assistant Camera = Newton Colorist = LEP Artists: A Pass Production/ Producer/Beat Maker: Tryton Recording Engineer: Bagonza Alexander aka A Pass Additional Production: Ernest (Bassist) Myko Ouma (Guitar & Ndingidi) Mixing & Mastering Engine",
+   "share_id": "MN202611_1d4faqdbdkj"
   },
   {
    "id": "crawl_1ivwcy7",
@@ -779,5 +833,5 @@
    "share_id": "MN202611_1bsxwlxibhv"
   }
  ],
- "updated": "2026-11-08T17:52:54.945Z"
+ "updated": "2026-11-08T18:46:49.479Z"
 }

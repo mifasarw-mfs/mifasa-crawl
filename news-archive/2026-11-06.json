@@ -1,6 +1,6 @@
 {
  "day": "2026-11-06",
- "count": 120,
+ "count": 121,
  "articles": [
   {
    "id": "crawl_1fdgl56",
@@ -1752,6 +1752,36 @@
    "share_id": "MN202611_160yhw7btdh"
   },
   {
+   "id": "crawl_5nc9t8",
+   "title": "ALEX KASAU KATOMBI-GOSPEL(OFFICIAL AUDIO)",
+   "summary": "OFFICIAL AUDIO OF SONG WIKEND BY KISINGA SOUNDS contact kisinga sounds on 0721 649 243 social media FACEBOOK https://www.facebook.com/mwanosu​ instagram https://www.instagram.com/alex_kasau_katombi twitter https://twitter.com/kisingamwaki​ #gospel#wikend#weekend#ndunga#trending#kiwanza#kumila#retire#nzuvie#Christmas##myai#ngatho#kwenda#ahadi#ngombo#kisingalatest#kasuva#vasita#kalivu#nyamu #simba#m",
+   "link": "https://www.youtube.com/watch?v=o6--939yetA",
+   "url": "https://www.youtube.com/watch?v=o6--939yetA",
+   "date": "2026-11-06T09:00:07.000Z",
+   "source": "YouTube Trending Kenya",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "YouTube Trending Kenya",
+    "entertainment",
+    "trending",
+    "alex",
+    "kasau",
+    "katombi",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "o6--939yetA"
+   },
+   "type": "video",
+   "image": "https://i.ytimg.com/vi/o6--939yetA/hqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/o6--939yetA/hqdefault.jpg",
+   "title_en": "ALEX KASAU KATOMBI-GOSPEL(OFFICIAL AUDIO)",
+   "summary_en": "OFFICIAL AUDIO OF SONG WIKEND BY KISINGA SOUNDS contact kisinga sounds on 0721 649 243 social media FACEBOOK https://www.facebook.com/mwanosu​ instagram https://www.instagram.com/alex_kasau_katombi twitter https://twitter.com/kisingamwaki​ #gospel#wikend#weekend#ndunga#trending#kiwanza#kumila#retire#nzuvie#Christmas##myai#ngatho#kwenda#ahadi#ngombo#kisingalatest#kasuva#vasita#kalivu#nyamu #simba#m",
+   "share_id": "MN202611_5nc9t8cemi"
+  },
+  {
    "id": "crawl_tp52lg",
    "title": "America Looks Beyond Ancestry. Why Can’t Africa?",
    "summary": "America’s evolving political representation raises an uncomfortable question for Africa: Can we genuinely embrace democracy while allowing ancestry, ethnicity and perceived foreignness to determine who belongs and who has the… The post America Looks Beyond Ancestry. Why Can’t Africa? appeared first on KT PRESS .",
@@ -2430,5 +2460,5 @@
    "share_id": "MN202611_1bzqjfu5hag"
   }
  ],
- "updated": "2026-11-08T17:52:54.941Z"
+ "updated": "2026-11-08T18:46:49.475Z"
 }

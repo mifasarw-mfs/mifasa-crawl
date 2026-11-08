@@ -1,6 +1,6 @@
 {
  "day": "2026-10-27",
- "count": 8,
+ "count": 9,
  "articles": [
   {
    "id": "crawl_1an0fem",
@@ -39,6 +39,36 @@
    "title_en": "Build specialized multimodal models with LFM3",
    "summary_en": "Build specialized multimodal models with LFM3",
    "share_id": "MN202610_14xhgm5i1bv"
+  },
+  {
+   "id": "crawl_1s7bmhy",
+   "title": "Dune: Part Three | Final Trailer",
+   "summary": "Do not fear the end. Dune: Part Three only in theaters and IMAX December 18. Tickets on sale now around the world. http://fandan.co/DunePartThree #DuneMovie #FilmedForIMAX From Warner Bros. Pictures and Legendary Pictures comes Dune: Part Three, bringing Academy Award-nominated filmmaker Denis Villeneuve’s epic trilogy to a breathtaking conclusion. Dune: Part Three is set nearly two decades after ",
+   "link": "https://www.youtube.com/watch?v=uJqaGLmZpGo",
+   "url": "https://www.youtube.com/watch?v=uJqaGLmZpGo",
+   "date": "2026-10-27T16:00:34.000Z",
+   "source": "YouTube Trending Kenya",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "YouTube Trending Kenya",
+    "entertainment",
+    "trending",
+    "Action",
+    "Anya Taylor-Joy",
+    "Brian K Vaughan",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "uJqaGLmZpGo"
+   },
+   "type": "video",
+   "image": "https://i.ytimg.com/vi/uJqaGLmZpGo/hqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/uJqaGLmZpGo/hqdefault.jpg",
+   "title_en": "Dune: Part Three | Final Trailer",
+   "summary_en": "Do not fear the end. Dune: Part Three only in theaters and IMAX December 18. Tickets on sale now around the world. http://fandan.co/DunePartThree #DuneMovie #FilmedForIMAX From Warner Bros. Pictures and Legendary Pictures comes Dune: Part Three, bringing Academy Award-nominated filmmaker Denis Villeneuve’s epic trilogy to a breathtaking conclusion. Dune: Part Three is set nearly two decades after ",
+   "share_id": "MN202610_1s7bmhy7pc4"
   },
   {
    "id": "crawl_1p2j0am",
@@ -161,5 +191,5 @@
    "share_id": "MN202610_v8xqyrmdb5"
   }
  ],
- "updated": "2026-11-08T17:52:54.947Z"
+ "updated": "2026-11-08T18:46:49.481Z"
 }

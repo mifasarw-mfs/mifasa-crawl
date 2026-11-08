@@ -1,7 +1,36 @@
 {
  "day": "2026-10-25",
- "count": 1,
+ "count": 2,
  "articles": [
+  {
+   "id": "crawl_1f8w5to",
+   "title": "Avengers: Doomsday | In Theaters December 18",
+   "summary": "Stand together. Avengers: Doomsday arrives in theaters everywhere December 18. Get your tickets now: fandango.com/avengersdoomsday ► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1 ► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/ Follow on social media to get the ",
+   "link": "https://www.youtube.com/watch?v=UfNu7pcR0e8",
+   "url": "https://www.youtube.com/watch?v=UfNu7pcR0e8",
+   "date": "2026-10-25T00:00:00.000Z",
+   "source": "YouTube Trending Uganda",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "YouTube Trending Uganda",
+    "entertainment",
+    "trending",
+    "marvel",
+    "comics",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "UfNu7pcR0e8"
+   },
+   "type": "video",
+   "image": "https://i.ytimg.com/vi/UfNu7pcR0e8/hqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/UfNu7pcR0e8/hqdefault.jpg",
+   "title_en": "Avengers: Doomsday | In Theaters December 18",
+   "summary_en": "Stand together. Avengers: Doomsday arrives in theaters everywhere December 18. Get your tickets now: fandango.com/avengersdoomsday ► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1 ► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/ Follow on social media to get the ",
+   "share_id": "MN202610_1f8w5tos8nu"
+  },
   {
    "id": "crawl_1ud01gn",
    "title": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
@@ -23,5 +52,5 @@
    "share_id": "MN202610_1ud01gnsxxh"
   }
  ],
- "updated": "2026-11-08T17:52:54.947Z"
+ "updated": "2026-11-08T18:46:49.481Z"
 }

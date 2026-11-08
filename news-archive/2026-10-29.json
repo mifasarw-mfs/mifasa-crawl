@@ -1,6 +1,6 @@
 {
  "day": "2026-10-29",
- "count": 13,
+ "count": 14,
  "articles": [
   {
    "id": "crawl_1hk0bod",
@@ -21,6 +21,33 @@
    "title_en": "Hundreds of GP practices lose online services after collapse of tech firm",
    "summary_en": "It will cause huge disruption in some parts of England and Wales, say GP leaders.",
    "share_id": "MN202610_1hk0bodt857"
+  },
+  {
+   "id": "crawl_1flmpgn",
+   "title": "Cyko - Acha ft Ndugu Avenue (Official Music Video)",
+   "summary": "#ACHA",
+   "link": "https://www.youtube.com/watch?v=SeZikv20vKs",
+   "url": "https://www.youtube.com/watch?v=SeZikv20vKs",
+   "date": "2026-10-29T16:00:08.000Z",
+   "source": "YouTube Trending Uganda",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "YouTube Trending Uganda",
+    "entertainment",
+    "trending",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "SeZikv20vKs"
+   },
+   "type": "video",
+   "image": "https://i.ytimg.com/vi/SeZikv20vKs/hqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/SeZikv20vKs/hqdefault.jpg",
+   "title_en": "Cyko - Acha ft Ndugu Avenue (Official Music Video)",
+   "summary_en": "#ACHA",
+   "share_id": "MN202610_1flmpgnisat"
   },
   {
    "id": "crawl_1hj24r2",
@@ -255,5 +282,5 @@
    "share_id": "MN202610_1l8coi559m3"
   }
  ],
- "updated": "2026-11-08T17:52:54.946Z"
+ "updated": "2026-11-08T18:46:49.480Z"
 }

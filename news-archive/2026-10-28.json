@@ -1,6 +1,6 @@
 {
  "day": "2026-10-28",
- "count": 6,
+ "count": 8,
  "articles": [
   {
    "id": "crawl_v4xvjd",
@@ -41,6 +41,63 @@
    "title_rw": "Yves Rwagasore yashyize hanze indirimbo ishingiye ku byo Imana yamukoreye- Video",
    "summary_rw": "Umuramyi Yves Rwagasore yashyize hanze indirimbo nshya yise “Nizeye”, avuga ko ishingiye ku buhamya bw’ibyo Imana yamukoreye mu myaka ishize, birimo gusohoza amasezerano yari yaramuhaye. Uyu muhanz…",
    "share_id": "MN202610_orvgpoi5ru"
+  },
+  {
+   "id": "crawl_1oq8k8w",
+   "title": "JUMANJI: OPEN WORLD - New Trailer (4K)",
+   "summary": "Our world. New rules. One final game. The final countdown begins. Watch the new trailer for #Jumanji: Open World - exclusively in theatres Christmas Day. Follow Us On Social: https://www.facebook.com/JumanjiMovie https://www.twitter.com/JumanjiMovie https://www.instagram.com/JumanjiMovie https://www.tiktok.com/@jumanjimovie This Christmas, Dwayne Johnson, Kevin Hart, Jack Black, and Karen Gillan a",
+   "link": "https://www.youtube.com/watch?v=nIw1O3zvOfE",
+   "url": "https://www.youtube.com/watch?v=nIw1O3zvOfE",
+   "date": "2026-10-28T13:00:39.000Z",
+   "source": "YouTube Trending Uganda",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "YouTube Trending Uganda",
+    "entertainment",
+    "trending",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "nIw1O3zvOfE"
+   },
+   "type": "video",
+   "image": "https://i.ytimg.com/vi/nIw1O3zvOfE/hqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/nIw1O3zvOfE/hqdefault.jpg",
+   "title_en": "JUMANJI: OPEN WORLD - New Trailer (4K)",
+   "summary_en": "Our world. New rules. One final game. The final countdown begins. Watch the new trailer for #Jumanji: Open World - exclusively in theatres Christmas Day. Follow Us On Social: https://www.facebook.com/JumanjiMovie https://www.twitter.com/JumanjiMovie https://www.instagram.com/JumanjiMovie https://www.tiktok.com/@jumanjimovie This Christmas, Dwayne Johnson, Kevin Hart, Jack Black, and Karen Gillan a",
+   "share_id": "MN202610_1oq8k8w4n32"
+  },
+  {
+   "id": "crawl_1juzbar",
+   "title": "DEM WA SKUMA - OFFICIAL TRAILER",
+   "summary": "ONE WOMAN. TWO LIVES. ONE BIG SECRET!! DEM WA SKUMA – OFFICIAL TRAILER IS HERE! The story continues… but the truth is far from simple! 🎟️ Premiere: 5th December | 4 PM 📍 Prayers Beyond Boundaries, Ngara 🎫 Get your tickets: www.kaduskotv.com ARE YOU READY FOR WHAT COMES NEXT?",
+   "link": "https://www.youtube.com/watch?v=wYWPlLdzbw8",
+   "url": "https://www.youtube.com/watch?v=wYWPlLdzbw8",
+   "date": "2026-10-28T11:00:10.000Z",
+   "source": "YouTube Trending Kenya",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "YouTube Trending Kenya",
+    "entertainment",
+    "trending",
+    "KADUSKO Tv",
+    "KADUSKO",
+    "Comedy",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "wYWPlLdzbw8"
+   },
+   "type": "video",
+   "image": "https://i.ytimg.com/vi/wYWPlLdzbw8/hqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/wYWPlLdzbw8/hqdefault.jpg",
+   "title_en": "DEM WA SKUMA - OFFICIAL TRAILER",
+   "summary_en": "ONE WOMAN. TWO LIVES. ONE BIG SECRET!! DEM WA SKUMA – OFFICIAL TRAILER IS HERE! The story continues… but the truth is far from simple! 🎟️ Premiere: 5th December | 4 PM 📍 Prayers Beyond Boundaries, Ngara 🎫 Get your tickets: www.kaduskotv.com ARE YOU READY FOR WHAT COMES NEXT?",
+   "share_id": "MN202610_1juzbarve4x"
   },
   {
    "id": "crawl_8d0wxw",
@@ -123,5 +180,5 @@
    "share_id": "MN202610_1k96sg8u1eu"
   }
  ],
- "updated": "2026-11-08T17:52:54.947Z"
+ "updated": "2026-11-08T18:46:49.481Z"
 }
