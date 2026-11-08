@@ -2,6 +2,184 @@
  "version": 2,
  "module": "ai16",
  "description": "Knowledge taught by an LLM (teach.js on GitHub). Low priority; never overrides hand-written modules. Delete any entry with \"auto\": true if it is wrong.",
- "intents": [],
- "knowledge": []
+ "intents": [
+  {
+   "id": "ai16_598b0120_q",
+   "label_rw": "Imigabane n'Inyanja",
+   "label_en": "Continents and Oceans",
+   "patterns_en": [
+    "How many continents are there on Earth?",
+    "What are the major oceans of the world?",
+    "Which is the largest continent?"
+   ],
+   "patterns_rw": [
+    "Ni imigabane ingahe iri ku Isi?",
+    "Ni izihe nyanja nini ziri ku Isi?",
+    "Ni uwuhe mugabane munini kurusha yose?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Isi igizwe n'imigabane irindwi n'inyanja eshanu nini. Imigabane ni Afrika, Aziya, Amerika y'Amajyaruguru, Amerika y'Epfo, Antagitika, Uburayi, na Ositaraliya. Inyanja nini ni Inyanja y'Amahoro, Inyanja ya Atalantika, Inyanja y'Abahinde, Inyanja y'Amajyaruguru, n'Inyanja y'Epfo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The Earth is divided into seven continents and five major oceans. The continents are Africa, Asia, North America, South America, Antarctica, Europe, and Australia. The major oceans are the Pacific, Atlantic, Indian, Arctic, and Southern Oceans.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_4dd39d02_q",
+   "label_rw": "Ikirere n'Ubutaka bw'Isi",
+   "label_en": "World Climates and Ecosystems",
+   "patterns_en": [
+    "What are the major climate types on Earth?",
+    "How do ecosystems adapt to specific climates?",
+    "What causes variations in world climates?"
+   ],
+   "patterns_rw": [
+    "Ni ubuhe bwoko bw'ikirere buzwi cyane ku Isi?",
+    "Ese ibinyabuzima byagenewe bite ubwoko bw'ikirere?",
+    "Ni iki gitera gutandukana kw'ibirere ku Isi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Isi igizwe n'ubwoko bw'ikirere butandukanye nk'ishyamba ry'imvura, ubutayu, na savana, buri kimwe gifite ibinyabuzima byacyo bwite bijyanye n'ubushyuhe n'imvura bihaho. Ibi bidukikije bifasha mu kurengera ubuzima bw'Isi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The Earth features diverse climate types such as rainforests, deserts, and savannas, each supporting unique life forms adapted to specific temperature and precipitation patterns. These ecosystems sustain global life.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_5d5fa9af_q",
+   "label_rw": "Imiryango y'Indimi z'Isi",
+   "label_en": "Major Language Families of the World",
+   "patterns_en": [
+    "What is the largest language family in the world?",
+    "Which languages belong to the Niger-Congo family?",
+    "What defines a language family?"
+   ],
+   "patterns_rw": [
+    "Ni uwuhe muryango w'indimi munini ku isi?",
+    "Umuryango wa Niger-Congo ugaragaramo izihe ndimi?",
+    "Imiryango y'indimi isobanura iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imiryango y'indimi z'isi ni amatsinda y'indimi zikomoka ku rurimi rumwe rw'ibanze. Umuryango munini kurusha yose ni uwa Indo-Uburengerazuba n'Uburayi, mu gihe Niger-Congo irimo indimi nyinshi zo muri Afurika yo munsi ya Sahara harimo n'Ikinyarwanda.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "World language families are groups of languages that share a common ancestral origin. The largest family by number of native speakers is Indo-European, while the Niger-Congo family contains the majority of languages spoken in Sub-Saharan Africa, including Kinyarwanda.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_5bd5b2be_q",
+   "label_rw": "Imbibi z'Igihe ku Isi",
+   "label_en": "Global Time Zones",
+   "patterns_en": [
+    "Why is the Earth divided into different time zones?",
+    "How many major time zones are there on Earth?",
+    "Where does the starting point for global time originate?"
+   ],
+   "patterns_rw": [
+    "Kuki isi igabanyijemo imibibi y'igihe itandukanye?",
+    "Imibibi y'igihe ku isi ni ingahe?",
+    "Ni heheho isoko y'igihe cy'isi itangirira?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Isi igabanyijemo imibibi y'igihe 24 bitewe n'aho igeze mu kuzunguruka kwayo ku zuba. Ibi bifasha abaturage ku isi hose guhuza amasaha agendanye n'umunsi n'ijoro. Umurongo w'isoko y'igihe utangirira i Greenwich mu Bwongereza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The Earth is divided into 24 major time zones based on its rotation relative to the sun. This system helps people worldwide coordinate their daily schedules with day and night. The prime meridian for universal time starts in Greenwich, England.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  }
+ ],
+ "knowledge": [
+  {
+   "id": "ai16_598b0120",
+   "category": "World",
+   "title_rw": "Imigabane n'Inyanja",
+   "title_en": "Continents and Oceans",
+   "summary_rw": "Isi igizwe n'imigabane irindwi n'inyanja eshanu nini. Imigabane ni Afrika, Aziya, Amerika y'Amajyaruguru, Amerika y'Epfo, Antagitika, Uburayi, na Ositaraliya. Inyanja nini ni Inyanja y'Amahoro, Inyanja ya Atalantika, Inyanja y'Abahinde, Inyanja y'Amajyaruguru, n'Inyanja y'Epfo.",
+   "summary_en": "The Earth is divided into seven continents and five major oceans. The continents are Africa, Asia, North America, South America, Antarctica, Europe, and Australia. The major oceans are the Pacific, Atlantic, Indian, Arctic, and Southern Oceans.",
+   "keywords": [
+    "imigabane",
+    "inyanja",
+    "isi",
+    "afrika",
+    "continents",
+    "oceans",
+    "earth",
+    "geography"
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_4dd39d02",
+   "category": "World",
+   "title_rw": "Ikirere n'Ubutaka bw'Isi",
+   "title_en": "World Climates and Ecosystems",
+   "summary_rw": "Isi igizwe n'ubwoko bw'ikirere butandukanye nk'ishyamba ry'imvura, ubutayu, na savana, buri kimwe gifite ibinyabuzima byacyo bwite bijyanye n'ubushyuhe n'imvura bihaho. Ibi bidukikije bifasha mu kurengera ubuzima bw'Isi.",
+   "summary_en": "The Earth features diverse climate types such as rainforests, deserts, and savannas, each supporting unique life forms adapted to specific temperature and precipitation patterns. These ecosystems sustain global life.",
+   "keywords": [
+    "ikirere",
+    "climate",
+    "ubutaka",
+    "ecosystem",
+    "ishyamba",
+    "forest",
+    "ubutayu",
+    "desert"
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_5d5fa9af",
+   "category": "World",
+   "title_rw": "Imiryango y'Indimi z'Isi",
+   "title_en": "Major Language Families of the World",
+   "summary_rw": "Imiryango y'indimi z'isi ni amatsinda y'indimi zikomoka ku rurimi rumwe rw'ibanze. Umuryango munini kurusha yose ni uwa Indo-Uburengerazuba n'Uburayi, mu gihe Niger-Congo irimo indimi nyinshi zo muri Afurika yo munsi ya Sahara harimo n'Ikinyarwanda.",
+   "summary_en": "World language families are groups of languages that share a common ancestral origin. The largest family by number of native speakers is Indo-European, while the Niger-Congo family contains the majority of languages spoken in Sub-Saharan Africa, including Kinyarwanda.",
+   "keywords": [
+    "indimi",
+    "languages",
+    "imiryango",
+    "families",
+    "afurika",
+    "africa",
+    "amateka",
+    "history"
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_5bd5b2be",
+   "category": "World",
+   "title_rw": "Imbibi z'Igihe ku Isi",
+   "title_en": "Global Time Zones",
+   "summary_rw": "Isi igabanyijemo imibibi y'igihe 24 bitewe n'aho igeze mu kuzunguruka kwayo ku zuba. Ibi bifasha abaturage ku isi hose guhuza amasaha agendanye n'umunsi n'ijoro. Umurongo w'isoko y'igihe utangirira i Greenwich mu Bwongereza.",
+   "summary_en": "The Earth is divided into 24 major time zones based on its rotation relative to the sun. This system helps people worldwide coordinate their daily schedules with day and night. The prime meridian for universal time starts in Greenwich, England.",
+   "keywords": [
+    "igihe",
+    "isi",
+    "amasaha",
+    "greenwich",
+    "time",
+    "zones",
+    "earth",
+    "world"
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  }
+ ]
 }
