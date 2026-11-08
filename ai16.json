@@ -290,6 +290,102 @@
    ],
    "auto": true,
    "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_abeba986_q",
+   "label_rw": "Ubwubatsi Gakondo bw'Abanyarwanda",
+   "label_en": "Traditional Rwandan Architecture",
+   "patterns_en": [
+    "What materials were used in traditional architecture?",
+    "What did the King's palace look like?",
+    "How was the ingenuity of ancestors demonstrated?"
+   ],
+   "patterns_rw": [
+    "Ni ibikoresho iki byakoreshwaga mu bwubatsi gakondo?",
+    "Inzu y'Umwami yari imeze ite?",
+    "Ubuhanga bw'abakurambere bwagaragaraga mu iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubwubatsi gakondo bw'Abanyarwanda bwafataga ibiti, ibyatsi n'ibyondo mu kubaka inzu z'umwirongi n'ibwami. Inzu y'Umwami yari nini cyane kandi ikozwe mu byatsi. Ibi byagaragaza ubuhanga bw'abakurambere mu gukoresha ibintu biboneka mu bidukikije.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Traditional Rwandan architecture utilized poles, grass, and clay to build dome-shaped houses and royal compounds. The King's palace was particularly large and constructed entirely from thatch and wood. This demonstrates the ingenuity of ancestors in utilizing local materials.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_6838f7d4_q",
+   "label_rw": "Ubuvanganzo bwo mu Kanwa n'Ibyivugo",
+   "label_en": "Rwandan Oral Literature and Poetry",
+   "patterns_en": [
+    "What are Ibyivugo in Rwandan culture?",
+    "When do people recite Ibyivugo?",
+    "What is the purpose of oral literature?"
+   ],
+   "patterns_rw": [
+    "Ibyivugo ni iki mu muco nyarwanda?",
+    "Ni ry telefone abantu babyivuga?",
+    "Ubuvanganzo bwo mu kanwa bumaze iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubuvanganzo bwo mu kanwa ni ingenzi cyane mu muco nyarwanda. Ibyivugo ni ubwoko bw'ubuvanganzo buvuga ibigwi n'amateka y'umuntu cyangwa y'umuryango. Abantu babyivuga mu birori no mu gihe cy'intambara kugira ngo berekane ubutwari n'ishyaka.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Oral literature is very important in Rwandan culture. Ibyivugo are a form of poetry praising the achievements and history of a person or a lineage. People recite them during ceremonies and in times of war to demonstrate bravery and pride.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_c57d7b6d_q",
+   "label_rw": "Inanga n'umuziki gakondo",
+   "label_en": "Inanga and traditional music",
+   "patterns_en": [
+    "What is the inanga in Rwandan culture?",
+    "What characterizes inanga music?",
+    "What is the purpose of the inanga?"
+   ],
+   "patterns_rw": [
+    "Inanga ni iki mu muco nyarwanda?",
+    "Ni iki kiranga imiririmbire y'inanga?",
+    "Inanga ikoreshwa mu ki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Inanga ni umurinzi w'umuco n'umuziki gakondo w'u Rwanda. Ni igicurangisho cy'umuzika gifite imigozi ivuza amajwi yihariye. Abacuranzi b'inanga bacuranga baririmba amateka, imigani, n'ubuzima bw'Abanyarwanda kuva kera. Ubu buryo bufasha mu kubungabunga umurage w'igihugu.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The inanga is a traditional trough zither and a cornerstone of Rwandan musical heritage. Musicians pluck its strings while chanting historical tales, folklore, and poetry about Rwandan life. This musical tradition plays a vital role in preserving cultural history.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_1875ce8c_q",
+   "label_rw": "Umuco wo Kwakira Abashyitsi mu Rwanda",
+   "label_en": "Rwandan Hospitality and Customs",
+   "patterns_en": [
+    "What characterizes hospitality in Rwanda?",
+    "Why is sharing important in Rwandan culture?",
+    "What does humanity mean in Rwandan tradition?"
+   ],
+   "patterns_rw": [
+    "Ni iki kiranga umuco wo kwakira abashyitsi mu Rwanda?",
+    "Kuki gusangira bifite agaciro mu Rwanda?",
+    "Ubumuntu busobanura iki mu muco nyarwanda?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Umuco wo kwakira abashyitsi mu Rwanda ni ingenzi cyane. Abashyitsi bahabwa ikaze n'icyubahiro. Gushyikirana no gusangira ni ibimenyetso by'ubumuntu n'ubucuti mu muryango nyarwanda.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Hospitality is a very important part of Rwandan culture. Visitors are welcomed with respect and warmth. Sharing food and conversation are traditional signs of humanity and friendship.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
   }
  ],
  "knowledge": [
@@ -527,6 +623,85 @@
     "pollution",
     "ibidukikije",
     "environment",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_abeba986",
+   "category": "culture",
+   "title_rw": "Ubwubatsi Gakondo bw'Abanyarwanda",
+   "title_en": "Traditional Rwandan Architecture",
+   "summary_rw": "Ubwubatsi gakondo bw'Abanyarwanda bwafataga ibiti, ibyatsi n'ibyondo mu kubaka inzu z'umwirongi n'ibwami. Inzu y'Umwami yari nini cyane kandi ikozwe mu byatsi. Ibi byagaragaza ubuhanga bw'abakurambere mu gukoresha ibintu biboneka mu bidukikije.",
+   "summary_en": "Traditional Rwandan architecture utilized poles, grass, and clay to build dome-shaped houses and royal compounds. The King's palace was particularly large and constructed entirely from thatch and wood. This demonstrates the ingenuity of ancestors in utilizing local materials.",
+   "keywords": [
+    "ubwubatsi",
+    "architecture",
+    "gakondo",
+    "traditional",
+    "ibwami",
+    "palace",
+    "u rwanda",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_6838f7d4",
+   "category": "culture",
+   "title_rw": "Ubuvanganzo bwo mu Kanwa n'Ibyivugo",
+   "title_en": "Rwandan Oral Literature and Poetry",
+   "summary_rw": "Ubuvanganzo bwo mu kanwa ni ingenzi cyane mu muco nyarwanda. Ibyivugo ni ubwoko bw'ubuvanganzo buvuga ibigwi n'amateka y'umuntu cyangwa y'umuryango. Abantu babyivuga mu birori no mu gihe cy'intambara kugira ngo berekane ubutwari n'ishyaka.",
+   "summary_en": "Oral literature is very important in Rwandan culture. Ibyivugo are a form of poetry praising the achievements and history of a person or a lineage. People recite them during ceremonies and in times of war to demonstrate bravery and pride.",
+   "keywords": [
+    "ubuvanganzo",
+    "literature",
+    "ibyivugo",
+    "poetry",
+    "umuco",
+    "culture",
+    "amateka",
+    "history"
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_c57d7b6d",
+   "category": "culture",
+   "title_rw": "Inanga n'umuziki gakondo",
+   "title_en": "Inanga and traditional music",
+   "summary_rw": "Inanga ni umurinzi w'umuco n'umuziki gakondo w'u Rwanda. Ni igicurangisho cy'umuzika gifite imigozi ivuza amajwi yihariye. Abacuranzi b'inanga bacuranga baririmba amateka, imigani, n'ubuzima bw'Abanyarwanda kuva kera. Ubu buryo bufasha mu kubungabunga umurage w'igihugu.",
+   "summary_en": "The inanga is a traditional trough zither and a cornerstone of Rwandan musical heritage. Musicians pluck its strings while chanting historical tales, folklore, and poetry about Rwandan life. This musical tradition plays a vital role in preserving cultural history.",
+   "keywords": [
+    "inanga",
+    "umuziki",
+    "gakondo",
+    "umuco",
+    "amateka",
+    "rwanda",
+    "music",
+    "culture"
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_1875ce8c",
+   "category": "culture",
+   "title_rw": "Umuco wo Kwakira Abashyitsi mu Rwanda",
+   "title_en": "Rwandan Hospitality and Customs",
+   "summary_rw": "Umuco wo kwakira abashyitsi mu Rwanda ni ingenzi cyane. Abashyitsi bahabwa ikaze n'icyubahiro. Gushyikirana no gusangira ni ibimenyetso by'ubumuntu n'ubucuti mu muryango nyarwanda.",
+   "summary_en": "Hospitality is a very important part of Rwandan culture. Visitors are welcomed with respect and warmth. Sharing food and conversation are traditional signs of humanity and friendship.",
+   "keywords": [
+    "umuco",
+    "culture",
+    "ubumuntu",
+    "hospitality",
+    "abashyitsi",
+    "visitors",
     "rwanda"
    ],
    "auto": true,
