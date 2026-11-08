@@ -64,11 +64,42 @@ const llm = (kind, system, user, temp) => MOCK ? mockLLM(kind, user) : gemini(sy
 
 const SYS_GAPS = "You help build a small Kinyarwanda/English knowledge base for Rwandan learners. Given a category and the titles already covered, list foundational, timeless topics NOT yet covered. " +
   "Only stable facts (no news, prices, populations, elections, living politicians, sports results). Return ONLY JSON: {\"topics\":[{\"title_en\":\"...\",\"title_rw\":\"...\"}]}.";
-const SYS_WRITE = "Write one short, factual knowledge entry for a Rwandan assistant. Plain text, no links, no markdown. Each summary max 70 words, same meaning in Kinyarwanda and English; if unsure of Kinyarwanda, keep it simple. " +
+const SYS_WRITE = "Write one short, factual knowledge entry for a Rwandan assistant. Plain text, no links, no markdown. Each summary max 70 words, same meaning in Kinyarwanda and English. Kinyarwanda rules: keep proper names and technical terms (e.g. Indo-European, Niger-Congo, Greenwich, Pacific) in their original form unless you are sure of the standard Kinyarwanda word; never invent translations; use short simple sentences. English rules: do not state simplifications as exact facts (write \"about\", \"usually\" when a number is approximate, e.g. time zones). " +
   "Return ONLY JSON: {\"title_rw\":\"\",\"title_en\":\"\",\"summary_rw\":\"\",\"summary_en\":\"\",\"keywords\":[5-8 lowercase words in rw and en],\"questions_rw\":[3 natural questions],\"questions_en\":[3 natural questions],\"confidence\":0-1,\"ok\":true|false}. " +
   "Set ok=false if the topic is contested, time-sensitive, medical dosage, legal advice, about a living person, or you are not certain every fact is correct.";
 const SYS_CHECK = "You are a strict fact-checker. Check the entry below for factual errors, invented details or misleading claims (both languages). " +
   "Return ONLY JSON: {\"correct\":true|false,\"issues\":\"short\"}. Say correct=false if ANY claim is doubtful.";
+
+/* ---------- akayunguruzo k'amazina y'Ikinyarwanda ----------
+   Amazina (afite inyuguti nkuru hagati mu nteruro, cyangwa ahujwe na "-") ataboneka mu ai*.json zawe KANDI atari mu Cyongereza cy'iyo entry
+   ni ugukeka ko LLM yayahimbye (urugero "Antagitika" aho wowe wanditse "Antaragitika"). Entry ibifite ntiyemerwa. */
+let VOCAB = null;
+function loadVocab() {
+  if (VOCAB) return VOCAB; VOCAB = new Set();
+  const add = s => String(s).split(/\s+/).forEach(w => { const l = norm(w.replace(/[-]/g, " ")).split(" "); l.forEach(x => x && VOCAB.add(x)); VOCAB.add(norm(w)); });
+  const walk = o => { if (typeof o === "string") add(o); else if (Array.isArray(o)) o.forEach(walk); else if (o && typeof o === "object") Object.values(o).forEach(walk); };
+  for (const f of fs.readdirSync(SRC)) { if (!/^(ai\d*|ai_core|dictionary|grammar)\.json$/.test(f)) continue; try { walk(JSON.parse(fs.readFileSync(path.join(SRC, f), "utf8"))); } catch (e) {} }
+  return VOCAB;
+}
+function unknownNames(rwTexts, enTexts) {
+  const V = loadVocab(), en = new Set(String(enTexts.join(" ")).split(/\s+/).flatMap(w => [norm(w), ...norm(w.replace(/-/g, " ")).split(" ")]).filter(Boolean));
+  const bad = [];
+  for (const text of rwTexts) {
+    const toks = String(text).split(/\s+/).filter(Boolean);
+    toks.forEach((raw, i) => {
+      const prev = i ? toks[i - 1] : "", sentStart = i === 0 || /[.!?:]$/.test(prev);
+      const core = raw.replace(/^[("'“]+|[)"'”.,;:!?]+$/g, ""), last = core.split("'").pop(), hyph = core.includes("-");
+      const nameLike = hyph || (/^[A-ZÀ-Ý]/.test(last) && !sentStart);
+      if (!nameLike) return;
+      const base = hyph ? core : last;                       // "n'Inyanja" -> "Inyanja", "y'Amahoro" -> "Amahoro"
+      const parts = norm(base.replace(/-/g, " ")).split(" ").filter(Boolean);
+      const whole = norm(base.replace(/-/g, " "));
+      const known = x => V.has(x) || en.has(x) || ["u", "i", "a", "o", "ik", "ic"].some(p => V.has(p + x));   // "Bwongereza" ~ "ubwongereza"
+      if (!(known(whole) || parts.every(known))) bad.push(core);
+    });
+  }
+  return [...new Set(bad)];
+}
 
 function validEntry(e) {
   if (!e || e.ok !== true || !(e.confidence >= 0.8)) return false;
@@ -79,6 +110,11 @@ function validEntry(e) {
   return true;
 }
 
+if (process.env.TEACH_SELFTEST) {
+  const cases = JSON.parse(process.env.TEACH_SELFTEST);
+  cases.forEach(c => console.log(JSON.stringify(unknownNames(c.rw, c.en)), "<-", c.rw[0].slice(0, 50)));
+  process.exit(0);
+}
 (async () => {
   if (!MOCK && !process.env.GEMINI_API_KEY) { console.error("Missing env GEMINI_API_KEY"); process.exit(2); }
   const cov = loadCovered();
@@ -89,8 +125,8 @@ function validEntry(e) {
   brain.intents.forEach(i => [...(i.patterns_en || []), ...(i.patterns_rw || [])].forEach(p => cov.pats.add(norm(p))));
 
   // icyiciro gihinduka buri nshuro (buri masaha 3), cyangwa icyo wahisemo
-  const cat = process.env.TEACH_CATEGORY || CATEGORIES[Math.floor(Date.now() / (3 * 3600e3)) % CATEGORIES.length];
-  const have = (cov.byCat[cat] || []).slice(0, 80);
+  const cat = String(process.env.TEACH_CATEGORY || CATEGORIES[Math.floor(Date.now() / (3 * 3600e3)) % CATEGORIES.length]).trim().toLowerCase();
+  const have = Object.keys(cov.byCat).filter(k => String(k).toLowerCase() === cat).flatMap(k => cov.byCat[k]).slice(0, 80);
   console.log(`category: ${cat} (${have.length} titles already covered)`);
 
   let topics = [];
@@ -106,6 +142,8 @@ function validEntry(e) {
       const e = await llm("write", SYS_WRITE, `Category: ${cat}\nTopic: ${t.title_en} / ${t.title_rw || ""}`, 0.2);
       if (!validEntry(e)) { console.log("skip (invalid/unsure):", t.title_en); continue; }
       if (tooSimilar(e.title_en, cov)) { console.log("skip (duplicate):", e.title_en); continue; }
+      const unk = unknownNames([e.title_rw, e.summary_rw, ...e.questions_rw], [e.title_en, e.summary_en, ...e.questions_en, ...e.keywords]);
+      if (unk.length) { console.log("skip (unknown Kinyarwanda names, maybe invented):", e.title_en, "->", unk.join(", ")); continue; }
       await sleep(MOCK ? 0 : 5000);
       const c = await llm("check", SYS_CHECK, JSON.stringify({ title_en: e.title_en, summary_en: e.summary_en, title_rw: e.title_rw, summary_rw: e.summary_rw }), 0);
       if (!c || c.correct !== true) { console.log("rejected by fact-check:", e.title_en, "-", (c && c.issues) || ""); continue; }
