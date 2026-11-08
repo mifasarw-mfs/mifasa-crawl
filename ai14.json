@@ -1,0 +1,136 @@
+{
+ "version": 2,
+ "module": "ai14",
+ "description": "MIFASA AI small-talk fixes: how are you / feeling good, word of the day fallback, what can you do, news today. Supplements ai.json.",
+ "intents": [
+  {
+   "id": "ai14_how_are_you",
+   "label_rw": "uko MIFASA AI imeze",
+   "label_en": "how MIFASA AI is doing",
+   "patterns_rw": [
+    "umeze ute uyu munsi",
+    "umeze neza uyu munsi",
+    "ubuzima bwawe bumeze bute",
+    "amakuru yawe uyu munsi",
+    "urumva umeze neza",
+    "uraho neza"
+   ],
+   "patterns_en": [
+    "how are you today",
+    "are you feeling good today",
+    "are you feeling good",
+    "are you ok today",
+    "how do you feel today",
+    "how is your day",
+    "are you doing well",
+    "how are you feeling"
+   ],
+   "must": [
+    [
+     "umeze",
+     "urumva",
+     "ubuzima bwawe",
+     "amakuru yawe",
+     "are you",
+     "how are you",
+     "how do you feel",
+     "how is your day",
+     "feeling"
+    ]
+   ],
+   "priority": 9,
+   "answer_rw": [
+    "😊 Ndumeze neza, murakoze kubaza! Ndi porogaramu y'ubwenge, ntabwo mfite umubiri, ariko nditeguye kugufasha uyu munsi. Wowe se umeze ute? Nakugezaho inkuru nshya, igisobanuro, cyangwa tukaganira.",
+    "🤖 Meze neza kandi nditeguye! Nta bunaniro mfite, nkora igihe cyose. Ni wowe se umeze ute uyu munsi? Mbaza icyo ushaka, nkugezeho amakuru cyangwa nkwigishe ijambo rishya."
+   ],
+   "answer_en": [
+    "😊 I'm doing well, thanks for asking! I'm an AI, so I don't have feelings the way you do, but I'm ready to help. How are you today? I can bring you fresh news, explain something, or just chat.",
+    "🤖 All good and ready to help! I don't get tired. How about you, how's your day going? Ask me anything or let me teach you a new word."
+   ]
+  },
+  {
+   "id": "ai14_word_of_day_fallback",
+   "label_rw": "ijambo ry'umunsi",
+   "label_en": "word of the day",
+   "patterns_rw": [
+    "ijambo ry'umunsi",
+    "ijambo rishya",
+    "ijambo rishya ry'umunsi",
+    "mpa ijambo rishya",
+    "amagambo mashya"
+   ],
+   "patterns_en": [
+    "word of the day",
+    "new word",
+    "learn a word",
+    "teach me a word",
+    "give me a new word"
+   ],
+   "must": [
+    [
+     "ijambo ry'umunsi",
+     "ijambo rishya",
+     "amagambo mashya",
+     "word of the day",
+     "new word",
+     "learn a word",
+     "teach me a word"
+    ]
+   ],
+   "priority": 10,
+   "answer_rw": [
+    "📖 **Ijambo ry'umunsi: ubwenge** = intelligence / wisdom. Urugero: \"Ubwenge buruta ubukungu.\" Ushaka irindi? Mbwira: \"ijambo rishya\".",
+    "📖 **Ijambo ry'umunsi: ubushakashatsi** = research. Urugero: \"Ubushakashatsi bwa MIFASA bugaragaza ukuri.\" Ushaka irindi? Mbwira: \"ijambo rishya\".",
+    "📖 **Ijambo ry'umunsi: umuganda** = community work. Urugero: \"Umuganda ukorwa buri kwezi.\" Ushaka irindi? Mbwira: \"ijambo rishya\".",
+    "📖 **Ijambo ry'umunsi: ikoranabuhanga** = technology. Urugero: \"Ikoranabuhanga ryihutisha serivisi.\" Ushaka irindi? Mbwira: \"ijambo rishya\".",
+    "📖 **Ijambo ry'umunsi: amahoro** = peace. Urugero: \"Amahoro ni yo shingiro ry'iterambere.\" Ushaka irindi? Mbwira: \"ijambo rishya\"."
+   ],
+   "answer_en": [
+    "📖 **Word of the day: ubwenge** = intelligence / wisdom. Example: \"Ubwenge buruta ubukungu.\" Want another? Say: \"new word\".",
+    "📖 **Word of the day: ubushakashatsi** = research. Example: \"Ubushakashatsi bwa MIFASA bugaragaza ukuri.\" Want another? Say: \"new word\".",
+    "📖 **Word of the day: umuganda** = community work. Example: \"Umuganda ukorwa buri kwezi.\" Want another? Say: \"new word\".",
+    "📖 **Word of the day: ikoranabuhanga** = technology. Example: \"Ikoranabuhanga ryihutisha serivisi.\" Want another? Say: \"new word\".",
+    "📖 **Word of the day: amahoro** = peace. Example: \"Amahoro ni yo shingiro ry'iterambere.\" Want another? Say: \"new word\"."
+   ]
+  },
+  {
+   "id": "ai14_what_can_you_do",
+   "label_rw": "ibyo MIFASA AI ishoboye",
+   "label_en": "what MIFASA AI can do",
+   "patterns_rw": [
+    "ushobora gukora iki",
+    "ugufasha iki",
+    "wamfasha iki",
+    "ni iki ushoboye",
+    "ufite ubushobozi ki"
+   ],
+   "patterns_en": [
+    "what can you do",
+    "how can you help me",
+    "what are you able to do",
+    "what are your abilities",
+    "help me"
+   ],
+   "must": [
+    [
+     "ushobora gukora",
+     "ugufasha",
+     "wamfasha",
+     "ushoboye",
+     "ubushobozi",
+     "what can you do",
+     "how can you help",
+     "able to do",
+     "abilities"
+    ]
+   ],
+   "priority": 10,
+   "answer_rw": [
+    "🤖 Nshobora: 📰 kukwereka amakuru mashya (siporo, ikoranabuhanga, ubuzima, politiki...), 🔎 gusubiza ibibazo no gushakisha kuri murandasi, 🔗 gusoma link yose wanyandikira, 🧮 kubara, 🌍 guhindura Ikinyarwanda ↔ English, 📖 kukwigisha amagambo mashya, 🎲 ibisakuzo, imigani n'ibikino. Gerageza: \"amakuru ya siporo\" cyangwa \"ijambo rishya\"."
+   ],
+   "answer_en": [
+    "🤖 I can: 📰 show fresh news (sports, tech, health, politics...), 🔎 answer questions and search the web, 🔗 read any link you paste, 🧮 calculate, 🌍 translate Kinyarwanda ↔ English, 📖 teach you new words, 🎲 riddles, proverbs and quizzes. Try: \"sports news\" or \"new word\"."
+   ]
+  }
+ ]
+}

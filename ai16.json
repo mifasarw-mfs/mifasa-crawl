@@ -1,0 +1,7 @@
+{
+ "version": 2,
+ "module": "ai16",
+ "description": "Knowledge taught by an LLM (teach.js on GitHub). Low priority; never overrides hand-written modules. Delete any entry with \"auto\": true if it is wrong.",
+ "intents": [],
+ "knowledge": []
+}

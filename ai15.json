@@ -1,0 +1,6 @@
+{
+ "version": 2,
+ "module": "ai15",
+ "description": "Auto-learned answers (written by learn.js on GitHub). Supplements ai.json. Delete any intent with \"auto\": true if it is wrong.",
+ "intents": []
+}

@@ -7,7 +7,7 @@
    Env: GEMINI_API_KEY (ikenewe), GEMINI_MODEL, MAX_TOPICS (default 6), TEACH_CATEGORY (guhitamo icyiciro), TEACH_MOCK=1 (ikizamini nta LLM)
    Usage: node teach.js [--dry]   (--dry: ntandika ai16.json)                                                                                  */
 const fs = require("fs"), path = require("path"), crypto = require("crypto");
-const DIR = process.cwd(), OUT = path.join(DIR, "ai16.json");
+const DIR = process.cwd(), OUT = path.join(DIR, "ai16.json"), SRC = path.resolve(process.env.SITE_DIR || DIR);   // SRC: aho ai*.json z'urubuga ziri
 const DRY = process.argv.includes("--dry"), MOCK = process.env.TEACH_MOCK === "1";
 const MAX_TOPICS = +process.env.MAX_TOPICS || 6, MAX_TOTAL = 600;
 const MODEL = process.env.GEMINI_MODEL || "gemini-flash-lite-latest";
@@ -23,9 +23,9 @@ const hash = s => crypto.createHash("sha1").update(norm(s)).digest("hex").slice(
 /* ---------- 1. ibyo MIFASA isanzwe izi ---------- */
 function loadCovered() {
   const titles = [], pats = new Set(), byCat = {};
-  for (const f of fs.readdirSync(DIR)) {
+  for (const f of fs.readdirSync(SRC)) {
     if (!/^(ai\d*|ai_core)\.json$/.test(f)) continue;
-    let d; try { d = JSON.parse(fs.readFileSync(path.join(DIR, f), "utf8")); } catch (e) { continue; }
+    let d; try { d = JSON.parse(fs.readFileSync(path.join(SRC, f), "utf8")); } catch (e) { continue; }
     for (const k of d.knowledge || []) {
       const t = k.title_en || k.title_rw || ""; if (!t) continue;
       titles.push(t); (byCat[k.category] = byCat[k.category] || []).push(t);

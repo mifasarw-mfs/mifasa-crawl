@@ -1,0 +1,6 @@
+{
+ "version": 2,
+ "module": "ai17",
+ "description": "Aliases learned by improve.js: new ways to ask existing questions (answers come from your own intents). Delete any entry with \"auto\": true if wrong.",
+ "intents": []
+}
