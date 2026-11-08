@@ -1,0 +1,65 @@
+{
+ "day": "2026-10-13",
+ "count": 3,
+ "articles": [
+  {
+   "id": "crawl_ianrw6",
+   "title": "Tech Life",
+   "summary": "The plan for an orbiting data centre involves linking satellites around Earth.",
+   "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyk?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyk?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-13T19:45:00.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pgj1dl.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pgj1dl.jpg",
+   "title_en": "Tech Life",
+   "summary_en": "The plan for an orbiting data centre involves linking satellites around Earth.",
+   "share_id": "MN202610_ianrw6gwes"
+  },
+  {
+   "id": "crawl_rwl4vc",
+   "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+   "summary": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+   "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+   "date": "2026-10-13T17:05:48.000Z",
+   "source": "Hugging Face blog",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "Hugging Face blog",
+    "tech"
+   ],
+   "title_en": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+   "summary_en": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+   "share_id": "MN202610_rwl4vc34w6"
+  },
+  {
+   "id": "crawl_1tm11pe",
+   "title": "ITANGAZO RYA NIYIBIGIRA KIMARA Grace USABA GUHINDUZA AMAZINA",
+   "summary": "Visit the post for more.",
+   "link": "https://umuseke.rw/itangazo-rya-niyibigira-kimara-grace-usaba-guhinduza-amazina/",
+   "url": "https://umuseke.rw/itangazo-rya-niyibigira-kimara-grace-usaba-guhinduza-amazina/",
+   "date": "2026-10-13T03:52:08.000Z",
+   "source": "Umuseke",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Umuseke",
+    "news"
+   ],
+   "image": "https://umuseke.rw/wp-content/uploads/2026/02/ITANGAZO-IKIMENYETSO.jpeg",
+   "thumbnail": "https://umuseke.rw/wp-content/uploads/2026/02/ITANGAZO-IKIMENYETSO.jpeg",
+   "title_rw": "ITANGAZO RYA NIYIBIGIRA KIMARA Grace USABA GUHINDUZA AMAZINA",
+   "summary_rw": "Visit the post for more.",
+   "share_id": "MN202610_1tm11pemv40"
+  }
+ ],
+ "updated": "2026-11-08T17:52:54.948Z"
+}

@@ -1,0 +1,45 @@
+{
+ "day": "2026-10-22",
+ "count": 2,
+ "articles": [
+  {
+   "id": "crawl_13cvobh",
+   "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+   "summary": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+   "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+   "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+   "date": "2026-10-22T22:24:34.000Z",
+   "source": "Hugging Face blog",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "Hugging Face blog",
+    "tech"
+   ],
+   "title_en": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+   "summary_en": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+   "share_id": "MN202610_13cvobhkwvv"
+  },
+  {
+   "id": "crawl_1dluulr",
+   "title": "Ikilo cy’ikawa y’u Rwanda cyaguzwe ibihumbi 670 Frw",
+   "summary": "Ikigo cy’Igihugu gishinzwe guteza imbere ibyoherezwa mu mahanga bikomoka ku buhinzi n’ubworozi (NAEB) cyatangaje ko ikilo cy’ikawa y’u Rwanda cyagurishijwe 670.000 Frw muri cyamunara yo kuri intern…",
+   "link": "https://umuseke.rw/ikilo-cyikawa-yu-rwanda-cyaguzwe-ibihumbi-670-frw/",
+   "url": "https://umuseke.rw/ikilo-cyikawa-yu-rwanda-cyaguzwe-ibihumbi-670-frw/",
+   "date": "2026-10-22T10:27:46.000Z",
+   "source": "Umuseke",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Umuseke",
+    "news"
+   ],
+   "image": "https://umuseke.rw/wp-content/uploads/2026/10/images-41.jpg",
+   "thumbnail": "https://umuseke.rw/wp-content/uploads/2026/10/images-41.jpg",
+   "title_rw": "Ikilo cy’ikawa y’u Rwanda cyaguzwe ibihumbi 670 Frw",
+   "summary_rw": "Ikigo cy’Igihugu gishinzwe guteza imbere ibyoherezwa mu mahanga bikomoka ku buhinzi n’ubworozi (NAEB) cyatangaje ko ikilo cy’ikawa y’u Rwanda cyagurishijwe 670.000 Frw muri cyamunara yo kuri intern…",
+   "share_id": "MN202610_1dluulr13yl"
+  }
+ ],
+ "updated": "2026-11-08T17:52:54.947Z"
+}

@@ -1,0 +1,27 @@
+{
+ "day": "2026-10-03",
+ "count": 1,
+ "articles": [
+  {
+   "id": "crawl_1x6t1ag",
+   "title": "Tech Now",
+   "summary": "Alasdair Keane heads to the Pokémon World Championships in San Francisco.",
+   "link": "https://www.bbc.co.uk/iplayer/episode/m0032n6v?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/iplayer/episode/m0032n6v?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-03T01:00:00.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pdn4dw.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pdn4dw.jpg",
+   "title_en": "Tech Now",
+   "summary_en": "Alasdair Keane heads to the Pokémon World Championships in San Francisco.",
+   "share_id": "MN202610_1x6t1agrkyu"
+  }
+ ],
+ "updated": "2026-11-08T17:52:54.949Z"
+}

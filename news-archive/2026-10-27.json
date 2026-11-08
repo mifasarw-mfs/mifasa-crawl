@@ -1,0 +1,165 @@
+{
+ "day": "2026-10-27",
+ "count": 8,
+ "articles": [
+  {
+   "id": "crawl_1an0fem",
+   "title": "Tech Life",
+   "summary": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis.",
+   "link": "https://www.bbc.co.uk/sounds/play/w3ct8jys?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/w3ct8jys?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27T20:30:00.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pjwm9g.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pjwm9g.jpg",
+   "title_en": "Tech Life",
+   "summary_en": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis.",
+   "share_id": "MN202610_1an0femtjx8"
+  },
+  {
+   "id": "crawl_14xhgm5",
+   "title": "Build specialized multimodal models with LFM3",
+   "summary": "Build specialized multimodal models with LFM3",
+   "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+   "date": "2026-10-27T17:16:52.000Z",
+   "source": "Hugging Face blog",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "Hugging Face blog",
+    "tech"
+   ],
+   "title_en": "Build specialized multimodal models with LFM3",
+   "summary_en": "Build specialized multimodal models with LFM3",
+   "share_id": "MN202610_14xhgm5i1bv"
+  },
+  {
+   "id": "crawl_1p2j0am",
+   "title": "Ballon d'Or ceremony raises case of French journalist jailed in Algeria",
+   "summary": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27T14:29:39.000Z",
+   "source": "BBC Sport Africa",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Sport Africa",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f138/live/2d67b730-d204-11f1-b441-2b33b063138f.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f138/live/2d67b730-d204-11f1-b441-2b33b063138f.png",
+   "title_en": "Ballon d'Or ceremony raises case of French journalist jailed in Algeria",
+   "summary_en": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.",
+   "share_id": "MN202610_1p2j0ambwrg"
+  },
+  {
+   "id": "crawl_fwt8c2",
+   "title": "Cassanova yitabaje RIB ku ikoreshwa ry’izina rye mu buryo butemewe",
+   "summary": "Umuhanzi Manzi Kalisi Daddy, uzwi nka Daddy Cassanova, yitabaje Urwego rw’Igihugu rw’Ubugenzacyaha (RIB), arusaba ubufasha ku kibazo cy’umuntu avuga ko arimo gukoresha izina rye mu kwamamaza igitar…",
+   "link": "https://umuseke.rw/cassanova-yitabaje-rib-ku-ikoreshwa-ryizina-rye-mu-buryo-butemewe/",
+   "url": "https://umuseke.rw/cassanova-yitabaje-rib-ku-ikoreshwa-ryizina-rye-mu-buryo-butemewe/",
+   "date": "2026-10-27T12:08:55.000Z",
+   "source": "Umuseke",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Umuseke",
+    "news"
+   ],
+   "image": "https://umuseke.rw/wp-content/uploads/2026/10/IMG_4125.jpeg",
+   "thumbnail": "https://umuseke.rw/wp-content/uploads/2026/10/IMG_4125.jpeg",
+   "title_rw": "Cassanova yitabaje RIB ku ikoreshwa ry’izina rye mu buryo butemewe",
+   "summary_rw": "Umuhanzi Manzi Kalisi Daddy, uzwi nka Daddy Cassanova, yitabaje Urwego rw’Igihugu rw’Ubugenzacyaha (RIB), arusaba ubufasha ku kibazo cy’umuntu avuga ko arimo gukoresha izina rye mu kwamamaza igitar…",
+   "share_id": "MN202610_fwt8c2tphs"
+  },
+  {
+   "id": "crawl_gnet93",
+   "title": "Rwanda: Ingo zikabakaba ibihumbi 300 zahawe amashanyarazi muri 2025-26",
+   "summary": "Umunyamabanga Uhoraho muri Ministeri y’Ibikorwaremezo, Canoth Manishimwe, yatangaje ko mu mwaka wa 2025/2026, ingo 297, 068 zahawe amashanyarazi, zirimo izingana na 234,432 zahawe amashanyarazi afa…",
+   "link": "https://umuseke.rw/rwanda-ingo-zikabakaba-ibihumbi-300-zahawe-amashanyarazi-muri-2025-26/",
+   "url": "https://umuseke.rw/rwanda-ingo-zikabakaba-ibihumbi-300-zahawe-amashanyarazi-muri-2025-26/",
+   "date": "2026-10-27T11:10:45.000Z",
+   "source": "Umuseke",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Umuseke",
+    "news"
+   ],
+   "image": "https://umuseke.rw/wp-content/uploads/2026/10/Santire-ya-Bweyeye-yagejejwemo-amashanyarazi-mu-mwaka-wa-2017-.jpg",
+   "thumbnail": "https://umuseke.rw/wp-content/uploads/2026/10/Santire-ya-Bweyeye-yagejejwemo-amashanyarazi-mu-mwaka-wa-2017-.jpg",
+   "title_rw": "Rwanda: Ingo zikabakaba ibihumbi 300 zahawe amashanyarazi muri 2025-26",
+   "summary_rw": "Umunyamabanga Uhoraho muri Ministeri y’Ibikorwaremezo, Canoth Manishimwe, yatangaje ko mu mwaka wa 2025/2026, ingo 297, 068 zahawe amashanyarazi, zirimo izingana na 234,432 zahawe amashanyarazi afa…",
+   "share_id": "MN202610_gnet936qnp"
+  },
+  {
+   "id": "crawl_4oxa9p",
+   "title": "RD Congo : 'Ni ikimenyetso c'uko atigeze akunda igihugu', Tshisekedi kuri Kabila na FRN",
+   "summary": "Ni bwo bwa mbere umutegetsi wa RD Congo agize ico ashikiriza ku mugaragaro kw'ishingwa ry'umuhari FRN na Joseph Kabila awurongoye.",
+   "link": "https://www.bbc.com/gahuza/articles/cmwyq9x88p5do?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/cmwyq9x88p5do?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "title_rw": "RD Congo : 'Ni ikimenyetso c'uko atigeze akunda igihugu', Tshisekedi kuri Kabila na FRN",
+   "summary_rw": "Ni bwo bwa mbere umutegetsi wa RD Congo agize ico ashikiriza ku mugaragaro kw'ishingwa ry'umuhari FRN na Joseph Kabila awurongoye.",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cd1e/live/cec808a0-d218-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cd1e/live/cec808a0-d218-11f1-93e1-3b657b665bcf.jpg",
+   "share_id": "MN202610_4oxa9pq6qj"
+  },
+  {
+   "id": "crawl_12mz9vq",
+   "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+   "summary": "Kenya has already released the first group of 20 people who came into contact with its first Ebola patient.",
+   "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "title_en": "Is Ebola under control in Kenya after nine cases confirmed?",
+   "summary_en": "Kenya has already released the first group of 20 people who came into contact with its first Ebola patient.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1718/live/05ef3900-cc80-11f1-bed8-c51b95c602ec.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1718/live/05ef3900-cc80-11f1-bed8-c51b95c602ec.jpg",
+   "share_id": "MN202610_12mz9vqs6ck"
+  },
+  {
+   "id": "crawl_v8xqyr",
+   "title": "Ulster's Augustus enjoying South Africa homecoming",
+   "summary": "Ulster back row Juarno Augustus is relishing being back in his native South Africa as he prepares to face his former club Stormers after recovering from ankle surgery.",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c3lylzg00zg1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c3lylzg00zg1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "title_en": "Ulster's Augustus enjoying South Africa homecoming",
+   "summary_en": "Ulster back row Juarno Augustus is relishing being back in his native South Africa as he prepares to face his former club Stormers after recovering from ankle surgery.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/878e/live/ba9d49f0-d15d-11f1-9f24-99bf1cc18b1d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/878e/live/ba9d49f0-d15d-11f1-9f24-99bf1cc18b1d.jpg",
+   "share_id": "MN202610_v8xqyrmdb5"
+  }
+ ],
+ "updated": "2026-11-08T17:52:54.947Z"
+}

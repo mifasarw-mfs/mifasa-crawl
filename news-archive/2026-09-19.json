@@ -1,0 +1,27 @@
+{
+ "day": "2026-09-19",
+ "count": 1,
+ "articles": [
+  {
+   "id": "crawl_v55bnm",
+   "title": "Tech Now",
+   "summary": "Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.",
+   "link": "https://www.bbc.co.uk/iplayer/episode/m0032301?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/iplayer/episode/m0032301?at_medium=RSS&at_campaign=rss",
+   "date": "2026-09-19T01:00:00.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pbb5l2.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pbb5l2.jpg",
+   "title_en": "Tech Now",
+   "summary_en": "Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.",
+   "share_id": "MN202609_v55bnm3vc0"
+  }
+ ],
+ "updated": "2026-11-08T17:52:54.952Z"
+}
