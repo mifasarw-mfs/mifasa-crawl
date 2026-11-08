@@ -114,6 +114,83 @@
       "category": "entertainment"
     },
     {
+      "name": "Wamufaransa Comedy YouTube",
+      "type": "youtube",
+      "handle": "@wamufaransacomedy",
+      "lang": "rw",
+      "category": "entertainment"
+    },
+    {
+      "name": "Mie Empire YouTube",
+      "type": "youtube",
+      "handle": "@mieempire8576",
+      "lang": "rw",
+      "category": "entertainment"
+    },
+    {
+      "name": "Bruce Melodie YouTube",
+      "type": "youtube",
+      "handle": "@brucemelodie",
+      "lang": "rw",
+      "category": "entertainment"
+    },
+    {
+      "name": "The Ben YouTube",
+      "type": "youtube",
+      "handle": "@theben3",
+      "lang": "rw",
+      "category": "entertainment"
+    },
+    {
+      "name": "Mwanafunzi Ismael YouTube",
+      "type": "youtube",
+      "handle": "@mwanafunziismael",
+      "lang": "rw",
+      "category": "entertainment"
+    },
+    {
+      "name": "Rocky Entertainment YouTube",
+      "type": "youtube",
+      "handle": "@rockyentertainment9476",
+      "lang": "rw",
+      "category": "entertainment"
+    },
+    {
+      "name": "Dash Dash TV YouTube",
+      "type": "youtube",
+      "handle": "@dashdashtv",
+      "lang": "rw",
+      "category": "entertainment"
+    },
+    {
+      "name": "Gen-Z Comedy Show YouTube",
+      "type": "youtube",
+      "handle": "@gen-zcomedyshow",
+      "lang": "rw",
+      "category": "entertainment"
+    },
+    {
+      "name": "MrBeast YouTube",
+      "type": "youtube",
+      "handle": "@MrBeast",
+      "lang": "en",
+      "category": "entertainment"
+    },
+    {
+      "name": "T-Series YouTube",
+      "type": "youtube",
+      "handle": "@tseries",
+      "lang": "en",
+      "category": "entertainment"
+    },
+    {
+      "name": "PewDiePie YouTube",
+      "type": "youtube",
+      "handle": "@PewDiePie",
+      "lang": "en",
+      "category": "entertainment"
+    },
+    {
       "name": "YouTube Trending Rwanda",
       "type": "youtube-trending",
       "region": "RW",
