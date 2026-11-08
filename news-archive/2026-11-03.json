@@ -1,6 +1,6 @@
 {
  "day": "2026-11-03",
- "count": 59,
+ "count": 60,
  "articles": [
   {
    "id": "crawl_nxmv05",
@@ -497,6 +497,33 @@
    "title_en": "Major study into 'forever chemicals' in people's bodies launched in UK",
    "summary_en": "The government is launching the first study to measure PFAS in the UK population to understand the risks.",
    "share_id": "MN202611_1y9ga7w96oq"
+  },
+  {
+   "id": "crawl_hlhxxn",
+   "title": "Willy Paul Ft Jay Melody - Miti ( Official Song )",
+   "summary": "",
+   "link": "https://www.youtube.com/watch?v=_9mIoN_mBRk",
+   "url": "https://www.youtube.com/watch?v=_9mIoN_mBRk",
+   "date": "2026-11-03T07:00:08.000Z",
+   "source": "YouTube Trending Kenya",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "YouTube Trending Kenya",
+    "entertainment",
+    "trending",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "_9mIoN_mBRk"
+   },
+   "type": "video",
+   "image": "https://i.ytimg.com/vi/_9mIoN_mBRk/hqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/_9mIoN_mBRk/hqdefault.jpg",
+   "title_en": "Willy Paul Ft Jay Melody - Miti ( Official Song )",
+   "summary_en": "",
+   "share_id": "MN202611_hlhxxni2qx"
   },
   {
    "id": "crawl_19wz92t",
@@ -1206,5 +1233,5 @@
    "share_id": "MN202611_1l8qsr3b7n1"
   }
  ],
- "updated": "2026-11-08T17:52:54.944Z"
+ "updated": "2026-11-08T20:20:59.672Z"
 }
