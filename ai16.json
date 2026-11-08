@@ -98,6 +98,102 @@
    ],
    "auto": true,
    "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_9faff9f9_q",
+   "label_rw": "Guhinduranya Imbuto mu Murima",
+   "label_en": "Crop Rotation",
+   "patterns_en": [
+    "What is crop rotation in agriculture?",
+    "What are the benefits of practicing crop rotation?",
+    "How does this method help control pests?"
+   ],
+   "patterns_rw": [
+    "Guhinduranya imbuto bisobanura iki mu buhinzi?",
+    "Ni izihe nyungu zo guhinduranya imbuto mu murima?",
+    "Ubu buryo bufasha gute mu kurwanya udukoko?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Guhinduranya imbuto ni uburyo bwo gutera ubwoko butandukanye bw'ibihingwa mu murima umwe uko ibihe bihunze. Bifasha mu kongera intungamubiri mu butaka, kurwanya udukoko n'indwara, no kongera umusaruro w'ubuhinzi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Crop rotation is the practice of growing different types of crops in the same area across sequential seasons. It helps improve soil fertility, manage pests and diseases, and increase overall agricultural productivity.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_71368aea_q",
+   "label_rw": "Gukora Ifumbire y'Imborera",
+   "label_en": "Composting and Organic Fertilizer",
+   "patterns_en": [
+    "Why is organic fertilizer good for the soil?",
+    "What materials are needed to make compost?",
+    "How does composting help farmers?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma ifumbire y'imborera ari nziza ku butaka?",
+    "Ni ibiki bikenewe mu gukora ifumbire y'imborera?",
+    "Ese ifumbire y'imborera ifasha mu ki abahinzi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ifumbire y'imborera ikoreshwa mu kongera intungamubiri mu butaka. Ikorwa mu bisigazwa by'ibimera n'amatungo. Ifasha abahinzi kubona umusaruro mwiza kandi yoroshye kuyitegura.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Composting improves soil nutrients using plant and animal waste. It helps farmers increase crop yields and is usually easy to prepare locally.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_825a3cef_q",
+   "label_rw": "Uburyo bwo Kuhira Imirima",
+   "label_en": "Irrigation Methods",
+   "patterns_en": [
+    "What are the common irrigation methods?",
+    "Why is irrigation important?",
+    "How is water delivered to crops?"
+   ],
+   "patterns_rw": [
+    "Ni ubuhe buryo bwo kuhira bukoreshwa cyane?",
+    "Kuki kuhira imirima ari ingenzi?",
+    "Ni gute amazi agezwa ku bihingwa?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Uburyo bwo kuhira imirima bufasha abahinzi guha ibihingwa amazi ahagije mu gihe cy'amapfa. Hari uburyo bwinshi nko kunyunyiza amazi cyangwa kuyayobora mu mirongo. Ibi bituma umusaruro wiyongera.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Irrigation methods help farmers provide sufficient water to crops during dry periods. There are various techniques such as sprinkler and furrow irrigation. These methods help increase agricultural yields.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_88f61e21_q",
+   "label_rw": "Guhitamo no Kubika Imbuto",
+   "label_en": "Seed Selection and Storage",
+   "patterns_en": [
+    "How do you select good seeds?",
+    "Where is the best place to store seeds?",
+    "Why do seeds need proper care?"
+   ],
+   "patterns_rw": [
+    "Ni gute wahitamo imbuto nziza?",
+    "Ni he hantu heza ho kubika imbuto?",
+    "Kuki imbuto zikeneye kwitabwaho?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Guhitamo imbuto nziza ni ngombwa mu buhinzi. Abahinzi bagomba guhitamo imbuto zifite ubuziranenge kandi zitanduye indwara. Kubika imbuto neza mu hantu humye kandi hakonje bituma zitangirika kandi zigera mu gihe cy'ihinga ziri nzima.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Selecting good seeds is essential in agriculture. Farmers should choose high-quality and disease-free seeds. Storing seeds properly in a dry and cool place prevents damage and ensures they remain viable for the planting season.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
   }
  ],
  "knowledge": [
@@ -177,6 +273,86 @@
     "zones",
     "earth",
     "world"
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_9faff9f9",
+   "category": "agriculture",
+   "title_rw": "Guhinduranya Imbuto mu Murima",
+   "title_en": "Crop Rotation",
+   "summary_rw": "Guhinduranya imbuto ni uburyo bwo gutera ubwoko butandukanye bw'ibihingwa mu murima umwe uko ibihe bihunze. Bifasha mu kongera intungamubiri mu butaka, kurwanya udukoko n'indwara, no kongera umusaruro w'ubuhinzi.",
+   "summary_en": "Crop rotation is the practice of growing different types of crops in the same area across sequential seasons. It helps improve soil fertility, manage pests and diseases, and increase overall agricultural productivity.",
+   "keywords": [
+    "ubuhinzi",
+    "agriculture",
+    "ubutaka",
+    "soil",
+    "umusaruro",
+    "yield",
+    "ibihe",
+    "seasons"
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_71368aea",
+   "category": "agriculture",
+   "title_rw": "Gukora Ifumbire y'Imborera",
+   "title_en": "Composting and Organic Fertilizer",
+   "summary_rw": "Ifumbire y'imborera ikoreshwa mu kongera intungamubiri mu butaka. Ikorwa mu bisigazwa by'ibimera n'amatungo. Ifasha abahinzi kubona umusaruro mwiza kandi yoroshye kuyitegura.",
+   "summary_en": "Composting improves soil nutrients using plant and animal waste. It helps farmers increase crop yields and is usually easy to prepare locally.",
+   "keywords": [
+    "ifumbire",
+    "ubuhinzi",
+    "imborera",
+    "ubutaka",
+    "compost",
+    "agriculture",
+    "fertilizer",
+    "soil"
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_825a3cef",
+   "category": "agriculture",
+   "title_rw": "Uburyo bwo Kuhira Imirima",
+   "title_en": "Irrigation Methods",
+   "summary_rw": "Uburyo bwo kuhira imirima bufasha abahinzi guha ibihingwa amazi ahagije mu gihe cy'amapfa. Hari uburyo bwinshi nko kunyunyiza amazi cyangwa kuyayobora mu mirongo. Ibi bituma umusaruro wiyongera.",
+   "summary_en": "Irrigation methods help farmers provide sufficient water to crops during dry periods. There are various techniques such as sprinkler and furrow irrigation. These methods help increase agricultural yields.",
+   "keywords": [
+    "kuhira",
+    "ubuhinzi",
+    "amazi",
+    "umusaruro",
+    "imirima",
+    "irrigation",
+    "agriculture",
+    "water"
+   ],
+   "auto": true,
+   "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_88f61e21",
+   "category": "agriculture",
+   "title_rw": "Guhitamo no Kubika Imbuto",
+   "title_en": "Seed Selection and Storage",
+   "summary_rw": "Guhitamo imbuto nziza ni ngombwa mu buhinzi. Abahinzi bagomba guhitamo imbuto zifite ubuziranenge kandi zitanduye indwara. Kubika imbuto neza mu hantu humye kandi hakonje bituma zitangirika kandi zigera mu gihe cy'ihinga ziri nzima.",
+   "summary_en": "Selecting good seeds is essential in agriculture. Farmers should choose high-quality and disease-free seeds. Storing seeds properly in a dry and cool place prevents damage and ensures they remain viable for the planting season.",
+   "keywords": [
+    "imbuto",
+    "ubuhinzi",
+    "seeds",
+    "agriculture",
+    "kubika",
+    "storage",
+    "guhitamo",
+    "selection"
    ],
    "auto": true,
    "taught": "2026-11-08"
