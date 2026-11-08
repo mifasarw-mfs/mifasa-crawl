@@ -1,7 +1,27 @@
 {
  "day": "2026-11-08",
- "count": 64,
+ "count": 65,
  "articles": [
+  {
+   "id": "crawl_k3fsho",
+   "title": "'Tinkerman' Alonso's Chelsea side still searching for identity",
+   "summary": "Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-08T18:20:56.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e917/live/61e70130-dba2-11f1-9580-17f5674d0b29.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e917/live/61e70130-dba2-11f1-9580-17f5674d0b29.jpg",
+   "title_en": "'Tinkerman' Alonso's Chelsea side still searching for identity",
+   "summary_en": "Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.",
+   "share_id": "MN202611_k3fsho7pwa"
+  },
   {
    "id": "crawl_1chstp6",
    "title": "Russo double gives Arsenal win over Liverpool at Anfield",
@@ -1297,5 +1317,5 @@
    "share_id": "MN202611_1ws8grn11vl"
   }
  ],
- "updated": "2026-11-08T18:23:31.433Z"
+ "updated": "2026-11-08T18:45:10.306Z"
 }
