@@ -1,7 +1,87 @@
 {
  "day": "2026-11-09",
- "count": 5,
+ "count": 9,
  "articles": [
+  {
+   "id": "crawl_zkfvql",
+   "title": "How yesterday's waste is becoming tomorrow's fashion",
+   "summary": "Brands including Dr Martens, Nike and Coach are among those using recycled materials.",
+   "link": "https://www.bbc.co.uk/news/articles/cm5yd1q12g1no?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm5yd1q12g1no?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T06:05:15.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b38/live/3e241d60-d791-11f1-801d-cf196dc7232c.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b38/live/3e241d60-d791-11f1-801d-cf196dc7232c.jpg",
+   "title_en": "How yesterday's waste is becoming tomorrow's fashion",
+   "summary_en": "Brands including Dr Martens, Nike and Coach are among those using recycled materials.",
+   "share_id": "MN202611_zkfvql8s7f"
+  },
+  {
+   "id": "crawl_197n58",
+   "title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
+   "summary": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
+   "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T06:01:52.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
+   "title_en": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
+   "summary_en": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
+   "share_id": "MN202611_197n584ll6"
+  },
+  {
+   "id": "crawl_1fsksuc",
+   "title": "Charity wants bee, bird and butterfly population boost",
+   "summary": "Berkshire, Buckinghamshire and Oxfordshire Wildlife Trust aims to raise £70,000 for the project.",
+   "link": "https://www.bbc.co.uk/news/articles/ckvg77j83p0vo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckvg77j83p0vo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T06:00:40.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cee1/live/c688cb10-d9f3-11f1-bb10-cdca6001fbcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cee1/live/c688cb10-d9f3-11f1-bb10-cdca6001fbcf.jpg",
+   "title_en": "Charity wants bee, bird and butterfly population boost",
+   "summary_en": "Berkshire, Buckinghamshire and Oxfordshire Wildlife Trust aims to raise £70,000 for the project.",
+   "share_id": "MN202611_1fsksucdpb6"
+  },
+  {
+   "id": "crawl_kvtpjl",
+   "title": "Inside the French drug gangs recruiting children to kill",
+   "summary": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
+   "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T06:00:26.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5447/live/ec9efd90-d9fa-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5447/live/ec9efd90-d9fa-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "Inside the French drug gangs recruiting children to kill",
+   "summary_en": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
+   "share_id": "MN202611_kvtpjlmm0f"
+  },
   {
    "id": "crawl_pzsdq8",
    "title": "Misiri: Impanuka ya ya gari ya moshi yaraye ihitanye abantu nibura indwi",
@@ -103,5 +183,5 @@
    "share_id": "MN202611_pu2uz9vrg3"
   }
  ],
- "updated": "2026-11-09T04:12:38.117Z"
+ "updated": "2026-11-09T06:14:05.648Z"
 }
