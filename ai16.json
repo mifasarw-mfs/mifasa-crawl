@@ -482,6 +482,126 @@
    ],
    "auto": true,
    "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_97c73772_q",
+   "label_rw": "Umwami Mutara III Rudahigwa",
+   "label_en": "King Mutara III Rudahigwa",
+   "patterns_en": [
+    "When did Mutara III Rudahigwa rule Rwanda?",
+    "What was a major act of Mutara III Rudahigwa?",
+    "When did King Mutara III Rudahigwa pass away?"
+   ],
+   "patterns_rw": [
+    "Mutara III Rudahigwa yayoboye u Rwanda ryari?",
+    "Ni iki cyingenzi Mutara III Rudahigwa yakoze?",
+    "Mutara III Rudahigwa yitabye Imana ryari?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mutara III Rudahigwa yabaye umwami w'u Rwanda kuva mu 1931 kugeza mu 1959. Yatanze u Rwanda ku Mana y'Abanyarwanda. Yateje imbere amashuri no kuvura abantu. Yatanze mu buryo butunguranye mu 1959 i Bujumbura. Urupfu rwe rwateje agahinda mu gihugu hose.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Mutara III Rudahigwa was the King of Rwanda from 1931 until 1959. He dedicated Rwanda to God. He promoted education and healthcare. He died unexpectedly in 1959 in Bujumbura. His death caused deep mourning across the country.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_bc85465f_q",
+   "label_rw": "Umugabekazi Kankazi",
+   "label_en": "Queen Mother Kankazi",
+   "patterns_en": [
+    "Who was Queen Mother Kankazi?",
+    "Who were the sons of Kankazi?",
+    "Kankazi was the wife of which king?"
+   ],
+   "patterns_rw": [
+    "Umugabekazi Kankazi yari nde?",
+    "Abahungu ba Kankazi bari bande?",
+    "Kankazi yari umugore w'umwami uwuhe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Umugabekazi Kankazi yari umugore w'Umwami Yuhi V Musinga akaba na nyina w'Umwami Mutara III Rudahigwa n'Umwami King Kigeli V Ndahindurwa. Yagize uruhare rukomeye mu mateka y'u Rwanda mu kinyejana cya 20.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Queen Mother Kankazi was the wife of King Yuhi V Musinga and the mother of King Mutara III Rudahigwa and King Kigeli V Ndahindurwa. She played a significant role in Rwandan history during the 20th century.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_fe740c2c_q",
+   "label_rw": "Imigani n'imigenurano nyarwanda",
+   "label_en": "Rwandan proverbs and wisdom",
+   "patterns_en": [
+    "What is the purpose of proverbs in culture?",
+    "Who usually uses proverbs for teaching?",
+    "What do Rwandan proverbs aim to promote?"
+   ],
+   "patterns_rw": [
+    "Imigani n'imigenurano bimaze iki mu muco?",
+    "Ni bande bakoresha imigani mu kwigisha?",
+    "Imigani nyarwanda igamije iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imigani n'imigenurano nyarwanda ni ishingiro ry'umuco. Bitanga inyigisho z'ubuzima n'ubuhanga bwo kubana neza. Ababyeyi bayikoresha mu kwigisha abana imyitwarire myiza n'ubupfura.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Rwandan proverbs and wise sayings are a foundation of culture. They provide life lessons and wisdom for living harmoniously. Elders use them to teach children good behavior and integrity.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_fca95637_q",
+   "label_rw": "Umuco wo kuboha agaseke",
+   "label_en": "Agaseke basket weaving tradition",
+   "patterns_en": [
+    "What does the agaseke represent in Rwanda?",
+    "Who traditionally weaves agaseke baskets?",
+    "What is the historical use of an agaseke?"
+   ],
+   "patterns_rw": [
+    "Agaseke gihagarariye iki mu Rwanda?",
+    "Ni bande bakora agaseke?",
+    "Agaseke gakoreshwa mu ki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Agaseke ni agatebo gakorerwa mu Rwanda kabohwa n'abagore. Kiba gifite umuryango n'umutwe w'ibuye cyangwa w'akarago. Koreshwa mu kubika ibintu no gutanga impano. Gihagarariye ubumwe n'amahoro mu Rwanda.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Agaseke is a traditional coiled basket woven by women in Rwanda. It typically features a conical shape with a fitted lid. Historically used for storage and gifting, the basket is a universal symbol of peace, unity, and reconciliation in Rwanda.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_9fb8bb54_q",
+   "label_rw": "Umuco wo kwita abana amazina",
+   "label_en": "Traditional Rwandan naming customs",
+   "patterns_en": [
+    "Who gives names to children in Rwandan culture?",
+    "What is considered when choosing a child's name?",
+    "Why is the naming custom important?"
+   ],
+   "patterns_rw": [
+    "Ni bande baha abana amazina mu muco nyarwanda?",
+    "Ni iki gishingirwaho mu guhitamo izina ry'umwana?",
+    "Kuki umuco wo kwita amazina ari ingenzi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mu muco nyarwanda, abana bahabwa amazina n'ababyeyi babo cyangwa abavandimwe. Amazina akunze gufatwa hashingiwe ku bihe umwana yavukiyemo, ibyabaye mu muryango, cyangwa imiterere y'aho batuye. Kwita izina bisobanura kwakira umwana mushya mu muryango no mu muryango mugari w'abaturanyi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "In traditional Rwandan culture, children are given names by their parents or relatives. Names are often chosen based on the circumstances surrounding the birth, family events, or the living environment. Naming signifies welcoming the new child into the family and the wider community.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
   }
  ],
  "knowledge": [
@@ -881,6 +1001,104 @@
    ],
    "auto": true,
    "taught": "2026-11-08"
+  },
+  {
+   "id": "ai16_97c73772",
+   "category": "rwanda",
+   "title_rw": "Umwami Mutara III Rudahigwa",
+   "title_en": "King Mutara III Rudahigwa",
+   "summary_rw": "Mutara III Rudahigwa yabaye umwami w'u Rwanda kuva mu 1931 kugeza mu 1959. Yatanze u Rwanda ku Mana y'Abanyarwanda. Yateje imbere amashuri no kuvura abantu. Yatanze mu buryo butunguranye mu 1959 i Bujumbura. Urupfu rwe rwateje agahinda mu gihugu hose.",
+   "summary_en": "Mutara III Rudahigwa was the King of Rwanda from 1931 until 1959. He dedicated Rwanda to God. He promoted education and healthcare. He died unexpectedly in 1959 in Bujumbura. His death caused deep mourning across the country.",
+   "keywords": [
+    "rudahigwa",
+    "mutara",
+    "umwami",
+    "rwanda",
+    "king",
+    "history",
+    "amateka"
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_bc85465f",
+   "category": "rwanda",
+   "title_rw": "Umugabekazi Kankazi",
+   "title_en": "Queen Mother Kankazi",
+   "summary_rw": "Umugabekazi Kankazi yari umugore w'Umwami Yuhi V Musinga akaba na nyina w'Umwami Mutara III Rudahigwa n'Umwami King Kigeli V Ndahindurwa. Yagize uruhare rukomeye mu mateka y'u Rwanda mu kinyejana cya 20.",
+   "summary_en": "Queen Mother Kankazi was the wife of King Yuhi V Musinga and the mother of King Mutara III Rudahigwa and King Kigeli V Ndahindurwa. She played a significant role in Rwandan history during the 20th century.",
+   "keywords": [
+    "kankazi",
+    "umugabekazi",
+    "musinga",
+    "rudahigwa",
+    "ndahindurwa",
+    "rwanda",
+    "amateka"
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_fe740c2c",
+   "category": "rwanda",
+   "title_rw": "Imigani n'imigenurano nyarwanda",
+   "title_en": "Rwandan proverbs and wisdom",
+   "summary_rw": "Imigani n'imigenurano nyarwanda ni ishingiro ry'umuco. Bitanga inyigisho z'ubuzima n'ubuhanga bwo kubana neza. Ababyeyi bayikoresha mu kwigisha abana imyitwarire myiza n'ubupfura.",
+   "summary_en": "Rwandan proverbs and wise sayings are a foundation of culture. They provide life lessons and wisdom for living harmoniously. Elders use them to teach children good behavior and integrity.",
+   "keywords": [
+    "imigani",
+    "umuco",
+    "ubuhanga",
+    "imigenurano",
+    "proverbs",
+    "culture",
+    "wisdom",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_fca95637",
+   "category": "rwanda",
+   "title_rw": "Umuco wo kuboha agaseke",
+   "title_en": "Agaseke basket weaving tradition",
+   "summary_rw": "Agaseke ni agatebo gakorerwa mu Rwanda kabohwa n'abagore. Kiba gifite umuryango n'umutwe w'ibuye cyangwa w'akarago. Koreshwa mu kubika ibintu no gutanga impano. Gihagarariye ubumwe n'amahoro mu Rwanda.",
+   "summary_en": "Agaseke is a traditional coiled basket woven by women in Rwanda. It typically features a conical shape with a fitted lid. Historically used for storage and gifting, the basket is a universal symbol of peace, unity, and reconciliation in Rwanda.",
+   "keywords": [
+    "agaseke",
+    "ubumwe",
+    "amahoro",
+    "u rwanda",
+    "basket",
+    "weaving",
+    "tradition",
+    "peace"
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_9fb8bb54",
+   "category": "rwanda",
+   "title_rw": "Umuco wo kwita abana amazina",
+   "title_en": "Traditional Rwandan naming customs",
+   "summary_rw": "Mu muco nyarwanda, abana bahabwa amazina n'ababyeyi babo cyangwa abavandimwe. Amazina akunze gufatwa hashingiwe ku bihe umwana yavukiyemo, ibyabaye mu muryango, cyangwa imiterere y'aho batuye. Kwita izina bisobanura kwakira umwana mushya mu muryango no mu muryango mugari w'abaturanyi.",
+   "summary_en": "In traditional Rwandan culture, children are given names by their parents or relatives. Names are often chosen based on the circumstances surrounding the birth, family events, or the living environment. Naming signifies welcoming the new child into the family and the wider community.",
+   "keywords": [
+    "amazina",
+    "umuco",
+    "umwana",
+    "umuryango",
+    "names",
+    "culture",
+    "child",
+    "family"
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
   }
  ]
 }
