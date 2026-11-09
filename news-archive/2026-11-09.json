@@ -1,7 +1,27 @@
 {
  "day": "2026-11-09",
- "count": 2,
+ "count": 3,
  "articles": [
+  {
+   "id": "crawl_1fyqa8d",
+   "title": "A glimmer of good news for Britain's sleepy dormouse",
+   "summary": "New figures suggest hazel dormice may be recovering after decades of decline, with warmer summers boosting survival.",
+   "link": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T00:56:43.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2715/live/c8a0e160-da0e-11f1-bbd1-cf41b7fd4e9b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2715/live/c8a0e160-da0e-11f1-bbd1-cf41b7fd4e9b.jpg",
+   "title_en": "A glimmer of good news for Britain's sleepy dormouse",
+   "summary_en": "New figures suggest hazel dormice may be recovering after decades of decline, with warmer summers boosting survival.",
+   "share_id": "MN202611_1fyqa8dj6p7"
+  },
   {
    "id": "crawl_164cl13",
    "title": "Doing these things now will help you save money at Christmas",
@@ -43,5 +63,5 @@
    "share_id": "MN202611_pu2uz9vrg3"
   }
  ],
- "updated": "2026-11-09T00:19:00.995Z"
+ "updated": "2026-11-09T01:30:06.865Z"
 }
