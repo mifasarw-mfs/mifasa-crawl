@@ -1010,6 +1010,102 @@
    ],
    "auto": true,
    "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_7a4dc10b_q",
+   "label_rw": "Gutekereza cyane no gukemura ibibazo",
+   "label_en": "Critical thinking and problem solving",
+   "patterns_en": [
+    "What does critical thinking mean in education?",
+    "How do students solve problems at school?",
+    "Why is critical thinking important?"
+   ],
+   "patterns_rw": [
+    "Gutekereza cyane bisobanura iki mu burezi?",
+    "Ni gute abanyeshuri bakemura ibibazo mu ishuri?",
+    "Kuki gutekereza cyane ari ngombwa?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gutekereza cyane bifasha umunyeshuri gusesengura amakuru no gufata ibyemezo bifatika. Mu mashuri mu Rwanda, abanyeshuri batozwa gukemura ibibazo bifashishije ubushakashatsi n'ubumenyi bwabo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Critical thinking helps students analyze information and make sound decisions. In Rwandan schools, students are trained to solve problems using research and their knowledge.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_82b6ff05_q",
+   "label_rw": "Gucunga neza igihe mu gihe cy'ibizamini",
+   "label_en": "Time management during exams",
+   "patterns_en": [
+    "How can I manage my time during exams?",
+    "Why is it important to read all questions first?",
+    "How can I reduce anxiety during exams?"
+   ],
+   "patterns_rw": [
+    "Ni gute nacunga igihe cyange mu gihe cy'ibizamini?",
+    "Kuki ari ingenzi gusoma ibibazo byose mbere yo gusubiza?",
+    "Nshobora kwirinda nte impungenge mu gihe cy'ibizamini?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gucunga neza igihe mu bizamini bifasha abanyeshuri gusubiza ibibazo byose uko bikwiye. Ni byiza kubanza gusoma ibibazo byose no guha buri kibazo igihe gihwanye n'amanota gifite. Ibi bigabanya impungenge kandi bigafasha umunyesuri kurangiza ku gihe.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Good time management during exams helps students answer all questions properly. It is usually helpful to read through all questions first and allocate time based on the marks available. This practice reduces anxiety and helps students finish on time.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_2661b99e_q",
+   "label_rw": "Akamaro k'ibikorwa by'inyongera ku ishuri",
+   "label_en": "Importance of extracurricular activities",
+   "patterns_en": [
+    "Why are extracurricular activities helpful for students?",
+    "What are some examples of extracurricular activities?",
+    "What skills do students gain from extracurricular activities?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma ibikorwa by'inyongera bifasha abanyeshuri?",
+    "Ni izihe ngero z'ibikorwa by'inyongera ku ishuri?",
+    "Ese ibikorwa by'inyongera bitanga ubuhe buhanga?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ibikorwa by'inyongera ku ishuri bifasha abanyeshuri kwiga ubuhanga bushya. Bituma bagira imibereho myiza kandi bikabongerera ubushobozi bwo kuyobora. Ibyo bikorwa birimo imikino n'inteko z'abanyeshuri.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Extracurricular activities help students learn new skills. They improve overall well-being and usually enhance leadership abilities. These activities include sports and student clubs.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_096e1de2_q",
+   "label_rw": "Uburyo bwo kwandika inyandiko z'amasomo",
+   "label_en": "Note-taking strategies in class",
+   "patterns_en": [
+    "What is the best way to take notes in class?",
+    "How can you capture key points?",
+    "Why is reviewing class notes important?"
+   ],
+   "patterns_rw": [
+    "Ni ubuhe buryo bwiza bwo kwandika mu ishuri?",
+    "Ni gute wafata inyandiko z'ingenzi?",
+    "Kuki gusubiramo inyandiko z'amasomo ari ingenzi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kwandika inyandiko nziza z'amasomo bifasha abanyeshuri kwibuka ibyo bize. Hari uburyo butandukanye bwo kwandika nka Cornell, amashusho y'ibitekerezo, n'urutonde rw'ingenzi. Gusubiramo izo nyandiko bikomeza ubumenyi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Taking good class notes helps students remember what they learn. There are different methods for note-taking such as the Cornell method, mind mapping, and outlining. Reviewing these notes reinforces knowledge.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
   }
  ],
  "knowledge": [
@@ -1837,6 +1933,86 @@
     "canal",
     "amato",
     "ships"
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_7a4dc10b",
+   "category": "education",
+   "title_rw": "Gutekereza cyane no gukemura ibibazo",
+   "title_en": "Critical thinking and problem solving",
+   "summary_rw": "Gutekereza cyane bifasha umunyeshuri gusesengura amakuru no gufata ibyemezo bifatika. Mu mashuri mu Rwanda, abanyeshuri batozwa gukemura ibibazo bifashishije ubushakashatsi n'ubumenyi bwabo.",
+   "summary_en": "Critical thinking helps students analyze information and make sound decisions. In Rwandan schools, students are trained to solve problems using research and their knowledge.",
+   "keywords": [
+    "education",
+    "uburezi",
+    "critical",
+    "gutekereza",
+    "problem",
+    "ikibazo",
+    "students",
+    "abanyeshuri"
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_82b6ff05",
+   "category": "education",
+   "title_rw": "Gucunga neza igihe mu gihe cy'ibizamini",
+   "title_en": "Time management during exams",
+   "summary_rw": "Gucunga neza igihe mu bizamini bifasha abanyeshuri gusubiza ibibazo byose uko bikwiye. Ni byiza kubanza gusoma ibibazo byose no guha buri kibazo igihe gihwanye n'amanota gifite. Ibi bigabanya impungenge kandi bigafasha umunyesuri kurangiza ku gihe.",
+   "summary_en": "Good time management during exams helps students answer all questions properly. It is usually helpful to read through all questions first and allocate time based on the marks available. This practice reduces anxiety and helps students finish on time.",
+   "keywords": [
+    "igihe",
+    "ibizamini",
+    "umunyesuri",
+    "amanota",
+    "time",
+    "exams",
+    "student",
+    "management"
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_2661b99e",
+   "category": "education",
+   "title_rw": "Akamaro k'ibikorwa by'inyongera ku ishuri",
+   "title_en": "Importance of extracurricular activities",
+   "summary_rw": "Ibikorwa by'inyongera ku ishuri bifasha abanyeshuri kwiga ubuhanga bushya. Bituma bagira imibereho myiza kandi bikabongerera ubushobozi bwo kuyobora. Ibyo bikorwa birimo imikino n'inteko z'abanyeshuri.",
+   "summary_en": "Extracurricular activities help students learn new skills. They improve overall well-being and usually enhance leadership abilities. These activities include sports and student clubs.",
+   "keywords": [
+    "education",
+    "students",
+    "skills",
+    "sports",
+    "uburezi",
+    "abanyeshuri",
+    "ubuhanga",
+    "imikino"
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_096e1de2",
+   "category": "education",
+   "title_rw": "Uburyo bwo kwandika inyandiko z'amasomo",
+   "title_en": "Note-taking strategies in class",
+   "summary_rw": "Kwandika inyandiko nziza z'amasomo bifasha abanyeshuri kwibuka ibyo bize. Hari uburyo butandukanye bwo kwandika nka Cornell, amashusho y'ibitekerezo, n'urutonde rw'ingenzi. Gusubiramo izo nyandiko bikomeza ubumenyi.",
+   "summary_en": "Taking good class notes helps students remember what they learn. There are different methods for note-taking such as the Cornell method, mind mapping, and outlining. Reviewing these notes reinforces knowledge.",
+   "keywords": [
+    "inyandiko",
+    "notes",
+    "amasomo",
+    "classes",
+    "uburyo",
+    "strategies",
+    "kwiga",
+    "learning"
    ],
    "auto": true,
    "taught": "2026-11-09"
