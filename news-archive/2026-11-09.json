@@ -1,7 +1,69 @@
 {
  "day": "2026-11-09",
- "count": 107,
+ "count": 111,
  "articles": [
+  {
+   "id": "crawl_yfpqhk",
+   "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+   "summary": "The ruling means prosecutors can pursue the case, meaning they could reduce charges in a potential second trial or dismiss them altogether.",
+   "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T21:31:49.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13d/live/216524b0-dc7f-11f1-ba95-5f07efd49f42.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13d/live/216524b0-dc7f-11f1-ba95-5f07efd49f42.jpg",
+   "title_en": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+   "summary_en": "The ruling means prosecutors can pursue the case, meaning they could reduce charges in a potential second trial or dismiss them altogether.",
+   "share_id": "MN202611_yfpqhkimye"
+  },
+  {
+   "id": "crawl_21qvnu",
+   "title": "Atletico target Zubimendi move - Tuesday's gossip",
+   "summary": "Arsenal midfielder Martin Zubimendi is a target for Atletico Madrid, Leeds United plan to step up contract talks with striker Dominic Calvert-Lewin, Barcelona are keen on Bayern Munich defender Jonathan Tah, plus more.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cjn5v5xypez2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cjn5v5xypez2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T21:13:37.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7979/live/f8476210-dc78-11f1-b441-2b33b063138f.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7979/live/f8476210-dc78-11f1-b441-2b33b063138f.png",
+   "title_en": "Atletico target Zubimendi move - Tuesday's gossip",
+   "summary_en": "Arsenal midfielder Martin Zubimendi is a target for Atletico Madrid, Leeds United plan to step up contract talks with striker Dominic Calvert-Lewin, Barcelona are keen on Bayern Munich defender Jonathan Tah, plus more.",
+   "share_id": "MN202611_21qvnumv1k"
+  },
+  {
+   "id": "crawl_1l2mw9o",
+   "title": "Umuntu yaranshatse ngo ampe inkunga barayiyobya ngo ndi umukire - Sherrie Silver yanditse ababaye",
+   "summary": "Umuhanzikazi w’Umunyarwanda ufite ubwenegihugu bw’Ubwongereza yagaragaje inkuru y’abantu bamuca intege muri gahunda yiyemeje yo guteza imbere ubuhanzi, cyane cyane ububyinnyi buzamura impano (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/Umuntu-yaranshatse-ngo-ampe-inkunga-barayiyobya-ngo-ndi-umukire-Sherrie-Silver-yanditse-ababaye",
+   "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/Umuntu-yaranshatse-ngo-ampe-inkunga-barayiyobya-ngo-ndi-umukire-Sherrie-Silver-yanditse-ababaye",
+   "date": "2026-11-09T20:57:45.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu Rwanda",
+    "MobileBigStory"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/2026-11-09_22_55_51-whatsapp-image-2024-09-04-at-23.56.45-1_jpeg_1706_2560_.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-09_22_55_51-whatsapp-image-2024-09-04-at-23.56.45-1_jpeg_1706_2560_.png",
+   "title_rw": "Umuntu yaranshatse ngo ampe inkunga barayiyobya ngo ndi umukire - Sherrie Silver yanditse ababaye",
+   "summary_rw": "Umuhanzikazi w’Umunyarwanda ufite ubwenegihugu bw’Ubwongereza yagaragaje inkuru y’abantu bamuca intege muri gahunda yiyemeje yo guteza imbere ubuhanzi, cyane cyane ububyinnyi buzamura impano (…)",
+   "share_id": "MN202611_1l2mw9o8uka"
+  },
   {
    "id": "crawl_1o67pxt",
    "title": "Wimborne to host Bradford in FA Cup second round - see the full draw",
@@ -61,6 +123,26 @@
    "title_en": "Listen to Monday Night Club",
    "summary_en": "Mark Chapman and guests debate the weekend's football.",
    "share_id": "MN202611_fytobqkz9g"
+  },
+  {
+   "id": "crawl_725ayn",
+   "title": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
+   "summary": "The Pope celebrated an outdoor Mass in Argentina's capital, the second stop on a 12-day tour of Latin America, just three weeks after having had surgery for lung cancer.",
+   "link": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T19:09:27.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cec/live/5a730010-dc70-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cec/live/5a730010-dc70-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
+   "summary_en": "The Pope celebrated an outdoor Mass in Argentina's capital, the second stop on a 12-day tour of Latin America, just three weeks after having had surgery for lung cancer.",
+   "share_id": "MN202611_725ayn1y1p"
   },
   {
    "id": "crawl_tqu5m",
@@ -2267,5 +2349,5 @@
    "share_id": "MN202611_pu2uz9vrg3"
   }
  ],
- "updated": "2026-11-09T20:11:16.087Z"
+ "updated": "2026-11-09T21:40:56.704Z"
 }
