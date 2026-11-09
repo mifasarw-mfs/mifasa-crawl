@@ -962,6 +962,54 @@
    ],
    "auto": true,
    "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_7353e891_q",
+   "label_rw": "Imisozi Miremire yo ku Isi",
+   "label_en": "Major Mountain Ranges of the World",
+   "patterns_en": [
+    "What is the highest mountain in the world?",
+    "Where are the Himalayas located?",
+    "How are major mountain ranges formed?"
+   ],
+   "patterns_rw": [
+    "Ni uwuhe musozi muremure cyane ku Isi?",
+    "Imisozi ya Himalaya iherereye he?",
+    "Imigongo y'imisozi minini ikozwe n'iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Isi ifite imisozi miremire igabanyije mu migongo minini. Himalaya muri Aziya niyo ifite umusozi muremure cyane wa Everest. Imisozi nka Andes, Rocky Mountains, na Alps nayo iri mu zihagarariye Isi. Imisozi iterwa n'imbaraga zo munsi y'ubutaka.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The Earth features major mountain ranges formed by tectonic forces. The Himalayas in Asia contain Mount Everest, the highest peak globally. Other notable ranges include the Andes, the Rocky Mountains, and the Alps.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_6178e6b7_q",
+   "label_rw": "Inzira z'Inyanja n'Imiyoboro y'Amato",
+   "label_en": "Major Sea Routes and Canals",
+   "patterns_en": [
+    "Where is the Suez Canal located?",
+    "Why are shipping canals important?",
+    "Which sea routes connect countries?"
+   ],
+   "patterns_rw": [
+    "Ese umuyoboro wa Suez uherereye he?",
+    "Ni iki gituma imiyoboro y'amato ari ingenzi?",
+    "Ni izihe nzira z'inyanja zihuje ibihugu?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Inzira z'inyanja n'imiyoboro y'amato ni ingenzi mu buhahirane bw'isi. Inzira nyamukuru zihuza imigabane. Imiyoboro nka Suez na Panama igabanya igihe cy'urugendo. Amato y'ubucuruzi yambukiranya inyanja buri munsi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Major sea routes and canals are essential for global trade. Main routes connect continents. Canals like Suez and Panama significantly reduce travel time. Cargo ships cross the oceans daily.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
   }
  ],
  "knowledge": [
@@ -1749,6 +1797,46 @@
     "finance",
     "money",
     "records"
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_7353e891",
+   "category": "world",
+   "title_rw": "Imisozi Miremire yo ku Isi",
+   "title_en": "Major Mountain Ranges of the World",
+   "summary_rw": "Isi ifite imisozi miremire igabanyije mu migongo minini. Himalaya muri Aziya niyo ifite umusozi muremure cyane wa Everest. Imisozi nka Andes, Rocky Mountains, na Alps nayo iri mu zihagarariye Isi. Imisozi iterwa n'imbaraga zo munsi y'ubutaka.",
+   "summary_en": "The Earth features major mountain ranges formed by tectonic forces. The Himalayas in Asia contain Mount Everest, the highest peak globally. Other notable ranges include the Andes, the Rocky Mountains, and the Alps.",
+   "keywords": [
+    "imisozi",
+    "mountains",
+    "himalaya",
+    "everest",
+    "andes",
+    "alps",
+    "isi",
+    "earth"
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_6178e6b7",
+   "category": "world",
+   "title_rw": "Inzira z'Inyanja n'Imiyoboro y'Amato",
+   "title_en": "Major Sea Routes and Canals",
+   "summary_rw": "Inzira z'inyanja n'imiyoboro y'amato ni ingenzi mu buhahirane bw'isi. Inzira nyamukuru zihuza imigabane. Imiyoboro nka Suez na Panama igabanya igihe cy'urugendo. Amato y'ubucuruzi yambukiranya inyanja buri munsi.",
+   "summary_en": "Major sea routes and canals are essential for global trade. Main routes connect continents. Canals like Suez and Panama significantly reduce travel time. Cargo ships cross the oceans daily.",
+   "keywords": [
+    "inyanja",
+    "ocean",
+    "ubucuruzi",
+    "trade",
+    "umuyoboro",
+    "canal",
+    "amato",
+    "ships"
    ],
    "auto": true,
    "taught": "2026-11-09"
