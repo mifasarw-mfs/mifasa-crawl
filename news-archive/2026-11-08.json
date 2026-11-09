@@ -1,6 +1,6 @@
 {
  "day": "2026-11-08",
- "count": 113,
+ "count": 115,
  "articles": [
   {
    "id": "crawl_1gpkhqx",
@@ -251,6 +251,26 @@
    "title_en": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
    "summary_en": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
    "share_id": "MN202611_kr3s4rwoll"
+  },
+  {
+   "id": "crawl_uurygg",
+   "title": "Maya Jama steps down as host of reality TV show Love Island",
+   "summary": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
+   "link": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-08T21:19:48.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f2c/live/327b8220-dbb3-11f1-b35d-8ff000e4934a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f2c/live/327b8220-dbb3-11f1-b35d-8ff000e4934a.jpg",
+   "title_en": "Maya Jama steps down as host of reality TV show Love Island",
+   "summary_en": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
+   "share_id": "MN202611_uuryggkuxa"
   },
   {
    "id": "crawl_68co51",
@@ -2035,6 +2055,36 @@
    "share_id": "MN202611_1e5opukhmbe"
   },
   {
+   "id": "crawl_1ifzp8b",
+   "title": "Escaping Prison With Only A TOOTHPICK..",
+   "summary": "Today I tried to escape prison with nothing but a toothpick in Roblox! Make sure you watch the whole video to find out what happens. Mini Figures: https://www.target.com/p/caylus-vs-foltyn-mystery-figures/-/A-95041893 6\" Plush: https://www.target.com/p/caylus-vs-foltyn-12-34-mystery-plush-toy/-/A-95041894 Merch: https://foltyn.shop/ Join this channel to get access to perks: https://www.youtube.com",
+   "link": "https://www.youtube.com/watch?v=wabnfHnwLFY",
+   "url": "https://www.youtube.com/watch?v=wabnfHnwLFY",
+   "date": "2026-11-08T04:45:42.000Z",
+   "source": "YouTube Trending Kenya",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "YouTube Trending Kenya",
+    "entertainment",
+    "trending",
+    "foltyn",
+    "foltyn roblox",
+    "roblox",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "wabnfHnwLFY"
+   },
+   "type": "video",
+   "image": "https://i.ytimg.com/vi/wabnfHnwLFY/hqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/wabnfHnwLFY/hqdefault.jpg",
+   "title_en": "Escaping Prison With Only A TOOTHPICK..",
+   "summary_en": "Today I tried to escape prison with nothing but a toothpick in Roblox! Make sure you watch the whole video to find out what happens. Mini Figures: https://www.target.com/p/caylus-vs-foltyn-mystery-figures/-/A-95041893 6\" Plush: https://www.target.com/p/caylus-vs-foltyn-12-34-mystery-plush-toy/-/A-95041894 Merch: https://foltyn.shop/ Join this channel to get access to perks: https://www.youtube.com",
+   "share_id": "MN202611_1ifzp8bvs2h"
+  },
+  {
    "id": "crawl_1m7fgjd",
    "title": "The Brightest Diwali Ever 🪔 | Diwali Special Story for Kids | Happy Diwali | Part 3",
    "summary": "@kidshut family presents : The Brightest Diwali Ever 🪔 | Diwali Special Story for Kids | Happy Diwali ------------------------------------- NEW UPLOADS COLLECTION ► http://bit.ly/1TTDl6r ------------------------------------- ✿ Voice Credit: Tulsi Kumar -------------------------------------- ★ SUBSCRIBE us on YOUTUBE: http://bit.ly/1qsHVca ★ LIKE us on FACEBOOK: https://www.facebook.com/kidshut ★…",
@@ -2410,5 +2460,5 @@
    "share_id": "MN202611_1ws8grn11vl"
   }
  ],
- "updated": "2026-11-09T00:19:00.996Z"
+ "updated": "2026-11-09T07:33:54.345Z"
 }
