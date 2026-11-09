@@ -1,6 +1,6 @@
 {
  "day": "2026-11-09",
- "count": 82,
+ "count": 83,
  "articles": [
   {
    "id": "crawl_1s3bik0",
@@ -68,6 +68,26 @@
    "title_en": "Poundland unable to buy new stock as fears over collapse grow",
    "summary_en": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
    "share_id": "MN202611_119tkpdmh67"
+  },
+  {
+   "id": "crawl_fkpx7o",
+   "title": "Aberdeen sack Robinson after league slump",
+   "summary": "Aberdeen sack head coach Stephen Robinson after dropping to second bottom of the Scottish Premiership.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwj34k2z5p00o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwj34k2z5p00o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T16:46:11.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+   "title_en": "Aberdeen sack Robinson after league slump",
+   "summary_en": "Aberdeen sack head coach Stephen Robinson after dropping to second bottom of the Scottish Premiership.",
+   "share_id": "MN202611_fkpx7olwle"
   },
   {
    "id": "crawl_1ppc3cr",
@@ -1734,5 +1754,5 @@
    "share_id": "MN202611_pu2uz9vrg3"
   }
  ],
- "updated": "2026-11-09T16:54:35.546Z"
+ "updated": "2026-11-09T17:00:02.569Z"
 }

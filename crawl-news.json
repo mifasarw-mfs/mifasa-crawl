@@ -67,6 +67,26 @@
   "share_id": "MN202611_119tkpdmh67"
  },
  {
+  "id": "crawl_fkpx7o",
+  "title": "Aberdeen sack Robinson after league slump",
+  "summary": "Aberdeen sack head coach Stephen Robinson after dropping to second bottom of the Scottish Premiership.",
+  "link": "https://www.bbc.co.uk/sport/football/articles/cwj34k2z5p00o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cwj34k2z5p00o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-09T16:46:11.000Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+  "title_en": "Aberdeen sack Robinson after league slump",
+  "summary_en": "Aberdeen sack head coach Stephen Robinson after dropping to second bottom of the Scottish Premiership.",
+  "share_id": "MN202611_fkpx7olwle"
+ },
+ {
   "id": "crawl_1ppc3cr",
   "title": "France accuses Iran of supermarket fridge hacking",
   "summary": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.",
@@ -253,8 +273,8 @@
  },
  {
   "id": "crawl_cjqg2q",
-  "title": "Trump questions midterm election integrity after previously accepting results",
-  "summary": "Trump made the claims - without evidence - on Truth Social on Monday",
+  "title": "Trump questions midterm elections integrity after previously accepting results",
+  "summary": "Trump made the claims, without evidence, on Truth Social on Monday.",
   "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-09T15:37:43.000Z",
@@ -267,8 +287,8 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de62/live/5a7465d0-dc53-11f1-a869-656dc96bd12d.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de62/live/5a7465d0-dc53-11f1-a869-656dc96bd12d.jpg",
-  "title_en": "Trump questions midterm election integrity after previously accepting results",
-  "summary_en": "Trump made the claims - without evidence - on Truth Social on Monday",
+  "title_en": "Trump questions midterm elections integrity after previously accepting results",
+  "summary_en": "Trump made the claims, without evidence, on Truth Social on Monday.",
   "share_id": "MN202611_cjqg2qjcjk"
  },
  {
@@ -17101,25 +17121,5 @@
   "title_en": "Inside the Russia-Africa summit in Moscow",
   "summary_en": "More than 20 heads of state arrived at the summit.",
   "share_id": "MN202610_1l8coi559m3"
- },
- {
-  "id": "crawl_4hyj3p",
-  "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-  "summary": "Properties where someone has died in tragic circumstances can have big reductions in price.",
-  "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-10-29T09:30:03.000Z",
-  "source": "BBC Business",
-  "category": "business",
-  "lang": "en",
-  "keywords": [
-   "BBC Business",
-   "business"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af03/live/714dcfb0-d3cc-11f1-93e1-3b657b665bcf.png",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af03/live/714dcfb0-d3cc-11f1-93e1-3b657b665bcf.png",
-  "title_en": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-  "summary_en": "Properties where someone has died in tragic circumstances can have big reductions in price.",
-  "share_id": "MN202610_4hyj3prfkj"
  }
 ]
