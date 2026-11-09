@@ -1,7 +1,74 @@
 {
  "day": "2026-11-09",
- "count": 79,
+ "count": 82,
  "articles": [
+  {
+   "id": "crawl_1s3bik0",
+   "title": "Rwandan Students Shine at Afro Fest 2026 in Abu Dhabi",
+   "summary": "Rwandan Students have showcased a mouthwatering presentation at the Afro Fest 2026 at New York University Abu Dhabi. The thrilled audience was treated to Rwanda’s rich culture heritage and tourism attractions. The scheduled event strictly for above 21years will be held December 4–5. It will be two days of Afrobeats, Amapiano, live performances, and African […] The post Rwandan Students Shine at…",
+   "link": "https://taarifa.rw/2026/11/09/rwandan-students-shine-at-afro-fest-2026-in-abu-dhabi/",
+   "url": "https://taarifa.rw/2026/11/09/rwandan-students-shine-at-afro-fest-2026-in-abu-dhabi/",
+   "date": "2026-11-09T16:52:22.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "National"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261109-184359.jpg?fit=720%2C379&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261109-184359.jpg?fit=720%2C379&ssl=1",
+   "title_en": "Rwandan Students Shine at Afro Fest 2026 in Abu Dhabi",
+   "summary_en": "Rwandan Students have showcased a mouthwatering presentation at the Afro Fest 2026 at New York University Abu Dhabi. The thrilled audience was treated to Rwanda’s rich culture heritage and tourism attractions. The scheduled event strictly for above 21years will be held December 4–5. It will be two days of Afrobeats, Amapiano, live performances, and African […] The post Rwandan Students Shine at…",
+   "share_id": "MN202611_1s3bik0qifi"
+  },
+  {
+   "id": "crawl_10zvkwd",
+   "title": "Amakuru mashya mu #Amavubi || Abakinnyi bakomeje kugera i Kigali || Ganijuru mu basezerewe",
+   "summary": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "link": "https://www.youtube.com/watch?v=6f-tcJnZLMM",
+   "url": "https://www.youtube.com/watch?v=6f-tcJnZLMM",
+   "date": "2026-11-09T16:47:29.000Z",
+   "source": "Radio Rwanda YouTube",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Radio Rwanda YouTube",
+    "news",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "6f-tcJnZLMM"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/6f-tcJnZLMM/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/6f-tcJnZLMM/hqdefault.jpg",
+   "title_rw": "Amakuru mashya mu #Amavubi || Abakinnyi bakomeje kugera i Kigali || Ganijuru mu basezerewe",
+   "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "share_id": "MN202611_10zvkwdrnqj"
+  },
+  {
+   "id": "crawl_119tkpd",
+   "title": "Poundland unable to buy new stock as fears over collapse grow",
+   "summary": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
+   "link": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T16:46:40.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c59/live/3c72aa60-dc53-11f1-b8a2-9782924402f8.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c59/live/3c72aa60-dc53-11f1-b8a2-9782924402f8.jpg",
+   "title_en": "Poundland unable to buy new stock as fears over collapse grow",
+   "summary_en": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
+   "share_id": "MN202611_119tkpdmh67"
+  },
   {
    "id": "crawl_1ppc3cr",
    "title": "France accuses Iran of supermarket fridge hacking",
@@ -1667,5 +1734,5 @@
    "share_id": "MN202611_pu2uz9vrg3"
   }
  ],
- "updated": "2026-11-09T16:47:31.751Z"
+ "updated": "2026-11-09T16:54:35.546Z"
 }
