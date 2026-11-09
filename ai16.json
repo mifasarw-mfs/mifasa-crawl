@@ -602,6 +602,30 @@
    ],
    "auto": true,
    "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_763f2fb7_q",
+   "label_rw": "Amategeko ya Newton y'uko ibintu byigenza",
+   "label_en": "Newton's laws of motion",
+   "patterns_en": [
+    "What are Newton's laws of motion?",
+    "Who published the laws of motion?",
+    "When were Newton's laws published?"
+   ],
+   "patterns_rw": [
+    "Amategeko ya Newton ni ayahe?",
+    "Ni nde watangaje amategeko y'uko ibintu byigenza?",
+    "Amategeko ya Newton yatangajwe ryari?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Amategeko ya Newton ni amategeko atatu y'ubumenyi bw'isi asobanura uko ingufu zikora ku bintu bituma byimuka cyangwa bikaguma aho biri. Yatangajwe na Isaac Newton mu mwaka wa 1687.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Newton's laws of motion are three fundamental physical laws that describe the relationship between an object and the forces acting upon it, and its motion in response to those forces. They were published by Isaac Newton in 1687.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
   }
  ],
  "knowledge": [
@@ -1096,6 +1120,25 @@
     "culture",
     "child",
     "family"
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_763f2fb7",
+   "category": "science",
+   "title_rw": "Amategeko ya Newton y'uko ibintu byigenza",
+   "title_en": "Newton's laws of motion",
+   "summary_rw": "Amategeko ya Newton ni amategeko atatu y'ubumenyi bw'isi asobanura uko ingufu zikora ku bintu bituma byimuka cyangwa bikaguma aho biri. Yatangajwe na Isaac Newton mu mwaka wa 1687.",
+   "summary_en": "Newton's laws of motion are three fundamental physical laws that describe the relationship between an object and the forces acting upon it, and its motion in response to those forces. They were published by Isaac Newton in 1687.",
+   "keywords": [
+    "newton",
+    "amategeko",
+    "ubumenyi",
+    "ingufu",
+    "motion",
+    "physics",
+    "force"
    ],
    "auto": true,
    "taught": "2026-11-09"
