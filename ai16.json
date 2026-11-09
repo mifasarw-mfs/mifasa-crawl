@@ -626,6 +626,150 @@
    ],
    "auto": true,
    "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_1a1b676c_q",
+   "label_rw": "Uburyo bwo gucunga ububiko bw'amakuru",
+   "label_en": "Database management systems",
+   "patterns_en": [
+    "What is a database management system?",
+    "What are some popular database management systems?",
+    "Why are database management systems important in technology?"
+   ],
+   "patterns_rw": [
+    "Uburyo bwo gucunga ububiko bw'amakuru ni iki?",
+    "Ese porogaramu zizwi cyane zo gucunga ububiko bw'amakuru ni ize?",
+    "Kuki ububiko bw'amakuru bufite akamaro mu ikoranabuhanga?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Uburyo bwo gucunga ububiko bw'amakuru ni porogaramu zifashishwa mu kubika, gutunganya no gushakisha amakuru mu buryo bworoshye kandi bufite umutekano. Zifasha abakoresha guhurira ku makuru amwe icyarimwe nta kibazo. Ibyamamare birimo MySQL na PostgreSQL.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "A database management system is software used to store, organize, and retrieve data easily and securely. It allows multiple users to access the same data simultaneously without issues. Popular examples include MySQL and PostgreSQL.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_94530bd4_q",
+   "label_rw": "Ibanze rya sisitemu y'imikorere ya mudasobwa",
+   "label_en": "Operating systems basics",
+   "patterns_en": [
+    "What is an operating system?",
+    "What does an operating system do?",
+    "Can a computer work without an operating system?"
+   ],
+   "patterns_rw": [
+    "Sisitemu y'imikorere ni iki?",
+    "Ni iki gikorwa cya sisitemu y'imikorere?",
+    "Mudasobwa yakora nta sisitemu y'imikorere?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Sisitemu y'imikorere ni porogaramu y'ingenzi iyobora mudasobwa. Ifasha porogaramu zindi gukora kandi ikagenzura ibikoresho nka processor na memori.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "An operating system is essential software that manages computer hardware and software resources. It provides common services for computer programs and controls hardware like processors and memory.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_c205b691_q",
+   "label_rw": "Ibice bigize mudasobwa bifatika",
+   "label_en": "Computer hardware components",
+   "patterns_en": [
+    "Which component processes data in a computer?",
+    "What is the function of RAM in a computer?",
+    "What is the purpose of the motherboard?"
+   ],
+   "patterns_rw": [
+    "Ni iki gice gitunganya amakuru muri mudasobwa?",
+    "RAM ikora iki muri mudasobwa?",
+    "Motherboard ifite akahe kamaro?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mudasobwa igizwe n'ibice bifatika bitandukanye. Harimo processor itunganya amakuru, urwibutso rwa RAM rubika amakuru y'igihe gito, na hard drive ibika amakuru aramba. Hari n'ibindi nka motherboard ihuza byose n'amashanyarazi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "A computer consists of various physical parts. These include the processor that processes data, the RAM memory that temporarily stores data, and the hard drive for long-term storage. There is also the motherboard that connects everything and power supply.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_1f72dc42_q",
+   "label_rw": "Ibikoresho bihuza mudasobwa",
+   "label_en": "Network routers and switches",
+   "patterns_en": [
+    "What is the function of a router in a network?",
+    "What is the difference between a router and a switch?",
+    "How does a switch help devices share data?"
+   ],
+   "patterns_rw": [
+    "Router ikora iki mu rusobe rwa interineti?",
+    "Itandukaniro riri hagati ya router na switch ni irihe?",
+    "Ni gute switch ifasha mudasobwa gusangira amakuru?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Router na switch niibikoresho byingenzi mu rusobe rwa mudasobwa. Router ihuza imiyoboro itandukanye ya interineti igaha buri mudasobwa inzira ikwiye. Switch yo ihuza mudasobwa zo mu nzu imwe cyangwa mu biro bigatuma zishobora gusangira amakuru mu buryo bworoshye.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Routers and switches are essential network devices. A router connects different networks together and directs internet traffic efficiently. A switch connects devices within a local area network, allowing them to share data directly.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_9fb9691a_q",
+   "label_rw": "Guhisha amakuru",
+   "label_en": "Data Encryption",
+   "patterns_en": [
+    "What is data encryption?",
+    "How is information protected digitally?",
+    "Why is data security important?"
+   ],
+   "patterns_rw": [
+    "Guhisha amakuru bisobanura iki?",
+    "Ni gute amakuru arindwa mu ikoranabuhanga?",
+    "Kuki umutekano w'amakuru ari ngombwa?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Guhisha amakuru ni uburyo bwo guhindura amakuru asanzwe akaba umubare udasobanutse. Ibyo bifasha kurinda amakuru y'ibanga kugira ngo abantu batabifitiye uburenganzira batayabona. Koresha imfunguzo zidasanzwe kugira ngo wongere umutekano w'amakuru yawe mu gihe uyohereza cyangwa uyabika.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Encryption is the process of converting plain text data into unreadable cipher text. This helps protect sensitive information from unauthorized access. Strong cryptographic keys are typically used to secure data both in transit and at rest.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_f020819e_q",
+   "label_rw": "Inzira yo gukora porogaramu za mudasobwa",
+   "label_en": "Software development life cycle",
+   "patterns_en": [
+    "What does the software development life cycle consist of?",
+    "Why is software testing important?",
+    "What makes a software development project successful?"
+   ],
+   "patterns_rw": [
+    "Inzira yo gukora porogaramu igizwe n'iki?",
+    "Kuki gusuzuma porogaramu ari ingenzi?",
+    "Ni iki gituma gahunda yo gukora software igenda neza?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Inzira yo gukora porogaramu za mudasobwa igizwe n'intambwe zifatika zo gutegura, kwandika kode, no gusuzuma porogaramu. Iyi nzira ifasha abanyabugeni gutanga serivisi nziza mu gihe gito kandi zidakoresha amakosa menshi. Ibituma ikorwa neza ni ukumenya icyo abakiriya bakeneye mbere yo gutangira.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The software development life cycle consists of practical steps for planning, writing code, and testing software. This process helps developers deliver good services quickly and with fewer errors. Success depends on understanding client needs before starting.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
   }
  ],
  "knowledge": [
@@ -1139,6 +1283,121 @@
     "motion",
     "physics",
     "force"
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_1a1b676c",
+   "category": "technology",
+   "title_rw": "Uburyo bwo gucunga ububiko bw'amakuru",
+   "title_en": "Database management systems",
+   "summary_rw": "Uburyo bwo gucunga ububiko bw'amakuru ni porogaramu zifashishwa mu kubika, gutunganya no gushakisha amakuru mu buryo bworoshye kandi bufite umutekano. Zifasha abakoresha guhurira ku makuru amwe icyarimwe nta kibazo. Ibyamamare birimo MySQL na PostgreSQL.",
+   "summary_en": "A database management system is software used to store, organize, and retrieve data easily and securely. It allows multiple users to access the same data simultaneously without issues. Popular examples include MySQL and PostgreSQL.",
+   "keywords": [
+    "database",
+    "ububiko",
+    "amakuru",
+    "software",
+    "porogaramu",
+    "mysql",
+    "postgresql",
+    "umutekano"
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_94530bd4",
+   "category": "technology",
+   "title_rw": "Ibanze rya sisitemu y'imikorere ya mudasobwa",
+   "title_en": "Operating systems basics",
+   "summary_rw": "Sisitemu y'imikorere ni porogaramu y'ingenzi iyobora mudasobwa. Ifasha porogaramu zindi gukora kandi ikagenzura ibikoresho nka processor na memori.",
+   "summary_en": "An operating system is essential software that manages computer hardware and software resources. It provides common services for computer programs and controls hardware like processors and memory.",
+   "keywords": [
+    "sisitemu",
+    "mudasobwa",
+    "porogaramu",
+    "operating",
+    "system",
+    "software",
+    "hardware"
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_c205b691",
+   "category": "technology",
+   "title_rw": "Ibice bigize mudasobwa bifatika",
+   "title_en": "Computer hardware components",
+   "summary_rw": "Mudasobwa igizwe n'ibice bifatika bitandukanye. Harimo processor itunganya amakuru, urwibutso rwa RAM rubika amakuru y'igihe gito, na hard drive ibika amakuru aramba. Hari n'ibindi nka motherboard ihuza byose n'amashanyarazi.",
+   "summary_en": "A computer consists of various physical parts. These include the processor that processes data, the RAM memory that temporarily stores data, and the hard drive for long-term storage. There is also the motherboard that connects everything and power supply.",
+   "keywords": [
+    "mudasobwa",
+    "computer",
+    "hardware",
+    "processor",
+    "ram",
+    "motherboard",
+    "ibice"
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_1f72dc42",
+   "category": "technology",
+   "title_rw": "Ibikoresho bihuza mudasobwa",
+   "title_en": "Network routers and switches",
+   "summary_rw": "Router na switch niibikoresho byingenzi mu rusobe rwa mudasobwa. Router ihuza imiyoboro itandukanye ya interineti igaha buri mudasobwa inzira ikwiye. Switch yo ihuza mudasobwa zo mu nzu imwe cyangwa mu biro bigatuma zishobora gusangira amakuru mu buryo bworoshye.",
+   "summary_en": "Routers and switches are essential network devices. A router connects different networks together and directs internet traffic efficiently. A switch connects devices within a local area network, allowing them to share data directly.",
+   "keywords": [
+    "router",
+    "switch",
+    "interineti",
+    "network",
+    "mudasobwa",
+    "connection",
+    "urusobe"
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_9fb9691a",
+   "category": "technology",
+   "title_rw": "Guhisha amakuru",
+   "title_en": "Data Encryption",
+   "summary_rw": "Guhisha amakuru ni uburyo bwo guhindura amakuru asanzwe akaba umubare udasobanutse. Ibyo bifasha kurinda amakuru y'ibanga kugira ngo abantu batabifitiye uburenganzira batayabona. Koresha imfunguzo zidasanzwe kugira ngo wongere umutekano w'amakuru yawe mu gihe uyohereza cyangwa uyabika.",
+   "summary_en": "Encryption is the process of converting plain text data into unreadable cipher text. This helps protect sensitive information from unauthorized access. Strong cryptographic keys are typically used to secure data both in transit and at rest.",
+   "keywords": [
+    "encryption",
+    "security",
+    "data",
+    "guhisha",
+    "amakuru",
+    "umutekano",
+    "ikoranabuhanga"
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_f020819e",
+   "category": "technology",
+   "title_rw": "Inzira yo gukora porogaramu za mudasobwa",
+   "title_en": "Software development life cycle",
+   "summary_rw": "Inzira yo gukora porogaramu za mudasobwa igizwe n'intambwe zifatika zo gutegura, kwandika kode, no gusuzuma porogaramu. Iyi nzira ifasha abanyabugeni gutanga serivisi nziza mu gihe gito kandi zidakoresha amakosa menshi. Ibituma ikorwa neza ni ukumenya icyo abakiriya bakeneye mbere yo gutangira.",
+   "summary_en": "The software development life cycle consists of practical steps for planning, writing code, and testing software. This process helps developers deliver good services quickly and with fewer errors. Success depends on understanding client needs before starting.",
+   "keywords": [
+    "porogaramu",
+    "mudasobwa",
+    "kode",
+    "software",
+    "development",
+    "lifecycle",
+    "gahunda"
    ],
    "auto": true,
    "taught": "2026-11-09"
