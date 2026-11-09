@@ -1,7 +1,47 @@
 {
  "day": "2026-11-09",
- "count": 3,
+ "count": 5,
  "articles": [
+  {
+   "id": "crawl_pzsdq8",
+   "title": "Misiri: Impanuka ya ya gari ya moshi yaraye ihitanye abantu nibura indwi",
+   "summary": "Ama-wagons atari make yataye inzira aratembagara igihe amagari ya moshi abiri yagongana hanze y’igisagara ca Giza.",
+   "link": "https://www.bbc.co.uk/gahuza/live/cxr5y5n33dd3t?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/gahuza/live/cxr5y5n33dd3t?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T04:08:56.119Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d2e/live/d9f9a7c0-dbef-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d2e/live/d9f9a7c0-dbef-11f1-93e1-3b657b665bcf.jpg",
+   "title_rw": "Misiri: Impanuka ya ya gari ya moshi yaraye ihitanye abantu nibura indwi",
+   "summary_rw": "Ama-wagons atari make yataye inzira aratembagara igihe amagari ya moshi abiri yagongana hanze y’igisagara ca Giza.",
+   "share_id": "MN202611_pzsdq8p0ta"
+  },
+  {
+   "id": "crawl_1nwobkl",
+   "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+   "summary": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+   "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T02:50:13.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d5/live/8cacf090-dbdf-11f1-b348-cb75a5659779.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d5/live/8cacf090-dbdf-11f1-b348-cb75a5659779.jpg",
+   "title_en": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+   "summary_en": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+   "share_id": "MN202611_1nwobklh81f"
+  },
   {
    "id": "crawl_1fyqa8d",
    "title": "A glimmer of good news for Britain's sleepy dormouse",
@@ -63,5 +103,5 @@
    "share_id": "MN202611_pu2uz9vrg3"
   }
  ],
- "updated": "2026-11-09T01:30:06.865Z"
+ "updated": "2026-11-09T04:12:38.117Z"
 }
