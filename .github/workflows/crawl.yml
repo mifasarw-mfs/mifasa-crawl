@@ -2,6 +2,7 @@
 #   every 5 minutes : RSS/Atom sources (news that changes fast)          -> node crawl.js --mode=fast
 #   every hour (:07) : sites WITHOUT RSS + Wikipedia knowledge topics     -> node crawl.js --mode=slow  +  node crawl-knowledge.js
 #   when you edit crawl-feeds.json / crawl-topics.json / the crawlers     -> everything at once
+# NEW: node crawl-videos.js gets EVERY video of every YouTube channel (hourly) -> videos/<channel>.json (first run = all, later = only new).
 # Uploads to Neocities ONLY when something changed. Needs the secret NEOCITIES_API_KEY.
 # NEW: every story is also kept FOREVER in news-archive/YYYY-MM-DD.json (+ index.json), each with a permanent id (share_id "MN202611_...").
 #      crawl-news.json stays the fast 60-day window; the archive never loses anything.
@@ -12,7 +13,7 @@ on:
     - cron: "7 * * * *"
   workflow_dispatch: {}
   push:
-    paths: ["crawl-feeds.json", "crawl-topics.json", "crawl.js", "crawl-knowledge.js", ".github/workflows/crawl.yml"]
+    paths: ["crawl-feeds.json", "crawl-topics.json", "crawl.js", "crawl-knowledge.js", "crawl-videos.js", "notify-post.js", ".github/workflows/crawl.yml"]
 permissions:
   contents: write
 concurrency:
@@ -37,9 +38,21 @@ jobs:
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: node crawl.js --mode=${{ steps.mode.outputs.mode }}
+      - name: Tell people about new videos (web push + Discord)
+        continue-on-error: true
+        env:
+          ONESIGNAL_APP_ID: ${{ secrets.ONESIGNAL_APP_ID }}
+          ONESIGNAL_API_KEY: ${{ secrets.ONESIGNAL_API_KEY }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: node notify-post.js
       - name: Update Wikipedia knowledge
         if: steps.mode.outputs.mode != 'fast'
         run: node crawl-knowledge.js
+      - name: Get ALL videos of every YouTube channel
+        if: steps.mode.outputs.mode != 'fast'
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: node crawl-videos.js
       - name: Keep the new files in the repo
         id: keep
         run: |
@@ -47,6 +60,8 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add crawl-news.json crawl-words.json crawl-knowledge.json
           git add news-archive 2>/dev/null || true
+          git add videos 2>/dev/null || true
+          git add notify-sent.json 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "Nothing new."
@@ -69,5 +84,10 @@ jobs:
               files=$(ls news-archive/*.json 2>/dev/null | sort | tail -15)                                  # manual run: the last 14 days + index
             fi
             for f in $files; do [ -f "$f" ] && args+=(-F "$f=@$f"); done
+          fi
+          if [ -d videos ]; then
+            if [ "$EVENT" = "schedule" ]; then vf=$(git show --name-only --pretty=format: HEAD -- videos | grep -v '^$' || true)
+            else vf=$(ls videos/*.json 2>/dev/null); fi
+            for f in $vf; do [ -f "$f" ] && args+=(-F "$f=@$f"); done
           fi
           curl -fsS -H "Authorization: Bearer $NEOCITIES_API_KEY" "${args[@]}" https://neocities.org/api/upload
