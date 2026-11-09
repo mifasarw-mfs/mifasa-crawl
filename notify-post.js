@@ -34,7 +34,8 @@ function norm(a) {
     src: clip(String(a.source || (vid ? "YouTube" : "")).replace(/ YouTube$/i, ""), 60),
     url: vid ? BASE + "?lang=" + (en ? "en" : "rw") + "&v=" + id : String(a.link || a.url || SITE),
     img: vid ? "https://i.ytimg.com/vi/" + id + "/mqdefault.jpg" : (/^https:\/\//.test(pic) ? pic : ""),
-    yt: vid ? "https://youtu.be/" + id : ""
+    yt: vid ? "https://youtu.be/" + id : "",
+    sum: vid ? "" : clip(String(a.summary || "").replace(/<[^>]*>/g, " ").replace(/&[a-z#0-9]+;/gi, " "), 110)
   };
 }
 const words = t => new Set(String(t).toLowerCase().replace(/[^\p{L}\p{N}\s]/gu, " ").split(/\s+/).filter(w => w.length > 3));
@@ -71,7 +72,7 @@ async function main() {
       did = true; console.log("discord  " + a.title.slice(0, 60));
     } catch (e) { console.log("discord FAIL " + e.message); }
     if (PUSH) try {
-      const body = { app_id: E.ONESIGNAL_APP_ID, target_channel: "push", included_segments: ["Subscribed Users"], headings: { en: (a.vid ? "🎬 " : "📰 ") + clip(a.title, 90) }, contents: { en: (a.vid ? (a.en ? "New on MIFASARW · " : "Rishya kuri MIFASARW · ") : (a.en ? "News · " : "Amakuru · ")) + a.src }, url: a.url, ttl: a.own ? 86400 : 10800 };
+      const body = { app_id: E.ONESIGNAL_APP_ID, target_channel: "push", included_segments: ["Subscribed Users"], headings: { en: (a.vid ? "🎬 " : "📰 ") + clip(a.title, 90) }, contents: { en: (a.vid ? (a.en ? "New on MIFASARW · " : "Rishya kuri MIFASARW · ") : (a.en ? "News · " : "Amakuru · ")) + a.src + (a.sum ? " — " + a.sum : "") }, url: a.url, ttl: a.own ? 86400 : 10800 };
       if (a.img) body.chrome_web_image = a.img;
       if (!a.own) body.collapse_id = "mifasa-" + (a.vid ? "video" : "news");   // a new one replaces the old one on the phone instead of stacking
       await post("https://api.onesignal.com/notifications", { Authorization: "Key " + E.ONESIGNAL_API_KEY }, body);
