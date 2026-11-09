@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_164xfh2",
+  "title": "Paramedic injured while assisting patient",
+  "summary": "The ambulance service said the \"attack lasted a number of minutes\"",
+  "link": "https://www.bbc.co.uk/news/videos/cwd090lyd3dlo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/videos/cwd090lyd3dlo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-09T17:13:23.000Z",
+  "source": "BBC Health",
+  "category": "health",
+  "lang": "en",
+  "keywords": [
+   "BBC Health",
+   "health"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9297/live/8889eba0-dc5f-11f1-8fe6-5becaee5408f.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9297/live/8889eba0-dc5f-11f1-8fe6-5becaee5408f.jpg",
+  "title_en": "Paramedic injured while assisting patient",
+  "summary_en": "The ambulance service said the \"attack lasted a number of minutes\"",
+  "share_id": "MN202611_164xfh2q0l0"
+ },
+ {
   "id": "crawl_1s3bik0",
   "title": "Rwandan Students Shine at Afro Fest 2026 in Abu Dhabi",
   "summary": "Rwandan Students have showcased a mouthwatering presentation at the Afro Fest 2026 at New York University Abu Dhabi. The thrilled audience was treated to Rwanda’s rich culture heritage and tourism attractions. The scheduled event strictly for above 21years will be held December 4–5. It will be two days of Afrobeats, Amapiano, live performances, and African […] The post Rwandan Students Shine at…",
@@ -17101,25 +17121,5 @@
   "title_en": "Granite Switch 4.1.1 — Update models like you update software",
   "summary_en": "Granite Switch 4.1.1 — Update models like you update software",
   "share_id": "MN202610_1hj24r2vs18"
- },
- {
-  "id": "crawl_1l8coi5",
-  "title": "Inside the Russia-Africa summit in Moscow",
-  "summary": "More than 20 heads of state arrived at the summit.",
-  "link": "https://www.bbc.co.uk/news/videos/cj75pkypyw3zo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/videos/cj75pkypyw3zo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-10-29T12:00:06.000Z",
-  "source": "BBC Africa",
-  "category": "news",
-  "lang": "en",
-  "keywords": [
-   "BBC Africa",
-   "news"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d4a/live/215c42a0-d38d-11f1-b441-2b33b063138f.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d4a/live/215c42a0-d38d-11f1-b441-2b33b063138f.jpg",
-  "title_en": "Inside the Russia-Africa summit in Moscow",
-  "summary_en": "More than 20 heads of state arrived at the summit.",
-  "share_id": "MN202610_1l8coi559m3"
  }
 ]
