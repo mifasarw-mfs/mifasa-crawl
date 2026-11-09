@@ -1,7 +1,155 @@
 {
  "day": "2026-11-09",
- "count": 18,
+ "count": 29,
  "articles": [
+  {
+   "id": "crawl_1qufyar",
+   "title": "U Rwanda rwatahanye umwanya wa gatatu mu irushanwa ry'Akarere ka Gatanu",
+   "summary": "Ikipe y’igihugu y’u Rwanda y’abagore ya Handball yasoreje ku mwanya wa gatatu mu irushanwa ry’Akarere ka Gatanu, nyuma yo gutsinda Tanzania yari yaryakiriye ibitego 32-31. Ni irushanwa ryakinwe (…)",
+   "link": "https://www.kigalitoday.com/imikino/handball/article/u-rwanda-rwatahanye-umwanya-wa-gatatu-mu-irushanwa-ry-akarere-ka-gatanu",
+   "url": "https://www.kigalitoday.com/imikino/handball/article/u-rwanda-rwatahanye-umwanya-wa-gatatu-mu-irushanwa-ry-akarere-ka-gatanu",
+   "date": "2026-11-09T08:43:05.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Handball",
+    "Jean Jules Uwimana"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/img_9403_1.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/img_9403_1.jpg",
+   "title_rw": "U Rwanda rwatahanye umwanya wa gatatu mu irushanwa ry'Akarere ka Gatanu",
+   "summary_rw": "Ikipe y’igihugu y’u Rwanda y’abagore ya Handball yasoreje ku mwanya wa gatatu mu irushanwa ry’Akarere ka Gatanu, nyuma yo gutsinda Tanzania yari yaryakiriye ibitego 32-31. Ni irushanwa ryakinwe (…)",
+   "share_id": "MN202611_1qufyaru4ch"
+  },
+  {
+   "id": "crawl_16bshfg",
+   "title": "PASITERI BIZIMUNGU WUBAKA HOTELI YA MILIYARI 10 FRW NI MUNTU KI? IJAMBO RYE MURI POLITIKI Y'U RWANDA",
+   "summary": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
+   "link": "https://www.youtube.com/watch?v=KUhkKTEOAQo",
+   "url": "https://www.youtube.com/watch?v=KUhkKTEOAQo",
+   "date": "2026-11-09T08:30:39.000Z",
+   "source": "Mwanafunzi Ismael YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Mwanafunzi Ismael YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "KUhkKTEOAQo"
+   },
+   "type": "video",
+   "image": "https://i4.ytimg.com/vi/KUhkKTEOAQo/hqdefault.jpg",
+   "thumbnail": "https://i4.ytimg.com/vi/KUhkKTEOAQo/hqdefault.jpg",
+   "title_rw": "PASITERI BIZIMUNGU WUBAKA HOTELI YA MILIYARI 10 FRW NI MUNTU KI? IJAMBO RYE MURI POLITIKI Y'U RWANDA",
+   "summary_rw": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
+   "share_id": "MN202611_16bshfgok9m"
+  },
+  {
+   "id": "crawl_nbbzlj",
+   "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
+   "summary": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
+   "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T08:16:57.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd49/live/784207a0-dc00-11f1-bbe0-3f3fc519e7d8.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd49/live/784207a0-dc00-11f1-bbe0-3f3fc519e7d8.png",
+   "title_en": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
+   "summary_en": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
+   "share_id": "MN202611_nbbzlj4w2d"
+  },
+  {
+   "id": "crawl_s1z7ra",
+   "title": "Dutch match postponed after fans block team bus",
+   "summary": "A Dutch second-tier match between Vitesse Arnhem and De Graafschap was called off after away team supporters blocked their own team's bus from departing for the game.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqy0r0lw4l5ro?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqy0r0lw4l5ro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T08:00:07.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8eb/live/b045b540-dc0d-11f1-9f85-c35529b8c4b9.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8eb/live/b045b540-dc0d-11f1-9f85-c35529b8c4b9.jpg",
+   "title_en": "Dutch match postponed after fans block team bus",
+   "summary_en": "A Dutch second-tier match between Vitesse Arnhem and De Graafschap was called off after away team supporters blocked their own team's bus from departing for the game.",
+   "share_id": "MN202611_s1z7rar55w"
+  },
+  {
+   "id": "crawl_dz7h2s",
+   "title": "Ibisasu bya misile z'Aba-Houthi byibasiye Aramco Tower mu murwa mukuru wa Arabiya Sawudite",
+   "summary": "Amashusho yagenzuwe kandi yemezwa na BBC Verify agaragaza ibyangiritse kuri iyo nyubako, iri mu gice cy'umujyi rwagati wa Riyadh, gikoranyirizwamo ibikorwa by'imari n'ubucuruzi.",
+   "link": "https://www.bbc.com/gahuza/articles/c8qlnlrrk6g4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/c8qlnlrrk6g4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T07:56:49.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ea80/live/2b11cc30-dbbb-11f1-93e1-3b657b665bcf.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ea80/live/2b11cc30-dbbb-11f1-93e1-3b657b665bcf.png",
+   "title_rw": "Ibisasu bya misile z'Aba-Houthi byibasiye Aramco Tower mu murwa mukuru wa Arabiya Sawudite",
+   "summary_rw": "Amashusho yagenzuwe kandi yemezwa na BBC Verify agaragaza ibyangiritse kuri iyo nyubako, iri mu gice cy'umujyi rwagati wa Riyadh, gikoranyirizwamo ibikorwa by'imari n'ubucuruzi.",
+   "share_id": "MN202611_dz7h2s0djm"
+  },
+  {
+   "id": "crawl_21l2dn",
+   "title": "Kenya seizes 454kg of meth in drug crackdown",
+   "summary": "Kenyan police said investigations started after a key suspect was arrested in Tanzania last week.",
+   "link": "https://www.bbc.co.uk/news/articles/c8vgxglkyzv4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c8vgxglkyzv4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T07:37:33.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6105/live/ad8c9870-dbfc-11f1-bb7b-19f7beb970a6.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6105/live/ad8c9870-dbfc-11f1-bb7b-19f7beb970a6.jpg",
+   "title_en": "Kenya seizes 454kg of meth in drug crackdown",
+   "summary_en": "Kenyan police said investigations started after a key suspect was arrested in Tanzania last week.",
+   "share_id": "MN202611_21l2dni0tl"
+  },
+  {
+   "id": "crawl_tmwmmd",
+   "title": "Scientists predict 2026 hottest year on record as climate talks begin",
+   "summary": "Scientists are predictng this could be the hottest year on record as the COP31 climate summit opens.",
+   "link": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T07:30:12.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d7/live/1adcf6d0-db63-11f1-adda-c54f54e3ce6a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d7/live/1adcf6d0-db63-11f1-adda-c54f54e3ce6a.jpg",
+   "title_en": "Scientists predict 2026 hottest year on record as climate talks begin",
+   "summary_en": "Scientists are predictng this could be the hottest year on record as the COP31 climate summit opens.",
+   "share_id": "MN202611_tmwmmdpj37"
+  },
   {
    "id": "crawl_12sehwd",
    "title": "Krakow shooting suspect has died in hospital, police say",
@@ -41,6 +189,52 @@
    "title_en": "Government's EV targets expected to be reduced this week",
    "summary_en": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
    "share_id": "MN202611_cs7n7t0jon"
+  },
+  {
+   "id": "crawl_1atnvwj",
+   "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+   "summary": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
+   "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T07:10:11.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0343/live/157fc790-dc0c-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0343/live/157fc790-dc0c-11f1-b441-2b33b063138f.jpg",
+   "title_en": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+   "summary_en": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
+   "share_id": "MN202611_1atnvwjgh0h"
+  },
+  {
+   "id": "crawl_12iopyo",
+   "title": "🔴LIVE: #URUBUGARWIMIKINO: Ibishya muri APR FC | Darko Nović yashimiwe | Shampiyona z’i Burayi",
+   "summary": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "link": "https://www.youtube.com/watch?v=Ldl0XIhMi9w",
+   "url": "https://www.youtube.com/watch?v=Ldl0XIhMi9w",
+   "date": "2026-11-09T06:56:34.000Z",
+   "source": "Radio Rwanda YouTube",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Radio Rwanda YouTube",
+    "news",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "Ldl0XIhMi9w"
+   },
+   "type": "video",
+   "image": "https://i1.ytimg.com/vi/Ldl0XIhMi9w/hqdefault.jpg",
+   "thumbnail": "https://i1.ytimg.com/vi/Ldl0XIhMi9w/hqdefault.jpg",
+   "title_rw": "🔴LIVE: #URUBUGARWIMIKINO: Ibishya muri APR FC | Darko Nović yashimiwe | Shampiyona z’i Burayi",
+   "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "share_id": "MN202611_12iopyokssu"
   },
   {
    "id": "crawl_dsmwhs",
@@ -101,6 +295,32 @@
    "title_en": "Who am I? Plus today's other quizzes",
    "summary_en": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
    "share_id": "MN202611_1xty8vdq69z"
+  },
+  {
+   "id": "crawl_1qoa9so",
+   "title": "#diamondplatnumz #amapiano #wcb #Tsemonate",
+   "summary": "#diamondplatnumz #amapiano #wcb #Tsemonate",
+   "link": "https://www.youtube.com/shorts/I0qfSInUcP8",
+   "url": "https://www.youtube.com/shorts/I0qfSInUcP8",
+   "date": "2026-11-09T06:22:34.000Z",
+   "source": "Diamond Platnumz YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Diamond Platnumz YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "I0qfSInUcP8"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/I0qfSInUcP8/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/I0qfSInUcP8/hqdefault.jpg",
+   "title_rw": "#diamondplatnumz #amapiano #wcb #Tsemonate",
+   "summary_rw": "#diamondplatnumz #amapiano #wcb #Tsemonate",
+   "share_id": "MN202611_1qoa9som4za"
   },
   {
    "id": "crawl_hl2gd3",
@@ -201,6 +421,32 @@
    "title_en": "Inside the French drug gangs recruiting children to kill",
    "summary_en": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
    "share_id": "MN202611_kvtpjlmm0f"
+  },
+  {
+   "id": "crawl_j9lqwh",
+   "title": "WAMUFARANSA Bamuhaye Amafaranga yarangiye😱",
+   "summary": "#wamufaransa #funnyvideo",
+   "link": "https://www.youtube.com/watch?v=FWWGbtF2Tk4",
+   "url": "https://www.youtube.com/watch?v=FWWGbtF2Tk4",
+   "date": "2026-11-09T05:34:49.000Z",
+   "source": "Wamufaransa Comedy YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Wamufaransa Comedy YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "FWWGbtF2Tk4"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/FWWGbtF2Tk4/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/FWWGbtF2Tk4/hqdefault.jpg",
+   "title_rw": "WAMUFARANSA Bamuhaye Amafaranga yarangiye😱",
+   "summary_rw": "#wamufaransa #funnyvideo",
+   "share_id": "MN202611_j9lqwhlvpr"
   },
   {
    "id": "crawl_1786ty1",
@@ -363,5 +609,5 @@
    "share_id": "MN202611_pu2uz9vrg3"
   }
  ],
- "updated": "2026-11-09T07:33:54.344Z"
+ "updated": "2026-11-09T08:47:05.938Z"
 }
