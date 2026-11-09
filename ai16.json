@@ -818,6 +818,150 @@
    ],
    "auto": true,
    "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_ce2838b2_q",
+   "label_rw": "Imari Iciriritse mu Rwanda",
+   "label_en": "Microfinance in Rwanda",
+   "patterns_en": [
+    "What is microfinance in Rwanda?",
+    "How do people access small loans?",
+    "What is the importance of microfinance institutions?"
+   ],
+   "patterns_rw": [
+    "Imari iciriritse ni iki mu Rwanda?",
+    "Ni gute abantu bagerwaho n'inguzanyo nto?",
+    "Akamaro k'ibigo by'imari iciriritse ni akahe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imari iciriritse mu Rwanda itanga serivisi z'imari ku bantu batagerwaho na banki zikomeye. Ibyo birimo inguzanyo nto n'ubwizigame bifasha abaturage kwiteza imbere no gutangira imishinga mito.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Microfinance in Rwanda provides financial services to people who are usually unreached by traditional commercial banks. These institutions offer small loans and savings accounts that help citizens improve their livelihoods and start small businesses.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_fca4df38_q",
+   "label_rw": "Ubwoko bw'ubucuruzi",
+   "label_en": "Types of business ownership",
+   "patterns_en": [
+    "What is the most common type of business?",
+    "How does a partnership business work?",
+    "What is the difference between a sole proprietorship and a corporation?"
+   ],
+   "patterns_rw": [
+    "Ni ubuhe bwoko bw'ubucuruzi bworohera abantu benshi?",
+    "Isosiyete y'abafatanyabikorwa ikora ite?",
+    "Ni iki gitandukanya ubucuruzi bw'umuntu umwe n'isosiyete?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubwoko bw'ingenzi bw'ubucuruzi burimo umuntu umwe ubyikorera, amsosiyete y'abafatanyabikorwa, n'amasosiyete y'ubucuruzi afite imigabane. Buri bwoko bufite uburyo bwihariye bw'imisoro, uburenganzira, n'inshingano ku mitungo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The main types of business ownership include sole proprietorships, partnerships, and corporations. Each type has specific tax rules, legal rights, and liability responsibilities for owners.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_995271db_q",
+   "label_rw": "Gusobanukirwa n'imisoro mu Rwanda",
+   "label_en": "Understanding taxes in Rwanda",
+   "patterns_en": [
+    "Who is responsible for collecting taxes in Rwanda?",
+    "Why is paying taxes on time important?",
+    "What happens to a taxpayer who fails to comply?"
+   ],
+   "patterns_rw": [
+    "Ni nde ushinzwe gukusanya imisoro mu Rwanda?",
+    "Kuki kwishyura imisoro ku gihe ari ingenzi?",
+    "Ni iki gishobora kuba ku muturage utishyura imisoro?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imisoro ni amafaranga yishyurwa Leta kugira ngo itange serivisi rusange. Ikigo cy'Igihugu cy'Imisoro n'Amahoro ni cyo gishinzwe gukusanya imisoro. Abacuruzi n'abaturage basabwa kwishyura imisoro ku gihe no gukurikiza amategeko kugira ngo birinde ibihano.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Taxes are compulsory payments to the government to fund public services. The Rwanda Revenue Authority is responsible for collecting taxes. Businesses and citizens are required to pay taxes on time and comply with regulations to avoid penalties.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_58884885_q",
+   "label_rw": "Inzira y'umusaruro w'ubuhinzi",
+   "label_en": "Agricultural value chain",
+   "patterns_en": [
+    "What is an agricultural value chain?",
+    "How do farmers connect to markets?",
+    "What is the benefit of managing agricultural products?"
+   ],
+   "patterns_rw": [
+    "Inzira y'umusaruro w'ubuhinzi ni iki?",
+    "Ni gute abahinzi bafatanya n'isoko?",
+    "Akamaro k'imicungire y'umusaruro ni akahe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Inzira y'umusaruro w'ubuhinzi igizwe n'ibikorwa byose bihera ku ihinga kugeza umusaruro ugeze ku muguzi. Ibi birimo gutunganya umusaruro, kuwubika no kuwucuruza. Mu Rwanda, guteza imbere izi nzira bifasha abahinzi kubona inyungu no kugabanya igihombo cy'umusaruro.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "An agricultural value chain includes all activities from farming to delivering the product to the consumer. This usually involves processing, storage, and marketing. In Rwanda, developing these chains helps farmers increase profits and reduce post-harvest losses.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_0558c31d_q",
+   "label_rw": "Serivisi nziza ku bakiriya",
+   "label_en": "Customer service excellence",
+   "patterns_en": [
+    "Why is customer service excellence important?",
+    "How is good customer service measured?",
+    "How can employees improve their service delivery?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma serivisi nziza ku bakiriya iba ingenzi?",
+    "Twagena dute serivisi nziza ku bakiriya?",
+    "Ni gute abakozi bashobora kunoza serivisi batanga?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Serivisi nziza ku bakiriya ni ingenzi mu iterambere rya buri bucuruzi. Bisaba kumva ibyo umukiriya akeneye, kumutega amatwi no kumusubiza vuba kandi neza. Ibi bituma umukiriya agaruka kandi bikongera icyizere cy'ikigo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Customer service excellence is essential for business growth. It involves understanding client needs, active listening, and providing prompt and professional support. This builds customer loyalty and enhances company reputation.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_9db0a994_q",
+   "label_rw": "Ibanze mu kubika ibitabo by'imari",
+   "label_en": "Bookkeeping basics",
+   "patterns_en": [
+    "What is bookkeeping?",
+    "Why is keeping financial records important for taxes?",
+    "What key information is recorded in business accounts?"
+   ],
+   "patterns_rw": [
+    "Kubika ibitabo by'imari bisobanura iki?",
+    "Ni iki gituma kubika imari byoroshya imisoro?",
+    "Amakuru y'ingenzi yandikwa mu mari ni ayahe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kubika ibitabo by'imari bisobanura kwandika amakuru yose y'amafaranga yinjira n'asohoka mu rwego rwo gukurikirana ubuzima bw'ubucuruzi. Ibi bifasha abayobozi gufata ibyemezo byiza kandi byorohera isosiyete kwishyura imisoro ku gihe.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Bookkeeping involves recording all financial transactions, including income and expenses, to track the financial health of a business. This practice helps managers make informed decisions and ensures accurate tax reporting.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
   }
  ],
  "knowledge": [
@@ -1485,6 +1629,126 @@
     "history",
     "amateka",
     "ubwami"
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_ce2838b2",
+   "category": "business",
+   "title_rw": "Imari Iciriritse mu Rwanda",
+   "title_en": "Microfinance in Rwanda",
+   "summary_rw": "Imari iciriritse mu Rwanda itanga serivisi z'imari ku bantu batagerwaho na banki zikomeye. Ibyo birimo inguzanyo nto n'ubwizigame bifasha abaturage kwiteza imbere no gutangira imishinga mito.",
+   "summary_en": "Microfinance in Rwanda provides financial services to people who are usually unreached by traditional commercial banks. These institutions offer small loans and savings accounts that help citizens improve their livelihoods and start small businesses.",
+   "keywords": [
+    "imari",
+    "iciriritse",
+    "rwanda",
+    "inguzanyo",
+    "ubwizigame",
+    "microfinance",
+    "savings",
+    "loans"
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_fca4df38",
+   "category": "business",
+   "title_rw": "Ubwoko bw'ubucuruzi",
+   "title_en": "Types of business ownership",
+   "summary_rw": "Ubwoko bw'ingenzi bw'ubucuruzi burimo umuntu umwe ubyikorera, amsosiyete y'abafatanyabikorwa, n'amasosiyete y'ubucuruzi afite imigabane. Buri bwoko bufite uburyo bwihariye bw'imisoro, uburenganzira, n'inshingano ku mitungo.",
+   "summary_en": "The main types of business ownership include sole proprietorships, partnerships, and corporations. Each type has specific tax rules, legal rights, and liability responsibilities for owners.",
+   "keywords": [
+    "ubucuruzi",
+    "business",
+    "isosiyete",
+    "company",
+    "imisoro",
+    "taxes",
+    "abafatanyabikorwa",
+    "partnership"
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_995271db",
+   "category": "business",
+   "title_rw": "Gusobanukirwa n'imisoro mu Rwanda",
+   "title_en": "Understanding taxes in Rwanda",
+   "summary_rw": "Imisoro ni amafaranga yishyurwa Leta kugira ngo itange serivisi rusange. Ikigo cy'Igihugu cy'Imisoro n'Amahoro ni cyo gishinzwe gukusanya imisoro. Abacuruzi n'abaturage basabwa kwishyura imisoro ku gihe no gukurikiza amategeko kugira ngo birinde ibihano.",
+   "summary_en": "Taxes are compulsory payments to the government to fund public services. The Rwanda Revenue Authority is responsible for collecting taxes. Businesses and citizens are required to pay taxes on time and comply with regulations to avoid penalties.",
+   "keywords": [
+    "imisoro",
+    "rra",
+    "ubucuruzi",
+    "amategeko",
+    "taxes",
+    "business",
+    "compliance",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_58884885",
+   "category": "business",
+   "title_rw": "Inzira y'umusaruro w'ubuhinzi",
+   "title_en": "Agricultural value chain",
+   "summary_rw": "Inzira y'umusaruro w'ubuhinzi igizwe n'ibikorwa byose bihera ku ihinga kugeza umusaruro ugeze ku muguzi. Ibi birimo gutunganya umusaruro, kuwubika no kuwucuruza. Mu Rwanda, guteza imbere izi nzira bifasha abahinzi kubona inyungu no kugabanya igihombo cy'umusaruro.",
+   "summary_en": "An agricultural value chain includes all activities from farming to delivering the product to the consumer. This usually involves processing, storage, and marketing. In Rwanda, developing these chains helps farmers increase profits and reduce post-harvest losses.",
+   "keywords": [
+    "ubuhinzi",
+    "agriculture",
+    "umusaruro",
+    "production",
+    "ubucuruzi",
+    "business",
+    "u rwanda",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_0558c31d",
+   "category": "business",
+   "title_rw": "Serivisi nziza ku bakiriya",
+   "title_en": "Customer service excellence",
+   "summary_rw": "Serivisi nziza ku bakiriya ni ingenzi mu iterambere rya buri bucuruzi. Bisaba kumva ibyo umukiriya akeneye, kumutega amatwi no kumusubiza vuba kandi neza. Ibi bituma umukiriya agaruka kandi bikongera icyizere cy'ikigo.",
+   "summary_en": "Customer service excellence is essential for business growth. It involves understanding client needs, active listening, and providing prompt and professional support. This builds customer loyalty and enhances company reputation.",
+   "keywords": [
+    "serivisi",
+    "abakiriya",
+    "ubucuruzi",
+    "icyizere",
+    "customer",
+    "service",
+    "business",
+    "loyalty"
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_9db0a994",
+   "category": "business",
+   "title_rw": "Ibanze mu kubika ibitabo by'imari",
+   "title_en": "Bookkeeping basics",
+   "summary_rw": "Kubika ibitabo by'imari bisobanura kwandika amakuru yose y'amafaranga yinjira n'asohoka mu rwego rwo gukurikirana ubuzima bw'ubucuruzi. Ibi bifasha abayobozi gufata ibyemezo byiza kandi byorohera isosiyete kwishyura imisoro ku gihe.",
+   "summary_en": "Bookkeeping involves recording all financial transactions, including income and expenses, to track the financial health of a business. This practice helps managers make informed decisions and ensures accurate tax reporting.",
+   "keywords": [
+    "ubucuruzi",
+    "imari",
+    "amafaranga",
+    "inyandiko",
+    "business",
+    "finance",
+    "money",
+    "records"
    ],
    "auto": true,
    "taught": "2026-11-09"
