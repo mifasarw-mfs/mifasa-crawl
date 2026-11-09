@@ -1,7 +1,27 @@
 {
  "day": "2026-11-09",
- "count": 87,
+ "count": 89,
  "articles": [
+  {
+   "id": "crawl_1bijrvp",
+   "title": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
+   "summary": "The disgraced entertainer was sentenced on Monday following a four-week trial at Southwark Crown Court.",
+   "link": "https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T17:31:08.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1c3/live/e7281af0-dc47-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1c3/live/e7281af0-dc47-11f1-b441-2b33b063138f.jpg",
+   "title_en": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
+   "summary_en": "The disgraced entertainer was sentenced on Monday following a four-week trial at Southwark Crown Court.",
+   "share_id": "MN202611_1bijrvpcocj"
+  },
   {
    "id": "crawl_ou2kie",
    "title": "Kane and Bellingham air strong views in England World Cup review",
@@ -47,6 +67,26 @@
    "title_rw": "MANEKO W'UMUSHINWA-KAZI YACIYE IBINTU MU NSHUTI ZA TRUMP YIBA AMABANGA Y'ABAKIRE | TRUMP YARI ABIZI",
    "summary_rw": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
    "share_id": "MN202611_a1aqbrav51"
+  },
+  {
+   "id": "crawl_fhia0d",
+   "title": "Wilson eyeing survival step as Wales tackle Norway",
+   "summary": "Harry Wilson believes Wales can shock Norway again in Oslo on Saturday and move a step closer to survival in Nations League A.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck3r5rwdpjj7o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ck3r5rwdpjj7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T17:21:28.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34cf/live/8ab51890-dc29-11f1-a5b1-adf9c8e8d692.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34cf/live/8ab51890-dc29-11f1-a5b1-adf9c8e8d692.jpg",
+   "title_en": "Wilson eyeing survival step as Wales tackle Norway",
+   "summary_en": "Harry Wilson believes Wales can shock Norway again in Oslo on Saturday and move a step closer to survival in Nations League A.",
+   "share_id": "MN202611_fhia0de9e3"
   },
   {
    "id": "crawl_164xfh2",
@@ -1846,5 +1886,5 @@
    "share_id": "MN202611_pu2uz9vrg3"
   }
  ],
- "updated": "2026-11-09T17:33:15.608Z"
+ "updated": "2026-11-09T17:36:55.352Z"
 }
