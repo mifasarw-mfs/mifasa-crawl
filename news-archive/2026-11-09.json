@@ -1,7 +1,288 @@
 {
  "day": "2026-11-09",
- "count": 90,
+ "count": 103,
  "articles": [
+  {
+   "id": "crawl_fytobq",
+   "title": "Listen to Monday Night Club",
+   "summary": "Mark Chapman and guests debate the weekend's football.",
+   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T19:18:54.725Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0n3mq8q.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0n3mq8q.jpg",
+   "title_en": "Listen to Monday Night Club",
+   "summary_en": "Mark Chapman and guests debate the weekend's football.",
+   "share_id": "MN202611_fytobqkz9g"
+  },
+  {
+   "id": "crawl_tqu5m",
+   "title": "People don't know full story behind England exile - White",
+   "summary": "Arsenal defender Ben White says people don't know the \"full story\" behind his decision to previously make himself unavailable for England selection - but says he would make the same decision again.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6rmym3p419no?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6rmym3p419no?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T19:00:10.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ef/live/13e8f0c0-dc55-11f1-8fe6-5becaee5408f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ef/live/13e8f0c0-dc55-11f1-8fe6-5becaee5408f.jpg",
+   "title_en": "People don't know full story behind England exile - White",
+   "summary_en": "Arsenal defender Ben White says people don't know the \"full story\" behind his decision to previously make himself unavailable for England selection - but says he would make the same decision again.",
+   "share_id": "MN202611_tqu5mmtjc"
+  },
+  {
+   "id": "crawl_1p8bixb",
+   "title": "Ayiwee🚨Byiringiro lague baramufunze azira umukobwa wamwimye umupuri😭😭bamufungiye Kamonyi",
+   "summary": "Ayiwee🚨Byiringiro lague baramufunze azira umukobwa wamwimye umupuri😭😭bamufungiye Kamonyi",
+   "link": "https://www.youtube.com/watch?v=y3GXppeimcQ",
+   "url": "https://www.youtube.com/watch?v=y3GXppeimcQ",
+   "date": "2026-11-09T18:55:48.000Z",
+   "source": "Buri Kantu Na Buri Nguni YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Buri Kantu Na Buri Nguni YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "y3GXppeimcQ"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/y3GXppeimcQ/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/y3GXppeimcQ/hqdefault.jpg",
+   "title_rw": "Ayiwee🚨Byiringiro lague baramufunze azira umukobwa wamwimye umupuri😭😭bamufungiye Kamonyi",
+   "summary_rw": "Ayiwee🚨Byiringiro lague baramufunze azira umukobwa wamwimye umupuri😭😭bamufungiye Kamonyi",
+   "share_id": "MN202611_1p8bixb7lrh"
+  },
+  {
+   "id": "crawl_1uuoske",
+   "title": "How a civil servant got away with juggling five jobs for so long",
+   "summary": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
+   "link": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T18:40:31.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d7c/live/f86c8280-db55-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d7c/live/f86c8280-db55-11f1-b441-2b33b063138f.jpg",
+   "title_en": "How a civil servant got away with juggling five jobs for so long",
+   "summary_en": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
+   "share_id": "MN202611_1uuoskehp18"
+  },
+  {
+   "id": "crawl_5j34ak",
+   "title": "🔴LIVE: #IsiYaNone: Israel: Ese Netanyahu agiye kuva ku butegetsi?",
+   "summary": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "link": "https://www.youtube.com/watch?v=7MXuzMhpNbg",
+   "url": "https://www.youtube.com/watch?v=7MXuzMhpNbg",
+   "date": "2026-11-09T18:31:37.000Z",
+   "source": "Radio Rwanda YouTube",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Radio Rwanda YouTube",
+    "news",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "7MXuzMhpNbg"
+   },
+   "type": "video",
+   "image": "https://i4.ytimg.com/vi/7MXuzMhpNbg/hqdefault.jpg",
+   "thumbnail": "https://i4.ytimg.com/vi/7MXuzMhpNbg/hqdefault.jpg",
+   "title_rw": "🔴LIVE: #IsiYaNone: Israel: Ese Netanyahu agiye kuva ku butegetsi?",
+   "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "share_id": "MN202611_5j34ak393u"
+  },
+  {
+   "id": "crawl_1pjy89h",
+   "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+   "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+   "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T18:19:19.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04a0/live/7de9a320-dc64-11f1-8fe6-5becaee5408f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04a0/live/7de9a320-dc64-11f1-8fe6-5becaee5408f.jpg",
+   "title_en": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+   "summary_en": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+   "share_id": "MN202611_1pjy89hr4qb"
+  },
+  {
+   "id": "crawl_1gralsl",
+   "title": "Amerika yoherereje u Rwanda Teganya Jean Léonard ukekwaho Jenoside",
+   "summary": "Ubushinjacyaha Bukuru bwatangaje ko bwakiriye Teganya Jean Léonard woherejwe mu Rwanda na Leta Zunze Ubumwe za Amerika, aho akurikiranyweho uruhare mu byaha bya Jenoside n’ibyaha byibasiye (…)",
+   "link": "https://www.kigalitoday.com/ubutabera/amakuru/article/amerika-yoherereje-u-rwanda-teganya-jean-leonard-ukekwaho-jenoside",
+   "url": "https://www.kigalitoday.com/ubutabera/amakuru/article/amerika-yoherereje-u-rwanda-teganya-jean-leonard-ukekwaho-jenoside",
+   "date": "2026-11-09T18:16:54.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Amakuru",
+    "MobileBigStory",
+    "Oswald Niyonzima"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/teganya_2.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/teganya_2.png",
+   "title_rw": "Amerika yoherereje u Rwanda Teganya Jean Léonard ukekwaho Jenoside",
+   "summary_rw": "Ubushinjacyaha Bukuru bwatangaje ko bwakiriye Teganya Jean Léonard woherejwe mu Rwanda na Leta Zunze Ubumwe za Amerika, aho akurikiranyweho uruhare mu byaha bya Jenoside n’ibyaha byibasiye (…)",
+   "share_id": "MN202611_1gralsl2sj7"
+  },
+  {
+   "id": "crawl_1u6qln2",
+   "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+   "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+   "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T18:11:11.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5c/live/7cc0b9e0-dc6c-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5c/live/7cc0b9e0-dc6c-11f1-b441-2b33b063138f.jpg",
+   "title_en": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+   "summary_en": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+   "share_id": "MN202611_1u6qln2ji3w"
+  },
+  {
+   "id": "crawl_rfdlt9",
+   "title": "Russia's leading independent newspaper closes after eviction",
+   "summary": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
+   "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T18:08:07.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b69a/live/f62b4ff0-dc64-11f1-a701-fddedf244c16.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b69a/live/f62b4ff0-dc64-11f1-a701-fddedf244c16.jpg",
+   "title_en": "Russia's leading independent newspaper closes after eviction",
+   "summary_en": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
+   "share_id": "MN202611_rfdlt9a8wb"
+  },
+  {
+   "id": "crawl_5g082s",
+   "title": "Turkey steel factory blast kills at least 16 people",
+   "summary": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
+   "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T18:04:01.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5625/live/fd460940-dc61-11f1-8fe6-5becaee5408f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5625/live/fd460940-dc61-11f1-8fe6-5becaee5408f.jpg",
+   "title_en": "Turkey steel factory blast kills at least 16 people",
+   "summary_en": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
+   "share_id": "MN202611_5g082st4jm"
+  },
+  {
+   "id": "crawl_ru9sdg",
+   "title": "‪@israelmbonyi aragarutse muri #genzcomedyshowKigali Kuwa Kane 12/11/2026, 6PM",
+   "summary": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+   "link": "https://www.youtube.com/shorts/g40qqbYghjE",
+   "url": "https://www.youtube.com/shorts/g40qqbYghjE",
+   "date": "2026-11-09T18:00:12.000Z",
+   "source": "Gen-Z Comedy Show YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Gen-Z Comedy Show YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "g40qqbYghjE"
+   },
+   "type": "video",
+   "image": "https://i4.ytimg.com/vi/g40qqbYghjE/hqdefault.jpg",
+   "thumbnail": "https://i4.ytimg.com/vi/g40qqbYghjE/hqdefault.jpg",
+   "title_rw": "‪@israelmbonyi aragarutse muri #genzcomedyshowKigali Kuwa Kane 12/11/2026, 6PM",
+   "summary_rw": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+   "share_id": "MN202611_ru9sdglnk2"
+  },
+  {
+   "id": "crawl_1lnca9x",
+   "title": "Man Utd yet to make decision on Carrick's future",
+   "summary": "Manchester United's board are yet to make a final decision on Michael Carrick's future, despite the club's worst start to a campaign in 40 years.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw4g1g7z2mdgo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1g7z2mdgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T17:49:05.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/188e/live/21402470-dc67-11f1-8fe6-5becaee5408f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/188e/live/21402470-dc67-11f1-8fe6-5becaee5408f.jpg",
+   "title_en": "Man Utd yet to make decision on Carrick's future",
+   "summary_en": "Manchester United's board are yet to make a final decision on Michael Carrick's future, despite the club's worst start to a campaign in 40 years.",
+   "share_id": "MN202611_1lnca9x47oj"
+  },
+  {
+   "id": "crawl_1bj9n6f",
+   "title": "U.S. Deports Genocide Fugitive Jean Léonard Teganya Back to Rwanda",
+   "summary": "KIGALI — More than three decades after fleeing Rwanda at the end of the 1994 Genocide against the Tutsi, Jean Léonard Teganya has been returned to the country, where he… The post U.S. Deports Genocide Fugitive Jean Léonard Teganya Back to Rwanda appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/u-s-deports-genocide-fugitive-jean-leonard-teganya-back-to-rwanda/",
+   "url": "https://www.ktpress.rw/2026/11/u-s-deports-genocide-fugitive-jean-leonard-teganya-back-to-rwanda/",
+   "date": "2026-11-09T17:42:53.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "International",
+    "big-story"
+   ],
+   "title_en": "U.S. Deports Genocide Fugitive Jean Léonard Teganya Back to Rwanda",
+   "summary_en": "KIGALI — More than three decades after fleeing Rwanda at the end of the 1994 Genocide against the Tutsi, Jean Léonard Teganya has been returned to the country, where he… The post U.S. Deports Genocide Fugitive Jean Léonard Teganya Back to Rwanda appeared first on KT PRESS .",
+   "share_id": "MN202611_1bj9n6fagdx"
+  },
   {
    "id": "crawl_1bijrvp",
    "title": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
@@ -1906,5 +2187,5 @@
    "share_id": "MN202611_pu2uz9vrg3"
   }
  ],
- "updated": "2026-11-09T17:40:22.740Z"
+ "updated": "2026-11-09T19:19:48.168Z"
 }
