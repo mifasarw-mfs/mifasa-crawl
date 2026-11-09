@@ -1,7 +1,53 @@
 {
  "day": "2026-11-09",
- "count": 84,
+ "count": 87,
  "articles": [
+  {
+   "id": "crawl_ou2kie",
+   "title": "Kane and Bellingham air strong views in England World Cup review",
+   "summary": "England players are understood to have aired strong views about their World Cup semi-final defeat by Argentina in an internal review.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqr7y7813l04o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqr7y7813l04o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T17:30:23.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac37/live/d453cf00-dc51-11f1-a869-656dc96bd12d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac37/live/d453cf00-dc51-11f1-a869-656dc96bd12d.jpg",
+   "title_en": "Kane and Bellingham air strong views in England World Cup review",
+   "summary_en": "England players are understood to have aired strong views about their World Cup semi-final defeat by Argentina in an internal review.",
+   "share_id": "MN202611_ou2kieuhx0"
+  },
+  {
+   "id": "crawl_a1aqbr",
+   "title": "MANEKO W'UMUSHINWA-KAZI YACIYE IBINTU MU NSHUTI ZA TRUMP YIBA AMABANGA Y'ABAKIRE | TRUMP YARI ABIZI",
+   "summary": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
+   "link": "https://www.youtube.com/watch?v=Qly2iHx8kN0",
+   "url": "https://www.youtube.com/watch?v=Qly2iHx8kN0",
+   "date": "2026-11-09T17:26:48.000Z",
+   "source": "Mwanafunzi Ismael YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Mwanafunzi Ismael YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "Qly2iHx8kN0"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/Qly2iHx8kN0/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/Qly2iHx8kN0/hqdefault.jpg",
+   "title_rw": "MANEKO W'UMUSHINWA-KAZI YACIYE IBINTU MU NSHUTI ZA TRUMP YIBA AMABANGA Y'ABAKIRE | TRUMP YARI ABIZI",
+   "summary_rw": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
+   "share_id": "MN202611_a1aqbrav51"
+  },
   {
    "id": "crawl_164xfh2",
    "title": "Paramedic injured while assisting patient",
@@ -21,6 +67,32 @@
    "title_en": "Paramedic injured while assisting patient",
    "summary_en": "The ambulance service said the \"attack lasted a number of minutes\"",
    "share_id": "MN202611_164xfh2q0l0"
+  },
+  {
+   "id": "crawl_17wn9r7",
+   "title": "Arsenal na Liverpool zitwaye neza | Man Utd yarokotse kuri burembe | #Isesengura rya #PremierLeague",
+   "summary": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "link": "https://www.youtube.com/watch?v=g8aVxLHV45M",
+   "url": "https://www.youtube.com/watch?v=g8aVxLHV45M",
+   "date": "2026-11-09T17:12:26.000Z",
+   "source": "Radio Rwanda YouTube",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Radio Rwanda YouTube",
+    "news",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "g8aVxLHV45M"
+   },
+   "type": "video",
+   "image": "https://i4.ytimg.com/vi/g8aVxLHV45M/hqdefault.jpg",
+   "thumbnail": "https://i4.ytimg.com/vi/g8aVxLHV45M/hqdefault.jpg",
+   "title_rw": "Arsenal na Liverpool zitwaye neza | Man Utd yarokotse kuri burembe | #Isesengura rya #PremierLeague",
+   "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "share_id": "MN202611_17wn9r7jcld"
   },
   {
    "id": "crawl_1s3bik0",
@@ -1774,5 +1846,5 @@
    "share_id": "MN202611_pu2uz9vrg3"
   }
  ],
- "updated": "2026-11-09T17:19:27.728Z"
+ "updated": "2026-11-09T17:33:15.608Z"
 }
