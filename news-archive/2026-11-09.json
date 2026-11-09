@@ -1,7 +1,47 @@
 {
  "day": "2026-11-09",
- "count": 76,
+ "count": 79,
  "articles": [
+  {
+   "id": "crawl_1ppc3cr",
+   "title": "France accuses Iran of supermarket fridge hacking",
+   "summary": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.",
+   "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T16:42:39.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+   "title_en": "France accuses Iran of supermarket fridge hacking",
+   "summary_en": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.",
+   "share_id": "MN202611_1ppc3cr4ztl"
+  },
+  {
+   "id": "crawl_11nj0si",
+   "title": "Szoboszlai a doubt for Nations League conclusion",
+   "summary": "Liverpool midfielder Dominik Szoboszlai will undergo tests on a knee injury to ascertain his readiness to join up with the Hungarian national side for Nations League fixtures against Georgia and Northern Ireland.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmp3g31gvxkgo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmp3g31gvxkgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T16:25:33.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5e1/live/724f1e20-dc53-11f1-a869-656dc96bd12d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5e1/live/724f1e20-dc53-11f1-a869-656dc96bd12d.jpg",
+   "title_en": "Szoboszlai a doubt for Nations League conclusion",
+   "summary_en": "Liverpool midfielder Dominik Szoboszlai will undergo tests on a knee injury to ascertain his readiness to join up with the Hungarian national side for Nations League fixtures against Georgia and Northern Ireland.",
+   "share_id": "MN202611_11nj0siay74"
+  },
   {
    "id": "crawl_llz8nr",
    "title": "Real Madrid legend Raul named Real Oviedo manager",
@@ -146,6 +186,26 @@
    "title_rw": "Ayiwe😭Umva uko Umugambi wo Kwica Mimi wapanzwe😭Biteye Ubwoba 😳",
    "summary_rw": "Ushatse kutuvugisha #0787413998 #MIEempire https://www.instagram.com/mie_empire.rw/ https://www.instagram.com/irenemurindahabi/",
    "share_id": "MN202611_nt2c8d2h1n"
+  },
+  {
+   "id": "crawl_cjqg2q",
+   "title": "Trump questions midterm election integrity after previously accepting results",
+   "summary": "Trump made the claims - without evidence - on Truth Social on Monday",
+   "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T15:37:43.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de62/live/5a7465d0-dc53-11f1-a869-656dc96bd12d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de62/live/5a7465d0-dc53-11f1-a869-656dc96bd12d.jpg",
+   "title_en": "Trump questions midterm election integrity after previously accepting results",
+   "summary_en": "Trump made the claims - without evidence - on Truth Social on Monday",
+   "share_id": "MN202611_cjqg2qjcjk"
   },
   {
    "id": "crawl_15clw6j",
@@ -1607,5 +1667,5 @@
    "share_id": "MN202611_pu2uz9vrg3"
   }
  ],
- "updated": "2026-11-09T16:35:19.696Z"
+ "updated": "2026-11-09T16:47:31.751Z"
 }
