@@ -770,6 +770,54 @@
    ],
    "auto": true,
    "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_51cdf573_q",
+   "label_rw": "Ubucuruzi bw'abacakara bwo mu Nyanja ya Atlantika",
+   "label_en": "Transatlantic slave trade",
+   "patterns_en": [
+    "When did the transatlantic slave trade take place?",
+    "Who was transported during the transatlantic slave trade?",
+    "What were the impacts of the slave trade?"
+   ],
+   "patterns_rw": [
+    "Ubucuruzi bw'abacakara bwo mu Nyanja ya Atlantika bwabaye ryari?",
+    "Ni bande batwawe mu bucuruzi bw'abacakara bwo muri Atlantika?",
+    "Ni izihe ngaruka z'ubucuruzi bw'abacakara?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubucuruzi bw'abacakara bwo mu Nyanja ya Atlantika bwabayeho kuva mu kinyejana cya 16 kugeza mu cya 19. Abantu baturutse muri Afurika batwawe ku ngufu ku Mugabane wa Amerika. Ibi byagize ingaruka zikomeye ku mibereho y'abantu no ku iterambere ry'ibihugu.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The transatlantic slave trade occurred from the 16th to the 19th century. People from Africa were forcibly transported to the Americas. This caused major impacts on human societies and national development.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_0aeffda0_q",
+   "label_rw": "Ubwami bwa kera bwa Kush",
+   "label_en": "Ancient Kingdom of Kush",
+   "patterns_en": [
+    "Where was the Kingdom of Kush located?",
+    "What contributed to the prosperity of Kush?",
+    "What was the relationship between Kush and ancient Egypt?"
+   ],
+   "patterns_rw": [
+    "Ubwami bwa Kush bwahozehe?",
+    "Ni iki cyateje imbere ubwami bwa Kush?",
+    "Ubwami bwa Kush bwari bufitanye sano iki na Egypt?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubwami bwa Kush bwari ubwami bukomeye muri Africa y'iburasirazuba, cyane cyane mu gice cya Sudan y'ubu. Bwateye imbere mu bucuruzi n'ubucukuzi bw'icyuma. Bwagiranye amateka akomeye n'ubwami bwa Egypt mu bihe bitandukanye.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The Kingdom of Kush was an ancient civilization in northeastern Africa, mainly located in present-day Sudan. It flourished through trade and iron production. It had a complex and often close relationship with ancient Egypt.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
   }
  ],
  "knowledge": [
@@ -1398,6 +1446,45 @@
     "development",
     "lifecycle",
     "gahunda"
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_51cdf573",
+   "category": "history",
+   "title_rw": "Ubucuruzi bw'abacakara bwo mu Nyanja ya Atlantika",
+   "title_en": "Transatlantic slave trade",
+   "summary_rw": "Ubucuruzi bw'abacakara bwo mu Nyanja ya Atlantika bwabayeho kuva mu kinyejana cya 16 kugeza mu cya 19. Abantu baturutse muri Afurika batwawe ku ngufu ku Mugabane wa Amerika. Ibi byagize ingaruka zikomeye ku mibereho y'abantu no ku iterambere ry'ibihugu.",
+   "summary_en": "The transatlantic slave trade occurred from the 16th to the 19th century. People from Africa were forcibly transported to the Americas. This caused major impacts on human societies and national development.",
+   "keywords": [
+    "ubucuruzi",
+    "trade",
+    "abacakara",
+    "slaves",
+    "atlantika",
+    "atlantic",
+    "afurika",
+    "africa"
+   ],
+   "auto": true,
+   "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_0aeffda0",
+   "category": "history",
+   "title_rw": "Ubwami bwa kera bwa Kush",
+   "title_en": "Ancient Kingdom of Kush",
+   "summary_rw": "Ubwami bwa Kush bwari ubwami bukomeye muri Africa y'iburasirazuba, cyane cyane mu gice cya Sudan y'ubu. Bwateye imbere mu bucuruzi n'ubucukuzi bw'icyuma. Bwagiranye amateka akomeye n'ubwami bwa Egypt mu bihe bitandukanye.",
+   "summary_en": "The Kingdom of Kush was an ancient civilization in northeastern Africa, mainly located in present-day Sudan. It flourished through trade and iron production. It had a complex and often close relationship with ancient Egypt.",
+   "keywords": [
+    "kush",
+    "sudan",
+    "egypt",
+    "africa",
+    "history",
+    "amateka",
+    "ubwami"
    ],
    "auto": true,
    "taught": "2026-11-09"
