@@ -32,7 +32,7 @@ function norm(a) {
   return {
     key: vid ? raw : "s:" + raw, vid, own: own(a), en, t, title: clip(a.title, 200),
     src: clip(String(a.source || (vid ? "YouTube" : "")).replace(/ YouTube$/i, ""), 60),
-    url: vid ? BASE + "?lang=" + (en ? "en" : "rw") + "&v=" + id : (a.share_id ? SITE + "/story.html?news=" + encodeURIComponent(a.share_id) + "&lang=" + (en ? "en" : "rw") : String(a.link || a.url || SITE)),
+    url: vid ? BASE + "?lang=" + (en ? "en" : "rw") + "&v=" + id : (a.share_id && /^[A-Za-z0-9_.-]{3,120}$/.test(String(a.share_id)) ? SITE + "/s/" + encodeURIComponent(a.share_id) + ".html" + (en ? "?lang=en" : "") : a.share_id ? SITE + "/story.html?news=" + encodeURIComponent(a.share_id) + "&lang=" + (en ? "en" : "rw") : String(a.link || a.url || SITE)),
     img: vid ? "https://i.ytimg.com/vi/" + id + "/mqdefault.jpg" : (/^https:\/\//.test(pic) ? pic : ""),
     yt: vid ? "https://youtu.be/" + id : "",
     sum: vid ? "" : clip(String(a.summary || "").replace(/<[^>]*>/g, " ").replace(/&[a-z#0-9]+;/gi, " "), 110)
