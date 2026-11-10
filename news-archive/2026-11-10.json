@@ -1,6 +1,6 @@
 {
  "day": "2026-11-10",
- "count": 130,
+ "count": 132,
  "articles": [
   {
    "id": "crawl_1bl7qqq",
@@ -43,6 +43,26 @@
    "share_id": "MN202611_21ufs6qf5w"
   },
   {
+   "id": "crawl_161btng",
+   "title": "Spain's king and queen attend memorial service for rail crash victims",
+   "summary": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
+   "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T20:46:40.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d303/live/f5a86570-dd42-11f1-9ac0-6b8f7fc58221.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d303/live/f5a86570-dd42-11f1-9ac0-6b8f7fc58221.jpg",
+   "title_en": "Spain's king and queen attend memorial service for rail crash victims",
+   "summary_en": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
+   "share_id": "MN202611_161btng4q4a"
+  },
+  {
    "id": "crawl_1mkx3fb",
    "title": "Tech Life",
    "summary": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
@@ -61,6 +81,26 @@
    "title_en": "Tech Life",
    "summary_en": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
    "share_id": "MN202611_1mkx3fbfw39"
+  },
+  {
+   "id": "crawl_jz7zlq",
+   "title": "Tech Life",
+   "summary": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
+   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T20:30:00.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm9xfz.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm9xfz.jpg",
+   "title_en": "Tech Life",
+   "summary_en": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
+   "share_id": "MN202611_jz7zlqz998"
   },
   {
    "id": "crawl_oqhtls",
@@ -2866,5 +2906,5 @@
    "share_id": "MN202611_1c9cixj5fed"
   }
  ],
- "updated": "2026-11-10T21:01:12.188Z"
+ "updated": "2026-11-10T21:37:36.124Z"
 }

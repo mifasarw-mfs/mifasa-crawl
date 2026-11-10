@@ -40,6 +40,26 @@
   "share_id": "MN202611_21ufs6qf5w"
  },
  {
+  "id": "crawl_161btng",
+  "title": "Spain's king and queen attend memorial service for rail crash victims",
+  "summary": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
+  "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-10T20:46:40.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d303/live/f5a86570-dd42-11f1-9ac0-6b8f7fc58221.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d303/live/f5a86570-dd42-11f1-9ac0-6b8f7fc58221.jpg",
+  "title_en": "Spain's king and queen attend memorial service for rail crash victims",
+  "summary_en": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
+  "share_id": "MN202611_161btng4q4a"
+ },
+ {
   "id": "crawl_1mkx3fb",
   "title": "Tech Life",
   "summary": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
@@ -58,6 +78,26 @@
   "title_en": "Tech Life",
   "summary_en": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
   "share_id": "MN202611_1mkx3fbfw39"
+ },
+ {
+  "id": "crawl_jz7zlq",
+  "title": "Tech Life",
+  "summary": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
+  "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-10T20:30:00.000Z",
+  "source": "BBC Technology",
+  "category": "tech",
+  "lang": "en",
+  "keywords": [
+   "BBC Technology",
+   "tech"
+  ],
+  "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm9xfz.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm9xfz.jpg",
+  "title_en": "Tech Life",
+  "summary_en": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
+  "share_id": "MN202611_jz7zlqz998"
  },
  {
   "id": "crawl_oqhtls",
@@ -2729,12 +2769,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-10T01:55:22.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Business",
+  "category": "business",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Business",
+   "business"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47eb/live/926fac30-dca6-11f1-86c1-89409a3a3bd9.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47eb/live/926fac30-dca6-11f1-86c1-89409a3a3bd9.jpg",
@@ -17038,43 +17078,5 @@
   "title_en": "No babies to be born at hospital from end of November",
   "summary_en": "A pregnant woman is to lodge Judicial Review papers to attempt to delay the implementation of the plan.",
   "share_id": "MN202611_1qcalmk3i3e"
- },
- {
-  "id": "crawl_hpihqx",
-  "title": "Palette: teaching a small model to build decks in your design language",
-  "summary": "Palette: teaching a small model to build decks in your design language",
-  "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-  "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-  "date": "2026-11-03T16:35:36.000Z",
-  "source": "Hugging Face blog",
-  "category": "tech",
-  "lang": "en",
-  "keywords": [
-   "Hugging Face blog",
-   "tech"
-  ],
-  "title_en": "Palette: teaching a small model to build decks in your design language",
-  "summary_en": "Palette: teaching a small model to build decks in your design language",
-  "share_id": "MN202611_hpihqxahh3"
- },
- {
-  "id": "crawl_1qlxhvl",
-  "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-  "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-  "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-03T16:19:29.000Z",
-  "source": "BBC Technology",
-  "category": "tech",
-  "lang": "en",
-  "keywords": [
-   "BBC Technology",
-   "tech"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b517/live/8d68c970-d7a0-11f1-84dd-e55f4bec0ecd.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b517/live/8d68c970-d7a0-11f1-84dd-e55f4bec0ecd.jpg",
-  "title_en": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-  "summary_en": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-  "share_id": "MN202611_1qlxhvlqecf"
  }
 ]
