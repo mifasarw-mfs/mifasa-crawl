@@ -1,7 +1,56 @@
 {
  "day": "2026-11-10",
- "count": 104,
+ "count": 107,
  "articles": [
+  {
+   "id": "crawl_14nrul3",
+   "title": "Imijyi ya Kigali na St. Louis yasinyanye amasezerano yo kwagura ubufatanye mu ishoramari",
+   "summary": "Umujyi wa Kigali n’uwa St. Louis ibarizwa muri Leta ya Missouri, imwe mu zigize Leta Zunze Ubumwe za Amerika, yasinyanye amasezerano y’ubufatanye azwi nka ‘Sister Cities Agreement’, agamije guteza (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/imijyi-ya-kigali-na-st-louis-yasinyanye-amasezerano-yo-kwagura-ubufatanye-mu-ishoramari",
+   "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/imijyi-ya-kigali-na-st-louis-yasinyanye-amasezerano-yo-kwagura-ubufatanye-mu-ishoramari",
+   "date": "2026-11-10T18:18:16.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu Rwanda",
+    "MobileBigStory",
+    "Tarib Abdul"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-10_at_17.56_21.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-10_at_17.56_21.jpg",
+   "title_rw": "Imijyi ya Kigali na St. Louis yasinyanye amasezerano yo kwagura ubufatanye mu ishoramari",
+   "summary_rw": "Umujyi wa Kigali n’uwa St. Louis ibarizwa muri Leta ya Missouri, imwe mu zigize Leta Zunze Ubumwe za Amerika, yasinyanye amasezerano y’ubufatanye azwi nka ‘Sister Cities Agreement’, agamije guteza (…)",
+   "share_id": "MN202611_14nrul3huut"
+  },
+  {
+   "id": "crawl_1riott8",
+   "title": "# #diamondplatnumz #Davido #Chioma #Zuchu #Nigeria #Viral #Hot",
+   "summary": "# #diamondplatnumz #Davido #Chioma #Zuchu #Nigeria #Viral #Hot",
+   "link": "https://www.youtube.com/shorts/tJDk61rfRx8",
+   "url": "https://www.youtube.com/shorts/tJDk61rfRx8",
+   "date": "2026-11-10T18:15:27.000Z",
+   "source": "Diamond Platnumz YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Diamond Platnumz YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "tJDk61rfRx8"
+   },
+   "type": "video",
+   "image": "https://i1.ytimg.com/vi/tJDk61rfRx8/hqdefault.jpg",
+   "thumbnail": "https://i1.ytimg.com/vi/tJDk61rfRx8/hqdefault.jpg",
+   "title_rw": "# #diamondplatnumz #Davido #Chioma #Zuchu #Nigeria #Viral #Hot",
+   "summary_rw": "# #diamondplatnumz #Davido #Chioma #Zuchu #Nigeria #Viral #Hot",
+   "share_id": "MN202611_1riott80ozu"
+  },
   {
    "id": "crawl_jlv1tk",
    "title": "The Monaco summit that will decide the future of Carrick and Man Utd",
@@ -21,6 +70,32 @@
    "title_en": "The Monaco summit that will decide the future of Carrick and Man Utd",
    "summary_en": "Manchester United's power brokers meet in Monaco on Wednesday to decide whether Michael Carrick will remain as head coach",
    "share_id": "MN202611_jlv1tkmz86"
+  },
+  {
+   "id": "crawl_1xfexrf",
+   "title": "#diamondplatnumz #wcb #Wasafi #Viral",
+   "summary": "#diamondplatnumz #wcb #Wasafi #Viral",
+   "link": "https://www.youtube.com/shorts/zxtHQpm5nV8",
+   "url": "https://www.youtube.com/shorts/zxtHQpm5nV8",
+   "date": "2026-11-10T18:04:45.000Z",
+   "source": "Diamond Platnumz YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Diamond Platnumz YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "zxtHQpm5nV8"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/zxtHQpm5nV8/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/zxtHQpm5nV8/hqdefault.jpg",
+   "title_rw": "#diamondplatnumz #wcb #Wasafi #Viral",
+   "summary_rw": "#diamondplatnumz #wcb #Wasafi #Viral",
+   "share_id": "MN202611_1xfexrfqsy1"
   },
   {
    "id": "crawl_1jlka8b",
@@ -2274,5 +2349,5 @@
    "share_id": "MN202611_1c9cixj5fed"
   }
  ],
- "updated": "2026-11-10T18:15:56.114Z"
+ "updated": "2026-11-10T18:30:59.640Z"
 }
