@@ -1,7 +1,53 @@
 {
  "day": "2026-11-10",
- "count": 53,
+ "count": 55,
  "articles": [
+  {
+   "id": "crawl_42561p",
+   "title": "PUTIN YITABAJE ABARUNDI 700 BAMUFASHA KURWANA INTAMBARA YA UKRAINE| UKO BITABAJWE N'IMPAMVU BAKENEWE",
+   "summary": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
+   "link": "https://www.youtube.com/watch?v=ROH6zp3L5fE",
+   "url": "https://www.youtube.com/watch?v=ROH6zp3L5fE",
+   "date": "2026-11-10T11:09:16.000Z",
+   "source": "Mwanafunzi Ismael YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Mwanafunzi Ismael YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "ROH6zp3L5fE"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/ROH6zp3L5fE/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/ROH6zp3L5fE/hqdefault.jpg",
+   "title_rw": "PUTIN YITABAJE ABARUNDI 700 BAMUFASHA KURWANA INTAMBARA YA UKRAINE| UKO BITABAJWE N'IMPAMVU BAKENEWE",
+   "summary_rw": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
+   "share_id": "MN202611_42561p5auz"
+  },
+  {
+   "id": "crawl_1c9spmq",
+   "title": "Amerika yaraye yohereje mu Rwanda Jean Léonard Teganya ukekwaho kugira uruhare muri jenoside",
+   "summary": "Ku mugoroba w'ejo ku wa mbere, ni bwo Jean Léonard Teganya ukekwaho kugira uruhare muri Jenoside yagajejwe mu Rwanda yoherejwe n'Amerika.",
+   "link": "https://www.bbc.com/gahuza/articles/cve8r8pr4kzeo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/cve8r8pr4kzeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T10:31:08.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a2a7/live/b68458d0-dcee-11f1-9ef0-4b5930e2f80e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a2a7/live/b68458d0-dcee-11f1-9ef0-4b5930e2f80e.jpg",
+   "title_rw": "Amerika yaraye yohereje mu Rwanda Jean Léonard Teganya ukekwaho kugira uruhare muri jenoside",
+   "summary_rw": "Ku mugoroba w'ejo ku wa mbere, ni bwo Jean Léonard Teganya ukekwaho kugira uruhare muri Jenoside yagajejwe mu Rwanda yoherejwe n'Amerika.",
+   "share_id": "MN202611_1c9spmqlm3k"
+  },
   {
    "id": "crawl_1uzor5u",
    "title": "Rwanda’s Economy Grows 10.6% as Foreign Reserves Reach U$2.27 Billion",
@@ -1153,5 +1199,5 @@
    "share_id": "MN202611_1c9cixj5fed"
   }
  ],
- "updated": "2026-11-10T10:24:17.511Z"
+ "updated": "2026-11-10T11:13:36.483Z"
 }
