@@ -1,7 +1,27 @@
 {
  "day": "2026-11-10",
- "count": 10,
+ "count": 11,
  "articles": [
+  {
+   "id": "crawl_1oystmp",
+   "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+   "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
+   "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T05:22:39.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c11d/live/472ca6e0-dcc6-11f1-a594-d13718d7f889.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c11d/live/472ca6e0-dcc6-11f1-a594-d13718d7f889.jpg",
+   "title_en": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+   "summary_en": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
+   "share_id": "MN202611_1oystmplq3j"
+  },
   {
    "id": "crawl_jle26v",
    "title": "Trump avuga ko intambara ya gisirikare muri Iran ‘mu vy'ukuri yarangiye', ibitero bishasha bikaba bititezwe",
@@ -221,5 +241,5 @@
    "share_id": "MN202611_1c9cixj5fed"
   }
  ],
- "updated": "2026-11-10T04:41:10.648Z"
+ "updated": "2026-11-10T05:34:17.716Z"
 }
