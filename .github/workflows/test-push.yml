@@ -12,4 +12,5 @@ jobs:
         env:
           ONESIGNAL_APP_ID: ${{ secrets.ONESIGNAL_APP_ID }}
           ONESIGNAL_API_KEY: ${{ secrets.ONESIGNAL_API_KEY }}
+          ONESIGNAL_SEGMENT: ${{ vars.ONESIGNAL_SEGMENT }}
         run: node test-push.js
