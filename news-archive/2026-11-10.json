@@ -1,6 +1,6 @@
 {
  "day": "2026-11-10",
- "count": 7,
+ "count": 10,
  "articles": [
   {
    "id": "crawl_jle26v",
@@ -21,6 +21,84 @@
    "title_rw": "Trump avuga ko intambara ya gisirikare muri Iran ‘mu vy'ukuri yarangiye', ibitero bishasha bikaba bititezwe",
    "summary_rw": "Perezida Donald Trump wa Amerika avuga ko intambara igihugu ciwe kirimwo na Irani “yarangiye ku ruhande rwa gisirikare”, kandi ko hari intambwe nziza ziriko ziraterwa mu biganiro.",
    "share_id": "MN202611_jle26vap9x"
+  },
+  {
+   "id": "crawl_41dwuh",
+   "title": "#diamondplatnumz #Davido #Obo #Wcb #Wasafi #Nigeria #Viral",
+   "summary": "#diamondplatnumz #Davido #Obo #Wcb #Wasafi #Nigeria #Viral",
+   "link": "https://www.youtube.com/shorts/BsZYIdA8oZ4",
+   "url": "https://www.youtube.com/shorts/BsZYIdA8oZ4",
+   "date": "2026-11-10T04:13:38.000Z",
+   "source": "Diamond Platnumz YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Diamond Platnumz YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "BsZYIdA8oZ4"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/BsZYIdA8oZ4/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/BsZYIdA8oZ4/hqdefault.jpg",
+   "title_rw": "#diamondplatnumz #Davido #Obo #Wcb #Wasafi #Nigeria #Viral",
+   "summary_rw": "#diamondplatnumz #Davido #Obo #Wcb #Wasafi #Nigeria #Viral",
+   "share_id": "MN202611_41dwuhtu07"
+  },
+  {
+   "id": "crawl_1o2hgzd",
+   "title": "#diamondplatnumz #Davido #Obo #Wasafi #Nigeria #Viral #Trending",
+   "summary": "#diamondplatnumz #Davido #Obo #Wasafi #Nigeria #Viral #Trending",
+   "link": "https://www.youtube.com/shorts/wykI2gKsW6s",
+   "url": "https://www.youtube.com/shorts/wykI2gKsW6s",
+   "date": "2026-11-10T04:06:43.000Z",
+   "source": "Diamond Platnumz YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Diamond Platnumz YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "wykI2gKsW6s"
+   },
+   "type": "video",
+   "image": "https://i4.ytimg.com/vi/wykI2gKsW6s/hqdefault.jpg",
+   "thumbnail": "https://i4.ytimg.com/vi/wykI2gKsW6s/hqdefault.jpg",
+   "title_rw": "#diamondplatnumz #Davido #Obo #Wasafi #Nigeria #Viral #Trending",
+   "summary_rw": "#diamondplatnumz #Davido #Obo #Wasafi #Nigeria #Viral #Trending",
+   "share_id": "MN202611_1o2hgzdtc5z"
+  },
+  {
+   "id": "crawl_nlzwgx",
+   "title": "KUKI TRUMP AGIRA URWANGO RUKABIJE? ICYO ATEKEREZA KU RUPFU RWE N'IMPAMVU YATSINZWE AMATORA| YIREKUYE",
+   "summary": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
+   "link": "https://www.youtube.com/watch?v=Ar3H3aR7FXc",
+   "url": "https://www.youtube.com/watch?v=Ar3H3aR7FXc",
+   "date": "2026-11-10T04:00:13.000Z",
+   "source": "Mwanafunzi Ismael YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Mwanafunzi Ismael YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "Ar3H3aR7FXc"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/Ar3H3aR7FXc/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/Ar3H3aR7FXc/hqdefault.jpg",
+   "title_rw": "KUKI TRUMP AGIRA URWANGO RUKABIJE? ICYO ATEKEREZA KU RUPFU RWE N'IMPAMVU YATSINZWE AMATORA| YIREKUYE",
+   "summary_rw": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
+   "share_id": "MN202611_nlzwgx01a7"
   },
   {
    "id": "crawl_himzj4",
@@ -143,5 +221,5 @@
    "share_id": "MN202611_1c9cixj5fed"
   }
  ],
- "updated": "2026-11-10T04:34:22.215Z"
+ "updated": "2026-11-10T04:41:10.648Z"
 }
