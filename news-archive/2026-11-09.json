@@ -1,6 +1,6 @@
 {
  "day": "2026-11-09",
- "count": 123,
+ "count": 124,
  "articles": [
   {
    "id": "crawl_1ourmxk",
@@ -173,6 +173,26 @@
    "title_en": "Brady ends association with Birmingham City",
    "summary_en": "NFL legend Tom Brady ends his association with top-of-the-table Championship side Birmingham City after three years.",
    "share_id": "MN202611_sq7m8ezjn0"
+  },
+  {
+   "id": "crawl_16c0a3u",
+   "title": "'Baffling but brilliant' post-apocalyptic novel The End of Everything wins Booker Prize",
+   "summary": "M John Harrison becomes the oldest ever winner of the prestigious literary award at the age of 81.",
+   "link": "https://www.bbc.co.uk/news/articles/cw0737kv52lko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw0737kv52lko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T22:16:37.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1686/live/6fa51a10-dcd2-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1686/live/6fa51a10-dcd2-11f1-b441-2b33b063138f.jpg",
+   "title_en": "'Baffling but brilliant' post-apocalyptic novel The End of Everything wins Booker Prize",
+   "summary_en": "M John Harrison becomes the oldest ever winner of the prestigious literary award at the age of 81.",
+   "share_id": "MN202611_16c0a3ut6ko"
   },
   {
    "id": "crawl_10q3bld",
@@ -2601,5 +2621,5 @@
    "share_id": "MN202611_pu2uz9vrg3"
   }
  ],
- "updated": "2026-11-09T23:09:20.103Z"
+ "updated": "2026-11-10T07:44:46.555Z"
 }
