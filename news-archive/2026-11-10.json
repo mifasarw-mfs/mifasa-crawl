@@ -1,7 +1,87 @@
 {
  "day": "2026-11-10",
- "count": 77,
+ "count": 82,
  "articles": [
+  {
+   "id": "crawl_7x53hy",
+   "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+   "summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
+   "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T14:29:00.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1966/live/79e95480-dcfc-11f1-a701-fddedf244c16.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1966/live/79e95480-dcfc-11f1-a701-fddedf244c16.jpg",
+   "title_en": "Arrests made in Mohamed Al Fayed probe in France, police say",
+   "summary_en": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
+   "share_id": "MN202611_7x53hyxzys"
+  },
+  {
+   "id": "crawl_orl541",
+   "title": "Kompany back at Bayern training after collapse",
+   "summary": "Bayern Munich say head coach Vincent Kompany is \"on the road to recovery\" following his recent collapse and treatment in hospital.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c674p4el33wno?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c674p4el33wno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T14:17:04.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d47/live/6d849eb0-dd0c-11f1-97df-bd0937690c4d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d47/live/6d849eb0-dd0c-11f1-97df-bd0937690c4d.jpg",
+   "title_en": "Kompany back at Bayern training after collapse",
+   "summary_en": "Bayern Munich say head coach Vincent Kompany is \"on the road to recovery\" following his recent collapse and treatment in hospital.",
+   "share_id": "MN202611_orl541d2in"
+  },
+  {
+   "id": "crawl_10lmer0",
+   "title": "Managerial 'inconsistency' hurting Ghana - Hughton",
+   "summary": "As Ghana head into crucial Afcon 2027 qualifiers with women's coach Kim Bjorkegren in charge, former boss Chris Hughton says constant changes in the dugout are hurting the Black Stars.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwd09pkg2ev9o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwd09pkg2ev9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T14:14:26.000Z",
+   "source": "BBC Sport Africa",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Sport Africa",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9235/live/d3b23a40-d6df-11f1-b441-2b33b063138f.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9235/live/d3b23a40-d6df-11f1-b441-2b33b063138f.png",
+   "title_en": "Managerial 'inconsistency' hurting Ghana - Hughton",
+   "summary_en": "As Ghana head into crucial Afcon 2027 qualifiers with women's coach Kim Bjorkegren in charge, former boss Chris Hughton says constant changes in the dugout are hurting the Black Stars.",
+   "share_id": "MN202611_10lmer0ec5m"
+  },
+  {
+   "id": "crawl_154v0y2",
+   "title": "US inflation higher than expected in October - here's what is happening with prices",
+   "summary": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
+   "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T14:03:00.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg",
+   "title_en": "US inflation higher than expected in October - here's what is happening with prices",
+   "summary_en": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
+   "share_id": "MN202611_154v0y2nxew"
+  },
   {
    "id": "crawl_g0896a",
    "title": "Homepoint Raises Bar for Quality Home Appliances in Rwanda with Fourth Showroom, an Exclusive Haier Brand Store at Kimironko",
@@ -608,6 +688,32 @@
    "title_rw": "Ikawa y'u Rwanda yegukanye ibihembo bitandatu mu marushanwa mpuzamahanga",
    "summary_rw": "Ikawa y’u Rwanda yongeye kwigaragaza ku isoko mpuzamahanga nyuma yo kwegukana ibihembo bitandatu mu marushanwa ya ASEAN Coffee Excellence Awards (ACEA) 2026, yahuje ikawa zaturutse mu bihugu (…)",
    "share_id": "MN202611_1o8d6r8qg0i"
+  },
+  {
+   "id": "crawl_ssh0d0",
+   "title": "IKINAMICO: Umuzimu Muzima (Igice cya mbere)",
+   "summary": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "link": "https://www.youtube.com/watch?v=XAExIFk-CLs",
+   "url": "https://www.youtube.com/watch?v=XAExIFk-CLs",
+   "date": "2026-11-10T09:42:47.000Z",
+   "source": "Radio Rwanda YouTube",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Radio Rwanda YouTube",
+    "news",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "XAExIFk-CLs"
+   },
+   "type": "video",
+   "image": "https://i1.ytimg.com/vi/XAExIFk-CLs/hqdefault.jpg",
+   "thumbnail": "https://i1.ytimg.com/vi/XAExIFk-CLs/hqdefault.jpg",
+   "title_rw": "IKINAMICO: Umuzimu Muzima (Igice cya mbere)",
+   "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "share_id": "MN202611_ssh0d0h56a"
   },
   {
    "id": "crawl_5u30ih",
@@ -1676,5 +1782,5 @@
    "share_id": "MN202611_1c9cixj5fed"
   }
  ],
- "updated": "2026-11-10T13:56:04.310Z"
+ "updated": "2026-11-10T14:41:27.132Z"
 }

@@ -1,6 +1,6 @@
 {
  "day": "2026-11-09",
- "count": 124,
+ "count": 125,
  "articles": [
   {
    "id": "crawl_1ourmxk",
@@ -1241,6 +1241,36 @@
    "title_en": "Kigali to Host Africa’s Business Heroes Summit, Grand Finale in December",
    "summary_en": "Rwanda’s Capital Kigali is gearing up for hosting the 8th edition of the prestigious 8th Africa’s Business Heroes (ABH) Summit and Grand Finale scheduled on December 1-2. According to organisers, more than 24,000 applications across all 54 African countries, ten founders have made it to the final stage of Africa’s Business Heroes (ABH), the continent’s […] The post Kigali to Host Africa’s…",
    "share_id": "MN202611_gh7a3qz7b8"
+  },
+  {
+   "id": "crawl_16eg8wq",
+   "title": "I Became SPIDERMAN in Minecraft..",
+   "summary": "Instagram: https://www.instagram.com/cashmarcoyt/ Merch: https://cashandnico.com #Minecraft #MinecraftMod #Cash #NicoAndCash",
+   "link": "https://www.youtube.com/watch?v=YuT1H78SbN8",
+   "url": "https://www.youtube.com/watch?v=YuT1H78SbN8",
+   "date": "2026-11-09T15:00:10.000Z",
+   "source": "YouTube Trending Kenya",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "YouTube Trending Kenya",
+    "entertainment",
+    "trending",
+    "Cash",
+    "Nico",
+    "Nico and Cash",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "YuT1H78SbN8"
+   },
+   "type": "video",
+   "image": "https://i.ytimg.com/vi/YuT1H78SbN8/hqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/YuT1H78SbN8/hqdefault.jpg",
+   "title_en": "I Became SPIDERMAN in Minecraft..",
+   "summary_en": "Instagram: https://www.instagram.com/cashmarcoyt/ Merch: https://cashandnico.com #Minecraft #MinecraftMod #Cash #NicoAndCash",
+   "share_id": "MN202611_16eg8wqcbqw"
   },
   {
    "id": "crawl_10uvlea",
@@ -2621,5 +2651,5 @@
    "share_id": "MN202611_pu2uz9vrg3"
   }
  ],
- "updated": "2026-11-10T07:44:46.555Z"
+ "updated": "2026-11-10T14:41:27.133Z"
 }
