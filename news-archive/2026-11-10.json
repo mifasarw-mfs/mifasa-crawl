@@ -1,6 +1,6 @@
 {
  "day": "2026-11-10",
- "count": 3,
+ "count": 4,
  "articles": [
   {
    "id": "crawl_acn2qw",
@@ -21,6 +21,26 @@
    "title_en": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
    "summary_en": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
    "share_id": "MN202611_acn2qwfz7q"
+  },
+  {
+   "id": "crawl_1e7vg7k",
+   "title": "Plymouth Parkway beat Berkhamsted to reach FA Cup second round",
+   "summary": "Two Andrew Neal penalties sew Plymouth Parkway earn a first-ever trip to the second round of the FA Cup after a coming from a goal down to beat Berkhamsted 2-1 in extra time.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cqm24237y5z5o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cqm24237y5z5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T00:13:13.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f85/live/a1c20d10-dc8b-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f85/live/a1c20d10-dc8b-11f1-b441-2b33b063138f.jpg",
+   "title_en": "Plymouth Parkway beat Berkhamsted to reach FA Cup second round",
+   "summary_en": "Two Andrew Neal penalties sew Plymouth Parkway earn a first-ever trip to the second round of the FA Cup after a coming from a goal down to beat Berkhamsted 2-1 in extra time.",
+   "share_id": "MN202611_1e7vg7k8rou"
   },
   {
    "id": "crawl_1b88vbb",
@@ -63,5 +83,5 @@
    "share_id": "MN202611_1c9cixj5fed"
   }
  ],
- "updated": "2026-11-10T00:20:35.239Z"
+ "updated": "2026-11-10T00:37:45.185Z"
 }
