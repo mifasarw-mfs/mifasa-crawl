@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_1ywjqmp",
+  "title": "Arsenal eye Real's Endrick - Wednesday's gossip",
+  "summary": "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clubs interested in Croatian striker Dion Beljo, plus more.",
+  "link": "https://www.bbc.co.uk/sport/football/articles/cq8jzjz9x23jo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cq8jzjz9x23jo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-10T23:08:35.000Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad9/live/ac0a3550-dd48-11f1-aeb2-6bd34b8670af.png",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad9/live/ac0a3550-dd48-11f1-aeb2-6bd34b8670af.png",
+  "title_en": "Arsenal eye Real's Endrick - Wednesday's gossip",
+  "summary_en": "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clubs interested in Croatian striker Dion Beljo, plus more.",
+  "share_id": "MN202611_1ywjqmpbo1b"
+ },
+ {
   "id": "crawl_cn2qjs",
   "title": "72+: The EFL Podcast",
   "summary": "Former Bromley boss Andy Woodman joins Aaron and Jobi.",
@@ -21,7 +41,7 @@
  },
  {
   "id": "crawl_1rvyxgk",
-  "title": "Leicester and Brentford U21 into trophy knockout stage",
+  "title": "Leicester and Brentford U21 into EFL Trophy knockout stages",
   "summary": "Brentford U21 and League One side Leicester City move into the knockout stages of the Jersey Mike's Trophy with vital victories.",
   "link": "https://www.bbc.co.uk/sport/football/articles/cjqlnllkyzd5o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/sport/football/articles/cjqlnllkyzd5o?at_medium=RSS&at_campaign=rss",
@@ -35,7 +55,7 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ec/live/48ff4c20-dd57-11f1-acd1-a78ce9f5fae0.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ec/live/48ff4c20-dd57-11f1-acd1-a78ce9f5fae0.jpg",
-  "title_en": "Leicester and Brentford U21 into trophy knockout stage",
+  "title_en": "Leicester and Brentford U21 into EFL Trophy knockout stages",
   "summary_en": "Brentford U21 and League One side Leicester City move into the knockout stages of the Jersey Mike's Trophy with vital victories.",
   "share_id": "MN202611_1rvyxgkquv6"
  },
@@ -17054,31 +17074,5 @@
   "title_rw": "Ibitero byibusasu bya kirimbuzi kuri Iran? Intambara igiye guhindura isura,byakanze ISI yose",
   "summary_rw": "Donald Trump may drop a nuclear bomb on Iran's Pickaxe Mountain, according to political commentator and former ally Tucker Carlson. Is the U.S. President looking to re-start the war after the midterm elections,",
   "share_id": "MN202611_wqmi6cil0i"
- },
- {
-  "id": "crawl_7megvo",
-  "title": "Joseph kabila atanze ukuri kuri Tshisekedi na Monusco,Imyanzuro ivuye munama i Goma",
-  "summary": "Joseph kabila atanze ukuri kuri Tshisekedi na Monusco,Imyanzuro ivuye munama i Goma",
-  "link": "https://www.youtube.com/watch?v=29iXNeDSykE",
-  "url": "https://www.youtube.com/watch?v=29iXNeDSykE",
-  "date": "2026-11-03T19:33:33.000Z",
-  "source": "Rocky Entertainment YouTube",
-  "category": "entertainment",
-  "lang": "rw",
-  "keywords": [
-   "Rocky Entertainment YouTube",
-   "entertainment",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "29iXNeDSykE"
-  },
-  "type": "video",
-  "image": "https://i3.ytimg.com/vi/29iXNeDSykE/hqdefault.jpg",
-  "thumbnail": "https://i3.ytimg.com/vi/29iXNeDSykE/hqdefault.jpg",
-  "title_rw": "Joseph kabila atanze ukuri kuri Tshisekedi na Monusco,Imyanzuro ivuye munama i Goma",
-  "summary_rw": "Joseph kabila atanze ukuri kuri Tshisekedi na Monusco,Imyanzuro ivuye munama i Goma",
-  "share_id": "MN202611_7megvoeloy"
  }
 ]
