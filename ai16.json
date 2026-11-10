@@ -1154,6 +1154,52 @@
    ],
    "auto": true,
    "taught": "2026-11-10"
+  },
+  {
+   "id": "ai16_ad727b45_q",
+   "label_rw": "Intangiriro ku Ishoramari",
+   "label_en": "Introduction to Investing",
+   "patterns_en": [
+    "What is investing?",
+    "What are common types of investments?",
+    "Why should one be careful when investing?"
+   ],
+   "patterns_rw": [
+    "Ishoramari ni iki?",
+    "Ni ubuhe buryo bw'ishoramari buhari?",
+    "Niuki wakwitondera mu ishoramari?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ishoramari ni ugushyira amafaranga mu bikorwa cyangwa ibintu kugira ngo bizatange inyungu mu gihe kizaza. Hari uburyo bwinshi bwo gushora imari nko mu migabane, mu mitungo itimukanwa no mu bigega. Gushora imari bifasha abantu kwiteza imbere no kwitegura ejo hazaza, ariko bisaba kwitondera ibyago bishobora kubaho.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Investing involves allocating money into assets or ventures with the expectation of generating a return over time. Common investment vehicles include stocks, real estate, and mutual funds. Investing helps individuals build wealth and prepare for the future, though it usually carries financial risks that require careful management.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-10"
+  },
+  {
+   "id": "ai16_3a12b85c_q",
+   "label_rw": "Ubumenyi bw'Ibanze ku Misoro ku Baturage",
+   "label_en": "Tax Basics for Individuals",
+   "patterns_en": [
+    "What are taxes used for?",
+    "Who is required to pay income tax?"
+   ],
+   "patterns_rw": [
+    "Ese imisoro ikoreshwa mu ki?",
+    "Ni bande basabwa gutanga imisoro ku nyungu?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imisoro ni amafaranga leta ikura ku baturage no ku bigo kugira ngo yubake ibikorwa remezo n'imitangire ya serivisi rusange. Mu Rwanda, Ikigo cy'Igihugu cy'Imisoro n'Amahoro ni cyo gishinzwe gukusanya imisoro. Abakozi n'abikorera bose basabwa gutanga umusoro ku nyungu cyangwa ku mishahara yabo mu gihe cyagenwe.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Taxes are compulsory financial contributions levied by the government on individuals and businesses to fund public infrastructure and services. In Rwanda, the Rwanda Revenue Authority is responsible for tax collection. Workers and business owners are generally required to pay income taxes based on their earnings.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-10"
   }
  ],
  "knowledge": [
@@ -2099,6 +2145,45 @@
     "imibare",
     "math",
     "mathematics"
+   ],
+   "auto": true,
+   "taught": "2026-11-10"
+  },
+  {
+   "id": "ai16_ad727b45",
+   "category": "finance",
+   "title_rw": "Intangiriro ku Ishoramari",
+   "title_en": "Introduction to Investing",
+   "summary_rw": "Ishoramari ni ugushyira amafaranga mu bikorwa cyangwa ibintu kugira ngo bizatange inyungu mu gihe kizaza. Hari uburyo bwinshi bwo gushora imari nko mu migabane, mu mitungo itimukanwa no mu bigega. Gushora imari bifasha abantu kwiteza imbere no kwitegura ejo hazaza, ariko bisaba kwitondera ibyago bishobora kubaho.",
+   "summary_en": "Investing involves allocating money into assets or ventures with the expectation of generating a return over time. Common investment vehicles include stocks, real estate, and mutual funds. Investing helps individuals build wealth and prepare for the future, though it usually carries financial risks that require careful management.",
+   "keywords": [
+    "ishoramari",
+    "investing",
+    "amafaranga",
+    "money",
+    "inyungu",
+    "returns",
+    "imigabane",
+    "stocks"
+   ],
+   "auto": true,
+   "taught": "2026-11-10"
+  },
+  {
+   "id": "ai16_3a12b85c",
+   "category": "finance",
+   "title_rw": "Ubumenyi bw'Ibanze ku Misoro ku Baturage",
+   "title_en": "Tax Basics for Individuals",
+   "summary_rw": "Imisoro ni amafaranga leta ikura ku baturage no ku bigo kugira ngo yubake ibikorwa remezo n'imitangire ya serivisi rusange. Mu Rwanda, Ikigo cy'Igihugu cy'Imisoro n'Amahoro ni cyo gishinzwe gukusanya imisoro. Abakozi n'abikorera bose basabwa gutanga umusoro ku nyungu cyangwa ku mishahara yabo mu gihe cyagenwe.",
+   "summary_en": "Taxes are compulsory financial contributions levied by the government on individuals and businesses to fund public infrastructure and services. In Rwanda, the Rwanda Revenue Authority is responsible for tax collection. Workers and business owners are generally required to pay income taxes based on their earnings.",
+   "keywords": [
+    "imisoro",
+    "taxes",
+    "leta",
+    "government",
+    "rra",
+    "amafaranga",
+    "finance"
    ],
    "auto": true,
    "taught": "2026-11-10"
