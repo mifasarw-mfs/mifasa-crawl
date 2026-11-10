@@ -1,7 +1,121 @@
 {
  "day": "2026-11-10",
- "count": 37,
+ "count": 44,
  "articles": [
+  {
+   "id": "crawl_1r486mk",
+   "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+   "summary": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
+   "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T09:26:59.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e26a/live/d5c09440-dce7-11f1-a8e1-e3454837ffc6.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e26a/live/d5c09440-dce7-11f1-a8e1-e3454837ffc6.jpg",
+   "title_en": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+   "summary_en": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
+   "share_id": "MN202611_1r486mk133e"
+  },
+  {
+   "id": "crawl_1lb8nhi",
+   "title": "\"IMBUTO Z'IPAPAYI\" BURYA NI UMUTI UKOMEYE CYANE UVURA INDWARA NYINSHI",
+   "summary": "#DASHDASHYOGACENTER SOBANUKIRWA AKAMARO NTAGERERANYWA K'IMBUTO Z'IPAPAYI, UMENYE UBURYO ARI UMUTI UKOMEYE CYANE USHOBORA KUVURA INDWARA NYINSHI CYANE.",
+   "link": "https://www.youtube.com/watch?v=WeLJuqgKGH8",
+   "url": "https://www.youtube.com/watch?v=WeLJuqgKGH8",
+   "date": "2026-11-10T09:01:13.000Z",
+   "source": "Dash Dash TV YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Dash Dash TV YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "WeLJuqgKGH8"
+   },
+   "type": "video",
+   "image": "https://i4.ytimg.com/vi/WeLJuqgKGH8/hqdefault.jpg",
+   "thumbnail": "https://i4.ytimg.com/vi/WeLJuqgKGH8/hqdefault.jpg",
+   "title_rw": "\"IMBUTO Z'IPAPAYI\" BURYA NI UMUTI UKOMEYE CYANE UVURA INDWARA NYINSHI",
+   "summary_rw": "#DASHDASHYOGACENTER SOBANUKIRWA AKAMARO NTAGERERANYWA K'IMBUTO Z'IPAPAYI, UMENYE UBURYO ARI UMUTI UKOMEYE CYANE USHOBORA KUVURA INDWARA NYINSHI CYANE.",
+   "share_id": "MN202611_1lb8nhi4qbo"
+  },
+  {
+   "id": "crawl_ldldgv",
+   "title": "‪@israelmbonyi aragarutse muri #genzcomedyshowKigali Kuwa Kane 12/11/2026, 6PM",
+   "summary": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+   "link": "https://www.youtube.com/shorts/Ny1NtKNCW7M",
+   "url": "https://www.youtube.com/shorts/Ny1NtKNCW7M",
+   "date": "2026-11-10T09:00:12.000Z",
+   "source": "Gen-Z Comedy Show YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Gen-Z Comedy Show YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "Ny1NtKNCW7M"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/Ny1NtKNCW7M/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/Ny1NtKNCW7M/hqdefault.jpg",
+   "title_rw": "‪@israelmbonyi aragarutse muri #genzcomedyshowKigali Kuwa Kane 12/11/2026, 6PM",
+   "summary_rw": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+   "share_id": "MN202611_ldldgvx8nh"
+  },
+  {
+   "id": "crawl_xehjbp",
+   "title": "Wenger considers standing against Infantino",
+   "summary": "Former Arsenal manager Arsene Wenger is considering standing against Gianni Infantino as a candidate in Fifa's presidential election in March.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwj343pep7zdo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwj343pep7zdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T08:53:26.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f44/live/8a627790-dce0-11f1-a8e1-e3454837ffc6.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f44/live/8a627790-dce0-11f1-a8e1-e3454837ffc6.jpg",
+   "title_en": "Wenger considers standing against Infantino",
+   "summary_en": "Former Arsenal manager Arsene Wenger is considering standing against Gianni Infantino as a candidate in Fifa's presidential election in March.",
+   "share_id": "MN202611_xehjbp9gqb"
+  },
+  {
+   "id": "crawl_w9nbih",
+   "title": "BK Pro League: Rayon Sports yashyize hanze ibiciro by'umukino izakiramo APR FC",
+   "summary": "Kuri uyu wa Kabiri, ikipe ya Rayon Sports yashyize hanze ibiciro by’umukino w’umunsi wa cyenda wa shampiyona izakiramo APR FC ku wa 21 Ugushyingo 2026 kuri Stade Amahoro, Saa Kumi n’Imwe (…)",
+   "link": "https://www.kigalitoday.com/imikino/football/article/bk-pro-league-rayon-sports-yashyize-hanze-ibiciro-by-umukino-izakiramo-apr-fc",
+   "url": "https://www.kigalitoday.com/imikino/football/article/bk-pro-league-rayon-sports-yashyize-hanze-ibiciro-by-umukino-izakiramo-apr-fc",
+   "date": "2026-11-10T08:46:12.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Football",
+    "Jean Jules Uwimana"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/20260523_211355-2.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/20260523_211355-2.jpg",
+   "title_rw": "BK Pro League: Rayon Sports yashyize hanze ibiciro by'umukino izakiramo APR FC",
+   "summary_rw": "Kuri uyu wa Kabiri, ikipe ya Rayon Sports yashyize hanze ibiciro by’umukino w’umunsi wa cyenda wa shampiyona izakiramo APR FC ku wa 21 Ugushyingo 2026 kuri Stade Amahoro, Saa Kumi n’Imwe (…)",
+   "share_id": "MN202611_w9nbih3o9z"
+  },
   {
    "id": "crawl_1jdhfia",
    "title": "Locals launch campaign to buy ancient wood",
@@ -350,6 +464,26 @@
    "share_id": "MN202611_whnae4f7sq"
   },
   {
+   "id": "crawl_7n2sbr",
+   "title": "Oxford museum returns ancestral Naga skulls to India",
+   "summary": "The remains will be taken to Nagaland, where tribal leaders plan a joint memorial and burial.",
+   "link": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T06:23:42.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c57/live/c6a27780-dcba-11f1-bc9a-d176db862bf0.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c57/live/c6a27780-dcba-11f1-bc9a-d176db862bf0.jpg",
+   "title_en": "Oxford museum returns ancestral Naga skulls to India",
+   "summary_en": "The remains will be taken to Nagaland, where tribal leaders plan a joint memorial and burial.",
+   "share_id": "MN202611_7n2sbrvosl"
+  },
+  {
    "id": "crawl_zvyf8k",
    "title": "Bitunguranye Congo ishyize igitutu kuri America,turambiwe kutwemerera munyandiko,mutaza kubukora RDC",
    "summary": "Bitunguranye Congo ishyize igitutu kuri America,turambiwe kutwemerera munyandiko,mutaza kubukora RDC",
@@ -440,6 +574,26 @@
    "title_en": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
    "summary_en": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
    "share_id": "MN202611_15wt2thlzab"
+  },
+  {
+   "id": "crawl_lci9b9",
+   "title": "Polish unity on show as thousands join silent march for Krakow shooting victims",
+   "summary": "Fiercely proud of its reputation for safety, Poland has been profoundly shaken by Saturday's attack, writes Sarah Rainsford.",
+   "link": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T05:38:53.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2788/live/5536cf80-dcdb-11f1-a701-fddedf244c16.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2788/live/5536cf80-dcdb-11f1-a701-fddedf244c16.jpg",
+   "title_en": "Polish unity on show as thousands join silent march for Krakow shooting victims",
+   "summary_en": "Fiercely proud of its reputation for safety, Poland has been profoundly shaken by Saturday's attack, writes Sarah Rainsford.",
+   "share_id": "MN202611_lci9b9b5s3"
   },
   {
    "id": "crawl_1oystmp",
@@ -806,5 +960,5 @@
    "share_id": "MN202611_1c9cixj5fed"
   }
  ],
- "updated": "2026-11-10T08:38:08.311Z"
+ "updated": "2026-11-10T09:29:29.196Z"
 }
