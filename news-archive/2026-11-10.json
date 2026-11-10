@@ -1,7 +1,47 @@
 {
  "day": "2026-11-10",
- "count": 11,
+ "count": 14,
  "articles": [
+  {
+   "id": "crawl_1gzjemv",
+   "title": "'Screening may have picked up my lung cancer earlier'",
+   "summary": "Joan McConville is calling for a national screening programme in Northern Ireland, like there is in England and Wales.",
+   "link": "https://www.bbc.co.uk/news/articles/cke8r704e8l6o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cke8r704e8l6o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T06:16:50.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33aa/live/68758200-dc4d-11f1-a869-656dc96bd12d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33aa/live/68758200-dc4d-11f1-a869-656dc96bd12d.jpg",
+   "title_en": "'Screening may have picked up my lung cancer earlier'",
+   "summary_en": "Joan McConville is calling for a national screening programme in Northern Ireland, like there is in England and Wales.",
+   "share_id": "MN202611_1gzjemvcb3p"
+  },
+  {
+   "id": "crawl_15wt2th",
+   "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
+   "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
+   "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T06:01:44.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d5c/live/48fcfe10-dc9a-11f1-adfe-2165436acfb4.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d5c/live/48fcfe10-dc9a-11f1-adfe-2165436acfb4.jpg",
+   "title_en": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
+   "summary_en": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
+   "share_id": "MN202611_15wt2thlzab"
+  },
   {
    "id": "crawl_1oystmp",
    "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
@@ -161,6 +201,26 @@
    "share_id": "MN202611_6p70l1zx1v"
   },
   {
+   "id": "crawl_1ynh1g2",
+   "title": "'Cruise for life' ship seized in Singapore",
+   "summary": "The ship was meant to take guests around the world, but the trip was cut short after its operator ran out of money.",
+   "link": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T01:49:06.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54ec/live/78680920-dca3-11f1-93a0-e3acb3757eea.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54ec/live/78680920-dca3-11f1-93a0-e3acb3757eea.jpg",
+   "title_en": "'Cruise for life' ship seized in Singapore",
+   "summary_en": "The ship was meant to take guests around the world, but the trip was cut short after its operator ran out of money.",
+   "share_id": "MN202611_1ynh1g29xww"
+  },
+  {
    "id": "crawl_acn2qw",
    "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
    "summary": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
@@ -241,5 +301,5 @@
    "share_id": "MN202611_1c9cixj5fed"
   }
  ],
- "updated": "2026-11-10T05:34:17.716Z"
+ "updated": "2026-11-10T06:29:42.777Z"
 }

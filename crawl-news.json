@@ -1,5 +1,45 @@
 [
  {
+  "id": "crawl_1gzjemv",
+  "title": "'Screening may have picked up my lung cancer earlier'",
+  "summary": "Joan McConville is calling for a national screening programme in Northern Ireland, like there is in England and Wales.",
+  "link": "https://www.bbc.co.uk/news/articles/cke8r704e8l6o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cke8r704e8l6o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-10T06:16:50.000Z",
+  "source": "BBC Health",
+  "category": "health",
+  "lang": "en",
+  "keywords": [
+   "BBC Health",
+   "health"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33aa/live/68758200-dc4d-11f1-a869-656dc96bd12d.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33aa/live/68758200-dc4d-11f1-a869-656dc96bd12d.jpg",
+  "title_en": "'Screening may have picked up my lung cancer earlier'",
+  "summary_en": "Joan McConville is calling for a national screening programme in Northern Ireland, like there is in England and Wales.",
+  "share_id": "MN202611_1gzjemvcb3p"
+ },
+ {
+  "id": "crawl_15wt2th",
+  "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
+  "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
+  "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-10T06:01:44.000Z",
+  "source": "BBC Business",
+  "category": "business",
+  "lang": "en",
+  "keywords": [
+   "BBC Business",
+   "business"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d5c/live/48fcfe10-dc9a-11f1-adfe-2165436acfb4.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d5c/live/48fcfe10-dc9a-11f1-adfe-2165436acfb4.jpg",
+  "title_en": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
+  "summary_en": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
+  "share_id": "MN202611_15wt2thlzab"
+ },
+ {
   "id": "crawl_1oystmp",
   "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
   "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
@@ -156,6 +196,26 @@
   "title_en": "Qantas to outsource 850 local jobs with most roles moving to India",
   "summary_en": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
   "share_id": "MN202611_6p70l1zx1v"
+ },
+ {
+  "id": "crawl_1ynh1g2",
+  "title": "'Cruise for life' ship seized in Singapore",
+  "summary": "The ship was meant to take guests around the world, but the trip was cut short after its operator ran out of money.",
+  "link": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-10T01:49:06.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54ec/live/78680920-dca3-11f1-93a0-e3acb3757eea.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54ec/live/78680920-dca3-11f1-93a0-e3acb3757eea.jpg",
+  "title_en": "'Cruise for life' ship seized in Singapore",
+  "summary_en": "The ship was meant to take guests around the world, but the trip was cut short after its operator ran out of money.",
+  "share_id": "MN202611_1ynh1g29xww"
  },
  {
   "id": "crawl_acn2qw",
@@ -423,8 +483,8 @@
    "BBC Business",
    "business"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4310/live/95e56210-dc92-11f1-b244-e54544344237.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4310/live/95e56210-dc92-11f1-b244-e54544344237.jpg",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4e6/live/9afaf360-dccd-11f1-9b78-45da8622c809.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4e6/live/9afaf360-dccd-11f1-9b78-45da8622c809.jpg",
   "title_en": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
   "summary_en": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
   "share_id": "MN202611_10q3bldw827"
@@ -773,12 +833,12 @@
   "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-09T18:11:11.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Business",
+  "category": "business",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Business",
+   "business"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5c/live/7cc0b9e0-dc6c-11f1-b441-2b33b063138f.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5c/live/7cc0b9e0-dc6c-11f1-b441-2b33b063138f.jpg",
@@ -16980,68 +17040,5 @@
   "title_rw": "Umucamanza yategetse ubutegetsi bwa Trump kureka gushyira ibikangisho ku bashinzwe amatora muri Amerika",
   "summary_rw": "Iryo tegeko ritanzwe nyuma yuko abategetsi bashinzwe amatora bakiriye amabaruwa abasaba gushyira ku ruhande amajwi ashobora kuba ari ay'abatari abenegihugu.",
   "share_id": "MN202611_14gw7cnp3th"
- },
- {
-  "id": "crawl_1xw5gxe",
-  "title": "Ibaze ari APR FC - Djibril Ouattara ku buryo Rayon Sports yatsinzemo Marine FC",
-  "summary": "Nyuma y’uko umukino wa shampiyona Rayon Sports yatsinzemo Marine FC 2-1 usize impaka cyane cyane ku mutoza Yves Rwasamanzi wanenze imisifurire, rutahizamu wa APR FC Djibril yibajije uko byari (…)",
-  "link": "https://www.kigalitoday.com/imikino/football/article/ibaze-ari-apr-fc-djibril-ouattara-ku-buryo-rayon-sports-yatsinzemo-marine-fc",
-  "url": "https://www.kigalitoday.com/imikino/football/article/ibaze-ari-apr-fc-djibril-ouattara-ku-buryo-rayon-sports-yatsinzemo-marine-fc",
-  "date": "2026-11-01",
-  "source": "Kigali Today",
-  "category": "news",
-  "lang": "rw",
-  "keywords": [
-   "Kigali Today",
-   "news",
-   "Football"
-  ],
-  "title_rw": "Ibaze ari APR FC - Djibril Ouattara ku buryo Rayon Sports yatsinzemo Marine FC",
-  "summary_rw": "Nyuma y’uko umukino wa shampiyona Rayon Sports yatsinzemo Marine FC 2-1 usize impaka cyane cyane ku mutoza Yves Rwasamanzi wanenze imisifurire, rutahizamu wa APR FC Djibril yibajije uko byari (…)",
-  "image": "https://www.kigalitoday.com/IMG/jpg/fotogrid_20261101_225312862.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/fotogrid_20261101_225312862.jpg",
-  "share_id": "MN202611_1xw5gxe7e8g"
- },
- {
-  "id": "crawl_171zo5l",
-  "title": "Iyo bawuha Haringingo akawusifura- lUmutoza wa Marine FC nyuma yo gutsindwa na Rayon Sports",
-  "summary": "Umutoza wa Marine FC, Yves Rwasamanzi yagaragaraje kutishimira imisifurire ku mukino w’umunsi wa karindwi wa BK Pro League yatsinzwemo na Rayon Sports 2-1 kuri iki Cyumweru ndetse avuga ko byari (…)",
-  "link": "https://www.kigalitoday.com/imikino/football/article/iyo-bawuha-haringingo-akawusifura-lumutoza-wa-marine-fc-nyuma-yo-gutsindwa-na-rayon-sports",
-  "url": "https://www.kigalitoday.com/imikino/football/article/iyo-bawuha-haringingo-akawusifura-lumutoza-wa-marine-fc-nyuma-yo-gutsindwa-na-rayon-sports",
-  "date": "2026-11-01",
-  "source": "Kigali Today",
-  "category": "news",
-  "lang": "rw",
-  "keywords": [
-   "Kigali Today",
-   "news",
-   "Football"
-  ],
-  "title_rw": "Iyo bawuha Haringingo akawusifura- lUmutoza wa Marine FC nyuma yo gutsindwa na Rayon Sports",
-  "summary_rw": "Umutoza wa Marine FC, Yves Rwasamanzi yagaragaraje kutishimira imisifurire ku mukino w’umunsi wa karindwi wa BK Pro League yatsinzwemo na Rayon Sports 2-1 kuri iki Cyumweru ndetse avuga ko byari (…)",
-  "image": "https://www.kigalitoday.com/IMG/jpg/fotogrid_20261101_203054916.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/fotogrid_20261101_203054916.jpg",
-  "share_id": "MN202611_171zo5l8607"
- },
- {
-  "id": "crawl_2kkvt4",
-  "title": "#AFCON2027Q: Amavubi yahamagaye abakinnyi 28 bitegura Mali",
-  "summary": "Kuri iki Cyumweru, umutoza w’Amavubi Stephen Constantine yahamagaye abakinnyi 28 bagiye kwitegura imikino ibiri yo gushaka itike y’Igikombe cya Afurika 2027 izayahuza na Mali muri uku Gushyingo (…)",
-  "link": "https://www.kigalitoday.com/imikino/football/article/afcon2027q-amavubi-yahamagaye-abakinnyi-28-bitegura-mali",
-  "url": "https://www.kigalitoday.com/imikino/football/article/afcon2027q-amavubi-yahamagaye-abakinnyi-28-bitegura-mali",
-  "date": "2026-11-01",
-  "source": "Kigali Today",
-  "category": "news",
-  "lang": "rw",
-  "keywords": [
-   "Kigali Today",
-   "news",
-   "Football"
-  ],
-  "title_rw": "#AFCON2027Q: Amavubi yahamagaye abakinnyi 28 bitegura Mali",
-  "summary_rw": "Kuri iki Cyumweru, umutoza w’Amavubi Stephen Constantine yahamagaye abakinnyi 28 bagiye kwitegura imikino ibiri yo gushaka itike y’Igikombe cya Afurika 2027 izayahuza na Mali muri uku Gushyingo (…)",
-  "image": "https://www.kigalitoday.com/IMG/jpg/htz2k3cwsaaff5p-2.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/htz2k3cwsaaff5p-2.jpg",
-  "share_id": "MN202611_2kkvt4m2g6"
  }
 ]
