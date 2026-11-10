@@ -1,7 +1,27 @@
 {
  "day": "2026-11-10",
- "count": 5,
+ "count": 6,
  "articles": [
+  {
+   "id": "crawl_himzj4",
+   "title": "Trump says Iran war is 'effectively over' militarily with further strikes unlikely",
+   "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation in the Middle East change.",
+   "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T02:38:00.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6017/live/b94816e0-dca5-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6017/live/b94816e0-dca5-11f1-b441-2b33b063138f.jpg",
+   "title_en": "Trump says Iran war is 'effectively over' militarily with further strikes unlikely",
+   "summary_en": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation in the Middle East change.",
+   "share_id": "MN202611_himzj4fvzy"
+  },
   {
    "id": "crawl_6p70l1",
    "title": "Qantas to outsource 850 local jobs with most roles moving to India",
@@ -103,5 +123,5 @@
    "share_id": "MN202611_1c9cixj5fed"
   }
  ],
- "updated": "2026-11-10T02:24:04.488Z"
+ "updated": "2026-11-10T03:57:38.841Z"
 }
