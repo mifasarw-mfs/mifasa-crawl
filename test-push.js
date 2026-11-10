@@ -3,7 +3,8 @@ const K = process.env.ONESIGNAL_API_KEY || "", A = process.env.ONESIGNAL_APP_ID 
 const say = (ok, m) => console.log((ok ? "OK    " : "ERROR ") + m);
 async function main() {
   say(!!A, "ONESIGNAL_APP_ID secret " + (A ? "is set" : "is EMPTY"));
-  say(!!K, "ONESIGNAL_API_KEY secret " + (K ? "is set (length " + K.length + ")" : "is EMPTY"));
+  say(!!K, "ONESIGNAL_API_KEY secret " + (K ? "is set (length " + K.length + "; a real App API Key is about 100 characters)" : "is EMPTY"));
+  if (A) { const ok = /^[0-9a-f]{8}(-[0-9a-f]{4}){3}-[0-9a-f]{12}$/i.test(A.trim()); say(ok, "App ID length " + A.length + (ok ? " and shape is right (36 characters, like 0181af12-bb7e-...)" : " - it must be 36 characters like 0181af12-bb7e-47d5-9c4c-62f7b6c08dfa. Copy 'OneSignal App ID' from Settings > Keys & IDs")); }
   if (A) say(A.trim() === SITE_APP, A.trim() === SITE_APP ? "App ID is the same as the one in index.html" : "App ID is DIFFERENT from index.html (" + SITE_APP + ") - visitors subscribe to another app, they will never get this push");
   if (K) {
     say(K === K.trim(), K === K.trim() ? "no spaces or new line in the key" : "the key has a space / new line at the start or end - paste it again in GitHub secrets");
