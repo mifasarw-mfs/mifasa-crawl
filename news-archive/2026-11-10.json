@@ -1,7 +1,47 @@
 {
  "day": "2026-11-10",
- "count": 89,
+ "count": 92,
  "articles": [
+  {
+   "id": "crawl_3agp1e",
+   "title": "McTominay reveals heart treatment at World Cup",
+   "summary": "Scott McTominay reveals he received treatment on his heart two days before Scotland's World Cup win over Haiti in June.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T16:46:31.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eae/live/09084700-dd22-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eae/live/09084700-dd22-11f1-b441-2b33b063138f.jpg",
+   "title_en": "McTominay reveals heart treatment at World Cup",
+   "summary_en": "Scott McTominay reveals he received treatment on his heart two days before Scotland's World Cup win over Haiti in June.",
+   "share_id": "MN202611_3agp1ecof4"
+  },
+  {
+   "id": "crawl_pr4h0p",
+   "title": "Oldham boss Mellon charged by FA following red card",
+   "summary": "Oldham Athletic manager Micky Mellon is charged by the FA following his red card during his side's FA Cup win over Sheffield Wednesday.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6e3x3xz33njo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6e3x3xz33njo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T16:41:54.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7304/live/75840950-dd22-11f1-ab46-9fae224bbf6f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7304/live/75840950-dd22-11f1-ab46-9fae224bbf6f.jpg",
+   "title_en": "Oldham boss Mellon charged by FA following red card",
+   "summary_en": "Oldham Athletic manager Micky Mellon is charged by the FA following his red card during his side's FA Cup win over Sheffield Wednesday.",
+   "share_id": "MN202611_pr4h0pwefb"
+  },
   {
    "id": "crawl_wmtaup",
    "title": "🔴LIVE: AMAKURU Y'IJORO || TARIKI 10.11.2026",
@@ -119,6 +159,26 @@
    "title_rw": "‪@israelmbonyi aragarutse muri #genzcomedyshowKigali Kuwa Kane 12/11/2026, 6PM",
    "summary_rw": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
    "share_id": "MN202611_i1s0vo7y1e"
+  },
+  {
+   "id": "crawl_1p9p8zz",
+   "title": "'It's a farce': Hegseth's defiant response to impeachment effort",
+   "summary": "The BBC’s Gary O’Donoghue breaks down how the US defence secretary defended his record after a Republican congressman launched an attempt to impeach him.",
+   "link": "https://www.bbc.co.uk/news/videos/cwm24249dezmo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cwm24249dezmo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T15:40:43.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94cb/live/60861d10-dd20-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94cb/live/60861d10-dd20-11f1-b441-2b33b063138f.jpg",
+   "title_en": "'It's a farce': Hegseth's defiant response to impeachment effort",
+   "summary_en": "The BBC’s Gary O’Donoghue breaks down how the US defence secretary defended his record after a Republican congressman launched an attempt to impeach him.",
+   "share_id": "MN202611_1p9p8zzhu3x"
   },
   {
    "id": "crawl_cy3b2f",
@@ -1940,5 +2000,5 @@
    "share_id": "MN202611_1c9cixj5fed"
   }
  ],
- "updated": "2026-11-10T16:45:54.681Z"
+ "updated": "2026-11-10T17:12:39.539Z"
 }
