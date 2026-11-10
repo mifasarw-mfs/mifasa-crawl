@@ -1,7 +1,27 @@
 {
  "day": "2026-11-10",
- "count": 6,
+ "count": 7,
  "articles": [
+  {
+   "id": "crawl_jle26v",
+   "title": "Trump avuga ko intambara ya gisirikare muri Iran ‘mu vy'ukuri yarangiye', ibitero bishasha bikaba bititezwe",
+   "summary": "Perezida Donald Trump wa Amerika avuga ko intambara igihugu ciwe kirimwo na Irani “yarangiye ku ruhande rwa gisirikare”, kandi ko hari intambwe nziza ziriko ziraterwa mu biganiro.",
+   "link": "https://www.bbc.co.uk/gahuza/live/cqm26241d110t?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/gahuza/live/cqm26241d110t?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T04:31:03.904Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/210d/live/09f7c7d0-dcb9-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/210d/live/09f7c7d0-dcb9-11f1-b441-2b33b063138f.jpg",
+   "title_rw": "Trump avuga ko intambara ya gisirikare muri Iran ‘mu vy'ukuri yarangiye', ibitero bishasha bikaba bititezwe",
+   "summary_rw": "Perezida Donald Trump wa Amerika avuga ko intambara igihugu ciwe kirimwo na Irani “yarangiye ku ruhande rwa gisirikare”, kandi ko hari intambwe nziza ziriko ziraterwa mu biganiro.",
+   "share_id": "MN202611_jle26vap9x"
+  },
   {
    "id": "crawl_himzj4",
    "title": "Trump says Iran war is 'effectively over' militarily with further strikes unlikely",
@@ -123,5 +143,5 @@
    "share_id": "MN202611_1c9cixj5fed"
   }
  ],
- "updated": "2026-11-10T03:57:38.841Z"
+ "updated": "2026-11-10T04:34:22.215Z"
 }
