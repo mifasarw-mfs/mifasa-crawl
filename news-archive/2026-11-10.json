@@ -1,7 +1,47 @@
 {
  "day": "2026-11-10",
- "count": 134,
+ "count": 136,
  "articles": [
+  {
+   "id": "crawl_cn2qjs",
+   "title": "72+: The EFL Podcast",
+   "summary": "Former Bromley boss Andy Woodman joins Aaron and Jobi.",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pmc96j?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/p0pmc96j?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T22:29:00.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg",
+   "title_en": "72+: The EFL Podcast",
+   "summary_en": "Former Bromley boss Andy Woodman joins Aaron and Jobi.",
+   "share_id": "MN202611_cn2qjsvv2e"
+  },
+  {
+   "id": "crawl_1rvyxgk",
+   "title": "Leicester and Brentford U21 into trophy knockout stage",
+   "summary": "Brentford U21 and League One side Leicester City move into the knockout stages of the Jersey Mike's Trophy with vital victories.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cjqlnllkyzd5o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cjqlnllkyzd5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T22:17:53.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ec/live/48ff4c20-dd57-11f1-acd1-a78ce9f5fae0.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ec/live/48ff4c20-dd57-11f1-acd1-a78ce9f5fae0.jpg",
+   "title_en": "Leicester and Brentford U21 into trophy knockout stage",
+   "summary_en": "Brentford U21 and League One side Leicester City move into the knockout stages of the Jersey Mike's Trophy with vital victories.",
+   "share_id": "MN202611_1rvyxgkquv6"
+  },
   {
    "id": "crawl_l3nfgk",
    "title": "Man City thrash Inter to claim first CL win of season",
@@ -2946,5 +2986,5 @@
    "share_id": "MN202611_1c9cixj5fed"
   }
  ],
- "updated": "2026-11-10T22:20:12.885Z"
+ "updated": "2026-11-10T23:00:19.312Z"
 }
