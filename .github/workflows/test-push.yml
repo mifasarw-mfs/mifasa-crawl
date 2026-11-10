@@ -1,0 +1,15 @@
+# Manual only: Actions > mifasa-test-push > Run workflow. Sends one test notification and prints what is wrong.
+name: mifasa-test-push
+on:
+  workflow_dispatch: {}
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - name: Send test notification
+        env:
+          ONESIGNAL_APP_ID: ${{ secrets.ONESIGNAL_APP_ID }}
+          ONESIGNAL_API_KEY: ${{ secrets.ONESIGNAL_API_KEY }}
+        run: node test-push.js
