@@ -3,6 +3,7 @@
 #   every hour (:07) : sites WITHOUT RSS + Wikipedia knowledge topics     -> node crawl.js --mode=slow  +  node crawl-knowledge.js
 #   when you edit crawl-feeds.json / crawl-topics.json / the crawlers     -> everything at once
 # NEW: node crawl-videos.js gets EVERY video of every YouTube channel (hourly) -> videos/<channel>.json (first run = all, later = only new).
+# NEW: node make-story-pages.js makes s/<share_id>.html for every story (real og:/twitter: tags inside the HTML, so shared links look right).
 # Uploads to Neocities ONLY when something changed. Needs the secret NEOCITIES_API_KEY.
 # NEW: every story is also kept FOREVER in news-archive/YYYY-MM-DD.json (+ index.json), each with a permanent id (share_id "MN202611_...").
 #      crawl-news.json stays the fast 60-day window; the archive never loses anything.
@@ -13,7 +14,7 @@ on:
     - cron: "7 * * * *"
   workflow_dispatch: {}
   push:
-    paths: ["crawl-feeds.json", "crawl-topics.json", "crawl.js", "crawl-knowledge.js", "crawl-videos.js", "notify-post.js", "make-sitemap.js", ".github/workflows/crawl.yml"]
+    paths: ["crawl-feeds.json", "crawl-topics.json", "crawl.js", "crawl-knowledge.js", "crawl-videos.js", "notify-post.js", "make-sitemap.js", "make-story-pages.js", ".github/workflows/crawl.yml"]
 permissions:
   contents: write
 concurrency:
@@ -54,6 +55,9 @@ jobs:
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: node crawl-videos.js
+      - name: Make one static HTML page per story (s/<share_id>.html, real meta tags for WhatsApp/Facebook/Google)
+        continue-on-error: true
+        run: node make-story-pages.js
       - name: Make sitemap.xml (one URL per story)
         continue-on-error: true
         run: node make-sitemap.js
@@ -65,6 +69,7 @@ jobs:
           git add crawl-news.json crawl-words.json crawl-knowledge.json
           git add sitemap.xml 2>/dev/null || true
           git add news-archive 2>/dev/null || true
+          git add s 2>/dev/null || true
           git add videos 2>/dev/null || true
           git add notify-sent.json 2>/dev/null || true
           if git diff --cached --quiet; then
@@ -97,3 +102,17 @@ jobs:
             for f in $vf; do [ -f "$f" ] && args+=(-F "$f=@$f"); done
           fi
           curl -fsS -H "Authorization: Bearer $NEOCITIES_API_KEY" "${args[@]}" https://neocities.org/api/upload
+          # story pages s/*.html: sent in batches of 40 files (a big backlog never breaks one request)
+          if [ -d s ]; then
+            if [ "$EVENT" = "schedule" ]; then sf=$(git show --name-only --pretty=format: HEAD -- s | grep -v '^$' || true)
+            else sf=$(git ls-files s | tail -400); fi
+            printf '%s\n' $sf | grep '\.html$' > s-list.txt || true
+            if [ -s s-list.txt ]; then
+              split -l 40 s-list.txt s-batch-
+              for b in s-batch-*; do
+                sargs=(); while read -r f; do [ -f "$f" ] && sargs+=(-F "$f=@$f"); done < "$b"
+                [ ${#sargs[@]} -gt 0 ] && curl -fsS -H "Authorization: Bearer $NEOCITIES_API_KEY" "${sargs[@]}" https://neocities.org/api/upload
+              done
+            fi
+            rm -f s-list.txt s-batch-*
+          fi
