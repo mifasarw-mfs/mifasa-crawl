@@ -1106,6 +1106,54 @@
    ],
    "auto": true,
    "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_09e6a557_q",
+   "label_rw": "Guteranya no Gukuramo",
+   "label_en": "Addition and Subtraction",
+   "patterns_en": [
+    "What is addition in mathematics?",
+    "How does subtraction work?",
+    "What is the difference between addition and subtraction?"
+   ],
+   "patterns_rw": [
+    "Guteranya ni iki muri mathematika?",
+    "Gukuramo bikorwa bite?",
+    "Ni iki gitandukanya guteranya n'gukuramo?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Guteranya ni igikorwa cy'imibare cyo kongera umubare ku wundi kugira ngo ubone igiteranyo. Gukuramo ni igikorwa cyo kugabanya umubare ku wundi kugira ngo ubone asigaye. Ibi bikorwa byombi bifitanye isano ya bugufi kandi ni urufatiro rwa mathematika.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Addition is a mathematical operation used to combine numbers to find a total sum. Subtraction is the operation of taking one number away from another to find the difference. These two operations are closely related and form the foundation of mathematics.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-10"
+  },
+  {
+   "id": "ai16_a6ccd55f_q",
+   "label_rw": "Inyigisho y'Alujebura",
+   "label_en": "Algebraic Equations",
+   "patterns_en": [
+    "What is algebra in mathematics?",
+    "What makes an algebraic equation true?",
+    "What do letters represent in algebraic equations?"
+   ],
+   "patterns_rw": [
+    "Alujebura ni iki mu mibare?",
+    "Ni iki gituma urugero rw'alujebura ruba ruri ukuri?",
+    "Inyuguti zikoreshwa mu alujebura zihagararikiye iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Alujebura ni igice cy'imibare gikoresha inyuguti kugira ngo zihagararire imibare itazwi mu muringanyize. Ingero z'imibare n'inyuguti zigizwe n'ibimenyetso n'ingana zerekana uburinganire bw'ibice bibiri. Gukemura izi ngero bisobanura gushaka agaciro k'inyuguti zitazwi kugira ngo urugero rube ruri ukuri.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Algebra is a branch of mathematics that uses letters to represent unknown numbers in equations. Algebraic equations consist of expressions and an equals sign showing that two amounts are equal. Solving these equations typically involves finding the value of the unknown letter that makes the equation true.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-10"
   }
  ],
  "knowledge": [
@@ -2016,6 +2064,44 @@
    ],
    "auto": true,
    "taught": "2026-11-09"
+  },
+  {
+   "id": "ai16_09e6a557",
+   "category": "math",
+   "title_rw": "Guteranya no Gukuramo",
+   "title_en": "Addition and Subtraction",
+   "summary_rw": "Guteranya ni igikorwa cy'imibare cyo kongera umubare ku wundi kugira ngo ubone igiteranyo. Gukuramo ni igikorwa cyo kugabanya umubare ku wundi kugira ngo ubone asigaye. Ibi bikorwa byombi bifitanye isano ya bugufi kandi ni urufatiro rwa mathematika.",
+   "summary_en": "Addition is a mathematical operation used to combine numbers to find a total sum. Subtraction is the operation of taking one number away from another to find the difference. These two operations are closely related and form the foundation of mathematics.",
+   "keywords": [
+    "guteranya",
+    "gukuramo",
+    "imibare",
+    "addition",
+    "subtraction",
+    "math",
+    "igiteranyo"
+   ],
+   "auto": true,
+   "taught": "2026-11-10"
+  },
+  {
+   "id": "ai16_a6ccd55f",
+   "category": "math",
+   "title_rw": "Inyigisho y'Alujebura",
+   "title_en": "Algebraic Equations",
+   "summary_rw": "Alujebura ni igice cy'imibare gikoresha inyuguti kugira ngo zihagararire imibare itazwi mu muringanyize. Ingero z'imibare n'inyuguti zigizwe n'ibimenyetso n'ingana zerekana uburinganire bw'ibice bibiri. Gukemura izi ngero bisobanura gushaka agaciro k'inyuguti zitazwi kugira ngo urugero rube ruri ukuri.",
+   "summary_en": "Algebra is a branch of mathematics that uses letters to represent unknown numbers in equations. Algebraic equations consist of expressions and an equals sign showing that two amounts are equal. Solving these equations typically involves finding the value of the unknown letter that makes the equation true.",
+   "keywords": [
+    "alujebura",
+    "algebra",
+    "equations",
+    "inyuguti",
+    "imibare",
+    "math",
+    "mathematics"
+   ],
+   "auto": true,
+   "taught": "2026-11-10"
   }
  ]
 }
