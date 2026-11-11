@@ -1296,6 +1296,78 @@
    ],
    "auto": true,
    "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_59bf9c10_q",
+   "label_rw": "Ubuzima bw'umubyeyi mu Rwanda",
+   "label_en": "Maternal health in Rwanda",
+   "patterns_en": [
+    "What is the definition of maternal health?",
+    "What services are provided to pregnant women in Rwanda?",
+    "How are maternal mortality rates being reduced?"
+   ],
+   "patterns_rw": [
+    "Ni iki gisobanuro cy'ubuzima bw'umubyeyi?",
+    "Ni izihe serivisi zihabwa ababyeyi batwite mu Rwanda?",
+    "Ni gute ibipimo by'impfu z'ababyeyi bigabanyuka?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubuzima bw'umubyeyi bukubiyemo kwita ku mubyeyi mu gihe cy'inda, kubyara, n'nyuma yo kubyara. Mu Rwanda, gahunda zitandukanye zifasha kugabanya impfu z'ababyeyi n'iz'abana bato binyuze mu gutanga ubufasha bw'abaganga b'inzobere no korohereza ababyeyi kubona serivisi z'ubuzima.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Maternal health involves caring for a woman during pregnancy, childbirth, and the postpartum period. In Rwanda, various programs help reduce maternal and child mortality by providing skilled medical care and improving access to health services for mothers.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_128d9802_q",
+   "label_rw": "Gukurikirana imikurire y'umwana",
+   "label_en": "Child growth monitoring",
+   "patterns_en": [
+    "Why is child growth monitoring important?",
+    "When do parents take children for growth measurements?",
+    "What does growth monitoring help detect?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma Gukurikirana imikurire y'umwana ari ngombwa?",
+    "Ni ryari ababyeyi bajyana abana gupima imikurire?",
+    "Gukurikirana imikurire bifasha mu ki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gukurikirana imikurire y'umwana bifasha kumenya niba umwana ari muzima kandiakura neza. Ababyeyi bajyana abana ku kigo Nderabuzima buri kwezi ngo bapimwe ibiro n'uburebure. Ibyo bifasha kuvumbura hakiri kare ibibazo by'imirire mibi cyangwa indwara zitandukanye.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Child growth monitoring helps determine if a child is healthy and developing properly. Parents usually bring children to a health center every month to measure weight and height. This helps detect malnutrition or various illnesses early.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_542031c1_q",
+   "label_rw": "Konsa neza",
+   "label_en": "Breastfeeding",
+   "patterns_en": [
+    "When should other foods be introduced alongside breast milk?",
+    "What are the benefits of breast milk for an infant?",
+    "For how many months should a baby be exclusively breastfed?"
+   ],
+   "patterns_rw": [
+    "Ni ryiza gutangira guha umwana andi biribwa uretse amashereka?",
+    "Amashereka afasha iki umwana w'uruhinja?",
+    "Mezi angahe umwana agomba konswa gusa?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Konsa neza bisobanura kugaburira umwana w'uruhinja amashereka gusa mu mezi atandatu ya mbere y'ubuzima bwe. Amashereka aba yuzuye intungamubiri zose umwana akeneye kugira ngo akure neza. Nyuma y'amezi atandatu, umwana ashobora guhabwa andi biribwa ariko agakomeza konswa. Ibi bifasha umwana kurwanya indwara no kugira ubuzima bwiza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Breastfeeding means feeding an infant with breast milk exclusively for the first six months of life. Breast milk contains all the necessary nutrients for proper growth. After six months, complementary foods can be introduced while continuing to breastfeed. This practice helps infants fight diseases and supports healthy development.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
   }
  ],
  "knowledge": [
@@ -2358,6 +2430,66 @@
     "dowry",
     "imigenzo",
     "traditions"
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_59bf9c10",
+   "category": "health",
+   "title_rw": "Ubuzima bw'umubyeyi mu Rwanda",
+   "title_en": "Maternal health in Rwanda",
+   "summary_rw": "Ubuzima bw'umubyeyi bukubiyemo kwita ku mubyeyi mu gihe cy'inda, kubyara, n'nyuma yo kubyara. Mu Rwanda, gahunda zitandukanye zifasha kugabanya impfu z'ababyeyi n'iz'abana bato binyuze mu gutanga ubufasha bw'abaganga b'inzobere no korohereza ababyeyi kubona serivisi z'ubuzima.",
+   "summary_en": "Maternal health involves caring for a woman during pregnancy, childbirth, and the postpartum period. In Rwanda, various programs help reduce maternal and child mortality by providing skilled medical care and improving access to health services for mothers.",
+   "keywords": [
+    "ubuzima",
+    "maternal",
+    "health",
+    "umubyeyi",
+    "rwanda",
+    "pregnancy",
+    "inda",
+    "kubyara"
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_128d9802",
+   "category": "health",
+   "title_rw": "Gukurikirana imikurire y'umwana",
+   "title_en": "Child growth monitoring",
+   "summary_rw": "Gukurikirana imikurire y'umwana bifasha kumenya niba umwana ari muzima kandiakura neza. Ababyeyi bajyana abana ku kigo Nderabuzima buri kwezi ngo bapimwe ibiro n'uburebure. Ibyo bifasha kuvumbura hakiri kare ibibazo by'imirire mibi cyangwa indwara zitandukanye.",
+   "summary_en": "Child growth monitoring helps determine if a child is healthy and developing properly. Parents usually bring children to a health center every month to measure weight and height. This helps detect malnutrition or various illnesses early.",
+   "keywords": [
+    "imikurire",
+    "umwana",
+    "imirire",
+    "ubuzima",
+    "growth",
+    "child",
+    "nutrition",
+    "health"
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_542031c1",
+   "category": "health",
+   "title_rw": "Konsa neza",
+   "title_en": "Breastfeeding",
+   "summary_rw": "Konsa neza bisobanura kugaburira umwana w'uruhinja amashereka gusa mu mezi atandatu ya mbere y'ubuzima bwe. Amashereka aba yuzuye intungamubiri zose umwana akeneye kugira ngo akure neza. Nyuma y'amezi atandatu, umwana ashobora guhabwa andi biribwa ariko agakomeza konswa. Ibi bifasha umwana kurwanya indwara no kugira ubuzima bwiza.",
+   "summary_en": "Breastfeeding means feeding an infant with breast milk exclusively for the first six months of life. Breast milk contains all the necessary nutrients for proper growth. After six months, complementary foods can be introduced while continuing to breastfeed. This practice helps infants fight diseases and supports healthy development.",
+   "keywords": [
+    "amashereka",
+    "breast",
+    "milk",
+    "konsa",
+    "feeding",
+    "umwana",
+    "infant",
+    "ubuzima"
    ],
    "auto": true,
    "taught": "2026-11-11"
