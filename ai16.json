@@ -1200,6 +1200,102 @@
    ],
    "auto": true,
    "taught": "2026-11-10"
+  },
+  {
+   "id": "ai16_4c86b0bf_q",
+   "label_rw": "Ubugeni bwa Imigongo",
+   "label_en": "Imigongo Cow Dung Art",
+   "patterns_en": [
+    "Who founded the Imigongo art form?",
+    "In which region of Rwanda did Imigongo originate?",
+    "What materials are primarily used to make Imigongo art?"
+   ],
+   "patterns_rw": [
+    "Ubugeni bwa Imigongo bwatangijwe na nde?",
+    "Imigongo ikorerwa mu karere ki?",
+    "Ibikoresho fatizo mu gukora imigongo ni ibihe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imigongo ni ubugeni bwo mu Rwanda bugaragara cyane mu Karere ka Kirehe. Bwatangijwe na Prince Kakira mu kinyejana cya 18. Abagore bo mu Karere ka Gisaka nibwo bakora cyane bifashishije amase y'inka n'ibara karemano. Bakora imiterere itandukanye irimo amashusho y'ibyibonetse na geometric patterns.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Imigongo is a traditional art form from Rwanda, originating in the eastern region of Gisaka. It was founded by Prince Kakira in the 18th century. Local women create geometric patterns and designs using cow dung mixed with natural colors on wooden boards.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_e686b12a_q",
+   "label_rw": "Umwami Rwabugiri n'Ubwaguke bw'u Rwanda",
+   "label_en": "King Rwabugiri and the Expansion of Rwanda",
+   "patterns_en": [
+    "When did King Rwabugiri rule Rwanda?",
+    "Where did Rwabugiri expand the borders of Rwanda?",
+    "What was King Kigeri IV Rwabugiri's impact on Rwanda?"
+   ],
+   "patterns_rw": [
+    "Umwami Rwabugiri yayoboye u Rwanda ryari?",
+    "Ni hehe Rwabugiri yaguye imbibi z'u Rwanda?",
+    "Kigeri IV Rwabugiri yakoze iki mu mateka y'u Rwanda?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Umwami Kigeri IV Rwabugiri yayoboye u Rwanda mu kinyejana cya 19. Yatsinze ibihugu bituranyi bitandukanye. Yaguye imbibi z'u Rwanda cyane mu majyaruguru no mu burengerazuba. Yashyizeho gahunda y'ubutegetsi bwakomeje igihugu.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "King Kigeri IV Rwabugiri ruled Rwanda in the nineteenth century. He conquered several neighboring territories. He significantly expanded the borders of Rwanda to the north and west. He established administrative systems that strengthened the kingdom.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_a707b746_q",
+   "label_rw": "Amateka y'Inkiko Gacaca",
+   "label_en": "History of Gacaca Courts",
+   "patterns_en": [
+    "What were the Gacaca courts?",
+    "When did the Gacaca courts operate?",
+    "What was the legacy of the Gacaca courts?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyari Inkiko Gacaca?",
+    "Inkiko Gacaca zatangiye ryari?",
+    "Umusaruro w'Inkiko Gacaca wari uwuhe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Inkiko Gacaca ni uburyo bw'ubutabera gakondo bwifashishijwe mu Rwanda kugira ngo hacwe urubanza ku byaha bya Jenoside yakorewe Abatutsi mu 1994. Zatangiye mu mwaka wa 2002 zirangira mu 2012. Zafashije mu kwihutisha imanza, kumenya amateka y'ukuri, no guteza imbere ubumwe n'ubwiyunge mu banyarwanda.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Gacaca courts were traditional community-based tribunals used in Rwanda to try suspects of the 1994 Genocide against the Tutsi. Operating from about 2002 to 2012, they helped accelerate trials, uncover the truth about the genocide, and promote national unity and reconciliation.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_84776b1d_q",
+   "label_rw": "Ubukwe bwa Kinyarwanda",
+   "label_en": "Rwandan Wedding Traditions",
+   "patterns_en": [
+    "What is included in the engagement ceremony?",
+    "What are the stages of a Rwandan wedding?",
+    "What is the purpose of gifts and advice in a wedding?"
+   ],
+   "patterns_rw": [
+    "Ni iki kigize umuhango wo gusaba?",
+    "Ubukwe bwa Kinyarwanda bugizwe n'ibihe byiciro?",
+    "Intego y'impano n'imiburo mu bukwe ni iyihe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubukwe bwa Kinyarwanda ni umuco w'ingenzi ugizwe n'ibyiciro bitandukanye. Hariho gusaba no gukwa, aho umuryango w'umusore ujya gushaka umugeni mu muryango w'umukobwa. Hakurikiraho gusezerana imbere y'amategeko cyangwa mu idini, hanyuma hakaba n'ibirori byo kwakira abatumiwe aho abageni bahabwa impano n'imiburo y'ubuzima bw'ingo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Rwandan weddings are important cultural events consisting of several stages. There is the engagement and dowry ceremony, where the groom's family asks for the bride from her family. This is followed by civil or religious marriage, and finally a reception where the couple receives gifts and advice for married life.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
   }
  ],
  "knowledge": [
@@ -2187,6 +2283,84 @@
    ],
    "auto": true,
    "taught": "2026-11-10"
+  },
+  {
+   "id": "ai16_4c86b0bf",
+   "category": "rwanda",
+   "title_rw": "Ubugeni bwa Imigongo",
+   "title_en": "Imigongo Cow Dung Art",
+   "summary_rw": "Imigongo ni ubugeni bwo mu Rwanda bugaragara cyane mu Karere ka Kirehe. Bwatangijwe na Prince Kakira mu kinyejana cya 18. Abagore bo mu Karere ka Gisaka nibwo bakora cyane bifashishije amase y'inka n'ibara karemano. Bakora imiterere itandukanye irimo amashusho y'ibyibonetse na geometric patterns.",
+   "summary_en": "Imigongo is a traditional art form from Rwanda, originating in the eastern region of Gisaka. It was founded by Prince Kakira in the 18th century. Local women create geometric patterns and designs using cow dung mixed with natural colors on wooden boards.",
+   "keywords": [
+    "imigongo",
+    "ubugeni",
+    "art",
+    "rwanda",
+    "kakira",
+    "gisaka",
+    "kirehe"
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_e686b12a",
+   "category": "rwanda",
+   "title_rw": "Umwami Rwabugiri n'Ubwaguke bw'u Rwanda",
+   "title_en": "King Rwabugiri and the Expansion of Rwanda",
+   "summary_rw": "Umwami Kigeri IV Rwabugiri yayoboye u Rwanda mu kinyejana cya 19. Yatsinze ibihugu bituranyi bitandukanye. Yaguye imbibi z'u Rwanda cyane mu majyaruguru no mu burengerazuba. Yashyizeho gahunda y'ubutegetsi bwakomeje igihugu.",
+   "summary_en": "King Kigeri IV Rwabugiri ruled Rwanda in the nineteenth century. He conquered several neighboring territories. He significantly expanded the borders of Rwanda to the north and west. He established administrative systems that strengthened the kingdom.",
+   "keywords": [
+    "rwabugiri",
+    "u rwanda",
+    "umwami",
+    "amateka",
+    "ubwaguke",
+    "rwanda",
+    "king",
+    "history"
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_a707b746",
+   "category": "rwanda",
+   "title_rw": "Amateka y'Inkiko Gacaca",
+   "title_en": "History of Gacaca Courts",
+   "summary_rw": "Inkiko Gacaca ni uburyo bw'ubutabera gakondo bwifashishijwe mu Rwanda kugira ngo hacwe urubanza ku byaha bya Jenoside yakorewe Abatutsi mu 1994. Zatangiye mu mwaka wa 2002 zirangira mu 2012. Zafashije mu kwihutisha imanza, kumenya amateka y'ukuri, no guteza imbere ubumwe n'ubwiyunge mu banyarwanda.",
+   "summary_en": "Gacaca courts were traditional community-based tribunals used in Rwanda to try suspects of the 1994 Genocide against the Tutsi. Operating from about 2002 to 2012, they helped accelerate trials, uncover the truth about the genocide, and promote national unity and reconciliation.",
+   "keywords": [
+    "gacaca",
+    "rwanda",
+    "genoside",
+    "ubutabera",
+    "justice",
+    "reconciliation",
+    "amateka"
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_84776b1d",
+   "category": "rwanda",
+   "title_rw": "Ubukwe bwa Kinyarwanda",
+   "title_en": "Rwandan Wedding Traditions",
+   "summary_rw": "Ubukwe bwa Kinyarwanda ni umuco w'ingenzi ugizwe n'ibyiciro bitandukanye. Hariho gusaba no gukwa, aho umuryango w'umusore ujya gushaka umugeni mu muryango w'umukobwa. Hakurikiraho gusezerana imbere y'amategeko cyangwa mu idini, hanyuma hakaba n'ibirori byo kwakira abatumiwe aho abageni bahabwa impano n'imiburo y'ubuzima bw'ingo.",
+   "summary_en": "Rwandan weddings are important cultural events consisting of several stages. There is the engagement and dowry ceremony, where the groom's family asks for the bride from her family. This is followed by civil or religious marriage, and finally a reception where the couple receives gifts and advice for married life.",
+   "keywords": [
+    "ubukwe",
+    "wedding",
+    "umuco",
+    "culture",
+    "gusaba",
+    "dowry",
+    "imigenzo",
+    "traditions"
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
   }
  ]
 }
