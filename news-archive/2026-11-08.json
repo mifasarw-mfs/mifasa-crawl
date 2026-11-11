@@ -1,6 +1,6 @@
 {
  "day": "2026-11-08",
- "count": 115,
+ "count": 116,
  "articles": [
   {
    "id": "crawl_1gpkhqx",
@@ -2420,6 +2420,26 @@
    "share_id": "MN202611_wz1bkyen28"
   },
   {
+   "id": "crawl_qomwmf",
+   "title": "Afghanistan & Zimbabwe draw as only 25 wickets fall in five days - first Test scorecard",
+   "summary": "Latest scorecard from the first Test between Afghanistan and Zimbabwe in Sharjah.",
+   "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-08T00:00:00.000Z",
+   "source": "BBC Sport Africa",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Sport Africa",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4be/live/d6e973a0-d6e3-11f1-93e1-3b657b665bcf.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4be/live/d6e973a0-d6e3-11f1-93e1-3b657b665bcf.png",
+   "title_en": "Afghanistan & Zimbabwe draw as only 25 wickets fall in five days - first Test scorecard",
+   "summary_en": "Latest scorecard from the first Test between Afghanistan and Zimbabwe in Sharjah.",
+   "share_id": "MN202611_qomwmf5yh1"
+  },
+  {
    "id": "crawl_fjwk34",
    "title": "Ingendo z’indege zitari nke i Buraya zahungabanijwe n’ubwoba bw’amabombe",
    "summary": "Ubwoba bw’amabombe bwatumye haba igenzura rikomeye ry’umutekano, indege zimwe zigwa ku bibuga bitari vyitezwe, ibibuga vy’indege bimwebimwe na vyo birugara akanya gato.",
@@ -2460,5 +2480,5 @@
    "share_id": "MN202611_1ws8grn11vl"
   }
  ],
- "updated": "2026-11-09T07:33:54.345Z"
+ "updated": "2026-11-11T15:18:08.262Z"
 }
