@@ -1,6 +1,6 @@
 {
  "day": "2026-11-10",
- "count": 141,
+ "count": 142,
  "articles": [
   {
    "id": "crawl_1ywjqmp",
@@ -1214,6 +1214,36 @@
    "title_en": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
    "summary_en": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
    "share_id": "MN202611_1r0xmgcqix6"
+  },
+  {
+   "id": "crawl_o12bpw",
+   "title": "Minecraft, but WORDS are LIMITED..",
+   "summary": "Instagram: https://www.instagram.com/cashmarcoyt/ Merch: https://cashandnico.com #Minecraft #MinecraftMod #Cash #NicoAndCash",
+   "link": "https://www.youtube.com/watch?v=Dx8UfDaunyo",
+   "url": "https://www.youtube.com/watch?v=Dx8UfDaunyo",
+   "date": "2026-11-10T15:00:31.000Z",
+   "source": "YouTube Trending Kenya",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "YouTube Trending Kenya",
+    "entertainment",
+    "trending",
+    "Cash",
+    "Nico",
+    "Nico and Cash",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "Dx8UfDaunyo"
+   },
+   "type": "video",
+   "image": "https://i.ytimg.com/vi/Dx8UfDaunyo/hqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/Dx8UfDaunyo/hqdefault.jpg",
+   "title_en": "Minecraft, but WORDS are LIMITED..",
+   "summary_en": "Instagram: https://www.instagram.com/cashmarcoyt/ Merch: https://cashandnico.com #Minecraft #MinecraftMod #Cash #NicoAndCash",
+   "share_id": "MN202611_o12bpw2gj6"
   },
   {
    "id": "crawl_cy3b2f",
@@ -3086,5 +3116,5 @@
    "share_id": "MN202611_1c9cixj5fed"
   }
  ],
- "updated": "2026-11-11T08:37:43.032Z"
+ "updated": "2026-11-11T09:31:35.909Z"
 }

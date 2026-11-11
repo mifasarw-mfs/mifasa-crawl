@@ -1,7 +1,70 @@
 {
  "day": "2026-11-11",
- "count": 36,
+ "count": 39,
  "articles": [
+  {
+   "id": "crawl_sz9iap",
+   "title": "FRN yafunze inzira zafashaga FARDC kubona intwaro",
+   "summary": "Ingabo za Repubulika iharanira Demokarasi ya Kongo - FARDC zifatanyije n’ingabo z’Abarundi, Wazalendo, abacanshuro ndetse na FDLR zakajije ibitero, bituma umutwe wa FRN bahanganye, mu kwirwanaho, (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/frn-yafunze-inzira-zafashaga-fardc-kubona-intwaro",
+   "url": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/frn-yafunze-inzira-zafashaga-fardc-kubona-intwaro",
+   "date": "2026-11-11T09:18:20.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu mahanga",
+    "MobileBigStory",
+    "Mediatrice Uwingabire"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/frn.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/frn.jpg",
+   "title_rw": "FRN yafunze inzira zafashaga FARDC kubona intwaro",
+   "summary_rw": "Ingabo za Repubulika iharanira Demokarasi ya Kongo - FARDC zifatanyije n’ingabo z’Abarundi, Wazalendo, abacanshuro ndetse na FDLR zakajije ibitero, bituma umutwe wa FRN bahanganye, mu kwirwanaho, (…)",
+   "share_id": "MN202611_sz9iapkzcv"
+  },
+  {
+   "id": "crawl_1c6wzbv",
+   "title": "Man Utd open talks with Pochettino about replacing Carrick",
+   "summary": "Manchester United open talks with Mauricio Pochettino about replacing Michael Carrick, who is expected to lose his job.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T09:11:28.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6766/live/d5551640-ddad-11f1-81e1-cf7317aa5114.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6766/live/d5551640-ddad-11f1-81e1-cf7317aa5114.jpg",
+   "title_en": "Man Utd open talks with Pochettino about replacing Carrick",
+   "summary_en": "Manchester United open talks with Mauricio Pochettino about replacing Michael Carrick, who is expected to lose his job.",
+   "share_id": "MN202611_1c6wzbvowqh"
+  },
+  {
+   "id": "crawl_1ymxa9s",
+   "title": "Successive governments 'asleep at the wheel' over social care, says head of review",
+   "summary": "Baroness Casey criticises variability of services and fees charged to self-funders in England.",
+   "link": "https://www.bbc.co.uk/news/articles/c9143zxyyvndo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c9143zxyyvndo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T09:08:48.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63fd/live/706e0a20-dda8-11f1-adb0-1dc1c3f8d17c.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63fd/live/706e0a20-dda8-11f1-adb0-1dc1c3f8d17c.png",
+   "title_en": "Successive governments 'asleep at the wheel' over social care, says head of review",
+   "summary_en": "Baroness Casey criticises variability of services and fees charged to self-funders in England.",
+   "share_id": "MN202611_1ymxa9sq6qm"
+  },
   {
    "id": "crawl_15apsfq",
    "title": "#diamondplatnumz #davido #nigeria #chiomadavido #zuchu",
@@ -801,5 +864,5 @@
    "share_id": "MN202611_1gy3w30wsju"
   }
  ],
- "updated": "2026-11-11T08:37:43.028Z"
+ "updated": "2026-11-11T09:31:35.905Z"
 }
