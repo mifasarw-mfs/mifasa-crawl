@@ -14,7 +14,7 @@ on:
     - cron: "7 * * * *"
   workflow_dispatch: {}
   push:
-    paths: ["crawl-feeds.json", "crawl-topics.json", "crawl.js", "crawl-knowledge.js", "crawl-videos.js", "notify-post.js", "make-sitemap.js", "make-story-pages.js", ".github/workflows/crawl.yml"]
+    paths: ["crawl-feeds.json", "crawl-topics.json", "crawl.js", "crawl-knowledge.js", "crawl-videos.js", "notify-post.js", "make-sitemap.js", "make-story-pages.js", "make-feed.js", ".github/workflows/crawl.yml"]
 permissions:
   contents: write
 concurrency:
@@ -53,13 +53,16 @@ jobs:
       - name: Make sitemap.xml (one URL per story)
         continue-on-error: true
         run: node make-sitemap.js
+      - name: Make feed.xml (RSS, newest 60 stories)
+        continue-on-error: true
+        run: node make-feed.js
       - name: Keep the new files in the repo
         id: keep
         run: |
           git config user.name "mifasa-crawler"
           git config user.email "actions@users.noreply.github.com"
           git add crawl-news.json crawl-words.json crawl-knowledge.json
-          git add sitemap.xml 2>/dev/null || true
+          git add sitemap.xml feed.xml 2>/dev/null || true
           git add news-archive 2>/dev/null || true
           git add s 2>/dev/null || true
           git add videos 2>/dev/null || true
@@ -79,6 +82,7 @@ jobs:
         run: |
           args=(-F "crawl-news.json=@crawl-news.json" -F "crawl-words.json=@crawl-words.json" -F "crawl-knowledge.json=@crawl-knowledge.json")
           [ -f sitemap.xml ] && args+=(-F "sitemap.xml=@sitemap.xml")
+          [ -f feed.xml ] && args+=(-F "feed.xml=@feed.xml")
           if [ -d news-archive ]; then
             if [ "$EVENT" = "schedule" ]; then
               files=$(git show --name-only --pretty=format: HEAD -- news-archive | grep -v '^$' || true)      # only the archive files this run changed
