@@ -1,6 +1,6 @@
 {
  "day": "2026-11-10",
- "count": 139,
+ "count": 141,
  "articles": [
   {
    "id": "crawl_1ywjqmp",
@@ -103,6 +103,26 @@
    "share_id": "MN202611_l3nfgk0qxu"
   },
   {
+   "id": "crawl_mpy3mb",
+   "title": "Why does Australia want Brits to swap Sydney for the outback?",
+   "summary": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions.",
+   "link": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T21:17:00.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0fb/live/0de51890-dbfe-11f1-bb7b-19f7beb970a6.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0fb/live/0de51890-dbfe-11f1-bb7b-19f7beb970a6.jpg",
+   "title_en": "Why does Australia want Brits to swap Sydney for the outback?",
+   "summary_en": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions.",
+   "share_id": "MN202611_mpy3mbr035"
+  },
+  {
    "id": "crawl_1bl7qqq",
    "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
    "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
@@ -161,6 +181,26 @@
    "title_en": "Spain's king and queen attend memorial service for rail crash victims",
    "summary_en": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
    "share_id": "MN202611_161btng4q4a"
+  },
+  {
+   "id": "crawl_ef5g9v",
+   "title": "Watch: E-bike battery explodes into massive fireball inside Oregon home",
+   "summary": "Surveillance footage from inside the home shows a mother and son noticing smoke coming from the battery before it suddenly bursts into flames.",
+   "link": "https://www.bbc.co.uk/news/videos/cr0qkqqkn3j7o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cr0qkqqkn3j7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T20:31:17.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3af/live/ccebdc00-dd44-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3af/live/ccebdc00-dd44-11f1-b441-2b33b063138f.jpg",
+   "title_en": "Watch: E-bike battery explodes into massive fireball inside Oregon home",
+   "summary_en": "Surveillance footage from inside the home shows a mother and son noticing smoke coming from the battery before it suddenly bursts into flames.",
+   "share_id": "MN202611_ef5g9v23cx"
   },
   {
    "id": "crawl_1mkx3fb",
@@ -3046,5 +3086,5 @@
    "share_id": "MN202611_1c9cixj5fed"
   }
  ],
- "updated": "2026-11-11T07:44:00.830Z"
+ "updated": "2026-11-11T08:37:43.032Z"
 }
