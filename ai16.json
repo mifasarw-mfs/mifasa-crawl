@@ -1392,6 +1392,150 @@
    ],
    "auto": true,
    "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_67a62f27_q",
+   "label_rw": "Uburyo bwo kwiga n'ubumenyi bw'umuntu kuri we ubwe",
+   "label_en": "Learning styles and self-awareness",
+   "patterns_en": [
+    "What are learning styles?",
+    "How does self-awareness help with studying?",
+    "How can a student identify their learning style?"
+   ],
+   "patterns_rw": [
+    "Uburyo bwo kwiga ni iki?",
+    "Ese ubumenyi bw'umuntu kuri we bufasha gute mu kwiga?",
+    "Ni gute umunyeshuri amenya uburyo bwe bwo kwiga?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubumenyi bw'umuntu kuri we ubwe bufasha umunyeshuri kumenya uburyo bwe bwo kwiga. Abantu biga mu buryo butandukanye, nko kwiga binyuze mu majwi, mu byo bareba, cyangwa mu bikorwa. Gusobanukirwa ibi bifasha umunyeshuri guhitamo uburyo bumufasha gutsinda mu ishuri.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Self-awareness helps a learner understand their preferred learning style. People usually learn differently, such as through auditory, visual, or kinesthetic methods. Understanding this helps students choose strategies that typically improve academic success.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_37aa6d05_q",
+   "label_rw": "Ubugeni bwo kuvugira imbere y'abantu",
+   "label_en": "Public speaking and presentation skills",
+   "patterns_en": [
+    "What causes anxiety during public speaking?",
+    "What is the best way to prepare a presentation?",
+    "What is the role of body language in giving a speech?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma umuntu agira ubwoba bwo kuvugira imbere y'abantu?",
+    "Ni ubuhe buryo bwiza bwo gutegura ikiganiro?",
+    "Uruhare rw'ururimi rw'umubiri ni uruhe mu gutanga ikiganiro?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubugeni bwo kuvugira imbere y'abantu bufasha umuntu gutangaza ubutumwa bwiza kandi bwumvikana. Bugaragarira mu buryo umuvugizi akoresha ijwi, ururimi rw'umubiri, no gutegura neza ibyo agiye kuvuga ngo agere ku ntego yifuza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Public speaking skills help a person deliver clear and engaging messages. This involves tone of voice, body language, and proper preparation to successfully reach the target audience.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_ee755ee5_q",
+   "label_rw": "Uburyo bwo gufata mu mutwe",
+   "label_en": "Memory techniques and mnemonic devices",
+   "patterns_en": [
+    "What are memory techniques?",
+    "How can mnemonic devices improve learning?",
+    "What are common ways to remember information?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma twibuka amakuru vuba?",
+    "Ni ubuhe buryo bwo gufata mu mutwe bumenyerewe?",
+    "Uburyo bwo kwibuka bufasha iki abanyeshuri?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Uburyo bwo gufata mu mutwe bufasha ubwonko kwibuka amakuru vuba. Hari uburyo bwinshi nka gahunda y'ibimenyetso, gukoresha amagambo ahinnye, no kwibuka ibintu bifatika. Ibi byongera ubushobozi bwo kwiga no gutsinda mu ishuri.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Memory techniques help the brain retain and recall information quickly. Common methods include acronyms, visualization, and association. These strategies generally improve learning efficiency and academic performance.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_d5b96be8_q",
+   "label_rw": "Akamaro ko kumenya gukoresha ikoranabuhanga mu kwiga",
+   "label_en": "The role of digital literacy in modern learning",
+   "patterns_en": [
+    "Why is digital literacy important in modern education?",
+    "How does technology help students collaborate globally?",
+    "In what ways do students access reliable information online?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma kumenya gukoresha ikoranabuhanga ari ingenzi mu kwiga?",
+    "Ese ikoranabuhanga rifasha ryari abanyeshuri mu kwiga kwabo?",
+    "Ni gute abanyeshuri babona amakuru yizewe binyuze mu ikoranabuhanga?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kumenya gukoresha ikoranabuhanga bifasha abanyeshuri kubona amakuru yizewe vuba. Bituma bashobora kwiga banyuze kuri murandasi no gukorana n'abandi bari ahandi. Ibi byongera ubumenyi n'ubushobozi bwabo mu isi y'ubu.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Digital literacy helps students access reliable information quickly. It enables them to learn online and collaborate with peers globally. This builds essential skills for the modern world.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_71820476_q",
+   "label_rw": "Kwifatanya n'abandi mu matsinda yo kwiga",
+   "label_en": "Peer learning and study groups",
+   "patterns_en": [
+    "What are the benefits of peer learning?",
+    "How do study groups help students?",
+    "How can you form a good study group?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyiza cyo kwifatanya n'abandi mu kwiga?",
+    "Amatsinda yo kwiga afasha ate abanyeshuri?",
+    "Ni gute twashyiraho isinda ryiza ryo kwiga?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kwifatanya n'abandi mu matsinda yo kwiga bifasha abanyeshuri gusobanukirwa neza amasomo. Iyo abanyeshuri bungurana ibitekerezo, bashobora gutsinda neza ibizamini kuko buri wese yigira ku bandi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Peer learning and study groups help students understand their subjects better. When students share ideas, they usually perform better in exams because everyone learns from each other.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_4e6735fb_q",
+   "label_rw": "Ubuhanga bwo gushakisha amakuru",
+   "label_en": "Research skills and evaluating sources",
+   "patterns_en": [
+    "How can you find reliable information?",
+    "Why is it important to evaluate information sources?",
+    "What indicates that a source of information is high quality?"
+   ],
+   "patterns_rw": [
+    "Ni gute washakisha amakuru yizewe?",
+    "Kuki ari ngombwa gusuzuma isoko y'amakuru?",
+    "Ni iki cyerekana ko isoko y'amakuru ifite ireme?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubuhanga bwo gushakisha amakuru bufasha abanyeshuri kubona amakuru yizewe. Ni ngombwa gusuzuma isoko y'amakuru kugira ngo umenye niba ari ukuri kandi bifite ireme.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Research skills help students find reliable information. It is important to evaluate the source of information to ensure that it is accurate and of high quality.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
   }
  ],
  "knowledge": [
@@ -2533,6 +2677,126 @@
     "kingdom",
     "history",
     "monarchy"
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_67a62f27",
+   "category": "education",
+   "title_rw": "Uburyo bwo kwiga n'ubumenyi bw'umuntu kuri we ubwe",
+   "title_en": "Learning styles and self-awareness",
+   "summary_rw": "Ubumenyi bw'umuntu kuri we ubwe bufasha umunyeshuri kumenya uburyo bwe bwo kwiga. Abantu biga mu buryo butandukanye, nko kwiga binyuze mu majwi, mu byo bareba, cyangwa mu bikorwa. Gusobanukirwa ibi bifasha umunyeshuri guhitamo uburyo bumufasha gutsinda mu ishuri.",
+   "summary_en": "Self-awareness helps a learner understand their preferred learning style. People usually learn differently, such as through auditory, visual, or kinesthetic methods. Understanding this helps students choose strategies that typically improve academic success.",
+   "keywords": [
+    "kwiga",
+    "ubumenyi",
+    "uburyo",
+    "ishuri",
+    "learning",
+    "styles",
+    "awareness",
+    "students"
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_37aa6d05",
+   "category": "education",
+   "title_rw": "Ubugeni bwo kuvugira imbere y'abantu",
+   "title_en": "Public speaking and presentation skills",
+   "summary_rw": "Ubugeni bwo kuvugira imbere y'abantu bufasha umuntu gutangaza ubutumwa bwiza kandi bwumvikana. Bugaragarira mu buryo umuvugizi akoresha ijwi, ururimi rw'umubiri, no gutegura neza ibyo agiye kuvuga ngo agere ku ntego yifuza.",
+   "summary_en": "Public speaking skills help a person deliver clear and engaging messages. This involves tone of voice, body language, and proper preparation to successfully reach the target audience.",
+   "keywords": [
+    "ubugeni",
+    "kuvugira",
+    "imbere",
+    "abantu",
+    "public",
+    "speaking",
+    "skills",
+    "presentation"
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_ee755ee5",
+   "category": "education",
+   "title_rw": "Uburyo bwo gufata mu mutwe",
+   "title_en": "Memory techniques and mnemonic devices",
+   "summary_rw": "Uburyo bwo gufata mu mutwe bufasha ubwonko kwibuka amakuru vuba. Hari uburyo bwinshi nka gahunda y'ibimenyetso, gukoresha amagambo ahinnye, no kwibuka ibintu bifatika. Ibi byongera ubushobozi bwo kwiga no gutsinda mu ishuri.",
+   "summary_en": "Memory techniques help the brain retain and recall information quickly. Common methods include acronyms, visualization, and association. These strategies generally improve learning efficiency and academic performance.",
+   "keywords": [
+    "kwibuka",
+    "memory",
+    "ubwenge",
+    "learning",
+    "kwiga",
+    "techniques",
+    "uburyo",
+    "brain"
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_d5b96be8",
+   "category": "education",
+   "title_rw": "Akamaro ko kumenya gukoresha ikoranabuhanga mu kwiga",
+   "title_en": "The role of digital literacy in modern learning",
+   "summary_rw": "Kumenya gukoresha ikoranabuhanga bifasha abanyeshuri kubona amakuru yizewe vuba. Bituma bashobora kwiga banyuze kuri murandasi no gukorana n'abandi bari ahandi. Ibi byongera ubumenyi n'ubushobozi bwabo mu isi y'ubu.",
+   "summary_en": "Digital literacy helps students access reliable information quickly. It enables them to learn online and collaborate with peers globally. This builds essential skills for the modern world.",
+   "keywords": [
+    "ikoranabuhanga",
+    "digital",
+    "kwiga",
+    "learning",
+    "ubumenyi",
+    "skills",
+    "murandasi",
+    "internet"
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_71820476",
+   "category": "education",
+   "title_rw": "Kwifatanya n'abandi mu matsinda yo kwiga",
+   "title_en": "Peer learning and study groups",
+   "summary_rw": "Kwifatanya n'abandi mu matsinda yo kwiga bifasha abanyeshuri gusobanukirwa neza amasomo. Iyo abanyeshuri bungurana ibitekerezo, bashobora gutsinda neza ibizamini kuko buri wese yigira ku bandi.",
+   "summary_en": "Peer learning and study groups help students understand their subjects better. When students share ideas, they usually perform better in exams because everyone learns from each other.",
+   "keywords": [
+    "amatsinda",
+    "kwiga",
+    "uburezi",
+    "abanyeshuri",
+    "study",
+    "groups",
+    "learning",
+    "education"
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_4e6735fb",
+   "category": "education",
+   "title_rw": "Ubuhanga bwo gushakisha amakuru",
+   "title_en": "Research skills and evaluating sources",
+   "summary_rw": "Ubuhanga bwo gushakisha amakuru bufasha abanyeshuri kubona amakuru yizewe. Ni ngombwa gusuzuma isoko y'amakuru kugira ngo umenye niba ari ukuri kandi bifite ireme.",
+   "summary_en": "Research skills help students find reliable information. It is important to evaluate the source of information to ensure that it is accurate and of high quality.",
+   "keywords": [
+    "amakuru",
+    "ubushakashatsi",
+    "isoko",
+    "ubumenyi",
+    "research",
+    "sources",
+    "information",
+    "evaluation"
    ],
    "auto": true,
    "taught": "2026-11-11"
