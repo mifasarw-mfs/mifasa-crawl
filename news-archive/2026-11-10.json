@@ -1,6 +1,6 @@
 {
  "day": "2026-11-10",
- "count": 137,
+ "count": 138,
  "articles": [
   {
    "id": "crawl_1ywjqmp",
@@ -201,6 +201,26 @@
    "title_en": "Tech Life",
    "summary_en": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
    "share_id": "MN202611_3zt4qpm99b"
+  },
+  {
+   "id": "crawl_uzsehb",
+   "title": "US Army soldier suspected of spying for Russia arrested in UK",
+   "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+   "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T20:20:04.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c66f/live/939c6190-dd44-11f1-9ac0-6b8f7fc58221.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c66f/live/939c6190-dd44-11f1-9ac0-6b8f7fc58221.png",
+   "title_en": "US Army soldier suspected of spying for Russia arrested in UK",
+   "summary_en": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+   "share_id": "MN202611_uzsehblay5"
   },
   {
    "id": "crawl_oqhtls",
@@ -3006,5 +3026,5 @@
    "share_id": "MN202611_1c9cixj5fed"
   }
  ],
- "updated": "2026-11-10T23:30:26.461Z"
+ "updated": "2026-11-11T01:54:57.644Z"
 }
