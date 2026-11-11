@@ -6,7 +6,7 @@
    Only writes a page when it is missing or its content changed (so no useless commits/uploads).
    Newest stories first; at most STORY_PAGES_MAX pages written per run (default 400) - the backlog is finished in the next runs. */
 const fs = require("fs");
-const SITE = "https://mifasarw.neocities.org", DIR = "s", DEF_IMG = SITE + "/favicon.png", MAX = Number(process.env.STORY_PAGES_MAX || 400);
+const SITE = "https://mifasarw.neocities.org", DIR = "s", DEF_IMG = SITE + "/og-default.jpg", MAX = Number(process.env.STORY_PAGES_MAX || 400);
 const esc = s => String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 const text = s => String(s || "").replace(/<[^>]*>/g, " ").replace(/&nbsp;/g, " ").replace(/\s+/g, " ").trim();
 const clip = (s, n) => { s = text(s); return s.length > n ? s.slice(0, n - 1).replace(/\s+\S*$/, "") + "…" : s; };
