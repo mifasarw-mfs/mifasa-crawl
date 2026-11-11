@@ -1,7 +1,73 @@
 {
  "day": "2026-11-11",
- "count": 102,
+ "count": 105,
  "articles": [
+  {
+   "id": "crawl_ztwb93",
+   "title": "Legally restrict heading a football in training, says MP",
+   "summary": "An MP is calling for legal safeguards to limit repetitive heading in football training, amid growing concerns about the risk of brain injury.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm1ewpjyy3dzo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm1ewpjyy3dzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T17:38:18.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2766/live/008813c0-ddf5-11f1-8445-15eb55286f71.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2766/live/008813c0-ddf5-11f1-8445-15eb55286f71.jpg",
+   "title_en": "Legally restrict heading a football in training, says MP",
+   "summary_en": "An MP is calling for legal safeguards to limit repetitive heading in football training, amid growing concerns about the risk of brain injury.",
+   "share_id": "MN202611_ztwb93o8np"
+  },
+  {
+   "id": "crawl_1mbouhj",
+   "title": "O'Shea proud of how team-mates handled Israel games",
+   "summary": "Republic of Ireland defender Dara O'Shea is \"proud\" of how he and his team-mates came through a trying October international window.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwg7l9nd0p1zo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwg7l9nd0p1zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T17:33:37.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bd9/live/3d547cc0-ddf1-11f1-ba1a-f14c9b2af876.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bd9/live/3d547cc0-ddf1-11f1-ba1a-f14c9b2af876.jpg",
+   "title_en": "O'Shea proud of how team-mates handled Israel games",
+   "summary_en": "Republic of Ireland defender Dara O'Shea is \"proud\" of how he and his team-mates came through a trying October international window.",
+   "share_id": "MN202611_1mbouhjgrw5"
+  },
+  {
+   "id": "crawl_1f0mdiq",
+   "title": "‪@israelmbonyi aragarutse muri #genzcomedyshowKigali Kuwa Kane 12/11/2026, 6PM",
+   "summary": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+   "link": "https://www.youtube.com/shorts/vFeIdZy_u6I",
+   "url": "https://www.youtube.com/shorts/vFeIdZy_u6I",
+   "date": "2026-11-11T17:00:00.000Z",
+   "source": "Gen-Z Comedy Show YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Gen-Z Comedy Show YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "vFeIdZy_u6I"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/vFeIdZy_u6I/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/vFeIdZy_u6I/hqdefault.jpg",
+   "title_rw": "‪@israelmbonyi aragarutse muri #genzcomedyshowKigali Kuwa Kane 12/11/2026, 6PM",
+   "summary_rw": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+   "share_id": "MN202611_1f0mdiqy8pc"
+  },
   {
    "id": "crawl_1e1zskb",
    "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
@@ -2243,5 +2309,5 @@
    "share_id": "MN202611_1gy3w30wsju"
   }
  ],
- "updated": "2026-11-11T17:00:19.743Z"
+ "updated": "2026-11-11T17:51:35.870Z"
 }

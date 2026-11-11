@@ -1,5 +1,71 @@
 [
  {
+  "id": "crawl_ztwb93",
+  "title": "Legally restrict heading a football in training, says MP",
+  "summary": "An MP is calling for legal safeguards to limit repetitive heading in football training, amid growing concerns about the risk of brain injury.",
+  "link": "https://www.bbc.co.uk/sport/football/articles/cm1ewpjyy3dzo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cm1ewpjyy3dzo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-11T17:38:18.000Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2766/live/008813c0-ddf5-11f1-8445-15eb55286f71.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2766/live/008813c0-ddf5-11f1-8445-15eb55286f71.jpg",
+  "title_en": "Legally restrict heading a football in training, says MP",
+  "summary_en": "An MP is calling for legal safeguards to limit repetitive heading in football training, amid growing concerns about the risk of brain injury.",
+  "share_id": "MN202611_ztwb93o8np"
+ },
+ {
+  "id": "crawl_1mbouhj",
+  "title": "O'Shea proud of how team-mates handled Israel games",
+  "summary": "Republic of Ireland defender Dara O'Shea is \"proud\" of how he and his team-mates came through a trying October international window.",
+  "link": "https://www.bbc.co.uk/sport/football/articles/cwg7l9nd0p1zo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cwg7l9nd0p1zo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-11T17:33:37.000Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bd9/live/3d547cc0-ddf1-11f1-ba1a-f14c9b2af876.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bd9/live/3d547cc0-ddf1-11f1-ba1a-f14c9b2af876.jpg",
+  "title_en": "O'Shea proud of how team-mates handled Israel games",
+  "summary_en": "Republic of Ireland defender Dara O'Shea is \"proud\" of how he and his team-mates came through a trying October international window.",
+  "share_id": "MN202611_1mbouhjgrw5"
+ },
+ {
+  "id": "crawl_1f0mdiq",
+  "title": "‪@israelmbonyi aragarutse muri #genzcomedyshowKigali Kuwa Kane 12/11/2026, 6PM",
+  "summary": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+  "link": "https://www.youtube.com/shorts/vFeIdZy_u6I",
+  "url": "https://www.youtube.com/shorts/vFeIdZy_u6I",
+  "date": "2026-11-11T17:00:00.000Z",
+  "source": "Gen-Z Comedy Show YouTube",
+  "category": "entertainment",
+  "lang": "rw",
+  "keywords": [
+   "Gen-Z Comedy Show YouTube",
+   "entertainment",
+   "video"
+  ],
+  "video": {
+   "provider": "youtube",
+   "id": "vFeIdZy_u6I"
+  },
+  "type": "video",
+  "image": "https://i3.ytimg.com/vi/vFeIdZy_u6I/hqdefault.jpg",
+  "thumbnail": "https://i3.ytimg.com/vi/vFeIdZy_u6I/hqdefault.jpg",
+  "title_rw": "‪@israelmbonyi aragarutse muri #genzcomedyshowKigali Kuwa Kane 12/11/2026, 6PM",
+  "summary_rw": "Gen-z Comedy Show Iba Kabiri mu kwezi, IBERA CAMP KIGALI Gen-z Comedy show Hosts Rwandan Comedians twice a month in Kigali. Follow us on Instagram for Weekly Show updates https://instagram.com/gen_zcomedy_show",
+  "share_id": "MN202611_1f0mdiqy8pc"
+ },
+ {
   "id": "crawl_1e1zskb",
   "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
   "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
@@ -99,8 +165,8 @@
    "MobileBigStory",
    "Oswald Niyonzima"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-11_at_12.41_44.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-11_at_12.41_44.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/insengero-5.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/insengero-5.jpg",
   "title_rw": "Mwisaba ibintu bimwe abantu batandukanye mu bumenyi n'ubushobozi-Umudepite ku bisabwa insengero",
   "summary_rw": "Abadepite n’abasenateri basabye Urwego rw’Igihugu rw’Imiyoborere, RGB, kongera gutekereza ku byo isaba amadini n’amatorero kugira ngo ashobore gukomeza gukora, kuko ngo usanga basabwa ibintu bimwe (…)",
   "share_id": "MN202611_1tzr2ly1slw"
@@ -690,8 +756,8 @@
  },
  {
   "id": "crawl_1bd6o91",
-  "title": "Six thousand Italian schools hit by threats in suspected bomb hoax",
-  "summary": "More than 700 schools in Scotland and Northern Ireland also received hoax bomb threats. It is unclear whether the incidents are connected.",
+  "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+  "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked.",
   "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-11T12:30:29.000Z",
@@ -704,8 +770,8 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c9/live/fc093bd0-ddc7-11f1-9053-236ccb99630c.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c9/live/fc093bd0-ddc7-11f1-9053-236ccb99630c.jpg",
-  "title_en": "Six thousand Italian schools hit by threats in suspected bomb hoax",
-  "summary_en": "More than 700 schools in Scotland and Northern Ireland also received hoax bomb threats. It is unclear whether the incidents are connected.",
+  "title_en": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+  "summary_en": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked.",
   "share_id": "MN202611_1bd6o91zkpv"
  },
  {
@@ -17053,65 +17119,5 @@
   "title_rw": "Umujyi wa Kigali ugiye gufunga inyubako 10 zitubahiriza amabwiriza yo kwirinda inkongi",
   "summary_rw": "Ubuyobozi bw’Umujyi wa Kigali bwatangaje ko inyubako n’ibikorwa by’ubucuruzi 10 bitujuje ibisabwa mu kwirinda inkongi z’umuriro bigiye gufungwa by’agateganyo, mu rwego rwo kurengera ubuzima (…)",
   "share_id": "MN202611_14ah0zjfrrx"
- },
- {
-  "id": "crawl_1eak2f6",
-  "title": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
-  "summary": "A little-known investment group has made a bid to buy the business.",
-  "link": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-05T09:46:32.000Z",
-  "source": "BBC Business",
-  "category": "business",
-  "lang": "en",
-  "keywords": [
-   "BBC Business",
-   "business"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99f8/live/fbd28350-d904-11f1-a701-fddedf244c16.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99f8/live/fbd28350-d904-11f1-a701-fddedf244c16.jpg",
-  "title_en": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
-  "summary_en": "A little-known investment group has made a bid to buy the business.",
-  "share_id": "MN202611_1eak2f6cyw0"
- },
- {
-  "id": "crawl_iaxnf2",
-  "title": "Brésil: Itangwa ry'ikarata zitukura 53 mu rukino rumwe rw'umupira w'amaguru ryaciye umuhigo kw'isi",
-  "summary": "Muri urwo rukino rw'igice ca kabiri gishira ica nyuma rwahuje, ku wa Mungu, imirwi Uberlandia na Mamore, abakinyi 43 hamwe n'abakozi umunani b'imirwi bo mu gisata co kumenyereza barirukanywe mu kibuga.",
-  "link": "https://www.bbc.com/gahuza/articles/c98rz646ld1ko?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.com/gahuza/articles/c98rz646ld1ko?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-05T09:45:17.000Z",
-  "source": "BBC Gahuza",
-  "category": "news",
-  "lang": "rw",
-  "keywords": [
-   "BBC Gahuza",
-   "news"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2ba3/live/0108aa50-d8a3-11f1-9765-23c244b34f98.png",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2ba3/live/0108aa50-d8a3-11f1-9765-23c244b34f98.png",
-  "title_rw": "Brésil: Itangwa ry'ikarata zitukura 53 mu rukino rumwe rw'umupira w'amaguru ryaciye umuhigo kw'isi",
-  "summary_rw": "Muri urwo rukino rw'igice ca kabiri gishira ica nyuma rwahuje, ku wa Mungu, imirwi Uberlandia na Mamore, abakinyi 43 hamwe n'abakozi umunani b'imirwi bo mu gisata co kumenyereza barirukanywe mu kibuga.",
-  "share_id": "MN202611_iaxnf2qjvw"
- },
- {
-  "id": "crawl_1p0kejb",
-  "title": "Gérard Buscher wari DTN mu Rwanda yabonye akazi muri Tunisie",
-  "summary": "Gérard Buscher wahoze ari Umuyobozi wa Tekiniki mu Ishyirahamwe ry’Umupira w’Amaguru mu Rwanda, FERWAFA, [DTN], yagizwe umuyobozi wa Tekiniki [Directeur Technique] muri AS Marsa yo muri Shampiyona …",
-  "link": "https://umuseke.rw/gerard-buscher-wari-dtn-mu-rwanda-yabonye-akazi-muri-tunisie/",
-  "url": "https://umuseke.rw/gerard-buscher-wari-dtn-mu-rwanda-yabonye-akazi-muri-tunisie/",
-  "date": "2026-11-05T09:13:28.000Z",
-  "source": "Umuseke",
-  "category": "news",
-  "lang": "rw",
-  "keywords": [
-   "Umuseke",
-   "news"
-  ],
-  "image": "https://umuseke.rw/wp-content/uploads/2026/11/Gerard-Buscher.jpg",
-  "thumbnail": "https://umuseke.rw/wp-content/uploads/2026/11/Gerard-Buscher.jpg",
-  "title_rw": "Gérard Buscher wari DTN mu Rwanda yabonye akazi muri Tunisie",
-  "summary_rw": "Gérard Buscher wahoze ari Umuyobozi wa Tekiniki mu Ishyirahamwe ry’Umupira w’Amaguru mu Rwanda, FERWAFA, [DTN], yagizwe umuyobozi wa Tekiniki [Directeur Technique] muri AS Marsa yo muri Shampiyona …",
-  "share_id": "MN202611_1p0kejb67xx"
  }
 ]
