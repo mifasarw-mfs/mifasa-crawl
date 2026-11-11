@@ -1,6 +1,6 @@
 {
  "day": "2026-11-10",
- "count": 138,
+ "count": 139,
  "articles": [
   {
    "id": "crawl_1ywjqmp",
@@ -21,6 +21,26 @@
    "title_en": "Arsenal eye Real's Endrick - Wednesday's gossip",
    "summary_en": "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clubs interested in Croatian striker Dion Beljo, plus more.",
    "share_id": "MN202611_1ywjqmpbo1b"
+  },
+  {
+   "id": "crawl_1ug5mls",
+   "title": "Why Walliams' unprecedented legal battle to stay anonymous failed",
+   "summary": "The 55-year-old was named in reports by ITV News and the Guardian on Tuesday after losing a court bid to stop allegations being made public.",
+   "link": "https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T22:41:01.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8079/live/b95c6cb0-dd6a-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8079/live/b95c6cb0-dd6a-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "Why Walliams' unprecedented legal battle to stay anonymous failed",
+   "summary_en": "The 55-year-old was named in reports by ITV News and the Guardian on Tuesday after losing a court bid to stop allegations being made public.",
+   "share_id": "MN202611_1ug5mlsyj2m"
   },
   {
    "id": "crawl_cn2qjs",
@@ -3026,5 +3046,5 @@
    "share_id": "MN202611_1c9cixj5fed"
   }
  ],
- "updated": "2026-11-11T01:54:57.644Z"
+ "updated": "2026-11-11T07:44:00.830Z"
 }
