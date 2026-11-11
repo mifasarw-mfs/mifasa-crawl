@@ -1368,6 +1368,30 @@
    ],
    "auto": true,
    "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_5c9d07d3_q",
+   "label_rw": "Ubwami bw'u Rwanda",
+   "label_en": "Kingdom of Rwanda",
+   "patterns_en": [
+    "Who ruled the Kingdom of Rwanda?",
+    "When did Rwanda gain its independence?",
+    "Where was the Kingdom of Rwanda located?"
+   ],
+   "patterns_rw": [
+    "Ubwami bw'u Rwanda bwategekwaga na nde?",
+    "Ni ryaje Ubwami bw'u Rwanda bwabonye ubwigenge?",
+    "Ubwami bw'u Rwanda bwari buherereye he?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubwami bw'u Rwanda bwari ubwami bwa kera mu karere k'ibiyaga bigari by'Afurika. Buyobowe n'Umwami witwa Umwami w'u Rwanda, bwari bufite ubutegetsi bukomeye n'inzego z'imiyoborere. Ubwo bwami bwaje guhinduka ubukoloni bw'Abadage n'Ababiligi mbere y'uko bubona ubwigenge mu mwaka w'1962.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The Kingdom of Rwanda was a historic monarchy in the African Great Lakes region. Ruled by a monarch known as the Mwami, it featured a centralized political structure and administration. The kingdom later became a colony under German and Belgian rule before gaining independence in 1962.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
   }
  ],
  "knowledge": [
@@ -2490,6 +2514,25 @@
     "umwana",
     "infant",
     "ubuzima"
+   ],
+   "auto": true,
+   "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_5c9d07d3",
+   "category": "history",
+   "title_rw": "Ubwami bw'u Rwanda",
+   "title_en": "Kingdom of Rwanda",
+   "summary_rw": "Ubwami bw'u Rwanda bwari ubwami bwa kera mu karere k'ibiyaga bigari by'Afurika. Buyobowe n'Umwami witwa Umwami w'u Rwanda, bwari bufite ubutegetsi bukomeye n'inzego z'imiyoborere. Ubwo bwami bwaje guhinduka ubukoloni bw'Abadage n'Ababiligi mbere y'uko bubona ubwigenge mu mwaka w'1962.",
+   "summary_en": "The Kingdom of Rwanda was a historic monarchy in the African Great Lakes region. Ruled by a monarch known as the Mwami, it featured a centralized political structure and administration. The kingdom later became a colony under German and Belgian rule before gaining independence in 1962.",
+   "keywords": [
+    "ubwami",
+    "rwanda",
+    "amateka",
+    "mwami",
+    "kingdom",
+    "history",
+    "monarchy"
    ],
    "auto": true,
    "taught": "2026-11-11"
