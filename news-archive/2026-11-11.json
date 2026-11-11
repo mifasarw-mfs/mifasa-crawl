@@ -1,7 +1,47 @@
 {
  "day": "2026-11-11",
- "count": 121,
+ "count": 123,
  "articles": [
+  {
+   "id": "crawl_1gxxzli",
+   "title": "Arsenal join Scott chase - Thursday's gossip",
+   "summary": "Arsenal contact Bournemouth about midfielder Alex Scott, Manchester United add two defenders to list of potential targets, Aston Villa weigh up move for Chelsea midfielder Romeo Lavia, plus more.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c62l51xyl98no?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c62l51xyl98no?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T21:38:01.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2955/live/0bc2bd20-de14-11f1-b441-2b33b063138f.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2955/live/0bc2bd20-de14-11f1-b441-2b33b063138f.png",
+   "title_en": "Arsenal join Scott chase - Thursday's gossip",
+   "summary_en": "Arsenal contact Bournemouth about midfielder Alex Scott, Manchester United add two defenders to list of potential targets, Aston Villa weigh up move for Chelsea midfielder Romeo Lavia, plus more.",
+   "share_id": "MN202611_1gxxzlipx04"
+  },
+  {
+   "id": "crawl_1m68fd8",
+   "title": "Football Daily",
+   "summary": "Mauricio Pochettino could replace Michael Carrick at Manchester United.",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pmhwp1?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/p0pmhwp1?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T20:53:00.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmhwt5.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmhwt5.jpg",
+   "title_en": "Football Daily",
+   "summary_en": "Mauricio Pochettino could replace Michael Carrick at Manchester United.",
+   "share_id": "MN202611_1m68fd8xhwq"
+  },
   {
    "id": "crawl_1qytv04",
    "title": "Amavubi yakubiwe kabiri agahimbazamusyi yakoreye imyitozo ya mbere muri Mali (Amafoto)",
@@ -2669,5 +2709,5 @@
    "share_id": "MN202611_1gy3w30wsju"
   }
  ],
- "updated": "2026-11-11T21:05:12.259Z"
+ "updated": "2026-11-11T22:07:32.160Z"
 }
