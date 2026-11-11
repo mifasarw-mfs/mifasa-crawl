@@ -1,7 +1,182 @@
 {
  "day": "2026-11-11",
- "count": 77,
+ "count": 85,
  "articles": [
+  {
+   "id": "crawl_1dy1yjm",
+   "title": "Water Shortages Fuel Cholera Concerns in Bujumbura",
+   "summary": "Cholera cases are being reported in several parts of Bujumbura, Burundi’s commercial capital, as residents face shortages of clean water and limited access to sanitation. SOS Médias Burundi reports that patients from Gihosha and nearby areas have been taken to King Khaled and Prince Louis Rwagasore hospitals. Health authorities are concerned about the disease spreading […] The post Water…",
+   "link": "https://taarifa.rw/2026/11/11/water-shortages-fuel-cholera-concerns-in-bujumbura/",
+   "url": "https://taarifa.rw/2026/11/11/water-shortages-fuel-cholera-concerns-in-bujumbura/",
+   "date": "2026-11-11T14:14:41.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "Health"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/IMG_7468.jpeg?fit=739%2C415&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/IMG_7468.jpeg?fit=739%2C415&ssl=1",
+   "title_en": "Water Shortages Fuel Cholera Concerns in Bujumbura",
+   "summary_en": "Cholera cases are being reported in several parts of Bujumbura, Burundi’s commercial capital, as residents face shortages of clean water and limited access to sanitation. SOS Médias Burundi reports that patients from Gihosha and nearby areas have been taken to King Khaled and Prince Louis Rwagasore hospitals. Health authorities are concerned about the disease spreading […] The post Water…",
+   "share_id": "MN202611_1dy1yjmqqkg"
+  },
+  {
+   "id": "crawl_1hado5q",
+   "title": "Toby Jones stars in film about UK Mars mission",
+   "summary": "Mackenzie Crook directs the story of the British professor whose probe lost contact upon touchdown.",
+   "link": "https://www.bbc.co.uk/news/articles/cqm2l304w0x9o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqm2l304w0x9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T14:10:11.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/213d/live/3acce750-ddcc-11f1-a701-fddedf244c16.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/213d/live/3acce750-ddcc-11f1-a701-fddedf244c16.jpg",
+   "title_en": "Toby Jones stars in film about UK Mars mission",
+   "summary_en": "Mackenzie Crook directs the story of the British professor whose probe lost contact upon touchdown.",
+   "share_id": "MN202611_1hado5q6kmk"
+  },
+  {
+   "id": "crawl_82djey",
+   "title": "Spain sees widespread disruption in first general strike for 14 years",
+   "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+   "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T14:06:27.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d4/live/b795f200-ddc1-11f1-a50f-85eebf9e50e5.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d4/live/b795f200-ddc1-11f1-a50f-85eebf9e50e5.jpg",
+   "title_en": "Spain sees widespread disruption in first general strike for 14 years",
+   "summary_en": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+   "share_id": "MN202611_82djey6fvs"
+  },
+  {
+   "id": "crawl_7804n8",
+   "title": "#diamondplatnumz #Davido #Nigeria",
+   "summary": "#diamondplatnumz #Davido #Nigeria",
+   "link": "https://www.youtube.com/shorts/9fB507dsxf4",
+   "url": "https://www.youtube.com/shorts/9fB507dsxf4",
+   "date": "2026-11-11T13:59:25.000Z",
+   "source": "Diamond Platnumz YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Diamond Platnumz YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "9fB507dsxf4"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/9fB507dsxf4/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/9fB507dsxf4/hqdefault.jpg",
+   "title_rw": "#diamondplatnumz #Davido #Nigeria",
+   "summary_rw": "#diamondplatnumz #Davido #Nigeria",
+   "share_id": "MN202611_7804n8g1sy"
+  },
+  {
+   "id": "crawl_ry0z6r",
+   "title": "Rwanda’s Gas Market Faces Questions Over Prices and Cylinder Choice",
+   "summary": "A household may find cheaper cooking gas nearby but be unable to buy it because its cylinder carries another company’s brand. Clément Nzayisenga, owner of Clément Shop Gaz in Kigali’s Muhima area, says this limits consumer choice and makes it harder for small retailers to compete. Nzayisenga is asking the Ministry of Trade and Industry, […] The post Rwanda’s Gas Market Faces Questions Over Prices…",
+   "link": "https://taarifa.rw/2026/11/11/rwandas-gas-market-faces-questions-over-prices-and-cylinder-choice/",
+   "url": "https://taarifa.rw/2026/11/11/rwandas-gas-market-faces-questions-over-prices-and-cylinder-choice/",
+   "date": "2026-11-11T13:54:17.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "Business"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/IMG_7465.png?fit=605%2C494&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/IMG_7465.png?fit=605%2C494&ssl=1",
+   "title_en": "Rwanda’s Gas Market Faces Questions Over Prices and Cylinder Choice",
+   "summary_en": "A household may find cheaper cooking gas nearby but be unable to buy it because its cylinder carries another company’s brand. Clément Nzayisenga, owner of Clément Shop Gaz in Kigali’s Muhima area, says this limits consumer choice and makes it harder for small retailers to compete. Nzayisenga is asking the Ministry of Trade and Industry, […] The post Rwanda’s Gas Market Faces Questions Over Prices…",
+   "share_id": "MN202611_ry0z6r1se9"
+  },
+  {
+   "id": "crawl_1uvp61e",
+   "title": "Fire Destroys Boys’ Dormitory at Musamvu TCC, Students Escape Unharmed",
+   "summary": "A fire destroyed all belongings in the boys’ dormitory at Musamvu Technical and Vocational College (TCC) in Kibungo Sector, Ngoma District. Ngoma District Executive Secretary Ingabire Benoît confirmed the incident. The dining area was spared, but nothing inside the dormitory was recovered intact. The cause of the fire has not yet been established. The fire […] The post Fire Destroys Boys’…",
+   "link": "https://taarifa.rw/2026/11/11/fire-destroys-boys-dormitory-at-musamvu-tcc-students-escape-unharmed/",
+   "url": "https://taarifa.rw/2026/11/11/fire-destroys-boys-dormitory-at-musamvu-tcc-students-escape-unharmed/",
+   "date": "2026-11-11T13:38:20.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "National"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/IMG_7462.jpeg?fit=860%2C645&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/IMG_7462.jpeg?fit=860%2C645&ssl=1",
+   "title_en": "Fire Destroys Boys’ Dormitory at Musamvu TCC, Students Escape Unharmed",
+   "summary_en": "A fire destroyed all belongings in the boys’ dormitory at Musamvu Technical and Vocational College (TCC) in Kibungo Sector, Ngoma District. Ngoma District Executive Secretary Ingabire Benoît confirmed the incident. The dining area was spared, but nothing inside the dormitory was recovered intact. The cause of the fire has not yet been established. The fire […] The post Fire Destroys Boys’…",
+   "share_id": "MN202611_1uvp61e7t4g"
+  },
+  {
+   "id": "crawl_15pr3ws",
+   "title": "Turkey-based Bates replaces Binks in Scotland squad",
+   "summary": "David Bates has been called up to the Scotland squad as fellow defender Luis Binks drops out for the matches against North Macedonia and Switzerland.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c539gkdrn7yeo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c539gkdrn7yeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T13:37:08.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18c0/live/44690fd0-ddd3-11f1-9053-236ccb99630c.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18c0/live/44690fd0-ddd3-11f1-9053-236ccb99630c.jpg",
+   "title_en": "Turkey-based Bates replaces Binks in Scotland squad",
+   "summary_en": "David Bates has been called up to the Scotland squad as fellow defender Luis Binks drops out for the matches against North Macedonia and Switzerland.",
+   "share_id": "MN202611_15pr3wsj1be"
+  },
+  {
+   "id": "crawl_1mr7azl",
+   "title": "IBYEGERA BYA TRUMP BIRI KU KAGOZI KANDI NIBITANGIRA KWEGUZWA BIZAMUKORAHO| KWIHIMURA KW'ABADEMOKRATE",
+   "summary": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
+   "link": "https://www.youtube.com/watch?v=JIrvKmoyKR4",
+   "url": "https://www.youtube.com/watch?v=JIrvKmoyKR4",
+   "date": "2026-11-11T13:33:03.000Z",
+   "source": "Mwanafunzi Ismael YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Mwanafunzi Ismael YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "JIrvKmoyKR4"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/JIrvKmoyKR4/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/JIrvKmoyKR4/hqdefault.jpg",
+   "title_rw": "IBYEGERA BYA TRUMP BIRI KU KAGOZI KANDI NIBITANGIRA KWEGUZWA BIZAMUKORAHO| KWIHIMURA KW'ABADEMOKRATE",
+   "summary_rw": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
+   "share_id": "MN202611_1mr7azl3dtr"
+  },
   {
    "id": "crawl_xvftgh",
    "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
@@ -1686,5 +1861,5 @@
    "share_id": "MN202611_1gy3w30wsju"
   }
  ],
- "updated": "2026-11-11T13:31:42.710Z"
+ "updated": "2026-11-11T14:31:28.047Z"
 }
