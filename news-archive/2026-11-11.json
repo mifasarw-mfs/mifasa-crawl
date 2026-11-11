@@ -1,7 +1,59 @@
 {
  "day": "2026-11-11",
- "count": 89,
+ "count": 91,
  "articles": [
+  {
+   "id": "crawl_h64v2x",
+   "title": "🔴LIVE: Rwanda Vs Cameroon | U-23 AFCON Qualifiers",
+   "summary": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "link": "https://www.youtube.com/watch?v=mjWMGmB1O2A",
+   "url": "https://www.youtube.com/watch?v=mjWMGmB1O2A",
+   "date": "2026-11-11T15:24:05.000Z",
+   "source": "Radio Rwanda YouTube",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Radio Rwanda YouTube",
+    "news",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "mjWMGmB1O2A"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/mjWMGmB1O2A/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/mjWMGmB1O2A/hqdefault.jpg",
+   "title_rw": "🔴LIVE: Rwanda Vs Cameroon | U-23 AFCON Qualifiers",
+   "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "share_id": "MN202611_h64v2x4zw7"
+  },
+  {
+   "id": "crawl_vhm2ev",
+   "title": "🔴LIVE: AMAKURU Y'IJORO || TARIKI 11.11.2026",
+   "summary": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "link": "https://www.youtube.com/watch?v=I-LipQeRPhg",
+   "url": "https://www.youtube.com/watch?v=I-LipQeRPhg",
+   "date": "2026-11-11T15:17:33.000Z",
+   "source": "Radio Rwanda YouTube",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Radio Rwanda YouTube",
+    "news",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "I-LipQeRPhg"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/I-LipQeRPhg/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/I-LipQeRPhg/hqdefault.jpg",
+   "title_rw": "🔴LIVE: AMAKURU Y'IJORO || TARIKI 11.11.2026",
+   "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "share_id": "MN202611_vhm2evi591"
+  },
   {
    "id": "crawl_xvb9un",
    "title": "WAMUFARANSA Noneho Baramufunze😱🔥",
@@ -1953,5 +2005,5 @@
    "share_id": "MN202611_1gy3w30wsju"
   }
  ],
- "updated": "2026-11-11T15:18:08.259Z"
+ "updated": "2026-11-11T15:28:58.690Z"
 }
