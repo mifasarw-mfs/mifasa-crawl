@@ -1,5 +1,65 @@
 [
  {
+  "id": "crawl_l0m2hw",
+  "title": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
+  "summary": "Colom's victory makes him the first black person from Mississippi to be elected to the US Senate in more than 140 years.",
+  "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-11T23:24:15.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc59/live/150d2fe0-ddde-11f1-b465-b9821c2582d4.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc59/live/150d2fe0-ddde-11f1-b465-b9821c2582d4.jpg",
+  "title_en": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
+  "summary_en": "Colom's victory makes him the first black person from Mississippi to be elected to the US Senate in more than 140 years.",
+  "share_id": "MN202611_l0m2hweyyq"
+ },
+ {
+  "id": "crawl_1nvkd4g",
+  "title": "Euro Leagues",
+  "summary": "John Bennett is joined by Rafa Honigstein and Julien Laurens",
+  "link": "https://www.bbc.co.uk/sounds/play/p0pmj6yk?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sounds/play/p0pmj6yk?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-11T23:08:00.000Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg",
+  "title_en": "Euro Leagues",
+  "summary_en": "John Bennett is joined by Rafa Honigstein and Julien Laurens",
+  "share_id": "MN202611_1nvkd4g9fny"
+ },
+ {
+  "id": "crawl_1psf4ik",
+  "title": "At COP31, Premier Pitches Climate Plan Equivalent to Removing 6,500 Cars from Roads",
+  "summary": "ANTALYA, Türkiye – Rwanda has called for greater investment in green industries, arguing that climate action can also drive economic growth, attract investors and create jobs. Speaking at COP31 on… The post At COP31, Premier Pitches Climate Plan Equivalent to Removing 6,500 Cars from Roads appeared first on KT PRESS .",
+  "link": "https://www.ktpress.rw/2026/11/at-cop31-premier-pitches-climate-plan-equivalent-to-removing-6500-cars-from-roads/",
+  "url": "https://www.ktpress.rw/2026/11/at-cop31-premier-pitches-climate-plan-equivalent-to-removing-6500-cars-from-roads/",
+  "date": "2026-11-11T23:02:47.000Z",
+  "source": "KT Press",
+  "category": "news",
+  "lang": "en",
+  "keywords": [
+   "KT Press",
+   "news",
+   "International",
+   "big-story"
+  ],
+  "title_en": "At COP31, Premier Pitches Climate Plan Equivalent to Removing 6,500 Cars from Roads",
+  "summary_en": "ANTALYA, Türkiye – Rwanda has called for greater investment in green industries, arguing that climate action can also drive economic growth, attract investors and create jobs. Speaking at COP31 on… The post At COP31, Premier Pitches Climate Plan Equivalent to Removing 6,500 Cars from Roads appeared first on KT PRESS .",
+  "share_id": "MN202611_1psf4iki5iy"
+ },
+ {
   "id": "crawl_1hreltj",
   "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
   "summary": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, says expert.",
@@ -53,7 +113,8 @@
    "KT Press",
    "news",
    "National",
-   "big-story"
+   "big-story",
+   "latestnews"
   ],
   "title_en": "RGB Identifies “Negative Narratives” on Rwanda’s Governance as a Threat",
   "summary_en": "KIGALI – The Rwanda Governance Board (RGB) has identified negative narratives about Rwanda’s governance as one of the threats facing the country, according to its new 2026–2029 Strategic Plan. The… The post RGB Identifies “Negative Narratives” on Rwanda’s Governance as a Threat appeared first on KT PRESS .",
@@ -248,12 +309,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-11T20:00:54.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Entertainment",
+  "category": "entertainment",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Entertainment",
+   "entertainment"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d560/live/9c22bcf0-ddfe-11f1-8445-15eb55286f71.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d560/live/9c22bcf0-ddfe-11f1-8445-15eb55286f71.jpg",
@@ -467,7 +528,7 @@
  },
  {
   "id": "crawl_1adoiwo",
-  "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
+  "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
   "summary": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
   "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
@@ -481,7 +542,7 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eed5/live/f16d2a80-ddf7-11f1-93e1-3b657b665bcf.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eed5/live/f16d2a80-ddf7-11f1-93e1-3b657b665bcf.jpg",
-  "title_en": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
+  "title_en": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
   "summary_en": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
   "share_id": "MN202611_1adoiwohfdi"
  },
@@ -941,12 +1002,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cqm2l304w0x9o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cqm2l304w0x9o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-11T14:10:11.000Z",
-  "source": "BBC Entertainment",
-  "category": "entertainment",
+  "source": "BBC Science",
+  "category": "science",
   "lang": "en",
   "keywords": [
-   "BBC Entertainment",
-   "entertainment"
+   "BBC Science",
+   "science"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/213d/live/3acce750-ddcc-11f1-a701-fddedf244c16.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/213d/live/3acce750-ddcc-11f1-a701-fddedf244c16.jpg",
@@ -1213,6 +1274,26 @@
   "title_en": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
   "summary_en": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
   "share_id": "MN202611_2jsjevphut"
+ },
+ {
+  "id": "crawl_nyiv59",
+  "title": "Former BBC radio presenter Danny Kelly dies aged 69",
+  "summary": "Former BBC radio presenter Danny Kelly has been described as a \"broadcasting titan\" following his death at the age of 69.",
+  "link": "https://www.bbc.co.uk/sport/football/articles/cmz9dwk90ny7o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cmz9dwk90ny7o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-11T12:44:17.000Z",
+  "source": "BBC Entertainment",
+  "category": "entertainment",
+  "lang": "en",
+  "keywords": [
+   "BBC Entertainment",
+   "entertainment"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f39/live/6b7c6f60-ddcc-11f1-9053-236ccb99630c.png",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f39/live/6b7c6f60-ddcc-11f1-9053-236ccb99630c.png",
+  "title_en": "Former BBC radio presenter Danny Kelly dies aged 69",
+  "summary_en": "Former BBC radio presenter Danny Kelly has been described as a \"broadcasting titan\" following his death at the age of 69.",
+  "share_id": "MN202611_nyiv59asjv"
  },
  {
   "id": "crawl_1rk00pk",
@@ -1532,6 +1613,26 @@
   "title_en": "Sex-For-Grades Accusation Could Soil University of Rwanda",
   "summary_en": "Access Taarifa’s Premium content from RWF 2,000 per WeekSubscribe with MTN MoMo.Subscribe with MoMoAlready a member?Log in The post Sex-For-Grades Accusation Could Soil University of Rwanda appeared first on Taarifa Rwanda: .",
   "share_id": "MN202611_1p989gk5z"
+ },
+ {
+  "id": "crawl_8l1p4",
+  "title": "Littler expected 'pub players' on Netflix show",
+  "summary": "Luke Littler says he thought he would be facing pub players on his recent Netflix show, which was billed as giving \"amateurs a chance at life-changing money\".",
+  "link": "https://www.bbc.co.uk/sport/darts/articles/ckpqrjnj3y0qo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/darts/articles/ckpqrjnj3y0qo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-11T11:21:03.000Z",
+  "source": "BBC Entertainment",
+  "category": "entertainment",
+  "lang": "en",
+  "keywords": [
+   "BBC Entertainment",
+   "entertainment"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0281/live/2c5070b0-ddbe-11f1-a50f-85eebf9e50e5.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0281/live/2c5070b0-ddbe-11f1-a50f-85eebf9e50e5.jpg",
+  "title_en": "Littler expected 'pub players' on Netflix show",
+  "summary_en": "Luke Littler says he thought he would be facing pub players on his recent Netflix show, which was billed as giving \"amateurs a chance at life-changing money\".",
+  "share_id": "MN202611_8l1p47wc6"
  },
  {
   "id": "crawl_q1vhj",
@@ -17046,105 +17147,5 @@
   "title_en": "Faisal Islam: How high will interest rates go?",
   "summary_en": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
   "share_id": "MN202611_jdtpapmlrj"
- },
- {
-  "id": "crawl_atsxun",
-  "title": "Six tournaments, 11 goals - Ronaldo's World Cup legacy",
-  "summary": "Portugal legend Cristiano Ronaldo retires from international football having scored 146 goals and 234 caps for his country. Here's a look back at his 11 World Cup goals, across six tournaments since 2006.",
-  "link": "https://www.bbc.co.uk/sport/football/videos/cwr5y0yj716do?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/videos/cwr5y0yj716do?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-05T13:15:21.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3106/live/2e505630-d91a-11f1-93e1-3b657b665bcf.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3106/live/2e505630-d91a-11f1-93e1-3b657b665bcf.jpg",
-  "title_en": "Six tournaments, 11 goals - Ronaldo's World Cup legacy",
-  "summary_en": "Portugal legend Cristiano Ronaldo retires from international football having scored 146 goals and 234 caps for his country. Here's a look back at his 11 World Cup goals, across six tournaments since 2006.",
-  "share_id": "MN202611_atsxun69bx"
- },
- {
-  "id": "crawl_1mi3krp",
-  "title": "Three ways the interest rate rise could affect you",
-  "summary": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
-  "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-05T13:08:30.000Z",
-  "source": "BBC Business",
-  "category": "business",
-  "lang": "en",
-  "keywords": [
-   "BBC Business",
-   "business"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/296a/live/09ae45c0-d916-11f1-93e1-3b657b665bcf.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/296a/live/09ae45c0-d916-11f1-93e1-3b657b665bcf.jpg",
-  "title_en": "Three ways the interest rate rise could affect you",
-  "summary_en": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
-  "share_id": "MN202611_1mi3krpwh8j"
- },
- {
-  "id": "crawl_nlcfj5",
-  "title": "Japan's Tashima to stand against Infantino for Fifa presidency",
-  "summary": "Japan's Kozo Tashima has announced his candidacy for Fifa's upcoming presidential election.",
-  "link": "https://www.bbc.co.uk/sport/football/articles/cwvgdyd80g9do?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cwvgdyd80g9do?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-05T12:55:13.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e88/live/38577680-d916-11f1-a81d-35e942472442.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e88/live/38577680-d916-11f1-a81d-35e942472442.jpg",
-  "title_en": "Japan's Tashima to stand against Infantino for Fifa presidency",
-  "summary_en": "Japan's Kozo Tashima has announced his candidacy for Fifa's upcoming presidential election.",
-  "share_id": "MN202611_nlcfj54cxr"
- },
- {
-  "id": "crawl_15nqzn4",
-  "title": "English female coach Kaminski reaping rewards in Norway",
-  "summary": "English manager Laura Kaminski has won the Norwegian league and cup double - so will that open doors in her coaching career?",
-  "link": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-05T12:38:34.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc10/live/642e8200-d8f6-11f1-9c68-d767468fa269.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc10/live/642e8200-d8f6-11f1-9c68-d767468fa269.jpg",
-  "title_en": "English female coach Kaminski reaping rewards in Norway",
-  "summary_en": "English manager Laura Kaminski has won the Norwegian league and cup double - so will that open doors in her coaching career?",
-  "share_id": "MN202611_15nqzn4ix1q"
- },
- {
-  "id": "crawl_1h46zs1",
-  "title": "Rwanda Could Gain $360 Million From AI, Study Finds",
-  "summary": "KIGALI – Rwanda could add about US$237 million to its economy over the next decade by capitalising on artificial intelligence, but the country faces significant gaps in preparing young people… The post Rwanda Could Gain $360 Million From AI, Study Finds appeared first on KT PRESS .",
-  "link": "https://www.ktpress.rw/2026/11/rwanda-could-gain-360-million-from-ai-study-finds/",
-  "url": "https://www.ktpress.rw/2026/11/rwanda-could-gain-360-million-from-ai-study-finds/",
-  "date": "2026-11-05T12:37:51.000Z",
-  "source": "KT Press",
-  "category": "news",
-  "lang": "en",
-  "keywords": [
-   "KT Press",
-   "news",
-   "Economy",
-   "latestnews"
-  ],
-  "title_en": "Rwanda Could Gain $360 Million From AI, Study Finds",
-  "summary_en": "KIGALI – Rwanda could add about US$237 million to its economy over the next decade by capitalising on artificial intelligence, but the country faces significant gaps in preparing young people… The post Rwanda Could Gain $360 Million From AI, Study Finds appeared first on KT PRESS .",
-  "share_id": "MN202611_1h46zs1vrsv"
  }
 ]

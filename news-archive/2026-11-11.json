@@ -1,7 +1,67 @@
 {
  "day": "2026-11-11",
- "count": 128,
+ "count": 133,
  "articles": [
+  {
+   "id": "crawl_l0m2hw",
+   "title": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
+   "summary": "Colom's victory makes him the first black person from Mississippi to be elected to the US Senate in more than 140 years.",
+   "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T23:24:15.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc59/live/150d2fe0-ddde-11f1-b465-b9821c2582d4.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc59/live/150d2fe0-ddde-11f1-b465-b9821c2582d4.jpg",
+   "title_en": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
+   "summary_en": "Colom's victory makes him the first black person from Mississippi to be elected to the US Senate in more than 140 years.",
+   "share_id": "MN202611_l0m2hweyyq"
+  },
+  {
+   "id": "crawl_1nvkd4g",
+   "title": "Euro Leagues",
+   "summary": "John Bennett is joined by Rafa Honigstein and Julien Laurens",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pmj6yk?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/p0pmj6yk?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T23:08:00.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg",
+   "title_en": "Euro Leagues",
+   "summary_en": "John Bennett is joined by Rafa Honigstein and Julien Laurens",
+   "share_id": "MN202611_1nvkd4g9fny"
+  },
+  {
+   "id": "crawl_1psf4ik",
+   "title": "At COP31, Premier Pitches Climate Plan Equivalent to Removing 6,500 Cars from Roads",
+   "summary": "ANTALYA, Türkiye – Rwanda has called for greater investment in green industries, arguing that climate action can also drive economic growth, attract investors and create jobs. Speaking at COP31 on… The post At COP31, Premier Pitches Climate Plan Equivalent to Removing 6,500 Cars from Roads appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/at-cop31-premier-pitches-climate-plan-equivalent-to-removing-6500-cars-from-roads/",
+   "url": "https://www.ktpress.rw/2026/11/at-cop31-premier-pitches-climate-plan-equivalent-to-removing-6500-cars-from-roads/",
+   "date": "2026-11-11T23:02:47.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "International",
+    "big-story"
+   ],
+   "title_en": "At COP31, Premier Pitches Climate Plan Equivalent to Removing 6,500 Cars from Roads",
+   "summary_en": "ANTALYA, Türkiye – Rwanda has called for greater investment in green industries, arguing that climate action can also drive economic growth, attract investors and create jobs. Speaking at COP31 on… The post At COP31, Premier Pitches Climate Plan Equivalent to Removing 6,500 Cars from Roads appeared first on KT PRESS .",
+   "share_id": "MN202611_1psf4iki5iy"
+  },
   {
    "id": "crawl_1hreltj",
    "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
@@ -1218,6 +1278,26 @@
    "share_id": "MN202611_2jsjevphut"
   },
   {
+   "id": "crawl_nyiv59",
+   "title": "Former BBC radio presenter Danny Kelly dies aged 69",
+   "summary": "Former BBC radio presenter Danny Kelly has been described as a \"broadcasting titan\" following his death at the age of 69.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmz9dwk90ny7o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmz9dwk90ny7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T12:44:17.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f39/live/6b7c6f60-ddcc-11f1-9053-236ccb99630c.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f39/live/6b7c6f60-ddcc-11f1-9053-236ccb99630c.png",
+   "title_en": "Former BBC radio presenter Danny Kelly dies aged 69",
+   "summary_en": "Former BBC radio presenter Danny Kelly has been described as a \"broadcasting titan\" following his death at the age of 69.",
+   "share_id": "MN202611_nyiv59asjv"
+  },
+  {
    "id": "crawl_1rk00pk",
    "title": "Senior doctors call off two-day strike planned this month",
    "summary": "Consultants in England were due to walk out on 25 November in disputes over pay and working conditions.",
@@ -1535,6 +1615,26 @@
    "title_en": "Sex-For-Grades Accusation Could Soil University of Rwanda",
    "summary_en": "Lecturers at the University of Rwanda are being accused of over demanding for sex from students as a precondition to pass exams. Keza Leila seemingly angered by inappropriate lecturers has taken to her X page and poured out her frustration and subsequently tagging the Police and investigate agency RIB. “Hey @Rwandapolice ! Hano I huye, […] The post Sex-For-Grades Accusation Could Soil University…",
    "share_id": "MN202611_1p989gk5z"
+  },
+  {
+   "id": "crawl_8l1p4",
+   "title": "Littler expected 'pub players' on Netflix show",
+   "summary": "Luke Littler says he thought he would be facing pub players on his recent Netflix show, which was billed as giving \"amateurs a chance at life-changing money\".",
+   "link": "https://www.bbc.co.uk/sport/darts/articles/ckpqrjnj3y0qo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/darts/articles/ckpqrjnj3y0qo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T11:21:03.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0281/live/2c5070b0-ddbe-11f1-a50f-85eebf9e50e5.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0281/live/2c5070b0-ddbe-11f1-a50f-85eebf9e50e5.jpg",
+   "title_en": "Littler expected 'pub players' on Netflix show",
+   "summary_en": "Luke Littler says he thought he would be facing pub players on his recent Netflix show, which was billed as giving \"amateurs a chance at life-changing money\".",
+   "share_id": "MN202611_8l1p47wc6"
   },
   {
    "id": "crawl_q1vhj",
@@ -2815,5 +2915,5 @@
    "share_id": "MN202611_1gy3w30wsju"
   }
  ],
- "updated": "2026-11-11T22:55:06.533Z"
+ "updated": "2026-11-11T23:39:10.051Z"
 }
