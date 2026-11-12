@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_mu7bbg",
+  "title": "Australian teen missing in bush for six days rescued alive",
+  "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
+  "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-12T02:40:18.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/274e/live/2e3b6140-de41-11f1-a9ed-658311f31da9.png",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/274e/live/2e3b6140-de41-11f1-a9ed-658311f31da9.png",
+  "title_en": "Australian teen missing in bush for six days rescued alive",
+  "summary_en": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
+  "share_id": "MN202611_mu7bbg07sa"
+ },
+ {
   "id": "crawl_8y1as2",
   "title": "Fata icyo ushaka hano kwa burikantu",
   "summary": "Fata icyo ushaka hano kwa burikantu",
@@ -3025,12 +3045,12 @@
   "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-11T00:18:07.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Science",
+  "category": "science",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Science",
+   "science"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8d6/live/747458d0-dc37-11f1-a701-fddedf244c16.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8d6/live/747458d0-dc37-11f1-a701-fddedf244c16.jpg",
@@ -17113,25 +17133,5 @@
   "title_en": "A bitter end for Ronaldo - the icon who transformed Portugal",
   "summary_en": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
   "share_id": "MN202611_1e0h0qh8y53"
- },
- {
-  "id": "crawl_1iya3ji",
-  "title": "Rafael Nadal agiye kujya mu buyobozi bwa Real Madrid",
-  "summary": "Umunyabigwi mu mukino wa Tennis, yemeye kujya mu buyobozi bwa Real Madrid nyuma yo kubisabwa na Florentino Perez uyobora iyi kipe. Ni amakuru yemejwe biciye mu itangazo iyi kipe yasohoye ku wa 4 Ug…",
-  "link": "https://umuseke.rw/rafael-nadal-agiye-kujya-mu-buyobozi-bwa-real-madrid/",
-  "url": "https://umuseke.rw/rafael-nadal-agiye-kujya-mu-buyobozi-bwa-real-madrid/",
-  "date": "2026-11-05T14:16:46.000Z",
-  "source": "Umuseke",
-  "category": "news",
-  "lang": "rw",
-  "keywords": [
-   "Umuseke",
-   "news"
-  ],
-  "image": "https://umuseke.rw/wp-content/uploads/2026/11/Rafael-Nadal.jpg",
-  "thumbnail": "https://umuseke.rw/wp-content/uploads/2026/11/Rafael-Nadal.jpg",
-  "title_rw": "Rafael Nadal agiye kujya mu buyobozi bwa Real Madrid",
-  "summary_rw": "Umunyabigwi mu mukino wa Tennis, yemeye kujya mu buyobozi bwa Real Madrid nyuma yo kubisabwa na Florentino Perez uyobora iyi kipe. Ni amakuru yemejwe biciye mu itangazo iyi kipe yasohoye ku wa 4 Ug…",
-  "share_id": "MN202611_1iya3jiz630"
  }
 ]

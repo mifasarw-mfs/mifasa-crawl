@@ -1,7 +1,27 @@
 {
  "day": "2026-11-12",
- "count": 6,
+ "count": 7,
  "articles": [
+  {
+   "id": "crawl_mu7bbg",
+   "title": "Australian teen missing in bush for six days rescued alive",
+   "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
+   "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T02:40:18.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/274e/live/2e3b6140-de41-11f1-a9ed-658311f31da9.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/274e/live/2e3b6140-de41-11f1-a9ed-658311f31da9.png",
+   "title_en": "Australian teen missing in bush for six days rescued alive",
+   "summary_en": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
+   "share_id": "MN202611_mu7bbg07sa"
+  },
   {
    "id": "crawl_8y1as2",
    "title": "Fata icyo ushaka hano kwa burikantu",
@@ -129,5 +149,5 @@
    "share_id": "MN202611_1qpleoceb56"
   }
  ],
- "updated": "2026-11-12T02:37:06.264Z"
+ "updated": "2026-11-12T03:28:19.408Z"
 }
