@@ -1,6 +1,6 @@
 {
  "day": "2026-11-11",
- "count": 133,
+ "count": 135,
  "articles": [
   {
    "id": "crawl_l0m2hw",
@@ -21,6 +21,26 @@
    "title_en": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
    "summary_en": "Colom's victory makes him the first black person from Mississippi to be elected to the US Senate in more than 140 years.",
    "share_id": "MN202611_l0m2hweyyq"
+  },
+  {
+   "id": "crawl_v622aw",
+   "title": "Some under-25s should get less benefits, Milburn review to say",
+   "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+   "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T23:22:04.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg",
+   "title_en": "Some under-25s should get less benefits, Milburn review to say",
+   "summary_en": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+   "share_id": "MN202611_v622awuyrq"
   },
   {
    "id": "crawl_1nvkd4g",
@@ -61,6 +81,26 @@
    "title_en": "At COP31, Premier Pitches Climate Plan Equivalent to Removing 6,500 Cars from Roads",
    "summary_en": "ANTALYA, Türkiye – Rwanda has called for greater investment in green industries, arguing that climate action can also drive economic growth, attract investors and create jobs. Speaking at COP31 on… The post At COP31, Premier Pitches Climate Plan Equivalent to Removing 6,500 Cars from Roads appeared first on KT PRESS .",
    "share_id": "MN202611_1psf4iki5iy"
+  },
+  {
+   "id": "crawl_1p4txg1",
+   "title": "New York building collapse kills one person and injures 12",
+   "summary": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+   "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T22:55:26.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8114/live/d10cd710-de22-11f1-a006-f3a783cdc303.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8114/live/d10cd710-de22-11f1-a006-f3a783cdc303.jpg",
+   "title_en": "New York building collapse kills one person and injures 12",
+   "summary_en": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+   "share_id": "MN202611_1p4txg1mijz"
   },
   {
    "id": "crawl_1hreltj",
@@ -2915,5 +2955,5 @@
    "share_id": "MN202611_1gy3w30wsju"
   }
  ],
- "updated": "2026-11-11T23:39:10.051Z"
+ "updated": "2026-11-12T00:30:46.593Z"
 }
