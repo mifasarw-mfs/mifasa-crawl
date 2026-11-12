@@ -1,6 +1,6 @@
 {
  "day": "2026-11-11",
- "count": 135,
+ "count": 136,
  "articles": [
   {
    "id": "crawl_l0m2hw",
@@ -457,6 +457,26 @@
    "title_en": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
    "summary_en": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light.",
    "share_id": "MN202611_15q4fmsxc3m"
+  },
+  {
+   "id": "crawl_13qk3kw",
+   "title": "Famed ship SS United States to be sunk off coast of Florida",
+   "summary": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
+   "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T18:42:27.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5661/live/7c6e9130-ddeb-11f1-9204-cdcddf7d901c.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5661/live/7c6e9130-ddeb-11f1-9204-cdcddf7d901c.jpg",
+   "title_en": "Famed ship SS United States to be sunk off coast of Florida",
+   "summary_en": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
+   "share_id": "MN202611_13qk3kwd01q"
   },
   {
    "id": "crawl_118zskm",
@@ -2955,5 +2975,5 @@
    "share_id": "MN202611_1gy3w30wsju"
   }
  ],
- "updated": "2026-11-12T00:30:46.593Z"
+ "updated": "2026-11-12T01:51:31.748Z"
 }

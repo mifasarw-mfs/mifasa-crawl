@@ -1,7 +1,27 @@
 {
  "day": "2026-11-12",
- "count": 4,
+ "count": 5,
  "articles": [
+  {
+   "id": "crawl_1mdpqs3",
+   "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+   "summary": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
+   "link": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T00:36:11.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5293/live/110e8ed0-dd8d-11f1-a56e-d7dc6014806d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5293/live/110e8ed0-dd8d-11f1-a56e-d7dc6014806d.jpg",
+   "title_en": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+   "summary_en": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
+   "share_id": "MN202611_1mdpqs3in8x"
+  },
   {
    "id": "crawl_y012oz",
    "title": "Sunbed firms must not downplay cancer risk, says watchdog",
@@ -83,5 +103,5 @@
    "share_id": "MN202611_1qpleoceb56"
   }
  ],
- "updated": "2026-11-12T00:30:46.591Z"
+ "updated": "2026-11-12T01:51:31.747Z"
 }
