@@ -1,7 +1,223 @@
 {
  "day": "2026-11-12",
- "count": 36,
+ "count": 46,
  "articles": [
+  {
+   "id": "crawl_osikkr",
+   "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+   "summary": "As uncertainty swirls over the boss of the AI chip giant, some names have emerged as potential successors.",
+   "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T10:37:00.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/086c/live/13145560-de47-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/086c/live/13145560-de47-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "Who could replace Jensen Huang as Nvidia's chief executive?",
+   "summary_en": "As uncertainty swirls over the boss of the AI chip giant, some names have emerged as potential successors.",
+   "share_id": "MN202611_osikkrbh1l"
+  },
+  {
+   "id": "crawl_1lrxwgf",
+   "title": "Rwanda Tax Body RRA Awarded Gender Equality Medal",
+   "summary": "Rwanda Revenue Authority has been awarded a prestgious medal in recognition for the institution’s advancement of Gender equality. The award, ‘Gender Equality Seal Bronze medal was received from the UNDP. The Gender Equality Seal for Public Institutions is awarded to public institutions making transformative reforms that advance gender equality and women’s empowerment. Among the key […] The post…",
+   "link": "https://taarifa.rw/2026/11/12/rwanda-tax-body-rra-awarded-gender-equality-medal/",
+   "url": "https://taarifa.rw/2026/11/12/rwanda-tax-body-rra-awarded-gender-equality-medal/",
+   "date": "2026-11-12T10:35:22.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "Business"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261112-122913.jpg?fit=720%2C369&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261112-122913.jpg?fit=720%2C369&ssl=1",
+   "title_en": "Rwanda Tax Body RRA Awarded Gender Equality Medal",
+   "summary_en": "Rwanda Revenue Authority has been awarded a prestgious medal in recognition for the institution’s advancement of Gender equality. The award, ‘Gender Equality Seal Bronze medal was received from the UNDP. The Gender Equality Seal for Public Institutions is awarded to public institutions making transformative reforms that advance gender equality and women’s empowerment. Among the key […] The post…",
+   "share_id": "MN202611_1lrxwgfjpv1"
+  },
+  {
+   "id": "crawl_6zwffi",
+   "title": "The chaos that took Carrick from two-year deal to sacked within 15 games",
+   "summary": "Michael Carrick becomes the third Manchester United manager to be sacked in three seasons - where did it go wrong?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T10:21:29.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfae/live/4d45e2e0-de7d-11f1-b88b-3f1671ea859d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfae/live/4d45e2e0-de7d-11f1-b88b-3f1671ea859d.jpg",
+   "title_en": "The chaos that took Carrick from two-year deal to sacked within 15 games",
+   "summary_en": "Michael Carrick becomes the third Manchester United manager to be sacked in three seasons - where did it go wrong?",
+   "share_id": "MN202611_6zwffiset8"
+  },
+  {
+   "id": "crawl_5d0el1",
+   "title": "Ukraine: Ugutanga umuyagankuba birageramiwe, mu gihe ibitero vy'Uburusiya bituma haba umwijima n'imbeho",
+   "summary": "Ku bavyeyi bo mu mihingo imwe imwe ya Ukraine, kugerageza kubandanya ubuzima busanzwe bwo mu muryango, mu gihe umuyagankuba uboneka amasaha make gusa ku musi, biriko birabagora cane kandi birabavuna.",
+   "link": "https://www.bbc.com/gahuza/articles/c5n4e7kyw29wo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/c5n4e7kyw29wo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T10:21:10.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2a2c/live/a70e9220-de61-11f1-a701-fddedf244c16.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2a2c/live/a70e9220-de61-11f1-a701-fddedf244c16.jpg",
+   "title_rw": "Ukraine: Ugutanga umuyagankuba birageramiwe, mu gihe ibitero vy'Uburusiya bituma haba umwijima n'imbeho",
+   "summary_rw": "Ku bavyeyi bo mu mihingo imwe imwe ya Ukraine, kugerageza kubandanya ubuzima busanzwe bwo mu muryango, mu gihe umuyagankuba uboneka amasaha make gusa ku musi, biriko birabagora cane kandi birabavuna.",
+   "share_id": "MN202611_5d0el1tb1v"
+  },
+  {
+   "id": "crawl_fd0hpe",
+   "title": "British woman missing from cruise ship in Atlantic",
+   "summary": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
+   "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T10:13:35.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f65c/live/6b94c200-de7f-11f1-b88b-3f1671ea859d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f65c/live/6b94c200-de7f-11f1-b88b-3f1671ea859d.jpg",
+   "title_en": "British woman missing from cruise ship in Atlantic",
+   "summary_en": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
+   "share_id": "MN202611_fd0hpete68"
+  },
+  {
+   "id": "crawl_xgc3cw",
+   "title": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
+   "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+   "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T10:08:38.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3774/live/60c41ee0-de7d-11f1-b88b-3f1671ea859d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3774/live/60c41ee0-de7d-11f1-b88b-3f1671ea859d.jpg",
+   "title_en": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
+   "summary_en": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+   "share_id": "MN202611_xgc3cw4ztq"
+  },
+  {
+   "id": "crawl_10vpquj",
+   "title": "Volleyball: APR na Police zigiye guhigana ubutwari mu bagabo n'abagore ‎",
+   "summary": "Abakunzi ba Volleyball mu Rwanda biteguye gususurutswa n’imikino ibiri ikomeye izahuza APR na Police mu bagabo no mu bagore, mu ihangana rimaze kumenyerwa hagati y’aya makipe ahagarariye inzego (…)",
+   "link": "https://www.kigalitoday.com/imikino/volleyball/article/volleyball-apr-na-police-zigiye-guhigana-ubutwari-mu-bagabo-n-abagore-%E2%80%8E",
+   "url": "https://www.kigalitoday.com/imikino/volleyball/article/volleyball-apr-na-police-zigiye-guhigana-ubutwari-mu-bagabo-n-abagore-%E2%80%8E",
+   "date": "2026-11-12T10:00:38.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Volleyball",
+    "Habiyaremye Japhet"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/4dab6d74-1dcb-4872-bf73-392b744291c2.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/4dab6d74-1dcb-4872-bf73-392b744291c2.jpg",
+   "title_rw": "Volleyball: APR na Police zigiye guhigana ubutwari mu bagabo n'abagore ‎",
+   "summary_rw": "Abakunzi ba Volleyball mu Rwanda biteguye gususurutswa n’imikino ibiri ikomeye izahuza APR na Police mu bagabo no mu bagore, mu ihangana rimaze kumenyerwa hagati y’aya makipe ahagarariye inzego (…)",
+   "share_id": "MN202611_10vpqujnzk9"
+  },
+  {
+   "id": "crawl_1yg81pi",
+   "title": "President Ruto Summons European Diplomats to Africa",
+   "summary": "The president of Kenya William Ruto on Thursday morning hosted heads of European Union Delegations to African countries at State House Nairobi. The convergence comes at a time the East African state marks 50 years of diplomatic relations with the European Union. “We have agreed to elevate our relations into a comprehensive strategic partnership anchored […] The post President Ruto Summons…",
+   "link": "https://taarifa.rw/2026/11/12/president-ruto-summons-european-diplomats-to-africa/",
+   "url": "https://taarifa.rw/2026/11/12/president-ruto-summons-european-diplomats-to-africa/",
+   "date": "2026-11-12T09:48:31.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "Politics"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261112-114536.jpg?fit=720%2C420&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261112-114536.jpg?fit=720%2C420&ssl=1",
+   "title_en": "President Ruto Summons European Diplomats to Africa",
+   "summary_en": "The president of Kenya William Ruto on Thursday morning hosted heads of European Union Delegations to African countries at State House Nairobi. The convergence comes at a time the East African state marks 50 years of diplomatic relations with the European Union. “We have agreed to elevate our relations into a comprehensive strategic partnership anchored […] The post President Ruto Summons…",
+   "share_id": "MN202611_1yg81pim2bo"
+  },
+  {
+   "id": "crawl_ff5r65",
+   "title": "🔴LIVE: AMAKURU YA SAA SITA || TARIKI 12.11.2026",
+   "summary": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "link": "https://www.youtube.com/watch?v=FrSlEiw1Tpg",
+   "url": "https://www.youtube.com/watch?v=FrSlEiw1Tpg",
+   "date": "2026-11-12T09:47:32.000Z",
+   "source": "Radio Rwanda YouTube",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Radio Rwanda YouTube",
+    "news",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "FrSlEiw1Tpg"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/FrSlEiw1Tpg/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/FrSlEiw1Tpg/hqdefault.jpg",
+   "title_rw": "🔴LIVE: AMAKURU YA SAA SITA || TARIKI 12.11.2026",
+   "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "share_id": "MN202611_ff5r655vzf"
+  },
+  {
+   "id": "crawl_gwkr76",
+   "title": "SIMBA 🦁 #diamondplatnumz 🇹🇿 X OBO #davido 🇳🇬 #zuchu wanamwaga Mvua za Baraka 🛥️🛥️ 🔥🔥🔥",
+   "summary": "SIMBA 🦁 #diamondplatnumz 🇹🇿 X OBO #davido 🇳🇬 #zuchu wanamwaga Mvua za Baraka 🛥️🛥️ 🔥🔥🔥",
+   "link": "https://www.youtube.com/shorts/JpkNHKTo0jQ",
+   "url": "https://www.youtube.com/shorts/JpkNHKTo0jQ",
+   "date": "2026-11-12T09:37:44.000Z",
+   "source": "Diamond Platnumz YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Diamond Platnumz YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "JpkNHKTo0jQ"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/JpkNHKTo0jQ/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/JpkNHKTo0jQ/hqdefault.jpg",
+   "title_rw": "SIMBA 🦁 #diamondplatnumz 🇹🇿 X OBO #davido 🇳🇬 #zuchu wanamwaga Mvua za Baraka 🛥️🛥️ 🔥🔥🔥",
+   "summary_rw": "SIMBA 🦁 #diamondplatnumz 🇹🇿 X OBO #davido 🇳🇬 #zuchu wanamwaga Mvua za Baraka 🛥️🛥️ 🔥🔥🔥",
+   "share_id": "MN202611_gwkr760ocw"
+  },
   {
    "id": "crawl_13fnndz",
    "title": "FERWAFA yashyize hanze ibiciro by'umukino wa Mali",
@@ -767,5 +983,5 @@
    "share_id": "MN202611_1qpleoceb56"
   }
  ],
- "updated": "2026-11-12T09:38:53.721Z"
+ "updated": "2026-11-12T10:39:21.175Z"
 }

@@ -1,6 +1,6 @@
 {
  "day": "2026-11-11",
- "count": 138,
+ "count": 139,
  "articles": [
   {
    "id": "crawl_l0m2hw",
@@ -227,6 +227,26 @@
    "title_rw": "#diamondplatnumz #Simba #Viral #Wasafi #wcb",
    "summary_rw": "#diamondplatnumz #Simba #Viral #Wasafi #wcb",
    "share_id": "MN202611_1tpxyw79u2t"
+  },
+  {
+   "id": "crawl_5wuz6u",
+   "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
+   "summary": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
+   "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T21:43:35.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff27/live/573e7b50-de18-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff27/live/573e7b50-de18-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
+   "summary_en": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
+   "share_id": "MN202611_5wuz6urm9w"
   },
   {
    "id": "crawl_1gxxzli",
@@ -3021,5 +3041,5 @@
    "share_id": "MN202611_1gy3w30wsju"
   }
  ],
- "updated": "2026-11-12T08:44:37.035Z"
+ "updated": "2026-11-12T10:39:21.177Z"
 }
