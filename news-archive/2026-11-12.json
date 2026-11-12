@@ -1,7 +1,29 @@
 {
  "day": "2026-11-12",
- "count": 103,
+ "count": 104,
  "articles": [
+  {
+   "id": "crawl_ibzvt",
+   "title": "Minisitiri w'Intebe yasabye abafatanyabikorwa gushora imari mu buhinzi buhangana n'imihindagurikire y'ibihe",
+   "summary": "Minisitiri w’Intebe, Dr. Justin Nsengiyumva, yasabye abafatanyabikorwa mu iterambere kongera ishoramari mu buhinzi buhangana n’imihindagurikire y’ibihe, kuko ari byo bizafasha kongera umusaruro, (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/minisitiri-w-intebe-yasabye-abafatanyabikorwa-gushora-imari-mu-buhinzi-buhangana-n-imihindagurikire-y-ibihe",
+   "url": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/minisitiri-w-intebe-yasabye-abafatanyabikorwa-gushora-imari-mu-buhinzi-buhangana-n-imihindagurikire-y-ibihe",
+   "date": "2026-11-12T18:13:12.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu mahanga",
+    "MobileBigStory"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_18.07_08_1_.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_18.07_08_1_.jpg",
+   "title_rw": "Minisitiri w'Intebe yasabye abafatanyabikorwa gushora imari mu buhinzi buhangana n'imihindagurikire y'ibihe",
+   "summary_rw": "Minisitiri w’Intebe, Dr. Justin Nsengiyumva, yasabye abafatanyabikorwa mu iterambere kongera ishoramari mu buhinzi buhangana n’imihindagurikire y’ibihe, kuko ari byo bizafasha kongera umusaruro, (…)",
+   "share_id": "MN202611_ibzvt9u6f"
+  },
   {
    "id": "crawl_1rh6bfu",
    "title": "OIF Summit in Cambodia To Cost €100M",
@@ -2211,5 +2233,5 @@
    "share_id": "MN202611_1qpleoceb56"
   }
  ],
- "updated": "2026-11-12T17:26:24.936Z"
+ "updated": "2026-11-12T18:15:33.280Z"
 }
