@@ -1,7 +1,50 @@
 {
  "day": "2026-11-12",
- "count": 86,
+ "count": 89,
  "articles": [
+  {
+   "id": "crawl_17g04pr",
+   "title": "Owono undecided over future following De Miguel death",
+   "summary": "FC Andorra manager Carles Manso says goalkeeper Jesus Owono is yet to decide whether he will return to playing action following the death of Tenerife forward Jesus de Miguel.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckedq01zve04o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ckedq01zve04o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T15:39:19.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3166/live/efcf2c80-dea8-11f1-98eb-79ee6ea9ba56.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3166/live/efcf2c80-dea8-11f1-98eb-79ee6ea9ba56.jpg",
+   "title_en": "Owono undecided over future following De Miguel death",
+   "summary_en": "FC Andorra manager Carles Manso says goalkeeper Jesus Owono is yet to decide whether he will return to playing action following the death of Tenerife forward Jesus de Miguel.",
+   "share_id": "MN202611_17g04prs24d"
+  },
+  {
+   "id": "crawl_1x1g2bw",
+   "title": "Imvura iragwa ukagira ngo umuriro na wo ugiye kugama-Senateri Evode Uwizeyimana",
+   "summary": "Senateri Evode Uwizeyimana yagaragaje impungenge ku kuba u Rwanda ruzashobora kugera ku ntego yo kugeza amashanyarazi kuri buri rugo kugeza mu 2029, ashingiye ku bibazo bikigaragara mu (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/imvura-iragwa-ukagira-ngo-umuriro-na-wo-ugiye-kugama-senateri-evode-uwizeyimana",
+   "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/imvura-iragwa-ukagira-ngo-umuriro-na-wo-ugiye-kugama-senateri-evode-uwizeyimana",
+   "date": "2026-11-12T15:32:35.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu Rwanda",
+    "MobileBigStory",
+    "Oswald Niyonzima"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/amashanyarazi-2.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/amashanyarazi-2.png",
+   "title_rw": "Imvura iragwa ukagira ngo umuriro na wo ugiye kugama-Senateri Evode Uwizeyimana",
+   "summary_rw": "Senateri Evode Uwizeyimana yagaragaje impungenge ku kuba u Rwanda ruzashobora kugera ku ntego yo kugeza amashanyarazi kuri buri rugo kugeza mu 2029, ashingiye ku bibazo bikigaragara mu (…)",
+   "share_id": "MN202611_1x1g2bwstre"
+  },
   {
    "id": "crawl_ju6fjd",
    "title": "Yee Fanta - Abagome ( Lyrics Video )",
@@ -348,6 +391,26 @@
    "title_rw": "Banki Nkuru y'u Rwanda izaniye umwihariko abana b'abakobwa",
    "summary_rw": "Banki Nkuru y’u Rwanda (BNR) yatangije gahunda yiswe NBR Girls Mentorship Program, igamije gufasha abakobwa bakiri bato kongera ubumenyi, icyizere n’ubushobozi bwo kwihitiramo amasomo, imyuga (…)",
    "share_id": "MN202611_1nj4w9w0qde"
+  },
+  {
+   "id": "crawl_113fwin",
+   "title": "Bond producer first female president of film school",
+   "summary": "Barbara Broccoli is succeeding David Puttnam in the role in February.",
+   "link": "https://www.bbc.co.uk/news/articles/cq36gngnk09do?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq36gngnk09do?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T12:54:06.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d88/live/edb4f5e0-3afa-11f0-9a86-f7906cd4e14e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d88/live/edb4f5e0-3afa-11f0-9a86-f7906cd4e14e.jpg",
+   "title_en": "Bond producer first female president of film school",
+   "summary_en": "Barbara Broccoli is succeeding David Puttnam in the role in February.",
+   "share_id": "MN202611_113fwin8szh"
   },
   {
    "id": "crawl_b0p6m8",
@@ -1838,5 +1901,5 @@
    "share_id": "MN202611_1qpleoceb56"
   }
  ],
- "updated": "2026-11-12T15:32:54.333Z"
+ "updated": "2026-11-12T15:57:24.404Z"
 }
