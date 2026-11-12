@@ -1,6 +1,6 @@
 {
  "day": "2026-11-11",
- "count": 139,
+ "count": 140,
  "articles": [
   {
    "id": "crawl_l0m2hw",
@@ -1055,6 +1055,36 @@
    "title_en": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
    "summary_en": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
    "share_id": "MN202611_w5fnul8kbf"
+  },
+  {
+   "id": "crawl_b81agk",
+   "title": "Becoming an ELEMENTAL HYDRA on One Chunk..",
+   "summary": "Instagram: https://www.instagram.com/cashmarcoyt/ Merch: https://cashandnico.com #Minecraft #MinecraftMod #Cash #NicoAndCash",
+   "link": "https://www.youtube.com/watch?v=KeRBXoOtBJE",
+   "url": "https://www.youtube.com/watch?v=KeRBXoOtBJE",
+   "date": "2026-11-11T15:00:23.000Z",
+   "source": "YouTube Trending Kenya",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "YouTube Trending Kenya",
+    "entertainment",
+    "trending",
+    "Cash",
+    "Nico",
+    "Nico and Cash",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "KeRBXoOtBJE"
+   },
+   "type": "video",
+   "image": "https://i.ytimg.com/vi/KeRBXoOtBJE/hqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/KeRBXoOtBJE/hqdefault.jpg",
+   "title_en": "Becoming an ELEMENTAL HYDRA on One Chunk..",
+   "summary_en": "Instagram: https://www.instagram.com/cashmarcoyt/ Merch: https://cashandnico.com #Minecraft #MinecraftMod #Cash #NicoAndCash",
+   "share_id": "MN202611_b81agk1f9u"
   },
   {
    "id": "crawl_1c8sjca",
@@ -3041,5 +3071,5 @@
    "share_id": "MN202611_1gy3w30wsju"
   }
  ],
- "updated": "2026-11-12T10:39:21.177Z"
+ "updated": "2026-11-12T13:46:17.980Z"
 }

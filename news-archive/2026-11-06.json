@@ -1,6 +1,6 @@
 {
  "day": "2026-11-06",
- "count": 134,
+ "count": 135,
  "articles": [
   {
    "id": "crawl_1fdgl56",
@@ -609,6 +609,36 @@
    "title_en": "Should energy drinks be banned for under-16s?",
    "summary_en": "The Welsh government says it wants to ban children under 16 from buying high-caffeine energy drinks.",
    "share_id": "MN202611_dk3jve06yg"
+  },
+  {
+   "id": "crawl_1bjwu5",
+   "title": "Pretty Girls",
+   "summary": "Off the Lavida Boy EP, Joeboy comes through with a sweet one for the gyal dem. Inspired by the ever popular diwali rhythm, Joeboy stays true to his core subject matter - Women. Pretty girls is a song for girls who love to have fun and are true to who they are. Connect with Joeboy: Instagram: https://www.instagram.com/joeboyofficial/ Twitter: https://twitter.com/joeboyofficial Facebook: https://www",
+   "link": "https://www.youtube.com/watch?v=GtTL76wmp7U",
+   "url": "https://www.youtube.com/watch?v=GtTL76wmp7U",
+   "date": "2026-11-06T18:00:39.000Z",
+   "source": "YouTube Trending Kenya",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "YouTube Trending Kenya",
+    "entertainment",
+    "trending",
+    "Joeboy",
+    "joeboy baby",
+    "joeboy faaji",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "GtTL76wmp7U"
+   },
+   "type": "video",
+   "image": "https://i.ytimg.com/vi/GtTL76wmp7U/hqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/GtTL76wmp7U/hqdefault.jpg",
+   "title_en": "Pretty Girls",
+   "summary_en": "Off the Lavida Boy EP, Joeboy comes through with a sweet one for the gyal dem. Inspired by the ever popular diwali rhythm, Joeboy stays true to his core subject matter - Women. Pretty girls is a song for girls who love to have fun and are true to who they are. Connect with Joeboy: Instagram: https://www.instagram.com/joeboyofficial/ Twitter: https://twitter.com/joeboyofficial Facebook: https://www",
+   "share_id": "MN202611_1bjwu5k1nf"
   },
   {
    "id": "crawl_b92qbv",
@@ -2798,5 +2828,5 @@
    "share_id": "MN202611_1bzqjfu5hag"
   }
  ],
- "updated": "2026-11-08T21:17:26.945Z"
+ "updated": "2026-11-12T13:46:17.985Z"
 }

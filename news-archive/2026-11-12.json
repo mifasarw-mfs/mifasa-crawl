@@ -1,7 +1,389 @@
 {
  "day": "2026-11-12",
- "count": 61,
+ "count": 80,
  "articles": [
+  {
+   "id": "crawl_1rwzoiw",
+   "title": "Uganda: Polisi irimo gukora iperereza ku rupfu rw'abanyeshuri bikekwa ko barozwe",
+   "summary": "Umuyobozi w'iryo shuri yatawe muri yombi kugira ngo byorohereze amaperereza ya polisi.",
+   "link": "https://www.bbc.com/gahuza/articles/cm9q8g8j0w3qo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/cm9q8g8j0w3qo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T13:40:17.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6be2/live/6c3860c0-de9a-11f1-9afe-1f03bfe02283.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6be2/live/6c3860c0-de9a-11f1-9afe-1f03bfe02283.jpg",
+   "title_rw": "Uganda: Polisi irimo gukora iperereza ku rupfu rw'abanyeshuri bikekwa ko barozwe",
+   "summary_rw": "Umuyobozi w'iryo shuri yatawe muri yombi kugira ngo byorohereze amaperereza ya polisi.",
+   "share_id": "MN202611_1rwzoiwskzq"
+  },
+  {
+   "id": "crawl_bgf6jt",
+   "title": "Russell Brand's social media accounts disabled by Meta",
+   "summary": "It comes after the 51-year-old disgraced entertainer was sentenced to 10-and-a-half-years in prison.",
+   "link": "https://www.bbc.co.uk/news/articles/ckedq1dxwylxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckedq1dxwylxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T13:35:26.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c6b/live/d6bf90f0-de98-11f1-9afe-1f03bfe02283.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c6b/live/d6bf90f0-de98-11f1-9afe-1f03bfe02283.jpg",
+   "title_en": "Russell Brand's social media accounts disabled by Meta",
+   "summary_en": "It comes after the 51-year-old disgraced entertainer was sentenced to 10-and-a-half-years in prison.",
+   "share_id": "MN202611_bgf6jt830n"
+  },
+  {
+   "id": "crawl_1wg9mw",
+   "title": "PSG IKOMEYE UYU MUNSI YARI MU KAGA MU 2010 IKIZWA NA PEREZIDA SARKOZY WIGIZE KOMISIYONER ARAYICURUZA",
+   "summary": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
+   "link": "https://www.youtube.com/watch?v=LX8gcgYGGhw",
+   "url": "https://www.youtube.com/watch?v=LX8gcgYGGhw",
+   "date": "2026-11-12T13:30:21.000Z",
+   "source": "Mwanafunzi Ismael YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Mwanafunzi Ismael YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "LX8gcgYGGhw"
+   },
+   "type": "video",
+   "image": "https://i1.ytimg.com/vi/LX8gcgYGGhw/hqdefault.jpg",
+   "thumbnail": "https://i1.ytimg.com/vi/LX8gcgYGGhw/hqdefault.jpg",
+   "title_rw": "PSG IKOMEYE UYU MUNSI YARI MU KAGA MU 2010 IKIZWA NA PEREZIDA SARKOZY WIGIZE KOMISIYONER ARAYICURUZA",
+   "summary_rw": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
+   "share_id": "MN202611_1wg9mwgeg6"
+  },
+  {
+   "id": "crawl_22raha",
+   "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+   "summary": "The UK is seeing impressive growth, but will it last?",
+   "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T13:27:09.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c584/live/89340bf0-de9c-11f1-9afe-1f03bfe02283.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c584/live/89340bf0-de9c-11f1-9afe-1f03bfe02283.jpg",
+   "title_en": "Faisal Islam: Why the UK economy is surprisingly resilient",
+   "summary_en": "The UK is seeing impressive growth, but will it last?",
+   "share_id": "MN202611_22rahao8x8"
+  },
+  {
+   "id": "crawl_7gk7z6",
+   "title": "#UrubugarwImikino: Impumeko y'Amavubi muri Mali || Inkuru ya Samir wayaherekeje i Bamako",
+   "summary": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "link": "https://www.youtube.com/watch?v=sOLdocXHMMo",
+   "url": "https://www.youtube.com/watch?v=sOLdocXHMMo",
+   "date": "2026-11-12T13:15:08.000Z",
+   "source": "Radio Rwanda YouTube",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Radio Rwanda YouTube",
+    "news",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "sOLdocXHMMo"
+   },
+   "type": "video",
+   "image": "https://i4.ytimg.com/vi/sOLdocXHMMo/hqdefault.jpg",
+   "thumbnail": "https://i4.ytimg.com/vi/sOLdocXHMMo/hqdefault.jpg",
+   "title_rw": "#UrubugarwImikino: Impumeko y'Amavubi muri Mali || Inkuru ya Samir wayaherekeje i Bamako",
+   "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "share_id": "MN202611_7gk7z6kcsg"
+  },
+  {
+   "id": "crawl_xs5qxu",
+   "title": "Police investigation into Vigar's death ongoing",
+   "summary": "The police investigation into Billy Vigar's death from a \"significant brain injury\" is unlikely to conclude for at least another two months.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckm2mn2lvld9o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ckm2mn2lvld9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T13:11:49.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4800/live/690b1270-de96-11f1-9afe-1f03bfe02283.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4800/live/690b1270-de96-11f1-9afe-1f03bfe02283.jpg",
+   "title_en": "Police investigation into Vigar's death ongoing",
+   "summary_en": "The police investigation into Billy Vigar's death from a \"significant brain injury\" is unlikely to conclude for at least another two months.",
+   "share_id": "MN202611_xs5qxuxocg"
+  },
+  {
+   "id": "crawl_4vyfk9",
+   "title": "I'm burnt out and feel forgotten as a young carer",
+   "summary": "Min, 16, says people do not always understand her sacrifices and how valuable support is.",
+   "link": "https://www.bbc.co.uk/news/articles/c68xzylnzjv9o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c68xzylnzjv9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T13:07:06.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1216/live/2d877910-d837-11f1-87c3-29e1cdce63c6.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1216/live/2d877910-d837-11f1-87c3-29e1cdce63c6.jpg",
+   "title_en": "I'm burnt out and feel forgotten as a young carer",
+   "summary_en": "Min, 16, says people do not always understand her sacrifices and how valuable support is.",
+   "share_id": "MN202611_4vyfk9rc13"
+  },
+  {
+   "id": "crawl_1qe476c",
+   "title": "Get My Way or I Walk: Kinshasa’s Playbook for Wrecking International Organizations",
+   "summary": "The Francophone world has its eyes on the 20th Francophonie Summit in Phnom Penh, Cambodia, where the next Secretary-General of the Organisation Internationale de la Francophonie (OIF) will be elected… The post Get My Way or I Walk: Kinshasa’s Playbook for Wrecking International Organizations appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/get-my-way-or-i-walk-kinshasas-playbook-for-wrecking-international-organizations/",
+   "url": "https://www.ktpress.rw/2026/11/get-my-way-or-i-walk-kinshasas-playbook-for-wrecking-international-organizations/",
+   "date": "2026-11-12T13:02:58.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "Voices"
+   ],
+   "title_en": "Get My Way or I Walk: Kinshasa’s Playbook for Wrecking International Organizations",
+   "summary_en": "The Francophone world has its eyes on the 20th Francophonie Summit in Phnom Penh, Cambodia, where the next Secretary-General of the Organisation Internationale de la Francophonie (OIF) will be elected… The post Get My Way or I Walk: Kinshasa’s Playbook for Wrecking International Organizations appeared first on KT PRESS .",
+   "share_id": "MN202611_1qe476c019u"
+  },
+  {
+   "id": "crawl_jlermg",
+   "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+   "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+   "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T13:02:46.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b54/live/e251ec80-de91-11f1-a701-fddedf244c16.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b54/live/e251ec80-de91-11f1-a701-fddedf244c16.jpg",
+   "title_en": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+   "summary_en": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+   "share_id": "MN202611_jlermgbepi"
+  },
+  {
+   "id": "crawl_1km0lgy",
+   "title": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
+   "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
+   "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T13:02:37.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4358/live/fa767be0-de8d-11f1-9afe-1f03bfe02283.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4358/live/fa767be0-de8d-11f1-9afe-1f03bfe02283.jpg",
+   "title_en": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
+   "summary_en": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
+   "share_id": "MN202611_1km0lgythxs"
+  },
+  {
+   "id": "crawl_1nj4w9w",
+   "title": "Banki Nkuru y'u Rwanda izaniye umwihariko abana b'abakobwa",
+   "summary": "Banki Nkuru y’u Rwanda (BNR) yatangije gahunda yiswe NBR Girls Mentorship Program, igamije gufasha abakobwa bakiri bato kongera ubumenyi, icyizere n’ubushobozi bwo kwihitiramo amasomo, imyuga (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/banki-nkuru-y-u-rwanda-izaniye-umwihariko-abana-b-abakobwa",
+   "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/banki-nkuru-y-u-rwanda-izaniye-umwihariko-abana-b-abakobwa",
+   "date": "2026-11-12T12:59:17.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu Rwanda",
+    "MobileBigStory",
+    "Ruzindana Janvier"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_10.35_56.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_10.35_56.jpg",
+   "title_rw": "Banki Nkuru y'u Rwanda izaniye umwihariko abana b'abakobwa",
+   "summary_rw": "Banki Nkuru y’u Rwanda (BNR) yatangije gahunda yiswe NBR Girls Mentorship Program, igamije gufasha abakobwa bakiri bato kongera ubumenyi, icyizere n’ubushobozi bwo kwihitiramo amasomo, imyuga (…)",
+   "share_id": "MN202611_1nj4w9w0qde"
+  },
+  {
+   "id": "crawl_b0p6m8",
+   "title": "Ngo nde...Muhoozi, Perezida? Turabyanze - impaka zavutse i Bugande",
+   "summary": "Bamwe mu bagize Ishyaka riri ku butegetsi muri Uganda, National Resistance Movement (NRM), bagaragaje ko batavuga rumwe ku cyifuzo cyo kugena General Muhoozi Kainerugaba, umuhungu wa Perezida (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/ngo-nde-muhozi-perezida-turabyanze-impaka-zavutse-i-bugande",
+   "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/ngo-nde-muhozi-perezida-turabyanze-impaka-zavutse-i-bugande",
+   "date": "2026-11-12T12:50:54.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu Rwanda",
+    "MobileBigStory",
+    "Ruzindana Janvier"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_10.24_21_1_.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_10.24_21_1_.jpg",
+   "title_rw": "Ngo nde...Muhoozi, Perezida? Turabyanze - impaka zavutse i Bugande",
+   "summary_rw": "Bamwe mu bagize Ishyaka riri ku butegetsi muri Uganda, National Resistance Movement (NRM), bagaragaje ko batavuga rumwe ku cyifuzo cyo kugena General Muhoozi Kainerugaba, umuhungu wa Perezida (…)",
+   "share_id": "MN202611_b0p6m8w9lq"
+  },
+  {
+   "id": "crawl_hp74ao",
+   "title": "Dore umuganga ushinjwa gutoranya abarwayi bagombaga kwicwa muri Jenoside",
+   "summary": "Dore umuganga ushinjwa gutoranya abarwayi bagombaga kwicwa muri Jenoside",
+   "link": "https://www.kigalitoday.com/amashusho/kt-tv/article/dore-umuganga-ushinjwa-gutoranya-abarwayi-bagombaga-kwicwa-muri-jenoside",
+   "url": "https://www.kigalitoday.com/amashusho/kt-tv/article/dore-umuganga-ushinjwa-gutoranya-abarwayi-bagombaga-kwicwa-muri-jenoside",
+   "date": "2026-11-12T12:45:05.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "KT TV",
+    "MobileBigStory"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/2026-11-12_14_42_01-teganya_png_1080_864_.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-12_14_42_01-teganya_png_1080_864_.png",
+   "title_rw": "Dore umuganga ushinjwa gutoranya abarwayi bagombaga kwicwa muri Jenoside",
+   "summary_rw": "Dore umuganga ushinjwa gutoranya abarwayi bagombaga kwicwa muri Jenoside",
+   "share_id": "MN202611_hp74aopcbi"
+  },
+  {
+   "id": "crawl_abpqz3",
+   "title": "Watch: The latest in the Jensen Huang Nvidia scandal",
+   "summary": "The BBC's China correspondent Laura Bicker explains the timeline of events and what's next for Nvidia as its board considers whether to oust the CEO.",
+   "link": "https://www.bbc.co.uk/news/videos/cqz0k70990zpo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cqz0k70990zpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T12:42:44.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d9d/live/d11629a0-de95-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d9d/live/d11629a0-de95-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "Watch: The latest in the Jensen Huang Nvidia scandal",
+   "summary_en": "The BBC's China correspondent Laura Bicker explains the timeline of events and what's next for Nvidia as its board considers whether to oust the CEO.",
+   "share_id": "MN202611_abpqz3me25"
+  },
+  {
+   "id": "crawl_1vo6uld",
+   "title": "Schools, libraries and parents face 'difficult decision' over David Walliams books",
+   "summary": "Some schools remove the children's author's books from their libraries after allegations against him.",
+   "link": "https://www.bbc.co.uk/news/articles/cvkg5jkpl2pno?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cvkg5jkpl2pno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T12:42:43.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf48/live/30659f30-de8c-11f1-b88b-3f1671ea859d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf48/live/30659f30-de8c-11f1-b88b-3f1671ea859d.jpg",
+   "title_en": "Schools, libraries and parents face 'difficult decision' over David Walliams books",
+   "summary_en": "Some schools remove the children's author's books from their libraries after allegations against him.",
+   "share_id": "MN202611_1vo6uldzr27"
+  },
+  {
+   "id": "crawl_be1vlb",
+   "title": "Resident Evil Requiem sweeps Golden Joystick Awards",
+   "summary": "The latest instalment in the franchise, which is marking 30 years, bagged the top prize.",
+   "link": "https://www.bbc.co.uk/news/articles/cmg46y76kz5no?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmg46y76kz5no?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T12:35:14.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/017a/live/9f5c4cb0-1261-11f1-808c-3f897f9a068e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/017a/live/9f5c4cb0-1261-11f1-808c-3f897f9a068e.jpg",
+   "title_en": "Resident Evil Requiem sweeps Golden Joystick Awards",
+   "summary_en": "The latest instalment in the franchise, which is marking 30 years, bagged the top prize.",
+   "share_id": "MN202611_be1vlbus25"
+  },
+  {
+   "id": "crawl_1yuq74e",
+   "title": "U Rwanda rwesheje imihigo ku ngengo y'imari igenewe abana",
+   "summary": "Minisiteri y’Imari n’Igenamigambi (MINECOFIN), yagaragaje ko u Rwanda rwifuza kurushaho gushimangira umuhigo wo gutegura igenamigambi no kugena ingengo y’imari hitabwa ku bana, no kureba ko (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/u-rwanda-rwesheje-imihigo-ku-ngengo-y-imari-igenewe-abana",
+   "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/u-rwanda-rwesheje-imihigo-ku-ngengo-y-imari-igenewe-abana",
+   "date": "2026-11-12T12:29:14.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu Rwanda",
+    "MobileBigStory",
+    "Tarib Abdul"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_12.02_30_1_.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_12.02_30_1_.jpg",
+   "title_rw": "U Rwanda rwesheje imihigo ku ngengo y'imari igenewe abana",
+   "summary_rw": "Minisiteri y’Imari n’Igenamigambi (MINECOFIN), yagaragaje ko u Rwanda rwifuza kurushaho gushimangira umuhigo wo gutegura igenamigambi no kugena ingengo y’imari hitabwa ku bana, no kureba ko (…)",
+   "share_id": "MN202611_1yuq74ef4rw"
+  },
+  {
+   "id": "crawl_1toy4ua",
+   "title": "Crystal Palace sack boss Sage after 16 games",
+   "summary": "Crystal Palace have sacked manager Pierre Sage after 16 games in charge and the club bottom of the table.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T12:23:47.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73af/live/be720480-de96-11f1-9afe-1f03bfe02283.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73af/live/be720480-de96-11f1-9afe-1f03bfe02283.jpg",
+   "title_en": "Crystal Palace sack boss Sage after 16 games",
+   "summary_en": "Crystal Palace have sacked manager Pierre Sage after 16 games in charge and the club bottom of the table.",
+   "share_id": "MN202611_1toy4uaq28w"
+  },
   {
    "id": "crawl_panzwi",
    "title": "Uganda Airlines Enters Rwanda Market with Daily Flights",
@@ -253,6 +635,32 @@
    "title_rw": "WAMUFARANSA Asekeje 🤣President Turumirwa Itegure guseka",
    "summary_rw": "#wamufaransa #funnyvideo #nsabi #comedy #filimnews",
    "share_id": "MN202611_oabzxqc4r0"
+  },
+  {
+   "id": "crawl_ajcfeb",
+   "title": "Amavubi U-23 yatsinzwe na Cameroun || Byapfiriye he?",
+   "summary": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "link": "https://www.youtube.com/watch?v=mR6Sxokivu0",
+   "url": "https://www.youtube.com/watch?v=mR6Sxokivu0",
+   "date": "2026-11-12T10:47:10.000Z",
+   "source": "Radio Rwanda YouTube",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Radio Rwanda YouTube",
+    "news",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "mR6Sxokivu0"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/mR6Sxokivu0/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/mR6Sxokivu0/hqdefault.jpg",
+   "title_rw": "Amavubi U-23 yatsinzwe na Cameroun || Byapfiriye he?",
+   "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "share_id": "MN202611_ajcfebck7l"
   },
   {
    "id": "crawl_g817nu",
@@ -1297,5 +1705,5 @@
    "share_id": "MN202611_1qpleoceb56"
   }
  ],
- "updated": "2026-11-12T12:30:01.048Z"
+ "updated": "2026-11-12T13:46:17.979Z"
 }
