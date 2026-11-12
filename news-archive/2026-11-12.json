@@ -1,7 +1,27 @@
 {
  "day": "2026-11-12",
- "count": 114,
+ "count": 115,
  "articles": [
+  {
+   "id": "crawl_6ziwoj",
+   "title": "Man Utd & Man City in Gusto battle - Friday's gossip",
+   "summary": "Manchester United and Manchester City are going head-to-head for Chelsea defender Malo Gusto and Leeds United pursue Will Lankshear, plus more.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmp86enlly13o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmp86enlly13o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T21:13:59.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f120/live/31d11dd0-ded3-11f1-b441-2b33b063138f.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f120/live/31d11dd0-ded3-11f1-b441-2b33b063138f.png",
+   "title_en": "Man Utd & Man City in Gusto battle - Friday's gossip",
+   "summary_en": "Manchester United and Manchester City are going head-to-head for Chelsea defender Malo Gusto and Leeds United pursue Will Lankshear, plus more.",
+   "share_id": "MN202611_6ziwojew29"
+  },
   {
    "id": "crawl_1vhvr4h",
    "title": "At COP31, Government Pitches $3bn for Electricity, Flood Protection for 220,000 Kigalians",
@@ -2456,5 +2476,5 @@
    "share_id": "MN202611_1qpleoceb56"
   }
  ],
- "updated": "2026-11-12T20:42:58.066Z"
+ "updated": "2026-11-12T21:29:20.348Z"
 }
