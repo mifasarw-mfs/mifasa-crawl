@@ -1656,6 +1656,102 @@
    ],
    "auto": true,
    "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_845f3b09_q",
+   "label_rw": "Ubufasha bw'ibanze ku bikomere byoroheje",
+   "label_en": "Basic first aid for minor cuts",
+   "patterns_en": [
+    "What should you do when you get a minor cut?",
+    "What is best for washing a wound?",
+    "When should you use an antiseptic?"
+   ],
+   "patterns_rw": [
+    "Wakora iki igihe ugize igikomere cyoroheje?",
+    "Ni iki cyiza cyo gukaraba igikomere?",
+    "Ni ryari wakoresha umuti wica udukoko?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kubikuza igikomere cyoroheje ukoresha amazi meza n'isabune ni ingenzi. Kuraho umwanda wose ushobora gutera ubwandu. Shyiraho umuti wica udukoko n'igitambaro gikeye cyo guhagarika amaraso no kurinda igikomere.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Cleaning a minor cut with clean water and soap is important. Remove any dirt that could cause infection. Apply an antiseptic and a clean bandage to stop bleeding and protect the wound.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_deb1ba51_q",
+   "label_rw": "Amategeko y'umuhanda ku banyamaguru",
+   "label_en": "Road safety rules for pedestrians",
+   "patterns_en": [
+    "Where should a pedestrian walk on the road?",
+    "Where is the safest place to cross the road?",
+    "What should a pedestrian do before crossing?"
+   ],
+   "patterns_rw": [
+    "Ni he hantu umunyamaguru agomba kugendera mu muhanda?",
+    "Ni ryari umunyamaguru yambuka umuhanda?",
+    "Ni iki cyingenzi umunyamaguru akora mbere yo kwambuka?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Abanyamaguru bagomba kugendera ku ruhande rw'ibumoso rw'umuhanda iyo nta nzira yabo ihari. Bagomba kwambuka umuhanda ku micaca yabugenewe cyangwa aho abapolisi bari. Ni byiza kwitonda no kureba ibumoso n'iburyo mbere yo kwambuka.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Pedestrians usually need to walk on the left side of the road if there is no sidewalk. They should cross the road at designated crossings or where police direct traffic. It is important to look left and right carefully before crossing.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_4894c6be_q",
+   "label_rw": "Kumenya abakuze b'inyangamugayo n'abateza akaga",
+   "label_en": "Recognizing safe and unsafe adults",
+   "patterns_en": [
+    "Who is considered a safe adult?",
+    "How can you recognize an unsafe adult?",
+    "What should a child do if they feel unsafe?"
+   ],
+   "patterns_rw": [
+    "Ni bande bakuze b'inyangamugayo?",
+    "Wamenya ute umuntu mukuru uteza akaga?",
+    "Wakora iki ugize ubwoba cyangwa ikibazo?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Abakuze b'inyangamugayo bubaha umwana kandi ntibamusaba guhisha ibanga ribabaza. Abateza akaga basaba abana ibintu bidasanzwe cyangwa bakabakoraho mu buryo butera ipfunwe. Abana bagomba kubwira umuntu mukuru bizewe iyo hari uwagerageje kubagirira nabi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Safe adults respect a child's boundaries and never ask them to keep harmful secrets. Unsafe adults often ask for inappropriate secrecy or touch children in uncomfortable ways. Children should always report unsafe behaviors to a trusted adult.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_17099400_q",
+   "label_rw": "Gukoresha neza imiti yoza mu rugo nta byago",
+   "label_en": "Safe use of household cleaning products",
+   "patterns_en": [
+    "What happens if you mix bleach and acid?",
+    "Where should I store household cleaners to protect children?",
+    "What protective gear should I wear while cleaning?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyabaho navanze jik na asidi?",
+    "Nasiga imiti yoza he kugira ngo abana batayigeza?",
+    "Mbese nkwiriye kwambara iki igihe nyoza?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imiti yoza mu rugo ishobora kuba mibi nidakoreshejwe neza. Ntuzavange imiti itandukanye nka jik na asidi kuko bitanga umwuka wica. Bika iyo miti ahantu abana n'amatungo batayigeza. Jya wambara amadarubina na rukoko igihe uyikoresha. Soma amabwiriza ku icupa mbere yo kuyikoresha.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Household cleaning products can be dangerous if misused. Never mix different cleaners like bleach and acids because they create toxic gases. Store chemicals safely out of reach of children and pets. Wear protective gloves and eye gear when necessary. Always read product labels before use.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
   }
  ],
  "knowledge": [
@@ -3016,6 +3112,86 @@
     "rules",
     "equipment",
     "sports"
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_845f3b09",
+   "category": "safety",
+   "title_rw": "Ubufasha bw'ibanze ku bikomere byoroheje",
+   "title_en": "Basic first aid for minor cuts",
+   "summary_rw": "Kubikuza igikomere cyoroheje ukoresha amazi meza n'isabune ni ingenzi. Kuraho umwanda wose ushobora gutera ubwandu. Shyiraho umuti wica udukoko n'igitambaro gikeye cyo guhagarika amaraso no kurinda igikomere.",
+   "summary_en": "Cleaning a minor cut with clean water and soap is important. Remove any dirt that could cause infection. Apply an antiseptic and a clean bandage to stop bleeding and protect the wound.",
+   "keywords": [
+    "first aid",
+    "ubufasha bw'ibanze",
+    "cut",
+    "igikomere",
+    "infection",
+    "ubwandu",
+    "safety",
+    "umutekano"
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_deb1ba51",
+   "category": "safety",
+   "title_rw": "Amategeko y'umuhanda ku banyamaguru",
+   "title_en": "Road safety rules for pedestrians",
+   "summary_rw": "Abanyamaguru bagomba kugendera ku ruhande rw'ibumoso rw'umuhanda iyo nta nzira yabo ihari. Bagomba kwambuka umuhanda ku micaca yabugenewe cyangwa aho abapolisi bari. Ni byiza kwitonda no kureba ibumoso n'iburyo mbere yo kwambuka.",
+   "summary_en": "Pedestrians usually need to walk on the left side of the road if there is no sidewalk. They should cross the road at designated crossings or where police direct traffic. It is important to look left and right carefully before crossing.",
+   "keywords": [
+    "umunyamaguru",
+    "umuhanda",
+    "umutekano",
+    "kwambuka",
+    "pedestrian",
+    "road",
+    "safety",
+    "crossing"
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_4894c6be",
+   "category": "safety",
+   "title_rw": "Kumenya abakuze b'inyangamugayo n'abateza akaga",
+   "title_en": "Recognizing safe and unsafe adults",
+   "summary_rw": "Abakuze b'inyangamugayo bubaha umwana kandi ntibamusaba guhisha ibanga ribabaza. Abateza akaga basaba abana ibintu bidasanzwe cyangwa bakabakoraho mu buryo butera ipfunwe. Abana bagomba kubwira umuntu mukuru bizewe iyo hari uwagerageje kubagirira nabi.",
+   "summary_en": "Safe adults respect a child's boundaries and never ask them to keep harmful secrets. Unsafe adults often ask for inappropriate secrecy or touch children in uncomfortable ways. Children should always report unsafe behaviors to a trusted adult.",
+   "keywords": [
+    "umutekano",
+    "uburenganzira",
+    "abana",
+    "abakuze",
+    "safety",
+    "boundaries",
+    "children",
+    "adults"
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_17099400",
+   "category": "safety",
+   "title_rw": "Gukoresha neza imiti yoza mu rugo nta byago",
+   "title_en": "Safe use of household cleaning products",
+   "summary_rw": "Imiti yoza mu rugo ishobora kuba mibi nidakoreshejwe neza. Ntuzavange imiti itandukanye nka jik na asidi kuko bitanga umwuka wica. Bika iyo miti ahantu abana n'amatungo batayigeza. Jya wambara amadarubina na rukoko igihe uyikoresha. Soma amabwiriza ku icupa mbere yo kuyikoresha.",
+   "summary_en": "Household cleaning products can be dangerous if misused. Never mix different cleaners like bleach and acids because they create toxic gases. Store chemicals safely out of reach of children and pets. Wear protective gloves and eye gear when necessary. Always read product labels before use.",
+   "keywords": [
+    "imiti yoza",
+    "cleaning products",
+    "umutekano",
+    "safety",
+    "uburozi",
+    "toxicity",
+    "urugo",
+    "household"
    ],
    "auto": true,
    "taught": "2026-11-12"
