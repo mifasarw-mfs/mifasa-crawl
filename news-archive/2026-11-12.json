@@ -1,7 +1,123 @@
 {
  "day": "2026-11-12",
- "count": 104,
+ "count": 110,
  "articles": [
+  {
+   "id": "crawl_1uzec7m",
+   "title": "Inganzo Ngari zateguje igitaramo cyo kwizihiza imyaka 20",
+   "summary": "Itorero Inganzo Ngari rikomeje imyiteguro y’igitaramo rizizihirizamo imyaka 20 rimaze mu bikorwa byo guteza imbere no gusigasira umuco Nyarwanda binyuze mu nganzo, mu gitaramo gikomeye ryise (…)",
+   "link": "https://www.kigalitoday.com/imyidagaduro/ibirori/article/inganzo-ngari-zateguje-igitaramo-cyo-kwizihiza-imyaka-20",
+   "url": "https://www.kigalitoday.com/imyidagaduro/ibirori/article/inganzo-ngari-zateguje-igitaramo-cyo-kwizihiza-imyaka-20",
+   "date": "2026-11-12T19:08:20.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Ibirori"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_16.38_46.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_16.38_46.jpg",
+   "title_rw": "Inganzo Ngari zateguje igitaramo cyo kwizihiza imyaka 20",
+   "summary_rw": "Itorero Inganzo Ngari rikomeje imyiteguro y’igitaramo rizizihirizamo imyaka 20 rimaze mu bikorwa byo guteza imbere no gusigasira umuco Nyarwanda binyuze mu nganzo, mu gitaramo gikomeye ryise (…)",
+   "share_id": "MN202611_1uzec7mhd80"
+  },
+  {
+   "id": "crawl_1ir28is",
+   "title": "Abahinzi bigishijwe na RICA bamaze kubona itandukaniro",
+   "summary": "Ubuhamya bwatanzwe n’abaturage bakora ubuhinzi bubungabunga ubutaka, baturutse mu bice bitandukanye by’igihugu, bugaragaza uburyo ubu buhinzi bwongera umusaruro ugereranyije n’ubuhinzi gakondo. (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/abahinzi-bigishijwe-na-rica-bamaze-kubona-itandukaniro",
+   "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/abahinzi-bigishijwe-na-rica-bamaze-kubona-itandukaniro",
+   "date": "2026-11-12T18:43:31.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu Rwanda",
+    "MobileBigStory",
+    "Ernestine Musanabera"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_17.08_08.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_17.08_08.jpg",
+   "title_rw": "Abahinzi bigishijwe na RICA bamaze kubona itandukaniro",
+   "summary_rw": "Ubuhamya bwatanzwe n’abaturage bakora ubuhinzi bubungabunga ubutaka, baturutse mu bice bitandukanye by’igihugu, bugaragaza uburyo ubu buhinzi bwongera umusaruro ugereranyije n’ubuhinzi gakondo. (…)",
+   "share_id": "MN202611_1ir28is4jpe"
+  },
+  {
+   "id": "crawl_j95f48",
+   "title": "#diamondplatnumz #Davido #Obo",
+   "summary": "#diamondplatnumz #Davido #Obo",
+   "link": "https://www.youtube.com/shorts/NW6rYYJheeo",
+   "url": "https://www.youtube.com/shorts/NW6rYYJheeo",
+   "date": "2026-11-12T18:36:22.000Z",
+   "source": "Diamond Platnumz YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Diamond Platnumz YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "NW6rYYJheeo"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/NW6rYYJheeo/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/NW6rYYJheeo/hqdefault.jpg",
+   "title_rw": "#diamondplatnumz #Davido #Obo",
+   "summary_rw": "#diamondplatnumz #Davido #Obo",
+   "share_id": "MN202611_j95f48lc9y"
+  },
+  {
+   "id": "crawl_khj1k0",
+   "title": "SFA in talks with Boston officials over biannual friendly match",
+   "summary": "Discussions take place between Scottish football governing's body and a delegation of state senators to build on bonds forged during the World Cup.",
+   "link": "https://www.bbc.co.uk/news/articles/cqdr1jd5mpp5o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqdr1jd5mpp5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T18:35:31.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51fa/live/0eea4910-687a-11f1-be92-f5f7087bcfc7.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51fa/live/0eea4910-687a-11f1-be92-f5f7087bcfc7.jpg",
+   "title_en": "SFA in talks with Boston officials over biannual friendly match",
+   "summary_en": "Discussions take place between Scottish football governing's body and a delegation of state senators to build on bonds forged during the World Cup.",
+   "share_id": "MN202611_khj1k0by0u"
+  },
+  {
+   "id": "crawl_1crqsfk",
+   "title": "#diamondplatnumz #Simba #Davido #Nigeria",
+   "summary": "#diamondplatnumz #Simba #Davido #Nigeria",
+   "link": "https://www.youtube.com/shorts/V2otsqzgM0E",
+   "url": "https://www.youtube.com/shorts/V2otsqzgM0E",
+   "date": "2026-11-12T18:19:26.000Z",
+   "source": "Diamond Platnumz YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Diamond Platnumz YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "V2otsqzgM0E"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/V2otsqzgM0E/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/V2otsqzgM0E/hqdefault.jpg",
+   "title_rw": "#diamondplatnumz #Simba #Davido #Nigeria",
+   "summary_rw": "#diamondplatnumz #Simba #Davido #Nigeria",
+   "share_id": "MN202611_1crqsfk2nm6"
+  },
   {
    "id": "crawl_ibzvt",
    "title": "Minisitiri w'Intebe yasabye abafatanyabikorwa gushora imari mu buhinzi buhangana n'imihindagurikire y'ibihe",
@@ -419,6 +535,33 @@
    "title_en": "Before Scott Colom, these two men were the last black US senators in Mississippi",
    "summary_en": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
    "share_id": "MN202611_10zy0deqwu8"
+  },
+  {
+   "id": "crawl_1vst5ba",
+   "title": "Children of Blood and Bone | New Trailer (2027) - Thuso Mbedu, Damson Idris, Amandla Stenberg",
+   "summary": "To take down an empire, rise as one. From visionary filmmaker Gina Prince-Bythewood, watch the New Trailer for #ChildrenOfBloodAndBone - only in theatres and IMAX January 15, 2027. #FilmedForIMAX #WeAreMagic Featuring new song “African Love Story” from soundtrack executive music producer Tems. In the epic fantasy world of Orïsha, a young woman goes on a quest to reclaim the magic that was violentl",
+   "link": "https://www.youtube.com/watch?v=a20LtkPALYM",
+   "url": "https://www.youtube.com/watch?v=a20LtkPALYM",
+   "date": "2026-11-12T14:00:01.000Z",
+   "source": "YouTube Trending Kenya",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "YouTube Trending Kenya",
+    "entertainment",
+    "trending",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "a20LtkPALYM"
+   },
+   "type": "video",
+   "image": "https://i.ytimg.com/vi/a20LtkPALYM/hqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/a20LtkPALYM/hqdefault.jpg",
+   "title_en": "Children of Blood and Bone | New Trailer (2027) - Thuso Mbedu, Damson Idris, Amandla Stenberg",
+   "summary_en": "To take down an empire, rise as one. From visionary filmmaker Gina Prince-Bythewood, watch the New Trailer for #ChildrenOfBloodAndBone - only in theatres and IMAX January 15, 2027. #FilmedForIMAX #WeAreMagic Featuring new song “African Love Story” from soundtrack executive music producer Tems. In the epic fantasy world of Orïsha, a young woman goes on a quest to reclaim the magic that was violentl",
+   "share_id": "MN202611_1vst5bap85g"
   },
   {
    "id": "crawl_7dolr",
@@ -2233,5 +2376,5 @@
    "share_id": "MN202611_1qpleoceb56"
   }
  ],
- "updated": "2026-11-12T18:15:33.280Z"
+ "updated": "2026-11-12T19:11:17.504Z"
 }
