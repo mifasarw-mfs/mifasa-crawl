@@ -1,7 +1,127 @@
 {
  "day": "2026-11-12",
- "count": 55,
+ "count": 61,
  "articles": [
+  {
+   "id": "crawl_panzwi",
+   "title": "Uganda Airlines Enters Rwanda Market with Daily Flights",
+   "summary": "KIGALI – A journey between two neighbouring countries can mean many things. It can be a business deal waiting to happen, a family reunion, a long awaited holiday or an… The post Uganda Airlines Enters Rwanda Market with Daily Flights appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/uganda-airlines-enters-rwanda-market-with-daily-flights/",
+   "url": "https://www.ktpress.rw/2026/11/uganda-airlines-enters-rwanda-market-with-daily-flights/",
+   "date": "2026-11-12T12:21:56.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "Uncategorized",
+    "latestnews"
+   ],
+   "title_en": "Uganda Airlines Enters Rwanda Market with Daily Flights",
+   "summary_en": "KIGALI – A journey between two neighbouring countries can mean many things. It can be a business deal waiting to happen, a family reunion, a long awaited holiday or an… The post Uganda Airlines Enters Rwanda Market with Daily Flights appeared first on KT PRESS .",
+   "share_id": "MN202611_panzwi1bds"
+  },
+  {
+   "id": "crawl_ajq4a8",
+   "title": "Irish star CMAT joins Philomena Begley on stage in surprise appearance",
+   "summary": "Philomena Begley was honoured with the Lifetime Achievement Award in recognition of her 64-year career.",
+   "link": "https://www.bbc.co.uk/news/articles/cm1dv7v4x0z2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm1dv7v4x0z2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T12:06:28.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ba5/live/ed4d9840-de88-11f1-b88b-3f1671ea859d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ba5/live/ed4d9840-de88-11f1-b88b-3f1671ea859d.jpg",
+   "title_en": "Irish star CMAT joins Philomena Begley on stage in surprise appearance",
+   "summary_en": "Philomena Begley was honoured with the Lifetime Achievement Award in recognition of her 64-year career.",
+   "share_id": "MN202611_ajq4a8j0r2"
+  },
+  {
+   "id": "crawl_1n2v7vp",
+   "title": "Smith's Netherlands switch sad - SA swimming boss",
+   "summary": "Tatjana Smith's decision to switch allegiance to the Netherlands is \"sad\" for South Africa, says the head of the nation's swimming federation.",
+   "link": "https://www.bbc.co.uk/sport/swimming/articles/cmy86x3y5dd8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/swimming/articles/cmy86x3y5dd8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T11:40:04.000Z",
+   "source": "BBC Sport Africa",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Sport Africa",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00df/live/67590890-de89-11f1-b88b-3f1671ea859d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00df/live/67590890-de89-11f1-b88b-3f1671ea859d.jpg",
+   "title_en": "Smith's Netherlands switch sad - SA swimming boss",
+   "summary_en": "Tatjana Smith's decision to switch allegiance to the Netherlands is \"sad\" for South Africa, says the head of the nation's swimming federation.",
+   "share_id": "MN202611_1n2v7vpn5ab"
+  },
+  {
+   "id": "crawl_hqtolk",
+   "title": "Rwanda Seeks $12bn to Cut Dangerous Emissions by Half",
+   "summary": "Rwanda is seeking $12 billion in investment to cut greenhouse gas emissions by 53 per cent by 2035. The commitment was announced on Thursday, November 12, by Prime Minister Dr… The post Rwanda Seeks $12bn to Cut Dangerous Emissions by Half appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/rwanda-seeks-12bn-to-cut-dangerous-emissions-by-half/",
+   "url": "https://www.ktpress.rw/2026/11/rwanda-seeks-12bn-to-cut-dangerous-emissions-by-half/",
+   "date": "2026-11-12T11:37:01.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "Economy",
+    "latestnews"
+   ],
+   "title_en": "Rwanda Seeks $12bn to Cut Dangerous Emissions by Half",
+   "summary_en": "Rwanda is seeking $12 billion in investment to cut greenhouse gas emissions by 53 per cent by 2035. The commitment was announced on Thursday, November 12, by Prime Minister Dr… The post Rwanda Seeks $12bn to Cut Dangerous Emissions by Half appeared first on KT PRESS .",
+   "share_id": "MN202611_hqtolkcqg6"
+  },
+  {
+   "id": "crawl_1qjdw0a",
+   "title": "Spain boss denies Lamine Yamal gets 'special privileges'",
+   "summary": "Spain head coach Luis de la Fuente denies claims Lamine Yamal received \"special privileges\" after being allowed to join the national team later than the rest of the squad.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm0qjekqzwp0o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm0qjekqzwp0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T11:31:54.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7137/live/e8eba510-de85-11f1-b88b-3f1671ea859d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7137/live/e8eba510-de85-11f1-b88b-3f1671ea859d.jpg",
+   "title_en": "Spain boss denies Lamine Yamal gets 'special privileges'",
+   "summary_en": "Spain head coach Luis de la Fuente denies claims Lamine Yamal received \"special privileges\" after being allowed to join the national team later than the rest of the squad.",
+   "share_id": "MN202611_1qjdw0a5tew"
+  },
+  {
+   "id": "crawl_1j0y3h9",
+   "title": "King Charles appears on Sir Elton John's radio show",
+   "summary": "The latest episode of Rocket Hour will air on the monarch's 78th birthday on Saturday.",
+   "link": "https://www.bbc.co.uk/news/articles/c3qj5lnee5n0o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c3qj5lnee5n0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T11:30:31.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65df/live/b2e69780-de81-11f1-b88b-3f1671ea859d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65df/live/b2e69780-de81-11f1-b88b-3f1671ea859d.jpg",
+   "title_en": "King Charles appears on Sir Elton John's radio show",
+   "summary_en": "The latest episode of Rocket Hour will air on the monarch's 78th birthday on Saturday.",
+   "share_id": "MN202611_1j0y3h9qzy3"
+  },
   {
    "id": "crawl_6zk6ks",
    "title": "Six matches that defined Carrick's Man Utd tenure",
@@ -1177,5 +1297,5 @@
    "share_id": "MN202611_1qpleoceb56"
   }
  ],
- "updated": "2026-11-12T11:33:22.587Z"
+ "updated": "2026-11-12T12:30:01.048Z"
 }
