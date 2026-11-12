@@ -1776,6 +1776,126 @@
    ],
    "auto": true,
    "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_70cb25f6_q",
+   "label_rw": "Gukuba no Kugabanya",
+   "label_en": "Multiplication and Division",
+   "patterns_en": [
+    "What is multiplication?",
+    "How does division work?",
+    "How are multiplication and division related?"
+   ],
+   "patterns_rw": [
+    "Gukuba bivuga iki?",
+    "Kugabanya bikorwa gute?",
+    "Ni iki gihuza gukuba no kugabanya?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gukuba ni uburyo bwo kongera umubare inshuro nyinshi. Kugabanya ni uburyo bwo kugabanya umubare mu bice bingana. Ibi bikorwa byombi bifitanye isano ya bugufi muri matematika. Gukuba bisohora umusaruro munini, naho kugabanya bigabanya uwo musaruro mu matsinda.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Multiplication is a way of adding a number multiple times. Division is the process of splitting a number into equal parts. These two operations are closely related in mathematics. Multiplication increases totals, while division separates totals into groups.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_32e56e4e_q",
+   "label_rw": "Imibare y'Igice n'Imibare ifite Agaciro k'Ikinjana",
+   "label_en": "Fractions and Decimals",
+   "patterns_en": [
+    "What is a fraction?",
+    "How is a decimal number written?",
+    "How are fractions and decimals related?"
+   ],
+   "patterns_rw": [
+    "Igice ni iki?",
+    "Umubare ufite agaciro k'ikinjana wandikwa ute?",
+    "Ese igice n'ikinjana bihuzwa n'iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Igice kigaragaza igice cy'umubare wuzuuye. Kimenyekana hifashishijwe umubare wo hejuru n'umubare wo hepfo. Umubare ufite agaciro k'ikinjana ukoresha akadomo kerekana ibice biri munsi y'umubare wuzuuye. Zombi zifashishwa mu mibare mu buzima bwa buri munsi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "A fraction represents a part of a whole number. It is written with a numerator and a denominator. A decimal uses a dot to show parts below a whole number. Both are used in math for everyday measurements.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_44558dac_q",
+   "label_rw": "Ikomatanya n'Imiterere",
+   "label_en": "Geometry and Shapes",
+   "patterns_en": [
+    "What is studied in geometry?",
+    "What are basic shapes in mathematics?",
+    "Why is geometry important?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyigwa mu ikomatanya n'imiterere?",
+    "Ese imiterere y'ibanze ni iyihe mu mibare?",
+    "Kuki geometry ari ingenzi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ikomatanya n'imiterere ni ishami ry'imibare ryiga ku bushyikirane bw'ingingo, imirongo, ubuso n'ibice bifite uburebure, ubugari n'uburebure bw'imbere. Ifasha mu gusobanura isura n'aho ibintu biherereye mu mwanya.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Geometry is a branch of mathematics that studies the relationships of points, lines, surfaces, and solids with length, width, and depth. It helps in describing shapes and the positions of objects in space.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_9e57f32b_q",
+   "label_rw": "Ubuso n'Umuringoti",
+   "label_en": "Area and Perimeter",
+   "patterns_en": [
+    "What is the area of a shape?",
+    "How do you calculate perimeter?",
+    "What is the difference between area and perimeter?"
+   ],
+   "patterns_rw": [
+    "Ni iki ubuso bw'ikintu?",
+    "Umuringoti ubarwa ute?",
+    "Aka karere gafite ubuso bungana iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubuso ni umubare w'aho ikintu gifata mu mwanya w'impande ebyiri. Umuringoti ni uburebure bwose bw'inkengero z'ikintu gifite impande ebyiri. Izi ngingo zifashishwa mu kubara ubutaka no mu bwubatsi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Area is the amount of space inside a two-dimensional shape. Perimeter is the total distance around the outer boundary of a shape. These concepts are used in land measurement and construction.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_7a3d095c_q",
+   "label_rw": "Impuzandengo mu Mibare",
+   "label_en": "Averages in Mathematics",
+   "patterns_en": [
+    "How do you calculate the mean?",
+    "What is an average in math?",
+    "Why is the mean used?"
+   ],
+   "patterns_rw": [
+    "Ni gute babara impuzandengo?",
+    "Impuzandengo ni iki mu mibare?",
+    "Kuki bakoresha impuzandengo?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Impuzandengo y'imibare yitwa ariutimetike ibarwa iteranya imibare yose maze igabanishwa n'umubare wayo. Ni uburyo bwo kugaragaza agaciro gahuza cyangwa gasanzwe mu mibare runaka.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The arithmetic mean is calculated by adding all numbers in a set and dividing by the count of numbers. It is a common way to represent a typical value in a dataset.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
   }
  ],
  "knowledge": [
@@ -3235,6 +3355,101 @@
     "ururimi",
     "ubumenyi",
     "umuco"
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_70cb25f6",
+   "category": "math",
+   "title_rw": "Gukuba no Kugabanya",
+   "title_en": "Multiplication and Division",
+   "summary_rw": "Gukuba ni uburyo bwo kongera umubare inshuro nyinshi. Kugabanya ni uburyo bwo kugabanya umubare mu bice bingana. Ibi bikorwa byombi bifitanye isano ya bugufi muri matematika. Gukuba bisohora umusaruro munini, naho kugabanya bigabanya uwo musaruro mu matsinda.",
+   "summary_en": "Multiplication is a way of adding a number multiple times. Division is the process of splitting a number into equal parts. These two operations are closely related in mathematics. Multiplication increases totals, while division separates totals into groups.",
+   "keywords": [
+    "gukuba",
+    "kugabanya",
+    "imibare",
+    "multiplication",
+    "division",
+    "math"
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_32e56e4e",
+   "category": "math",
+   "title_rw": "Imibare y'Igice n'Imibare ifite Agaciro k'Ikinjana",
+   "title_en": "Fractions and Decimals",
+   "summary_rw": "Igice kigaragaza igice cy'umubare wuzuuye. Kimenyekana hifashishijwe umubare wo hejuru n'umubare wo hepfo. Umubare ufite agaciro k'ikinjana ukoresha akadomo kerekana ibice biri munsi y'umubare wuzuuye. Zombi zifashishwa mu mibare mu buzima bwa buri munsi.",
+   "summary_en": "A fraction represents a part of a whole number. It is written with a numerator and a denominator. A decimal uses a dot to show parts below a whole number. Both are used in math for everyday measurements.",
+   "keywords": [
+    "imibare",
+    "igice",
+    "ikinjana",
+    "math",
+    "fraction",
+    "decimal",
+    "numbers"
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_44558dac",
+   "category": "math",
+   "title_rw": "Ikomatanya n'Imiterere",
+   "title_en": "Geometry and Shapes",
+   "summary_rw": "Ikomatanya n'imiterere ni ishami ry'imibare ryiga ku bushyikirane bw'ingingo, imirongo, ubuso n'ibice bifite uburebure, ubugari n'uburebure bw'imbere. Ifasha mu gusobanura isura n'aho ibintu biherereye mu mwanya.",
+   "summary_en": "Geometry is a branch of mathematics that studies the relationships of points, lines, surfaces, and solids with length, width, and depth. It helps in describing shapes and the positions of objects in space.",
+   "keywords": [
+    "geometry",
+    "shapes",
+    "imibare",
+    "imiterere",
+    "ubuso",
+    "umurongo",
+    "math"
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_9e57f32b",
+   "category": "math",
+   "title_rw": "Ubuso n'Umuringoti",
+   "title_en": "Area and Perimeter",
+   "summary_rw": "Ubuso ni umubare w'aho ikintu gifata mu mwanya w'impande ebyiri. Umuringoti ni uburebure bwose bw'inkengero z'ikintu gifite impande ebyiri. Izi ngingo zifashishwa mu kubara ubutaka no mu bwubatsi.",
+   "summary_en": "Area is the amount of space inside a two-dimensional shape. Perimeter is the total distance around the outer boundary of a shape. These concepts are used in land measurement and construction.",
+   "keywords": [
+    "ubuso",
+    "area",
+    "umuringoti",
+    "perimeter",
+    "imibare",
+    "math",
+    "ubwubatsi",
+    "geometry"
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_7a3d095c",
+   "category": "math",
+   "title_rw": "Impuzandengo mu Mibare",
+   "title_en": "Averages in Mathematics",
+   "summary_rw": "Impuzandengo y'imibare yitwa ariutimetike ibarwa iteranya imibare yose maze igabanishwa n'umubare wayo. Ni uburyo bwo kugaragaza agaciro gahuza cyangwa gasanzwe mu mibare runaka.",
+   "summary_en": "The arithmetic mean is calculated by adding all numbers in a set and dividing by the count of numbers. It is a common way to represent a typical value in a dataset.",
+   "keywords": [
+    "impuzandengo",
+    "mean",
+    "imibare",
+    "statistics",
+    "kubara",
+    "math",
+    "agaciro"
    ],
    "auto": true,
    "taught": "2026-11-12"
