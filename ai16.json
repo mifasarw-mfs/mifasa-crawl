@@ -1896,6 +1896,150 @@
    ],
    "auto": true,
    "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_2dadf887_q",
+   "label_rw": "Gisobanuro cy'Inyungu ku Nyungu",
+   "label_en": "Compound Interest Explained",
+   "patterns_en": [
+    "What is compound interest?",
+    "How does compound interest differ from simple interest?",
+    "How does compound interest help in saving money?"
+   ],
+   "patterns_rw": [
+    "Inyungu ku nyungu ni iki?",
+    "Ese inyungu ku nyungu itandukaniro ryayo n'iyoroheje ni irihe?",
+    "Ni gute inyungu ku nyungu ifasha mu kwizigama?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Inyungu ku nyungu ni uburyo amafaranga yiyongera cyane. Uteranya inyungu ku mari y'ibanze hamwe n'inyungu zimaze kwiyongeraho mbere. Ibi bituma umutungo ukura vuba mu gihe kirekire. Abashoramari n'abizigamira bakoresha ubu buryo kugira ngo bongere umutungo wabo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Compound interest is the addition of interest to the principal sum of a loan or deposit. It means that the interest builds on previous interest over time. This causes wealth to grow faster over long periods. Investors and savers use this principle to maximize their financial returns.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_df4cbf60_q",
+   "label_rw": "Gitegura Amafaranga y'Ihutirwa",
+   "label_en": "Emergency Fund Planning",
+   "patterns_en": [
+    "What is an emergency fund?",
+    "How much money should be in an emergency fund?",
+    "Where is the best place to keep emergency savings?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyitwa amafaranga y'ihutirwa?",
+    "Agaciro k'amafaranga y'ihutirwa kagomba kuba kangana iki?",
+    "Ni he heza ho kubika amafaranga y'ihutirwa?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gitegura amafaranga y'ihutirwa bifasha abantu kwitegura ibibazo by'imari bitunguranye nko kubura akazi cyangwa uburwayi. Abahanga benshi bagira inama yo kubika amafaranga ahwanye n'ibizatunga umuryango mu mezi atatu kugeza kuri atandatu. Aya mafaranga agomba kubikwa ahantu hizewe kandi ashobora kuboneka vuba.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Emergency fund planning helps individuals prepare for unexpected financial challenges such as job loss or illness. Many experts recommend saving an amount equivalent to three to six months of living expenses. These funds should be kept in a secure account that allows for quick access when needed.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_66ebc4b0_q",
+   "label_rw": "Gusobanukirwa amanota ya KREDITI",
+   "label_en": "Understanding Credit Scores",
+   "patterns_en": [
+    "What is a credit score?",
+    "What helps a person maintain a good credit score?",
+    "Why are credit scores important for loans?"
+   ],
+   "patterns_rw": [
+    "Amanota ya krediti ni iki?",
+    "Ni iki gituma umuntu agira amanota meza ya krediti?",
+    "Kuki amanota ya krediti ari ingenzi ku nguzanyo?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Amanota ya krediti ni imibare yerekana uko umuntu yitwara mu kwishyura inguzanyo ze. Iyi mibare ifasha amabanki n'ibigo by'imari mu gufata icyemezo cyo gutanga inguzanyo. Kugira amanota meza bisaba kwishyura ku gihe no kutarenza umipaka y'amafaranga wemerewe gukoresha.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "A credit score is a numerical expression that evaluates a person's creditworthiness. Financial institutions use this score to determine loan eligibility. Maintaining a good credit score generally requires paying debts on time and managing credit utilization responsibly.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_e68ae6f2_q",
+   "label_rw": "Ubumenyi bw'Ibanze bwo gutegura Igihe cy'ikiruhuko",
+   "label_en": "Retirement Planning Fundamentals",
+   "patterns_en": [
+    "What is retirement planning?",
+    "Why is it important to start saving early?",
+    "What methods are used to prepare for retirement?"
+   ],
+   "patterns_rw": [
+    "Gutegura igihe cy'ikiruhuko bisobanura iki?",
+    "Kuki ari ingenzi gutangira kwizigamira hakiri kare?",
+    "Ni izihe nzira zikoreshwa mu gutegura izabukuru?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gutegura igihe cy'ikiruhuko bisobanura kwizigamira amafaranga azakoreshwa igihe uzaba wahagaritse akazi. Bitangira hakiri kare kugira ngo inyungu y'amafaranga yizigamiye yiyongere. Abantu bitabira ibigo by'ubwizigame cyangwa imishinga y'ishoramari. Ibi bifasha abantu kugira imibereho myiza mu gihe cy'izabukuru badafite akazi k'umushahara.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Retirement planning involves saving money to support oneself after stopping work. Starting early allows investments to grow through compound interest. People often use pension funds or investment portfolios to secure their future. Proper planning helps individuals maintain financial stability during their later years when regular salary income stops.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_13818f7a_q",
+   "label_rw": "Ibanze ry'Ishoramari mu mitungo itimukwa",
+   "label_en": "Real Estate Investing Basics",
+   "patterns_en": [
+    "What is real estate investing?",
+    "How do investors earn returns from real estate?",
+    "What is required before investing in property?"
+   ],
+   "patterns_rw": [
+    "Ni iki gisobanuro cy'ishoramari mu mitungo itimukwa?",
+    "Ni gute abashoramari babona inyungu mu mitungo itimukwa?",
+    "Ni iki gisabwa mbere yo gushora imari mu mitungo?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ishoramari mu mitungo itimukwa risobanura kugura cyangwa gucunga amazu n'ubutaka hagamijwe kubona inyungu. Abashoramari bakunze kubona amafaranga binyuze mu bukode cyangwa mu kuzamuka kw'agaciro k'umutungo uko igihe gishira. Ni ishoramari risaba ubushishozi n'ishoramari ry'ibanze rihagije kugira ngo ritange umusaruro wifuzwa.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Real estate investing involves buying or managing properties to generate returns. Investors typically earn income through rental yields or property appreciation over time. This form of investment generally requires careful research and substantial initial capital to achieve desired financial goals.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_b13aa987_q",
+   "label_rw": "Gutegura Imari y'Umuryango",
+   "label_en": "Family Financial Planning",
+   "patterns_en": [
+    "What is family financial planning?",
+    "How do we create a family budget?",
+    "Why is saving important for a family?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyitwa gutegura imari y'umuryango?",
+    "Ni gute twakora ingengo y'imari y'umuryango?",
+    "Kuki kuzigama ari ingenzi ku muryango?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gutegura imari y'umuryango bifasha gucunga neza amafaranga no kugera ku ntego z'igihe kirekire. Byubakwa no gushyiraho ingengo y'imari, kuzigama, no kwitegura ibihe bitunguranye.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Family financial planning helps manage money effectively and achieve long-term goals. It usually involves budgeting, saving, and preparing for unexpected emergencies.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
   }
  ],
  "knowledge": [
@@ -3450,6 +3594,125 @@
     "kubara",
     "math",
     "agaciro"
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_2dadf887",
+   "category": "finance",
+   "title_rw": "Gisobanuro cy'Inyungu ku Nyungu",
+   "title_en": "Compound Interest Explained",
+   "summary_rw": "Inyungu ku nyungu ni uburyo amafaranga yiyongera cyane. Uteranya inyungu ku mari y'ibanze hamwe n'inyungu zimaze kwiyongeraho mbere. Ibi bituma umutungo ukura vuba mu gihe kirekire. Abashoramari n'abizigamira bakoresha ubu buryo kugira ngo bongere umutungo wabo.",
+   "summary_en": "Compound interest is the addition of interest to the principal sum of a loan or deposit. It means that the interest builds on previous interest over time. This causes wealth to grow faster over long periods. Investors and savers use this principle to maximize their financial returns.",
+   "keywords": [
+    "inyungu",
+    "interest",
+    "amafaranga",
+    "money",
+    "ubwizigame",
+    "savings",
+    "ishoramari",
+    "investment"
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_df4cbf60",
+   "category": "finance",
+   "title_rw": "Gitegura Amafaranga y'Ihutirwa",
+   "title_en": "Emergency Fund Planning",
+   "summary_rw": "Gitegura amafaranga y'ihutirwa bifasha abantu kwitegura ibibazo by'imari bitunguranye nko kubura akazi cyangwa uburwayi. Abahanga benshi bagira inama yo kubika amafaranga ahwanye n'ibizatunga umuryango mu mezi atatu kugeza kuri atandatu. Aya mafaranga agomba kubikwa ahantu hizewe kandi ashobora kuboneka vuba.",
+   "summary_en": "Emergency fund planning helps individuals prepare for unexpected financial challenges such as job loss or illness. Many experts recommend saving an amount equivalent to three to six months of living expenses. These funds should be kept in a secure account that allows for quick access when needed.",
+   "keywords": [
+    "amafaranga",
+    "ubwizigame",
+    "ihutirwa",
+    "imari",
+    "money",
+    "savings",
+    "emergency",
+    "finance"
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_66ebc4b0",
+   "category": "finance",
+   "title_rw": "Gusobanukirwa amanota ya KREDITI",
+   "title_en": "Understanding Credit Scores",
+   "summary_rw": "Amanota ya krediti ni imibare yerekana uko umuntu yitwara mu kwishyura inguzanyo ze. Iyi mibare ifasha amabanki n'ibigo by'imari mu gufata icyemezo cyo gutanga inguzanyo. Kugira amanota meza bisaba kwishyura ku gihe no kutarenza umipaka y'amafaranga wemerewe gukoresha.",
+   "summary_en": "A credit score is a numerical expression that evaluates a person's creditworthiness. Financial institutions use this score to determine loan eligibility. Maintaining a good credit score generally requires paying debts on time and managing credit utilization responsibly.",
+   "keywords": [
+    "krediti",
+    "credit",
+    "inguzanyo",
+    "loan",
+    "amabanki",
+    "banks",
+    "amafaranga",
+    "money"
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_e68ae6f2",
+   "category": "finance",
+   "title_rw": "Ubumenyi bw'Ibanze bwo gutegura Igihe cy'ikiruhuko",
+   "title_en": "Retirement Planning Fundamentals",
+   "summary_rw": "Gutegura igihe cy'ikiruhuko bisobanura kwizigamira amafaranga azakoreshwa igihe uzaba wahagaritse akazi. Bitangira hakiri kare kugira ngo inyungu y'amafaranga yizigamiye yiyongere. Abantu bitabira ibigo by'ubwizigame cyangwa imishinga y'ishoramari. Ibi bifasha abantu kugira imibereho myiza mu gihe cy'izabukuru badafite akazi k'umushahara.",
+   "summary_en": "Retirement planning involves saving money to support oneself after stopping work. Starting early allows investments to grow through compound interest. People often use pension funds or investment portfolios to secure their future. Proper planning helps individuals maintain financial stability during their later years when regular salary income stops.",
+   "keywords": [
+    "ubwizigame",
+    "ikiruhuko",
+    "savings",
+    "retirement",
+    "ishoramari",
+    "finance",
+    "pension"
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_13818f7a",
+   "category": "finance",
+   "title_rw": "Ibanze ry'Ishoramari mu mitungo itimukwa",
+   "title_en": "Real Estate Investing Basics",
+   "summary_rw": "Ishoramari mu mitungo itimukwa risobanura kugura cyangwa gucunga amazu n'ubutaka hagamijwe kubona inyungu. Abashoramari bakunze kubona amafaranga binyuze mu bukode cyangwa mu kuzamuka kw'agaciro k'umutungo uko igihe gishira. Ni ishoramari risaba ubushishozi n'ishoramari ry'ibanze rihagije kugira ngo ritange umusaruro wifuzwa.",
+   "summary_en": "Real estate investing involves buying or managing properties to generate returns. Investors typically earn income through rental yields or property appreciation over time. This form of investment generally requires careful research and substantial initial capital to achieve desired financial goals.",
+   "keywords": [
+    "mitungo itimukwa",
+    "real estate",
+    "ishoramari",
+    "investing",
+    "ubukode",
+    "rental",
+    "ubutaka",
+    "property"
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_b13aa987",
+   "category": "finance",
+   "title_rw": "Gutegura Imari y'Umuryango",
+   "title_en": "Family Financial Planning",
+   "summary_rw": "Gutegura imari y'umuryango bifasha gucunga neza amafaranga no kugera ku ntego z'igihe kirekire. Byubakwa no gushyiraho ingengo y'imari, kuzigama, no kwitegura ibihe bitunguranye.",
+   "summary_en": "Family financial planning helps manage money effectively and achieve long-term goals. It usually involves budgeting, saving, and preparing for unexpected emergencies.",
+   "keywords": [
+    "imari",
+    "finance",
+    "umuryango",
+    "family",
+    "ingengo y'imari",
+    "budget",
+    "kuzigama",
+    "savings"
    ],
    "auto": true,
    "taught": "2026-11-12"
