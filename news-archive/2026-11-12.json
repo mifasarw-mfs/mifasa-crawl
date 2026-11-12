@@ -1,7 +1,33 @@
 {
  "day": "2026-11-12",
- "count": 5,
+ "count": 6,
  "articles": [
+  {
+   "id": "crawl_8y1as2",
+   "title": "Fata icyo ushaka hano kwa burikantu",
+   "summary": "Fata icyo ushaka hano kwa burikantu",
+   "link": "https://www.youtube.com/shorts/P1GMI1HuyvY",
+   "url": "https://www.youtube.com/shorts/P1GMI1HuyvY",
+   "date": "2026-11-12T00:44:19.000Z",
+   "source": "Buri Kantu Na Buri Nguni YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Buri Kantu Na Buri Nguni YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "P1GMI1HuyvY"
+   },
+   "type": "video",
+   "image": "https://i1.ytimg.com/vi/P1GMI1HuyvY/hqdefault.jpg",
+   "thumbnail": "https://i1.ytimg.com/vi/P1GMI1HuyvY/hqdefault.jpg",
+   "title_rw": "Fata icyo ushaka hano kwa burikantu",
+   "summary_rw": "Fata icyo ushaka hano kwa burikantu",
+   "share_id": "MN202611_8y1as2h7xs"
+  },
   {
    "id": "crawl_1mdpqs3",
    "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
@@ -103,5 +129,5 @@
    "share_id": "MN202611_1qpleoceb56"
   }
  ],
- "updated": "2026-11-12T01:51:31.747Z"
+ "updated": "2026-11-12T02:37:06.264Z"
 }

@@ -1,5 +1,31 @@
 [
  {
+  "id": "crawl_8y1as2",
+  "title": "Fata icyo ushaka hano kwa burikantu",
+  "summary": "Fata icyo ushaka hano kwa burikantu",
+  "link": "https://www.youtube.com/shorts/P1GMI1HuyvY",
+  "url": "https://www.youtube.com/shorts/P1GMI1HuyvY",
+  "date": "2026-11-12T00:44:19.000Z",
+  "source": "Buri Kantu Na Buri Nguni YouTube",
+  "category": "entertainment",
+  "lang": "rw",
+  "keywords": [
+   "Buri Kantu Na Buri Nguni YouTube",
+   "entertainment",
+   "video"
+  ],
+  "video": {
+   "provider": "youtube",
+   "id": "P1GMI1HuyvY"
+  },
+  "type": "video",
+  "image": "https://i1.ytimg.com/vi/P1GMI1HuyvY/hqdefault.jpg",
+  "thumbnail": "https://i1.ytimg.com/vi/P1GMI1HuyvY/hqdefault.jpg",
+  "title_rw": "Fata icyo ushaka hano kwa burikantu",
+  "summary_rw": "Fata icyo ushaka hano kwa burikantu",
+  "share_id": "MN202611_8y1as2h7xs"
+ },
+ {
   "id": "crawl_1mdpqs3",
   "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
   "summary": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
@@ -113,8 +139,8 @@
    "BBC World",
    "world"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a54/live/d643ec30-de33-11f1-b8ec-f53576d91bbb.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a54/live/d643ec30-de33-11f1-b8ec-f53576d91bbb.jpg",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
   "title_en": "Democrat Scott Colom seals historic win in Mississippi Senate race",
   "summary_en": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
   "share_id": "MN202611_l0m2hweyyq"
@@ -17107,25 +17133,5 @@
   "title_rw": "Rafael Nadal agiye kujya mu buyobozi bwa Real Madrid",
   "summary_rw": "Umunyabigwi mu mukino wa Tennis, yemeye kujya mu buyobozi bwa Real Madrid nyuma yo kubisabwa na Florentino Perez uyobora iyi kipe. Ni amakuru yemejwe biciye mu itangazo iyi kipe yasohoye ku wa 4 Ug…",
   "share_id": "MN202611_1iya3jiz630"
- },
- {
-  "id": "crawl_64rw6j",
-  "title": "RDC yihanangirije abayobozi b'ihuriro C64 ko bashobora gufungwa bazira guhura na Kabila",
-  "summary": "Minisitiri w'ubutegetsi bw'igihugu muri Repubulika ya Demokarasi ya Congo, Jacquemain Shabani, yihanangirije abanyamuryango b'ihuriro ry'abatavuga rumwe n'ubutegetsi rya C64, ababurira ko bashobora guhanishwa igifungo kiri hagati y'umwaka umwe n'imyaka itanu baramutse bagiye mu mujyi wa Goma, mu burasirazuba bw'igihugu, guhura na Joseph Kabila wahoze ari Perezida w'icyo gihugu.",
-  "link": "https://www.bbc.com/gahuza/articles/ckreyryeg33no?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.com/gahuza/articles/ckreyryeg33no?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-05T14:13:58.000Z",
-  "source": "BBC Gahuza",
-  "category": "news",
-  "lang": "rw",
-  "keywords": [
-   "BBC Gahuza",
-   "news"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/640d/live/34862990-d91e-11f1-b441-2b33b063138f.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/640d/live/34862990-d91e-11f1-b441-2b33b063138f.jpg",
-  "title_rw": "RDC yihanangirije abayobozi b'ihuriro C64 ko bashobora gufungwa bazira guhura na Kabila",
-  "summary_rw": "Minisitiri w'ubutegetsi bw'igihugu muri Repubulika ya Demokarasi ya Congo, Jacquemain Shabani, yihanangirije abanyamuryango b'ihuriro ry'abatavuga rumwe n'ubutegetsi rya C64, ababurira ko bashobora guhanishwa igifungo kiri hagati y'umwaka umwe n'imyaka itanu baramutse bagiye mu mujyi wa Goma, mu burasirazuba bw'igihugu, guhura na Joseph Kabila wahoze ari Perezida w'icyo gihugu.",
-  "share_id": "MN202611_64rw6jksnd"
  }
 ]
