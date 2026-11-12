@@ -1752,6 +1752,30 @@
    ],
    "auto": true,
    "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_18b07627_q",
+   "label_rw": "Amabara mu Kinyarwanda",
+   "label_en": "Colors in Kinyarwanda",
+   "patterns_en": [
+    "What are the primary colors in Kinyarwanda?",
+    "Where do many color names in Kinyarwanda come from?",
+    "What reflects how Rwandans describe their world?"
+   ],
+   "patterns_rw": [
+    "Amabara y'ibanze mu Kinyarwanda ni ayahe?",
+    "Amabara menshi mu Kinyarwanda akomoka kuki?",
+    "Ni iki kigaragaza uko Abanyarwanda basobanura isi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ikinyarwanda gifite amabara y'ibanze atatu. Aya mabara ni umukara, umweru n'umutuku. Andi mabara menshi akomoka ku bintu bisanzwe biri mu bidukikije nka nyiramugengeri cyangwa ibyatsi. Imiterere y'amabara mu Kinyarwanda igaragaza uko abantu b'Abanyarwanda basobanura isi yabo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Kinyarwanda traditionally has three primary color terms. These are black, white, and red. Many other color names derive from natural objects in the environment such as soil or grass. The structure of colors in Kinyarwanda reflects how Rwandan people describe their physical world.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
   }
  ],
  "knowledge": [
@@ -3192,6 +3216,25 @@
     "toxicity",
     "urugo",
     "household"
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_18b07627",
+   "category": "language",
+   "title_rw": "Amabara mu Kinyarwanda",
+   "title_en": "Colors in Kinyarwanda",
+   "summary_rw": "Ikinyarwanda gifite amabara y'ibanze atatu. Aya mabara ni umukara, umweru n'umutuku. Andi mabara menshi akomoka ku bintu bisanzwe biri mu bidukikije nka nyiramugengeri cyangwa ibyatsi. Imiterere y'amabara mu Kinyarwanda igaragaza uko abantu b'Abanyarwanda basobanura isi yabo.",
+   "summary_en": "Kinyarwanda traditionally has three primary color terms. These are black, white, and red. Many other color names derive from natural objects in the environment such as soil or grass. The structure of colors in Kinyarwanda reflects how Rwandan people describe their physical world.",
+   "keywords": [
+    "amabara",
+    "colors",
+    "ikinyarwanda",
+    "language",
+    "ururimi",
+    "ubumenyi",
+    "umuco"
    ],
    "auto": true,
    "taught": "2026-11-12"
