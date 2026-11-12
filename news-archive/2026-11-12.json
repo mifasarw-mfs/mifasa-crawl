@@ -1,7 +1,127 @@
 {
  "day": "2026-11-12",
- "count": 10,
+ "count": 17,
  "articles": [
+  {
+   "id": "crawl_xmkn8",
+   "title": "Kane's top 10 England moments - which was your favourite?",
+   "summary": "BBC Sport looks at 10 of Harry Kane's most iconic England moments as he prepares to break his country's caps record.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c64g12w5zpjpo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c64g12w5zpjpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T06:25:26.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/134b/live/944d3be0-c3e6-11f1-badc-154546719036.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/134b/live/944d3be0-c3e6-11f1-badc-154546719036.jpg",
+   "title_en": "Kane's top 10 England moments - which was your favourite?",
+   "summary_en": "BBC Sport looks at 10 of Harry Kane's most iconic England moments as he prepares to break his country's caps record.",
+   "share_id": "MN202611_xmkn8ik0y"
+  },
+  {
+   "id": "crawl_159udux",
+   "title": "Campaigners want more land protected from housing",
+   "summary": "After parkland was safeguarded from development, residents want the council to change a housing plan.",
+   "link": "https://www.bbc.co.uk/news/articles/cmpw48zwnevlo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmpw48zwnevlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T06:24:44.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/147b/live/f21d8700-ddb0-11f1-b14d-71af1d9abfa4.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/147b/live/f21d8700-ddb0-11f1-b14d-71af1d9abfa4.jpg",
+   "title_en": "Campaigners want more land protected from housing",
+   "summary_en": "After parkland was safeguarded from development, residents want the council to change a housing plan.",
+   "share_id": "MN202611_159uduxnabr"
+  },
+  {
+   "id": "crawl_1atnzl0",
+   "title": "Art trail celebrates arrival of black bears at zoo",
+   "summary": "Jersey Zoo says the art trail will celebrate the world's \"largest inhabitants to its smallest.",
+   "link": "https://www.bbc.co.uk/news/articles/c39wzv2vqgxvo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c39wzv2vqgxvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T06:13:52.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/093c/live/cc5b53c0-de60-11f1-894d-3db917a80f0e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/093c/live/cc5b53c0-de60-11f1-894d-3db917a80f0e.jpg",
+   "title_en": "Art trail celebrates arrival of black bears at zoo",
+   "summary_en": "Jersey Zoo says the art trail will celebrate the world's \"largest inhabitants to its smallest.",
+   "share_id": "MN202611_1atnzl0gw1u"
+  },
+  {
+   "id": "crawl_nnysvx",
+   "title": "I saved a stranger's life and my husband's at the same time",
+   "summary": "Una Brown had always said she would give a kidney to her husband Sean if the time came, and she did so in a roundabout way.",
+   "link": "https://www.bbc.co.uk/news/articles/c8qlq33llr6no?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c8qlq33llr6no?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T06:09:45.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e53/live/26044470-dde1-11f1-b465-b9821c2582d4.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e53/live/26044470-dde1-11f1-b465-b9821c2582d4.jpg",
+   "title_en": "I saved a stranger's life and my husband's at the same time",
+   "summary_en": "Una Brown had always said she would give a kidney to her husband Sean if the time came, and she did so in a roundabout way.",
+   "share_id": "MN202611_nnysvxrpcr"
+  },
+  {
+   "id": "crawl_c8pqac",
+   "title": "Nurdle impact to be researched for a year",
+   "summary": "Research will be carried out on sea-birds and marine life following a microplastic spillage in July.",
+   "link": "https://www.bbc.co.uk/news/articles/cxnv4y23zldyo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cxnv4y23zldyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T06:06:41.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8122/live/f5479a00-de01-11f1-8445-15eb55286f71.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8122/live/f5479a00-de01-11f1-8445-15eb55286f71.jpg",
+   "title_en": "Nurdle impact to be researched for a year",
+   "summary_en": "Research will be carried out on sea-birds and marine life following a microplastic spillage in July.",
+   "share_id": "MN202611_c8pqacimr6"
+  },
+  {
+   "id": "crawl_1kwkckr",
+   "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+   "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+   "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T05:59:18.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a2c/live/a70e9220-de61-11f1-a701-fddedf244c16.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a2c/live/a70e9220-de61-11f1-a701-fddedf244c16.jpg",
+   "title_en": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+   "summary_en": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+   "share_id": "MN202611_1kwkckrd91l"
+  },
   {
    "id": "crawl_kcbhuw",
    "title": "New York building collapse kills at least two, officials say",
@@ -21,6 +141,26 @@
    "title_en": "New York building collapse kills at least two, officials say",
    "summary_en": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
    "share_id": "MN202611_kcbhuw4ebq"
+  },
+  {
+   "id": "crawl_pqyo9b",
+   "title": "Wales' James warns of Norwegian revenge in Oslo",
+   "summary": "Winger Dan James says Wales proved a point when they beat Norway – but is wary Erling Haaland's team will now want to do the same to them.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c623jl1kenvyo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c623jl1kenvyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T04:32:42.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc28/live/64a5da40-ddeb-11f1-9204-cdcddf7d901c.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc28/live/64a5da40-ddeb-11f1-9204-cdcddf7d901c.jpg",
+   "title_en": "Wales' James warns of Norwegian revenge in Oslo",
+   "summary_en": "Winger Dan James says Wales proved a point when they beat Norway – but is wary Erling Haaland's team will now want to do the same to them.",
+   "share_id": "MN202611_pqyo9bqlnx"
   },
   {
    "id": "crawl_1x3nook",
@@ -209,5 +349,5 @@
    "share_id": "MN202611_1qpleoceb56"
   }
  ],
- "updated": "2026-11-12T05:30:24.631Z"
+ "updated": "2026-11-12T06:31:07.791Z"
 }
