@@ -1,7 +1,27 @@
 {
  "day": "2026-11-12",
- "count": 80,
+ "count": 81,
  "articles": [
+  {
+   "id": "crawl_5u1f7v",
+   "title": "Nvidia's CEO was the rock star of AI before his dramatic unravelling",
+   "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global AI race has crumbled.",
+   "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T14:18:33.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5297/live/47801ac0-de4a-11f1-8eb3-bb386b145647.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5297/live/47801ac0-de4a-11f1-8eb3-bb386b145647.jpg",
+   "title_en": "Nvidia's CEO was the rock star of AI before his dramatic unravelling",
+   "summary_en": "Within days, Huang's status as a seemingly untouchable figure leading the global AI race has crumbled.",
+   "share_id": "MN202611_5u1f7vubop"
+  },
   {
    "id": "crawl_1rwzoiw",
    "title": "Uganda: Polisi irimo gukora iperereza ku rupfu rw'abanyeshuri bikekwa ko barozwe",
@@ -1705,5 +1725,5 @@
    "share_id": "MN202611_1qpleoceb56"
   }
  ],
- "updated": "2026-11-12T13:46:17.979Z"
+ "updated": "2026-11-12T14:39:21.945Z"
 }
