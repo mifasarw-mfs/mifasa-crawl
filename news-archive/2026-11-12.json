@@ -1,7 +1,67 @@
 {
  "day": "2026-11-12",
- "count": 111,
+ "count": 114,
  "articles": [
+  {
+   "id": "crawl_1vhvr4h",
+   "title": "At COP31, Government Pitches $3bn for Electricity, Flood Protection for 220,000 Kigalians",
+   "summary": "Government of Rwanda is seeking greater international investment in electricity infrastructure, urban resilience, green industrialisation and climate-smart agriculture as it works to turn its climate commitments into projects that can… The post At COP31, Government Pitches $3bn for Electricity, Flood Protection for 220,000 Kigalians appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/at-cop31-government-pitches-3bn-for-electricity-flood-protection-for-220000-kigalians/",
+   "url": "https://www.ktpress.rw/2026/11/at-cop31-government-pitches-3bn-for-electricity-flood-protection-for-220000-kigalians/",
+   "date": "2026-11-12T20:40:55.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "International",
+    "latestnews"
+   ],
+   "title_en": "At COP31, Government Pitches $3bn for Electricity, Flood Protection for 220,000 Kigalians",
+   "summary_en": "Government of Rwanda is seeking greater international investment in electricity infrastructure, urban resilience, green industrialisation and climate-smart agriculture as it works to turn its climate commitments into projects that can… The post At COP31, Government Pitches $3bn for Electricity, Flood Protection for 220,000 Kigalians appeared first on KT PRESS .",
+   "share_id": "MN202611_1vhvr4hqygf"
+  },
+  {
+   "id": "crawl_1sx0dvx",
+   "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+   "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+   "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T20:09:16.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4c4/live/1934a9b0-deb3-11f1-8fb5-a771a656a227.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4c4/live/1934a9b0-deb3-11f1-8fb5-a771a656a227.jpg",
+   "title_en": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+   "summary_en": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+   "share_id": "MN202611_1sx0dvxtacr"
+  },
+  {
+   "id": "crawl_19tn6n7",
+   "title": "Arsenal dig in for draw at Barcelona to extend unbeaten start",
+   "summary": "Arsenal extend their unbeaten start to four matches in the Uefa Women's Champions League, as they produce a dogged display to hold Barcelona to a 1-1 draw at the Camp Nou. The point moves Renee Slegers' side into the top four, putting them in a great position to automatically qualify for the knockout stages.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/crlye55q790yo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/crlye55q790yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T20:09:07.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17d7/live/103dfe40-ded3-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17d7/live/103dfe40-ded3-11f1-b441-2b33b063138f.jpg",
+   "title_en": "Arsenal dig in for draw at Barcelona to extend unbeaten start",
+   "summary_en": "Arsenal extend their unbeaten start to four matches in the Uefa Women's Champions League, as they produce a dogged display to hold Barcelona to a 1-1 draw at the Camp Nou. The point moves Renee Slegers' side into the top four, putting them in a great position to automatically qualify for the knockout stages.",
+   "share_id": "MN202611_19tn6n70i4h"
+  },
   {
    "id": "crawl_1m9bgfu",
    "title": "Quiz: Name England's all-time leading appearance makers",
@@ -2396,5 +2456,5 @@
    "share_id": "MN202611_1qpleoceb56"
   }
  ],
- "updated": "2026-11-12T19:59:45.442Z"
+ "updated": "2026-11-12T20:42:58.066Z"
 }
