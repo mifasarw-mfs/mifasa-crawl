@@ -1,7 +1,95 @@
 {
  "day": "2026-11-12",
- "count": 32,
+ "count": 36,
  "articles": [
+  {
+   "id": "crawl_13fnndz",
+   "title": "FERWAFA yashyize hanze ibiciro by'umukino wa Mali",
+   "summary": "Ishyirahamwe ry’Umupira w’Amaguru mu Rwada ryashyize ahagaragara ibiciro by’umukino w’umunsi wa kane wo gushaka itike y’Igikombe cya Afurika 2027, Amavubi azakiramo Mali tariki 17 Ugushyingo 2026. (…)",
+   "link": "https://www.kigalitoday.com/imikino/football/article/ferwafa-yashyize-hanze-ibiciro-by-umukino-wa-mali",
+   "url": "https://www.kigalitoday.com/imikino/football/article/ferwafa-yashyize-hanze-ibiciro-by-umukino-wa-mali",
+   "date": "2026-11-12T09:00:23.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Football"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/htzlsgfxwaaj2on-2.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/htzlsgfxwaaj2on-2.jpg",
+   "title_rw": "FERWAFA yashyize hanze ibiciro by'umukino wa Mali",
+   "summary_rw": "Ishyirahamwe ry’Umupira w’Amaguru mu Rwada ryashyize ahagaragara ibiciro by’umukino w’umunsi wa kane wo gushaka itike y’Igikombe cya Afurika 2027, Amavubi azakiramo Mali tariki 17 Ugushyingo 2026. (…)",
+   "share_id": "MN202611_13fnndz51ad"
+  },
+  {
+   "id": "crawl_1iu64u3",
+   "title": "MTN Rwanda Launches One TV to Promote Local Content",
+   "summary": "MTN Rwanda has launched MTN One TV, a digital entertainment platform that brings different forms of entertainment together in one application while creating opportunities for local content creators to showcase their talents and reach wider audiences. The platform, officially unveiled on Wednesday, November 11, 2026, offers users access to a variety of entertainment content, including […] The post…",
+   "link": "https://taarifa.rw/2026/11/12/mtn-rwanda-launches-one-tv-to-promote-local-content/",
+   "url": "https://taarifa.rw/2026/11/12/mtn-rwanda-launches-one-tv-to-promote-local-content/",
+   "date": "2026-11-12T09:00:13.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "Business"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/IMG-20261112-WA0032.jpg?fit=854%2C1280&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/IMG-20261112-WA0032.jpg?fit=854%2C1280&ssl=1",
+   "title_en": "MTN Rwanda Launches One TV to Promote Local Content",
+   "summary_en": "MTN Rwanda has launched MTN One TV, a digital entertainment platform that brings different forms of entertainment together in one application while creating opportunities for local content creators to showcase their talents and reach wider audiences. The platform, officially unveiled on Wednesday, November 11, 2026, offers users access to a variety of entertainment content, including […] The post…",
+   "share_id": "MN202611_1iu64u3o7fd"
+  },
+  {
+   "id": "crawl_xjw7do",
+   "title": "#diamond #Davido",
+   "summary": "#diamond #Davido",
+   "link": "https://www.youtube.com/shorts/QcerLVHQfgk",
+   "url": "https://www.youtube.com/shorts/QcerLVHQfgk",
+   "date": "2026-11-12T08:57:16.000Z",
+   "source": "Diamond Platnumz YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Diamond Platnumz YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "QcerLVHQfgk"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/QcerLVHQfgk/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/QcerLVHQfgk/hqdefault.jpg",
+   "title_rw": "#diamond #Davido",
+   "summary_rw": "#diamond #Davido",
+   "share_id": "MN202611_xjw7do82ka"
+  },
+  {
+   "id": "crawl_12xbnqa",
+   "title": "'Unfinished business' - Tuchel committed to England",
+   "summary": "England head coach Thomas Tuchel says he has \"no intention\" of leaving the job before Euro 2028 regardless of any offers from major clubs.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqg7l9x9jnzko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqg7l9x9jnzko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T08:42:47.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2bb/live/c56e31c0-de71-11f1-9115-cfe6d179af3a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2bb/live/c56e31c0-de71-11f1-9115-cfe6d179af3a.jpg",
+   "title_en": "'Unfinished business' - Tuchel committed to England",
+   "summary_en": "England head coach Thomas Tuchel says he has \"no intention\" of leaving the job before Euro 2028 regardless of any offers from major clubs.",
+   "share_id": "MN202611_12xbnqa3l4w"
+  },
   {
    "id": "crawl_osh99m",
    "title": "IMPAMVU UDAKWIRIYE KWIHOMA KU MUNTU UTAKIGUSHAKA | KUBURA INSHUTI BIRAGATSINDWA, ARIKO SI IHEREZO",
@@ -679,5 +767,5 @@
    "share_id": "MN202611_1qpleoceb56"
   }
  ],
- "updated": "2026-11-12T08:44:37.033Z"
+ "updated": "2026-11-12T09:38:53.721Z"
 }
