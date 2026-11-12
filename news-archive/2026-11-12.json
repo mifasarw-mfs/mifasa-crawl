@@ -1,7 +1,127 @@
 {
  "day": "2026-11-12",
- "count": 17,
+ "count": 25,
  "articles": [
+  {
+   "id": "crawl_16h9bh",
+   "title": "USA withdraw from U17 World Cup",
+   "summary": "The USA pull out of the Under-17 World Cup, which starts in Qatar next week, because of the risk of armed conflict.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6y49yz77pppo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6y49yz77pppo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T07:44:21.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79aa/live/f81c7430-de6a-11f1-9115-cfe6d179af3a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79aa/live/f81c7430-de6a-11f1-9115-cfe6d179af3a.jpg",
+   "title_en": "USA withdraw from U17 World Cup",
+   "summary_en": "The USA pull out of the Under-17 World Cup, which starts in Qatar next week, because of the risk of armed conflict.",
+   "share_id": "MN202611_16h9bhd8p7"
+  },
+  {
+   "id": "crawl_1airqz4",
+   "title": "UK economy grows at fastest rate for more than two years",
+   "summary": "The UK economy grew by 0.7% in the three months to September, according to official figures.",
+   "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T07:32:41.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb4c/live/4af5abf0-de6a-11f1-9115-cfe6d179af3a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb4c/live/4af5abf0-de6a-11f1-9115-cfe6d179af3a.jpg",
+   "title_en": "UK economy grows at fastest rate for more than two years",
+   "summary_en": "The UK economy grew by 0.7% in the three months to September, according to official figures.",
+   "share_id": "MN202611_1airqz4knfy"
+  },
+  {
+   "id": "crawl_7mrle8",
+   "title": "Robertson set to make history but his hero Dalglish will always be King",
+   "summary": "Ties bind Scotland captain Andy Robertson and the man whose caps record he's about to equal, Kenny Dalglish, in more ways than one, writes Tom English.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cxe89dq16dp2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cxe89dq16dp2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T07:19:57.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e440/live/1b368480-de00-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e440/live/1b368480-de00-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "Robertson set to make history but his hero Dalglish will always be King",
+   "summary_en": "Ties bind Scotland captain Andy Robertson and the man whose caps record he's about to equal, Kenny Dalglish, in more ways than one, writes Tom English.",
+   "share_id": "MN202611_7mrle8nkry"
+  },
+  {
+   "id": "crawl_n2uizb",
+   "title": "England's Blues brothers - how the Bellinghams helped save Birmingham",
+   "summary": "Boyhood Birmingham City fans Jude and Jobe Bellingham could become the first brothers to play for England for 19 years.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm1j3j20r2rzo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm1j3j20r2rzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T07:12:41.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c945/live/c3116c40-dce0-11f1-a8e1-e3454837ffc6.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c945/live/c3116c40-dce0-11f1-a8e1-e3454837ffc6.png",
+   "title_en": "England's Blues brothers - how the Bellinghams helped save Birmingham",
+   "summary_en": "Boyhood Birmingham City fans Jude and Jobe Bellingham could become the first brothers to play for England for 19 years.",
+   "share_id": "MN202611_n2uizbmgdx"
+  },
+  {
+   "id": "crawl_3gtt04",
+   "title": "How 'Barca way' continues despite big-name exits",
+   "summary": "Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T06:41:09.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ad/live/0b486200-dddd-11f1-b465-b9821c2582d4.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ad/live/0b486200-dddd-11f1-b465-b9821c2582d4.jpg",
+   "title_en": "How 'Barca way' continues despite big-name exits",
+   "summary_en": "Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?",
+   "share_id": "MN202611_3gtt04psdu"
+  },
+  {
+   "id": "crawl_1d2h9tr",
+   "title": "Who am I? Plus today's other quizzes",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwm2jnz3nrvno?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwm2jnz3nrvno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T06:29:12.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+   "title_en": "Who am I? Plus today's other quizzes",
+   "summary_en": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "share_id": "MN202611_1d2h9tr978d"
+  },
   {
    "id": "crawl_xmkn8",
    "title": "Kane's top 10 England moments - which was your favourite?",
@@ -183,6 +303,26 @@
    "share_id": "MN202611_1x3nookg9si"
   },
   {
+   "id": "crawl_14np71u",
+   "title": "Government could force media industry to improve safeguards after Walliams allegations",
+   "summary": "Culture Secretary Lisa Nandy could force participation in an industry watchdog to protect whistleblowers, the BBC understands.",
+   "link": "https://www.bbc.co.uk/news/articles/cm3egj20v5x4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm3egj20v5x4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T04:01:50.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eec/live/b34cd430-de51-11f1-b0c0-99d486f024fd.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eec/live/b34cd430-de51-11f1-b0c0-99d486f024fd.jpg",
+   "title_en": "Government could force media industry to improve safeguards after Walliams allegations",
+   "summary_en": "Culture Secretary Lisa Nandy could force participation in an industry watchdog to protect whistleblowers, the BBC understands.",
+   "share_id": "MN202611_14np71ui3io"
+  },
+  {
    "id": "crawl_1milmbk",
    "title": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
    "summary": "The strike hit the surgery department of the hospital in Khan Younis, wounding at least 20 people and causing extensive damage, a spokesperson says.",
@@ -221,6 +361,26 @@
    "title_en": "Australian teen missing in bush for six days rescued alive",
    "summary_en": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
    "share_id": "MN202611_mu7bbg07sa"
+  },
+  {
+   "id": "crawl_pxvmct",
+   "title": "How much art does your council own and is it locked away or on display?",
+   "summary": "More than 500,000 pieces of art are owned by 225 councils, the BBC finds, but most of it is storage.",
+   "link": "https://www.bbc.co.uk/news/articles/crgqwgzxeexno?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/crgqwgzxeexno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T01:03:53.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecab/live/a2837d70-dded-11f1-9204-cdcddf7d901c.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecab/live/a2837d70-dded-11f1-9204-cdcddf7d901c.jpg",
+   "title_en": "How much art does your council own and is it locked away or on display?",
+   "summary_en": "More than 500,000 pieces of art are owned by 225 councils, the BBC finds, but most of it is storage.",
+   "share_id": "MN202611_pxvmctoitn"
   },
   {
    "id": "crawl_8y1as2",
@@ -349,5 +509,5 @@
    "share_id": "MN202611_1qpleoceb56"
   }
  ],
- "updated": "2026-11-12T06:31:07.791Z"
+ "updated": "2026-11-12T07:50:50.710Z"
 }
