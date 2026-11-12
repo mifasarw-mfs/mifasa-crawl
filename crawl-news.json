@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_kcbhuw",
+  "title": "New York building collapse kills at least two, officials say",
+  "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+  "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-12T05:12:56.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c33/live/96352aa0-de51-11f1-a701-fddedf244c16.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c33/live/96352aa0-de51-11f1-a701-fddedf244c16.jpg",
+  "title_en": "New York building collapse kills at least two, officials say",
+  "summary_en": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+  "share_id": "MN202611_kcbhuw4ebq"
+ },
+ {
   "id": "crawl_1x3nook",
   "title": "Inyuma y'imyaka irenga 140, Mississippi iraronse umukenguzamateka wa mbere w'umwirabure",
   "summary": "Scott Colom abaye umwirabure wa mbere aserukiye Mississippi mu nama nkenguzamateka ya Amerika mu myaka irenga 140, imbonekarimwe muri iyo ntara yiganjwemwo n’Abarepubulikani.",
@@ -21,8 +41,8 @@
  },
  {
   "id": "crawl_1milmbk",
-  "title": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
-  "summary": "The strike hit the surgery department of the hospital in Khan Younis, wounding at least 20 people and causing extensive damage, a spokesperson says.",
+  "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+  "summary": "The strike hit the surgery department of the hospital in Khan Younis, injuring at least 20 people and causing extensive damage, a spokesperson says.",
   "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-12T03:32:54.000Z",
@@ -35,8 +55,8 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg",
-  "title_en": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
-  "summary_en": "The strike hit the surgery department of the hospital in Khan Younis, wounding at least 20 people and causing extensive damage, a spokesperson says.",
+  "title_en": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+  "summary_en": "The strike hit the surgery department of the hospital in Khan Younis, injuring at least 20 people and causing extensive damage, a spokesperson says.",
   "share_id": "MN202611_1milmbkeise"
  },
  {
@@ -17109,28 +17129,5 @@
   "title_en": "The Russell Brand I saw in court was not the flamboyant character most people will know",
   "summary_en": "Brand stood upright in the dock as the verdicts were read out in court - ending this sometimes surreal trial.",
   "share_id": "MN202611_lko7u7h4b1"
- },
- {
-  "id": "crawl_hjcwiz",
-  "title": "Abanyarwanda bazigamye Miliyali 54Frw mu bimina",
-  "summary": "Minisitiri y’Imari n’Igenamigambi (MINECOFIN), ivuga ko imyumvire y’Abanyarwanda ku bijyanye no kuzigama igenda izamuka kuko imibare igaragaza ko ikigero cy’ubwizigame ku musaruro mbumbe w’Igihugu (…)",
-  "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/abanyarwanda-bazigamye-miliyali-54frw-mu-bimina",
-  "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/abanyarwanda-bazigamye-miliyali-54frw-mu-bimina",
-  "date": "2026-11-05T14:32:41.000Z",
-  "source": "Kigali Today",
-  "category": "news",
-  "lang": "rw",
-  "keywords": [
-   "Kigali Today",
-   "news",
-   "Mu Rwanda",
-   "MobileBigStory",
-   "Tarib Abdul"
-  ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-05_at_16.20_41.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-05_at_16.20_41.jpg",
-  "title_rw": "Abanyarwanda bazigamye Miliyali 54Frw mu bimina",
-  "summary_rw": "Minisitiri y’Imari n’Igenamigambi (MINECOFIN), ivuga ko imyumvire y’Abanyarwanda ku bijyanye no kuzigama igenda izamuka kuko imibare igaragaza ko ikigero cy’ubwizigame ku musaruro mbumbe w’Igihugu (…)",
-  "share_id": "MN202611_hjcwiz4tqh"
  }
 ]

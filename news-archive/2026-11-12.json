@@ -1,7 +1,27 @@
 {
  "day": "2026-11-12",
- "count": 9,
+ "count": 10,
  "articles": [
+  {
+   "id": "crawl_kcbhuw",
+   "title": "New York building collapse kills at least two, officials say",
+   "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+   "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T05:12:56.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c33/live/96352aa0-de51-11f1-a701-fddedf244c16.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c33/live/96352aa0-de51-11f1-a701-fddedf244c16.jpg",
+   "title_en": "New York building collapse kills at least two, officials say",
+   "summary_en": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+   "share_id": "MN202611_kcbhuw4ebq"
+  },
   {
    "id": "crawl_1x3nook",
    "title": "Inyuma y'imyaka irenga 140, Mississippi iraronse umukenguzamateka wa mbere w'umwirabure",
@@ -189,5 +209,5 @@
    "share_id": "MN202611_1qpleoceb56"
   }
  ],
- "updated": "2026-11-12T04:27:46.197Z"
+ "updated": "2026-11-12T05:30:24.631Z"
 }
