@@ -1,7 +1,73 @@
 {
  "day": "2026-11-12",
- "count": 25,
+ "count": 32,
  "articles": [
+  {
+   "id": "crawl_osh99m",
+   "title": "IMPAMVU UDAKWIRIYE KWIHOMA KU MUNTU UTAKIGUSHAKA | KUBURA INSHUTI BIRAGATSINDWA, ARIKO SI IHEREZO",
+   "summary": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
+   "link": "https://www.youtube.com/watch?v=CahhFSqsxWU",
+   "url": "https://www.youtube.com/watch?v=CahhFSqsxWU",
+   "date": "2026-11-12T08:40:37.000Z",
+   "source": "Mwanafunzi Ismael YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Mwanafunzi Ismael YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "CahhFSqsxWU"
+   },
+   "type": "video",
+   "image": "https://i4.ytimg.com/vi/CahhFSqsxWU/hqdefault.jpg",
+   "thumbnail": "https://i4.ytimg.com/vi/CahhFSqsxWU/hqdefault.jpg",
+   "title_rw": "IMPAMVU UDAKWIRIYE KWIHOMA KU MUNTU UTAKIGUSHAKA | KUBURA INSHUTI BIRAGATSINDWA, ARIKO SI IHEREZO",
+   "summary_rw": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
+   "share_id": "MN202611_osh99mhe2w"
+  },
+  {
+   "id": "crawl_1um9cnz",
+   "title": "Young duo at heart of Nations League's meanest defence",
+   "summary": "With Northern Ireland yet to concede a goal in the 2026-27 Nations League, young defenders Ruairi McConville and Tom Atcheson have been impressing for Michael O'Neill's side.",
+   "link": "https://www.bbc.co.uk/sport/articles/cw24epvmq96lo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/articles/cw24epvmq96lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T08:17:52.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1cf/live/ea41ecb0-ddc9-11f1-93e1-3b657b665bcf.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1cf/live/ea41ecb0-ddc9-11f1-93e1-3b657b665bcf.png",
+   "title_en": "Young duo at heart of Nations League's meanest defence",
+   "summary_en": "With Northern Ireland yet to concede a goal in the 2026-27 Nations League, young defenders Ruairi McConville and Tom Atcheson have been impressing for Michael O'Neill's side.",
+   "share_id": "MN202611_1um9cnzv62l"
+  },
+  {
+   "id": "crawl_19283me",
+   "title": "Ugandan police investigate deaths of four pupils in suspected school poisoning",
+   "summary": "The head teacher of the school has been arrested to assist police investigations.",
+   "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T07:45:52.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7574/live/b4ca5c60-de65-11f1-8771-4778a0df4e09.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7574/live/b4ca5c60-de65-11f1-8771-4778a0df4e09.jpg",
+   "title_en": "Ugandan police investigate deaths of four pupils in suspected school poisoning",
+   "summary_en": "The head teacher of the school has been arrested to assist police investigations.",
+   "share_id": "MN202611_19283me1038"
+  },
   {
    "id": "crawl_16h9bh",
    "title": "USA withdraw from U17 World Cup",
@@ -183,6 +249,58 @@
    "share_id": "MN202611_1atnzl0gw1u"
   },
   {
+   "id": "crawl_dcxai6",
+   "title": "#diamondplatnumz #wcb #davido #nigeria #tanzania",
+   "summary": "#diamondplatnumz #wcb #davido #nigeria #tanzania",
+   "link": "https://www.youtube.com/shorts/PMGk6xJ0KAM",
+   "url": "https://www.youtube.com/shorts/PMGk6xJ0KAM",
+   "date": "2026-11-12T06:11:58.000Z",
+   "source": "Diamond Platnumz YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Diamond Platnumz YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "PMGk6xJ0KAM"
+   },
+   "type": "video",
+   "image": "https://i1.ytimg.com/vi/PMGk6xJ0KAM/hqdefault.jpg",
+   "thumbnail": "https://i1.ytimg.com/vi/PMGk6xJ0KAM/hqdefault.jpg",
+   "title_rw": "#diamondplatnumz #wcb #davido #nigeria #tanzania",
+   "summary_rw": "#diamondplatnumz #wcb #davido #nigeria #tanzania",
+   "share_id": "MN202611_dcxai6d7nw"
+  },
+  {
+   "id": "crawl_1ktkto3",
+   "title": "#diamondplatnumz #zuchu #Vibes",
+   "summary": "#diamondplatnumz #zuchu #Vibes",
+   "link": "https://www.youtube.com/shorts/Gg-SlO_3fd0",
+   "url": "https://www.youtube.com/shorts/Gg-SlO_3fd0",
+   "date": "2026-11-12T06:11:41.000Z",
+   "source": "Diamond Platnumz YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Diamond Platnumz YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "Gg-SlO_3fd0"
+   },
+   "type": "video",
+   "image": "https://i4.ytimg.com/vi/Gg-SlO_3fd0/hqdefault.jpg",
+   "thumbnail": "https://i4.ytimg.com/vi/Gg-SlO_3fd0/hqdefault.jpg",
+   "title_rw": "#diamondplatnumz #zuchu #Vibes",
+   "summary_rw": "#diamondplatnumz #zuchu #Vibes",
+   "share_id": "MN202611_1ktkto3woup"
+  },
+  {
    "id": "crawl_nnysvx",
    "title": "I saved a stranger's life and my husband's at the same time",
    "summary": "Una Brown had always said she would give a kidney to her husband Sean if the time came, and she did so in a roundabout way.",
@@ -203,6 +321,32 @@
    "share_id": "MN202611_nnysvxrpcr"
   },
   {
+   "id": "crawl_s0qfwh",
+   "title": "#diamondplatnumz #zuchu #davido",
+   "summary": "#diamondplatnumz #zuchu #davido",
+   "link": "https://www.youtube.com/shorts/aP0GiQv4Wh8",
+   "url": "https://www.youtube.com/shorts/aP0GiQv4Wh8",
+   "date": "2026-11-12T06:08:42.000Z",
+   "source": "Diamond Platnumz YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Diamond Platnumz YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "aP0GiQv4Wh8"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/aP0GiQv4Wh8/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/aP0GiQv4Wh8/hqdefault.jpg",
+   "title_rw": "#diamondplatnumz #zuchu #davido",
+   "summary_rw": "#diamondplatnumz #zuchu #davido",
+   "share_id": "MN202611_s0qfwh2b33"
+  },
+  {
    "id": "crawl_c8pqac",
    "title": "Nurdle impact to be researched for a year",
    "summary": "Research will be carried out on sea-birds and marine life following a microplastic spillage in July.",
@@ -221,6 +365,32 @@
    "title_en": "Nurdle impact to be researched for a year",
    "summary_en": "Research will be carried out on sea-birds and marine life following a microplastic spillage in July.",
    "share_id": "MN202611_c8pqacimr6"
+  },
+  {
+   "id": "crawl_1824vb1",
+   "title": "#diamondplatnumz #Davido #viral #dance",
+   "summary": "#diamondplatnumz #Davido #viral #dance",
+   "link": "https://www.youtube.com/shorts/92yVCHB5CQo",
+   "url": "https://www.youtube.com/shorts/92yVCHB5CQo",
+   "date": "2026-11-12T06:06:11.000Z",
+   "source": "Diamond Platnumz YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Diamond Platnumz YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "92yVCHB5CQo"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/92yVCHB5CQo/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/92yVCHB5CQo/hqdefault.jpg",
+   "title_rw": "#diamondplatnumz #Davido #viral #dance",
+   "summary_rw": "#diamondplatnumz #Davido #viral #dance",
+   "share_id": "MN202611_1824vb1gqhn"
   },
   {
    "id": "crawl_1kwkckr",
@@ -509,5 +679,5 @@
    "share_id": "MN202611_1qpleoceb56"
   }
  ],
- "updated": "2026-11-12T07:50:50.710Z"
+ "updated": "2026-11-12T08:44:37.033Z"
 }

@@ -1,6 +1,6 @@
 {
  "day": "2026-11-11",
- "count": 136,
+ "count": 138,
  "articles": [
   {
    "id": "crawl_l0m2hw",
@@ -183,6 +183,26 @@
    "share_id": "MN202611_3ub76r9n4"
   },
   {
+   "id": "crawl_1fba9o5",
+   "title": "Lego marketplace BrickLink offline after 'unusual activity' detected",
+   "summary": "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.",
+   "link": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T22:26:18.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38f3/live/c4e58c50-de1a-11f1-9f86-23852740988a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38f3/live/c4e58c50-de1a-11f1-9f86-23852740988a.jpg",
+   "title_en": "Lego marketplace BrickLink offline after 'unusual activity' detected",
+   "summary_en": "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.",
+   "share_id": "MN202611_1fba9o5364z"
+  },
+  {
    "id": "crawl_1tpxyw7",
    "title": "#diamondplatnumz #Simba #Viral #Wasafi #wcb",
    "summary": "#diamondplatnumz #Simba #Viral #Wasafi #wcb",
@@ -269,6 +289,32 @@
    "title_rw": "Amavubi yakubiwe kabiri agahimbazamusyi yakoreye imyitozo ya mbere muri Mali (Amafoto)",
    "summary_rw": "Kuri uyu wa Gatatu, ikipe y’igihugu y’u Rwanda Amavubi yakoreye imyitozo ya mbere muri Mali aho yitegura umukino w’umunsi wa gatatu w’amatsinda yo gushaka itike y’Igikombe cya Afurika 2027 (…)",
    "share_id": "MN202611_1qytv04zi8i"
+  },
+  {
+   "id": "crawl_4tzea2",
+   "title": "🔴LIVE: #URUBUGARWIMIKINO: Impumeko y'Amavubi muri Mali | Abatarengeje imyaka 23 batsinzwe | Man Utd",
+   "summary": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "link": "https://www.youtube.com/watch?v=BWRVmswiQk8",
+   "url": "https://www.youtube.com/watch?v=BWRVmswiQk8",
+   "date": "2026-11-11T20:31:50.000Z",
+   "source": "Radio Rwanda YouTube",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Radio Rwanda YouTube",
+    "news",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "BWRVmswiQk8"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/BWRVmswiQk8/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/BWRVmswiQk8/hqdefault.jpg",
+   "title_rw": "🔴LIVE: #URUBUGARWIMIKINO: Impumeko y'Amavubi muri Mali | Abatarengeje imyaka 23 batsinzwe | Man Utd",
+   "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "share_id": "MN202611_4tzea2zj3c"
   },
   {
    "id": "crawl_1ldxyoo",
@@ -2975,5 +3021,5 @@
    "share_id": "MN202611_1gy3w30wsju"
   }
  ],
- "updated": "2026-11-12T01:51:31.748Z"
+ "updated": "2026-11-12T08:44:37.035Z"
 }
