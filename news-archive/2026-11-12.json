@@ -1,7 +1,47 @@
 {
  "day": "2026-11-12",
- "count": 7,
+ "count": 9,
  "articles": [
+  {
+   "id": "crawl_1x3nook",
+   "title": "Inyuma y'imyaka irenga 140, Mississippi iraronse umukenguzamateka wa mbere w'umwirabure",
+   "summary": "Scott Colom abaye umwirabure wa mbere aserukiye Mississippi mu nama nkenguzamateka ya Amerika mu myaka irenga 140, imbonekarimwe muri iyo ntara yiganjwemwo n’Abarepubulikani.",
+   "link": "https://www.bbc.co.uk/gahuza/live/cwq6er15ee47t?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/gahuza/live/cwq6er15ee47t?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T04:24:01.708Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bee/live/e6343290-de4b-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bee/live/e6343290-de4b-11f1-93e1-3b657b665bcf.jpg",
+   "title_rw": "Inyuma y'imyaka irenga 140, Mississippi iraronse umukenguzamateka wa mbere w'umwirabure",
+   "summary_rw": "Scott Colom abaye umwirabure wa mbere aserukiye Mississippi mu nama nkenguzamateka ya Amerika mu myaka irenga 140, imbonekarimwe muri iyo ntara yiganjwemwo n’Abarepubulikani.",
+   "share_id": "MN202611_1x3nookg9si"
+  },
+  {
+   "id": "crawl_1milmbk",
+   "title": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
+   "summary": "The strike hit the surgery department of the hospital in Khan Younis, wounding at least 20 people and causing extensive damage, a spokesperson says.",
+   "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T03:32:54.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg",
+   "title_en": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
+   "summary_en": "The strike hit the surgery department of the hospital in Khan Younis, wounding at least 20 people and causing extensive damage, a spokesperson says.",
+   "share_id": "MN202611_1milmbkeise"
+  },
   {
    "id": "crawl_mu7bbg",
    "title": "Australian teen missing in bush for six days rescued alive",
@@ -149,5 +189,5 @@
    "share_id": "MN202611_1qpleoceb56"
   }
  ],
- "updated": "2026-11-12T03:28:19.408Z"
+ "updated": "2026-11-12T04:27:46.197Z"
 }

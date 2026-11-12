@@ -1,5 +1,45 @@
 [
  {
+  "id": "crawl_1x3nook",
+  "title": "Inyuma y'imyaka irenga 140, Mississippi iraronse umukenguzamateka wa mbere w'umwirabure",
+  "summary": "Scott Colom abaye umwirabure wa mbere aserukiye Mississippi mu nama nkenguzamateka ya Amerika mu myaka irenga 140, imbonekarimwe muri iyo ntara yiganjwemwo n’Abarepubulikani.",
+  "link": "https://www.bbc.co.uk/gahuza/live/cwq6er15ee47t?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/gahuza/live/cwq6er15ee47t?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-12T04:24:01.708Z",
+  "source": "BBC Gahuza",
+  "category": "news",
+  "lang": "rw",
+  "keywords": [
+   "BBC Gahuza",
+   "news"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bee/live/e6343290-de4b-11f1-93e1-3b657b665bcf.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bee/live/e6343290-de4b-11f1-93e1-3b657b665bcf.jpg",
+  "title_rw": "Inyuma y'imyaka irenga 140, Mississippi iraronse umukenguzamateka wa mbere w'umwirabure",
+  "summary_rw": "Scott Colom abaye umwirabure wa mbere aserukiye Mississippi mu nama nkenguzamateka ya Amerika mu myaka irenga 140, imbonekarimwe muri iyo ntara yiganjwemwo n’Abarepubulikani.",
+  "share_id": "MN202611_1x3nookg9si"
+ },
+ {
+  "id": "crawl_1milmbk",
+  "title": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
+  "summary": "The strike hit the surgery department of the hospital in Khan Younis, wounding at least 20 people and causing extensive damage, a spokesperson says.",
+  "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-12T03:32:54.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg",
+  "title_en": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
+  "summary_en": "The strike hit the surgery department of the hospital in Khan Younis, wounding at least 20 people and causing extensive damage, a spokesperson says.",
+  "share_id": "MN202611_1milmbkeise"
+ },
+ {
   "id": "crawl_mu7bbg",
   "title": "Australian teen missing in bush for six days rescued alive",
   "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
@@ -52,12 +92,12 @@
   "link": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-12T00:36:11.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Africa",
+  "category": "news",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Africa",
+   "news"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5293/live/110e8ed0-dd8d-11f1-a56e-d7dc6014806d.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5293/live/110e8ed0-dd8d-11f1-a56e-d7dc6014806d.jpg",
@@ -167,7 +207,7 @@
  },
  {
   "id": "crawl_v622aw",
-  "title": "Some under-25s should get less benefits, Milburn review to say",
+  "title": "Some under-25s should get fewer benefits, Milburn review to say",
   "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
   "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
@@ -181,7 +221,7 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg",
-  "title_en": "Some under-25s should get less benefits, Milburn review to say",
+  "title_en": "Some under-25s should get fewer benefits, Milburn review to say",
   "summary_en": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
   "share_id": "MN202611_v622awuyrq"
  },
@@ -227,8 +267,8 @@
  },
  {
   "id": "crawl_1p4txg1",
-  "title": "New York building collapse kills one person and injures 12",
-  "summary": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+  "title": "Survivor pulled from rubble of deadly building collapse in New York",
+  "summary": "Two people are dead and several others injured as rescuers scour the debris in Brooklyn.",
   "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-11T22:55:26.000Z",
@@ -241,8 +281,8 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8114/live/d10cd710-de22-11f1-a006-f3a783cdc303.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8114/live/d10cd710-de22-11f1-a006-f3a783cdc303.jpg",
-  "title_en": "New York building collapse kills one person and injures 12",
-  "summary_en": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+  "title_en": "Survivor pulled from rubble of deadly building collapse in New York",
+  "summary_en": "Two people are dead and several others injured as rescuers scour the debris in Brooklyn.",
   "share_id": "MN202611_1p4txg1mijz"
  },
  {
@@ -604,7 +644,7 @@
  },
  {
   "id": "crawl_13qk3kw",
-  "title": "Famed ship SS United States to be sunk off coast of Florida",
+  "title": "Famed ship SS United States sunk off coast of Florida",
   "summary": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
   "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
@@ -618,7 +658,7 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5661/live/7c6e9130-ddeb-11f1-9204-cdcddf7d901c.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5661/live/7c6e9130-ddeb-11f1-9204-cdcddf7d901c.jpg",
-  "title_en": "Famed ship SS United States to be sunk off coast of Florida",
+  "title_en": "Famed ship SS United States sunk off coast of Florida",
   "summary_en": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
   "share_id": "MN202611_13qk3kwd01q"
  },
@@ -8616,8 +8656,8 @@
  },
  {
   "id": "crawl_197n58",
-  "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-  "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+  "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
+  "summary": "The billionaire tech executive's future is in question after reports of a second extramarital affair.",
   "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-09T06:01:52.000Z",
@@ -8630,8 +8670,8 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
-  "title_en": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-  "summary_en": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+  "title_en": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
+  "summary_en": "The billionaire tech executive's future is in question after reports of a second extramarital affair.",
   "share_id": "MN202611_197n584ll6"
  },
  {
@@ -17092,46 +17132,5 @@
   "title_rw": "Abanyarwanda bazigamye Miliyali 54Frw mu bimina",
   "summary_rw": "Minisitiri y’Imari n’Igenamigambi (MINECOFIN), ivuga ko imyumvire y’Abanyarwanda ku bijyanye no kuzigama igenda izamuka kuko imibare igaragaza ko ikigero cy’ubwizigame ku musaruro mbumbe w’Igihugu (…)",
   "share_id": "MN202611_hjcwiz4tqh"
- },
- {
-  "id": "crawl_6n9mnx",
-  "title": "Kagame, Antigua Prime Minister Seek Expanding Africa-Caribbean Trade, Cooperation",
-  "summary": "President Paul Kagame of Rwanda and Antigua and Barbuda Prime Minister Gaston Browne are considering extending trade and investment between Africa and the Caribbean. Kagame while attending the four-day 2026 Commonwealth Heads of Government Meeting at Jumby Bay Island on November 3 held discussions with the Premeir of the Caribbean Nation. The two leaders pledged […] The post Kagame, Antigua Prime…",
-  "link": "https://taarifa.rw/2026/11/05/kagame-antigua-prime-minister-seek-expanding-africa-caribbean-trade-cooperation/",
-  "url": "https://taarifa.rw/2026/11/05/kagame-antigua-prime-minister-seek-expanding-africa-caribbean-trade-cooperation/",
-  "date": "2026-11-05T14:30:49.000Z",
-  "source": "Taarifa Rwanda",
-  "category": "news",
-  "lang": "en",
-  "keywords": [
-   "Taarifa Rwanda",
-   "news",
-   "CHOGM"
-  ],
-  "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261105-162907.jpg?fit=720%2C742&ssl=1",
-  "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261105-162907.jpg?fit=720%2C742&ssl=1",
-  "title_en": "Kagame, Antigua Prime Minister Seek Expanding Africa-Caribbean Trade, Cooperation",
-  "summary_en": "President Paul Kagame of Rwanda and Antigua and Barbuda Prime Minister Gaston Browne are considering extending trade and investment between Africa and the Caribbean. Kagame while attending the four-day 2026 Commonwealth Heads of Government Meeting at Jumby Bay Island on November 3 held discussions with the Premeir of the Caribbean Nation. The two leaders pledged […] The post Kagame, Antigua Prime…",
-  "share_id": "MN202611_6n9mnx4luj"
- },
- {
-  "id": "crawl_1e0h0qh",
-  "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
-  "summary": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
-  "link": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-05T14:29:40.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf5/live/dfdded40-d915-11f1-a81d-35e942472442.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf5/live/dfdded40-d915-11f1-a81d-35e942472442.jpg",
-  "title_en": "A bitter end for Ronaldo - the icon who transformed Portugal",
-  "summary_en": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
-  "share_id": "MN202611_1e0h0qh8y53"
  }
 ]
