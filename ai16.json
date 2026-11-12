@@ -1536,6 +1536,126 @@
    ],
    "auto": true,
    "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_3801da57_q",
+   "label_rw": "Imikino ngororamubiri n'amasiganwa",
+   "label_en": "Athletics and running events",
+   "patterns_en": [
+    "What is included in athletics?",
+    "Do Rwandan athletes participate in international competitions?",
+    "What are running events?"
+   ],
+   "patterns_rw": [
+    "Ni iki kigize imikino ngororamubiri?",
+    "Ese abakinnyi b'u Rwanda bitabira amarushanwa mpuzamahanga?",
+    "Amasiganwa y'abiruka ni iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imikino ngororamubiri ni imwe mu mikino ya kera cyane. Irimo amasiganwa y'abiruka, gusimbuka no gutera. Abakinnyi bo mu Rwanda bitabira amarushanwa mpuzamahanga menshi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Athletics is one of the oldest sports. It usually includes running events, jumping, and throwing. Athletes from Rwanda often participate in many international competitions.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_b0f2fa39_q",
+   "label_rw": "Gukirana mu Muco Nyarwanda",
+   "label_en": "Traditional Rwandan Wrestling",
+   "patterns_en": [
+    "What were the goals of traditional wrestling in ancient Rwanda?",
+    "Who usually participated in traditional wrestling?",
+    "What was the importance of wrestling in community relations?"
+   ],
+   "patterns_rw": [
+    "Gukirana byari bifite izihe ntego mu Rwanda rwa kera?",
+    "Ni bande bitabiraga umukino wo gukirana?",
+    "Umukino wo gukirana wari ufite akahe kamaro mu mibanire y'abaturage?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gukirana ni umukino wa gakondo mu Rwanda. Abasore n'abagabo bitabiraga uyu mukino mu birori n'amasiganwa atandukanye. Byari uburyo bwo kwerekana imbaraga n'ubuhanga. Nanone kandi byafashaga mu kongera ubumwe n'ubucuti mu baturage.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Traditional wrestling is an ancient sport in Rwanda. Young men and adults usually participated in this game during ceremonies and various competitions. It was a method to demonstrate strength and skill. It also helped to build unity and friendship among citizens.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_f416984f_q",
+   "label_rw": "Umukino wa Handball mu mashuri n'amakipe",
+   "label_en": "Handball in schools and clubs",
+   "patterns_en": [
+    "How is handball played in Rwandan schools?",
+    "Which teams play handball in Rwanda?",
+    "How does the game of handball help the youth?"
+   ],
+   "patterns_rw": [
+    "Handball ikinwa ite mu mashuri y'u Rwanda?",
+    "Ni ayahe makipe akina handball mu Rwanda?",
+    "Umukino wa handball ufasha ute urubyiruko?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Handball ni umukino ukinirwa mu Rwanda mu mashuri no mu makipe atandukanye. Uyu mukino ufasha abanyeshuri n'urubyiruko kugira ubuzima bwiza no guteza imbere impano zabo muri siporo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Handball is a sport played in schools and various clubs in Rwanda. This game helps students and youth maintain good health and develop their sports talents.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_9ea14271_q",
+   "label_rw": "Imisingi y'iteramakofi",
+   "label_en": "Boxing basics",
+   "patterns_en": [
+    "What is boxing?",
+    "What are the basic training methods in boxing?",
+    "Why do boxers wear gloves?"
+   ],
+   "patterns_rw": [
+    "Iteramakofi ni iki?",
+    "Ni izihe nyitozo zibanze mu iteramakofi?",
+    "Kuki abakinnyi b'iteramakofi bambara utuboko?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Iteramakofi ni umukino w'amarushanwa aho abakinnyi babiri barwana bakoresha amaboko yabo gusa. Abakinnyi bambara utuboko twabugenewe kugira ngo birinde ibikomere. Imyitozo y'ibanze irimo kwirinda, gutera amakofi, no kongera imbaraga n'ubudahangarwa bw'umubiri.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Boxing is a combat sport where two competitors fight using only their fists. Fighters wear specialized gloves to prevent injuries. Basic training usually involves defensive moves, throwing punches, and building overall physical strength and stamina.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_05ef63f2_q",
+   "label_rw": "Amategeko n'ibikoresho bya Tennis",
+   "label_en": "Tennis rules and equipment",
+   "patterns_en": [
+    "What equipment is used in tennis?",
+    "What are the basic rules of tennis?",
+    "How is a tennis match scored?"
+   ],
+   "patterns_rw": [
+    "Ni ibikoresho ki bikoreshwa muri Tennis?",
+    "Amategeko y'ibanze ya Tennis ni ayahe?",
+    "Umupira wa Tennis ugarurwa ute?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Umukino wa Tennis ukinishwa Racket na Tennis ball mu kibuga cyabugenewe. Abakinnyi bashaka gutsinda amanota binyuze mu kugarura umupira mu rubuga rw'uwo bahanganye. Umukino uyoborwa n'umusifuzi mukuru n'abasifuzi bo ku mirongo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Tennis is played with rackets and a tennis ball on a rectangular court. Players score points by hitting the ball so the opponent cannot return it properly. The match is usually overseen by a chair umpire and line judges.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
   }
  ],
  "knowledge": [
@@ -2800,6 +2920,105 @@
    ],
    "auto": true,
    "taught": "2026-11-11"
+  },
+  {
+   "id": "ai16_3801da57",
+   "category": "sports",
+   "title_rw": "Imikino ngororamubiri n'amasiganwa",
+   "title_en": "Athletics and running events",
+   "summary_rw": "Imikino ngororamubiri ni imwe mu mikino ya kera cyane. Irimo amasiganwa y'abiruka, gusimbuka no gutera. Abakinnyi bo mu Rwanda bitabira amarushanwa mpuzamahanga menshi.",
+   "summary_en": "Athletics is one of the oldest sports. It usually includes running events, jumping, and throwing. Athletes from Rwanda often participate in many international competitions.",
+   "keywords": [
+    "imikino",
+    "amasiganwa",
+    "wiruka",
+    "rwanda",
+    "sports",
+    "running",
+    "athletics",
+    "competition"
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_b0f2fa39",
+   "category": "sports",
+   "title_rw": "Gukirana mu Muco Nyarwanda",
+   "title_en": "Traditional Rwandan Wrestling",
+   "summary_rw": "Gukirana ni umukino wa gakondo mu Rwanda. Abasore n'abagabo bitabiraga uyu mukino mu birori n'amasiganwa atandukanye. Byari uburyo bwo kwerekana imbaraga n'ubuhanga. Nanone kandi byafashaga mu kongera ubumwe n'ubucuti mu baturage.",
+   "summary_en": "Traditional wrestling is an ancient sport in Rwanda. Young men and adults usually participated in this game during ceremonies and various competitions. It was a method to demonstrate strength and skill. It also helped to build unity and friendship among citizens.",
+   "keywords": [
+    "gukirana",
+    "wrestling",
+    "umuco",
+    "culture",
+    "imbaraga",
+    "strength",
+    "rwanda",
+    "gakondo"
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_f416984f",
+   "category": "sports",
+   "title_rw": "Umukino wa Handball mu mashuri n'amakipe",
+   "title_en": "Handball in schools and clubs",
+   "summary_rw": "Handball ni umukino ukinirwa mu Rwanda mu mashuri no mu makipe atandukanye. Uyu mukino ufasha abanyeshuri n'urubyiruko kugira ubuzima bwiza no guteza imbere impano zabo muri siporo.",
+   "summary_en": "Handball is a sport played in schools and various clubs in Rwanda. This game helps students and youth maintain good health and develop their sports talents.",
+   "keywords": [
+    "handball",
+    "siporo",
+    "amashuri",
+    "amakipe",
+    "urubyiruko",
+    "sports",
+    "schools",
+    "teams"
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_9ea14271",
+   "category": "sports",
+   "title_rw": "Imisingi y'iteramakofi",
+   "title_en": "Boxing basics",
+   "summary_rw": "Iteramakofi ni umukino w'amarushanwa aho abakinnyi babiri barwana bakoresha amaboko yabo gusa. Abakinnyi bambara utuboko twabugenewe kugira ngo birinde ibikomere. Imyitozo y'ibanze irimo kwirinda, gutera amakofi, no kongera imbaraga n'ubudahangarwa bw'umubiri.",
+   "summary_en": "Boxing is a combat sport where two competitors fight using only their fists. Fighters wear specialized gloves to prevent injuries. Basic training usually involves defensive moves, throwing punches, and building overall physical strength and stamina.",
+   "keywords": [
+    "iteramakofi",
+    "boxing",
+    "imimyitozo",
+    "training",
+    "amakofi",
+    "poches",
+    "sports",
+    "imikino"
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_05ef63f2",
+   "category": "sports",
+   "title_rw": "Amategeko n'ibikoresho bya Tennis",
+   "title_en": "Tennis rules and equipment",
+   "summary_rw": "Umukino wa Tennis ukinishwa Racket na Tennis ball mu kibuga cyabugenewe. Abakinnyi bashaka gutsinda amanota binyuze mu kugarura umupira mu rubuga rw'uwo bahanganye. Umukino uyoborwa n'umusifuzi mukuru n'abasifuzi bo ku mirongo.",
+   "summary_en": "Tennis is played with rackets and a tennis ball on a rectangular court. Players score points by hitting the ball so the opponent cannot return it properly. The match is usually overseen by a chair umpire and line judges.",
+   "keywords": [
+    "tennis",
+    "racket",
+    "ibibuga",
+    "amategeko",
+    "rules",
+    "equipment",
+    "sports"
+   ],
+   "auto": true,
+   "taught": "2026-11-12"
   }
  ]
 }
