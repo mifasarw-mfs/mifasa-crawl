@@ -1,6 +1,6 @@
 {
  "day": "2026-11-12",
- "count": 130,
+ "count": 131,
  "articles": [
   {
    "id": "crawl_ha7obw",
@@ -935,6 +935,32 @@
    "title_en": "Before Scott Colom, these two men were the last black US senators in Mississippi",
    "summary_en": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
    "share_id": "MN202611_10zy0deqwu8"
+  },
+  {
+   "id": "crawl_u8ovze",
+   "title": "🔴LIVE: #URUBUGARWIMIKINO: #Amavubi arakina na Mali | Man Utd yirukanye umutoza | #UEFANationsLeague",
+   "summary": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "link": "https://www.youtube.com/watch?v=itFNlUxwX7E",
+   "url": "https://www.youtube.com/watch?v=itFNlUxwX7E",
+   "date": "2026-11-12T14:08:42.000Z",
+   "source": "Radio Rwanda YouTube",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Radio Rwanda YouTube",
+    "news",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "itFNlUxwX7E"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/itFNlUxwX7E/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/itFNlUxwX7E/hqdefault.jpg",
+   "title_rw": "🔴LIVE: #URUBUGARWIMIKINO: #Amavubi arakina na Mali | Man Utd yirukanye umutoza | #UEFANationsLeague",
+   "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "share_id": "MN202611_u8ovzep0so"
   },
   {
    "id": "crawl_1vst5ba",
@@ -2776,5 +2802,5 @@
    "share_id": "MN202611_1qpleoceb56"
   }
  ],
- "updated": "2026-11-13T01:32:43.747Z"
+ "updated": "2026-11-13T08:00:17.428Z"
 }
