@@ -1,7 +1,48 @@
 {
  "day": "2026-11-13",
- "count": 4,
+ "count": 6,
  "articles": [
+  {
+   "id": "crawl_1mm8m3g",
+   "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+   "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+   "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T02:01:35.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f44f/live/57b45570-df06-11f1-9f71-7d0084202c8a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f44f/live/57b45570-df06-11f1-9f71-7d0084202c8a.jpg",
+   "title_en": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+   "summary_en": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+   "share_id": "MN202611_1mm8m3g1ika"
+  },
+  {
+   "id": "crawl_pphsn7",
+   "title": "US backs UN renewal of Yemen sanctions, urges controls on Houthi weapons components",
+   "summary": "The United States has backed the renewal of UN sanctions on Yemen and the mandate of the Panel of Experts that monitors the regime, calling for tougher measures to stop the Houthis from obtaining components used in missiles and long-range drones. The Security Council adopted the renewal by consensus on November 12. The measures, including […] The post US backs UN renewal of Yemen sanctions, urges…",
+   "link": "https://taarifa.rw/2026/11/13/us-backs-un-renewal-of-yemen-sanctions-urges-controls-on-houthi-weapons-components/",
+   "url": "https://taarifa.rw/2026/11/13/us-backs-un-renewal-of-yemen-sanctions-urges-controls-on-houthi-weapons-components/",
+   "date": "2026-11-13T01:35:43.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "World"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/IMG_7548.jpeg?fit=1108%2C713&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/IMG_7548.jpeg?fit=1108%2C713&ssl=1",
+   "title_en": "US backs UN renewal of Yemen sanctions, urges controls on Houthi weapons components",
+   "summary_en": "The United States has backed the renewal of UN sanctions on Yemen and the mandate of the Panel of Experts that monitors the regime, calling for tougher measures to stop the Houthis from obtaining components used in missiles and long-range drones. The Security Council adopted the renewal by consensus on November 12. The measures, including […] The post US backs UN renewal of Yemen sanctions, urges…",
+   "share_id": "MN202611_pphsn7ktnl"
+  },
   {
    "id": "crawl_vmgdr3",
    "title": "Australian footballers will not be charged after hotel incident, police say",
@@ -83,5 +124,5 @@
    "share_id": "MN202611_ehxxd1qttv"
   }
  ],
- "updated": "2026-11-13T01:32:43.746Z"
+ "updated": "2026-11-13T02:25:16.379Z"
 }
