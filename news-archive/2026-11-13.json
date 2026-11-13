@@ -1,7 +1,33 @@
 {
  "day": "2026-11-13",
- "count": 129,
+ "count": 130,
  "articles": [
+  {
+   "id": "crawl_ildlqv",
+   "title": "Isobanuye mu kinyaarwnda:Lexnour - God I need you •#agasobanuye #mifasa #mifasarw #m",
+   "summary": "This song is released by Lexnour on his YouTube channel, I get it to explain it into kinyaarwnda God i need you Mana ndagukeneye Yasobanuwe mu kinyarwanda na MIFASA Mizero Fabrice Samuel #ikinyarwanda #mifasa #mifasarw #mifasasimufasa #rocky #gaheza #ubushakashatsibwamifasa #agasobanuyegashya2026",
+   "link": "https://www.youtube.com/watch?v=db0hhOs-ex0",
+   "url": "https://www.youtube.com/watch?v=db0hhOs-ex0",
+   "date": "2026-11-13T21:26:06.000Z",
+   "source": "MIFASARW YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "MIFASARW YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "db0hhOs-ex0"
+   },
+   "type": "video",
+   "image": "https://i1.ytimg.com/vi/db0hhOs-ex0/hqdefault.jpg",
+   "thumbnail": "https://i1.ytimg.com/vi/db0hhOs-ex0/hqdefault.jpg",
+   "title_rw": "Isobanuye mu kinyaarwnda:Lexnour - God I need you •#agasobanuye #mifasa #mifasarw #m",
+   "summary_rw": "This song is released by Lexnour on his YouTube channel, I get it to explain it into kinyaarwnda God i need you Mana ndagukeneye Yasobanuwe mu kinyarwanda na MIFASA Mizero Fabrice Samuel #ikinyarwanda #mifasa #mifasarw #mifasasimufasa #rocky #gaheza #ubushakashatsibwamifasa #agasobanuyegashya2026",
+   "share_id": "MN202611_ildlqvdqk5"
+  },
   {
    "id": "crawl_1ps7vu",
    "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
@@ -2764,5 +2790,5 @@
    "share_id": "MN202611_cgwh2gfix2"
   }
  ],
- "updated": "2026-11-13T21:11:58.316Z"
+ "updated": "2026-11-13T21:39:38.158Z"
 }
