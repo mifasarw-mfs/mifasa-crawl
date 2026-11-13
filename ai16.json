@@ -2399,6 +2399,78 @@
    ],
    "auto": true,
    "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_40fd59bc_q",
+   "label_rw": "Ubwami bwa Aksum",
+   "label_en": "Kingdom of Aksum",
+   "patterns_en": [
+    "When did the Kingdom of Aksum rule?",
+    "What was the role of Aksum in trade?",
+    "What monuments are Aksum famous for?"
+   ],
+   "patterns_rw": [
+    "Ubwami bwa Aksum bwategetse ryari?",
+    "Ni iki cyari gihuriyeho ubucuruzi bwa Aksum?",
+    "Ni ibiki bimenyekanishije ubwubatsi bwa Aksum?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubwami bwa Aksum bwari ubwami bukomeye mu burasirazuba bwa Afurika. Bwategetse kuva mu kinyejana cya mbere kugeza mu kinyejana cya munani. Bwari ihuriro rikomeye ry'ubucuruzi hagati y'Uburayi na Aziya. Bwari bafite uburyo bwabo bwo kwandika n'ibishushanyo by'amabuye maremare bizwi nka stele.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The Kingdom of Aksum was a major trading empire in East Africa. It flourished from the first century to the eighth century. It was an important commercial link between the Roman Empire and Ancient India. The civilization developed its own script and built large stone monuments known as stelae.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_c8b29adf_q",
+   "label_rw": "Ubwami bwa Songhai",
+   "label_en": "Songhai Empire",
+   "patterns_en": [
+    "When did the Songhai Empire exist?",
+    "Where was the Songhai Empire located?",
+    "What characterized the Songhai Empire?"
+   ],
+   "patterns_rw": [
+    "Ubwami bwa Songhai bwabayeho ryari?",
+    "Ni hehe Ubwami bwa Songhai bwabaga?",
+    "Ni iki cyaranze Ubwami bwa Songhai?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubwami bwa Songhai bwabaye ubwami bukomeye muri Afurika y'Uburengerazuba mu kinyejana cya 15 n'icya 16. Bwategekaga ubutaka bunini kandi bwateje imbere ubucuruzi ndetse n'ubumenyi muri Afurika.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The Songhai Empire was a major state in West Africa during the 15th and 16th centuries. It controlled a vast territory and advanced trade and scholarship in Africa.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_351a4c16_q",
+   "label_rw": "Imyivumbagatanyo ya Mau Mau",
+   "label_en": "Mau Mau Uprising",
+   "patterns_en": [
+    "When did the Mau Mau Uprising take place?",
+    "Who made up the Mau Mau movement?",
+    "What impact did the Mau Mau Uprising have on Kenya?"
+   ],
+   "patterns_rw": [
+    "Imyivumbagatanyo ya Mau Mau yabaye ryari?",
+    "Ni bande bari bagize umutwe wa Mau Mau?",
+    "Imyivumbagatanyo ya Mau Mau yagize izihe ngaruka kuri Kenya?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imyivumbagatanyo ya Mau Mau yabaye hagati y'umwaka wa 1952 na 1960 muri Kenya. Yari umutwe witwaje intwaro washinzwe ahanini n'abagize ubwoko bwa Kikuyu. Bagamije kurwanya ubutegetsi bw'abakoloni b'Abongereza no kwisubiza ubutaka bwabo bwanyaze. Nubwo Abongereza bayatsinze mu gisirikare, iyi myivumbagatanyo yagize uruhare rukomeye mu nzira yagejeje Kenya ku bwigenge mu mwaka wa 1963.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The Mau Mau Uprising took place between 1952 and 1960 in Kenya. It was an armed movement mainly formed by members of the Kikuyu ethnic group. Their goal was to fight British colonial rule and reclaim their seized land. Although the British defeated the rebellion militarily, the uprising played a significant role in the path that led Kenya to independence in 1963.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
   }
  ],
  "knowledge": [
@@ -4367,6 +4439,65 @@
     "rwanda",
     "recycling",
     "gucunga"
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_40fd59bc",
+   "category": "history",
+   "title_rw": "Ubwami bwa Aksum",
+   "title_en": "Kingdom of Aksum",
+   "summary_rw": "Ubwami bwa Aksum bwari ubwami bukomeye mu burasirazuba bwa Afurika. Bwategetse kuva mu kinyejana cya mbere kugeza mu kinyejana cya munani. Bwari ihuriro rikomeye ry'ubucuruzi hagati y'Uburayi na Aziya. Bwari bafite uburyo bwabo bwo kwandika n'ibishushanyo by'amabuye maremare bizwi nka stele.",
+   "summary_en": "The Kingdom of Aksum was a major trading empire in East Africa. It flourished from the first century to the eighth century. It was an important commercial link between the Roman Empire and Ancient India. The civilization developed its own script and built large stone monuments known as stelae.",
+   "keywords": [
+    "aksum",
+    "ubwami",
+    "afurika",
+    "ubucuruzi",
+    "amateka",
+    "kingdom",
+    "trade",
+    "history"
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_c8b29adf",
+   "category": "history",
+   "title_rw": "Ubwami bwa Songhai",
+   "title_en": "Songhai Empire",
+   "summary_rw": "Ubwami bwa Songhai bwabaye ubwami bukomeye muri Afurika y'Uburengerazuba mu kinyejana cya 15 n'icya 16. Bwategekaga ubutaka bunini kandi bwateje imbere ubucuruzi ndetse n'ubumenyi muri Afurika.",
+   "summary_en": "The Songhai Empire was a major state in West Africa during the 15th and 16th centuries. It controlled a vast territory and advanced trade and scholarship in Africa.",
+   "keywords": [
+    "songhai",
+    "ubwami",
+    "africa",
+    "amateka",
+    "empire",
+    "history",
+    "west africa"
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_351a4c16",
+   "category": "history",
+   "title_rw": "Imyivumbagatanyo ya Mau Mau",
+   "title_en": "Mau Mau Uprising",
+   "summary_rw": "Imyivumbagatanyo ya Mau Mau yabaye hagati y'umwaka wa 1952 na 1960 muri Kenya. Yari umutwe witwaje intwaro washinzwe ahanini n'abagize ubwoko bwa Kikuyu. Bagamije kurwanya ubutegetsi bw'abakoloni b'Abongereza no kwisubiza ubutaka bwabo bwanyaze. Nubwo Abongereza bayatsinze mu gisirikare, iyi myivumbagatanyo yagize uruhare rukomeye mu nzira yagejeje Kenya ku bwigenge mu mwaka wa 1963.",
+   "summary_en": "The Mau Mau Uprising took place between 1952 and 1960 in Kenya. It was an armed movement mainly formed by members of the Kikuyu ethnic group. Their goal was to fight British colonial rule and reclaim their seized land. Although the British defeated the rebellion militarily, the uprising played a significant role in the path that led Kenya to independence in 1963.",
+   "keywords": [
+    "mau mau",
+    "kenya",
+    "ubwigenge",
+    "independence",
+    "abongereza",
+    "british",
+    "amateka",
+    "history"
    ],
    "auto": true,
    "taught": "2026-11-13"
