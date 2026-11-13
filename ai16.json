@@ -2303,6 +2303,102 @@
    ],
    "auto": true,
    "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_d1b018f2_q",
+   "label_rw": "Ibigo bika amakuru",
+   "label_en": "Data centers",
+   "patterns_en": [
+    "What is a data center?",
+    "Why are data centers important?",
+    "Where are data centers located in Rwanda?"
+   ],
+   "patterns_rw": [
+    "Ikigo gika amakuru ni iki?",
+    "Kuki ibigo bika amakuru ari ingenzi?",
+    "Ni he hagaragara ibigo bika amakuru mu Rwanda?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ikigo gika amakuru ni aho bashyira mudasuaswa nini n'ibikoresho bitunganya kandi bikabika amakuru menshi ya mudasobwa. Ibi bigo bifasha mu gutuma serivisi zo kuri interineti ziboneka neza kandi mu mutekano. U Rwanda rufite ibigo nka Kigali Innovation City bigamije guteza imbere ikoranabuhanga.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "A data center is a physical facility that houses large computer systems and equipment to process and store vast amounts of digital information. These centers help ensure online services remain accessible and secure. Rwanda hosts facilities like Kigali Innovation City to advance technology infrastructure.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_75b1ff7f_q",
+   "label_rw": "Ubumenyi bw'ikoranabuhanga",
+   "label_en": "Digital literacy",
+   "patterns_en": [
+    "What is digital literacy?",
+    "Why is digital literacy important in Rwanda?",
+    "How do citizens learn digital skills?"
+   ],
+   "patterns_rw": [
+    "Ubumenyi bw'ikoranabuhanga ni iki?",
+    "Ni iki gituma ubumenyi bw'ikoranabuhanga ari ngombwa mu Rwanda?",
+    "Ni gute abaturage bigishwa ikoranabuhanga?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubumenyi bw'ikoranabuhanga ni ubushobozi bwo gukoresha mudasuaswa na telefone zigezweho neza. Bufasha abantu gushakisha amakuru no gutumanaho mu buryo bworoshye. Guverinoma y'u Rwanda itanga amahugurwa kugira ngo abaturage bose babashe kwitabira ubukungu bushingiye ku ikoranabuhanga.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Digital literacy is the ability to use modern computers and smartphones effectively. It helps people search for information and communicate easily. The government of Rwanda provides training so that all citizens can participate in the digital economy.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_c631cea2_q",
+   "label_rw": "Ubu buryo bwo kugaragaza amakuru y'aho ibintu biherereye",
+   "label_en": "Geographic Information Systems (GIS)",
+   "patterns_en": [
+    "What is GIS?",
+    "What are the applications of GIS?",
+    "How do geographic information systems help in planning?"
+   ],
+   "patterns_rw": [
+    "GIS ni iki?",
+    "Ese GIS ikoreshwa mu ki?",
+    "Buri buryo bwa GIS bufasha gute mu igenamigambi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gis ni uburyo bushingiye kuri mudasobwa bufasha gukora, gusesengura no kugaragaza amakuru y'aho ibintu biherereye ku isi. Bifasha mu igenamigambi ry'imiturire, ubuhinzi, no gucunga umutungo kamere.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Geographic Information Systems are computer-based tools used to capture, store, analyze, and display spatial and geographic data. They are commonly used in urban planning, agriculture, and natural resource management.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_d21f9980_q",
+   "label_rw": "Gucunga imyanda y'ikoranabuhanga",
+   "label_en": "E-waste management",
+   "patterns_en": [
+    "What is electronic waste?",
+    "How does e-waste harm the environment?",
+    "Which company manages e-waste in Rwanda?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyitwa imyanda y'ikoranabuhanga?",
+    "Imyanda y'ikoranabuhanga yangiza ite ibidukikije?",
+    "Ni iki kigo gishinzwe gucunga iyi myanda mu Rwanda?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imyanda y'ikoranabuhanga irimo ibikoresho nk'amatelefone na mudasobwa ishobora kwangiza ibidukikije n'ubuzima bw'abantu naramuka idacunguwe neza. Mu Rwanda, uruganda rwa Green Processing Company ruteranya iyi myanda kugira ngo rutunganye ibishobora kongera gukoreshwa cyangwa ngo bijugunywe mu buryo butangiza ibidukikije.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Electronic waste including devices like phones and computers can harm the environment and human health if not managed properly. In Rwanda, the Green Processing Company collects and treats this waste to recycle reusable materials or dispose of them safely without harming the environment.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
   }
  ],
  "knowledge": [
@@ -4193,6 +4289,84 @@
     "hands",
     "isabune",
     "soap"
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_d1b018f2",
+   "category": "technology",
+   "title_rw": "Ibigo bika amakuru",
+   "title_en": "Data centers",
+   "summary_rw": "Ikigo gika amakuru ni aho bashyira mudasuaswa nini n'ibikoresho bitunganya kandi bikabika amakuru menshi ya mudasobwa. Ibi bigo bifasha mu gutuma serivisi zo kuri interineti ziboneka neza kandi mu mutekano. U Rwanda rufite ibigo nka Kigali Innovation City bigamije guteza imbere ikoranabuhanga.",
+   "summary_en": "A data center is a physical facility that houses large computer systems and equipment to process and store vast amounts of digital information. These centers help ensure online services remain accessible and secure. Rwanda hosts facilities like Kigali Innovation City to advance technology infrastructure.",
+   "keywords": [
+    "amakuru",
+    "data",
+    "center",
+    "ikoranabuhanga",
+    "technology",
+    "mudasobwa",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_75b1ff7f",
+   "category": "technology",
+   "title_rw": "Ubumenyi bw'ikoranabuhanga",
+   "title_en": "Digital literacy",
+   "summary_rw": "Ubumenyi bw'ikoranabuhanga ni ubushobozi bwo gukoresha mudasuaswa na telefone zigezweho neza. Bufasha abantu gushakisha amakuru no gutumanaho mu buryo bworoshye. Guverinoma y'u Rwanda itanga amahugurwa kugira ngo abaturage bose babashe kwitabira ubukungu bushingiye ku ikoranabuhanga.",
+   "summary_en": "Digital literacy is the ability to use modern computers and smartphones effectively. It helps people search for information and communicate easily. The government of Rwanda provides training so that all citizens can participate in the digital economy.",
+   "keywords": [
+    "ubumenyi",
+    "ikoranabuhanga",
+    "mudasobwa",
+    "digital",
+    "literacy",
+    "rwanda",
+    "technology",
+    "computer"
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_c631cea2",
+   "category": "technology",
+   "title_rw": "Ubu buryo bwo kugaragaza amakuru y'aho ibintu biherereye",
+   "title_en": "Geographic Information Systems (GIS)",
+   "summary_rw": "Gis ni uburyo bushingiye kuri mudasobwa bufasha gukora, gusesengura no kugaragaza amakuru y'aho ibintu biherereye ku isi. Bifasha mu igenamigambi ry'imiturire, ubuhinzi, no gucunga umutungo kamere.",
+   "summary_en": "Geographic Information Systems are computer-based tools used to capture, store, analyze, and display spatial and geographic data. They are commonly used in urban planning, agriculture, and natural resource management.",
+   "keywords": [
+    "gis",
+    "amakuru",
+    "ubutaka",
+    "mudasobwa",
+    "igenamigambi",
+    "spatial",
+    "data"
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_d21f9980",
+   "category": "technology",
+   "title_rw": "Gucunga imyanda y'ikoranabuhanga",
+   "title_en": "E-waste management",
+   "summary_rw": "Imyanda y'ikoranabuhanga irimo ibikoresho nk'amatelefone na mudasobwa ishobora kwangiza ibidukikije n'ubuzima bw'abantu naramuka idacunguwe neza. Mu Rwanda, uruganda rwa Green Processing Company ruteranya iyi myanda kugira ngo rutunganye ibishobora kongera gukoreshwa cyangwa ngo bijugunywe mu buryo butangiza ibidukikije.",
+   "summary_en": "Electronic waste including devices like phones and computers can harm the environment and human health if not managed properly. In Rwanda, the Green Processing Company collects and treats this waste to recycle reusable materials or dispose of them safely without harming the environment.",
+   "keywords": [
+    "imyanda",
+    "ikoranabuhanga",
+    "e-waste",
+    "ibidukikije",
+    "environment",
+    "rwanda",
+    "recycling",
+    "gucunga"
    ],
    "auto": true,
    "taught": "2026-11-13"
