@@ -1,8 +1,48 @@
 [
  {
+  "id": "crawl_6b4ab3",
+  "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+  "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+  "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-13T17:38:19.000Z",
+  "source": "BBC Technology",
+  "category": "tech",
+  "lang": "en",
+  "keywords": [
+   "BBC Technology",
+   "tech"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/a9179c50-df84-11f1-a8e2-5b59832bb2f1.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/a9179c50-df84-11f1-a8e2-5b59832bb2f1.jpg",
+  "title_en": "Microsoft outage 'stark reminder' of how much we rely on tech",
+  "summary_en": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+  "share_id": "MN202611_6b4ab3x6rx"
+ },
+ {
+  "id": "crawl_1bpao2o",
+  "title": "'Ni ukurya rimwe ku munsi… inzara iteye ubwoba' – Umuturage wo mu Rwanda",
+  "summary": "Minisiteri y'ubuhinzi mu Rwanda ivuga ko ikibazo cy'ihindagurika ry'ibihe ari cyo cyabaye intandaro y'ibiciro bihanitse by'ibiribwa muri iki gihe.",
+  "link": "https://www.bbc.com/gahuza/articles/c9m2j81r4n2jo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.com/gahuza/articles/c9m2j81r4n2jo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-13T17:05:24.000Z",
+  "source": "BBC Gahuza",
+  "category": "news",
+  "lang": "rw",
+  "keywords": [
+   "BBC Gahuza",
+   "news"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9cd3/live/2d1d49c0-df83-11f1-b844-3146c4983677.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9cd3/live/2d1d49c0-df83-11f1-b844-3146c4983677.jpg",
+  "title_rw": "'Ni ukurya rimwe ku munsi… inzara iteye ubwoba' – Umuturage wo mu Rwanda",
+  "summary_rw": "Minisiteri y'ubuhinzi mu Rwanda ivuga ko ikibazo cy'ihindagurika ry'ibihe ari cyo cyabaye intandaro y'ibiciro bihanitse by'ibiribwa muri iki gihe.",
+  "share_id": "MN202611_1bpao2o3kji"
+ },
+ {
   "id": "crawl_4u68dz",
   "title": "Police investigating David Walliams over reports alleging serious sexual offences",
-  "summary": "The Met Police said the allegations are separate from those reported by ITN and The Guardian earlier this week.",
+  "summary": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.",
   "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-13T16:53:50.000Z",
@@ -13,11 +53,31 @@
    "BBC Entertainment",
    "entertainment"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7f8/live/38cb0fd0-df13-11f0-8db4-97f4d263443d.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7f8/live/38cb0fd0-df13-11f0-8db4-97f4d263443d.jpg",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d86/live/54377b90-df86-11f1-b441-2b33b063138f.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d86/live/54377b90-df86-11f1-b441-2b33b063138f.jpg",
   "title_en": "Police investigating David Walliams over reports alleging serious sexual offences",
-  "summary_en": "The Met Police said the allegations are separate from those reported by ITN and The Guardian earlier this week.",
+  "summary_en": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.",
   "share_id": "MN202611_4u68dzz4ut"
+ },
+ {
+  "id": "crawl_1q7js6n",
+  "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+  "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+  "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-13T16:40:31.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a8d/live/606ff370-df85-11f1-93e1-3b657b665bcf.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a8d/live/606ff370-df85-11f1-93e1-3b657b665bcf.jpg",
+  "title_en": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+  "summary_en": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+  "share_id": "MN202611_1q7js6nconh"
  },
  {
   "id": "crawl_1xwcmzg",
@@ -103,6 +163,46 @@
   "title_en": "When Microsoft Takes a Day Off: A Wake-Up Call for Our Digital Dependence",
   "summary_en": "If you’ve been on social media lately, chances are you’ve come across the conversations, memes and countless reactions surrounding the Microsoft outage. From corporate professionals sharing their frustrations to… The post When Microsoft Takes a Day Off: A Wake-Up Call for Our Digital Dependence appeared first on KT PRESS .",
   "share_id": "MN202611_1586dxdhuzj"
+ },
+ {
+  "id": "crawl_1g0usjc",
+  "title": "Democratic Senate leader Schumer set to face leadership challenge",
+  "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+  "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-13T15:48:07.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png",
+  "title_en": "Democratic Senate leader Schumer set to face leadership challenge",
+  "summary_en": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+  "share_id": "MN202611_1g0usjcnp06"
+ },
+ {
+  "id": "crawl_136103g",
+  "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+  "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+  "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-13T15:42:52.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a89/live/8263f580-df76-11f1-b844-3146c4983677.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a89/live/8263f580-df76-11f1-b844-3146c4983677.jpg",
+  "title_en": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+  "summary_en": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+  "share_id": "MN202611_136103gtwka"
  },
  {
   "id": "crawl_h3oht3",
@@ -233,6 +333,26 @@
   "share_id": "MN202611_vev1pqv6j0"
  },
  {
+  "id": "crawl_168tyb3",
+  "title": "At least 24 killed after bus collides with truck in north-east India",
+  "summary": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
+  "link": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-13T15:16:50.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6d0/live/abb1cd00-df75-11f1-b844-3146c4983677.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6d0/live/abb1cd00-df75-11f1-b844-3146c4983677.jpg",
+  "title_en": "At least 24 killed after bus collides with truck in north-east India",
+  "summary_en": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
+  "share_id": "MN202611_168tyb3murx"
+ },
+ {
   "id": "crawl_nsboax",
   "title": "Peacekeeping Police Discuss Mission Challenges and Emerging Security Threats",
   "summary": "Police officers involved in United Nations peace operations have discussed challenges facing deployed contingents and ways to respond to emerging security threats in their mission areas. The discussions took place during a week-long workshop for coordinators of Formed Police Units (FPUs), held at Rwanda National Police headquarters in Kacyiru. Participants shared experiences and explored…",
@@ -276,23 +396,43 @@
   "share_id": "MN202611_zggpsh6q27"
  },
  {
+  "id": "crawl_6el981",
+  "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
+  "summary": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef.",
+  "link": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-13T15:09:40.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e0b/live/165af990-df73-11f1-b441-2b33b063138f.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e0b/live/165af990-df73-11f1-b441-2b33b063138f.jpg",
+  "title_en": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
+  "summary_en": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef.",
+  "share_id": "MN202611_6el981hwb3"
+ },
+ {
   "id": "crawl_y7volj",
-  "title": "Bessent blames Lutnick's Commerce Department for failing to block Megaspeed",
-  "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
+  "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+  "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
   "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-13T15:04:42.000Z",
-  "source": "BBC Business",
-  "category": "business",
+  "source": "BBC World",
+  "category": "world",
   "lang": "en",
   "keywords": [
-   "BBC Business",
-   "business"
+   "BBC World",
+   "world"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
-  "title_en": "Bessent blames Lutnick's Commerce Department for failing to block Megaspeed",
-  "summary_en": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
+  "title_en": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+  "summary_en": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
   "share_id": "MN202611_y7voljol2d"
  },
  {
@@ -450,8 +590,8 @@
    "MobileBigStory",
    "Tarib Abdul"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-13_at_10.36_40_1_.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-13_at_10.36_40_1_.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-13_at_10.36_38_1_.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-13_at_10.36_38_1_.jpg",
   "title_rw": "Mushikiwabo yagaragaje uruhare rwa Francophonie mu guhuza ibihugu no kubaka amahoro",
   "summary_rw": "Umunyamabanga Mukuru w’Umuryango Mpuzamahanga w’Ibihugu bikoresha Igifaransa (OIF), Louise Mushikiwabo, yavuze ko Francophonie ari urubuga rukomeye ruhuza abantu n’ibihugu bifite amateka n’imico (…)",
   "share_id": "MN202611_1x4dw65hm7v"
@@ -1362,8 +1502,8 @@
    "MobileBigStory",
    "Tarib Abdul"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-13_at_10.00_03_1_.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-13_at_10.00_03_1_.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-13_at_10.00_02_1_.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-13_at_10.00_02_1_.jpg",
   "title_rw": "Perezida Kagame yakiriwe n'Umwami wa Cambodia",
   "summary_rw": "Perezida wa Repubulika y’u Rwanda, Paul Kagame, ari kumwe na Madamu Jeannette Kagame, bakiriwe ku mugaragaro n’Umwami wa Cambodia, Norodom Sihamoni, mu muhango wo kubakira ku rwego rw’Igihugu (…)",
   "share_id": "MN202611_b7bksnfq5h"
@@ -1614,8 +1754,8 @@
  },
  {
   "id": "crawl_xxp1ps",
-  "title": "Why is the Microsoft outage lasting so long?",
-  "summary": "Microsoft says it is seeing \"improvements\" following a global outage but efforts to fully resume services are ongoing.",
+  "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+  "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
   "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-13T07:37:38.000Z",
@@ -1628,8 +1768,8 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
-  "title_en": "Why is the Microsoft outage lasting so long?",
-  "summary_en": "Microsoft says it is seeing \"improvements\" following a global outage but efforts to fully resume services are ongoing.",
+  "title_en": "Why is Microsoft's outage lasting so long and will emails be lost?",
+  "summary_en": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
   "share_id": "MN202611_xxp1pshy6m"
  },
  {
@@ -1712,8 +1852,8 @@
    "MobileBigStory",
    "Jean de la Croix Tabaro"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_14.01_16_1_.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_14.01_16_1_.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_14.01_17_1_.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_14.01_17_1_.jpg",
   "title_rw": "FDLR we! Rekura abantu bacu waheranye muri Congo, turabashaka ari bataraga",
   "summary_rw": "Kuri uyu wa 12 Ugushyingo 2026, ku mupaka wa Rusizi ya mbere uhuza u Rwanda na Repubulika Iharanira Demukarasi ya Congo mu Karere ka Rusizi, hakiriwe Abanyarwanda 136, bari barahungiye mu Ntara ya (…)",
   "share_id": "MN202611_lpeuv771lt"
@@ -2259,12 +2399,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-12T23:34:05.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Business",
+  "category": "business",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Business",
+   "business"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
@@ -2649,8 +2789,8 @@
    "Ibirori",
    "Ruzindana Janvier"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_16.38_45.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_16.38_45.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_16.38_46_1_.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_16.38_46_1_.jpg",
   "title_rw": "Inganzo Ngari zateguje igitaramo cyo kwizihiza imyaka 20",
   "summary_rw": "Itorero Inganzo Ngari rikomeje imyiteguro y’igitaramo rizizihirizamo imyaka 20 rimaze mu bikorwa byo guteza imbere no gusigasira umuco Nyarwanda binyuze mu nganzo, mu gitaramo gikomeye ryise (…)",
   "share_id": "MN202611_1uzec7mhd80"
@@ -2692,8 +2832,8 @@
    "MobileBigStory",
    "Ernestine Musanabera"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_17.08_11_2_.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_17.08_11_2_.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_17.08_11.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_17.08_11.jpg",
   "title_rw": "Abahinzi bigishijwe na RICA bamaze kubona itandukaniro",
   "summary_rw": "Ubuhamya bwatanzwe n’abaturage bakora ubuhinzi bubungabunga ubutaka, baturutse mu bice bitandukanye by’igihugu, bugaragaza uburyo ubu buhinzi bwongera umusaruro ugereranyije n’ubuhinzi gakondo. (…)",
   "share_id": "MN202611_1ir28is4jpe"
@@ -2786,8 +2926,8 @@
    "Mu mahanga",
    "MobileBigStory"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_18.07_08_1_.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_18.07_08_1_.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_18.07.07.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_18.07.07.jpg",
   "title_rw": "Minisitiri w'Intebe yasabye abafatanyabikorwa gushora imari mu buhinzi buhangana n'imihindagurikire y'ibihe",
   "summary_rw": "Minisitiri w’Intebe, Dr. Justin Nsengiyumva, yasabye abafatanyabikorwa mu iterambere kongera ishoramari mu buhinzi buhangana n’imihindagurikire y’ibihe, kuko ari byo bizafasha kongera umusaruro, (…)",
   "share_id": "MN202611_ibzvt9u6f"
@@ -3215,6 +3355,36 @@
   "share_id": "MN202611_u8ovzep0so"
  },
  {
+  "id": "crawl_1w8ilpw",
+  "title": "Breaking EVERY BONE As SUPERHEROES in GTA!",
+  "summary": "📺MY MINECRAFT CHANNEL: @Waffy ⚡Socials⚡ 🎯Discord: https://discord.gg/waffloos 🌵Twitter: https://twitter.com/Waffloos #gta5 #waffloos #gtarp",
+  "link": "https://www.youtube.com/watch?v=Q6FrqvPDqqc",
+  "url": "https://www.youtube.com/watch?v=Q6FrqvPDqqc",
+  "date": "2026-11-12T14:00:20.000Z",
+  "source": "YouTube Trending Kenya",
+  "category": "entertainment",
+  "lang": "en",
+  "keywords": [
+   "YouTube Trending Kenya",
+   "entertainment",
+   "trending",
+   "gta 5",
+   "gta 5 roleplay",
+   "grand theft auto",
+   "video"
+  ],
+  "video": {
+   "provider": "youtube",
+   "id": "Q6FrqvPDqqc"
+  },
+  "type": "video",
+  "image": "https://i.ytimg.com/vi/Q6FrqvPDqqc/hqdefault.jpg",
+  "thumbnail": "https://i.ytimg.com/vi/Q6FrqvPDqqc/hqdefault.jpg",
+  "title_en": "Breaking EVERY BONE As SUPERHEROES in GTA!",
+  "summary_en": "📺MY MINECRAFT CHANNEL: @Waffy ⚡Socials⚡ 🎯Discord: https://discord.gg/waffloos 🌵Twitter: https://twitter.com/Waffloos #gta5 #waffloos #gtarp",
+  "share_id": "MN202611_1w8ilpweok2"
+ },
+ {
   "id": "crawl_1vst5ba",
   "title": "Children of Blood and Bone | New Trailer (2027) - Thuso Mbedu, Damson Idris, Amandla Stenberg",
   "summary": "To take down an empire, rise as one. From visionary filmmaker Gina Prince-Bythewood, watch the New Trailer for #ChildrenOfBloodAndBone - only in theatres and IMAX January 15, 2027. #FilmedForIMAX #WeAreMagic Featuring new song “African Love Story” from soundtrack executive music producer Tems. In the epic fantasy world of Orïsha, a young woman goes on a quest to reclaim the magic that was violentl",
@@ -3489,8 +3659,8 @@
    "MobileBigStory",
    "Ruzindana Janvier"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_10.35_57_1_.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_10.35_57_1_.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_10.35_56_1_.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_10.35_56_1_.jpg",
   "title_rw": "Banki Nkuru y'u Rwanda izaniye umwihariko abana b'abakobwa",
   "summary_rw": "Banki Nkuru y’u Rwanda (BNR) yatangije gahunda yiswe NBR Girls Mentorship Program, igamije gufasha abakobwa bakiri bato kongera ubumenyi, icyizere n’ubushobozi bwo kwihitiramo amasomo, imyuga (…)",
   "share_id": "MN202611_1nj4w9w0qde"
@@ -3657,8 +3827,8 @@
    "MobileBigStory",
    "Tarib Abdul"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_12.02_28_2_.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_12.02_28_2_.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_12.02_28.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_12.02_28.jpg",
   "title_rw": "U Rwanda rwesheje imihigo ku ngengo y'imari igenewe abana",
   "summary_rw": "Minisiteri y’Imari n’Igenamigambi (MINECOFIN), yagaragaje ko u Rwanda rwifuza kurushaho gushimangira umuhigo wo gutegura igenamigambi no kugena ingengo y’imari hitabwa ku bana, no kureba ko (…)",
   "share_id": "MN202611_1yuq74ef4rw"
@@ -4181,8 +4351,8 @@
    "Volleyball",
    "Habiyaremye Japhet"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/4dab6d74-1dcb-4872-bf73-392b744291c2.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/4dab6d74-1dcb-4872-bf73-392b744291c2.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/70b0b6d7-3f1b-4a8a-a18e-2476cf927267.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/70b0b6d7-3f1b-4a8a-a18e-2476cf927267.jpg",
   "title_rw": "Volleyball: APR na Police zigiye guhigana ubutwari mu bagabo n'abagore ‎",
   "summary_rw": "Abakunzi ba Volleyball mu Rwanda biteguye gususurutswa n’imikino ibiri ikomeye izahuza APR na Police mu bagabo no mu bagore, mu ihangana rimaze kumenyerwa hagati y’aya makipe ahagarariye inzego (…)",
   "share_id": "MN202611_10vpqujnzk9"
@@ -4276,8 +4446,8 @@
    "Football",
    "Jean Jules Uwimana"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/htzlsgfxwaaj2on-2.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/htzlsgfxwaaj2on-2.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/img-20261112-wa0002.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/img-20261112-wa0002.jpg",
   "title_rw": "FERWAFA yashyize hanze ibiciro by'umukino wa Mali",
   "summary_rw": "Ishyirahamwe ry’Umupira w’Amaguru mu Rwada ryashyize ahagaragara ibiciro by’umukino w’umunsi wa kane wo gushaka itike y’Igikombe cya Afurika 2027, Amavubi azakiramo Mali tariki 17 Ugushyingo 2026. (…)",
   "share_id": "MN202611_13fnndz51ad"
@@ -5359,8 +5529,8 @@
    "Football",
    "Jean Jules Uwimana"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/img-20261111-wa0134.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/img-20261111-wa0134.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/img-20261111-wa0138.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/img-20261111-wa0138.jpg",
   "title_rw": "Amavubi yakubiwe kabiri agahimbazamusyi yakoreye imyitozo ya mbere muri Mali (Amafoto)",
   "summary_rw": "Kuri uyu wa Gatatu, ikipe y’igihugu y’u Rwanda Amavubi yakoreye imyitozo ya mbere muri Mali aho yitegura umukino w’umunsi wa gatatu w’amatsinda yo gushaka itike y’Igikombe cya Afurika 2027 (…)",
   "share_id": "MN202611_1qytv04zi8i"
@@ -17049,199 +17219,5 @@
   "title_en": "Tottenham set to complain to Pro Ref after Bogle escapes red card",
   "summary_en": "Tottenham are set to submit a formal complaint about the decision not to send off Jayden Bogle for his challenge on Mathys Tel during the defeat by Leeds.",
   "share_id": "MN202611_ang6flc5tb"
- },
- {
-  "id": "crawl_ks7xbr",
-  "title": "UMUKUNZI W'URWENYA, KUBYINA NO KURIRA IMISOZI | LOUISE MUSHIKIWABO YAVUZE | UBURWAYI BW'UMUGABO WE",
-  "summary": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
-  "link": "https://www.youtube.com/watch?v=_T4NSvOfccI",
-  "url": "https://www.youtube.com/watch?v=_T4NSvOfccI",
-  "date": "2026-11-07T16:35:21.000Z",
-  "source": "Mwanafunzi Ismael YouTube",
-  "category": "entertainment",
-  "lang": "rw",
-  "keywords": [
-   "Mwanafunzi Ismael YouTube",
-   "entertainment",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "_T4NSvOfccI"
-  },
-  "type": "video",
-  "image": "https://i4.ytimg.com/vi/_T4NSvOfccI/hqdefault.jpg",
-  "thumbnail": "https://i4.ytimg.com/vi/_T4NSvOfccI/hqdefault.jpg",
-  "title_rw": "UMUKUNZI W'URWENYA, KUBYINA NO KURIRA IMISOZI | LOUISE MUSHIKIWABO YAVUZE | UBURWAYI BW'UMUGABO WE",
-  "summary_rw": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
-  "share_id": "MN202611_ks7xbr8251"
- },
- {
-  "id": "crawl_1bfyfnz",
-  "title": "Africa cannot develop by relying on foreign ideas – Amb. Nkurunziza",
-  "summary": "Africa needs to invest more in its writers and publishing industry if it is to produce its own knowledge and find solutions to its problems, Amb. Williams Nkurunziza has said....",
-  "link": "https://www.newtimes.co.rw/article/40292/news/education/africa-cannot-develop-by-relying-on-foreign-ideas-amb-nkurunziza",
-  "url": "https://www.newtimes.co.rw/article/40292/news/education/africa-cannot-develop-by-relying-on-foreign-ideas-amb-nkurunziza",
-  "date": "2026-11-07T15:59:22.000Z",
-  "source": "The New Times",
-  "category": "news",
-  "lang": "en",
-  "keywords": [
-   "The New Times",
-   "news"
-  ],
-  "image": "https://www.newtimes.co.rw/thenewtimes/uploads/images/2026/11/07/118483.jpg",
-  "thumbnail": "https://www.newtimes.co.rw/thenewtimes/uploads/images/2026/11/07/118483.jpg",
-  "title_en": "Africa cannot develop by relying on foreign ideas – Amb. Nkurunziza",
-  "summary_en": "Africa needs to invest more in its writers and publishing industry if it is to produce its own knowledge and find solutions to its problems, Amb. Williams Nkurunziza has said....",
-  "share_id": "MN202611_1bfyfnzqmel"
- },
- {
-  "id": "crawl_1aesad8",
-  "title": "No clear winner after tight New Zealand general election",
-  "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-  "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-07T15:56:28.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg",
-  "title_en": "No clear winner after tight New Zealand general election",
-  "summary_en": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-  "share_id": "MN202611_1aesad8l6u2"
- },
- {
-  "id": "crawl_1jyjfzu",
-  "title": "Salish's 12 Games of Christmas | Official Trailer | Netflix",
-  "summary": "Salish Matter and seven of her closest friends go head to head in 12 epic holiday challenges for a mountain of Christmas presents, with her dad, Jordan, as host. But there’s a twist: a Christmas imposter is hiding among them, out to sabotage the games and swipe the gifts. Can they unwrap the culprit before it’s too late? SALISH’S 12 GAMES OF CHRISTMAS arrives on Netflix November 28. Watch on Netfl",
-  "link": "https://www.youtube.com/watch?v=ylYSnvZEH0Y",
-  "url": "https://www.youtube.com/watch?v=ylYSnvZEH0Y",
-  "date": "2026-11-07T15:30:10.000Z",
-  "source": "YouTube Trending Kenya",
-  "category": "entertainment",
-  "lang": "en",
-  "keywords": [
-   "YouTube Trending Kenya",
-   "entertainment",
-   "trending",
-   "12 Games of Christmas",
-   "Christmas 2026",
-   "Christmas Challenge",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "ylYSnvZEH0Y"
-  },
-  "type": "video",
-  "image": "https://i.ytimg.com/vi/ylYSnvZEH0Y/hqdefault.jpg",
-  "thumbnail": "https://i.ytimg.com/vi/ylYSnvZEH0Y/hqdefault.jpg",
-  "title_en": "Salish's 12 Games of Christmas | Official Trailer | Netflix",
-  "summary_en": "Salish Matter and seven of her closest friends go head to head in 12 epic holiday challenges for a mountain of Christmas presents, with her dad, Jordan, as host. But there’s a twist: a Christmas imposter is hiding among them, out to sabotage the games and swipe the gifts. Can they unwrap the culprit before it’s too late? SALISH’S 12 GAMES OF CHRISTMAS arrives on Netflix November 28. Watch on Netfl",
-  "share_id": "MN202611_1jyjfzufiu0"
- },
- {
-  "id": "crawl_hrbdop",
-  "title": "The Brightest Diwali Ever 🪔 | Diwali Special Story for Kids | Happy Diwali | Part 2",
-  "summary": "@kidshut family presents : The Brightest Diwali Ever 🪔 | Diwali Special Story for Kids | Happy Diwali ------------------------------------- NEW UPLOADS COLLECTION ► http://bit.ly/1TTDl6r ------------------------------------- ✿ Voice Credit: Tulsi Kumar -------------------------------------- ★ SUBSCRIBE us on YOUTUBE: http://bit.ly/1qsHVca ★ LIKE us on FACEBOOK: https://www.facebook.com/kidshut ★…",
-  "link": "https://www.youtube.com/shorts/cJtd_hx9ONQ",
-  "url": "https://www.youtube.com/shorts/cJtd_hx9ONQ",
-  "date": "2026-11-07T15:30:01.000Z",
-  "source": "T-Series YouTube",
-  "category": "entertainment",
-  "lang": "en",
-  "keywords": [
-   "T-Series YouTube",
-   "entertainment",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "cJtd_hx9ONQ"
-  },
-  "type": "video",
-  "image": "https://i4.ytimg.com/vi/cJtd_hx9ONQ/hqdefault.jpg",
-  "thumbnail": "https://i4.ytimg.com/vi/cJtd_hx9ONQ/hqdefault.jpg",
-  "title_en": "The Brightest Diwali Ever 🪔 | Diwali Special Story for Kids | Happy Diwali | Part 2",
-  "summary_en": "@kidshut family presents : The Brightest Diwali Ever 🪔 | Diwali Special Story for Kids | Happy Diwali ------------------------------------- NEW UPLOADS COLLECTION ► http://bit.ly/1TTDl6r ------------------------------------- ✿ Voice Credit: Tulsi Kumar -------------------------------------- ★ SUBSCRIBE us on YOUTUBE: http://bit.ly/1qsHVca ★ LIKE us on FACEBOOK: https://www.facebook.com/kidshut ★…",
-  "share_id": "MN202611_hrbdoprauf"
- },
- {
-  "id": "crawl_52ua1e",
-  "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-  "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-  "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-07T15:19:35.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg",
-  "title_en": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-  "summary_en": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-  "share_id": "MN202611_52ua1en6i8"
- },
- {
-  "id": "crawl_1ga33b5",
-  "title": "WAMUFARANSA Asekeje Nsabi🤣 Turumirwa",
-  "summary": "#wamufaransa #funnyvideo #nsabi",
-  "link": "https://www.youtube.com/watch?v=DrUrVjZxM9w",
-  "url": "https://www.youtube.com/watch?v=DrUrVjZxM9w",
-  "date": "2026-11-07T15:17:56.000Z",
-  "source": "Wamufaransa Comedy YouTube",
-  "category": "entertainment",
-  "lang": "rw",
-  "keywords": [
-   "Wamufaransa Comedy YouTube",
-   "entertainment",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "DrUrVjZxM9w"
-  },
-  "type": "video",
-  "image": "https://i1.ytimg.com/vi/DrUrVjZxM9w/hqdefault.jpg",
-  "thumbnail": "https://i1.ytimg.com/vi/DrUrVjZxM9w/hqdefault.jpg",
-  "title_rw": "WAMUFARANSA Asekeje Nsabi🤣 Turumirwa",
-  "summary_rw": "#wamufaransa #funnyvideo #nsabi",
-  "share_id": "MN202611_1ga33b5z65b"
- },
- {
-  "id": "crawl_1o9liv",
-  "title": "The Brightest Diwali Ever 🪔 | Diwali Special Story for Kids | Happy Diwali",
-  "summary": "@kidshut family presents : The Brightest Diwali Ever 🪔 | Diwali Special Story for Kids | Happy Diwali ------------------------------------- NEW UPLOADS COLLECTION ► http://bit.ly/1TTDl6r ------------------------------------- ✿ Voice Credit: Tulsi Kumar -------------------------------------- ★ SUBSCRIBE us on YOUTUBE: http://bit.ly/1qsHVca ★ LIKE us on FACEBOOK: https://www.facebook.com/kidshut ★…",
-  "link": "https://www.youtube.com/watch?v=7gBmQipfDLU",
-  "url": "https://www.youtube.com/watch?v=7gBmQipfDLU",
-  "date": "2026-11-07T14:52:12.000Z",
-  "source": "T-Series YouTube",
-  "category": "entertainment",
-  "lang": "en",
-  "keywords": [
-   "T-Series YouTube",
-   "entertainment",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "7gBmQipfDLU"
-  },
-  "type": "video",
-  "image": "https://i4.ytimg.com/vi/7gBmQipfDLU/hqdefault.jpg",
-  "thumbnail": "https://i4.ytimg.com/vi/7gBmQipfDLU/hqdefault.jpg",
-  "title_en": "The Brightest Diwali Ever 🪔 | Diwali Special Story for Kids | Happy Diwali",
-  "summary_en": "@kidshut family presents : The Brightest Diwali Ever 🪔 | Diwali Special Story for Kids | Happy Diwali ------------------------------------- NEW UPLOADS COLLECTION ► http://bit.ly/1TTDl6r ------------------------------------- ✿ Voice Credit: Tulsi Kumar -------------------------------------- ★ SUBSCRIBE us on YOUTUBE: http://bit.ly/1qsHVca ★ LIKE us on FACEBOOK: https://www.facebook.com/kidshut ★…",
-  "share_id": "MN202611_1o9liv9qc5"
  }
 ]

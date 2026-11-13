@@ -1,7 +1,47 @@
 {
  "day": "2026-11-13",
- "count": 103,
+ "count": 110,
  "articles": [
+  {
+   "id": "crawl_6b4ab3",
+   "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+   "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+   "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T17:38:19.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/a9179c50-df84-11f1-a8e2-5b59832bb2f1.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/a9179c50-df84-11f1-a8e2-5b59832bb2f1.jpg",
+   "title_en": "Microsoft outage 'stark reminder' of how much we rely on tech",
+   "summary_en": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+   "share_id": "MN202611_6b4ab3x6rx"
+  },
+  {
+   "id": "crawl_1bpao2o",
+   "title": "'Ni ukurya rimwe ku munsi… inzara iteye ubwoba' – Umuturage wo mu Rwanda",
+   "summary": "Minisiteri y'ubuhinzi mu Rwanda ivuga ko ikibazo cy'ihindagurika ry'ibihe ari cyo cyabaye intandaro y'ibiciro bihanitse by'ibiribwa muri iki gihe.",
+   "link": "https://www.bbc.com/gahuza/articles/c9m2j81r4n2jo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/c9m2j81r4n2jo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T17:05:24.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9cd3/live/2d1d49c0-df83-11f1-b844-3146c4983677.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9cd3/live/2d1d49c0-df83-11f1-b844-3146c4983677.jpg",
+   "title_rw": "'Ni ukurya rimwe ku munsi… inzara iteye ubwoba' – Umuturage wo mu Rwanda",
+   "summary_rw": "Minisiteri y'ubuhinzi mu Rwanda ivuga ko ikibazo cy'ihindagurika ry'ibihe ari cyo cyabaye intandaro y'ibiciro bihanitse by'ibiribwa muri iki gihe.",
+   "share_id": "MN202611_1bpao2o3kji"
+  },
   {
    "id": "crawl_4u68dz",
    "title": "Police investigating David Walliams over reports alleging serious sexual offences",
@@ -21,6 +61,26 @@
    "title_en": "Police investigating David Walliams over reports alleging serious sexual offences",
    "summary_en": "The Met Police said the allegations are separate from those reported by ITN and The Guardian earlier this week.",
    "share_id": "MN202611_4u68dzz4ut"
+  },
+  {
+   "id": "crawl_1q7js6n",
+   "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+   "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+   "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T16:40:31.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a8d/live/606ff370-df85-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a8d/live/606ff370-df85-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+   "summary_en": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+   "share_id": "MN202611_1q7js6nconh"
   },
   {
    "id": "crawl_1xwcmzg",
@@ -106,6 +166,46 @@
    "title_en": "When Microsoft Takes a Day Off: A Wake-Up Call for Our Digital Dependence",
    "summary_en": "If you’ve been on social media lately, chances are you’ve come across the conversations, memes and countless reactions surrounding the Microsoft outage. From corporate professionals sharing their frustrations to… The post When Microsoft Takes a Day Off: A Wake-Up Call for Our Digital Dependence appeared first on KT PRESS .",
    "share_id": "MN202611_1586dxdhuzj"
+  },
+  {
+   "id": "crawl_1g0usjc",
+   "title": "Democratic Senate leader Schumer set to face leadership challenge",
+   "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+   "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T15:48:07.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png",
+   "title_en": "Democratic Senate leader Schumer set to face leadership challenge",
+   "summary_en": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+   "share_id": "MN202611_1g0usjcnp06"
+  },
+  {
+   "id": "crawl_136103g",
+   "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+   "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+   "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T15:42:52.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a89/live/8263f580-df76-11f1-b844-3146c4983677.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a89/live/8263f580-df76-11f1-b844-3146c4983677.jpg",
+   "title_en": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+   "summary_en": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+   "share_id": "MN202611_136103gtwka"
   },
   {
    "id": "crawl_h3oht3",
@@ -236,6 +336,26 @@
    "share_id": "MN202611_vev1pqv6j0"
   },
   {
+   "id": "crawl_168tyb3",
+   "title": "At least 24 killed after bus collides with truck in north-east India",
+   "summary": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
+   "link": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T15:16:50.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6d0/live/abb1cd00-df75-11f1-b844-3146c4983677.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6d0/live/abb1cd00-df75-11f1-b844-3146c4983677.jpg",
+   "title_en": "At least 24 killed after bus collides with truck in north-east India",
+   "summary_en": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
+   "share_id": "MN202611_168tyb3murx"
+  },
+  {
    "id": "crawl_nsboax",
    "title": "Peacekeeping Police Discuss Mission Challenges and Emerging Security Threats",
    "summary": "Police officers involved in United Nations peace operations have discussed challenges facing deployed contingents and ways to respond to emerging security threats in their mission areas. The discussions took place during a week-long workshop for coordinators of Formed Police Units (FPUs), held at Rwanda National Police headquarters in Kacyiru. Participants shared experiences and explored…",
@@ -277,6 +397,26 @@
    "title_rw": "Michael Carrick yasezeye ku bafana ba Manchester United mu ibaruwa yuzuye amarangamutima",
    "summary_rw": "Michael Carrick yandikiye abafana ba Manchester United ibaruwa yuzuye amarangamutima, abasobanurira agaciro gakomeye yagize ko gutoza ikipe yakunze kuva kera, anabashimira urukundo n’ubwitange (…)",
    "share_id": "MN202611_zggpsh6q27"
+  },
+  {
+   "id": "crawl_6el981",
+   "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
+   "summary": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef.",
+   "link": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T15:09:40.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e0b/live/165af990-df73-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e0b/live/165af990-df73-11f1-b441-2b33b063138f.jpg",
+   "title_en": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
+   "summary_en": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef.",
+   "share_id": "MN202611_6el981hwb3"
   },
   {
    "id": "crawl_y7volj",
@@ -2215,5 +2355,5 @@
    "share_id": "MN202611_cgwh2gfix2"
   }
  ],
- "updated": "2026-11-13T17:02:29.380Z"
+ "updated": "2026-11-13T17:46:59.473Z"
 }
