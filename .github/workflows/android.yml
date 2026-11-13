@@ -59,6 +59,11 @@ jobs:
         run: |
           cd app
           if [ -f ../icon-512.png ]; then mkdir -p assets && cp ../icon-512.png assets/icon-only.png && cp ../icon-512.png assets/icon-foreground.png; npx capacitor-assets generate --android --iconBackgroundColor '#e63946' --iconBackgroundColorDark '#e63946' || true; fi
+          # fix: capacitor-assets makes ic_launcher.xml point to @mipmap/ic_launcher_background (missing) -> use a colour instead
+          R=android/app/src/main/res
+          mkdir -p $R/values
+          printf '<?xml version="1.0" encoding="utf-8"?>\n<resources>\n    <color name="ic_launcher_background">#e63946</color>\n</resources>\n' > $R/values/ic_launcher_background.xml
+          sed -i 's#@mipmap/ic_launcher_background#@color/ic_launcher_background#g' $R/mipmap-anydpi-v26/*.xml 2>/dev/null || true
       - name: Build type
         id: kind
         env: { KS: "${{ secrets.KEYSTORE_BASE64 }}" }
