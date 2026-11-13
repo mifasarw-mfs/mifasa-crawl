@@ -1,7 +1,27 @@
 {
  "day": "2026-11-13",
- "count": 124,
+ "count": 127,
  "articles": [
+  {
+   "id": "crawl_uy03jd",
+   "title": "SpaceX to attempt double catch of huge Starship rocket",
+   "summary": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
+   "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T20:12:02.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53ad/live/14a168f0-de92-11f1-9afe-1f03bfe02283.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53ad/live/14a168f0-de92-11f1-9afe-1f03bfe02283.jpg",
+   "title_en": "SpaceX to attempt double catch of huge Starship rocket",
+   "summary_en": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
+   "share_id": "MN202611_uy03jdt007"
+  },
   {
    "id": "crawl_1l3ucya",
    "title": "Ndi umukandida mwiza - Louise Mushikiwabo",
@@ -118,6 +138,26 @@
    "title_rw": "Ole Havgum washinze Fitness Point: Ntiyari azi ko ashobora gukorera muri Afurika, kugeza ubwo yamenye u Rwanda",
    "summary_rw": "“Sinigeze ntekereza ko nzaba muri Afurika. Nari mfite gahunda yo kujya muri Espagne cyangwa muri Portugal, ariko inshuti yanjye iranyumvisha ngo mbanze nsure Afurika.” Iyi ni yo ntangiriro (…)",
    "share_id": "MN202611_1pvfg2fqh2t"
+  },
+  {
+   "id": "crawl_127wuys",
+   "title": "A Royal State Banquet, Three Bilateral Deals Mark Highlight of Kagame’s Cambodia Visit",
+   "summary": "President Paul Kagame’s first-ever state visit to Cambodia has opened a new chapter in relations between the two countries. It featured a royal reception, a state banquet hosted by King… The post A Royal State Banquet, Three Bilateral Deals Mark Highlight of Kagame’s Cambodia Visit appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/a-royal-state-banquet-three-bilateral-deals-mark-highlight-of-kagames-cambodia-visit/",
+   "url": "https://www.ktpress.rw/2026/11/a-royal-state-banquet-three-bilateral-deals-mark-highlight-of-kagames-cambodia-visit/",
+   "date": "2026-11-13T19:18:48.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "International",
+    "big-story"
+   ],
+   "title_en": "A Royal State Banquet, Three Bilateral Deals Mark Highlight of Kagame’s Cambodia Visit",
+   "summary_en": "President Paul Kagame’s first-ever state visit to Cambodia has opened a new chapter in relations between the two countries. It featured a royal reception, a state banquet hosted by King… The post A Royal State Banquet, Three Bilateral Deals Mark Highlight of Kagame’s Cambodia Visit appeared first on KT PRESS .",
+   "share_id": "MN202611_127wuyscyxu"
   },
   {
    "id": "crawl_1qshyr",
@@ -933,6 +973,26 @@
    "title_rw": "AMAKURU YIRIWE AVUGWA HIRYA NO HINO || TARIKI 13 UGUSHYINGO 2026",
    "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
    "share_id": "MN202611_12eduv19xp7"
+  },
+  {
+   "id": "crawl_9fbrc2",
+   "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+   "summary": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
+   "link": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T13:11:23.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cda/live/d40d3460-df57-11f1-9172-871e44a840d8.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cda/live/d40d3460-df57-11f1-9172-871e44a840d8.jpg",
+   "title_en": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+   "summary_en": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
+   "share_id": "MN202611_9fbrc24nsw"
   },
   {
    "id": "crawl_1q54k5x",
@@ -2664,5 +2724,5 @@
    "share_id": "MN202611_cgwh2gfix2"
   }
  ],
- "updated": "2026-11-13T19:28:42.342Z"
+ "updated": "2026-11-13T20:21:10.612Z"
 }

@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_uy03jd",
+  "title": "SpaceX to attempt double catch of huge Starship rocket",
+  "summary": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
+  "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-13T20:12:02.000Z",
+  "source": "BBC Science",
+  "category": "science",
+  "lang": "en",
+  "keywords": [
+   "BBC Science",
+   "science"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53ad/live/14a168f0-de92-11f1-9afe-1f03bfe02283.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53ad/live/14a168f0-de92-11f1-9afe-1f03bfe02283.jpg",
+  "title_en": "SpaceX to attempt double catch of huge Starship rocket",
+  "summary_en": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
+  "share_id": "MN202611_uy03jdt007"
+ },
+ {
   "id": "crawl_1l3ucya",
   "title": "Ndi umukandida mwiza - Louise Mushikiwabo",
   "summary": "Umukandida ku mwanya w’ubuyobozi mu Muryango Mpuzamahanga w’Ibihugu bikoresha Igifaransa (OIF) yavuze ko nta mpamvu yo gutinya amatora mu gihe ibihugu bigize uyu muryango bidashoboye kumvikana ku (…)",
@@ -115,6 +135,26 @@
   "title_rw": "Ole Havgum washinze Fitness Point: Ntiyari azi ko ashobora gukorera muri Afurika, kugeza ubwo yamenye u Rwanda",
   "summary_rw": "“Sinigeze ntekereza ko nzaba muri Afurika. Nari mfite gahunda yo kujya muri Espagne cyangwa muri Portugal, ariko inshuti yanjye iranyumvisha ngo mbanze nsure Afurika.” Iyi ni yo ntangiriro (…)",
   "share_id": "MN202611_1pvfg2fqh2t"
+ },
+ {
+  "id": "crawl_127wuys",
+  "title": "A Royal State Banquet, Three Bilateral Deals Mark Highlight of Kagame’s Cambodia Visit",
+  "summary": "President Paul Kagame’s first-ever state visit to Cambodia has opened a new chapter in relations between the two countries. It featured a royal reception, a state banquet hosted by King… The post A Royal State Banquet, Three Bilateral Deals Mark Highlight of Kagame’s Cambodia Visit appeared first on KT PRESS .",
+  "link": "https://www.ktpress.rw/2026/11/a-royal-state-banquet-three-bilateral-deals-mark-highlight-of-kagames-cambodia-visit/",
+  "url": "https://www.ktpress.rw/2026/11/a-royal-state-banquet-three-bilateral-deals-mark-highlight-of-kagames-cambodia-visit/",
+  "date": "2026-11-13T19:18:48.000Z",
+  "source": "KT Press",
+  "category": "news",
+  "lang": "en",
+  "keywords": [
+   "KT Press",
+   "news",
+   "International",
+   "big-story"
+  ],
+  "title_en": "A Royal State Banquet, Three Bilateral Deals Mark Highlight of Kagame’s Cambodia Visit",
+  "summary_en": "President Paul Kagame’s first-ever state visit to Cambodia has opened a new chapter in relations between the two countries. It featured a royal reception, a state banquet hosted by King… The post A Royal State Banquet, Three Bilateral Deals Mark Highlight of Kagame’s Cambodia Visit appeared first on KT PRESS .",
+  "share_id": "MN202611_127wuyscyxu"
  },
  {
   "id": "crawl_1qshyr",
@@ -264,7 +304,7 @@
  },
  {
   "id": "crawl_et7qs1",
-  "title": "🔴LIVE: MALI VS Rwanda | AFCON 2027 Qualifiers",
+  "title": "🔴LIVE: MALI 0-1 Rwanda | AFCON 2027 Qualifiers",
   "summary": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
   "link": "https://www.youtube.com/watch?v=F3WeUVKH_Sw",
   "url": "https://www.youtube.com/watch?v=F3WeUVKH_Sw",
@@ -284,7 +324,7 @@
   "type": "video",
   "image": "https://i3.ytimg.com/vi/F3WeUVKH_Sw/hqdefault.jpg",
   "thumbnail": "https://i3.ytimg.com/vi/F3WeUVKH_Sw/hqdefault.jpg",
-  "title_rw": "🔴LIVE: MALI VS Rwanda | AFCON 2027 Qualifiers",
+  "title_rw": "🔴LIVE: MALI 0-1 Rwanda | AFCON 2027 Qualifiers",
   "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
   "share_id": "MN202611_et7qs17vlb"
  },
@@ -548,7 +588,8 @@
    "KT Press",
    "news",
    "National",
-   "big-story"
+   "big-story",
+   "latestnews"
   ],
   "title_en": "Rwanda Gov Starts Pilot Scheme Delivering Ready-Cooked Meals to Schools",
   "summary_en": "RWAMAGANA, Rwanda – The Rwandan government has begun testing a centralised school meal system that prepares food in large quantities and delivers it to schools – a mechanism similar to… The post Rwanda Gov Starts Pilot Scheme Delivering Ready-Cooked Meals to Schools appeared first on KT PRESS .",
@@ -930,6 +971,26 @@
   "title_rw": "AMAKURU YIRIWE AVUGWA HIRYA NO HINO || TARIKI 13 UGUSHYINGO 2026",
   "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
   "share_id": "MN202611_12eduv19xp7"
+ },
+ {
+  "id": "crawl_9fbrc2",
+  "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+  "summary": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
+  "link": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-13T13:11:23.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cda/live/d40d3460-df57-11f1-9172-871e44a840d8.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cda/live/d40d3460-df57-11f1-9172-871e44a840d8.jpg",
+  "title_en": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+  "summary_en": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
+  "share_id": "MN202611_9fbrc24nsw"
  },
  {
   "id": "crawl_1q54k5x",
@@ -2477,7 +2538,7 @@
  {
   "id": "crawl_1bu5ylx",
   "title": "RIVALS Season 4 - Official Trailer",
-  "summary": "Play RIVALS: https://www.roblox.com/games/17625359962/RIVALS Creative Direction: Bluay — @TheRealBluay Producers: Nosniy, SenseiWarrior, Nick Grayson — @GreatGuyBoom Animation Direction: Bluay (@TheRealBluay), Dustin Robinson Animation: Dustin Robinson, Bluay, Cyrus, Jhey 3D Modeling: Dylan Dixon, @Virtuall3D Lighting / Compositing / VFX: PrimeFIRE94, Dustin Robinson Sound Design / Mixing: Alejand",
+  "summary": "Play RIVALS: https://www.roblox.com/games/17625359962/RIVALS Creative Direction: Bluay — @TheRealBluay Producers: Nosniy, SenseiWarrior, Nick Grayson — @GreatGuyBoom Animation Direction: Bluay (@TheRealBluay), Dustin Robinson (@dstn.01) Animation: Dustin Robinson, Bluay, Cyrus, Jhey 3D Modeling: Dylan Dixon, @Virtuall3D Lighting / Compositing / VFX: PrimeFIRE94, Dustin Robinson Sound Design / Mixi",
   "link": "https://www.youtube.com/watch?v=HxnvXu7kPxE",
   "url": "https://www.youtube.com/watch?v=HxnvXu7kPxE",
   "date": "2026-11-13T01:00:06.000Z",
@@ -2498,7 +2559,7 @@
   "image": "https://i.ytimg.com/vi/HxnvXu7kPxE/hqdefault.jpg",
   "thumbnail": "https://i.ytimg.com/vi/HxnvXu7kPxE/hqdefault.jpg",
   "title_en": "RIVALS Season 4 - Official Trailer",
-  "summary_en": "Play RIVALS: https://www.roblox.com/games/17625359962/RIVALS Creative Direction: Bluay — @TheRealBluay Producers: Nosniy, SenseiWarrior, Nick Grayson — @GreatGuyBoom Animation Direction: Bluay (@TheRealBluay), Dustin Robinson Animation: Dustin Robinson, Bluay, Cyrus, Jhey 3D Modeling: Dylan Dixon, @Virtuall3D Lighting / Compositing / VFX: PrimeFIRE94, Dustin Robinson Sound Design / Mixing: Alejand",
+  "summary_en": "Play RIVALS: https://www.roblox.com/games/17625359962/RIVALS Creative Direction: Bluay — @TheRealBluay Producers: Nosniy, SenseiWarrior, Nick Grayson — @GreatGuyBoom Animation Direction: Bluay (@TheRealBluay), Dustin Robinson (@dstn.01) Animation: Dustin Robinson, Bluay, Cyrus, Jhey 3D Modeling: Dylan Dixon, @Virtuall3D Lighting / Compositing / VFX: PrimeFIRE94, Dustin Robinson Sound Design / Mixi",
   "share_id": "MN202611_1bu5ylx21g3"
  },
  {
@@ -3575,6 +3636,36 @@
   "title_rw": "Cya Tonalite kizanye ingingo zibabaje Gael yirengagiza 😭🤣Kigeze Kuri Lague kirabihuhura 🤣🤣",
   "summary_rw": "Ushatse kutuvugisha #0787413998 #MIEempire https://www.instagram.com/mie_empire.rw/ https://www.instagram.com/irenemurindahabi/",
   "share_id": "MN202611_1lxovltkyfz"
+ },
+ {
+  "id": "crawl_98fh1l",
+  "title": "Finally THIERRY HENRY  in efootball 🔥😭 PACK OPENING + GAMEPLAY",
+  "summary": "The French Gazelle is BACK! 🇫🇷🐐 Today we're taking Thierry Henry into eFootball 2027 to see what the Arsenal legend can really do! From his incredible pace to his deadly finishing, we're testing one of the greatest strikers of all time. Can Thierry Henry dominate in eFootball 27 and prove why he's a true football legend? Watch until the end and let me know your thoughts! 🔥 Don't forget to LIKE",
+  "link": "https://www.youtube.com/watch?v=BK7GUHNjLOY",
+  "url": "https://www.youtube.com/watch?v=BK7GUHNjLOY",
+  "date": "2026-11-12T14:53:21.000Z",
+  "source": "YouTube Trending Kenya",
+  "category": "entertainment",
+  "lang": "en",
+  "keywords": [
+   "YouTube Trending Kenya",
+   "entertainment",
+   "trending",
+   "Thierry Henry eFootball 2027",
+   "eFootball 27",
+   "Thierry Henry eFootball",
+   "video"
+  ],
+  "video": {
+   "provider": "youtube",
+   "id": "BK7GUHNjLOY"
+  },
+  "type": "video",
+  "image": "https://i.ytimg.com/vi/BK7GUHNjLOY/hqdefault.jpg",
+  "thumbnail": "https://i.ytimg.com/vi/BK7GUHNjLOY/hqdefault.jpg",
+  "title_en": "Finally THIERRY HENRY  in efootball 🔥😭 PACK OPENING + GAMEPLAY",
+  "summary_en": "The French Gazelle is BACK! 🇫🇷🐐 Today we're taking Thierry Henry into eFootball 2027 to see what the Arsenal legend can really do! From his incredible pace to his deadly finishing, we're testing one of the greatest strikers of all time. Can Thierry Henry dominate in eFootball 27 and prove why he's a true football legend? Watch until the end and let me know your thoughts! 🔥 Don't forget to LIKE",
+  "share_id": "MN202611_98fh1lfluv"
  },
  {
   "id": "crawl_11o55h8",
@@ -11734,12 +11825,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-10T00:08:28.000Z",
-  "source": "BBC Science",
-  "category": "science",
+  "source": "BBC Business",
+  "category": "business",
   "lang": "en",
   "keywords": [
-   "BBC Science",
-   "science"
+   "BBC Business",
+   "business"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b1f/live/f53bf9d0-dc57-11f1-b441-2b33b063138f.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b1f/live/f53bf9d0-dc57-11f1-b441-2b33b063138f.jpg",
@@ -17155,86 +17246,5 @@
   "title_en": "Maresca's dream start turns into nightmare as title hopes hit",
   "summary_en": "Enzo Maresca left the City Ground with chants of \"can we play you every week?\" ringing in his ears, as Manchester City's dream start turns into a nightmare.",
   "share_id": "MN202611_i22r2muoh8"
- },
- {
-  "id": "crawl_3dfc32",
-  "title": "The One Thing President Kagame Told Ruto’s Daughter on Her Wedding Day",
-  "summary": "MWANZA, Tanzania — On the shores of Lake Victoria, a wedding that brought together some of East Africa’s most prominent political families unfolded with the colour, ceremony and intimacy of… The post The One Thing President Kagame Told Ruto’s Daughter on Her Wedding Day appeared first on KT PRESS .",
-  "link": "https://www.ktpress.rw/2026/11/the-one-thing-president-kagame-told-rutos-daughter-on-her-wedding-day/",
-  "url": "https://www.ktpress.rw/2026/11/the-one-thing-president-kagame-told-rutos-daughter-on-her-wedding-day/",
-  "date": "2026-11-07T20:15:12.000Z",
-  "source": "KT Press",
-  "category": "news",
-  "lang": "en",
-  "keywords": [
-   "KT Press",
-   "news",
-   "Society",
-   "big-story",
-   "latestnews"
-  ],
-  "title_en": "The One Thing President Kagame Told Ruto’s Daughter on Her Wedding Day",
-  "summary_en": "MWANZA, Tanzania — On the shores of Lake Victoria, a wedding that brought together some of East Africa’s most prominent political families unfolded with the colour, ceremony and intimacy of… The post The One Thing President Kagame Told Ruto’s Daughter on Her Wedding Day appeared first on KT PRESS .",
-  "share_id": "MN202611_3dfc3279ak"
- },
- {
-  "id": "crawl_stzqu8",
-  "title": "Delap double inspires Forest to stunning win over Man City",
-  "summary": "Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.",
-  "link": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-07T20:02:25.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3af7/live/d780fef0-dae4-11f1-a701-fddedf244c16.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3af7/live/d780fef0-dae4-11f1-a701-fddedf244c16.jpg",
-  "title_en": "Delap double inspires Forest to stunning win over Man City",
-  "summary_en": "Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.",
-  "share_id": "MN202611_stzqu8d2bi"
- },
- {
-  "id": "crawl_1vzhckw",
-  "title": "Muniz strike denies Newcastle and Jaissle much-needed win",
-  "summary": "Rodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage.",
-  "link": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-07T19:59:37.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5f2/live/c2b20ec0-dade-11f1-93e1-3b657b665bcf.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5f2/live/c2b20ec0-dade-11f1-93e1-3b657b665bcf.jpg",
-  "title_en": "Muniz strike denies Newcastle and Jaissle much-needed win",
-  "summary_en": "Rodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage.",
-  "share_id": "MN202611_1vzhckwqm32"
- },
- {
-  "id": "crawl_1xbhu3i",
-  "title": "Leeds beat Spurs to end five-game winless run",
-  "summary": "Noah Okafor scores the only goal of the game to give Leeds United their first win since the 14th of September, as Tottenham are beaten 1-0 at Elland Road in the Premier League.",
-  "link": "https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-07T19:59:34.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c54a/live/5ed07bd0-dac5-11f1-b441-2b33b063138f.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c54a/live/5ed07bd0-dac5-11f1-b441-2b33b063138f.jpg",
-  "title_en": "Leeds beat Spurs to end five-game winless run",
-  "summary_en": "Noah Okafor scores the only goal of the game to give Leeds United their first win since the 14th of September, as Tottenham are beaten 1-0 at Elland Road in the Premier League.",
-  "share_id": "MN202611_1xbhu3ir3lo"
  }
 ]
