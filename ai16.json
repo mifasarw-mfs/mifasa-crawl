@@ -2207,6 +2207,102 @@
    ],
    "auto": true,
    "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_41e1c31d_q",
+   "label_rw": "Kwitaho amaso",
+   "label_en": "Eye care",
+   "patterns_en": [
+    "When should I get an eye exam?",
+    "How can I protect my eyes from the sun?",
+    "What should I do to rest my eyes after using a computer?"
+   ],
+   "patterns_rw": [
+    "Ni ryari ngomba gusuzumisha amaso?",
+    "Nateka nte amaso yanjye ku zuba?",
+    "Nakora iki ngo nduhure amaso nyuma yo gukoresha mudasobwa?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gusuzumisha amaso buri gihe bifasha kumenya ibibazo by'ubureba hakiri kare. Ugomba kurinda amaso izuba ryinshi kandi ukaruhura amaso nyuma yo kureba mudasobwa igihe kirekire.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Regular eye exams help detect vision problems early. You should protect your eyes from bright sunlight and rest your eyes after long periods of looking at a computer screen.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_d0631236_q",
+   "label_rw": "Ubuzima bw'amatwi no kumva",
+   "label_en": "Ear health and hearing",
+   "patterns_en": [
+    "What damages hearing?",
+    "How can you protect your ears?",
+    "When should you see a doctor for ear problems?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyangiza amatwi?",
+    "Washinga ute amatwi yawe?",
+    "Ese wajyana iki n'umuntu ufite ikibazo cy'amatwi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gutega amatwi umuziki uranguruye cyane igihe kirekire bishobora kwangiza ubushobozi bwo kumva. Kugira ngo urinde amatwi yawe, wirinde gukoresha ibintu bikomeye ushyira mu gutwi ngo ubisukure.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Listening to very loud music for a long time can damage your hearing. To protect your ears, avoid inserting hard objects into the ear canal for cleaning.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_7a42fe9a_q",
+   "label_rw": "Isuku y'ibiribwa n'ubwirinzi bwabyo",
+   "label_en": "Food safety and hygiene",
+   "patterns_en": [
+    "How can we prevent foodborne illnesses?",
+    "What practices ensure food hygiene?",
+    "Why is handwashing important when preparing food?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyatuma twirinda indwara zikomoka ku biribwa?",
+    "Twakora iki ngo tugire isuku y'ibiribwa?",
+    "Kuki gukaraba intoki ari ingenzi mu gutegura ibiribwa?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Isuku y'ibiribwa ni ingirakamaro mu kwirinda indwara ziterwa n'uburozi cyangwa mikorobe ziri mu byo turya. Gukaraba intoki n'amazi meza n'isabune, guteka ibiribwa neza, no kubika ibishyushye n'ibikonje ukwabo bifasha mu kugabanya ibyago byo kurwara indwara zikomoka ku biribwa bitameze neza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Food safety is essential to prevent foodborne illnesses caused by pathogens or toxins. Washing hands with clean water and soap, cooking food thoroughly, and storing hot and cold foods separately help reduce the risk of food-related illnesses.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_6c1b81c8_q",
+   "label_rw": "Isuku y'umubiri ku giti cyawe",
+   "label_en": "Personal hygiene",
+   "patterns_en": [
+    "What are the benefits of personal hygiene?",
+    "Why is handwashing important for health?",
+    "How does soap help prevent illnesses?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyatuma twirinda indwara zikomoka ku mwanda?",
+    "Ese gukaraba intoki bifite akahe kamaro?",
+    "Ni ryari tugomba gukaraba intoki n'isabune?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Isuku y'umubiri ni uburyo bwo kwita ku mubiri kugira ngo wirinde indwara. Gukaraba intoki n'amazi n'isabune bifasha kwica mikorobe zitera indwara zandura.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Personal hygiene involves practices that help maintain health and prevent the spread of diseases. Washing hands regularly with soap and water effectively removes germs and harmful bacteria.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
   }
  ],
  "knowledge": [
@@ -4018,6 +4114,85 @@
     "intestines",
     "intungamubiri",
     "nutrients"
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_41e1c31d",
+   "category": "health",
+   "title_rw": "Kwitaho amaso",
+   "title_en": "Eye care",
+   "summary_rw": "Gusuzumisha amaso buri gihe bifasha kumenya ibibazo by'ubureba hakiri kare. Ugomba kurinda amaso izuba ryinshi kandi ukaruhura amaso nyuma yo kureba mudasobwa igihe kirekire.",
+   "summary_en": "Regular eye exams help detect vision problems early. You should protect your eyes from bright sunlight and rest your eyes after long periods of looking at a computer screen.",
+   "keywords": [
+    "amaso",
+    "ubureba",
+    "eyes",
+    "vision",
+    "ubuzima",
+    "health",
+    "care"
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_d0631236",
+   "category": "health",
+   "title_rw": "Ubuzima bw'amatwi no kumva",
+   "title_en": "Ear health and hearing",
+   "summary_rw": "Gutega amatwi umuziki uranguruye cyane igihe kirekire bishobora kwangiza ubushobozi bwo kumva. Kugira ngo urinde amatwi yawe, wirinde gukoresha ibintu bikomeye ushyira mu gutwi ngo ubisukure.",
+   "summary_en": "Listening to very loud music for a long time can damage your hearing. To protect your ears, avoid inserting hard objects into the ear canal for cleaning.",
+   "keywords": [
+    "amatwi",
+    "ears",
+    "kumva",
+    "hearing",
+    "ubuzima",
+    "health",
+    "urusaku",
+    "noise"
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_7a42fe9a",
+   "category": "health",
+   "title_rw": "Isuku y'ibiribwa n'ubwirinzi bwabyo",
+   "title_en": "Food safety and hygiene",
+   "summary_rw": "Isuku y'ibiribwa ni ingirakamaro mu kwirinda indwara ziterwa n'uburozi cyangwa mikorobe ziri mu byo turya. Gukaraba intoki n'amazi meza n'isabune, guteka ibiribwa neza, no kubika ibishyushye n'ibikonje ukwabo bifasha mu kugabanya ibyago byo kurwara indwara zikomoka ku biribwa bitameze neza.",
+   "summary_en": "Food safety is essential to prevent foodborne illnesses caused by pathogens or toxins. Washing hands with clean water and soap, cooking food thoroughly, and storing hot and cold foods separately help reduce the risk of food-related illnesses.",
+   "keywords": [
+    "isuku",
+    "ibiribwa",
+    "ubwirinzi",
+    "indwara",
+    "food",
+    "safety",
+    "hygiene",
+    "health"
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_6c1b81c8",
+   "category": "health",
+   "title_rw": "Isuku y'umubiri ku giti cyawe",
+   "title_en": "Personal hygiene",
+   "summary_rw": "Isuku y'umubiri ni uburyo bwo kwita ku mubiri kugira ngo wirinde indwara. Gukaraba intoki n'amazi n'isabune bifasha kwica mikorobe zitera indwara zandura.",
+   "summary_en": "Personal hygiene involves practices that help maintain health and prevent the spread of diseases. Washing hands regularly with soap and water effectively removes germs and harmful bacteria.",
+   "keywords": [
+    "isuku",
+    "hygiene",
+    "ubuzima",
+    "health",
+    "intoki",
+    "hands",
+    "isabune",
+    "soap"
    ],
    "auto": true,
    "taught": "2026-11-13"
