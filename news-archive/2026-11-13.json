@@ -1,7 +1,67 @@
 {
  "day": "2026-11-13",
- "count": 110,
+ "count": 113,
  "articles": [
+  {
+   "id": "crawl_1n07tx5",
+   "title": "EFL warns clubs over social media posts",
+   "summary": "The English Football League (EFL) warns its members about their usage of posts on social media.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmqj5r8edvneo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmqj5r8edvneo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T18:20:17.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b02d/live/e876d9a0-df8a-11f1-a5d4-0b20a170e974.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b02d/live/e876d9a0-df8a-11f1-a5d4-0b20a170e974.jpg",
+   "title_en": "EFL warns clubs over social media posts",
+   "summary_en": "The English Football League (EFL) warns its members about their usage of posts on social media.",
+   "share_id": "MN202611_1n07tx5zrbr"
+  },
+  {
+   "id": "crawl_fnho83",
+   "title": "Some EFL clubs beggar belief - Walsall's Pomlett",
+   "summary": "Walsall co-chairman Leigh Pomlett sends out a powerful response to the independent State of the Game report.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6ly7vnnyjxdo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6ly7vnnyjxdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T18:14:32.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2095/live/4cd65a80-df75-11f1-b844-3146c4983677.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2095/live/4cd65a80-df75-11f1-b844-3146c4983677.jpg",
+   "title_en": "Some EFL clubs beggar belief - Walsall's Pomlett",
+   "summary_en": "Walsall co-chairman Leigh Pomlett sends out a powerful response to the independent State of the Game report.",
+   "share_id": "MN202611_fnho83dnlt"
+  },
+  {
+   "id": "crawl_1g4eq48",
+   "title": "Catherine Zeta-Jones says US move humbled her before big break with Steven Spielberg",
+   "summary": "The Swansea-born star got her big break in The Mask of Zorro which cemented her place as an A-lister.",
+   "link": "https://www.bbc.co.uk/news/articles/cqgm3gn4k7dno?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqgm3gn4k7dno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T17:59:54.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b97b/live/90083690-df6e-11f1-8112-6b9154c79b48.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b97b/live/90083690-df6e-11f1-8112-6b9154c79b48.jpg",
+   "title_en": "Catherine Zeta-Jones says US move humbled her before big break with Steven Spielberg",
+   "summary_en": "The Swansea-born star got her big break in The Mask of Zorro which cemented her place as an A-lister.",
+   "share_id": "MN202611_1g4eq487ml2"
+  },
   {
    "id": "crawl_6b4ab3",
    "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
@@ -2355,5 +2415,5 @@
    "share_id": "MN202611_cgwh2gfix2"
   }
  ],
- "updated": "2026-11-13T17:46:59.473Z"
+ "updated": "2026-11-13T18:31:21.842Z"
 }
