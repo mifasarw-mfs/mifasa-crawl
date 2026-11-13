@@ -1,5 +1,45 @@
 [
  {
+  "id": "crawl_13gn3wo",
+  "title": "Uburusiya – Ukraine: Zelensky yakiriye neza ko Amerika igiye kwinjiza Uburaya mu biganiro vy’amahoro",
+  "summary": "Perezida wa Ukraine, Volodymyr Zelensky, arashima ingingo ya Amerika yo kuzana umugabane wa Buraya mu biganiro vy’amahoro n’Uburusiya, akabona ko bizotuma ugira “ijambo” muri vyo.",
+  "link": "https://www.bbc.co.uk/gahuza/live/cmeq4ngd2ljlt?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/gahuza/live/cmeq4ngd2ljlt?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-13T03:57:12.797Z",
+  "source": "BBC Gahuza",
+  "category": "news",
+  "lang": "rw",
+  "keywords": [
+   "BBC Gahuza",
+   "news"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e136/live/cd7b47d0-df12-11f1-b441-2b33b063138f.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e136/live/cd7b47d0-df12-11f1-b441-2b33b063138f.jpg",
+  "title_rw": "Uburusiya – Ukraine: Zelensky yakiriye neza ko Amerika igiye kwinjiza Uburaya mu biganiro vy’amahoro",
+  "summary_rw": "Perezida wa Ukraine, Volodymyr Zelensky, arashima ingingo ya Amerika yo kuzana umugabane wa Buraya mu biganiro vy’amahoro n’Uburusiya, akabona ko bizotuma ugira “ijambo” muri vyo.",
+  "share_id": "MN202611_13gn3wofp0m"
+ },
+ {
+  "id": "crawl_2j1omj",
+  "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+  "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+  "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-13T02:48:29.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c16a/live/65ee22f0-df02-11f1-b6e1-5b169363fed4.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c16a/live/65ee22f0-df02-11f1-b6e1-5b169363fed4.jpg",
+  "title_en": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+  "summary_en": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+  "share_id": "MN202611_2j1omjyn2h"
+ },
+ {
   "id": "crawl_1mm8m3g",
   "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
   "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
@@ -87,12 +127,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-13T00:20:24.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Africa",
+  "category": "news",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Africa",
+   "news"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dca/live/418b2150-de90-11f1-a701-fddedf244c16.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dca/live/418b2150-de90-11f1-a701-fddedf244c16.jpg",
@@ -162,8 +202,8 @@
  },
  {
   "id": "crawl_1p7udv",
-  "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-  "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+  "title": "Ousted Nvidia CEO Jensen Huang summoned to testify before Congress",
+  "summary": "US lawmakers want to question him over whether one of his alleged relationships was with a Chinese spy.",
   "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-12T23:34:05.000Z",
@@ -176,8 +216,8 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
-  "title_en": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-  "summary_en": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+  "title_en": "Ousted Nvidia CEO Jensen Huang summoned to testify before Congress",
+  "summary_en": "US lawmakers want to question him over whether one of his alleged relationships was with a Chinese spy.",
   "share_id": "MN202611_1p7udv4stt"
  },
  {
@@ -17189,45 +17229,5 @@
   "title_en": "Equity Bank Rwanda Introduces EMMA to Turn Everyday Transactions into a Path to Credit",
   "summary_en": "KIGALI – A person’s ability to secure a bank loan could increasingly depend on how they use their money in everyday transactions, rather than the property they can present as… The post Equity Bank Rwanda Introduces EMMA to Turn Everyday Transactions into a Path to Credit appeared first on KT PRESS .",
   "share_id": "MN202611_rfybqdk1oj"
- },
- {
-  "id": "crawl_92gbf0",
-  "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
-  "summary": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
-  "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-06T15:02:03.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fbf/live/c3a237d0-d9f1-11f1-bb10-cdca6001fbcf.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fbf/live/c3a237d0-d9f1-11f1-bb10-cdca6001fbcf.jpg",
-  "title_en": "Watch: Is it the end of the road for Tesla's Cybertruck?",
-  "summary_en": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
-  "share_id": "MN202611_92gbf0cyi2"
- },
- {
-  "id": "crawl_jk9ion",
-  "title": "Kigali Universe Reinvents Movie Night with a Mix of Cinema and Arcade Gaming",
-  "summary": "KIGALI – Going out to watch a movie is increasingly becoming about more than what happens on the screen. At Kigali Universe, organizers are combining cinema and arcade gaming to… The post Kigali Universe Reinvents Movie Night with a Mix of Cinema and Arcade Gaming appeared first on KT PRESS .",
-  "link": "https://www.ktpress.rw/2026/11/kigali-universe-reinvents-movie-night-with-a-mix-of-cinema-and-arcade-gaming/",
-  "url": "https://www.ktpress.rw/2026/11/kigali-universe-reinvents-movie-night-with-a-mix-of-cinema-and-arcade-gaming/",
-  "date": "2026-11-06T15:00:56.000Z",
-  "source": "KT Press",
-  "category": "news",
-  "lang": "en",
-  "keywords": [
-   "KT Press",
-   "news",
-   "ShowBiz",
-   "latestnews"
-  ],
-  "title_en": "Kigali Universe Reinvents Movie Night with a Mix of Cinema and Arcade Gaming",
-  "summary_en": "KIGALI – Going out to watch a movie is increasingly becoming about more than what happens on the screen. At Kigali Universe, organizers are combining cinema and arcade gaming to… The post Kigali Universe Reinvents Movie Night with a Mix of Cinema and Arcade Gaming appeared first on KT PRESS .",
-  "share_id": "MN202611_jk9ionfvud"
  }
 ]

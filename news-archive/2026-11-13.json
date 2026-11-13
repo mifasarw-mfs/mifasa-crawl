@@ -1,7 +1,47 @@
 {
  "day": "2026-11-13",
- "count": 6,
+ "count": 8,
  "articles": [
+  {
+   "id": "crawl_13gn3wo",
+   "title": "Uburusiya – Ukraine: Zelensky yakiriye neza ko Amerika igiye kwinjiza Uburaya mu biganiro vy’amahoro",
+   "summary": "Perezida wa Ukraine, Volodymyr Zelensky, arashima ingingo ya Amerika yo kuzana umugabane wa Buraya mu biganiro vy’amahoro n’Uburusiya, akabona ko bizotuma ugira “ijambo” muri vyo.",
+   "link": "https://www.bbc.co.uk/gahuza/live/cmeq4ngd2ljlt?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/gahuza/live/cmeq4ngd2ljlt?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T03:57:12.797Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e136/live/cd7b47d0-df12-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e136/live/cd7b47d0-df12-11f1-b441-2b33b063138f.jpg",
+   "title_rw": "Uburusiya – Ukraine: Zelensky yakiriye neza ko Amerika igiye kwinjiza Uburaya mu biganiro vy’amahoro",
+   "summary_rw": "Perezida wa Ukraine, Volodymyr Zelensky, arashima ingingo ya Amerika yo kuzana umugabane wa Buraya mu biganiro vy’amahoro n’Uburusiya, akabona ko bizotuma ugira “ijambo” muri vyo.",
+   "share_id": "MN202611_13gn3wofp0m"
+  },
+  {
+   "id": "crawl_2j1omj",
+   "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+   "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+   "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T02:48:29.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c16a/live/65ee22f0-df02-11f1-b6e1-5b169363fed4.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c16a/live/65ee22f0-df02-11f1-b6e1-5b169363fed4.jpg",
+   "title_en": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+   "summary_en": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+   "share_id": "MN202611_2j1omjyn2h"
+  },
   {
    "id": "crawl_1mm8m3g",
    "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
@@ -124,5 +164,5 @@
    "share_id": "MN202611_ehxxd1qttv"
   }
  ],
- "updated": "2026-11-13T02:25:16.379Z"
+ "updated": "2026-11-13T04:00:54.431Z"
 }
