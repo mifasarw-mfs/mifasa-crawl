@@ -1,7 +1,216 @@
 {
  "day": "2026-11-13",
- "count": 62,
+ "count": 73,
  "articles": [
+  {
+   "id": "crawl_v9t162",
+   "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+   "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+   "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T12:22:30.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab0/live/068591d0-dee5-11f1-9bb0-8de7754c4db5.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab0/live/068591d0-dee5-11f1-9bb0-8de7754c4db5.jpg",
+   "title_en": "How a sex scandal at Nvidia is putting pressure on the White House",
+   "summary_en": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+   "share_id": "MN202611_v9t162lxmw"
+  },
+  {
+   "id": "crawl_1ied0b8",
+   "title": "More women make allegations against Russell Brand",
+   "summary": "The new claims are in the Times and a Netflix documentary, following Brand's recent conviction for rape.",
+   "link": "https://www.bbc.co.uk/news/articles/cme3dwydp857o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cme3dwydp857o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T12:14:17.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3088/live/37726c30-df41-11f1-a48c-75dd2efdacb5.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3088/live/37726c30-df41-11f1-a48c-75dd2efdacb5.jpg",
+   "title_en": "More women make allegations against Russell Brand",
+   "summary_en": "The new claims are in the Times and a Netflix documentary, following Brand's recent conviction for rape.",
+   "share_id": "MN202611_1ied0b85ws2"
+  },
+  {
+   "id": "crawl_1k32hfq",
+   "title": "Francophone Mayors Explore Cambodia-Thailand Border Dispute",
+   "summary": "Mayors from French speaking countries have explored the contentious border dispute between Cambodia and Thailand. Taarifa political desk has learned that a delegation from the International Association of Francophone Mayors (AIMF) and its partners, led by AIMF Delegate General Frederic Vallier Thursday met with Phnom Penh city Governor Khuong Sreng to discuss cooperation and the […] The post…",
+   "link": "https://taarifa.rw/2026/11/13/francophone-mayors-explore-cambodia-thailand-border-dispute/",
+   "url": "https://taarifa.rw/2026/11/13/francophone-mayors-explore-cambodia-thailand-border-dispute/",
+   "date": "2026-11-13T12:03:25.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "Uncategorized"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261113-140401.jpg?fit=650%2C371&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261113-140401.jpg?fit=650%2C371&ssl=1",
+   "title_en": "Francophone Mayors Explore Cambodia-Thailand Border Dispute",
+   "summary_en": "Mayors from French speaking countries have explored the contentious border dispute between Cambodia and Thailand. Taarifa political desk has learned that a delegation from the International Association of Francophone Mayors (AIMF) and its partners, led by AIMF Delegate General Frederic Vallier Thursday met with Phnom Penh city Governor Khuong Sreng to discuss cooperation and the […] The post…",
+   "share_id": "MN202611_1k32hfqghno"
+  },
+  {
+   "id": "crawl_13aj1sk",
+   "title": "Summer heatwave put bin crews lives at risk, says council worker",
+   "summary": "Crews faced a \"perfect storm\" of challenges during the UK's record-breaking weather, it's claimed.",
+   "link": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T12:03:04.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a650/live/bd0ec7c0-df56-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a650/live/bd0ec7c0-df56-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "Summer heatwave put bin crews lives at risk, says council worker",
+   "summary_en": "Crews faced a \"perfect storm\" of challenges during the UK's record-breaking weather, it's claimed.",
+   "share_id": "MN202611_13aj1skby9e"
+  },
+  {
+   "id": "crawl_1cway6f",
+   "title": "Cambodia and Rwanda Ink Deals For Tourism, Air Services",
+   "summary": "Rwanda and Cambodia have opened a new chapter in their cooperation after signing agreements covering investment, tourism and air services on Friday. President Kagame of Rwanda and Cambodian Prime Minister Hun Manet witnessed the signing of the agreements. The three documents include a Memorandum of Understanding between the Council for the Development of Cambodia (CDC) […] The post Cambodia and…",
+   "link": "https://taarifa.rw/2026/11/13/cambodia-and-rwanda-ink-deals-for-tourism-air-services/",
+   "url": "https://taarifa.rw/2026/11/13/cambodia-and-rwanda-ink-deals-for-tourism-air-services/",
+   "date": "2026-11-13T11:43:48.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "La Francophonie Cambodia Special Report"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261113-134205.jpg?fit=644%2C382&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261113-134205.jpg?fit=644%2C382&ssl=1",
+   "title_en": "Cambodia and Rwanda Ink Deals For Tourism, Air Services",
+   "summary_en": "Rwanda and Cambodia have opened a new chapter in their cooperation after signing agreements covering investment, tourism and air services on Friday. President Kagame of Rwanda and Cambodian Prime Minister Hun Manet witnessed the signing of the agreements. The three documents include a Memorandum of Understanding between the Council for the Development of Cambodia (CDC) […] The post Cambodia and…",
+   "share_id": "MN202611_1cway6f7dd1"
+  },
+  {
+   "id": "crawl_1cqvy2g",
+   "title": "What we know so far about the Microsoft outage",
+   "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+   "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T11:43:27.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e30a/live/54c2fe10-df57-11f1-a701-fddedf244c16.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e30a/live/54c2fe10-df57-11f1-a701-fddedf244c16.jpg",
+   "title_en": "What we know so far about the Microsoft outage",
+   "summary_en": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+   "share_id": "MN202611_1cqvy2goj6e"
+  },
+  {
+   "id": "crawl_li9it0",
+   "title": "Rosalía scoops historic third best album award at Latin Grammys",
+   "summary": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
+   "link": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T11:38:54.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b59/live/d91bb2b0-df43-11f1-a48c-75dd2efdacb5.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b59/live/d91bb2b0-df43-11f1-a48c-75dd2efdacb5.jpg",
+   "title_en": "Rosalía scoops historic third best album award at Latin Grammys",
+   "summary_en": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
+   "share_id": "MN202611_li9it02f9u"
+  },
+  {
+   "id": "crawl_flmnst",
+   "title": "Nigerian university in mourning after four students die at post-exam party",
+   "summary": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths.",
+   "link": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T11:37:08.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9f3/live/b4c3ec80-df51-11f1-8364-2717a13d3b08.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9f3/live/b4c3ec80-df51-11f1-8364-2717a13d3b08.jpg",
+   "title_en": "Nigerian university in mourning after four students die at post-exam party",
+   "summary_en": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths.",
+   "share_id": "MN202611_flmnstfk9n"
+  },
+  {
+   "id": "crawl_czf3xb",
+   "title": "Cambodia Loses U$1 billion Annually to Alcoholism",
+   "summary": "Cambodia said on Wednesday that alcohol consumption puts the country into losses valued at over U$1billion annually. According to a research Report presented to government, it is estimated that alcohol consumption drained U$1 billion annually, accounting for roughly 2% of gross domestic product. The study showed that in Cambodia drinking households faced heavier debt burdens, […] The post…",
+   "link": "https://taarifa.rw/2026/11/13/cambodia-loses-u1-billion-annually-to-alcoholism/",
+   "url": "https://taarifa.rw/2026/11/13/cambodia-loses-u1-billion-annually-to-alcoholism/",
+   "date": "2026-11-13T11:34:09.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "La Francophonie Cambodia Special Report"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/pub-street.jpg?fit=1024%2C768&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/pub-street.jpg?fit=1024%2C768&ssl=1",
+   "title_en": "Cambodia Loses U$1 billion Annually to Alcoholism",
+   "summary_en": "Cambodia said on Wednesday that alcohol consumption puts the country into losses valued at over U$1billion annually. According to a research Report presented to government, it is estimated that alcohol consumption drained U$1 billion annually, accounting for roughly 2% of gross domestic product. The study showed that in Cambodia drinking households faced heavier debt burdens, […] The post…",
+   "share_id": "MN202611_czf3xb80e5"
+  },
+  {
+   "id": "crawl_uu8sg4",
+   "title": "UKO IRARI RIRIMBUYE JENSEN WA NVIDIA YUBATSE AHEREYE KU BUSA AKAYIGIRA IKIGO CYA MBERE KININI KU ISI",
+   "summary": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
+   "link": "https://www.youtube.com/watch?v=HRS40GBwx-Y",
+   "url": "https://www.youtube.com/watch?v=HRS40GBwx-Y",
+   "date": "2026-11-13T11:32:15.000Z",
+   "source": "Mwanafunzi Ismael YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Mwanafunzi Ismael YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "HRS40GBwx-Y"
+   },
+   "type": "video",
+   "image": "https://i1.ytimg.com/vi/HRS40GBwx-Y/hqdefault.jpg",
+   "thumbnail": "https://i1.ytimg.com/vi/HRS40GBwx-Y/hqdefault.jpg",
+   "title_rw": "UKO IRARI RIRIMBUYE JENSEN WA NVIDIA YUBATSE AHEREYE KU BUSA AKAYIGIRA IKIGO CYA MBERE KININI KU ISI",
+   "summary_rw": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
+   "share_id": "MN202611_uu8sg48x9e"
+  },
   {
    "id": "crawl_9nxjax",
    "title": "Amagambo Juliana Lumumba yatangaje, yatumye DRC imureba ijisho ribi |Isesengura rya Hon. Uwizeyimana",
@@ -474,6 +683,32 @@
    "title_rw": "FBI ivuga ko aba \"hackers\" bo muri Koreya ya Ruguru bibye arenga miliyoni 400$ bifashishije amashusho mahimbano",
    "summary_rw": "FBI igaragaza ko, mu mezi 18 ashize abantu barenga 900 bamaze kugwa muri ubu buriganya bwiswe \"FaceStealer\".",
    "share_id": "MN202611_bl3s0uwoho"
+  },
+  {
+   "id": "crawl_1aymm7q",
+   "title": "#UrubugarwImikino: Kuki ibibazo uruhuri byazonze Manchester United byegekwa ku batoza?",
+   "summary": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "link": "https://www.youtube.com/watch?v=f8roZ3ZlLs0",
+   "url": "https://www.youtube.com/watch?v=f8roZ3ZlLs0",
+   "date": "2026-11-13T09:05:19.000Z",
+   "source": "Radio Rwanda YouTube",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Radio Rwanda YouTube",
+    "news",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "f8roZ3ZlLs0"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/f8roZ3ZlLs0/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/f8roZ3ZlLs0/hqdefault.jpg",
+   "title_rw": "#UrubugarwImikino: Kuki ibibazo uruhuri byazonze Manchester United byegekwa ku batoza?",
+   "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "share_id": "MN202611_1aymm7qip1w"
   },
   {
    "id": "crawl_6cs4td",
@@ -1329,5 +1564,5 @@
    "share_id": "MN202611_cgwh2gfix2"
   }
  ],
- "updated": "2026-11-13T11:34:38.322Z"
+ "updated": "2026-11-13T12:30:52.727Z"
 }
