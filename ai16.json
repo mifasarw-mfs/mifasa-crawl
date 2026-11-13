@@ -2519,6 +2519,125 @@
    ],
    "auto": true,
    "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_bc28f20a_q",
+   "label_rw": "Ubumenyi bw'ibanze mu micungire y'imari y'abanyeshuri",
+   "label_en": "Financial literacy for students",
+   "patterns_en": [
+    "What is financial literacy for students?",
+    "Why is saving important for students?",
+    "How can students create a budget?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyatuma abanyeshuri biga kwigondera imari?",
+    "Ese kuzigama bifasha ute abanyeshuri?",
+    "Ni gute wakora ingengo y'imari y'umunyeshuri?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubumenyi bw'ibanze mu micungire y'imari bufasha abanyeshuri kwiga uko bakoresha amafaranga neza. Biga gutegura ingengo y'imari, kuzigama, no kwirinda amasezerano y'inguzanyo mbi. Ibi bituma bafata ibyiza ku byerekeye ubukungu bwabo bw'ejo hazaza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Financial literacy helps students learn how to manage money effectively. They learn budgeting, saving, and avoiding bad debt. This knowledge enables them to make sound decisions regarding their future economic well-being.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_5168422c_q",
+   "label_rw": "Ubuhanga bw'amarangamutima mu ishuri",
+   "label_en": "Emotional intelligence in the classroom",
+   "patterns_en": [
+    "How do emotions help in the classroom?",
+    "Why do students need emotional intelligence?"
+   ],
+   "patterns_rw": [
+    "Ubuhanga bw'amarangamutima ni iki?",
+    "Ni gute amarangamutima afasha mu ishuri?",
+    "Kuki abanyeshuri bakeneye ubuhanga bw'amarangamutima?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubuhanga bw'amarangamutima bufasha abanyeshuri kwimenya, kwihangana, no gusobanukirwa abandi. Ibi bituma imyitwarire myiza yiyongera mu ishuri kandi bigafasha abanyeshuri gutsinda mu masomo yabo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Emotional intelligence helps students understand themselves, manage their emotions, and empathize with others. This usually improves classroom behavior and supports academic success.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_dd804587_q",
+   "label_rw": "Gutangira kwiga gahunda za mudasaswa n'ubushishozi",
+   "label_en": "Basic programming and logic",
+   "patterns_en": [
+    "Why is learning basic programming important?",
+    "How does logic help in writing computer programs?",
+    "What are instructions in programming like?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma kwiga gahunda za mudasaswa ari ingenzi?",
+    "Ubushishozi bufasha bute mu kwandika gahunda za mudasaswa?",
+    "Ese amabwiriza akoreshwa muri mudasaswa aba ameze ate?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gahunda za mudasaswa zifasha abanyeshuri kwiga gutekereza mu buryo bwubakiye ku bushishozi. Zifashisha amabwiriza asobanutse kugira ngo mudasaswa ikore umurimo runaka. Kwiga ibi bituma abantu babasha gukemura ibibazo by'ikoranabuhanga mu buzima bwa buri munsi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Basic programming helps students learn structured and logical thinking. It uses clear instructions to make computers perform specific tasks. Learning these concepts enables individuals to solve technological problems in everyday life.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_54613579_q",
+   "label_rw": "Ibikorwa by'ubushakashatsi mu bumenyi",
+   "label_en": "Science experiments and inquiry-based learning",
+   "patterns_en": [
+    "How do science experiments help students learn?",
+    "What characterizes inquiry-based learning in science?",
+    "Why is hands-on learning important in education?"
+   ],
+   "patterns_rw": [
+    "Ubushakashatsi mu bumenyi bufasha bute abanyeshuri?",
+    "Ni iki kiranga imigendekere y'ubushakashatsi mu bumenyi?",
+    "Kuki kwiga binyuze mu bikorwa ari ingenzi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubushakashatsi mu bumenyi bufasha abanyeshuri kwiga binyuze mu bikorwa. Batanga ibitekerezo, bagakora ibizamini, kandi bagasesengura ibyavuyemo. Ubu buryo bubafasha kumva neza amasomo y'ubumenyi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Inquiry-based learning helps students explore scientific concepts through hands-on activities. Learners usually ask questions, conduct experiments, and analyze results. This approach builds critical thinking and a deeper understanding of science.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_7d4ccdad_q",
+   "label_rw": "Uburezi bw'umubiri n'imyitozo ngororamubiri ihoraho",
+   "label_en": "Physical education and lifelong fitness",
+   "patterns_en": [
+    "What is physical education?",
+    "Why is lifelong fitness important?",
+    "How does exercise reduce diseases?"
+   ],
+   "patterns_rw": [
+    "Uburezi bw'umubiri ni iki?",
+    "Ni iki gituma imyitozo ngororamubiri ihoraho ari ingenzi?",
+    "Ese imyitozo igabanya indwara gute?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Uburezi bw'umubiri ni porogaramu y'amasomo yigisha abanyeshuri ibijyanye n'imikino n'ubuzima bwiza. Ifasha abantu gukora imyitozo ngororamubiri mu buzima bwabo bwose. Ibi bigabanya indwara zitandukanye kandi bikongera imbaraga z'umubiri.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Physical education is an educational program that teaches students about sports and good health. It helps people maintain regular physical activity throughout their lives. This reduces various diseases and increases bodily strength.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
   }
  ],
  "knowledge": [
@@ -4585,6 +4704,105 @@
     "earthquakes",
     "si",
     "earth"
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_bc28f20a",
+   "category": "education",
+   "title_rw": "Ubumenyi bw'ibanze mu micungire y'imari y'abanyeshuri",
+   "title_en": "Financial literacy for students",
+   "summary_rw": "Ubumenyi bw'ibanze mu micungire y'imari bufasha abanyeshuri kwiga uko bakoresha amafaranga neza. Biga gutegura ingengo y'imari, kuzigama, no kwirinda amasezerano y'inguzanyo mbi. Ibi bituma bafata ibyiza ku byerekeye ubukungu bwabo bw'ejo hazaza.",
+   "summary_en": "Financial literacy helps students learn how to manage money effectively. They learn budgeting, saving, and avoiding bad debt. This knowledge enables them to make sound decisions regarding their future economic well-being.",
+   "keywords": [
+    "imari",
+    "ubumenyi",
+    "kuzigama",
+    "ingengo",
+    "abanyeshuri",
+    "finance",
+    "savings",
+    "budgeting"
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_5168422c",
+   "category": "education",
+   "title_rw": "Ubuhanga bw'amarangamutima mu ishuri",
+   "title_en": "Emotional intelligence in the classroom",
+   "summary_rw": "Ubuhanga bw'amarangamutima bufasha abanyeshuri kwimenya, kwihangana, no gusobanukirwa abandi. Ibi bituma imyitwarire myiza yiyongera mu ishuri kandi bigafasha abanyeshuri gutsinda mu masomo yabo.",
+   "summary_en": "Emotional intelligence helps students understand themselves, manage their emotions, and empathize with others. This usually improves classroom behavior and supports academic success.",
+   "keywords": [
+    "amarangamutima",
+    "ishuri",
+    "uburezi",
+    "abanyeshuri",
+    "imyitwarire",
+    "emotions",
+    "classroom",
+    "education"
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_dd804587",
+   "category": "education",
+   "title_rw": "Gutangira kwiga gahunda za mudasaswa n'ubushishozi",
+   "title_en": "Basic programming and logic",
+   "summary_rw": "Gahunda za mudasaswa zifasha abanyeshuri kwiga gutekereza mu buryo bwubakiye ku bushishozi. Zifashisha amabwiriza asobanutse kugira ngo mudasaswa ikore umurimo runaka. Kwiga ibi bituma abantu babasha gukemura ibibazo by'ikoranabuhanga mu buzima bwa buri munsi.",
+   "summary_en": "Basic programming helps students learn structured and logical thinking. It uses clear instructions to make computers perform specific tasks. Learning these concepts enables individuals to solve technological problems in everyday life.",
+   "keywords": [
+    "mudasaswa",
+    "programming",
+    "ubushishozi",
+    "logic",
+    "ikoranabuhanga",
+    "technology",
+    "amabwiriza",
+    "instructions"
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_54613579",
+   "category": "education",
+   "title_rw": "Ibikorwa by'ubushakashatsi mu bumenyi",
+   "title_en": "Science experiments and inquiry-based learning",
+   "summary_rw": "Ubushakashatsi mu bumenyi bufasha abanyeshuri kwiga binyuze mu bikorwa. Batanga ibitekerezo, bagakora ibizamini, kandi bagasesengura ibyavuyemo. Ubu buryo bubafasha kumva neza amasomo y'ubumenyi.",
+   "summary_en": "Inquiry-based learning helps students explore scientific concepts through hands-on activities. Learners usually ask questions, conduct experiments, and analyze results. This approach builds critical thinking and a deeper understanding of science.",
+   "keywords": [
+    "ubushakashatsi",
+    "ubumenyi",
+    "science",
+    "experiments",
+    "kwiga",
+    "learning",
+    "abanyeshuri"
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_7d4ccdad",
+   "category": "education",
+   "title_rw": "Uburezi bw'umubiri n'imyitozo ngororamubiri ihoraho",
+   "title_en": "Physical education and lifelong fitness",
+   "summary_rw": "Uburezi bw'umubiri ni porogaramu y'amasomo yigisha abanyeshuri ibijyanye n'imikino n'ubuzima bwiza. Ifasha abantu gukora imyitozo ngororamubiri mu buzima bwabo bwose. Ibi bigabanya indwara zitandukanye kandi bikongera imbaraga z'umubiri.",
+   "summary_en": "Physical education is an educational program that teaches students about sports and good health. It helps people maintain regular physical activity throughout their lives. This reduces various diseases and increases bodily strength.",
+   "keywords": [
+    "uburezi",
+    "imyitozo",
+    "umubiri",
+    "ubuzima",
+    "education",
+    "fitness",
+    "health",
+    "sports"
    ],
    "auto": true,
    "taught": "2026-11-13"
