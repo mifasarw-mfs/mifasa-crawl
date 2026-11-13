@@ -1,7 +1,278 @@
 {
  "day": "2026-11-13",
- "count": 31,
+ "count": 44,
  "articles": [
+  {
+   "id": "crawl_1lezyxz",
+   "title": "🔴LIVE: AMAKURU YA SAA SITA || TARIKI 13.11.2026",
+   "summary": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "link": "https://www.youtube.com/watch?v=sHeyj2seHm0",
+   "url": "https://www.youtube.com/watch?v=sHeyj2seHm0",
+   "date": "2026-11-13T09:40:16.000Z",
+   "source": "Radio Rwanda YouTube",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Radio Rwanda YouTube",
+    "news",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "sHeyj2seHm0"
+   },
+   "type": "video",
+   "image": "https://i4.ytimg.com/vi/sHeyj2seHm0/hqdefault.jpg",
+   "thumbnail": "https://i4.ytimg.com/vi/sHeyj2seHm0/hqdefault.jpg",
+   "title_rw": "🔴LIVE: AMAKURU YA SAA SITA || TARIKI 13.11.2026",
+   "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "share_id": "MN202611_1lezyxzw1s5"
+  },
+  {
+   "id": "crawl_zb4wzb",
+   "title": "Kagame Honours King-Father of Cambodia",
+   "summary": "Rwanda’s President Paul Kagame has paid tribute to the founding father of the Cambodian State. “Earlier today in Phnom Penh, President Kagame and First Lady Jeannette Kagame visited the Independence Monument and the monument honouring His Majesty Preah Bat Samdech Preah Norodom Sihanouk, the late King-Father of Cambodia, “Preah Borom Ratanak Kaudh,” the Rwanda Presidency […] The post Kagame…",
+   "link": "https://taarifa.rw/2026/11/13/kagame-honours-king-father-of-cambodia/",
+   "url": "https://taarifa.rw/2026/11/13/kagame-honours-king-father-of-cambodia/",
+   "date": "2026-11-13T09:37:37.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "La Francophonie Cambodia Special Report"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261113-113658.jpg?fit=720%2C439&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261113-113658.jpg?fit=720%2C439&ssl=1",
+   "title_en": "Kagame Honours King-Father of Cambodia",
+   "summary_en": "Rwanda’s President Paul Kagame has paid tribute to the founding father of the Cambodian State. “Earlier today in Phnom Penh, President Kagame and First Lady Jeannette Kagame visited the Independence Monument and the monument honouring His Majesty Preah Bat Samdech Preah Norodom Sihanouk, the late King-Father of Cambodia, “Preah Borom Ratanak Kaudh,” the Rwanda Presidency […] The post Kagame…",
+   "share_id": "MN202611_zb4wzbb6c5"
+  },
+  {
+   "id": "crawl_1kedqqv",
+   "title": "GPs, police and pharmacies among UK services affected by Microsoft outage",
+   "summary": "Major airports and intelligence services are unaffected while the government is assessing the impact on its services.",
+   "link": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T09:37:33.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2ef/live/f4cadd80-df41-11f1-a701-fddedf244c16.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2ef/live/f4cadd80-df41-11f1-a701-fddedf244c16.jpg",
+   "title_en": "GPs, police and pharmacies among UK services affected by Microsoft outage",
+   "summary_en": "Major airports and intelligence services are unaffected while the government is assessing the impact on its services.",
+   "share_id": "MN202611_1kedqqv6n7p"
+  },
+  {
+   "id": "crawl_1j9s3t2",
+   "title": "Heat pumps: How much heat does your home really need?",
+   "summary": "Knowing how much heat your home loses is important before installing a new heating system.",
+   "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T09:29:25.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d187/live/503bbbd0-d902-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d187/live/503bbbd0-d902-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "Heat pumps: How much heat does your home really need?",
+   "summary_en": "Knowing how much heat your home loses is important before installing a new heating system.",
+   "share_id": "MN202611_1j9s3t2l09w"
+  },
+  {
+   "id": "crawl_17z83jo",
+   "title": "ICC Drops Arrest Warrant For Mudacumura of FDLR",
+   "summary": "The international criminal court (ICC) on Wednesday cancelled an arrest warrant that had been issued for FDLR’s top terrorist Sylvester Mudacumura. According to emerging details, the ICC’s Pre-trial Chamber I on 12 November 2026 terminated proceedings against Mudacumura. The decision to drop arrest of Mudacumura was based on his death as the Registry and the […] The post ICC Drops Arrest Warrant…",
+   "link": "https://taarifa.rw/2026/11/13/icc-drops-arrest-warrant-for-mudacumura-of-fdlr/",
+   "url": "https://taarifa.rw/2026/11/13/icc-drops-arrest-warrant-for-mudacumura-of-fdlr/",
+   "date": "2026-11-13T09:28:53.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "Crime"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261113-112814.jpg?fit=682%2C439&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261113-112814.jpg?fit=682%2C439&ssl=1",
+   "title_en": "ICC Drops Arrest Warrant For Mudacumura of FDLR",
+   "summary_en": "The international criminal court (ICC) on Wednesday cancelled an arrest warrant that had been issued for FDLR’s top terrorist Sylvester Mudacumura. According to emerging details, the ICC’s Pre-trial Chamber I on 12 November 2026 terminated proceedings against Mudacumura. The decision to drop arrest of Mudacumura was based on his death as the Registry and the […] The post ICC Drops Arrest Warrant…",
+   "share_id": "MN202611_17z83jo07te"
+  },
+  {
+   "id": "crawl_15zzkb9",
+   "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
+   "summary": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T09:24:45.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f043/live/468fa2e0-dddf-11f1-b465-b9821c2582d4.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f043/live/468fa2e0-dddf-11f1-b465-b9821c2582d4.jpg",
+   "title_en": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
+   "summary_en": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't.",
+   "share_id": "MN202611_15zzkb9rhpv"
+  },
+  {
+   "id": "crawl_vrycei",
+   "title": "Ambasaderi w'u Rwanda muri Mali yasuye Amavubi mbere y'umukino",
+   "summary": "Ambasaderi w’u Rwanda muri Mali ariko akagira icyicaro muri Senegal, Festus Bizimana, yasuye ikipe y’igihugu y’u Rwanda, Amavubi, n’umutoza wayo Stephen Constantine, mu Mujyi wa Bamako mbere (…)",
+   "link": "https://www.kigalitoday.com/imikino/football/article/ambasaderi-w-u-rwanda-muri-mali-yasuye-amavubi-mbere-y-umukino",
+   "url": "https://www.kigalitoday.com/imikino/football/article/ambasaderi-w-u-rwanda-muri-mali-yasuye-amavubi-mbere-y-umukino",
+   "date": "2026-11-13T09:22:29.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Football",
+    "Ruzindana Janvier"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/fotogrid_20261113_111753837.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/fotogrid_20261113_111753837.jpg",
+   "title_rw": "Ambasaderi w'u Rwanda muri Mali yasuye Amavubi mbere y'umukino",
+   "summary_rw": "Ambasaderi w’u Rwanda muri Mali ariko akagira icyicaro muri Senegal, Festus Bizimana, yasuye ikipe y’igihugu y’u Rwanda, Amavubi, n’umutoza wayo Stephen Constantine, mu Mujyi wa Bamako mbere (…)",
+   "share_id": "MN202611_vryceiukrs"
+  },
+  {
+   "id": "crawl_110wfkm",
+   "title": "WAMUFARANSA Asekeje 🤣 Sicovia Turumirwa Ingurube zirarikoze 😱🔥",
+   "summary": "#wamufaransa #funnyvideo #mutesiscovia",
+   "link": "https://www.youtube.com/watch?v=E_5Okvc-u0c",
+   "url": "https://www.youtube.com/watch?v=E_5Okvc-u0c",
+   "date": "2026-11-13T09:19:50.000Z",
+   "source": "Wamufaransa Comedy YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Wamufaransa Comedy YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "E_5Okvc-u0c"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/E_5Okvc-u0c/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/E_5Okvc-u0c/hqdefault.jpg",
+   "title_rw": "WAMUFARANSA Asekeje 🤣 Sicovia Turumirwa Ingurube zirarikoze 😱🔥",
+   "summary_rw": "#wamufaransa #funnyvideo #mutesiscovia",
+   "share_id": "MN202611_110wfkmsies"
+  },
+  {
+   "id": "crawl_bl3s0u",
+   "title": "FBI ivuga ko aba \"hackers\" bo muri Koreya ya Ruguru bibye arenga miliyoni 400$ bifashishije amashusho mahimbano",
+   "summary": "FBI igaragaza ko, mu mezi 18 ashize abantu barenga 900 bamaze kugwa muri ubu buriganya bwiswe \"FaceStealer\".",
+   "link": "https://www.bbc.com/gahuza/articles/cmedq051nqxeo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/cmedq051nqxeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T09:12:35.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c16a/live/65ee22f0-df02-11f1-b6e1-5b169363fed4.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c16a/live/65ee22f0-df02-11f1-b6e1-5b169363fed4.jpg",
+   "title_rw": "FBI ivuga ko aba \"hackers\" bo muri Koreya ya Ruguru bibye arenga miliyoni 400$ bifashishije amashusho mahimbano",
+   "summary_rw": "FBI igaragaza ko, mu mezi 18 ashize abantu barenga 900 bamaze kugwa muri ubu buriganya bwiswe \"FaceStealer\".",
+   "share_id": "MN202611_bl3s0uwoho"
+  },
+  {
+   "id": "crawl_6cs4td",
+   "title": "Abagome 😎",
+   "summary": "Abagome 😎",
+   "link": "https://www.youtube.com/shorts/5vRpyGJ7vvI",
+   "url": "https://www.youtube.com/shorts/5vRpyGJ7vvI",
+   "date": "2026-11-13T08:58:46.000Z",
+   "source": "Yee Fanta YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Yee Fanta YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "5vRpyGJ7vvI"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/5vRpyGJ7vvI/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/5vRpyGJ7vvI/hqdefault.jpg",
+   "title_rw": "Abagome 😎",
+   "summary_rw": "Abagome 😎",
+   "share_id": "MN202611_6cs4td81z3"
+  },
+  {
+   "id": "crawl_b7bksn",
+   "title": "Perezida Kagame yakiriwe n'Umwami wa Cambodia",
+   "summary": "Perezida wa Repubulika y’u Rwanda, Paul Kagame, ari kumwe na Madamu Jeannette Kagame, bakiriwe ku mugaragaro n’Umwami wa Cambodia, Norodom Sihamoni, mu muhango wo kubakira ku rwego rw’Igihugu (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/perezida-kagame-yakiriwe-n-umwami-wa-cambodia",
+   "url": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/perezida-kagame-yakiriwe-n-umwami-wa-cambodia",
+   "date": "2026-11-13T08:53:48.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu mahanga",
+    "MobileBigStory",
+    "Tarib Abdul"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-13_at_10.00_03_1_.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-13_at_10.00_03_1_.jpg",
+   "title_rw": "Perezida Kagame yakiriwe n'Umwami wa Cambodia",
+   "summary_rw": "Perezida wa Repubulika y’u Rwanda, Paul Kagame, ari kumwe na Madamu Jeannette Kagame, bakiriwe ku mugaragaro n’Umwami wa Cambodia, Norodom Sihamoni, mu muhango wo kubakira ku rwego rw’Igihugu (…)",
+   "share_id": "MN202611_b7bksnfq5h"
+  },
+  {
+   "id": "crawl_1lf9i0r",
+   "title": "Yee Fanta - Abagome (Music Video)",
+   "summary": "Yee Fanta - Abagome (Music Video)",
+   "link": "https://www.youtube.com/watch?v=nMxAIgzCMH0",
+   "url": "https://www.youtube.com/watch?v=nMxAIgzCMH0",
+   "date": "2026-11-13T08:51:36.000Z",
+   "source": "Yee Fanta YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Yee Fanta YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "nMxAIgzCMH0"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/nMxAIgzCMH0/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/nMxAIgzCMH0/hqdefault.jpg",
+   "title_rw": "Yee Fanta - Abagome (Music Video)",
+   "summary_rw": "Yee Fanta - Abagome (Music Video)",
+   "share_id": "MN202611_1lf9i0r5kux"
+  },
   {
    "id": "crawl_1o2d8t",
    "title": "#diamondplatnumz #wcb #nigeria #dance #amapiano #davido #dancehall #wasafi #music #zuchu",
@@ -534,6 +805,33 @@
    "share_id": "MN202611_vmgdr39a7x"
   },
   {
+   "id": "crawl_1bu5ylx",
+   "title": "RIVALS Season 4 - Official Trailer",
+   "summary": "Play RIVALS: https://www.roblox.com/games/17625359962/RIVALS Creative Direction: Bluay — @TheRealBluay Producers: Nosniy, SenseiWarrior, Nick Grayson — @GreatGuyBoom Animation Direction: Bluay (@TheRealBluay), Dustin Robinson Animation: Dustin Robinson, Bluay, Cyrus, Jhey 3D Modeling: Dylan Dixon, @Virtuall3D Lighting / Compositing / VFX: PrimeFIRE94, Dustin Robinson Sound Design / Mixing: Alejand",
+   "link": "https://www.youtube.com/watch?v=HxnvXu7kPxE",
+   "url": "https://www.youtube.com/watch?v=HxnvXu7kPxE",
+   "date": "2026-11-13T01:00:06.000Z",
+   "source": "YouTube Trending Kenya",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "YouTube Trending Kenya",
+    "entertainment",
+    "trending",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "HxnvXu7kPxE"
+   },
+   "type": "video",
+   "image": "https://i.ytimg.com/vi/HxnvXu7kPxE/hqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/HxnvXu7kPxE/hqdefault.jpg",
+   "title_en": "RIVALS Season 4 - Official Trailer",
+   "summary_en": "Play RIVALS: https://www.roblox.com/games/17625359962/RIVALS Creative Direction: Bluay — @TheRealBluay Producers: Nosniy, SenseiWarrior, Nick Grayson — @GreatGuyBoom Animation Direction: Bluay (@TheRealBluay), Dustin Robinson Animation: Dustin Robinson, Bluay, Cyrus, Jhey 3D Modeling: Dylan Dixon, @Virtuall3D Lighting / Compositing / VFX: PrimeFIRE94, Dustin Robinson Sound Design / Mixing: Alejand",
+   "share_id": "MN202611_1bu5ylx21g3"
+  },
+  {
    "id": "crawl_1affs4j",
    "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
    "summary": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
@@ -654,5 +952,5 @@
    "share_id": "MN202611_ehxxd1qttv"
   }
  ],
- "updated": "2026-11-13T08:49:27.645Z"
+ "updated": "2026-11-13T09:43:50.860Z"
 }
