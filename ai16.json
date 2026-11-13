@@ -2471,6 +2471,54 @@
    ],
    "auto": true,
    "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_9fb954f1_q",
+   "label_rw": "Umurongo w'ifatizo n'Imirongo y'Uburebure",
+   "label_en": "The Prime Meridian and Latitude",
+   "patterns_en": [
+    "Where is the Prime Meridian located?",
+    "What is the purpose of longitude lines?",
+    "What is the difference between longitude and latitude?"
+   ],
+   "patterns_rw": [
+    "Umurongo w'ifatizo uherereye he?",
+    "Imirongo y'uburebure imaze iki?",
+    "Itandukaniro riri hagati y'uburebure n'ubugari ni irihe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Umurongo w'ifatizo ni umurongo w'uburebure w'igice cy'isi uri kuri dogore zeru. Uherereye i Greenwich mu Bwongereza. Imirongo y'uburebure ifasha kumenya aho ikintu kiri iburasirazuba cyangwa iburengerazuba. Imirongo y'ubugari yo yerekana aho ikintu kiri mu majyaruguru cyangwa mu majyepfo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The Prime Meridian is the reference line of longitude at zero degrees. It is located in Greenwich, England. Lines of longitude help determine positions east or west. Lines of latitude indicate positions north or south.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_84d035a0_q",
+   "label_rw": "Umuringa w'umuriro w'ibirunga",
+   "label_en": "The Ring of Fire",
+   "patterns_en": [
+    "Where is the Ring of Fire located?",
+    "What causes earthquakes in the Ring of Fire?",
+    "Why does the Ring of Fire have many volcanoes?"
+   ],
+   "patterns_rw": [
+    "Umuringa w'umuriro uherereye he?",
+    "Niuki utera imitingito mu Muringa w'umuriro?",
+    "Ni iki gituma Umuringa w'umuriro ugira ibirunga byinshi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Umuringa w'umuriro ni agace k'amazi ya Pacific gafite ibirunga byinshi n'imitingito ikomeye. Ibyo biterwa n'uko ibice bigize isi byitwa tectonic plates bihura cyangwa bisunikana aha hantu. Ibi bituma habaho ibikorwa by'ibirunga na nyiramugengeri byinshi ku isi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The Ring of Fire is a major area in the basin of the Pacific Ocean where many earthquakes and volcanic eruptions occur. This is caused by the movement and collisions of tectonic plates. It contains a large majority of the world's active volcanoes.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
   }
  ],
  "knowledge": [
@@ -4498,6 +4546,45 @@
     "british",
     "amateka",
     "history"
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_9fb954f1",
+   "category": "world",
+   "title_rw": "Umurongo w'ifatizo n'Imirongo y'Uburebure",
+   "title_en": "The Prime Meridian and Latitude",
+   "summary_rw": "Umurongo w'ifatizo ni umurongo w'uburebure w'igice cy'isi uri kuri dogore zeru. Uherereye i Greenwich mu Bwongereza. Imirongo y'uburebure ifasha kumenya aho ikintu kiri iburasirazuba cyangwa iburengerazuba. Imirongo y'ubugari yo yerekana aho ikintu kiri mu majyaruguru cyangwa mu majyepfo.",
+   "summary_en": "The Prime Meridian is the reference line of longitude at zero degrees. It is located in Greenwich, England. Lines of longitude help determine positions east or west. Lines of latitude indicate positions north or south.",
+   "keywords": [
+    "umurongo w'ifatizo",
+    "prime meridian",
+    "uburebure",
+    "longitude",
+    "ubugari",
+    "latitude",
+    "greenwich",
+    "isi"
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_84d035a0",
+   "category": "world",
+   "title_rw": "Umuringa w'umuriro w'ibirunga",
+   "title_en": "The Ring of Fire",
+   "summary_rw": "Umuringa w'umuriro ni agace k'amazi ya Pacific gafite ibirunga byinshi n'imitingito ikomeye. Ibyo biterwa n'uko ibice bigize isi byitwa tectonic plates bihura cyangwa bisunikana aha hantu. Ibi bituma habaho ibikorwa by'ibirunga na nyiramugengeri byinshi ku isi.",
+   "summary_en": "The Ring of Fire is a major area in the basin of the Pacific Ocean where many earthquakes and volcanic eruptions occur. This is caused by the movement and collisions of tectonic plates. It contains a large majority of the world's active volcanoes.",
+   "keywords": [
+    "ibirunga",
+    "volcanoes",
+    "pacific",
+    "imitingito",
+    "earthquakes",
+    "si",
+    "earth"
    ],
    "auto": true,
    "taught": "2026-11-13"
