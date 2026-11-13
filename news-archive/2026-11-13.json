@@ -1,7 +1,67 @@
 {
  "day": "2026-11-13",
- "count": 1,
+ "count": 4,
  "articles": [
+  {
+   "id": "crawl_vmgdr3",
+   "title": "Australian footballers will not be charged after hotel incident, police say",
+   "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+   "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T01:03:59.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a2/live/04510720-defc-11f1-9b2e-c7d61d5838d4.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a2/live/04510720-defc-11f1-9b2e-c7d61d5838d4.jpg",
+   "title_en": "Australian footballers will not be charged after hotel incident, police say",
+   "summary_en": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+   "share_id": "MN202611_vmgdr39a7x"
+  },
+  {
+   "id": "crawl_1affs4j",
+   "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
+   "summary": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
+   "link": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T00:55:31.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e505/live/77db9650-dec1-11f1-86d5-71a9f29d1c99.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e505/live/77db9650-dec1-11f1-86d5-71a9f29d1c99.png",
+   "title_en": "Junior doctor burnout putting maternity patients at risk, says regulator",
+   "summary_en": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
+   "share_id": "MN202611_1affs4j8old"
+  },
+  {
+   "id": "crawl_83ilyi",
+   "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+   "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+   "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T00:20:24.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dca/live/418b2150-de90-11f1-a701-fddedf244c16.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dca/live/418b2150-de90-11f1-a701-fddedf244c16.jpg",
+   "title_en": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+   "summary_en": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+   "share_id": "MN202611_83ilyibifc"
+  },
   {
    "id": "crawl_ehxxd1",
    "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
@@ -23,5 +83,5 @@
    "share_id": "MN202611_ehxxd1qttv"
   }
  ],
- "updated": "2026-11-13T00:19:02.862Z"
+ "updated": "2026-11-13T01:32:43.746Z"
 }

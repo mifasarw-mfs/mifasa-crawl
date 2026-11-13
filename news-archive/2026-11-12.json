@@ -1,7 +1,27 @@
 {
  "day": "2026-11-12",
- "count": 128,
+ "count": 130,
  "articles": [
+  {
+   "id": "crawl_ha7obw",
+   "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
+   "summary": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
+   "link": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T23:42:52.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63ae/live/32b2b320-def2-11f1-a701-fddedf244c16.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63ae/live/32b2b320-def2-11f1-a701-fddedf244c16.jpg",
+   "title_en": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
+   "summary_en": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
+   "share_id": "MN202611_ha7obw4bey"
+  },
   {
    "id": "crawl_qwucok",
    "title": "Football Daily",
@@ -281,6 +301,26 @@
    "title_en": "At COP31, Government Pitches $3bn for Electricity, Flood Protection for 220,000 Kigalians",
    "summary_en": "Government of Rwanda is seeking greater international investment in electricity infrastructure, urban resilience, green industrialisation and climate-smart agriculture as it works to turn its climate commitments into projects that can… The post At COP31, Government Pitches $3bn for Electricity, Flood Protection for 220,000 Kigalians appeared first on KT PRESS .",
    "share_id": "MN202611_1vhvr4hqygf"
+  },
+  {
+   "id": "crawl_1sg0zjt",
+   "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+   "summary": "Services including Teams, Outlook and Microsoft's AI software Copilot have been affected by \"connectivity problems\".",
+   "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T20:25:29.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28a7/live/2a181e50-defa-11f1-b877-3169a3b63f2c.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28a7/live/2a181e50-defa-11f1-b877-3169a3b63f2c.jpg",
+   "title_en": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+   "summary_en": "Services including Teams, Outlook and Microsoft's AI software Copilot have been affected by \"connectivity problems\".",
+   "share_id": "MN202611_1sg0zjttw0n"
   },
   {
    "id": "crawl_1sx0dvx",
@@ -2736,5 +2776,5 @@
    "share_id": "MN202611_1qpleoceb56"
   }
  ],
- "updated": "2026-11-13T00:19:02.863Z"
+ "updated": "2026-11-13T01:32:43.747Z"
 }
