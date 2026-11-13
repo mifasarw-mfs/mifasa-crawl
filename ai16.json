@@ -2040,6 +2040,126 @@
    ],
    "auto": true,
    "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_ba4d4b32_q",
+   "label_rw": "Amategeko y'ibanze y'ururimi rw'Ikinyarwanda",
+   "label_en": "Kinyarwanda language grammar basics",
+   "patterns_en": [
+    "What are noun classes in Kinyarwanda?",
+    "In which country is Kinyarwanda spoken?",
+    "What does sentence structure rely on in Kinyarwanda?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyiciro cy'inteko z'amazina mu Kinyarwanda?",
+    "Ururimi rw'Ikinyarwanda ruvugwa mu kihe gihugu?",
+    "Imiterye y'interuro mu Kinyarwanda ishingiye kuri iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ikinyarwanda ni ururimi rwa Niger-Congo ruvugwa mu Rwanda. Rugizwe n'ibyiciro by'inteko z'amazina nka 16. Imiterye y'amagamboishingiye ku nteko y'izina ry'ibanze ryerekana uko interuro yubatswe.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Kinyarwanda is a Niger-Congo language spoken in Rwanda. It typically features about 16 noun classes. Sentence structure relies heavily on noun class agreement prefixes.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_6846dcac_q",
+   "label_rw": "Ubuvuzi gakondo bw'Abanyarwanda",
+   "label_en": "Traditional Rwandan medicine",
+   "patterns_en": [
+    "What makes traditional medicine accepted in Rwanda?",
+    "How are herbal remedies used?",
+    "Who provides traditional medicine?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma ubuvuzi gakondo bwakirwa mu Rwanda?",
+    "Ni gute imiti y'ibyatsi ikoreshwa mu Rwanda?",
+    "Ni bande batanga ubuvuzi gakondo?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubuvuzi gakondo mu Rwanda bushingiye ku ikoreshwa ry'imiti y'ibyatsi n'ibiti bivura indwara zitandukanye. Abavuzi gakondo bamenya ubwoko bw'ibimera n'uko bikoreshwa mu kuvura abarwayi. Iyi miti yagiye itambuka mu muryango nyarwanda kuva kera.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Traditional medicine in Rwanda relies on the use of herbs and plants to treat various illnesses. Traditional healers identify plant types and how they are used to heal patients. This knowledge has been passed down through generations in Rwandan society.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_310ce503_q",
+   "label_rw": "Imigani n'imigenzo yo kuvuga ibitekerezo",
+   "label_en": "Rwandan folklore and storytelling traditions",
+   "patterns_en": [
+    "What was the purpose of storytelling in traditional Rwanda?",
+    "Who usually told folktales in Rwandan families?",
+    "Why were stories traditionally told in the evening?"
+   ],
+   "patterns_rw": [
+    "Imigani n'imigenzo byagiraga akahe kamaro mu Rwanda rwo hambere?",
+    "Ni nde wajyaga atanga imigani mu muryango nyarwanda?",
+    "Kuki ababyeyi bavugaga imigani ku mugoroba?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imigani n'imigenzo yo kuvuga ibitekerezo mu Rwanda ni uburyo bwo kwigisha no gusangira amateka. Ababyeyi n'abakuze banyuraga mu migani miremire n'imigani migufi kugira ngo batange inyigisho z'ubupfura n'imico myiza mu rubyiruko. Ibi byakoraga nko gusabana ku mugoroba.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Rwandan folklore and storytelling traditions serve as a method for education and sharing history. Elders and parents traditionally used folktales and proverbs to impart moral values and good character to the youth, often during evening gatherings around the hearth.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_5e2d248e_q",
+   "label_rw": "Ububumbyi bwa Kinyarwanda",
+   "label_en": "Traditional Rwandan Pottery",
+   "patterns_en": [
+    "What is pottery used for in Rwanda?",
+    "Who are traditionally known as potters in Rwanda?",
+    "What kind of items are made from clay?"
+   ],
+   "patterns_rw": [
+    "Ububumbyi bukoreshwa iki mu Rwanda?",
+    "Ni bande bazwi cyane mu bubumbyi mu Rwanda?",
+    "Ibikoresho bikorwa mu ibumba ni ibihe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ububumbyi ni umuco wa kera mu Rwanda aho ababumbyi bakoresha ibumba bakabaza ibikoresho bitandukanye nka inkono, imbabura n'amavomo. Ababumbyi bazwi cyane mu muryango w'Abatwa. Ibi bikoresho bifite akamaro kanini mu buzima bwa buri munsi no mu mirimo y'ubukorikori.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Traditional pottery is an ancient craft in Rwanda where artisans use clay to shape various items such as cooking pots, charcoal stoves, and water jars. Potters are historically known within the Batwa community. These ceramic items play an important role in daily life and traditional crafts.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_6fff75a3_q",
+   "label_rw": "Uko ikawa yo mu Rwanda itunganywa",
+   "label_en": "Rwandan coffee processing and washing stations",
+   "patterns_en": [
+    "What is the main type of coffee grown in Rwanda?",
+    "What is the role of washing stations in coffee processing?",
+    "How is Rwandan coffee prepared for the market?"
+   ],
+   "patterns_rw": [
+    "Ni uwuhe bwoko bw'ikawa bwinshi mu Rwanda?",
+    "Sitasiyo z'isukuriro zikora iki ku kawa?",
+    "Ikawa y'u Rwanda ivaho iki mbere yo kujya ku isoko?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mu Rwanda, ikawa yiganze mu bwoko bwa Arabica. Iyo yeze, iratoranywa maze igashyirwa mu nganda zitunganya ikawa zizwi nka sitasiyo z'isukuriro. Aha ni ho imbuto z'ikawa zikurwaho igishishwa, zikameswa, zikanikwa ku zuba mbere yo koherezwa ku isoko mpuzamahanga.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "In Rwanda, coffee is predominantly of the Arabica variety. After harvesting, the cherries are sorted and taken to specialized washing stations. Here, the outer pulp is removed, and the beans are washed and sun-dried before being exported to international markets.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
   }
  ],
  "knowledge": [
@@ -3716,6 +3836,104 @@
    ],
    "auto": true,
    "taught": "2026-11-12"
+  },
+  {
+   "id": "ai16_ba4d4b32",
+   "category": "rwanda",
+   "title_rw": "Amategeko y'ibanze y'ururimi rw'Ikinyarwanda",
+   "title_en": "Kinyarwanda language grammar basics",
+   "summary_rw": "Ikinyarwanda ni ururimi rwa Niger-Congo ruvugwa mu Rwanda. Rugizwe n'ibyiciro by'inteko z'amazina nka 16. Imiterye y'amagamboishingiye ku nteko y'izina ry'ibanze ryerekana uko interuro yubatswe.",
+   "summary_en": "Kinyarwanda is a Niger-Congo language spoken in Rwanda. It typically features about 16 noun classes. Sentence structure relies heavily on noun class agreement prefixes.",
+   "keywords": [
+    "kinyarwanda",
+    "grammar",
+    "amategeko",
+    "ururimi",
+    "language",
+    "rwanda",
+    "inteko"
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_6846dcac",
+   "category": "rwanda",
+   "title_rw": "Ubuvuzi gakondo bw'Abanyarwanda",
+   "title_en": "Traditional Rwandan medicine",
+   "summary_rw": "Ubuvuzi gakondo mu Rwanda bushingiye ku ikoreshwa ry'imiti y'ibyatsi n'ibiti bivura indwara zitandukanye. Abavuzi gakondo bamenya ubwoko bw'ibimera n'uko bikoreshwa mu kuvura abarwayi. Iyi miti yagiye itambuka mu muryango nyarwanda kuva kera.",
+   "summary_en": "Traditional medicine in Rwanda relies on the use of herbs and plants to treat various illnesses. Traditional healers identify plant types and how they are used to heal patients. This knowledge has been passed down through generations in Rwandan society.",
+   "keywords": [
+    "ubuvuzi gakondo",
+    "imiti y'ibyatsi",
+    "traditional medicine",
+    "herbal remedies",
+    "rwanda",
+    "amagara",
+    "health"
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_310ce503",
+   "category": "rwanda",
+   "title_rw": "Imigani n'imigenzo yo kuvuga ibitekerezo",
+   "title_en": "Rwandan folklore and storytelling traditions",
+   "summary_rw": "Imigani n'imigenzo yo kuvuga ibitekerezo mu Rwanda ni uburyo bwo kwigisha no gusangira amateka. Ababyeyi n'abakuze banyuraga mu migani miremire n'imigani migufi kugira ngo batange inyigisho z'ubupfura n'imico myiza mu rubyiruko. Ibi byakoraga nko gusabana ku mugoroba.",
+   "summary_en": "Rwandan folklore and storytelling traditions serve as a method for education and sharing history. Elders and parents traditionally used folktales and proverbs to impart moral values and good character to the youth, often during evening gatherings around the hearth.",
+   "keywords": [
+    "imigani",
+    "umuco",
+    "amateka",
+    "ubupfura",
+    "folklore",
+    "traditions",
+    "stories",
+    "culture"
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_5e2d248e",
+   "category": "rwanda",
+   "title_rw": "Ububumbyi bwa Kinyarwanda",
+   "title_en": "Traditional Rwandan Pottery",
+   "summary_rw": "Ububumbyi ni umuco wa kera mu Rwanda aho ababumbyi bakoresha ibumba bakabaza ibikoresho bitandukanye nka inkono, imbabura n'amavomo. Ababumbyi bazwi cyane mu muryango w'Abatwa. Ibi bikoresho bifite akamaro kanini mu buzima bwa buri munsi no mu mirimo y'ubukorikori.",
+   "summary_en": "Traditional pottery is an ancient craft in Rwanda where artisans use clay to shape various items such as cooking pots, charcoal stoves, and water jars. Potters are historically known within the Batwa community. These ceramic items play an important role in daily life and traditional crafts.",
+   "keywords": [
+    "ububumbyi",
+    "ibumba",
+    "inkono",
+    "abatwa",
+    "pottery",
+    "clay",
+    "crafts",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_6fff75a3",
+   "category": "rwanda",
+   "title_rw": "Uko ikawa yo mu Rwanda itunganywa",
+   "title_en": "Rwandan coffee processing and washing stations",
+   "summary_rw": "Mu Rwanda, ikawa yiganze mu bwoko bwa Arabica. Iyo yeze, iratoranywa maze igashyirwa mu nganda zitunganya ikawa zizwi nka sitasiyo z'isukuriro. Aha ni ho imbuto z'ikawa zikurwaho igishishwa, zikameswa, zikanikwa ku zuba mbere yo koherezwa ku isoko mpuzamahanga.",
+   "summary_en": "In Rwanda, coffee is predominantly of the Arabica variety. After harvesting, the cherries are sorted and taken to specialized washing stations. Here, the outer pulp is removed, and the beans are washed and sun-dried before being exported to international markets.",
+   "keywords": [
+    "ikawa",
+    "coffee",
+    "ubuhinzi",
+    "agriculture",
+    "u rwanda",
+    "rwanda",
+    "umusaruro",
+    "production"
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
   }
  ]
 }
