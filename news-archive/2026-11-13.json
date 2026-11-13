@@ -1,7 +1,68 @@
 {
  "day": "2026-11-13",
- "count": 130,
+ "count": 133,
  "articles": [
+  {
+   "id": "crawl_1fbjb0c",
+   "title": "#AFCON2027Q: Amavubi atsinzwe na Mali(Amafoto)",
+   "summary": "Amavubi yatsindiwe na Mali i Bamako ibitego 3-2 mu mukino w’umunsi wa gatatu w’amatsinda yo gushaka itike y’Igikombe cya Afurika 2027 mu mukino wari uryoheye ijisho.",
+   "link": "https://www.kigalitoday.com/imikino/football/article/afcon2027q-amavubi-atsinzwe-na-mali-amafoto",
+   "url": "https://www.kigalitoday.com/imikino/football/article/afcon2027q-amavubi-atsinzwe-na-mali-amafoto",
+   "date": "2026-11-13T22:15:43.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Football"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/hxb-zqawcaan5m5.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/hxb-zqawcaan5m5.jpg",
+   "title_rw": "#AFCON2027Q: Amavubi atsinzwe na Mali(Amafoto)",
+   "summary_rw": "Amavubi yatsindiwe na Mali i Bamako ibitego 3-2 mu mukino w’umunsi wa gatatu w’amatsinda yo gushaka itike y’Igikombe cya Afurika 2027 mu mukino wari uryoheye ijisho.",
+   "share_id": "MN202611_1fbjb0cxifu"
+  },
+  {
+   "id": "crawl_nf6xyy",
+   "title": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
+   "summary": "Manchester United are targeting Como midfielder Nico Paz as new manager Mauricio Pochettino prepares to receive backing in the transfer market at Old Trafford.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T22:05:14.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5052/live/03436570-dfb1-11f1-a701-fddedf244c16.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5052/live/03436570-dfb1-11f1-a701-fddedf244c16.png",
+   "title_en": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
+   "summary_en": "Manchester United are targeting Como midfielder Nico Paz as new manager Mauricio Pochettino prepares to receive backing in the transfer market at Old Trafford.",
+   "share_id": "MN202611_nf6xyyyvdk"
+  },
+  {
+   "id": "crawl_1gqxjgx",
+   "title": "Amavubi’s Promising Display in Bamako Ends in Painful AFCON Qualifying Defeat",
+   "summary": "BAMAKO – Rwanda’s hopes of maintaining their perfect start to the 2027 Africa Cup of Nations (AFCON) qualifying campaign suffered a setback on Friday, November 13, after Amavubi twice took… The post Amavubi’s Promising Display in Bamako Ends in Painful AFCON Qualifying Defeat appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/amavubis-promising-display-in-bamako-ends-in-painful-afcon-qualifying-defeat/",
+   "url": "https://www.ktpress.rw/2026/11/amavubis-promising-display-in-bamako-ends-in-painful-afcon-qualifying-defeat/",
+   "date": "2026-11-13T21:59:19.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "Sports",
+    "latestnews"
+   ],
+   "title_en": "Amavubi’s Promising Display in Bamako Ends in Painful AFCON Qualifying Defeat",
+   "summary_en": "BAMAKO – Rwanda’s hopes of maintaining their perfect start to the 2027 Africa Cup of Nations (AFCON) qualifying campaign suffered a setback on Friday, November 13, after Amavubi twice took… The post Amavubi’s Promising Display in Bamako Ends in Painful AFCON Qualifying Defeat appeared first on KT PRESS .",
+   "share_id": "MN202611_1gqxjgxzunj"
+  },
   {
    "id": "crawl_ildlqv",
    "title": "Isobanuye mu kinyaarwnda:Lexnour - God I need you •#agasobanuye #mifasa #mifasarw #m",
@@ -2790,5 +2851,5 @@
    "share_id": "MN202611_cgwh2gfix2"
   }
  ],
- "updated": "2026-11-13T21:39:38.158Z"
+ "updated": "2026-11-13T22:32:54.605Z"
 }
