@@ -1,7 +1,47 @@
 {
  "day": "2026-11-13",
- "count": 8,
+ "count": 13,
  "articles": [
+  {
+   "id": "crawl_1pvo8ta",
+   "title": "National Trust takes back land for nature restoration",
+   "summary": "The trust hopes to restore the site, create new wildlife habitats and improve access to green space.",
+   "link": "https://www.bbc.co.uk/news/articles/cqvg257kl440o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqvg257kl440o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T06:22:20.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70e8/live/0fcb9470-ddc2-11f1-a50f-85eebf9e50e5.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70e8/live/0fcb9470-ddc2-11f1-a50f-85eebf9e50e5.jpg",
+   "title_en": "National Trust takes back land for nature restoration",
+   "summary_en": "The trust hopes to restore the site, create new wildlife habitats and improve access to green space.",
+   "share_id": "MN202611_1pvo8tah5a4"
+  },
+  {
+   "id": "crawl_15jw8jk",
+   "title": "My physical deformity left me feeling invisible - but one surgeon saw me",
+   "summary": "Charlie Clarke says the physical and emotional effects of pectus excavatum have been \"unimaginable\".",
+   "link": "https://www.bbc.co.uk/news/articles/c6rmyy4ee1pwo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6rmyy4ee1pwo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T06:22:12.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d70/live/511a4930-d9f8-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d70/live/511a4930-d9f8-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "My physical deformity left me feeling invisible - but one surgeon saw me",
+   "summary_en": "Charlie Clarke says the physical and emotional effects of pectus excavatum have been \"unimaginable\".",
+   "share_id": "MN202611_15jw8jkp50e"
+  },
   {
    "id": "crawl_13gn3wo",
    "title": "Uburusiya – Ukraine: Zelensky yakiriye neza ko Amerika igiye kwinjiza Uburaya mu biganiro vy’amahoro",
@@ -84,6 +124,26 @@
    "share_id": "MN202611_pphsn7ktnl"
   },
   {
+   "id": "crawl_1srm695",
+   "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
+   "summary": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
+   "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T01:17:58.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0be/live/2ecff280-d2f0-11f1-8d86-83eebc838351.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0be/live/2ecff280-d2f0-11f1-8d86-83eebc838351.jpg",
+   "title_en": "Burnham says 'win-win' deal can be agreed between UK and EU",
+   "summary_en": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
+   "share_id": "MN202611_1srm695f2pz"
+  },
+  {
    "id": "crawl_vmgdr3",
    "title": "Australian footballers will not be charged after hotel incident, police say",
    "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
@@ -122,6 +182,46 @@
    "title_en": "Junior doctor burnout putting maternity patients at risk, says regulator",
    "summary_en": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
    "share_id": "MN202611_1affs4j8old"
+  },
+  {
+   "id": "crawl_du1la9",
+   "title": "Timothée Chalamet among Hollywood stars and charity heroes stepping up for BBC Children In Need",
+   "summary": "Viewers of the annual TV charity event will see the actor playing a prank on Rylan.",
+   "link": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T00:54:04.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8023/live/c0a54e10-df2c-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8023/live/c0a54e10-df2c-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "Timothée Chalamet among Hollywood stars and charity heroes stepping up for BBC Children In Need",
+   "summary_en": "Viewers of the annual TV charity event will see the actor playing a prank on Rylan.",
+   "share_id": "MN202611_du1la9uhr3"
+  },
+  {
+   "id": "crawl_gro5av",
+   "title": "Skye Newman gets 'goosebumps' over record-breaking Brixton Academy run",
+   "summary": "She is the first British female solo singer to play a five-gig residency at the venue.",
+   "link": "https://www.bbc.co.uk/news/articles/ckvg25g323ymo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckvg25g323ymo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T00:24:11.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f59/live/a3f3b560-de94-11f1-9afe-1f03bfe02283.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f59/live/a3f3b560-de94-11f1-9afe-1f03bfe02283.jpg",
+   "title_en": "Skye Newman gets 'goosebumps' over record-breaking Brixton Academy run",
+   "summary_en": "She is the first British female solo singer to play a five-gig residency at the venue.",
+   "share_id": "MN202611_gro5avh1rp"
   },
   {
    "id": "crawl_83ilyi",
@@ -164,5 +264,5 @@
    "share_id": "MN202611_ehxxd1qttv"
   }
  ],
- "updated": "2026-11-13T04:00:54.431Z"
+ "updated": "2026-11-13T06:45:18.705Z"
 }
