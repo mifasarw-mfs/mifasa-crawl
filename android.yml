@@ -1,0 +1,52 @@
+# Builds a real Android app (APK) of MIFASARW - free, no limit on a public repo, all in the browser (GitHub Actions).
+# How: GitHub -> Actions -> "mifasa-android" -> Run workflow -> when green, open the run -> Artifacts -> download MIFASARW-apk -> unzip -> install the .apk on the phone.
+# The app opens https://mifasarw.neocities.org inside the app, so every update of the website reaches the app at once (no new APK needed),
+# and the service worker (sw.js) gives the offline mode. Change SITE_URL / APP_ID below if needed.
+name: mifasa-android
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: write
+env:
+  SITE_URL: https://mifasarw.neocities.org
+  APP_ID: rw.mifasarw.app
+  APP_NAME: MIFASARW
+jobs:
+  apk:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - uses: actions/setup-java@v4
+        with: { distribution: temurin, java-version: 17 }
+      - name: Make the Capacitor project
+        run: |
+          mkdir app && cd app
+          npm init -y >/dev/null
+          npm i @capacitor/core @capacitor/cli @capacitor/android @capacitor/assets >/dev/null
+          mkdir www && echo '<!doctype html><title>MIFASARW</title><meta http-equiv="refresh" content="0;url='$SITE_URL'">' > www/index.html
+          cat > capacitor.config.json <<JSON
+          { "appId": "$APP_ID", "appName": "$APP_NAME", "webDir": "www",
+            "server": { "url": "$SITE_URL", "androidScheme": "https",
+                        "allowNavigation": ["mifasarw.neocities.org", "*.youtube.com", "*.youtube-nocookie.com", "*.ytimg.com"] } }
+          JSON
+          npx cap add android
+      - name: App icon (uses icon-512.png from the repo if present)
+        run: |
+          cd app
+          if [ -f ../icon-512.png ]; then mkdir -p assets && cp ../icon-512.png assets/icon-only.png && cp ../icon-512.png assets/icon-foreground.png && echo "#000000" > /dev/null; npx capacitor-assets generate --android --iconBackgroundColor '#000000' --iconBackgroundColorDark '#000000' || true; fi
+      - name: Build APK
+        run: cd app/android && chmod +x gradlew && ./gradlew assembleDebug --no-daemon
+      - uses: actions/upload-artifact@v4
+        with:
+          name: MIFASARW-apk
+          path: app/android/app/build/outputs/apk/debug/*.apk
+      - name: Publish APK to a GitHub Release (public download link for the website)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cp app/android/app/build/outputs/apk/debug/app-debug.apk MIFASARW.apk
+          gh release delete apk-latest --yes --cleanup-tag --repo "$GITHUB_REPOSITORY" || true
+          gh release create apk-latest MIFASARW.apk --repo "$GITHUB_REPOSITORY" --title "MIFASARW Android" --notes "Latest MIFASARW Android APK" --latest=false
