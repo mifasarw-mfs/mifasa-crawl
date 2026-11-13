@@ -1,7 +1,27 @@
 {
  "day": "2026-11-13",
- "count": 127,
+ "count": 129,
  "articles": [
+  {
+   "id": "crawl_1ps7vu",
+   "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+   "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+   "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T20:49:52.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
+   "title_en": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+   "summary_en": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+   "share_id": "MN202611_1ps7vup6bs"
+  },
   {
    "id": "crawl_uy03jd",
    "title": "SpaceX to attempt double catch of huge Starship rocket",
@@ -21,6 +41,26 @@
    "title_en": "SpaceX to attempt double catch of huge Starship rocket",
    "summary_en": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
    "share_id": "MN202611_uy03jdt007"
+  },
+  {
+   "id": "crawl_i5y6i0",
+   "title": "'It's a shootout' - Wales out to derail stuttering Norway",
+   "summary": "Norway's golden generation host Wales in a crunch Nations League clash on Saturday, aiming to end a rare losing streak for Erling Haaland and company.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck9871qr76gmo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ck9871qr76gmo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T19:59:40.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af0b/live/28b62340-df7c-11f1-b844-3146c4983677.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af0b/live/28b62340-df7c-11f1-b844-3146c4983677.jpg",
+   "title_en": "'It's a shootout' - Wales out to derail stuttering Norway",
+   "summary_en": "Norway's golden generation host Wales in a crunch Nations League clash on Saturday, aiming to end a rare losing streak for Erling Haaland and company.",
+   "share_id": "MN202611_i5y6i0q3wm"
   },
   {
    "id": "crawl_1l3ucya",
@@ -2724,5 +2764,5 @@
    "share_id": "MN202611_cgwh2gfix2"
   }
  ],
- "updated": "2026-11-13T20:21:10.612Z"
+ "updated": "2026-11-13T21:11:58.316Z"
 }
