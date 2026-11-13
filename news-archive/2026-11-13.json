@@ -1,7 +1,93 @@
 {
  "day": "2026-11-13",
- "count": 22,
+ "count": 31,
  "articles": [
+  {
+   "id": "crawl_1o2d8t",
+   "title": "#diamondplatnumz #wcb #nigeria #dance #amapiano #davido #dancehall #wasafi #music #zuchu",
+   "summary": "#diamondplatnumz #wcb #nigeria #dance #amapiano #davido #dancehall #wasafi #music #zuchu",
+   "link": "https://www.youtube.com/shorts/DYPmuyVMwU8",
+   "url": "https://www.youtube.com/shorts/DYPmuyVMwU8",
+   "date": "2026-11-13T08:24:41.000Z",
+   "source": "Diamond Platnumz YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Diamond Platnumz YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "DYPmuyVMwU8"
+   },
+   "type": "video",
+   "image": "https://i1.ytimg.com/vi/DYPmuyVMwU8/hqdefault.jpg",
+   "thumbnail": "https://i1.ytimg.com/vi/DYPmuyVMwU8/hqdefault.jpg",
+   "title_rw": "#diamondplatnumz #wcb #nigeria #dance #amapiano #davido #dancehall #wasafi #music #zuchu",
+   "summary_rw": "#diamondplatnumz #wcb #nigeria #dance #amapiano #davido #dancehall #wasafi #music #zuchu",
+   "share_id": "MN202611_1o2d8tiaej"
+  },
+  {
+   "id": "crawl_13jxp7n",
+   "title": "Beckham to be inducted into US Soccer Hall of Fame",
+   "summary": "Former England captain David Beckham is set to be inducted into the United States' National Soccer Hall of Fame as part of its 2027 class.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmx295q05l7eo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmx295q05l7eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T08:22:34.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c236/live/1d957c40-df36-11f1-86fa-cbe84eade4f1.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c236/live/1d957c40-df36-11f1-86fa-cbe84eade4f1.jpg",
+   "title_en": "Beckham to be inducted into US Soccer Hall of Fame",
+   "summary_en": "Former England captain David Beckham is set to be inducted into the United States' National Soccer Hall of Fame as part of its 2027 class.",
+   "share_id": "MN202611_13jxp7npmm9"
+  },
+  {
+   "id": "crawl_owvtcu",
+   "title": "From postcards to texts, the different ways a manager gets the sack - Pulis",
+   "summary": "BBC Sport columnist Tony Pulis explains some of the different ways a manager can leave a club, whether they have been sacked or resigned.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cve8716dg46xo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cve8716dg46xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T08:13:19.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg",
+   "title_en": "From postcards to texts, the different ways a manager gets the sack - Pulis",
+   "summary_en": "BBC Sport columnist Tony Pulis explains some of the different ways a manager can leave a club, whether they have been sacked or resigned.",
+   "share_id": "MN202611_owvtcunqrg"
+  },
+  {
+   "id": "crawl_10xc71m",
+   "title": "How do you stop Haaland? Wales show how it's done",
+   "summary": "Erling Haaland can seem unstoppable - but Wales managed it a month ago. In Norway on Saturday, they hope the plan will work again.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c3y0e0z0r8kzo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c3y0e0z0r8kzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T08:05:12.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcae/live/7234f470-dd19-11f1-b4f2-5145cca625ab.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcae/live/7234f470-dd19-11f1-b4f2-5145cca625ab.jpg",
+   "title_en": "How do you stop Haaland? Wales show how it's done",
+   "summary_en": "Erling Haaland can seem unstoppable - but Wales managed it a month ago. In Norway on Saturday, they hope the plan will work again.",
+   "share_id": "MN202611_10xc71m44g8"
+  },
   {
    "id": "crawl_16e3sew",
    "title": "Blink-182 to make Download debut as 2027 festival headliners",
@@ -23,6 +109,58 @@
    "share_id": "MN202611_16e3sewwovq"
   },
   {
+   "id": "crawl_48pvzy",
+   "title": "#diamondplatnumz #wcb #nigeria #dance",
+   "summary": "#diamondplatnumz #wcb #nigeria #dance",
+   "link": "https://www.youtube.com/shorts/Cjb0_zVcUwc",
+   "url": "https://www.youtube.com/shorts/Cjb0_zVcUwc",
+   "date": "2026-11-13T07:46:18.000Z",
+   "source": "Diamond Platnumz YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Diamond Platnumz YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "Cjb0_zVcUwc"
+   },
+   "type": "video",
+   "image": "https://i4.ytimg.com/vi/Cjb0_zVcUwc/hqdefault.jpg",
+   "thumbnail": "https://i4.ytimg.com/vi/Cjb0_zVcUwc/hqdefault.jpg",
+   "title_rw": "#diamondplatnumz #wcb #nigeria #dance",
+   "summary_rw": "#diamondplatnumz #wcb #nigeria #dance",
+   "share_id": "MN202611_48pvzy5t5o"
+  },
+  {
+   "id": "crawl_8w6ifn",
+   "title": "#diamondplatnumz #Zuchu #Love",
+   "summary": "#diamondplatnumz #Zuchu #Love",
+   "link": "https://www.youtube.com/shorts/AD-xPnHLHHI",
+   "url": "https://www.youtube.com/shorts/AD-xPnHLHHI",
+   "date": "2026-11-13T07:43:36.000Z",
+   "source": "Diamond Platnumz YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Diamond Platnumz YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "AD-xPnHLHHI"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/AD-xPnHLHHI/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/AD-xPnHLHHI/hqdefault.jpg",
+   "title_rw": "#diamondplatnumz #Zuchu #Love",
+   "summary_rw": "#diamondplatnumz #Zuchu #Love",
+   "share_id": "MN202611_8w6ifnmfld"
+  },
+  {
    "id": "crawl_xxp1ps",
    "title": "What we know about the global Microsoft outage",
    "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
@@ -41,6 +179,26 @@
    "title_en": "What we know about the global Microsoft outage",
    "summary_en": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
    "share_id": "MN202611_xxp1pshy6m"
+  },
+  {
+   "id": "crawl_c7fkcq",
+   "title": "How big a problem is central defence for Pocognoli?",
+   "summary": "Amy Canavan assesses Scotland's central defensive dilemmas before Friday evening's must-win match against North Macedonia.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckwy9jyd2wq5o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ckwy9jyd2wq5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T07:23:18.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1721/live/73ca9230-ded2-11f1-a701-fddedf244c16.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1721/live/73ca9230-ded2-11f1-a701-fddedf244c16.jpg",
+   "title_en": "How big a problem is central defence for Pocognoli?",
+   "summary_en": "Amy Canavan assesses Scotland's central defensive dilemmas before Friday evening's must-win match against North Macedonia.",
+   "share_id": "MN202611_c7fkcqbjqg"
   },
   {
    "id": "crawl_1xvvzxj",
@@ -149,6 +307,32 @@
    "share_id": "MN202611_1jfizpnax49"
   },
   {
+   "id": "crawl_8l7thw",
+   "title": "AMAYERI YO GUHANGANA N'ABANZI BATAKWIFURIZA INEZA| 33 STRATEGIES OF WAR | NTUKIVANGE MU BITAKUREBA",
+   "summary": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
+   "link": "https://www.youtube.com/watch?v=U7Dbcq2paB4",
+   "url": "https://www.youtube.com/watch?v=U7Dbcq2paB4",
+   "date": "2026-11-13T06:42:22.000Z",
+   "source": "Mwanafunzi Ismael YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Mwanafunzi Ismael YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "U7Dbcq2paB4"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/U7Dbcq2paB4/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/U7Dbcq2paB4/hqdefault.jpg",
+   "title_rw": "AMAYERI YO GUHANGANA N'ABANZI BATAKWIFURIZA INEZA| 33 STRATEGIES OF WAR | NTUKIVANGE MU BITAKUREBA",
+   "summary_rw": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
+   "share_id": "MN202611_8l7thw7yb6"
+  },
+  {
    "id": "crawl_1kgfu8g",
    "title": "Who am I? Plus today's other quizzes",
    "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
@@ -207,6 +391,26 @@
    "title_en": "My physical deformity left me feeling invisible - but one surgeon saw me",
    "summary_en": "Charlie Clarke says the physical and emotional effects of pectus excavatum have been \"unimaginable\".",
    "share_id": "MN202611_15jw8jkp50e"
+  },
+  {
+   "id": "crawl_163ra7j",
+   "title": "Migrants offered help to fake artworks to gain UK 'talent' visas - BBC investigation finds",
+   "summary": "Going undercover to expose an elaborate fraud aimed at obtaining fast-track settlement for wealthy migrants.",
+   "link": "https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T06:00:44.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18bf/live/f63106d0-de89-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18bf/live/f63106d0-de89-11f1-b441-2b33b063138f.jpg",
+   "title_en": "Migrants offered help to fake artworks to gain UK 'talent' visas - BBC investigation finds",
+   "summary_en": "Going undercover to expose an elaborate fraud aimed at obtaining fast-track settlement for wealthy migrants.",
+   "share_id": "MN202611_163ra7jk6od"
   },
   {
    "id": "crawl_13gn3wo",
@@ -450,5 +654,5 @@
    "share_id": "MN202611_ehxxd1qttv"
   }
  ],
- "updated": "2026-11-13T08:00:17.424Z"
+ "updated": "2026-11-13T08:49:27.645Z"
 }
