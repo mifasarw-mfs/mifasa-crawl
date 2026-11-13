@@ -2160,6 +2160,53 @@
    ],
    "auto": true,
    "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_b11f970b_q",
+   "label_rw": "Ihindagurika ry'ibinyabutabire",
+   "label_en": "Chemical reactions",
+   "patterns_en": [
+    "What are some examples of chemical reactions?",
+    "What happens to the mass of substances during a reaction?"
+   ],
+   "patterns_rw": [
+    "Ihindagurika ry'ibinyabutabire ni iki?",
+    "Ni izihe ngero zigaragaza ihindagurika ry'ibinyabutabire?",
+    "Ni iki kiba ku buremere bw'ibintu mu gihe cy'ihindagurika?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ihindagurika ry'ibinyabutabire ni igikorwa aho ibintu by'ibanze bihinduka bikavamo ibindi bishya. Muri ubu buryo, imitergetse y'ubutabire y'ibintu irahinduka. Ingano y'uburemere bw'ibintu ntihinduka mu gihe cy'ihindagurika. Ingero zirimo gutwika no guhinduka kw'ibyuma.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "A chemical reaction is a process where starting substances are transformed into new ones. During this process, the chemical structures of the substances change. The total mass of the substances generally remains constant. Examples include burning and rusting.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_188b94b3_q",
+   "label_rw": "Sisitemu y'igogora mu mubiri w'umuntu",
+   "label_en": "Human digestive system",
+   "patterns_en": [
+    "What organs make up the digestive system?",
+    "Where does digestion begin in the human body?",
+    "What is the function of the intestines in digestion?"
+   ],
+   "patterns_rw": [
+    "Ni izihe ngingo zigize sisitemu y'igogora?",
+    "Igogora ritangirira he mu mubiri w'umuntu?",
+    "Amara akora iki mu gikorwa cy'igogora?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Sisitemu y'igogora igizwe n'ingingo zitandukanye zifasha umubiri gusenya ibiryo no kubivanamo intungamubiri. Ibyo biryo bitangira gusya mu kanwa, bikanyura mu muhogo, bigakomereza mu nda n'amara aho bifashwa n'ibinya bitandukanye. Ibidasohowe mu mubiri bisigaramo bijya mu mara manini kugira ngo bisohoke.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The human digestive system consists of various organs that help the body break down food and absorb nutrients. Digestion usually begins in the mouth, passes through the esophagus, stomach, and intestines aided by digestive juices. Undigested waste moves to the large intestine to be eliminated from the body.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
   }
  ],
  "knowledge": [
@@ -3931,6 +3978,46 @@
     "rwanda",
     "umusaruro",
     "production"
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_b11f970b",
+   "category": "science",
+   "title_rw": "Ihindagurika ry'ibinyabutabire",
+   "title_en": "Chemical reactions",
+   "summary_rw": "Ihindagurika ry'ibinyabutabire ni igikorwa aho ibintu by'ibanze bihinduka bikavamo ibindi bishya. Muri ubu buryo, imitergetse y'ubutabire y'ibintu irahinduka. Ingano y'uburemere bw'ibintu ntihinduka mu gihe cy'ihindagurika. Ingero zirimo gutwika no guhinduka kw'ibyuma.",
+   "summary_en": "A chemical reaction is a process where starting substances are transformed into new ones. During this process, the chemical structures of the substances change. The total mass of the substances generally remains constant. Examples include burning and rusting.",
+   "keywords": [
+    "ibinyabutabire",
+    "ihindagurika",
+    "ubutabire",
+    "uburemere",
+    "chemical",
+    "reactions",
+    "substances",
+    "transformation"
+   ],
+   "auto": true,
+   "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_188b94b3",
+   "category": "science",
+   "title_rw": "Sisitemu y'igogora mu mubiri w'umuntu",
+   "title_en": "Human digestive system",
+   "summary_rw": "Sisitemu y'igogora igizwe n'ingingo zitandukanye zifasha umubiri gusenya ibiryo no kubivanamo intungamubiri. Ibyo biryo bitangira gusya mu kanwa, bikanyura mu muhogo, bigakomereza mu nda n'amara aho bifashwa n'ibinya bitandukanye. Ibidasohowe mu mubiri bisigaramo bijya mu mara manini kugira ngo bisohoke.",
+   "summary_en": "The human digestive system consists of various organs that help the body break down food and absorb nutrients. Digestion usually begins in the mouth, passes through the esophagus, stomach, and intestines aided by digestive juices. Undigested waste moves to the large intestine to be eliminated from the body.",
+   "keywords": [
+    "igogora",
+    "digestion",
+    "inda",
+    "stomach",
+    "amara",
+    "intestines",
+    "intungamubiri",
+    "nutrients"
    ],
    "auto": true,
    "taught": "2026-11-13"
