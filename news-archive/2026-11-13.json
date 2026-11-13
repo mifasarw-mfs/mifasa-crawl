@@ -1,6 +1,6 @@
 {
  "day": "2026-11-13",
- "count": 140,
+ "count": 141,
  "articles": [
   {
    "id": "crawl_1umgww2",
@@ -228,6 +228,26 @@
    "title_rw": "Isobanuye mu kinyaarwnda:Lexnour - God I need you •#agasobanuye #mifasa #mifasarw #m",
    "summary_rw": "This song is released by Lexnour on his YouTube channel, I get it to explain it into kinyaarwnda God i need you Mana ndagukeneye Yasobanuwe mu kinyarwanda na MIFASA Mizero Fabrice Samuel #ikinyarwanda #mifasa #mifasarw #mifasasimufasa #rocky #gaheza #ubushakashatsibwamifasa #agasobanuyegashya2026",
    "share_id": "MN202611_ildlqvdqk5"
+  },
+  {
+   "id": "crawl_sqa9ue",
+   "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+   "summary": "A cargo ship has collided with a docked cruise ship in New Orleans, with reports suggesting more than 120 people were on board the cruise ship.",
+   "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T21:15:24.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/880d/live/7334ea60-dfad-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/880d/live/7334ea60-dfad-11f1-b441-2b33b063138f.jpg",
+   "title_en": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+   "summary_en": "A cargo ship has collided with a docked cruise ship in New Orleans, with reports suggesting more than 120 people were on board the cruise ship.",
+   "share_id": "MN202611_sqa9ue6wxg"
   },
   {
    "id": "crawl_1ps7vu",
@@ -2991,5 +3011,5 @@
    "share_id": "MN202611_cgwh2gfix2"
   }
  ],
- "updated": "2026-11-13T23:13:35.291Z"
+ "updated": "2026-11-13T23:51:09.854Z"
 }
