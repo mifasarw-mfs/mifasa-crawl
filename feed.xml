@@ -5,8 +5,17 @@
     <link>https://mifasarw.neocities.org/</link>
     <description>Inkuru zigezweho mu Rwanda no ku Isi, na Video za MIFASARW.</description>
     <language>rw</language>
-    <lastBuildDate>Fri, 13 Nov 2026 13:24:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 14:02:32 GMT</lastBuildDate>
     <atom:link href="https://mifasarw.neocities.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Are you affected by the Microsoft outage?</title>
+      <link>https://mifasarw.neocities.org/s/MN202611_ecez6xbm9z.html</link>
+      <guid isPermaLink="true">https://mifasarw.neocities.org/s/MN202611_ecez6xbm9z.html</guid>
+      <pubDate>Fri, 13 Nov 2026 14:02:32 GMT</pubDate>
+      <category>health</category>
+      <description>A Microsoft outage has affected services including Teams, Outlook and AI software Copilot. (Source: BBC Health)</description>
+      <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b52c/live/bca55cf0-df69-11f1-93e1-3b657b665bcf.jpg"/>
+    </item>
     <item>
       <title>'It's been amazing' - Owain Wyn Evans completes four-nation Children in Need ride</title>
       <link>https://mifasarw.neocities.org/s/MN202611_3nd7ce63t8.html</link>
@@ -23,7 +32,7 @@
       <pubDate>Fri, 13 Nov 2026 13:23:38 GMT</pubDate>
       <category>news</category>
       <description>Umunyamabanga Mukuru w’Umuryango Mpuzamahanga w’Ibihugu bikoresha Igifaransa (OIF), Louise Mushikiwabo, yavuze ko Francophonie ari urubuga rukomeye ruhuza abantu n’ibihugu bifite amateka n’imico (…) (Isoko: Kigali Today)</description>
-      <media:thumbnail url="https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-13_at_10.36_38_1_.jpg"/>
+      <media:thumbnail url="https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-13_at_10.36_40_1_.jpg"/>
     </item>
     <item>
       <title>AMAKURU YIRIWE AVUGWA HIRYA NO HINO || TARIKI 13 UGUSHYINGO 2026</title>
@@ -149,7 +158,7 @@
       <pubDate>Fri, 13 Nov 2026 11:38:54 GMT</pubDate>
       <category>entertainment</category>
       <description>The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews. (Source: BBC Entertainment)</description>
-      <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b59/live/d91bb2b0-df43-11f1-a48c-75dd2efdacb5.jpg"/>
+      <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09dd/live/69ef2110-df6b-11f1-93e1-3b657b665bcf.jpg"/>
     </item>
     <item>
       <title>Nigerian university in mourning after four students die at post-exam party</title>
@@ -400,7 +409,7 @@
       <pubDate>Fri, 13 Nov 2026 08:53:48 GMT</pubDate>
       <category>news</category>
       <description>Perezida wa Repubulika y’u Rwanda, Paul Kagame, ari kumwe na Madamu Jeannette Kagame, bakiriwe ku mugaragaro n’Umwami wa Cambodia, Norodom Sihamoni, mu muhango wo kubakira ku rwego rw’Igihugu (…) (Isoko: Kigali Today)</description>
-      <media:thumbnail url="https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-13_at_10.00_02_1_.jpg"/>
+      <media:thumbnail url="https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-13_at_10.00_03_1_.jpg"/>
     </item>
     <item>
       <title>Yee Fanta - Abagome (Music Video)</title>
@@ -536,15 +545,6 @@
       <category>tech</category>
       <description>Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by &quot;connectivity problems&quot;. (Source: BBC Technology)</description>
       <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf55/live/6c53e480-df49-11f1-b441-2b33b063138f.jpg"/>
-    </item>
-    <item>
-      <title>FDLR we! Rekura abantu bacu waheranye muri Congo, turabashaka ari bataraga</title>
-      <link>https://mifasarw.neocities.org/s/MN202611_lpeuv771lt.html</link>
-      <guid isPermaLink="true">https://mifasarw.neocities.org/s/MN202611_lpeuv771lt.html</guid>
-      <pubDate>Fri, 13 Nov 2026 07:17:42 GMT</pubDate>
-      <category>news</category>
-      <description>Kuri uyu wa 12 Ugushyingo 2026, ku mupaka wa Rusizi ya mbere uhuza u Rwanda na Repubulika Iharanira Demukarasi ya Congo mu Karere ka Rusizi, hakiriwe Abanyarwanda 136, bari barahungiye mu Ntara ya (…) (Isoko: Kigali Today)</description>
-      <media:thumbnail url="https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-12_at_14.01_17_1_.jpg"/>
     </item>
   </channel>
 </rss>
