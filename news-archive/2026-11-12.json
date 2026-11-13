@@ -1,7 +1,47 @@
 {
  "day": "2026-11-12",
- "count": 126,
+ "count": 128,
  "articles": [
+  {
+   "id": "crawl_qwucok",
+   "title": "Football Daily",
+   "summary": "Harry Kane becomes the most-capped England men's player in history.",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pmqwrn?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/p0pmqwrn?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T23:37:00.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg",
+   "title_en": "Football Daily",
+   "summary_en": "Harry Kane becomes the most-capped England men's player in history.",
+   "share_id": "MN202611_qwucoknh76"
+  },
+  {
+   "id": "crawl_1p7udv",
+   "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+   "summary": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.",
+   "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T23:34:05.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
+   "title_en": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+   "summary_en": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.",
+   "share_id": "MN202611_1p7udv4stt"
+  },
   {
    "id": "crawl_13t1k6x",
    "title": "Rwanda’s Premier Conservation Agriculture Institute Builds Partnership with Renowned American Fellow",
@@ -2696,5 +2736,5 @@
    "share_id": "MN202611_1qpleoceb56"
   }
  ],
- "updated": "2026-11-12T23:34:59.844Z"
+ "updated": "2026-11-13T00:19:02.863Z"
 }
