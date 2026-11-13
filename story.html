@@ -1,0 +1,1057 @@
+<!DOCTYPE html>
+<html lang="rw">
+<head>
+    <meta charset="UTF-8">
+
+    <!-- =====================================================
+         MIFASARW STORY ENGINE — PRODUCTION READY
+         Engine Powered by MIFASA SYSTEMS 4
+    ====================================================== -->
+
+    <title id="pageTitle">MIFASARW | Inkuru Yose Irambuye</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="description" id="metaDescription" content="Soma inkuru zigezweho mu Rwanda no ku Isi kuri MIFASARW.">
+    <meta name="author" content="MIFASA Mizero Fabrice Samuel">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="theme-color" content="#e63946">
+    <meta name="application-name" content="MIFASARW">
+
+    <!-- FAVICON -->
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png?v=2">
+    <link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png">
+    <link rel="shortcut icon" href="/favicon.png?v=2">
+    <link rel="apple-touch-icon" sizes="192x192" href="/icon-192.png">
+    <link rel="manifest" href="/manifest.json">
+
+    <!-- CANONICAL -->
+    <link rel="canonical" id="canonicalUrl" href="https://mifasarw.neocities.org/story.html">
+
+    <!-- OPEN GRAPH -->
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="MIFASARW">
+    <meta property="og:title" id="ogTitle" content="MIFASARW | Inkuru Yose Irambuye">
+    <meta property="og:description" id="ogDescription" content="Soma inkuru zigezweho mu Rwanda no ku Isi kuri MIFASARW.">
+    <meta property="og:image" id="ogImage" content="https://mifasarw.neocities.org/og-default.jpg">
+    <meta property="og:url" id="ogUrl" content="https://mifasarw.neocities.org/story.html">
+    <script>
+    /* Canonical ihita ishyirwa mbere y'ibindi byose (nta gutegereza inkuru): story.html?news=ID -> s/ID.html */
+    (function(){try{var q=new URLSearchParams(location.search),id=q.get("news")||q.get("id")||"";
+    if(/^[A-Za-z0-9_.-]{3,120}$/.test(id)&&id[0]!=="."){var u="https://mifasarw.neocities.org/s/"+encodeURIComponent(id)+".html";
+    document.getElementById("canonicalUrl").href=u;document.getElementById("ogUrl").content=u}}catch(e){}})();
+    </script>
+    <meta property="og:locale" id="ogLocale" content="rw_RW">
+    <meta property="og:locale:alternate" content="en_US">
+
+    <!-- TWITTER / X -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" id="twTitle" content="MIFASARW | Inkuru Yose Irambuye">
+    <meta name="twitter:description" id="twDescription" content="Soma inkuru zigezweho mu Rwanda no ku Isi kuri MIFASARW.">
+    <meta name="twitter:image" id="twImage" content="https://mifasarw.neocities.org/og-default.jpg">
+
+    <!-- FONTS -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <!-- STRUCTURED DATA -->
+    <script type="application/ld+json" id="articleSchema">
+    {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "MIFASARW | Inkuru Yose Irambuye",
+        "description": "Soma inkuru zigezweho mu Rwanda no ku Isi kuri MIFASARW.",
+        "author": {
+            "@type": "Person",
+            "name": "MIFASA Mizero Fabrice Samuel"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "MIFASARW",
+            "url": "https://mifasarw.neocities.org"
+        },
+        "image": [
+            "https://mifasarw.neocities.org/favicon.png"
+        ]
+    }
+    </script>
+
+    <!-- CSS STYLES -->
+    <style>
+        :root {
+            --primary: #e63946;
+            --bg: #f5f5f5;
+            --card: #ffffff;
+            --text: #222222;
+            --muted: #666666;
+            --border: #dddddd;
+            --header: #111111;
+            --shadow: 0 5px 18px rgba(0,0,0,.08);
+        }
+
+        * { box-sizing: border-box; }
+        html { scroll-behavior: smooth; }
+
+        body {
+            margin: 0;
+            font-family: 'Poppins', Arial, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            transition: background .25s ease, color .25s ease;
+        }
+
+        body.dark-mode {
+            --bg: #101010;
+            --card: #1b1b1b;
+            --text: #eeeeee;
+            --muted: #bbbbbb;
+            --border: #3a3a3a;
+            --header: #090909;
+            --shadow: 0 5px 20px rgba(0,0,0,.35);
+        }
+
+        /* Themes */
+        body.gold { --primary: #d4af37; }
+        body.ocean { --primary: #0077b6; }
+        body.neon { --primary: #00f5d4; }
+        body.forest { --primary: #2a9d8f; }
+        body.cyberpunk { --primary: #ff007f; }
+        body.grow { --primary: #32cd32; }
+        body.shine { --primary: #9acd32; }
+        body.rainbow { --primary: #ff69b4; }
+        body.sunset { --primary: #ff7e5f; }
+        body.pastel { --primary: #ff8fa3; }
+
+        header {
+            background: var(--header);
+            color: #fff;
+            padding: 85px 20px 30px;
+            text-align: center;
+            position: relative;
+        }
+
+        header h1 {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin: 0;
+            font-size: clamp(22px, 5vw, 36px);
+            line-height: 1.25;
+        }
+
+        .brand-logo { display: inline-flex; flex: 0 0 auto; }
+        .brand-logo img { width: 40px; height: 40px; border-radius: 10px; object-fit: contain; background: #fff; box-shadow: 0 1px 6px #0004; }
+
+        .top-bar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 10px;
+            position: absolute;
+            top: 15px;
+            left: 18px;
+            right: 18px;
+        }
+
+        .top-bar-right {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        select, button { font: inherit; }
+
+        .top-bar select, #darkModeToggle {
+            padding: 7px 12px;
+            border: 0;
+            border-radius: 7px;
+            font-weight: 600;
+            cursor: pointer;
+        }
+
+        .top-bar select {
+            background: var(--primary);
+            color: #fff;
+        }
+
+        #darkModeToggle {
+            background: #333;
+            color: #fff;
+        }
+
+        .container {
+            width: min(920px, calc(100% - 24px));
+            margin: 22px auto;
+            padding: clamp(16px, 4vw, 28px);
+            background: var(--card);
+            border-radius: 14px;
+            box-shadow: var(--shadow);
+        }
+
+        .badge {
+            display: inline-block;
+            background: var(--primary);
+            color: #fff;
+            padding: 5px 12px;
+            margin-bottom: 14px;
+            border-radius: 6px;
+            font-size: 12px;
+            font-weight: 700;
+            text-transform: uppercase;
+        }
+
+        #storyTitle {
+            margin: 0 0 18px;
+            color: var(--primary);
+            font-size: clamp(24px, 5vw, 38px);
+            line-height: 1.25;
+        }
+
+        #storyImage {
+            width: 100%;
+            height: auto;
+            max-height: 550px;
+            object-fit: cover;
+            display: block;
+            border-radius: 12px;
+            background: #ddd;
+            margin: 0 0 20px;
+        }
+
+        #storySummary {
+            margin: 0 0 20px;
+            font-size: 17px;
+            line-height: 1.75;
+            font-weight: 600;
+        }
+
+        #fullContent {
+            font-size: 16px;
+            line-height: 1.9;
+            white-space: pre-wrap;
+            overflow-wrap: anywhere;
+            word-break: break-word;
+        }
+
+        .story-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            margin-top: 28px;
+            padding-top: 16px;
+            border-top: 1px solid var(--border);
+            color: var(--muted);
+            font-size: 14px;
+        }
+
+        .story-actions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 20px;
+        }
+
+        .action-btn {
+            border: 0;
+            border-radius: 22px;
+            padding: 9px 18px;
+            background: #1a73e8;
+            color: #fff;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform .15s ease;
+        }
+
+        .action-btn:hover { transform: translateY(-1px); }
+        a.action-btn { display: inline-block; text-decoration: none; }
+        .action-btn.secondary { background: #444; }
+
+        #storyShare {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 12px;
+            margin-top: 22px;
+            color: var(--muted);
+        }
+
+        #storyShare a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 700;
+        }
+
+        .loading {
+            padding: 50px 20px;
+            text-align: center;
+            font-weight: 600;
+        }
+
+        .error-box {
+            padding: 40px 15px;
+            text-align: center;
+        }
+
+        .error-box h2 { color: var(--primary); }
+
+        footer {
+            margin-top: 40px;
+            padding: 24px 15px;
+            background: var(--header);
+            color: #fff;
+            text-align: center;
+        }
+
+        #relatedBox {
+            margin-top: 32px;
+            padding-top: 18px;
+            border-top: 1px solid var(--border);
+        }
+        #relatedBox h3 { margin: 0 0 12px; color: var(--primary); }
+        .related-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+            gap: 12px;
+        }
+        .related-card {
+            display: block;
+            background: var(--bg);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            overflow: hidden;
+            text-decoration: none;
+            color: var(--text);
+            transition: transform .15s ease;
+        }
+        .related-card:hover { transform: translateY(-2px); }
+        .related-card img { width: 100%; height: 110px; object-fit: cover; display: block; background: #ddd; }
+        .related-card span { display: block; padding: 8px 10px; font-size: 13px; font-weight: 600; line-height: 1.4; }
+
+        @media (max-width: 620px) {
+            header { padding-top: 110px; }
+            .top-bar { align-items: flex-start; }
+            .top-bar-right { flex-direction: column; align-items: flex-end; }
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <div class="top-bar">
+        <select id="themeSelect">
+            <option value="mifasastyle">Default</option>
+            <option value="gold">Gold</option>
+            <option value="grow">Grow</option>
+            <option value="shine">Shine</option>
+            <option value="ocean">Ocean</option>
+            <option value="neon">Neon</option>
+            <option value="rainbow">Rainbow</option>
+            <option value="forest">Forest</option>
+            <option value="sunset">Sunset</option>
+            <option value="pastel">Pastel</option>
+            <option value="cyberpunk">Cyberpunk</option>
+        </select>
+
+        <div class="top-bar-right">
+            <select id="langSelect">
+                <option value="rw">Kinyarwanda</option>
+                <option value="en">English</option>
+            </select>
+
+            <button id="darkModeToggle" type="button">🌙 Umwijima</button>
+        </div>
+    </div>
+
+    <h1><a class="brand-logo" href="index.html" aria-label="MIFASARW"><img src="/favicon.png" width="40" height="40" alt="MIFASARW" decoding="async" fetchpriority="high"></a><a id="headerTitle" href="index.html" style="color:inherit;text-decoration:none;">MIFASARW | Inkuru Yose</a></h1>
+</header>
+
+<main class="container" id="mainContainer">
+    <div class="loading" id="loadingText">Tegereza gato / Loading story...</div>
+
+    <article id="contentWrapper" style="display:none;">
+        <span id="storyBadge" class="badge"></span>
+        <h2 id="storyTitle"></h2>
+        <div id="storyVideo" style="display:none;"></div>
+        <img id="storyImage" src="/favicon.png" alt="MIFASARW" loading="eager">
+        <p id="storySummary"></p>
+        <div id="fullContent"></div>
+
+        <div class="story-meta">
+            <strong id="labelPublished">Itangazwa:</strong>
+            <time id="storyDate"></time>
+        </div>
+
+        <div class="story-actions">
+            <button id="watchButton" class="action-btn" type="button" style="display:none;background:#e63946;">▶ Reba</button>
+            <button id="audioButton" class="action-btn" type="button">🔊 Umva Inkuru</button>
+            <button id="copyLinkButton" class="action-btn secondary" type="button">🔗 Kopi Link</button>
+            <a id="askAIButton" class="action-btn secondary" href="index.html">🤖 Mbaza MIFASA AI</a>
+            <a id="sourceButton" class="action-btn" href="#" target="_blank" rel="noopener" style="display:none;"></a>
+        </div>
+
+        <div id="storyShare"></div>
+
+        <div id="relatedBox" style="display:none;"></div>
+    </article>
+</main>
+
+<footer>
+    © 2026 MIFASARW | Powered by MIFASA Engine
+</footer>
+
+<script>
+(function () {
+"use strict";
+
+/* ============================================================
+   MIFASARW STORY ENGINE
+   Ibyongewe: gushaka inkuru vuba (kopi iri ku gikoresho + dosiye nyinshi icyarimwe),
+   kuyibona no mu ma-slug y'imitwe, SEO nyayo kuri buri nkuru,
+   inkuru zifitanye isano (zikoresha MIFASA AI), n'amabara/umwijima bikurikira umuntu.
+   ============================================================ */
+
+/* Global Configuration */
+const SITE_URL = "https://mifasarw.neocities.org";
+const DEFAULT_IMAGE = `${SITE_URL}/favicon.png`;
+let currentStory = null;
+/* Ururimi rwa mbere: iyo umuntu ataraduhitiramo (nta siteLang), tuzikura kuri telefone ye.
+   Kinyarwanda (rw/kin) cyangwa ari muri Kigali (isaha Africa/Kigali) -> rw, ibindi byose -> en. Icyo yahisemo ubwe gihora imbere. */
+function mifasaDetectLang() {
+  try {
+    var saved = localStorage.getItem("siteLang");
+    if (saved === "en" || saved === "rw") return saved;
+  } catch (e) {}
+  try {
+    var langs = (navigator.languages && navigator.languages.length ? navigator.languages : [navigator.language || ""]).map(function (l) { return String(l).toLowerCase(); });
+    if (langs.some(function (l) { return /^(rw|kin)(-|$)/.test(l); })) return "rw";
+    var tz = ""; try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone || ""; } catch (e) {}
+    if (tz === "Africa/Kigali") return "rw";
+    return "en";
+  } catch (e) { return "rw"; }
+}
+let currentLang = mifasaDetectLang();
+let relatedItems = [];
+
+const $ = id => document.getElementById(id);
+const esc = s => String(s == null ? "" : s).replace(/[&<>"']/g, c =>
+    ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
+/* ID ya visitor: ni yo ibika ibara, umwijima n'ururimi ku mapaji yose y'urubuga */
+function visitorId() {
+    let v = "";
+    try {
+        v = localStorage.getItem("mifasa_visitor_id") || "";
+        if (!v) {
+            const raw = window.screen.width + navigator.language + navigator.userAgent;
+            let h = 5381;
+            for (let i = 0; i < raw.length; i++) h = ((h << 5) + h + raw.charCodeAt(i)) >>> 0;
+            v = "MFS-" + h.toString(16).toUpperCase().padStart(8, "0");
+            localStorage.setItem("mifasa_visitor_id", v);
+        }
+    } catch (e) {}
+    return v;
+}
+const VID = visitorId();
+const getPref = k => { try { return localStorage.getItem(k + "_" + VID); } catch (e) { return null; } };
+const setPref = (k, v) => { try { localStorage.setItem(k + "_" + VID, v); } catch (e) {} };
+
+/* DOSIYE ZOSE Z'URUBUGA (ai.json ntirimo: ni ubwenge bwa MIFASA AI, si inkuru) */
+const MIFASA_JSON_FILES = [
+  "crawl-news.json","techresearch.json","Gsrwimiyaga.json","techmfs.json","mifasa_research-pys.json","Pn25-09_26.json",
+  "politicsresearch2026-09-24.json","politicsresearch2026-09-24","Ent_2026-09-24.json","politics_2026-09-24.json",
+  "27aug2026sports.json","googlerecovery.json","history2.json",
+  "mifasa_research_psychology.json","politics_2026-08-10.json","data.json",
+  "web.json","users2.json","politics.json","sports.json","education.json",
+  "trending.json","research.json","trendnow.json","aichat.json",
+  "eastafrica.json","rwatech.json","users.json","mifasarwphysicsstudy.json",
+  "mifasarwhistorystudy.json","mifasarwgeographystudy.json","mifasarwourworld.json",
+  "history.json","health.json","technology.json","psychology.json",
+  "mfs1.json","mfs2.json","mfs3.json","mfs4.json","mfs5.json",
+  "mfs6.json","mfs7.json","mfs8.json","mfs9.json","mfs10.json",
+  "mfs11.json","mfs12.json","mfs13.json","mfs14.json","mfs15.json",
+  "mfs16.json","mfs17.json","mfs18.json"
+];
+
+const MANIFEST_FILES = ["json-manifest.json", "data-manifest.json"];   // manifest.json is the PWA manifest, not a data list
+const isBrainFile = f => /^ai(\.json)?$/i.test(String(f).split("/").pop());
+
+/* UI Labels */
+const uiLabels = {
+    rw: {
+        header: "MIFASARW | Inkuru Yose",
+        published: "Itangazwa:",
+        share: "Sangiza iyi nkuru:",
+        notFound: "Inkuru ntibonetse. Reba niba Link yawe ari yo.",
+        listen: "Umva Inkuru",
+        stop: "Hagarika",
+        copy: "Kopi Link",
+        copied: "Link yakopiwemo!",
+        ask: "Mbaza MIFASA AI",
+        related: "Inkuru zifitanye isano",
+        home: "← Subira kuri MIFASARW",
+        watch: "▶ Reba",
+        source: "Soma inkuru yose ku isoko"
+    },
+    en: {
+        header: "MIFASARW | Full Story",
+        published: "Published on:",
+        share: "Share this story:",
+        notFound: "Story not found. Please check your link.",
+        listen: "Listen to Story",
+        stop: "Stop",
+        copy: "Copy Link",
+        copied: "Link copied!",
+        ask: "Ask MIFASA AI",
+        related: "Related stories",
+        home: "← Back to MIFASARW",
+        watch: "▶ Watch",
+        source: "Read the full story at the source"
+    }
+};
+
+/* Helper Functions */
+function getQueryParam(name) {
+    const params = new URLSearchParams(window.location.search);
+    const val = params.get(name);
+    return val ? val.trim() : null;   // URLSearchParams already decodes; decoding twice broke ids with %
+}
+
+function safeText(val, fallback = "") {
+    return (val !== null && val !== undefined) ? String(val) : fallback;
+}
+
+function normalizeUrl(url) {
+    if (!url) return DEFAULT_IMAGE;
+    const str = String(url).trim();
+    if (str.startsWith("http://") || str.startsWith("https://") || str.startsWith("data:")) return str;
+    return `${SITE_URL}/${str.replace(/^\/+/, "")}`;
+}
+
+/* Ni yo mikorere ya script.js ikora "slug" y'umutwe: ikoreshwa iyo inkuru idafite id */
+function generateSlug(text) {
+    return String(text)
+        .toLowerCase()
+        .trim()
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .replace(/[^a-z0-9\s-]/g, "")
+        .replace(/\s+/g, "-")
+        .replace(/-+/g, "-");
+}
+
+/* Match ID intelligently across formats (ubu hari n'slug y'umutwe) */
+function matchId(item, targetId) {
+    if (!item || typeof item !== "object") return false;
+    const target = String(targetId).trim().toLowerCase();
+
+    const possibleIds = [
+        item.share_id,
+        item.id,
+        item.news_id,
+        item.slug
+    ].filter(v => v !== null && v !== undefined).map(v => String(v).trim().toLowerCase());
+
+    if (possibleIds.includes(target)) return true;
+
+    const t = item.title_rw || item.title_en || item.title;
+    return typeof t === "string" && t.trim() !== "" && generateSlug(t) === target;
+}
+
+/* Extract item recursively */
+function findStoryInData(obj, targetId, depth = 0) {
+    if (!obj || depth > 14) return null;
+
+    if (Array.isArray(obj)) {
+        for (const item of obj) {
+            const found = findStoryInData(item, targetId, depth + 1);
+            if (found) return found;
+        }
+    } else if (typeof obj === "object") {
+        if (matchId(obj, targetId)) return obj;
+
+        for (const key in obj) {
+            if (obj[key] && typeof obj[key] === "object") {
+                const found = findStoryInData(obj[key], targetId, depth + 1);
+                if (found) return found;
+            }
+        }
+    }
+    return null;
+}
+
+async function fetchJSON(file) {
+    try {
+        const res = await fetch(file, { cache: "no-cache" });
+        if (!res.ok) return null;
+        return await res.json();
+    } catch (e) {
+        return null;
+    }
+}
+
+/* Kopi MIFASA AI yabitse ku gikoresho (IndexedDB): inkuru igaragara ako kanya, nta kuvugana na server.
+   Ikoreshwa gusa iyo kopi itarengeje amasaha 6; ubundi dusubira kuri server. */
+function findInCache(id) {
+    return new Promise(resolve => {
+        try {
+            if (typeof indexedDB === "undefined") return resolve(null);
+            const req = indexedDB.open("mifasa_cache_v5", 1);
+            req.onupgradeneeded = () => req.result.createObjectStore("files");   // nk'uko script.js ibikora
+            req.onerror = () => resolve(null);
+            req.onblocked = () => resolve(null);
+            req.onsuccess = () => {
+                const db = req.result;
+                const done = v => { try { db.close(); } catch (e) {} resolve(v); };
+                try {
+                    const cur = db.transaction("files", "readonly").objectStore("files").openCursor();
+                    const MAX_AGE = 6 * 60 * 60 * 1000;
+                    cur.onsuccess = e => {
+                        const c = e.target.result;
+                        if (!c) return done(null);
+                        const rec = c.value;
+                        if (!isBrainFile(c.key) && rec && rec.data && Date.now() - (rec.time || 0) < MAX_AGE) {
+                            const s = findStoryInData(rec.data, id);
+                            if (s) return done(s);
+                        }
+                        c.continue();
+                    };
+                    cur.onerror = () => done(null);
+                } catch (e) { done(null); }
+            };
+        } catch (e) { resolve(null); }
+    });
+}
+
+/* Discover files dynamically from manifests */
+async function discoverManifestFiles() {
+    const lists = await Promise.all(MANIFEST_FILES.map(m => fetchJSON(m)));
+    const extra = [];
+    lists.forEach(data => {
+        if (!data) return;
+        const list = Array.isArray(data) ? data : (data.json_files || data.files || []);
+        if (Array.isArray(list)) {
+            list.forEach(f => { if (typeof f === "string" && f.endsWith(".json")) extra.push(f); });
+        }
+    });
+    return extra;
+}
+
+/* Gushakira mu madosiye 6 icyarimwe (aho kuyasoma imwe ku yindi) */
+async function findInFiles(files, id) {
+    let found = null, next = 0;
+    const worker = async () => {
+        while (!found && next < files.length) {
+            const file = files[next++];
+            const data = await fetchJSON(file);
+            if (!found) {
+                const s = findStoryInData(data, id);
+                if (s) { found = s; console.log(`✓ Story found in: ${file}`); }
+            }
+        }
+    };
+    await Promise.all(Array.from({ length: 6 }, worker));
+    return found;
+}
+
+/* Ububiko buhoraho news-archive/YYYY-MM-DD.json (+ index.json) */
+async function findInArchive(id) {
+    try {
+        const m = /^mn(\d{4})(\d{2})_/i.exec(String(id));
+        const idx = await fetchJSON("news-archive/index.json");
+        const days = new Set();
+        const walk = (o, d) => {
+            if (!o || d > 6) return;
+            if (typeof o === "string") { const k = /(\d{4}-\d{2}-\d{2})/.exec(o); if (k) days.add(k[1]); }
+            else if (Array.isArray(o)) o.forEach(x => walk(x, d + 1));
+            else if (typeof o === "object") for (const key in o) { walk(key, d + 1); walk(o[key], d + 1); }
+        };
+        walk(idx, 0);
+        let list = [...days].sort().reverse();
+        if (m) { const ym = `${m[1]}-${m[2]}`; list = list.filter(x => x.startsWith(ym)); }
+        const files = list.slice(0, 45).map(x => `news-archive/${x}.json`);
+        return files.length ? await findInFiles(files, id) : null;
+    } catch (e) { return null; }
+}
+
+/* Main Story Loader */
+async function loadStory() {
+    const id = getQueryParam("news") || getQueryParam("id");
+    const cat = getQueryParam("cat");
+    const lang = getQueryParam("lang");
+
+    if (lang && uiLabels[lang]) {
+        currentLang = lang;
+        localStorage.setItem("siteLang", currentLang);
+        const sel = $("langSelect");
+        if (sel) sel.value = currentLang;
+    }
+
+    if (!id) {
+        showError(uiLabels[currentLang].notFound);
+        return;
+    }
+
+    // 0. Kopi iri ku gikoresho: ako kanya
+    let story = await findInCache(id);
+
+    // 1. Try Category File directly if specified
+    if (!story && cat && !isBrainFile(cat)) {
+        const catFile = cat.endsWith(".json") ? cat : `${cat}.json`;
+        const catData = await fetchJSON(catFile);
+        story = findStoryInData(catData, id);
+    }
+
+    // 2. If not found, scan ALL Registered JSONs in MIFASA Engine
+    if (!story) {
+        const manifestDiscovered = await discoverManifestFiles();
+        const allFilesToSearch = [...new Set([
+            ...MIFASA_JSON_FILES,
+            ...manifestDiscovered
+        ])].filter(f => !isBrainFile(f));
+
+        story = await findInFiles(allFilesToSearch, id);
+    }
+
+    // 3. Inkuru ya kera (irengeje iminsi 60): shakira mu bubiko buhoraho news-archive/ (share_id "MN202611_..." ivuga ukwezi)
+    if (!story) story = await findInArchive(id);
+
+    if (story) {
+        currentStory = story;
+        updateUI();
+        loadRelated();
+    } else {
+        showError(uiLabels[currentLang].notFound);
+    }
+}
+
+/* Render Data to DOM */
+function updateUI() {
+    if (!currentStory) return;
+
+    document.documentElement.lang = currentLang;
+    const labels = uiLabels[currentLang];
+
+    $("headerTitle").textContent = labels.header;
+    $("labelPublished").textContent = labels.published;
+    $("copyLinkButton").textContent = `🔗 ${labels.copy}`;
+    if (!(window.speechSynthesis && window.speechSynthesis.speaking)) {
+        $("audioButton").textContent = `🔊 ${labels.listen}`;
+    }
+
+    const title = safeText(
+        currentStory[`title_${currentLang}`],
+        safeText(currentStory.title_rw || currentStory.title || currentStory.name, "MIFASARW")
+    );
+
+    const summary = safeText(
+        currentStory[`summary_${currentLang}`],
+        safeText(currentStory.summary_rw || currentStory.summary || currentStory.desc, "")
+    );
+
+    const content = safeText(
+        currentStory[`full_content_${currentLang}`],
+        safeText(
+            currentStory[`content_${currentLang}`],
+            safeText(currentStory.full_content_rw || currentStory.content, summary)
+        )
+    );
+
+    const image = normalizeUrl(currentStory.image || currentStory.thumbnail || currentStory.featured_image);
+
+    $("storyTitle").textContent = title;
+    $("storySummary").textContent = summary;
+    $("fullContent").textContent = content;
+
+    const imgEl = $("storyImage");
+    imgEl.src = image;
+    imgEl.onerror = function() { if (this.src !== DEFAULT_IMAGE) this.src = DEFAULT_IMAGE; };
+
+    // Inkuru ni video (YouTube)? Erekana player muri story, ukande ▶ cyangwa "Reba" ikinikira aho
+    const vidId = (function (s) {
+        const ok = /^[\w-]{11}$/;
+        if (s.video && ok.test(String(s.video.id || ""))) return s.video.id;
+        const m = /(?:youtu\.be\/|[?&]v=|embed\/)([\w-]{11})/.exec(String(s.link || s.url || ""));
+        return m ? m[1] : "";
+    })(currentStory);
+    const vBox = $("storyVideo"), watchBtn = $("watchButton");
+    if (vidId && vBox) {
+        const playVideo = () => {
+            vBox.innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${vidId}?autoplay=1&rel=0&playsinline=1" title="YouTube video" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin" style="width:100%;aspect-ratio:16/9;border:0;border-radius:10px;display:block;background:#000;"></iframe>`;
+            vBox.style.cursor = "default";
+            vBox.scrollIntoView({ behavior: "smooth", block: "center" });
+        };
+        const thumb = image && image !== DEFAULT_IMAGE ? image : `https://i.ytimg.com/vi/${vidId}/hqdefault.jpg`;
+        vBox.innerHTML = `<div role="button" tabindex="0" aria-label="Play video" style="position:relative;cursor:pointer;"><img src="${esc(thumb)}" alt="" referrerpolicy="no-referrer" style="width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:10px;display:block;" onerror="this.src='https://i.ytimg.com/vi/${vidId}/hqdefault.jpg'"><span style="position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:64px;color:#fff;text-shadow:0 2px 14px #000b;pointer-events:none;">▶</span></div>`;
+        const trig = vBox.firstElementChild;
+        trig.onclick = playVideo;
+        trig.onkeydown = e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); playVideo(); } };
+        vBox.style.display = "block"; vBox.style.margin = "0 0 14px";
+        imgEl.style.display = "none";
+        if (watchBtn) { watchBtn.textContent = labels.watch; watchBtn.style.display = ""; watchBtn.onclick = playVideo; }
+    } else {
+        if (vBox) vBox.style.display = "none";
+        imgEl.style.display = "";
+        if (watchBtn) watchBtn.style.display = "none";
+    }
+
+    $("storyBadge").textContent = safeText(
+        currentStory.category || currentStory.cat || currentStory.source || "MIFASA"
+    ).toUpperCase();
+
+    const dateEl = $("storyDate");
+    const pubDate = currentStory.publish || currentStory.date || currentStory.created_at;
+    let isoDate;
+    if (pubDate) {
+        const d = new Date(pubDate);
+        if (!isNaN(d.getTime())) {
+            dateEl.textContent = d.toLocaleString(currentLang === "en" ? "en-US" : "rw-RW");
+            isoDate = d.toISOString();
+        } else {
+            dateEl.textContent = pubDate;
+        }
+    } else {
+        dateEl.textContent = "";
+    }
+
+    // Share & Metadata
+    const idParam = getQueryParam("news") || getQueryParam("id") || "";
+    // Canonical = paji ihamye s/<share_id>.html (iyo make-story-pages.js ikora). Iyo itabonetse, bikoresha story.html?news=ID
+    const sid = String(currentStory.share_id || idParam || "");
+    const validSid = /^[A-Za-z0-9_.-]{3,120}$/.test(sid) && sid[0] !== ".";
+    const readerUrl = `${SITE_URL}/story.html?news=${encodeURIComponent(idParam || sid)}`;
+    const staticUrl = validSid ? `${SITE_URL}/s/${encodeURIComponent(sid)}.html` : "";
+    let canonical = staticUrl || readerUrl;
+    if (staticUrl) {   // niba paji ya s/ itarakorwa (backlog), ntukerekeze Google ku 404
+        fetch(staticUrl, { method: "HEAD", cache: "no-store" }).then(r => {
+            if (!r.ok) { $("canonicalUrl").href = readerUrl; $("ogUrl").content = readerUrl; if (window.__renderShare) window.__renderShare(readerUrl.split("#")[0]); }
+        }).catch(() => {});
+    }
+
+    document.title = `${title} | MIFASARW`;
+    $("metaDescription").content = summary;
+    $("canonicalUrl").href = canonical;
+    $("ogTitle").content = title;
+    $("ogDescription").content = summary;
+    $("ogImage").content = image;
+    $("ogUrl").content = canonical;
+    $("ogLocale").content = currentLang === "en" ? "en_US" : "rw_RW";
+    $("twTitle").content = title;
+    $("twDescription").content = summary;
+    $("twImage").content = image;
+
+    // Meta tags zisigaye z'inkuru (zihabwa bwa mbere cyangwa zivugururwa): alt, itariki, icyiciro, ijambo-shakisha
+    const setMeta = (key, value, attr) => {
+        attr = attr || "property";
+        let el = document.head.querySelector(`meta[${attr}="${key}"]`);
+        if (!value) { if (el) el.remove(); return; }
+        if (!el) { el = document.createElement("meta"); el.setAttribute(attr, key); document.head.appendChild(el); }
+        el.setAttribute("content", value);
+    };
+    const kwRaw = currentStory.seo_keywords || currentStory.keywords;
+    setMeta("keywords", Array.isArray(kwRaw) ? kwRaw.join(", ") : safeText(kwRaw, ""), "name");
+    setMeta("og:image:alt", title);
+    setMeta("twitter:image:alt", title, "name");
+    setMeta("article:published_time", isoDate || "");
+    setMeta("article:section", safeText(currentStory.category || currentStory.cat, ""));
+    setMeta("og:type", "article");
+
+    // Structured data nyayo y'iyi nkuru (kuri Google no kuri za mashini zishakisha)
+    $("articleSchema").textContent = JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": title.slice(0, 110),
+        "description": summary,
+        "image": [image],
+        "datePublished": isoDate,
+        "dateModified": isoDate,
+        "inLanguage": currentLang,
+        "mainEntityOfPage": canonical,
+        "author": { "@type": "Person", "name": "MIFASA Mizero Fabrice Samuel" },
+        "publisher": { "@type": "Organization", "name": "MIFASARW", "url": SITE_URL }
+    });
+
+    // Inkuru ziva ku yindi mbuga (crawl) zifite incamake gusa: tanga link y'isoko ngo umusomyi asome yose
+    const srcBtn = $("sourceButton"), srcLink = String(currentStory.link || currentStory.url || "");
+    if (srcBtn) {
+        const isExt = /^https?:\/\//i.test(srcLink) && !srcLink.startsWith(SITE_URL);
+        if (isExt) { srcBtn.href = srcLink; srcBtn.textContent = `📰 ${labels.source}` + (currentStory.source ? ` (${String(currentStory.source).replace(/ YouTube$/i, "")})` : ""); srcBtn.style.display = ""; }
+        else srcBtn.style.display = "none";
+    }
+
+    // Mbaza MIFASA AI kuri iyi nkuru
+    const ask = $("askAIButton");
+    ask.textContent = `🤖 ${labels.ask}`;
+    ask.href = `index.html?q=${encodeURIComponent(title)}`;
+
+    const shareEl = $("storyShare");
+    // Gusangiza: ahora hose dukoresha s/<id>.html (ifite title, ishusho n'ibindi byose byanditse muri HTML, WhatsApp/Facebook/X birabisoma).
+    // story.html?news=ID ntibishoboka ko bots zisoma (zidakoresha JS), bityo ntiyifashishwa mu gusangiza.
+    const renderShare = (base) => {
+        const storyUrl = base + (base.includes("?") ? "&" : "?") + "lang=" + currentLang;
+        window.__shareUrl = storyUrl;
+        shareEl.innerHTML = `
+        <span>${esc(labels.share)}</span>
+        <a href="https://wa.me/?text=${encodeURIComponent(title + " " + storyUrl)}" target="_blank" rel="noopener">WhatsApp</a>
+        <a href="https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(storyUrl)}" target="_blank" rel="noopener">Facebook</a>
+        <a href="https://twitter.com/intent/tweet?text=${encodeURIComponent(title)}&url=${encodeURIComponent(storyUrl)}" target="_blank" rel="noopener">X</a>
+    `;
+    };
+    window.__renderShare = renderShare;
+    renderShare(staticUrl || window.location.href.split("#")[0]);
+
+    $("loadingText").style.display = "none";
+    $("contentWrapper").style.display = "block";
+    renderRelated();
+}
+
+/* Inkuru zifitanye isano: MIFASA AI (script.js) ipakururwa nyuma y'uko inkuru igaragara, ntitinza gusoma */
+function ensureEngine(cb) {
+    if (window.MifasaAI) { cb(); return; }
+    window.MIFASA_API_ONLY = true;                 // injini ntikora ku miterere y'uru rupapuro
+    const s = document.createElement("script");
+    s.src = "script.js";
+    s.async = true;
+    s.onload = cb;
+    s.onerror = () => {};
+    document.head.appendChild(s);
+}
+
+function loadRelated() {
+    if (!currentStory) return;
+    const title = currentStory.title_rw || currentStory.title_en || currentStory.title || currentStory.name || "";
+    if (!title) return;
+    const me = (getQueryParam("news") || getQueryParam("id") || "").toLowerCase();
+    const mySlug = generateSlug(title);
+
+    const start = () => ensureEngine(() => {
+        if (!window.MifasaAI) return;
+        window.MifasaAI.whenReady(() => {
+            relatedItems = window.MifasaAI.search(title, 12)
+                .filter(a => String(a.share_id).toLowerCase() !== me && generateSlug(a.title_rw || a.title_en || "") !== mySlug)
+                .slice(0, 4);
+            renderRelated();
+        }, 15000);
+    });
+    if ("requestIdleCallback" in window) requestIdleCallback(start, { timeout: 2500 });
+    else setTimeout(start, 1200);
+}
+
+function renderRelated() {
+    const box = $("relatedBox");
+    if (!box) return;
+    if (!relatedItems.length) { box.style.display = "none"; return; }
+    box.innerHTML = `<h3>${esc(uiLabels[currentLang].related)}</h3><div class="related-grid">` +
+        relatedItems.map(a => {
+            const t = currentLang === "en" ? (a.title_en || a.title_rw) : (a.title_rw || a.title_en);
+            const href = `story.html?news=${encodeURIComponent(a.share_id || a.id || "")}&cat=${encodeURIComponent(a.category || a.source || "")}&lang=${currentLang}`;
+            return `<a class="related-card" href="${esc(/^(https?:)?\/\//i.test(a.link || "") ? href : (a.link || href))}">` +
+                `<img src="${esc(a.thumbnail || a.image)}" alt="" loading="lazy" onerror="this.style.display='none'">` +
+                `<span>${esc(t)}</span></a>`;
+        }).join("") + `</div>`;
+    box.style.display = "block";
+}
+
+function showError(msg) {
+    const container = $("mainContainer");
+    container.innerHTML = `<div class="error-box"><h2>${esc(msg)}</h2><p><a href="index.html" style="color:var(--primary);font-weight:700;text-decoration:none;">${esc(uiLabels[currentLang].home)}</a></p></div>`;
+}
+
+/* Ibara + umwijima */
+function applyTheme(theme, dark) {
+    document.body.className = [dark ? "dark-mode" : "", theme && theme !== "mifasastyle" ? theme : ""].filter(Boolean).join(" ");
+}
+function setDarkLabel(dark) {
+    const btn = $("darkModeToggle");
+    if (btn) btn.textContent = dark ? "☀ Umucyo" : "🌙 Umwijima";
+}
+
+/* Event Listeners */
+function init() {
+    // Dark Mode + Theme: bikurikira ibyo umuntu yahisemo ku zindi paji
+    const dk = getPref("darkmode");
+    const isDark = dk ? dk === "on" : localStorage.getItem("darkMode") === "true";
+    const savedTheme = getPref("theme") || "mifasastyle";
+    applyTheme(savedTheme, isDark);
+    setDarkLabel(isDark);
+
+    const themeSel = $("themeSelect");
+    if (themeSel) themeSel.value = savedTheme;
+    const langSel = $("langSelect");
+    if (langSel) langSel.value = currentLang;
+
+    $("darkModeToggle")?.addEventListener("click", () => {
+        const dark = document.body.classList.toggle("dark-mode");
+        setPref("darkmode", dark ? "on" : "off");
+        localStorage.setItem("darkMode", dark);
+        setDarkLabel(dark);
+    });
+
+    // Theme Selector
+    themeSel?.addEventListener("change", (e) => {
+        setPref("theme", e.target.value);
+        applyTheme(e.target.value, document.body.classList.contains("dark-mode"));
+    });
+
+    // Language Selector
+    langSel?.addEventListener("change", (e) => {
+        currentLang = e.target.value;
+        localStorage.setItem("siteLang", currentLang);
+        setPref("lang", currentLang);
+        updateUI();
+    });
+
+    // Audio Speech Synthesis
+    $("audioButton")?.addEventListener("click", () => {
+        if (!('speechSynthesis' in window)) return;
+        if (window.speechSynthesis.speaking) {
+            window.speechSynthesis.cancel();
+            $("audioButton").textContent = `🔊 ${uiLabels[currentLang].listen}`;
+            return;
+        }
+
+        const title = $("storyTitle").textContent;
+        const text = $("fullContent").textContent;
+        const utterance = new SpeechSynthesisUtterance(`${title}. ${text}`);
+        utterance.lang = currentLang === "en" ? "en-US" : "rw-RW";
+
+        utterance.onend = () => $("audioButton").textContent = `🔊 ${uiLabels[currentLang].listen}`;
+        window.speechSynthesis.speak(utterance);
+        $("audioButton").textContent = `⏹ ${uiLabels[currentLang].stop}`;
+    });
+
+    // Copy Link
+    $("copyLinkButton")?.addEventListener("click", async function() {
+        try {
+            await navigator.clipboard.writeText(window.__shareUrl || window.location.href);
+            const orig = this.textContent;
+            this.textContent = uiLabels[currentLang].copied;
+            setTimeout(() => { this.textContent = orig; }, 2000);
+        } catch(e) {}
+    });
+
+    loadStory();
+}
+
+if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);
+else init();
+})();
+</script>
+
+<script>
+/* favicon: re-attach once after load, so the tab icon appears even when the page was reached through the s/<id>.html redirect */
+window.addEventListener("load", function () {
+  try {
+    document.querySelectorAll('link[rel="icon"],link[rel="shortcut icon"]').forEach(function (l) { l.parentNode.removeChild(l); });
+    var l = document.createElement("link"); l.rel = "icon"; l.type = "image/png"; l.href = "/favicon.png?v=2&t=" + Date.now();
+    document.head.appendChild(l);
+  } catch (e) {}
+});
+</script>
+<script src="/mifasa-app.js" defer></script>
+<script src="/mifasa-plus.js" defer></script>
+<script src="/mifasa-offline.js" defer></script>
+</body>
+</html>
