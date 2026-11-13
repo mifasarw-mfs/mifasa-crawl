@@ -1,7 +1,67 @@
 {
  "day": "2026-11-13",
- "count": 100,
+ "count": 103,
  "articles": [
+  {
+   "id": "crawl_4u68dz",
+   "title": "Police investigating David Walliams over reports alleging serious sexual offences",
+   "summary": "The Met Police said the allegations are separate from those reported by ITN and The Guardian earlier this week.",
+   "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T16:53:50.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7f8/live/38cb0fd0-df13-11f0-8db4-97f4d263443d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7f8/live/38cb0fd0-df13-11f0-8db4-97f4d263443d.jpg",
+   "title_en": "Police investigating David Walliams over reports alleging serious sexual offences",
+   "summary_en": "The Met Police said the allegations are separate from those reported by ITN and The Guardian earlier this week.",
+   "share_id": "MN202611_4u68dzz4ut"
+  },
+  {
+   "id": "crawl_1xwcmzg",
+   "title": "'Memories flood back' - Rochdale & York meet again after April drama",
+   "summary": "A look at how Saturday's opponents Rochdale and York City have acclimatised to League Two after their famous final-day National League title decider.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck1l05drreqqo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ck1l05drreqqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T16:39:00.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81d4/live/0b137b00-debc-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81d4/live/0b137b00-debc-11f1-b441-2b33b063138f.jpg",
+   "title_en": "'Memories flood back' - Rochdale & York meet again after April drama",
+   "summary_en": "A look at how Saturday's opponents Rochdale and York City have acclimatised to League Two after their famous final-day National League title decider.",
+   "share_id": "MN202611_1xwcmzg4ke2"
+  },
+  {
+   "id": "crawl_17xb96d",
+   "title": "Football Daily",
+   "summary": "The Commentators' View team describe a special night for Harry Kane at Wembley.",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pmwxf4?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/p0pmwxf4?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T16:05:00.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmwxgk.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmwxgk.jpg",
+   "title_en": "Football Daily",
+   "summary_en": "The Commentators' View team describe a special night for Harry Kane at Wembley.",
+   "share_id": "MN202611_17xb96d4doz"
+  },
   {
    "id": "crawl_1hkzy3d",
    "title": "🔴LIVE: AMAKURU Y'IJORO || TARIKI 13.11.2026",
@@ -2155,5 +2215,5 @@
    "share_id": "MN202611_cgwh2gfix2"
   }
  ],
- "updated": "2026-11-13T16:13:39.842Z"
+ "updated": "2026-11-13T17:02:29.380Z"
 }
