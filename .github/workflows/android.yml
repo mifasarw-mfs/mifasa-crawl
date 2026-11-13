@@ -1,10 +1,19 @@
-# Builds a real Android app (APK) of MIFASARW - free, no limit on a public repo, all in the browser (GitHub Actions).
-# How: GitHub -> Actions -> "mifasa-android" -> Run workflow -> when green, open the run -> Artifacts -> download MIFASARW-apk -> unzip -> install the .apk on the phone.
-# The app opens https://mifasarw.neocities.org inside the app, so every update of the website reaches the app at once (no new APK needed),
-# and the service worker (sw.js) gives the offline mode. Change SITE_URL / APP_ID below if needed.
+# MIFASARW Android v2: debug APK (default) or SIGNED release APK + AAB (Google Play).
+# Run: GitHub -> Actions -> "mifasa-android" -> Run workflow (tick "release" for the signed build).
+# Release needs 4 repo secrets (Settings -> Secrets -> Actions): KEYSTORE_BASE64, KEYSTORE_PASSWORD, KEY_ALIAS, KEY_PASSWORD.
+#   Make the keystore ONCE (keep it forever, updates must use the same one):
+#   keytool -genkeypair -v -keystore mifasa.jks -alias mifasa -keyalg RSA -keysize 2048 -validity 10000
+#   base64 -w0 mifasa.jks   <- paste the output into KEYSTORE_BASE64
+# The app loads https://mifasarw.neocities.org (site updates reach the app at once) + native plugins:
+# daily local notifications, native share, status bar colour, versionCode = run number, local "no internet" page.
 name: mifasa-android
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      release:
+        description: "Signed release APK + AAB (needs keystore secrets)"
+        type: boolean
+        default: false
 permissions:
   contents: write
 env:
@@ -14,39 +23,79 @@ env:
 jobs:
   apk:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with: { node-version: 20 }
       - uses: actions/setup-java@v4
-        with: { distribution: temurin, java-version: 17 }
-      - name: Make the Capacitor project
+        with: { distribution: temurin, java-version: 21 }
+      - name: Capacitor project (pinned to v7 = works with Java 21)
         run: |
           mkdir app && cd app
           npm init -y >/dev/null
-          npm i @capacitor/core @capacitor/cli @capacitor/android @capacitor/assets >/dev/null
-          mkdir www && echo '<!doctype html><title>MIFASARW</title><meta http-equiv="refresh" content="0;url='$SITE_URL'">' > www/index.html
-          cat > capacitor.config.json <<JSON
-          { "appId": "$APP_ID", "appName": "$APP_NAME", "webDir": "www",
-            "server": { "url": "$SITE_URL", "androidScheme": "https",
-                        "allowNavigation": ["mifasarw.neocities.org", "*.youtube.com", "*.youtube-nocookie.com", "*.ytimg.com"] } }
-          JSON
+          npm i @capacitor/core@7 @capacitor/cli@7 @capacitor/android@7 @capacitor/local-notifications@7 @capacitor/share@7 @capacitor/status-bar@7 @capacitor/assets@3 >/dev/null
+          mkdir www
+          cat > www/index.html <<HTML
+          <!doctype html><title>MIFASARW</title><meta http-equiv="refresh" content="0;url=$SITE_URL">
+          HTML
+          cat > www/error.html <<HTML
+          <!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>MIFASARW</title>
+          <style>body{font-family:system-ui;text-align:center;padding:14vh 24px;background:#fff;color:#1a1a1f}h1{color:#e63946}button{background:#e63946;color:#fff;border:0;border-radius:12px;padding:14px 22px;font:700 1rem system-ui}</style></head>
+          <body><h1>📴 MIFASARW</h1><p>Nta internet. Fungura internet hanyuma ukande hasi.<br>No internet. Connect and tap below.</p>
+          <button onclick="location.href='$SITE_URL'">Ongera ugerageze / Retry</button></body></html>
+          HTML
+          node -e '
+          const c={appId:process.env.APP_ID,appName:process.env.APP_NAME,webDir:"www",backgroundColor:"#ffffff",
+            server:{url:process.env.SITE_URL,androidScheme:"https",errorPath:"error.html",
+              allowNavigation:["mifasarw.neocities.org","*.youtube.com","*.youtube-nocookie.com","*.ytimg.com","api.open-meteo.com","open.er-api.com","*.onesignal.com"]},
+            plugins:{LocalNotifications:{iconColor:"#e63946"},StatusBar:{backgroundColor:"#e63946",style:"LIGHT"}}};
+          require("fs").writeFileSync("capacitor.config.json",JSON.stringify(c,null,2));'
           npx cap add android
-      - name: App icon (uses icon-512.png from the repo if present)
+          cd android/app
+          sed -i "s/versionCode 1/versionCode ${{ github.run_number }}/; s/versionName \"1.0\"/versionName \"1.0.${{ github.run_number }}\"/" build.gradle
+          sed -i 's#</manifest>#<uses-permission android:name="android.permission.POST_NOTIFICATIONS"/></manifest>#' src/main/AndroidManifest.xml
+      - name: App icon (icon-512.png from the repo)
         run: |
           cd app
-          if [ -f ../icon-512.png ]; then mkdir -p assets && cp ../icon-512.png assets/icon-only.png && cp ../icon-512.png assets/icon-foreground.png && echo "#000000" > /dev/null; npx capacitor-assets generate --android --iconBackgroundColor '#000000' --iconBackgroundColorDark '#000000' || true; fi
-      - name: Build APK
-        run: cd app/android && chmod +x gradlew && ./gradlew assembleDebug --no-daemon
+          if [ -f ../icon-512.png ]; then mkdir -p assets && cp ../icon-512.png assets/icon-only.png && cp ../icon-512.png assets/icon-foreground.png; npx capacitor-assets generate --android --iconBackgroundColor '#e63946' --iconBackgroundColorDark '#e63946' || true; fi
+      - name: Build type
+        id: kind
+        env: { KS: "${{ secrets.KEYSTORE_BASE64 }}" }
+        run: |
+          if [ "${{ inputs.release }}" = "true" ] && [ -n "$KS" ]; then echo "release=true" >> "$GITHUB_OUTPUT"
+          else echo "release=false" >> "$GITHUB_OUTPUT"; [ "${{ inputs.release }}" = "true" ] && echo "::warning::Keystore secrets missing: building DEBUG APK instead"; fi; true
+      - name: Build debug APK
+        if: steps.kind.outputs.release != 'true'
+        run: cd app/android && chmod +x gradlew && ./gradlew assembleDebug --no-daemon && cp app/build/outputs/apk/debug/app-debug.apk ../../MIFASARW.apk
+      - name: Build + sign release (APK and AAB)
+        if: steps.kind.outputs.release == 'true'
+        env:
+          KS_B64: ${{ secrets.KEYSTORE_BASE64 }}
+          KS_PASS: ${{ secrets.KEYSTORE_PASSWORD }}
+          KEY_PASS: ${{ secrets.KEY_PASSWORD }}
+          KEY_ALIAS: ${{ secrets.KEY_ALIAS }}
+        run: |
+          cd app/android && chmod +x gradlew && ./gradlew assembleRelease bundleRelease --no-daemon
+          echo "$KS_B64" | base64 -d > "$RUNNER_TEMP/ks.jks"
+          BT=$(ls -d "$ANDROID_HOME"/build-tools/* | sort -V | tail -1)
+          "$BT/zipalign" -p 4 app/build/outputs/apk/release/app-release-unsigned.apk "$RUNNER_TEMP/aligned.apk"
+          "$BT/apksigner" sign --ks "$RUNNER_TEMP/ks.jks" --ks-pass env:KS_PASS --key-pass env:KEY_PASS --ks-key-alias "$KEY_ALIAS" --out ../../MIFASARW.apk "$RUNNER_TEMP/aligned.apk"
+          cp app/build/outputs/bundle/release/app-release.aab ../../MIFASARW.aab
+          jarsigner -keystore "$RUNNER_TEMP/ks.jks" -storepass:env KS_PASS -keypass:env KEY_PASS ../../MIFASARW.aab "$KEY_ALIAS"
+          rm -f "$RUNNER_TEMP/ks.jks"
       - uses: actions/upload-artifact@v4
         with:
-          name: MIFASARW-apk
-          path: app/android/app/build/outputs/apk/debug/*.apk
-      - name: Publish APK to a GitHub Release (public download link for the website)
-        env:
-          GH_TOKEN: ${{ github.token }}
+          name: MIFASARW-android
+          path: |
+            app/MIFASARW.apk
+            app/MIFASARW.aab
+          if-no-files-found: ignore
+      - name: Publish to GitHub Releases (public APK link for install.html)
+        env: { GH_TOKEN: "${{ github.token }}" }
         run: |
-          cp app/android/app/build/outputs/apk/debug/app-debug.apk MIFASARW.apk
+          cd app
+          FILES="MIFASARW.apk"; [ -f MIFASARW.aab ] && FILES="$FILES MIFASARW.aab"
           gh release delete apk-latest --yes --cleanup-tag --repo "$GITHUB_REPOSITORY" || true
-          gh release create apk-latest MIFASARW.apk --repo "$GITHUB_REPOSITORY" --title "MIFASARW Android" --notes "Latest MIFASARW Android APK" --latest=false
+          gh release create apk-latest $FILES --repo "$GITHUB_REPOSITORY" --title "MIFASARW Android (latest)" --notes "Build #${{ github.run_number }}" --latest=false
+          gh release create "build-${{ github.run_number }}" $FILES --repo "$GITHUB_REPOSITORY" --title "MIFASARW build ${{ github.run_number }}" --notes "Archived build" --latest=false
