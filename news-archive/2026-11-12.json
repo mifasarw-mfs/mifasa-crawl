@@ -1,6 +1,6 @@
 {
  "day": "2026-11-12",
- "count": 131,
+ "count": 132,
  "articles": [
   {
    "id": "crawl_ha7obw",
@@ -381,6 +381,26 @@
    "title_en": "Quiz: Name England's all-time leading appearance makers",
    "summary_en": "Can you name every England men's player who has at least 60 caps?",
    "share_id": "MN202611_1m9bgfu3dug"
+  },
+  {
+   "id": "crawl_1cugb3z",
+   "title": "Jensen Huang has resigned, what's next for Nvidia?",
+   "summary": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
+   "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T19:33:37.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2742/live/64baf7c0-dece-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2742/live/64baf7c0-dece-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "Jensen Huang has resigned, what's next for Nvidia?",
+   "summary_en": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
+   "share_id": "MN202611_1cugb3z8w7x"
   },
   {
    "id": "crawl_1uzec7m",
@@ -2802,5 +2822,5 @@
    "share_id": "MN202611_1qpleoceb56"
   }
  ],
- "updated": "2026-11-13T08:00:17.428Z"
+ "updated": "2026-11-13T10:40:57.479Z"
 }
