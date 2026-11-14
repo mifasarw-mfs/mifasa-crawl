@@ -2638,6 +2638,54 @@
    ],
    "auto": true,
    "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_8fa1def2_q",
+   "label_rw": "Amategeko n'ubwenge bukoreshwa mu mukino wa Chesi",
+   "label_en": "Chess rules and strategy",
+   "patterns_en": [
+    "How is chess played?",
+    "What is the main goal of chess?",
+    "How do pieces move in chess?"
+   ],
+   "patterns_rw": [
+    "Chesi ikinwa ite?",
+    "Intego ya chesi ni iyihe?",
+    "Buri gisate kigenda gite muri chesi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Chesi ni umukino w'ubwenge ukinwa n'abakinnyi babiri ku kibaho gifite amandege mirongo itandatu n'ine. Burikimwe gifite uburyo kigenda mu kibaho. Intego nyamukuru ni ugufata umwami w'uwo muhanganye mu buryo bwitwa mate.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Chess is a board game played by two players on a sixty-four square grid. Each piece has specific movement rules. The main goal is to trap the opponent's king in a checkmate position.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_8c2fea89_q",
+   "label_rw": "Amategeko n'imiterere y'ikibuga cya Badminton",
+   "label_en": "Badminton rules and court setup",
+   "patterns_en": [
+    "What is the length of a badminton court?",
+    "What is the width of a badminton court for doubles?",
+    "What is the height of the badminton net?"
+   ],
+   "patterns_rw": [
+    "Ikibuga cya badminton gifite uburebure bungana iki?",
+    "Ubugari bw'ikibuga cya badminton mu mikino y'abantu babiri bumeze gute?",
+    "Urunyenya rwa badminton rufite uburebure bw'iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Badminton ni umukino uteramo agapira k'amasoya hejuru y'urunyenya hakoreshejwe racket. Ikibuga gifite metero 13.4 z'uburebure. Ku mikino y'abantu babiri, ubugari bacyo ni metero 6.1. Ku mukino w'umuntu umwe, ni metero 5.18. Urunyenya ruri hagati rufite uburebure bwa metero 1.55 ku mpande.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Badminton is a racket sport played over a net. The court is usually 13.4 meters long. For doubles matches, the width is 6.1 meters. For singles matches, the width is 5.18 meters. The net is about 1.55 meters high at the edges.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
   }
  ],
  "knowledge": [
@@ -4806,6 +4854,46 @@
    ],
    "auto": true,
    "taught": "2026-11-13"
+  },
+  {
+   "id": "ai16_8fa1def2",
+   "category": "sports",
+   "title_rw": "Amategeko n'ubwenge bukoreshwa mu mukino wa Chesi",
+   "title_en": "Chess rules and strategy",
+   "summary_rw": "Chesi ni umukino w'ubwenge ukinwa n'abakinnyi babiri ku kibaho gifite amandege mirongo itandatu n'ine. Burikimwe gifite uburyo kigenda mu kibaho. Intego nyamukuru ni ugufata umwami w'uwo muhanganye mu buryo bwitwa mate.",
+   "summary_en": "Chess is a board game played by two players on a sixty-four square grid. Each piece has specific movement rules. The main goal is to trap the opponent's king in a checkmate position.",
+   "keywords": [
+    "chesi",
+    "chess",
+    "umukino",
+    "game",
+    "ubwenge",
+    "strategy",
+    "amategeko",
+    "rules"
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_8c2fea89",
+   "category": "sports",
+   "title_rw": "Amategeko n'imiterere y'ikibuga cya Badminton",
+   "title_en": "Badminton rules and court setup",
+   "summary_rw": "Badminton ni umukino uteramo agapira k'amasoya hejuru y'urunyenya hakoreshejwe racket. Ikibuga gifite metero 13.4 z'uburebure. Ku mikino y'abantu babiri, ubugari bacyo ni metero 6.1. Ku mukino w'umuntu umwe, ni metero 5.18. Urunyenya ruri hagati rufite uburebure bwa metero 1.55 ku mpande.",
+   "summary_en": "Badminton is a racket sport played over a net. The court is usually 13.4 meters long. For doubles matches, the width is 6.1 meters. For singles matches, the width is 5.18 meters. The net is about 1.55 meters high at the edges.",
+   "keywords": [
+    "badminton",
+    "ikibuga",
+    "court",
+    "amategeko",
+    "rules",
+    "racket",
+    "urunyenya",
+    "net"
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
   }
  ]
 }
