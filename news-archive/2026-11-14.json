@@ -1,7 +1,79 @@
 {
  "day": "2026-11-14",
- "count": 62,
+ "count": 65,
  "articles": [
+  {
+   "id": "crawl_q79ga7",
+   "title": "Two Rwandan Brothers Build Tech Solution to Ease Bookkeeping for Small Businesses",
+   "summary": "Many small businesses in Rwanda, and across Africa still rely on handwritten records to track sales, manage stock and monitor their finances. You will find them keeping pens and notebooks,… The post Two Rwandan Brothers Build Tech Solution to Ease Bookkeeping for Small Businesses appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/two-rwandan-brothers-build-tech-solution-to-ease-bookkeeping-for-small-businesses/",
+   "url": "https://www.ktpress.rw/2026/11/two-rwandan-brothers-build-tech-solution-to-ease-bookkeeping-for-small-businesses/",
+   "date": "2026-11-14T14:36:59.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "Economy",
+    "latestnews"
+   ],
+   "title_en": "Two Rwandan Brothers Build Tech Solution to Ease Bookkeeping for Small Businesses",
+   "summary_en": "Many small businesses in Rwanda, and across Africa still rely on handwritten records to track sales, manage stock and monitor their finances. You will find them keeping pens and notebooks,… The post Two Rwandan Brothers Build Tech Solution to Ease Bookkeeping for Small Businesses appeared first on KT PRESS .",
+   "share_id": "MN202611_q79ga7chal"
+  },
+  {
+   "id": "crawl_1akrcuv",
+   "title": "ABAKIRE BARI GUKORESHA AI MU KURWANYA URUPFU | IBAZE KURYA INYAMA ZO MURI LABORATOIRE: AI IRAKATAJE",
+   "summary": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
+   "link": "https://www.youtube.com/watch?v=pD3-YgWcq8k",
+   "url": "https://www.youtube.com/watch?v=pD3-YgWcq8k",
+   "date": "2026-11-14T14:23:07.000Z",
+   "source": "Mwanafunzi Ismael YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Mwanafunzi Ismael YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "pD3-YgWcq8k"
+   },
+   "type": "video",
+   "image": "https://i1.ytimg.com/vi/pD3-YgWcq8k/hqdefault.jpg",
+   "thumbnail": "https://i1.ytimg.com/vi/pD3-YgWcq8k/hqdefault.jpg",
+   "title_rw": "ABAKIRE BARI GUKORESHA AI MU KURWANYA URUPFU | IBAZE KURYA INYAMA ZO MURI LABORATOIRE: AI IRAKATAJE",
+   "summary_rw": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
+   "share_id": "MN202611_1akrcuvnfp1"
+  },
+  {
+   "id": "crawl_9jibqp",
+   "title": "Amarica irimukaga gakomeye ingendo zindege zose zahagaritswe,abarenga miliyoni",
+   "summary": "Amarica irimukaga gakomeye ingendo zindege zose zahagaritswe,abarenga miliyoni",
+   "link": "https://www.youtube.com/watch?v=JQc0f6LjpT8",
+   "url": "https://www.youtube.com/watch?v=JQc0f6LjpT8",
+   "date": "2026-11-14T14:21:01.000Z",
+   "source": "Rocky Entertainment YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Rocky Entertainment YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "JQc0f6LjpT8"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/JQc0f6LjpT8/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/JQc0f6LjpT8/hqdefault.jpg",
+   "title_rw": "Amarica irimukaga gakomeye ingendo zindege zose zahagaritswe,abarenga miliyoni",
+   "summary_rw": "Amarica irimukaga gakomeye ingendo zindege zose zahagaritswe,abarenga miliyoni",
+   "share_id": "MN202611_9jibqpigjz"
+  },
   {
    "id": "crawl_11ay5yw",
    "title": "Bonnie Tyler remembers loved ones in posthumous Christmas single",
@@ -1381,5 +1453,5 @@
    "share_id": "MN202611_ghkicxdetr"
   }
  ],
- "updated": "2026-11-14T14:03:11.798Z"
+ "updated": "2026-11-14T14:41:53.835Z"
 }
