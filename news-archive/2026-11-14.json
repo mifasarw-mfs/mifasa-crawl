@@ -1,7 +1,55 @@
 {
  "day": "2026-11-14",
- "count": 51,
+ "count": 54,
  "articles": [
+  {
+   "id": "crawl_egp8d7",
+   "title": "Banyekongo bavandimwe! Nimubanze mwishyure imyenda y'imikino ya Francophonie mubone guhatanira kuyobora OIF",
+   "summary": "Hari igihe ibyifuzo bya politiki by’igihugu bigaragaza cyane kurushaho ibibazo by’imiyoborere yacyo kurusha ubushobozi gifite bwo kuyobora. Repubulika Iharanira Demokarasi ya Congo (RDC) iri (…)",
+   "link": "https://www.kigalitoday.com/agaseke-ka-weekend/ati-iki/article/banyekongo-bavandimwe-nimubanze-mwishyure-imyenda-y-imikino-ya-francophonie-mubone-guhatanira-kuyobora-oif",
+   "url": "https://www.kigalitoday.com/agaseke-ka-weekend/ati-iki/article/banyekongo-bavandimwe-nimubanze-mwishyure-imyenda-y-imikino-ya-francophonie-mubone-guhatanira-kuyobora-oif",
+   "date": "2026-11-14T11:41:24.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Ati iki?",
+    "Roger Marc Rutindukanamurego",
+    "AKW-040",
+    "AKW-040-MAIN"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/2026-11-14_13_38_26-les_ixe_jeux_de_la_francophonie_ont_coute_324_millions_usd_a_la_rdc_au_lieu_des_.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-14_13_38_26-les_ixe_jeux_de_la_francophonie_ont_coute_324_millions_usd_a_la_rdc_au_lieu_des_.png",
+   "title_rw": "Banyekongo bavandimwe! Nimubanze mwishyure imyenda y'imikino ya Francophonie mubone guhatanira kuyobora OIF",
+   "summary_rw": "Hari igihe ibyifuzo bya politiki by’igihugu bigaragaza cyane kurushaho ibibazo by’imiyoborere yacyo kurusha ubushobozi gifite bwo kuyobora. Repubulika Iharanira Demokarasi ya Congo (RDC) iri (…)",
+   "share_id": "MN202611_egp8d7c4u1"
+  },
+  {
+   "id": "crawl_r7wjy6",
+   "title": "Amatora ya OIF: DRC ikuyemo umukandida wayo",
+   "summary": "Repubulika Iharanira Demokarasi ya Congo (RDC) yatangaje ko yakuyemo kandidatire ya Juliana Amato Lumumba wari uhataniye umwanya w’Umunyamabanga Mukuru w’Umuryango w’Ibihugu bikoresha Igifaransa (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/amatora-ya-oif-drc-ikuyemo-umukandida-wayo",
+   "url": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/amatora-ya-oif-drc-ikuyemo-umukandida-wayo",
+   "date": "2026-11-14T11:18:36.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu mahanga",
+    "MobileBigStory",
+    "breakingnews",
+    "Ruzindana Janvier"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-14_at_13.04_54.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-14_at_13.04_54.jpg",
+   "title_rw": "Amatora ya OIF: DRC ikuyemo umukandida wayo",
+   "summary_rw": "Repubulika Iharanira Demokarasi ya Congo (RDC) yatangaje ko yakuyemo kandidatire ya Juliana Amato Lumumba wari uhataniye umwanya w’Umunyamabanga Mukuru w’Umuryango w’Ibihugu bikoresha Igifaransa (…)",
+   "share_id": "MN202611_r7wjy6xd5o"
+  },
   {
    "id": "crawl_1fy1clx",
    "title": "How to spot November's planetary parade in the pre-dawn sky",
@@ -21,6 +69,32 @@
    "title_en": "How to spot November's planetary parade in the pre-dawn sky",
    "summary_en": "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November.",
    "share_id": "MN202611_1fy1clxjf77"
+  },
+  {
+   "id": "crawl_w4wuza",
+   "title": "#diamondplatnumz #Davido #wcb #nigeria #viral #Trending",
+   "summary": "#diamondplatnumz #Davido #wcb #nigeria #viral #Trending",
+   "link": "https://www.youtube.com/shorts/P1cFyu0UDNI",
+   "url": "https://www.youtube.com/shorts/P1cFyu0UDNI",
+   "date": "2026-11-14T11:00:13.000Z",
+   "source": "Diamond Platnumz YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Diamond Platnumz YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "P1cFyu0UDNI"
+   },
+   "type": "video",
+   "image": "https://i1.ytimg.com/vi/P1cFyu0UDNI/hqdefault.jpg",
+   "thumbnail": "https://i1.ytimg.com/vi/P1cFyu0UDNI/hqdefault.jpg",
+   "title_rw": "#diamondplatnumz #Davido #wcb #nigeria #viral #Trending",
+   "summary_rw": "#diamondplatnumz #Davido #wcb #nigeria #viral #Trending",
+   "share_id": "MN202611_w4wuza8q5w"
   },
   {
    "id": "crawl_1febxpu",
@@ -1129,5 +1203,5 @@
    "share_id": "MN202611_ghkicxdetr"
   }
  ],
- "updated": "2026-11-14T11:09:19.681Z"
+ "updated": "2026-11-14T11:45:07.994Z"
 }
