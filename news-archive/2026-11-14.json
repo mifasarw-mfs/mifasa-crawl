@@ -1,7 +1,75 @@
 {
  "day": "2026-11-14",
- "count": 79,
+ "count": 82,
  "articles": [
+  {
+   "id": "crawl_1nmn09s",
+   "title": "Artificial Intelligence Should Understand Local Languages – La Francophonie Says",
+   "summary": "Industry experts , policy makers and researchers from Africa, Asia,Europe have met to examine how Francophone countries could develop AI suited to their own languages and institutions. Cambodia said it needs AI that understands Khmer and respects the country’s culture. The Cambodian Academy of Digital Technology (CADT) president Seng Sopheap told a FrancoTech roundtable in […] The post Artificial…",
+   "link": "https://taarifa.rw/2026/11/14/artificial-intelligence-should-understand-local-languages-la-francophonie-says/",
+   "url": "https://taarifa.rw/2026/11/14/artificial-intelligence-should-understand-local-languages-la-francophonie-says/",
+   "date": "2026-11-14T17:02:15.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "La Francophonie Cambodia Special Report"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261114-190128.jpg?fit=657%2C368&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261114-190128.jpg?fit=657%2C368&ssl=1",
+   "title_en": "Artificial Intelligence Should Understand Local Languages – La Francophonie Says",
+   "summary_en": "Industry experts , policy makers and researchers from Africa, Asia,Europe have met to examine how Francophone countries could develop AI suited to their own languages and institutions. Cambodia said it needs AI that understands Khmer and respects the country’s culture. The Cambodian Academy of Digital Technology (CADT) president Seng Sopheap told a FrancoTech roundtable in […] The post Artificial…",
+   "share_id": "MN202611_1nmn09so6wu"
+  },
+  {
+   "id": "crawl_rhinu3",
+   "title": "🔴LIVE: AMAKURU Y'IJORO || TARIKI 14.11.2026",
+   "summary": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "link": "https://www.youtube.com/watch?v=FjJ5kKjYoNQ",
+   "url": "https://www.youtube.com/watch?v=FjJ5kKjYoNQ",
+   "date": "2026-11-14T16:40:42.000Z",
+   "source": "Radio Rwanda YouTube",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Radio Rwanda YouTube",
+    "news",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "FjJ5kKjYoNQ"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/FjJ5kKjYoNQ/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/FjJ5kKjYoNQ/hqdefault.jpg",
+   "title_rw": "🔴LIVE: AMAKURU Y'IJORO || TARIKI 14.11.2026",
+   "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+   "share_id": "MN202611_rhinu3isnd"
+  },
+  {
+   "id": "crawl_mki71c",
+   "title": "French President Macron Lights Up Cambodia",
+   "summary": "French president Emmanuel Macron has touched ground in Phnom Penh Capital, received by dozens of cheering Cambodians. Accompanied by French First Lady Brigitte Macron, the French leader will spend three days in Cambodia on state visit, coinciding with the 20th Francophonie Summit. Cambodian Prime Minister Hun Manet welcomed President Emmanuel Macron and First Lady Brigitte […] The post French…",
+   "link": "https://taarifa.rw/2026/11/14/french-president-macron-lights-up-cambodia/",
+   "url": "https://taarifa.rw/2026/11/14/french-president-macron-lights-up-cambodia/",
+   "date": "2026-11-14T16:37:00.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "La Francophonie Cambodia Special Report"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261114-182033.jpg?fit=720%2C731&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261114-182033.jpg?fit=720%2C731&ssl=1",
+   "title_en": "French President Macron Lights Up Cambodia",
+   "summary_en": "French president Emmanuel Macron has touched ground in Phnom Penh Capital, received by dozens of cheering Cambodians. Accompanied by French First Lady Brigitte Macron, the French leader will spend three days in Cambodia on state visit, coinciding with the 20th Francophonie Summit. Cambodian Prime Minister Hun Manet welcomed President Emmanuel Macron and First Lady Brigitte […] The post French…",
+   "share_id": "MN202611_mki71c2sce"
+  },
   {
    "id": "crawl_1st8rxz",
    "title": "Italy fines Meta €805m over accessing users' photos",
@@ -1755,5 +1823,5 @@
    "share_id": "MN202611_ghkicxdetr"
   }
  ],
- "updated": "2026-11-14T16:32:25.983Z"
+ "updated": "2026-11-14T17:11:16.204Z"
 }
