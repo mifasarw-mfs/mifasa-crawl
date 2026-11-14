@@ -2686,6 +2686,54 @@
    ],
    "auto": true,
    "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_98cb7ea8_q",
+   "label_rw": "Umutekano mu mazi n'ibanze ku koga",
+   "label_en": "Water safety and swimming basics",
+   "patterns_en": [
+    "What should you do to prevent drowning?",
+    "Is it safe to swim alone?",
+    "How should children be supervised near water?"
+   ],
+   "patterns_rw": [
+    "Ni iki wakora kugira ngo wirinde kurohama?",
+    "Ese bikwiriye ko umuntu yoga wenyine?",
+    "Ni gute abana bagomba kwitabwaho hafi y'amazi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Umutekano mu mazi ni ngombwa kugira ngo wirinde kurohama. Jya woga aho abashinzwe umutekano bari. Ntuzigere woga wenyine. Bana bagomba gukurikiranwa n'abakuze igihe bari mu mazi cyangwa hafi yayo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Water safety is essential to prevent drowning. Always swim where lifeguards are present. Never swim alone. Children must be closely supervised by adults when they are in or near water.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_02b2c07d_q",
+   "label_rw": "Kwirinda Abantu Batazwi",
+   "label_en": "Stranger Danger and Public Awareness",
+   "patterns_en": [
+    "What should you do if approached by a stranger?",
+    "How can parents teach children about stranger danger?",
+    "Why is reporting suspicious activity important?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyatuma umuntu yitwararika ku bantu batazwi?",
+    "Wagira ute niba umuntu utazi aguhaye ubufasha?",
+    "Kuki ari ngombwa gutangira amakuru ku gihe ku byago?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kwirinda abantu batazwi ni uburyo bwo gusobanura ibyago no gufata ingamba zo kwitwararikra mu ruhame. Abana n'abakuze bagomba kwirinda kwemera ibyo basabwe n'abantu batazwi cyangwa kujyana nabo ahantu hatoheruye. Gutangiza amakuru ku gihe iyo hari ikibazo bifasha inzego z'umutekano gutabara.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Stranger danger is a safety concept used to educate people about potential risks involving unknown individuals in public spaces. Children and adults should avoid accepting gifts or going anywhere with strangers. Reporting suspicious behavior promptly helps security authorities intervene effectively.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
   }
  ],
  "knowledge": [
@@ -4891,6 +4939,46 @@
     "racket",
     "urunyenya",
     "net"
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_98cb7ea8",
+   "category": "safety",
+   "title_rw": "Umutekano mu mazi n'ibanze ku koga",
+   "title_en": "Water safety and swimming basics",
+   "summary_rw": "Umutekano mu mazi ni ngombwa kugira ngo wirinde kurohama. Jya woga aho abashinzwe umutekano bari. Ntuzigere woga wenyine. Bana bagomba gukurikiranwa n'abakuze igihe bari mu mazi cyangwa hafi yayo.",
+   "summary_en": "Water safety is essential to prevent drowning. Always swim where lifeguards are present. Never swim alone. Children must be closely supervised by adults when they are in or near water.",
+   "keywords": [
+    "amazi",
+    "koga",
+    "umutekano",
+    "kurohama",
+    "water",
+    "swimming",
+    "safety",
+    "drowning"
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_02b2c07d",
+   "category": "safety",
+   "title_rw": "Kwirinda Abantu Batazwi",
+   "title_en": "Stranger Danger and Public Awareness",
+   "summary_rw": "Kwirinda abantu batazwi ni uburyo bwo gusobanura ibyago no gufata ingamba zo kwitwararikra mu ruhame. Abana n'abakuze bagomba kwirinda kwemera ibyo basabwe n'abantu batazwi cyangwa kujyana nabo ahantu hatoheruye. Gutangiza amakuru ku gihe iyo hari ikibazo bifasha inzego z'umutekano gutabara.",
+   "summary_en": "Stranger danger is a safety concept used to educate people about potential risks involving unknown individuals in public spaces. Children and adults should avoid accepting gifts or going anywhere with strangers. Reporting suspicious behavior promptly helps security authorities intervene effectively.",
+   "keywords": [
+    "umutekano",
+    "ubwirinzi",
+    "abantu batazwi",
+    "uruhame",
+    "safety",
+    "stranger danger",
+    "awareness",
+    "public"
    ],
    "auto": true,
    "taught": "2026-11-14"
