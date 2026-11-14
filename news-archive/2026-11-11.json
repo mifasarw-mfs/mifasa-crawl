@@ -1,6 +1,6 @@
 {
  "day": "2026-11-11",
- "count": 141,
+ "count": 142,
  "articles": [
   {
    "id": "crawl_l0m2hw",
@@ -1626,6 +1626,36 @@
    "share_id": "MN202611_1sqfz7m7wm8"
   },
   {
+   "id": "crawl_msr2az",
+   "title": "Jose Chameleone - Kasowole Remix ft Lil Pazo &  Bruno K (Lyrics Video)",
+   "summary": "Jose Chameleone - Kasowole (Remix) ft Lil Pazo & Bruno K (Lyrics Video) Follow Jose Chameleone: Instagram: https://www.instagram.com/jchameleon/ TikTok: https://www.tiktok.com/@jchameleone Facebook: https://www.facebook.com/josechameleone Twitter: https://x.com/JChameleone ---------------------------------- LEONE ISLAND MUSIC EMPIRE #JoseChameleone #Kasowole #lilpazo #brunok",
+   "link": "https://www.youtube.com/watch?v=mqq5jSABL24",
+   "url": "https://www.youtube.com/watch?v=mqq5jSABL24",
+   "date": "2026-11-11T11:57:12.000Z",
+   "source": "YouTube Trending Uganda",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "YouTube Trending Uganda",
+    "entertainment",
+    "trending",
+    "Jose Chameleone",
+    "Lil Pazzo",
+    "Bruno K",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "mqq5jSABL24"
+   },
+   "type": "video",
+   "image": "https://i.ytimg.com/vi/mqq5jSABL24/hqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/mqq5jSABL24/hqdefault.jpg",
+   "title_en": "Jose Chameleone - Kasowole Remix ft Lil Pazo &  Bruno K (Lyrics Video)",
+   "summary_en": "Jose Chameleone - Kasowole (Remix) ft Lil Pazo & Bruno K (Lyrics Video) Follow Jose Chameleone: Instagram: https://www.instagram.com/jchameleon/ TikTok: https://www.tiktok.com/@jchameleone Facebook: https://www.facebook.com/josechameleone Twitter: https://x.com/JChameleone ---------------------------------- LEONE ISLAND MUSIC EMPIRE #JoseChameleone #Kasowole #lilpazo #brunok",
+   "share_id": "MN202611_msr2azr749"
+  },
+  {
    "id": "crawl_1hy8zq1",
    "title": "Amerika igabisha Madagascar ku kwiyongera kw'ubucuti n'Uburusiya mu vya gisirikare",
    "summary": "Umujenerale wa Amerika agabisha ko amasezerano y’ugufashanya mu vy’umutekano hagati ya Afrika n’Uburusiya, asa n’ayabaye mu karere ka Sahel, ashobora gutuma umutekano muke urushiriza kwiyongera muri Afrika.",
@@ -3101,5 +3131,5 @@
    "share_id": "MN202611_1gy3w30wsju"
   }
  ],
- "updated": "2026-11-13T11:34:38.325Z"
+ "updated": "2026-11-14T16:32:25.985Z"
 }

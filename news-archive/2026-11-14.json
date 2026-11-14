@@ -1,7 +1,114 @@
 {
  "day": "2026-11-14",
- "count": 74,
+ "count": 79,
  "articles": [
+  {
+   "id": "crawl_1st8rxz",
+   "title": "Italy fines Meta €805m over accessing users' photos",
+   "summary": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
+   "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T16:29:48.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
+   "title_en": "Italy fines Meta €805m over accessing users' photos",
+   "summary_en": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
+   "share_id": "MN202611_1st8rxz1oet"
+  },
+  {
+   "id": "crawl_1edoou0",
+   "title": "Tenerife boss says Owono's 12-match ban 'feels light'",
+   "summary": "Tenerife boss Alvaro Cervera reacts to goalkeeper Jesus Owono's 12-match ban as the club prepare for their first game since the death of Jesus de Miguel.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmjeq0x815zko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmjeq0x815zko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T16:26:49.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b213/live/53f770d0-e040-11f1-88e1-eb4e155225b3.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b213/live/53f770d0-e040-11f1-88e1-eb4e155225b3.jpg",
+   "title_en": "Tenerife boss says Owono's 12-match ban 'feels light'",
+   "summary_en": "Tenerife boss Alvaro Cervera reacts to goalkeeper Jesus Owono's 12-match ban as the club prepare for their first game since the death of Jesus de Miguel.",
+   "share_id": "MN202611_1edoou0gm8m"
+  },
+  {
+   "id": "crawl_1bzohja",
+   "title": "'I just play where the manager tells me to play!' - Walsh reacts",
+   "summary": "Keira Walsh reacts after Chelsea go top of the Women's Super League with 1-0 win against Manchester City.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6d91n2x0e7ko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c6d91n2x0e7ko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T16:17:49.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bbf/live/a45e56c0-e044-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bbf/live/a45e56c0-e044-11f1-b441-2b33b063138f.jpg",
+   "title_en": "'I just play where the manager tells me to play!' - Walsh reacts",
+   "summary_en": "Keira Walsh reacts after Chelsea go top of the Women's Super League with 1-0 win against Manchester City.",
+   "share_id": "MN202611_1bzohja1t0k"
+  },
+  {
+   "id": "crawl_1ophlsq",
+   "title": "“No Country Should Order Another to Withdraw Candidature”- Nduhungirehe To La Francophonie",
+   "summary": "As campaigning for the La Francophonie Secretary General slot ends tonight, Rwanda’s Foreign Affairs Minister Oliveir Nduhungirehe has reminded bloc members that non has a right to force a state to withdraw their candidature. “No country has the right to order another state to withdraw its candidacy,” Rwanda’s Chief diplomat said on Saturday while speaking […] The post “No Country Should Order…",
+   "link": "https://taarifa.rw/2026/11/14/no-country-should-order-another-to-withdraw-candidature-nduhungirehe-to-la-francophonie/",
+   "url": "https://taarifa.rw/2026/11/14/no-country-should-order-another-to-withdraw-candidature-nduhungirehe-to-la-francophonie/",
+   "date": "2026-11-14T16:11:29.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "La Francophonie Cambodia Special Report"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/images-1.jpeg?fit=560%2C357&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/images-1.jpeg?fit=560%2C357&ssl=1",
+   "title_en": "“No Country Should Order Another to Withdraw Candidature”- Nduhungirehe To La Francophonie",
+   "summary_en": "As campaigning for the La Francophonie Secretary General slot ends tonight, Rwanda’s Foreign Affairs Minister Oliveir Nduhungirehe has reminded bloc members that non has a right to force a state to withdraw their candidature. “No country has the right to order another state to withdraw its candidacy,” Rwanda’s Chief diplomat said on Saturday while speaking […] The post “No Country Should Order…",
+   "share_id": "MN202611_1ophlsqz9rs"
+  },
+  {
+   "id": "crawl_1pmp3qv",
+   "title": "#diamondplatnumz #wcb #nigeria #Davido",
+   "summary": "#diamondplatnumz #wcb #nigeria #Davido",
+   "link": "https://www.youtube.com/shorts/JzMgROoJ8Hg",
+   "url": "https://www.youtube.com/shorts/JzMgROoJ8Hg",
+   "date": "2026-11-14T16:00:29.000Z",
+   "source": "Diamond Platnumz YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Diamond Platnumz YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "JzMgROoJ8Hg"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/JzMgROoJ8Hg/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/JzMgROoJ8Hg/hqdefault.jpg",
+   "title_rw": "#diamondplatnumz #wcb #nigeria #Davido",
+   "summary_rw": "#diamondplatnumz #wcb #nigeria #Davido",
+   "share_id": "MN202611_1pmp3qv0yxh"
+  },
   {
    "id": "crawl_1bjsyy2",
    "title": "Chelsea go top with 1-0 win against Man City",
@@ -1648,5 +1755,5 @@
    "share_id": "MN202611_ghkicxdetr"
   }
  ],
- "updated": "2026-11-14T15:58:39.287Z"
+ "updated": "2026-11-14T16:32:25.983Z"
 }
