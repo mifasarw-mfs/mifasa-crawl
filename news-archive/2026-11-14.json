@@ -1,7 +1,27 @@
 {
  "day": "2026-11-14",
- "count": 61,
+ "count": 62,
  "articles": [
+  {
+   "id": "crawl_11ay5yw",
+   "title": "Bonnie Tyler remembers loved ones in posthumous Christmas single",
+   "summary": "Christmas single Love, Light and Peace was Bonnie Tyler's last studio recording, and was released on Friday.",
+   "link": "https://www.bbc.co.uk/news/articles/c6y493wzkxgko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6y493wzkxgko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T13:33:46.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a135/live/c8585270-d6a7-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a135/live/c8585270-d6a7-11f1-b441-2b33b063138f.jpg",
+   "title_en": "Bonnie Tyler remembers loved ones in posthumous Christmas single",
+   "summary_en": "Christmas single Love, Light and Peace was Bonnie Tyler's last studio recording, and was released on Friday.",
+   "share_id": "MN202611_11ay5ywr2fq"
+  },
   {
    "id": "crawl_11xfq6j",
    "title": "Umuhanzi Kenny Edwin yadutaramiye mu #UrubugarwImikino || Ingamba afite mu kwagura umuziki we",
@@ -1361,5 +1381,5 @@
    "share_id": "MN202611_ghkicxdetr"
   }
  ],
- "updated": "2026-11-14T13:17:18.769Z"
+ "updated": "2026-11-14T14:03:11.798Z"
 }
