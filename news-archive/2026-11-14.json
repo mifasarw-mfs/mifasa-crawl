@@ -1,7 +1,47 @@
 {
  "day": "2026-11-14",
- "count": 85,
+ "count": 87,
  "articles": [
+  {
+   "id": "crawl_fckold",
+   "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+   "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+   "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T18:00:10.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bff/live/0bb4d910-e046-11f1-88e1-eb4e155225b3.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bff/live/0bb4d910-e046-11f1-88e1-eb4e155225b3.jpg",
+   "title_en": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+   "summary_en": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+   "share_id": "MN202611_fckolddl27"
+  },
+  {
+   "id": "crawl_g405in",
+   "title": "Philippines wins first Eurovision Song Contest Asia",
+   "summary": "Front-runner Carmelle wins with 211 points for her women's empowerment anthem Sobra-Sobra.",
+   "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T17:56:59.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965c/live/69643890-e04f-11f1-8d5a-49633fbae59d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965c/live/69643890-e04f-11f1-8d5a-49633fbae59d.jpg",
+   "title_en": "Philippines wins first Eurovision Song Contest Asia",
+   "summary_en": "Front-runner Carmelle wins with 211 points for her women's empowerment anthem Sobra-Sobra.",
+   "share_id": "MN202611_g405int1zh"
+  },
   {
    "id": "crawl_ljqpjd",
    "title": "DRC Says Ready to Withdraw Lumumba’s Candidacy For OIF",
@@ -1890,5 +1930,5 @@
    "share_id": "MN202611_ghkicxdetr"
   }
  ],
- "updated": "2026-11-14T17:43:06.937Z"
+ "updated": "2026-11-14T18:16:43.200Z"
 }

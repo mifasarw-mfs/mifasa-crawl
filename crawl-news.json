@@ -1,5 +1,45 @@
 [
  {
+  "id": "crawl_fckold",
+  "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+  "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+  "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-14T18:00:10.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bff/live/0bb4d910-e046-11f1-88e1-eb4e155225b3.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bff/live/0bb4d910-e046-11f1-88e1-eb4e155225b3.jpg",
+  "title_en": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+  "summary_en": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+  "share_id": "MN202611_fckolddl27"
+ },
+ {
+  "id": "crawl_g405in",
+  "title": "Philippines wins first Eurovision Song Contest Asia",
+  "summary": "Front-runner Carmelle wins with 211 points for her women's empowerment anthem Sobra-Sobra.",
+  "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-14T17:56:59.000Z",
+  "source": "BBC Entertainment",
+  "category": "entertainment",
+  "lang": "en",
+  "keywords": [
+   "BBC Entertainment",
+   "entertainment"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965c/live/69643890-e04f-11f1-8d5a-49633fbae59d.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965c/live/69643890-e04f-11f1-8d5a-49633fbae59d.jpg",
+  "title_en": "Philippines wins first Eurovision Song Contest Asia",
+  "summary_en": "Front-runner Carmelle wins with 211 points for her women's empowerment anthem Sobra-Sobra.",
+  "share_id": "MN202611_g405int1zh"
+ },
+ {
   "id": "crawl_ljqpjd",
   "title": "DRC Says Ready to Withdraw Lumumba’s Candidacy For OIF",
   "summary": "The Democratic Republic of Congo said on Saturday that it was ready to withdraw Juliana Lumumba’s candidacy for the La Francophonie Secretary General position. This latest development follows President Félix Tshisekedi arrival in Cambodia ahead of the 20th La Francophonie summit. The summit will notably be marked by the selection of the organization’s next Secretary-General, […] The post DRC Says…",
@@ -2448,12 +2488,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-13T19:01:36.000Z",
-  "source": "BBC Entertainment",
-  "category": "entertainment",
+  "source": "BBC World",
+  "category": "world",
   "lang": "en",
   "keywords": [
-   "BBC Entertainment",
-   "entertainment"
+   "BBC World",
+   "world"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c12/live/8c3025e0-e005-11f1-93e1-3b657b665bcf.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c12/live/8c3025e0-e005-11f1-93e1-3b657b665bcf.jpg",
@@ -3046,22 +3086,22 @@
  },
  {
   "id": "crawl_y7volj",
-  "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-  "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+  "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+  "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
   "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-13T15:04:42.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Business",
+  "category": "business",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Business",
+   "business"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
-  "title_en": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-  "summary_en": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+  "title_en": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+  "summary_en": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
   "share_id": "MN202611_y7voljol2d"
  },
  {
@@ -17282,45 +17322,5 @@
   "title_en": "Bournemouth beat Ipswich to extend winning streak",
   "summary_en": "Evanilson scores for the fifth Premier League game in a row as Bournemouth's impressive winning streak continued with a controlled victory over Ipswich.",
   "share_id": "MN202611_mt02a9ddrj"
- },
- {
-  "id": "crawl_1nuqri0",
-  "title": "Liverpool dispatch Palace to pile pressure on Sage",
-  "summary": "Liverpool see off Crystal Palace 3-1 at Selhurst Park as Pierre Sage's side suffer their fourth defeat in a row in the Premier League.",
-  "link": "https://www.bbc.co.uk/sport/football/videos/c5djv1mn7gj8o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/videos/c5djv1mn7gj8o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-08T19:58:46.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd96/live/6ce7c2c0-dba9-11f1-93e1-3b657b665bcf.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd96/live/6ce7c2c0-dba9-11f1-93e1-3b657b665bcf.jpg",
-  "title_en": "Liverpool dispatch Palace to pile pressure on Sage",
-  "summary_en": "Liverpool see off Crystal Palace 3-1 at Selhurst Park as Pierre Sage's side suffer their fourth defeat in a row in the Premier League.",
-  "share_id": "MN202611_1nuqri042za"
- },
- {
-  "id": "crawl_d12222",
-  "title": "Struggling Sunderland beat Chelsea to move off bottom of Premier League",
-  "summary": "Sunderland held on to their first Premier League win since August as Enzo le Fee's penalty help the hosts sink Chelsea at the Stadium of Light.",
-  "link": "https://www.bbc.co.uk/sport/football/videos/c64g1nj4v4rmo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/videos/c64g1nj4v4rmo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-08T19:58:31.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0cb/live/72a12510-dbab-11f1-a701-fddedf244c16.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0cb/live/72a12510-dbab-11f1-a701-fddedf244c16.jpg",
-  "title_en": "Struggling Sunderland beat Chelsea to move off bottom of Premier League",
-  "summary_en": "Sunderland held on to their first Premier League win since August as Enzo le Fee's penalty help the hosts sink Chelsea at the Stadium of Light.",
-  "share_id": "MN202611_d12222fdjc"
  }
 ]
