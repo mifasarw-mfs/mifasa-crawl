@@ -2734,6 +2734,102 @@
    ],
    "auto": true,
    "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_d25a0b18_q",
+   "label_rw": "Ubumwe n'ubwinshi by'amazina mu Kinyarwanda",
+   "label_en": "Kinyarwanda noun classes",
+   "patterns_en": [
+    "How many noun classes does Kinyarwanda have?",
+    "How do noun singular and plural forms work?",
+    "What determines sentence structure in Kinyarwanda?"
+   ],
+   "patterns_rw": [
+    "Ese Ikinyarwanda gifite ibyiciro by'amazina bingahe?",
+    "Ubumwe n'ubwinshi by'amazina bikora gute?",
+    "Ni iki kigena imiterere y'interuro mu Kinyarwanda?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ururimi rw'Ikinyarwanda rufite amatsinda y'amazina n'ubumwe n'ubwinshi. Aya matsinda agena uburyo interuro yubakwa. Amazina agabanwa mu byiciro bitandukanye.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The Kinyarwanda language has noun classes and plural forms. These classes determine how sentences are structured. Nouns are divided into various categories.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_c78a74b1_q",
+   "label_rw": "Indamukanyo n'amagambo y'icyubahiro",
+   "label_en": "Basic greetings and polite expressions",
+   "patterns_en": [
+    "What does Bite mean?",
+    "How do people greet each other in Rwanda?",
+    "What does Murakoze mean in English?"
+   ],
+   "patterns_rw": [
+    "Bite bisobanura iki?",
+    "Ni gute basuhuza mu Rwanda?",
+    "Murakoze bivuga iki mu Cyongereza?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mu Rwanda, indamukanyo ni ngombwa mu mibanire y'abantu. Kuvuga 'Bite' cyangwa 'Amakuru' ni uburyo busanzwe bwo gusuhuza. Amagambo nk'‘Murakoze’ n’‘Amashimwe’ agaragaza icyubahiro n'ishimwe mu biganiro bya buri munsi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "In Rwanda, greetings are essential for social interactions. Saying 'Bite' or 'Amakuru' is a common way to greet someone. Words like 'Murakoze' and 'Amashimwe' show respect and gratitude in daily conversations.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_17d22563_q",
+   "label_rw": "Ibigize umubiri w'umuntu mu Kinyarwanda",
+   "label_en": "Parts of the human body in Kinyarwanda",
+   "patterns_en": [
+    "What is the head called in Kinyarwanda?",
+    "What are hands used for?",
+    "What do legs help with?"
+   ],
+   "patterns_rw": [
+    "Ni iki kitwa umutwe mu Kinyarwanda?",
+    "Amaboko akoreshwa mu ki?",
+    "Amaguru afasha mu ki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mu Kinyarwanda, ibice by'umubiri w'umuntu bifite amazina yihariye akoreshwa mu buzima bwa buri munsi. Urugero, umutwe ni igice cyo hejuru, amaboko akoreshwa mu gukora, naho amaguru akoreshwa mu kugenda. Aya mazina afasha abantu kuvuga ku buzima n'ubuzima bwiza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "In Kinyarwanda, parts of the human body have specific names used in daily life. For example, the head is the upper part, hands are used for working, and legs are used for walking. These names help people communicate about health and wellbeing.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_6bf49a85_q",
+   "label_rw": "Inyamaswa zigaragara cyane mu Kinyarwanda",
+   "label_en": "Common animals in Kinyarwanda",
+   "patterns_en": [
+    "What are some common animals in Kinyarwanda?",
+    "Where are animal words used?",
+    "Does Kinyarwanda have specific animal words?"
+   ],
+   "patterns_rw": [
+    "Ni izihe nyamaswa zizwi cyane mu Kinyarwanda?",
+    "Amagambo y'inyamaswa akoreshwa he?",
+    "Ese Ikinyarwanda gifite amagambo yihariye y'inyamaswa?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ururimi rw'Ikinyarwanda rufite amagambo menshi yihariye y'inyamaswa. Inyamaswa zimwe zizwi cyane zirimo intare, inzovu, n'inkoko. Aya magambo akoreshwa mu buzima bwa buri munsi no mu migenurano.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The Kinyarwanda language has many specific words for animals. Some very well known animals include the lion, elephant, and chicken. These words are used in daily life and in proverbs.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
   }
  ],
  "knowledge": [
@@ -4979,6 +5075,85 @@
     "stranger danger",
     "awareness",
     "public"
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_d25a0b18",
+   "category": "language",
+   "title_rw": "Ubumwe n'ubwinshi by'amazina mu Kinyarwanda",
+   "title_en": "Kinyarwanda noun classes",
+   "summary_rw": "Ururimi rw'Ikinyarwanda rufite amatsinda y'amazina n'ubumwe n'ubwinshi. Aya matsinda agena uburyo interuro yubakwa. Amazina agabanwa mu byiciro bitandukanye.",
+   "summary_en": "The Kinyarwanda language has noun classes and plural forms. These classes determine how sentences are structured. Nouns are divided into various categories.",
+   "keywords": [
+    "ikinyarwanda",
+    "amazina",
+    "ubumwe",
+    "ubwinshi",
+    "grammar",
+    "nouns",
+    "classes"
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_c78a74b1",
+   "category": "language",
+   "title_rw": "Indamukanyo n'amagambo y'icyubahiro",
+   "title_en": "Basic greetings and polite expressions",
+   "summary_rw": "Mu Rwanda, indamukanyo ni ngombwa mu mibanire y'abantu. Kuvuga 'Bite' cyangwa 'Amakuru' ni uburyo busanzwe bwo gusuhuza. Amagambo nk'‘Murakoze’ n’‘Amashimwe’ agaragaza icyubahiro n'ishimwe mu biganiro bya buri munsi.",
+   "summary_en": "In Rwanda, greetings are essential for social interactions. Saying 'Bite' or 'Amakuru' is a common way to greet someone. Words like 'Murakoze' and 'Amashimwe' show respect and gratitude in daily conversations.",
+   "keywords": [
+    "indamukanyo",
+    "greetings",
+    "icyubahiro",
+    "respect",
+    "ikinyarwanda",
+    "rwanda",
+    "umuco",
+    "culture"
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_17d22563",
+   "category": "language",
+   "title_rw": "Ibigize umubiri w'umuntu mu Kinyarwanda",
+   "title_en": "Parts of the human body in Kinyarwanda",
+   "summary_rw": "Mu Kinyarwanda, ibice by'umubiri w'umuntu bifite amazina yihariye akoreshwa mu buzima bwa buri munsi. Urugero, umutwe ni igice cyo hejuru, amaboko akoreshwa mu gukora, naho amaguru akoreshwa mu kugenda. Aya mazina afasha abantu kuvuga ku buzima n'ubuzima bwiza.",
+   "summary_en": "In Kinyarwanda, parts of the human body have specific names used in daily life. For example, the head is the upper part, hands are used for working, and legs are used for walking. These names help people communicate about health and wellbeing.",
+   "keywords": [
+    "umubiri",
+    "body",
+    "ubuzima",
+    "health",
+    "kinyarwanda",
+    "amaguru",
+    "amaboko",
+    "umutwe"
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_6bf49a85",
+   "category": "language",
+   "title_rw": "Inyamaswa zigaragara cyane mu Kinyarwanda",
+   "title_en": "Common animals in Kinyarwanda",
+   "summary_rw": "Ururimi rw'Ikinyarwanda rufite amagambo menshi yihariye y'inyamaswa. Inyamaswa zimwe zizwi cyane zirimo intare, inzovu, n'inkoko. Aya magambo akoreshwa mu buzima bwa buri munsi no mu migenurano.",
+   "summary_en": "The Kinyarwanda language has many specific words for animals. Some very well known animals include the lion, elephant, and chicken. These words are used in daily life and in proverbs.",
+   "keywords": [
+    "inyamaswa",
+    "animals",
+    "ikinyarwanda",
+    "ururimi",
+    "language",
+    "intare",
+    "inzovu",
+    "inkoko"
    ],
    "auto": true,
    "taught": "2026-11-14"
