@@ -1,6 +1,6 @@
 {
  "day": "2026-11-13",
- "count": 144,
+ "count": 145,
  "articles": [
   {
    "id": "crawl_1ldu16m",
@@ -553,6 +553,26 @@
    "title_en": "Ronaldinho, 46, to play first game since 2015",
    "summary_en": "Brazil great Ronaldinho is set to make his first competitive start in more than a decade when Ravenna face local rivals Forli in Italy's third division on Sunday.",
    "share_id": "MN202611_ma05v6s39s"
+  },
+  {
+   "id": "crawl_9pbgro",
+   "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
+   "summary": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory.",
+   "link": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T19:01:36.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/354c/live/d61f3360-df76-11f1-b844-3146c4983677.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/354c/live/d61f3360-df76-11f1-b844-3146c4983677.png",
+   "title_en": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
+   "summary_en": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory.",
+   "share_id": "MN202611_9pbgro4d8i"
   },
   {
    "id": "crawl_14q5p5z",
@@ -3073,5 +3093,5 @@
    "share_id": "MN202611_cgwh2gfix2"
   }
  ],
- "updated": "2026-11-14T04:47:39.681Z"
+ "updated": "2026-11-14T07:33:21.549Z"
 }

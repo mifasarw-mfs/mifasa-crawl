@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-14T06:26:13.147Z",
- "total": 1594,
+ "updated": "2026-11-14T07:33:21.563Z",
+ "total": 1601,
  "days": [
   {
    "day": "2026-11-14",
    "file": "news-archive/2026-11-14.json",
-   "count": 12
+   "count": 18
   },
   {
    "day": "2026-11-13",
    "file": "news-archive/2026-11-13.json",
-   "count": 144
+   "count": 145
   },
   {
    "day": "2026-11-12",
