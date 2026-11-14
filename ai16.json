@@ -2830,6 +2830,102 @@
    ],
    "auto": true,
    "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_a82c13eb_q",
+   "label_rw": "Kurwanya Isuri mu Butaka",
+   "label_en": "Soil Erosion Control",
+   "patterns_en": [
+    "How is soil erosion controlled in Rwanda?",
+    "What is the purpose of terraces in agriculture?",
+    "Why is soil conservation important for farming?"
+   ],
+   "patterns_rw": [
+    "Ni gute isuri irwanywa mu Rwanda?",
+    "Amaterasi y'indama afasha iki mu buhinzi?",
+    "Kuki kurinda isuri ari ingenzi ku butaka?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Isuri igabanya ubutaka bwera mu Rwanda. Abahinzi bakoresha amaterasi y'indama, imirwanyabiyaga no gutera ibiti kugira ngo barinde ubutaka bwabo. Ibi bikorwa bituma amazi atatwara intungamubiri z'ubutaka, bikongera n'umusaruro w'ubuhinzi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Soil erosion reduces fertile land in Rwanda. Farmers typically use radical and progressive terraces, water retention ditches, and tree planting to protect their soil. These practices help prevent water from washing away soil nutrients and generally increase agricultural productivity.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_f54d1fce_q",
+   "label_rw": "Ubworozi bufatanije n'Ubuhinzi",
+   "label_en": "Livestock Integration in Farming",
+   "patterns_en": [
+    "What is livestock integration in farming?",
+    "How does animal manure help in agriculture?",
+    "In what ways does livestock improve soil yield?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyitwa ubworozi bufatanije n'ubuhinzi?",
+    "Ese amafumbire y'amatungo afasha iki mu buhinzi?",
+    "Ni gute ubworozi bwongera umusaruro w'ubutaka?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubworozi bufatanije n'ubuhinzi ni gahunda yo korora amatungo no guhinga hamwe. Amahungu y'amatungo akoreshwa nka fumbire mu mirima. Ibi bituma ubutaka bugira intungamubiri nyinshi kandi bikongera umusaruro w'ubuhinzi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Livestock integration in farming is a practice combining animal husbandry and crop production. Animal manure is typically used as fertilizer in fields. This generally improves soil nutrients and increases agricultural productivity.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_4f76dd8a_q",
+   "label_rw": "Gutondeka no Kubika Umusaruro",
+   "label_en": "Post-Harvest Handling and Storage",
+   "patterns_en": [
+    "What causes losses after harvesting?",
+    "How can produce be stored properly?",
+    "What is the importance of proper storage?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera igihombo nyuma y'isarura?",
+    "Ni gute umusaruro wabikwa neza?",
+    "Akamaro ko kubika umusaruro ni akahe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gutondeka no kubika umusaruro neza bifasha kugabanya igihombo cy'ibihingwa nyuma y'isarura. Ibi bikubiyemo kumutsa neza, gukoresha ububiko bwiza, no kurinda umusaruro ubuhehere n'udukoko. Ibi bituma ubuziranenge bw'ibiribwa bwiyongera n'abahinzi bakabona inyungu nziza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Proper post-harvest handling and storage helps reduce crop losses after harvesting. This involves drying properly, using good storage facilities, and protecting the produce from moisture and pests. These practices improve food quality and help farmers secure better profits.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_892216af_q",
+   "label_rw": "Kurwanya udukoko n'indwara z'ibihingwa mu buryo buhuza ubuvu",
+   "label_en": "Integrated Pest Management",
+   "patterns_en": [
+    "What is Integrated Pest Management?",
+    "What are the benefits of using this agricultural approach?",
+    "Which methods are used to control pests without relying only on chemicals?"
+   ],
+   "patterns_rw": [
+    "Kurwanya udukoko n'indwara mu buryo buhuza ubuvuzi butandukanye bisobanura iki?",
+    "Ni izihe nyungu zo gukoresha ubu buryo mu buhinzi?",
+    "Ni ubuhe buryo bukoreshwa mu kurwanya udukoko hatakoreshejwe imiti yonyine?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kurwanya udukoko n'indwara z'ibihingwa mu buryo buhuza ubuvuzi butandukanye ni uburyo bufasha abahinzi guhuza uburyo butandukanye bwo kurinda imyaka. Bugarika ikoreshwa ry'imiti yica udukoko y'uburozi yonyine. Buha agaciro ubundi buryo nko guhinduranya ibihingwa n'uburyo bw'umwimerere. Ibi bifasha kubungabunga ibidukikije no kugabanya amafaranga y'imiti.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Integrated Pest Management is an ecosystem-based strategy that focuses on long-term prevention of pests through a combination of techniques such as biological control, habitat manipulation, and resistant varieties. It aims to reduce reliance on synthetic chemical pesticides, protect the environment, and lower production costs for farmers.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
   }
  ],
  "knowledge": [
@@ -5154,6 +5250,86 @@
     "intare",
     "inzovu",
     "inkoko"
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_a82c13eb",
+   "category": "agriculture",
+   "title_rw": "Kurwanya Isuri mu Butaka",
+   "title_en": "Soil Erosion Control",
+   "summary_rw": "Isuri igabanya ubutaka bwera mu Rwanda. Abahinzi bakoresha amaterasi y'indama, imirwanyabiyaga no gutera ibiti kugira ngo barinde ubutaka bwabo. Ibi bikorwa bituma amazi atatwara intungamubiri z'ubutaka, bikongera n'umusaruro w'ubuhinzi.",
+   "summary_en": "Soil erosion reduces fertile land in Rwanda. Farmers typically use radical and progressive terraces, water retention ditches, and tree planting to protect their soil. These practices help prevent water from washing away soil nutrients and generally increase agricultural productivity.",
+   "keywords": [
+    "isuri",
+    "ubutaka",
+    "amaterasi",
+    "ubuhinzi",
+    "erosion",
+    "soil",
+    "terraces",
+    "agriculture"
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_f54d1fce",
+   "category": "agriculture",
+   "title_rw": "Ubworozi bufatanije n'Ubuhinzi",
+   "title_en": "Livestock Integration in Farming",
+   "summary_rw": "Ubworozi bufatanije n'ubuhinzi ni gahunda yo korora amatungo no guhinga hamwe. Amahungu y'amatungo akoreshwa nka fumbire mu mirima. Ibi bituma ubutaka bugira intungamubiri nyinshi kandi bikongera umusaruro w'ubuhinzi.",
+   "summary_en": "Livestock integration in farming is a practice combining animal husbandry and crop production. Animal manure is typically used as fertilizer in fields. This generally improves soil nutrients and increases agricultural productivity.",
+   "keywords": [
+    "ubworozi",
+    "ubuhinzi",
+    "fumbire",
+    "ubutaka",
+    "livestock",
+    "farming",
+    "manure",
+    "soil"
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_4f76dd8a",
+   "category": "agriculture",
+   "title_rw": "Gutondeka no Kubika Umusaruro",
+   "title_en": "Post-Harvest Handling and Storage",
+   "summary_rw": "Gutondeka no kubika umusaruro neza bifasha kugabanya igihombo cy'ibihingwa nyuma y'isarura. Ibi bikubiyemo kumutsa neza, gukoresha ububiko bwiza, no kurinda umusaruro ubuhehere n'udukoko. Ibi bituma ubuziranenge bw'ibiribwa bwiyongera n'abahinzi bakabona inyungu nziza.",
+   "summary_en": "Proper post-harvest handling and storage helps reduce crop losses after harvesting. This involves drying properly, using good storage facilities, and protecting the produce from moisture and pests. These practices improve food quality and help farmers secure better profits.",
+   "keywords": [
+    "umusaruro",
+    "ububiko",
+    "ubuhinzi",
+    "igihembwe",
+    "harvest",
+    "storage",
+    "agriculture",
+    "crops"
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_892216af",
+   "category": "agriculture",
+   "title_rw": "Kurwanya udukoko n'indwara z'ibihingwa mu buryo buhuza ubuvuzi butandukanye",
+   "title_en": "Integrated Pest Management",
+   "summary_rw": "Kurwanya udukoko n'indwara z'ibihingwa mu buryo buhuza ubuvuzi butandukanye ni uburyo bufasha abahinzi guhuza uburyo butandukanye bwo kurinda imyaka. Bugarika ikoreshwa ry'imiti yica udukoko y'uburozi yonyine. Buha agaciro ubundi buryo nko guhinduranya ibihingwa n'uburyo bw'umwimerere. Ibi bifasha kubungabunga ibidukikije no kugabanya amafaranga y'imiti.",
+   "summary_en": "Integrated Pest Management is an ecosystem-based strategy that focuses on long-term prevention of pests through a combination of techniques such as biological control, habitat manipulation, and resistant varieties. It aims to reduce reliance on synthetic chemical pesticides, protect the environment, and lower production costs for farmers.",
+   "keywords": [
+    "ubuhinzi",
+    "agriculture",
+    "udukoko",
+    "pests",
+    "imiti",
+    "pesticides",
+    "ibidukikije",
+    "environment"
    ],
    "auto": true,
    "taught": "2026-11-14"
