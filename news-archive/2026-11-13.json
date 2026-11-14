@@ -1,6 +1,6 @@
 {
  "day": "2026-11-13",
- "count": 146,
+ "count": 147,
  "articles": [
   {
    "id": "crawl_1ldu16m",
@@ -1293,6 +1293,36 @@
    "title_en": "Are you affected by the Microsoft outage?",
    "summary_en": "A Microsoft outage has affected services including Teams, Outlook and AI software Copilot.",
    "share_id": "MN202611_ecez6xbm9z"
+  },
+  {
+   "id": "crawl_5k79ps",
+   "title": "2 People Control 1 Car in GTA!",
+   "summary": "📺MY MINECRAFT CHANNEL: @Waffy ⚡Socials⚡ 🎯Discord: https://discord.gg/waffloos 🌵Twitter: https://twitter.com/Waffloos #gta5 #waffloos #gtarp",
+   "link": "https://www.youtube.com/watch?v=WO03nPGL6hc",
+   "url": "https://www.youtube.com/watch?v=WO03nPGL6hc",
+   "date": "2026-11-13T14:00:12.000Z",
+   "source": "YouTube Trending Kenya",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "YouTube Trending Kenya",
+    "entertainment",
+    "trending",
+    "gta 5",
+    "gta 5 roleplay",
+    "grand theft auto",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "WO03nPGL6hc"
+   },
+   "type": "video",
+   "image": "https://i.ytimg.com/vi/WO03nPGL6hc/hqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/WO03nPGL6hc/hqdefault.jpg",
+   "title_en": "2 People Control 1 Car in GTA!",
+   "summary_en": "📺MY MINECRAFT CHANNEL: @Waffy ⚡Socials⚡ 🎯Discord: https://discord.gg/waffloos 🌵Twitter: https://twitter.com/Waffloos #gta5 #waffloos #gtarp",
+   "share_id": "MN202611_5k79ps7ej2"
   },
   {
    "id": "crawl_3nd7ce",
@@ -3113,5 +3143,5 @@
    "share_id": "MN202611_cgwh2gfix2"
   }
  ],
- "updated": "2026-11-14T09:10:56.901Z"
+ "updated": "2026-11-14T11:09:19.683Z"
 }
