@@ -1,7 +1,47 @@
 {
  "day": "2026-11-14",
- "count": 87,
+ "count": 89,
  "articles": [
+  {
+   "id": "crawl_ipn0u2",
+   "title": "A Friend Persuaded Him to Visit Rwanda. Eight Years Later, He Runs Four Gyms in Kigali",
+   "summary": "When Ole Haugum first visited Rwanda in 2018, he was not looking for a new home or planning to build a fitness business. He was exploring the country’s gym industry,… The post A Friend Persuaded Him to Visit Rwanda. Eight Years Later, He Runs Four Gyms in Kigali appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/a-friend-persuaded-him-to-visit-rwanda-eight-years-later-he-runs-four-gyms-in-kigali/",
+   "url": "https://www.ktpress.rw/2026/11/a-friend-persuaded-him-to-visit-rwanda-eight-years-later-he-runs-four-gyms-in-kigali/",
+   "date": "2026-11-14T18:54:43.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "Society",
+    "latestnews"
+   ],
+   "title_en": "A Friend Persuaded Him to Visit Rwanda. Eight Years Later, He Runs Four Gyms in Kigali",
+   "summary_en": "When Ole Haugum first visited Rwanda in 2018, he was not looking for a new home or planning to build a fitness business. He was exploring the country’s gym industry,… The post A Friend Persuaded Him to Visit Rwanda. Eight Years Later, He Runs Four Gyms in Kigali appeared first on KT PRESS .",
+   "share_id": "MN202611_ipn0u234t4"
+  },
+  {
+   "id": "crawl_hvs3ug",
+   "title": "Le Tissier stars as Man Utd beat Crystal Palace to extend unbeaten run",
+   "summary": "Maya le Tissier scores a stunning strike on her 150th appearance for Manchester United to help her side beat Crystal Palace 2-0 in the WSL, as the home side extend their unbeaten run in all competitions to 12 matches.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cqglrkk7gr1xo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cqglrkk7gr1xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T18:27:23.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/276e/live/9e2ede40-e03b-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/276e/live/9e2ede40-e03b-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "Le Tissier stars as Man Utd beat Crystal Palace to extend unbeaten run",
+   "summary_en": "Maya le Tissier scores a stunning strike on her 150th appearance for Manchester United to help her side beat Crystal Palace 2-0 in the WSL, as the home side extend their unbeaten run in all competitions to 12 matches.",
+   "share_id": "MN202611_hvs3ug5fbq"
+  },
   {
    "id": "crawl_fckold",
    "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
@@ -1930,5 +1970,5 @@
    "share_id": "MN202611_ghkicxdetr"
   }
  ],
- "updated": "2026-11-14T18:16:43.200Z"
+ "updated": "2026-11-14T19:00:13.173Z"
 }
