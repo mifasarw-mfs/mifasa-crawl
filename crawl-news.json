@@ -1,5 +1,85 @@
 [
  {
+  "id": "crawl_1qvibe3",
+  "title": "Bluetongue virus confirmed on County Down farm",
+  "summary": "Officials from the Department of Agriculture, Environment and Rural Affairs said the virus had been detected in three sheep.",
+  "link": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-14T00:17:45.000Z",
+  "source": "BBC Science",
+  "category": "science",
+  "lang": "en",
+  "keywords": [
+   "BBC Science",
+   "science"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4084/live/7a74d700-d03f-11f0-a224-bf3cbaf1e70d.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4084/live/7a74d700-d03f-11f0-a224-bf3cbaf1e70d.jpg",
+  "title_en": "Bluetongue virus confirmed on County Down farm",
+  "summary_en": "Officials from the Department of Agriculture, Environment and Rural Affairs said the virus had been detected in three sheep.",
+  "share_id": "MN202611_1qvibe3b7ux"
+ },
+ {
+  "id": "crawl_y4i2e2",
+  "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+  "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+  "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-14T00:03:56.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8212/live/9b2ab3f0-df54-11f1-93e1-3b657b665bcf.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8212/live/9b2ab3f0-df54-11f1-93e1-3b657b665bcf.jpg",
+  "title_en": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+  "summary_en": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+  "share_id": "MN202611_y4i2e2ayuw"
+ },
+ {
+  "id": "crawl_ghkicx",
+  "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+  "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+  "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-14T00:03:52.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9975/live/51088590-df40-11f1-a48c-75dd2efdacb5.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9975/live/51088590-df40-11f1-a48c-75dd2efdacb5.jpg",
+  "title_en": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+  "summary_en": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+  "share_id": "MN202611_ghkicxdetr"
+ },
+ {
+  "id": "crawl_1ldu16m",
+  "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+  "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+  "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-13T23:40:45.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
+  "title_en": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+  "summary_en": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+  "share_id": "MN202611_1ldu16mmxng"
+ },
+ {
   "id": "crawl_1umgww2",
   "title": "France hold nerve to edge past South Africa in thriller",
   "summary": "France hold on to end their five-match losing run against South Africa at Stade de France with an enthralling 21-19 victory in Paris.",
@@ -230,7 +310,7 @@
  {
   "id": "crawl_sqa9ue",
   "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
-  "summary": "A cargo ship has collided with a docked cruise ship in New Orleans, with reports suggesting more than 120 people were on board the cruise ship.",
+  "summary": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
   "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-13T21:15:24.000Z",
@@ -244,7 +324,7 @@
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/880d/live/7334ea60-dfad-11f1-b441-2b33b063138f.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/880d/live/7334ea60-dfad-11f1-b441-2b33b063138f.jpg",
   "title_en": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
-  "summary_en": "A cargo ship has collided with a docked cruise ship in New Orleans, with reports suggesting more than 120 people were on board the cruise ship.",
+  "summary_en": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
   "share_id": "MN202611_sqa9ue6wxg"
  },
  {
@@ -269,8 +349,8 @@
  },
  {
   "id": "crawl_uy03jd",
-  "title": "SpaceX to attempt double catch of huge Starship rocket",
-  "summary": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
+  "title": "Setback for SpaceX Starship rocket's double-catch test",
+  "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
   "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-13T20:12:02.000Z",
@@ -281,10 +361,10 @@
    "BBC World",
    "world"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53ad/live/14a168f0-de92-11f1-9afe-1f03bfe02283.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53ad/live/14a168f0-de92-11f1-9afe-1f03bfe02283.jpg",
-  "title_en": "SpaceX to attempt double catch of huge Starship rocket",
-  "summary_en": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b1a/live/3f2ee680-dfbc-11f1-9e98-11d1980367a2.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b1a/live/3f2ee680-dfbc-11f1-9e98-11d1980367a2.jpg",
+  "title_en": "Setback for SpaceX Starship rocket's double-catch test",
+  "summary_en": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
   "share_id": "MN202611_uy03jdt007"
  },
  {
@@ -2938,12 +3018,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-13T00:20:24.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Africa",
+  "category": "news",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Africa",
+   "news"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dca/live/418b2150-de90-11f1-a701-fddedf244c16.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dca/live/418b2150-de90-11f1-a701-fddedf244c16.jpg",
@@ -17173,87 +17253,5 @@
   "title_en": "Forest win over Man City 'a turning point' - Murphy",
   "summary_en": "Match of the Day's Danny Murphy breaks down Nottingham Forest's impressive 3-1 win over Manchester City, a victory that he believes could be \"a turning point\" in Forest's first season under Oliver Glasner.",
   "share_id": "MN202611_10vcd8wpoq6"
- },
- {
-  "id": "crawl_wz1bky",
-  "title": "Arsenal should have been awarded penalty against Hull - Cann",
-  "summary": "Former Premier League assistant referee Darren Cann explains why Arsenal should have been awarded a penalty for a foul on Kai Havertz in the Premier League champions' 1-0 win over Hull City.",
-  "link": "https://www.bbc.co.uk/sport/football/videos/cr4g1n21vgp3o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/videos/cr4g1n21vgp3o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-08T00:00:09.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8601/live/81888e60-dafc-11f1-93e1-3b657b665bcf.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8601/live/81888e60-dafc-11f1-93e1-3b657b665bcf.jpg",
-  "title_en": "Arsenal should have been awarded penalty against Hull - Cann",
-  "summary_en": "Former Premier League assistant referee Darren Cann explains why Arsenal should have been awarded a penalty for a foul on Kai Havertz in the Premier League champions' 1-0 win over Hull City.",
-  "share_id": "MN202611_wz1bkyen28"
- },
- {
-  "id": "crawl_qomwmf",
-  "title": "Afghanistan & Zimbabwe draw as only 25 wickets fall in five days - first Test scorecard",
-  "summary": "Latest scorecard from the first Test between Afghanistan and Zimbabwe in Sharjah.",
-  "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-08T00:00:00.000Z",
-  "source": "BBC Sport Africa",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Sport Africa",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4be/live/d6e973a0-d6e3-11f1-93e1-3b657b665bcf.png",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4be/live/d6e973a0-d6e3-11f1-93e1-3b657b665bcf.png",
-  "title_en": "Afghanistan & Zimbabwe draw as only 25 wickets fall in five days - first Test scorecard",
-  "summary_en": "Latest scorecard from the first Test between Afghanistan and Zimbabwe in Sharjah.",
-  "share_id": "MN202611_qomwmf5yh1"
- },
- {
-  "id": "crawl_1eg1ea0",
-  "title": "York score after 10 seconds against Northampton following unique kick-off",
-  "summary": "Ollie Pearce scores after 10 seconds as York City see off Northampton Town in a 4-0 win to reach the second round of the FA Cup.",
-  "link": "https://www.bbc.co.uk/sport/football/videos/c893zrl4p7npo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/videos/c893zrl4p7npo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-07T23:38:38.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a54/live/c702b650-db01-11f1-a701-fddedf244c16.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a54/live/c702b650-db01-11f1-a701-fddedf244c16.jpg",
-  "title_en": "York score after 10 seconds against Northampton following unique kick-off",
-  "summary_en": "Ollie Pearce scores after 10 seconds as York City see off Northampton Town in a 4-0 win to reach the second round of the FA Cup.",
-  "share_id": "MN202611_1eg1ea0epra"
- },
- {
-  "id": "crawl_1u0q2wl",
-  "title": "Ivuye inyuma, REG VC itsindiye Gisagara VC murugo",
-  "summary": "Shampiyona y’icyiciro cya mbere muri volleyball yakomezaga hakinwa umunsi wa kane aho ikipe ya REG VC bigoranye yavuye inyuma maze itsinda Gisagara VC amaseti 3-2. Ni umunsi wa kane wa (…)",
-  "link": "https://www.kigalitoday.com/imikino/volleyball/article/imvuye-inyuma-reg-vc-itsindiye-gisagara-vc-murugo",
-  "url": "https://www.kigalitoday.com/imikino/volleyball/article/imvuye-inyuma-reg-vc-itsindiye-gisagara-vc-murugo",
-  "date": "2026-11-07T23:29:08.000Z",
-  "source": "Kigali Today",
-  "category": "news",
-  "lang": "rw",
-  "keywords": [
-   "Kigali Today",
-   "news",
-   "Volleyball",
-   "Amon B. Nuwamanya"
-  ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/cc183052-8da5-4ed6-8381-1835fdffd3da.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/cc183052-8da5-4ed6-8381-1835fdffd3da.jpg",
-  "title_rw": "Ivuye inyuma, REG VC itsindiye Gisagara VC murugo",
-  "summary_rw": "Shampiyona y’icyiciro cya mbere muri volleyball yakomezaga hakinwa umunsi wa kane aho ikipe ya REG VC bigoranye yavuye inyuma maze itsinda Gisagara VC amaseti 3-2. Ni umunsi wa kane wa (…)",
-  "share_id": "MN202611_1u0q2wlxhzn"
  }
 ]

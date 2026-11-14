@@ -1,7 +1,27 @@
 {
  "day": "2026-11-13",
- "count": 141,
+ "count": 142,
  "articles": [
+  {
+   "id": "crawl_1ldu16m",
+   "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+   "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+   "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T23:40:45.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
+   "title_en": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+   "summary_en": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+   "share_id": "MN202611_1ldu16mmxng"
+  },
   {
    "id": "crawl_1umgww2",
    "title": "France hold nerve to edge past South Africa in thriller",
@@ -3011,5 +3031,5 @@
    "share_id": "MN202611_cgwh2gfix2"
   }
  ],
- "updated": "2026-11-13T23:51:09.854Z"
+ "updated": "2026-11-14T00:27:29.010Z"
 }
