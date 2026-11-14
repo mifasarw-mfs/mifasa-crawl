@@ -1,7 +1,27 @@
 {
  "day": "2026-11-14",
- "count": 101,
+ "count": 102,
  "articles": [
+  {
+   "id": "crawl_1kp10el",
+   "title": "Arsenal target Nusa could cost £66m - Sunday's gossip",
+   "summary": "Arsenal could have to pay £66m for RB Leipzig's Antonio Nusa, Real Betis reject Chelsea's bid for Jose Morante, plus more.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T21:48:45.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ca1/live/7aacbf20-e06b-11f1-99e6-531f8829f5a3.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ca1/live/7aacbf20-e06b-11f1-99e6-531f8829f5a3.png",
+   "title_en": "Arsenal target Nusa could cost £66m - Sunday's gossip",
+   "summary_en": "Arsenal could have to pay £66m for RB Leipzig's Antonio Nusa, Real Betis reject Chelsea's bid for Jose Morante, plus more.",
+   "share_id": "MN202611_1kp10elsxt7"
+  },
   {
    "id": "crawl_125gz5l",
    "title": "Spurs held to a draw by Everton in the WSL",
@@ -2248,5 +2268,5 @@
    "share_id": "MN202611_151zgnivjho"
   }
  ],
- "updated": "2026-11-14T21:26:19.701Z"
+ "updated": "2026-11-14T22:00:38.123Z"
 }
