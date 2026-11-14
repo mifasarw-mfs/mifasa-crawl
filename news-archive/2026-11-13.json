@@ -1,6 +1,6 @@
 {
  "day": "2026-11-13",
- "count": 143,
+ "count": 144,
  "articles": [
   {
    "id": "crawl_1ldu16m",
@@ -202,6 +202,28 @@
    "title_rw": "#AFCON2027Q: Amavubi atsinzwe na Mali(Amafoto)",
    "summary_rw": "Amavubi yatsindiwe na Mali i Bamako ibitego 3-2 mu mukino w’umunsi wa gatatu w’amatsinda yo gushaka itike y’Igikombe cya Afurika 2027 mu mukino wari uryoheye ijisho.",
    "share_id": "MN202611_1fbjb0cxifu"
+  },
+  {
+   "id": "crawl_1trfo95",
+   "title": "#AFCON2027Q: Amavubi atsinzwe na Mali bigoranye(Amafoto)",
+   "summary": "Amavubi yatsindiwe na Mali i Bamako ibitego 3-2 mu mukino w’umunsi wa gatatu w’amatsinda yo gushaka itike y’Igikombe cya Afurika 2027 mu mukino wari uryoheye ijisho. ‎Uyu mukino watumye Mali (…)",
+   "link": "https://www.kigalitoday.com/imikino/football/article/afcon2027q-amavubi-atsinzwe-na-mali-bigoranye-amafoto",
+   "url": "https://www.kigalitoday.com/imikino/football/article/afcon2027q-amavubi-atsinzwe-na-mali-bigoranye-amafoto",
+   "date": "2026-11-13T22:15:43.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Football",
+    "Jean Jules Uwimana"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/hxb-zqawcaan5m5.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/hxb-zqawcaan5m5.jpg",
+   "title_rw": "#AFCON2027Q: Amavubi atsinzwe na Mali bigoranye(Amafoto)",
+   "summary_rw": "Amavubi yatsindiwe na Mali i Bamako ibitego 3-2 mu mukino w’umunsi wa gatatu w’amatsinda yo gushaka itike y’Igikombe cya Afurika 2027 mu mukino wari uryoheye ijisho. ‎Uyu mukino watumye Mali (…)",
+   "share_id": "MN202611_1trfo95i2hz"
   },
   {
    "id": "crawl_nf6xyy",
@@ -3051,5 +3073,5 @@
    "share_id": "MN202611_cgwh2gfix2"
   }
  ],
- "updated": "2026-11-14T01:33:48.160Z"
+ "updated": "2026-11-14T04:47:39.681Z"
 }

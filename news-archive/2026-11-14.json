@@ -1,7 +1,48 @@
 {
  "day": "2026-11-14",
- "count": 7,
+ "count": 9,
  "articles": [
+  {
+   "id": "crawl_1kstelk",
+   "title": "Volleyball: Amakipe ya Police yatanze isomo kuri APR",
+   "summary": "Imbere y’abantu bari bakubise buzuye Stade nto y’ Iremera, Amakipe ya Police Volleyball club yatanze ubutumwa kuri APR VC nyuma yo kubatsinda bombi abagabo n’abagore badakozemo amaseti 3-1. Ibi (…)",
+   "link": "https://www.kigalitoday.com/imikino/volleyball/article/volleyball-amakipe-ya-police-yatanze-isomo-kuri-apr",
+   "url": "https://www.kigalitoday.com/imikino/volleyball/article/volleyball-amakipe-ya-police-yatanze-isomo-kuri-apr",
+   "date": "2026-11-14T04:37:33.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Volleyball"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/c1137c1e-abe3-42e5-abc0-16e9edd7821d.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/c1137c1e-abe3-42e5-abc0-16e9edd7821d.jpg",
+   "title_rw": "Volleyball: Amakipe ya Police yatanze isomo kuri APR",
+   "summary_rw": "Imbere y’abantu bari bakubise buzuye Stade nto y’ Iremera, Amakipe ya Police Volleyball club yatanze ubutumwa kuri APR VC nyuma yo kubatsinda bombi abagabo n’abagore badakozemo amaseti 3-1. Ibi (…)",
+   "share_id": "MN202611_1kstelkzuti"
+  },
+  {
+   "id": "crawl_hehvfw",
+   "title": "Wumva ushaka kurya ibiryo byoroheje mbere yo kuryama? Dore ikibitera – n'icyo wabikoraho",
+   "summary": "Hari impamvu zishingiye ku mikorere karemano y'umubiri zituma umuntu yifuza kurya ibiribwa biryohereye mbere yo kuryama ariko niba ubikora ushobora guhindura ako kamenyero.",
+   "link": "https://www.bbc.com/gahuza/articles/c3dxwwqkj9ryo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/c3dxwwqkj9ryo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T04:28:33.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a6a5/live/6391c220-df5f-11f1-a8af-15d7a25dc0d1.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a6a5/live/6391c220-df5f-11f1-a8af-15d7a25dc0d1.png",
+   "title_rw": "Wumva ushaka kurya ibiryo byoroheje mbere yo kuryama? Dore ikibitera – n'icyo wabikoraho",
+   "summary_rw": "Hari impamvu zishingiye ku mikorere karemano y'umubiri zituma umuntu yifuza kurya ibiribwa biryohereye mbere yo kuryama ariko niba ubikora ushobora guhindura ako kamenyero.",
+   "share_id": "MN202611_hehvfwarwq"
+  },
   {
    "id": "crawl_18bp3kv",
    "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
@@ -143,5 +184,5 @@
    "share_id": "MN202611_ghkicxdetr"
   }
  ],
- "updated": "2026-11-14T04:01:54.808Z"
+ "updated": "2026-11-14T04:47:39.679Z"
 }
