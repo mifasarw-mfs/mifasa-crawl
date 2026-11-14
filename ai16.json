@@ -3022,6 +3022,78 @@
    ],
    "auto": true,
    "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_89a68684_q",
+   "label_rw": "Ubugeni bwa Imigongo",
+   "label_en": "Imigongo Traditional Art",
+   "patterns_en": [
+    "Where did imigongo art originate in Rwanda?",
+    "What materials are used to make imigongo?",
+    "Where is imigongo art typically displayed?"
+   ],
+   "patterns_rw": [
+    "Imigongo yaturutse he mu Rwanda?",
+    "Ni iki gikoreshwa mu gukora imigongo?",
+    "Ubugeni bwa imigongo bukorerwa he?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imigongo ni ubugeni gakondo bwo mu Rwanda bwatangiye mu Karere ka Gisaka. Abaturage bakoresha amase y'inka n'ibara karemano kugira ngo bakore imizingo n'ibishushanyo bifite imiterge y'uburyo butandukanye. Ubu bugeni bukunze gukorerwa ku nkuta z'inzu cyangwa ku byahoze ari ibikoresho by'ubwami.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Imigongo is a traditional art form from Rwanda that originated in the historic Gisaka region. Artisans use cow dung and natural colors to create geometric patterns and raised relief designs. This unique art is typically displayed on house walls or used to decorate traditional items.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_8863ead1_q",
+   "label_rw": "Ubukwe bwa Kinyarwanda",
+   "label_en": "Traditional Rwandan Weddings",
+   "patterns_en": [
+    "What is the meaning of gusaba and gukwa in Rwanda?",
+    "What values are shown in traditional Rwandan weddings?",
+    "How do both families meet during a traditional wedding?"
+   ],
+   "patterns_rw": [
+    "Ni iki gisobanuro cyo gusaba no gukwa mu Rwanda?",
+    "Ni izihe ndangagaciro zigaragara mu bukwe bwa Kinyarwanda?",
+    "Ni gute imiryango yombi ihura mu bukwe gakondo?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubukwe bwa Kinyarwanda ni umuco ukomeye wo guhuza imiryango y'abageni. Hariho ibikorwa by'ingenzi nko gusaba no gukwa, aho umuryango w'umusore ujya gushaka umugeni mu muryango w'umukobwa. Ibi birori birangwa n'imbyino za Gakondo, indirimbo, n'impamba z'inama zihabwa abageni kugira ngo bubake urugo rwiza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Traditional Rwandan weddings are a significant cultural practice uniting two families. Key events include gusaba and gukwa, where the groom's family formally requests and negotiates the bride's hand in marriage. These ceremonies usually feature traditional dances, songs, and marital advice given to the couple to help them build a strong home.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_c9ceafb7_q",
+   "label_rw": "Umuco wo Kwita Izina",
+   "label_en": "Rwandan Naming Ceremony Tradition",
+   "patterns_en": [
+    "What is the Kwita Izina tradition?",
+    "How has the naming ceremony tradition evolved in modern times?",
+    "What is the importance of the baby gorilla naming ceremony?"
+   ],
+   "patterns_rw": [
+    "Umuco wo kwita izina ni iki?",
+    "Ni iki cyahindutse mu muhango wo kwita izina muri iki gihe?",
+    "Umuhango wo kwita izina abana b'ingagi ufite akahe kamaro?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kwita izina ni umuco nyarwanda wo guha umwana izina. Muri iki gihe, uyu muco wahinduwe ukaba n'umuhango ngarukamwaka wo kwita amazina abana b'ingagi. Uyu muhango ufasha mu kumenyekanisha no kubungabunga ibidukikije ndetse n'ubukerarugendo mu Rwanda.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Kwita izina is a traditional Rwandan naming ceremony for newborns. In modern times, this tradition has evolved into an annual event where baby mountain gorillas are given names. The ceremony helps promote wildlife conservation and tourism in Rwanda.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
   }
  ],
  "knowledge": [
@@ -5504,6 +5576,66 @@
     "inyamaswa",
     "wildlife",
     "ubukerarugendo"
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_89a68684",
+   "category": "culture",
+   "title_rw": "Ubugeni bwa Imigongo",
+   "title_en": "Imigongo Traditional Art",
+   "summary_rw": "Imigongo ni ubugeni gakondo bwo mu Rwanda bwatangiye mu Karere ka Gisaka. Abaturage bakoresha amase y'inka n'ibara karemano kugira ngo bakore imizingo n'ibishushanyo bifite imiterge y'uburyo butandukanye. Ubu bugeni bukunze gukorerwa ku nkuta z'inzu cyangwa ku byahoze ari ibikoresho by'ubwami.",
+   "summary_en": "Imigongo is a traditional art form from Rwanda that originated in the historic Gisaka region. Artisans use cow dung and natural colors to create geometric patterns and raised relief designs. This unique art is typically displayed on house walls or used to decorate traditional items.",
+   "keywords": [
+    "imigongo",
+    "ubugeni",
+    "gisaka",
+    "rwanda",
+    "art",
+    "culture",
+    "tradition"
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_8863ead1",
+   "category": "culture",
+   "title_rw": "Ubukwe bwa Kinyarwanda",
+   "title_en": "Traditional Rwandan Weddings",
+   "summary_rw": "Ubukwe bwa Kinyarwanda ni umuco ukomeye wo guhuza imiryango y'abageni. Hariho ibikorwa by'ingenzi nko gusaba no gukwa, aho umuryango w'umusore ujya gushaka umugeni mu muryango w'umukobwa. Ibi birori birangwa n'imbyino za Gakondo, indirimbo, n'impamba z'inama zihabwa abageni kugira ngo bubake urugo rwiza.",
+   "summary_en": "Traditional Rwandan weddings are a significant cultural practice uniting two families. Key events include gusaba and gukwa, where the groom's family formally requests and negotiates the bride's hand in marriage. These ceremonies usually feature traditional dances, songs, and marital advice given to the couple to help them build a strong home.",
+   "keywords": [
+    "ubukwe",
+    "umuco",
+    "gusaba",
+    "gukwa",
+    "wedding",
+    "culture",
+    "marriage",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_c9ceafb7",
+   "category": "culture",
+   "title_rw": "Umuco wo Kwita Izina",
+   "title_en": "Rwandan Naming Ceremony Tradition",
+   "summary_rw": "Kwita izina ni umuco nyarwanda wo guha umwana izina. Muri iki gihe, uyu muco wahinduwe ukaba n'umuhango ngarukamwaka wo kwita amazina abana b'ingagi. Uyu muhango ufasha mu kumenyekanisha no kubungabunga ibidukikije ndetse n'ubukerarugendo mu Rwanda.",
+   "summary_en": "Kwita izina is a traditional Rwandan naming ceremony for newborns. In modern times, this tradition has evolved into an annual event where baby mountain gorillas are given names. The ceremony helps promote wildlife conservation and tourism in Rwanda.",
+   "keywords": [
+    "kwita izina",
+    "naming ceremony",
+    "ingagi",
+    "gorillas",
+    "umuco",
+    "culture",
+    "rwanda",
+    "ubukerarugendo",
+    "tourism"
    ],
    "auto": true,
    "taught": "2026-11-14"
