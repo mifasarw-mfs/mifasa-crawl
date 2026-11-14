@@ -1,7 +1,94 @@
 {
  "day": "2026-11-14",
- "count": 65,
+ "count": 69,
  "articles": [
+  {
+   "id": "crawl_1239gin",
+   "title": "Peeping Into Francophone Entrepreneurs Forum",
+   "summary": "Thousands of delegates from over 90 countries in the La Francophonie bloc are gathered in Phnom Penh for the 6th Francophone Entrepreneurs Forum. Themed; “Innovation: Catalysts for a Sustainable and Integrated Francophonie”, the forum November 14-15 seeks to strengthen the blocs economic cooperation, promote innovation and explore new investment opportunities. The forum provides an international…",
+   "link": "https://taarifa.rw/2026/11/14/peeping-into-francophone-entrepreneurs-forum/",
+   "url": "https://taarifa.rw/2026/11/14/peeping-into-francophone-entrepreneurs-forum/",
+   "date": "2026-11-14T15:08:59.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "La Francophonie Cambodia Special Report"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261114-134108.jpg?fit=720%2C364&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261114-134108.jpg?fit=720%2C364&ssl=1",
+   "title_en": "Peeping Into Francophone Entrepreneurs Forum",
+   "summary_en": "Thousands of delegates from over 90 countries in the La Francophonie bloc are gathered in Phnom Penh for the 6th Francophone Entrepreneurs Forum. Themed; “Innovation: Catalysts for a Sustainable and Integrated Francophonie”, the forum November 14-15 seeks to strengthen the blocs economic cooperation, promote innovation and explore new investment opportunities. The forum provides an international…",
+   "share_id": "MN202611_1239gin3dj1"
+  },
+  {
+   "id": "crawl_1099ttd",
+   "title": "Former Stoke City manager Thordarson dies aged 71",
+   "summary": "Gudjon Thordarson, who led Stoke City to promotion from the third tier in 2002 and managed three other English clubs, dies aged 71.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c98r7l5yrn6go?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c98r7l5yrn6go?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T15:04:59.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b34a/live/b33c7ec0-e039-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b34a/live/b33c7ec0-e039-11f1-b441-2b33b063138f.jpg",
+   "title_en": "Former Stoke City manager Thordarson dies aged 71",
+   "summary_en": "Gudjon Thordarson, who led Stoke City to promotion from the third tier in 2002 and managed three other English clubs, dies aged 71.",
+   "share_id": "MN202611_1099ttd1r7z"
+  },
+  {
+   "id": "crawl_1ha6as9",
+   "title": "WAMUFARANSA yanze gupfa😱",
+   "summary": "#wamufaransa #funnyvideo #nyamabondo",
+   "link": "https://www.youtube.com/shorts/-uBQPNBvHSU",
+   "url": "https://www.youtube.com/shorts/-uBQPNBvHSU",
+   "date": "2026-11-14T14:56:10.000Z",
+   "source": "Wamufaransa Comedy YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Wamufaransa Comedy YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "-uBQPNBvHSU"
+   },
+   "type": "video",
+   "image": "https://i2.ytimg.com/vi/-uBQPNBvHSU/hqdefault.jpg",
+   "thumbnail": "https://i2.ytimg.com/vi/-uBQPNBvHSU/hqdefault.jpg",
+   "title_rw": "WAMUFARANSA yanze gupfa😱",
+   "summary_rw": "#wamufaransa #funnyvideo #nyamabondo",
+   "share_id": "MN202611_1ha6as9i5yv"
+  },
+  {
+   "id": "crawl_1tnm2ot",
+   "title": "Noel Fielding 'appalled' by jokes he made with Russell Brand",
+   "summary": "The Great British Bake Off presenter says he has not been in contact with the convicted rapist \"for many years\".",
+   "link": "https://www.bbc.co.uk/news/articles/cw808ll7x093o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw808ll7x093o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T14:46:26.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e601/live/a305b450-e033-11f1-9ca9-b3b288fceb81.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e601/live/a305b450-e033-11f1-9ca9-b3b288fceb81.jpg",
+   "title_en": "Noel Fielding 'appalled' by jokes he made with Russell Brand",
+   "summary_en": "The Great British Bake Off presenter says he has not been in contact with the convicted rapist \"for many years\".",
+   "share_id": "MN202611_1tnm2otez5n"
+  },
   {
    "id": "crawl_q79ga7",
    "title": "Two Rwandan Brothers Build Tech Solution to Ease Bookkeeping for Small Businesses",
@@ -1453,5 +1540,5 @@
    "share_id": "MN202611_ghkicxdetr"
   }
  ],
- "updated": "2026-11-14T14:41:53.835Z"
+ "updated": "2026-11-14T15:20:01.414Z"
 }
