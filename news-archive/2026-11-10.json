@@ -1,6 +1,6 @@
 {
  "day": "2026-11-10",
- "count": 142,
+ "count": 143,
  "articles": [
   {
    "id": "crawl_1ywjqmp",
@@ -261,6 +261,26 @@
    "title_en": "Tech Life",
    "summary_en": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
    "share_id": "MN202611_3zt4qpm99b"
+  },
+  {
+   "id": "crawl_drub6j",
+   "title": "Tech Life",
+   "summary": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
+   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T20:30:00.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm9xfz.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm9xfz.jpg",
+   "title_en": "Tech Life",
+   "summary_en": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
+   "share_id": "MN202611_drub6jkl15"
   },
   {
    "id": "crawl_uzsehb",
@@ -3116,5 +3136,5 @@
    "share_id": "MN202611_1c9cixj5fed"
   }
  ],
- "updated": "2026-11-11T09:31:35.909Z"
+ "updated": "2026-11-14T09:51:59.012Z"
 }
