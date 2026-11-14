@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_1x64839",
+  "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+  "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+  "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-14T22:09:40.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg",
+  "title_en": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+  "summary_en": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+  "share_id": "MN202611_1x64839wt77"
+ },
+ {
   "id": "crawl_1kp10el",
   "title": "Arsenal target Nusa could cost £66m - Sunday's gossip",
   "summary": "Arsenal could have to pay £66m for RB Leipzig's Antonio Nusa, Real Betis reject Chelsea's bid for Jose Morante, plus more.",
@@ -194,7 +214,7 @@
  },
  {
   "id": "crawl_1u98z2b",
-  "title": "🔴LIVE: #SamediDetente: The Ben yamwenyuye | Turabana na Davis D na Bill Ruzima | Ay'imyidagaduro",
+  "title": "🔴LIVE: #SamediDetente: The Ben yamwenyuye | Turabana na Bill Ruzima | Amakuru y'imyidagaduro",
   "summary": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
   "link": "https://www.youtube.com/watch?v=a6-zLZttqzw",
   "url": "https://www.youtube.com/watch?v=a6-zLZttqzw",
@@ -214,7 +234,7 @@
   "type": "video",
   "image": "https://i2.ytimg.com/vi/a6-zLZttqzw/hqdefault.jpg",
   "thumbnail": "https://i2.ytimg.com/vi/a6-zLZttqzw/hqdefault.jpg",
-  "title_rw": "🔴LIVE: #SamediDetente: The Ben yamwenyuye | Turabana na Davis D na Bill Ruzima | Ay'imyidagaduro",
+  "title_rw": "🔴LIVE: #SamediDetente: The Ben yamwenyuye | Turabana na Bill Ruzima | Amakuru y'imyidagaduro",
   "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
   "share_id": "MN202611_1u98z2b51wh"
  },
@@ -2596,22 +2616,22 @@
  },
  {
   "id": "crawl_uy03jd",
-  "title": "Second catch attempt as SpaceX Starship rocket heads back to Earth",
-  "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+  "title": "SpaceX successfully catches top of huge Starship rocket for first time",
+  "summary": "The rocket stage was caught mid air using huge mechanical arms nicknamed “chopsticks”.",
   "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-13T20:12:02.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Science",
+  "category": "science",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Science",
+   "science"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e6d/live/64bc2ef0-e03c-11f1-b441-2b33b063138f.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e6d/live/64bc2ef0-e03c-11f1-b441-2b33b063138f.jpg",
-  "title_en": "Second catch attempt as SpaceX Starship rocket heads back to Earth",
-  "summary_en": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7be/live/5c1b5060-e077-11f1-9ec0-713bf094c3d1.png",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7be/live/5c1b5060-e077-11f1-9ec0-713bf094c3d1.png",
+  "title_en": "SpaceX successfully catches top of huge Starship rocket for first time",
+  "summary_en": "The rocket stage was caught mid air using huge mechanical arms nicknamed “chopsticks”.",
   "share_id": "MN202611_uy03jdt007"
  },
  {
@@ -17330,25 +17350,5 @@
   "title_en": "Barcelona fight back to beat Atleti as Fermin scores twice",
   "summary_en": "Fermin Lopez scores twice as Barcelona come from behind to claim a gritty win over Atletico Madrid and maintain their advantage at the top of La Liga.",
   "share_id": "MN202611_13xyypxca77"
- },
- {
-  "id": "crawl_dhn1jv",
-  "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-  "summary": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
-  "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-08T22:42:41.000Z",
-  "source": "BBC Business",
-  "category": "business",
-  "lang": "en",
-  "keywords": [
-   "BBC Business",
-   "business"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a9/live/7a3a3f70-dc53-11f1-a869-656dc96bd12d.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a9/live/7a3a3f70-dc53-11f1-a869-656dc96bd12d.jpg",
-  "title_en": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-  "summary_en": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
-  "share_id": "MN202611_dhn1jvfy0p"
  }
 ]
