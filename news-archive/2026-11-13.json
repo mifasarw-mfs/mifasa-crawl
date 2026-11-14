@@ -1,6 +1,6 @@
 {
  "day": "2026-11-13",
- "count": 147,
+ "count": 148,
  "articles": [
   {
    "id": "crawl_1ldu16m",
@@ -2250,6 +2250,36 @@
    "share_id": "MN202611_1aymm7qip1w"
   },
   {
+   "id": "crawl_1yfuki6",
+   "title": "YAMII - MAANDY (Official Music Video)",
+   "summary": "Here’s a gentle reminder that you are perfect in every way. Stream the EP RE-WRITE Re: https://onerpm.link/ReMaandy Write: https://onerpm.link/Write",
+   "link": "https://www.youtube.com/watch?v=o1an6N5hMis",
+   "url": "https://www.youtube.com/watch?v=o1an6N5hMis",
+   "date": "2026-11-13T09:00:10.000Z",
+   "source": "YouTube Trending Kenya",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "YouTube Trending Kenya",
+    "entertainment",
+    "trending",
+    "maandy",
+    "yamii",
+    "kabaya",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "o1an6N5hMis"
+   },
+   "type": "video",
+   "image": "https://i.ytimg.com/vi/o1an6N5hMis/hqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/o1an6N5hMis/hqdefault.jpg",
+   "title_en": "YAMII - MAANDY (Official Music Video)",
+   "summary_en": "Here’s a gentle reminder that you are perfect in every way. Stream the EP RE-WRITE Re: https://onerpm.link/ReMaandy Write: https://onerpm.link/Write",
+   "share_id": "MN202611_1yfuki6qncc"
+  },
+  {
    "id": "crawl_6cs4td",
    "title": "Abagome 😎",
    "summary": "Abagome 😎",
@@ -3143,5 +3173,5 @@
    "share_id": "MN202611_cgwh2gfix2"
   }
  ],
- "updated": "2026-11-14T11:09:19.683Z"
+ "updated": "2026-11-14T23:34:09.560Z"
 }

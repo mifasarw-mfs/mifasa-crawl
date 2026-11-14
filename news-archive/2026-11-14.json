@@ -1,7 +1,87 @@
 {
  "day": "2026-11-14",
- "count": 105,
+ "count": 109,
  "articles": [
+  {
+   "id": "crawl_ict9wi",
+   "title": "The 'manager's dream' who has put NI one game from history",
+   "summary": "After scoring his first international goal in the 1-0 win over Ukraine, Northern Ireland boss Michael O'Neill says Terry Devlin is \"a bit of a dream\" to manage.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T23:21:45.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb98/live/20ed71a0-e07a-11f1-8ef0-413f345dd9f6.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb98/live/20ed71a0-e07a-11f1-8ef0-413f345dd9f6.jpg",
+   "title_en": "The 'manager's dream' who has put NI one game from history",
+   "summary_en": "After scoring his first international goal in the 1-0 win over Ukraine, Northern Ireland boss Michael O'Neill says Terry Devlin is \"a bit of a dream\" to manage.",
+   "share_id": "MN202611_ict9wil7b4"
+  },
+  {
+   "id": "crawl_1a6w61d",
+   "title": "SpaceX catches part of its Starship rocket on return to Earth",
+   "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+   "link": "https://www.bbc.co.uk/news/videos/cw23j8pkk421o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cw23j8pkk421o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T23:15:10.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad8a/live/4ee27b50-e07f-11f1-ad8f-c7361b83fb03.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad8a/live/4ee27b50-e07f-11f1-ad8f-c7361b83fb03.jpg",
+   "title_en": "SpaceX catches part of its Starship rocket on return to Earth",
+   "summary_en": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+   "share_id": "MN202611_1a6w61dor5b"
+  },
+  {
+   "id": "crawl_24ypa2",
+   "title": "Liverpool put three past Brighton to end winless run",
+   "summary": "A Beata Olsson double helps Liverpool to an impressive 3-0 victory away to Brighton to end their five-game winless run in the Women's Super League.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6p3ewwezqy2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c6p3ewwezqy2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T23:00:29.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c7/live/645b6920-e06f-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c7/live/645b6920-e06f-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "Liverpool put three past Brighton to end winless run",
+   "summary_en": "A Beata Olsson double helps Liverpool to an impressive 3-0 victory away to Brighton to end their five-game winless run in the Women's Super League.",
+   "share_id": "MN202611_24ypa2c0rc"
+  },
+  {
+   "id": "crawl_1fub88j",
+   "title": "Hallgrimsson rues 'painful' defeat for Republic of Ireland",
+   "summary": "Republic of Ireland boss Heimir Hallgrimsson says their 1-0 defeat against Austria in their penultimate Nations League game was \"painful\".",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T22:40:02.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf4/live/14e20490-e078-11f1-9ec0-713bf094c3d1.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf4/live/14e20490-e078-11f1-9ec0-713bf094c3d1.jpg",
+   "title_en": "Hallgrimsson rues 'painful' defeat for Republic of Ireland",
+   "summary_en": "Republic of Ireland boss Heimir Hallgrimsson says their 1-0 defeat against Austria in their penultimate Nations League game was \"painful\".",
+   "share_id": "MN202611_1fub88j35n5"
+  },
   {
    "id": "crawl_gu3sh7",
    "title": "Devlin nets winner as NI top Nations League group",
@@ -2328,5 +2408,5 @@
    "share_id": "MN202611_151zgnivjho"
   }
  ],
- "updated": "2026-11-14T23:04:05.514Z"
+ "updated": "2026-11-14T23:34:09.558Z"
 }
