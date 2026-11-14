@@ -2926,6 +2926,102 @@
    ],
    "auto": true,
    "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_4174f07a_q",
+   "label_rw": "Kurengera Ibishanga",
+   "label_en": "Wetlands Protection",
+   "patterns_en": [
+    "Why are wetlands important?",
+    "What do Rwandan laws say about wetlands?",
+    "How can we protect wetlands?"
+   ],
+   "patterns_rw": [
+    "Kuki ibishanga ari ingenzi?",
+    "Amategeko y'u Rwanda avuga iki ku bishanga?",
+    "Ni gute twasigasira ibishanga?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ibishanga ni ingenzi mu kurengera ibidukikikiro no mu gufata amazi. Mu Rwanda, amategeko abuzanya gukorera ibikorwa bitandukanye mu bishanga nta ruhushya kugira ngoibidukikikiro bisubirane ubuzima kandi bitange umusaruro urambye ku baturage.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Wetlands are important for environmental protection and water regulation. In Rwanda, laws generally prohibit unauthorized activities in wetlands to help ecosystems recover and provide sustainable benefits to citizens.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_b6369df6_q",
+   "label_rw": "Imicungire y'Amazi mu Rwanda",
+   "label_en": "Water Resource Management in Rwanda",
+   "patterns_en": [
+    "How is water managed in Rwanda?",
+    "Why is protecting water sources important?",
+    "What measures are taken in water resource management?"
+   ],
+   "patterns_rw": [
+    "Ni gute amazi acungwa mu Rwanda?",
+    "kuki kubungabunga amasoko y'amazi ari ingenzi?",
+    "ni izihe ngamba zafashwe mu micungire y'amazi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "u Rwanda rufite gahunda yo gucunga neza amazi kugira ngo aboneke ku baturage bose n'ibikorwa by'ubukungu. Leta ishyira imbaraga mu kubungabunga ibidukikije, kurinda amasoko y'amazi, no kuyakoresha neza hatabayeho kuyangiza cyangwa kuyapfusha ubusa.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Rwanda implements strategies to manage water resources effectively to ensure availability for the population and economic activities. The government focuses on environmental conservation, protecting water sources, and promoting efficient use to prevent wastage and pollution.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_7fa4337b_q",
+   "label_rw": "Ingufu zishobora kongera kwiteranya",
+   "label_en": "Renewable Energy Sources",
+   "patterns_en": [
+    "What are renewable energy sources?",
+    "Why is solar energy needed in Rwanda?",
+    "How does water generate electricity?"
+   ],
+   "patterns_rw": [
+    "Ni izihe ngufu zishobora kongera kwiteranya?",
+    "Kuki ingufu z'izuba zikenewe mu Rwanda?",
+    "Ni gute amazi atanga amashanyarazi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ingufu zishobora kongera kwiteranya ni izikomoka ku bintu bisubira bikaboneka nko ku zuba, umuyaga, n'amazi. Zifashishwa mu kugabanya imyotsi yangiza ikirere no gutanga amashanyarazi mu buryo burambye. U Rwanda ruteza imbere gukoresha izi ngufu cyane cyane izituruka ku zuba n'amazi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Renewable energy sources are derived from natural processes that are constantly replenished, such as sunlight, wind, and water. They are used to reduce greenhouse gas emissions and provide sustainable electricity. Rwanda promotes the use of these energies, particularly solar and hydro power.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_4f2e87eb_q",
+   "label_rw": "Pariki z'Igihugu mu Rwanda",
+   "label_en": "National Parks in Rwanda",
+   "patterns_en": [
+    "What are the national parks located in Rwanda?",
+    "What types of wildlife can be found in Rwandan parks?",
+    "How do national parks contribute to tourism?"
+   ],
+   "patterns_rw": [
+    "Ni izihe pariki z'igihugu ziri mu Rwanda?",
+    "Ni ubuhe bwoko bw'inyamaswa buboneka muri pariki z'u Rwanda?",
+    "Ese pariki z'igihugu zifasha zite ubukerarugendo?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Rwanda ifite pariki z'igihugu enye z'ingenzi zibungabunga ibidukikije n'inyamaswa z'agasozi. Izo ni Pariki ya Nyungwe, Pariki y'Akagera, Pariki y'Igihugu ya Volcanoes, na Pariki ya Gishwati-Mukura. Izi pariki zitanga ubuzima ku bwoko bwinshi bw'ibimera n'inyamaswa, kandi zifasha mu iterambere ry'ubukerarugendo mu gihugu.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Rwanda has four major national parks that protect natural environments and wildlife. These are Nyungwe National Park, Akagera National Park, Volcanoes National Park, and Gishwati-Mukura National Park. These parks support a rich diversity of flora and fauna, and they contribute significantly to the country's tourism industry.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
   }
  ],
  "knowledge": [
@@ -5330,6 +5426,84 @@
     "pesticides",
     "ibidukikije",
     "environment"
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_4174f07a",
+   "category": "environment",
+   "title_rw": "Kurengera Ibishanga",
+   "title_en": "Wetlands Protection",
+   "summary_rw": "Ibishanga ni ingenzi mu kurengera ibidukikikiro no mu gufata amazi. Mu Rwanda, amategeko abuzanya gukorera ibikorwa bitandukanye mu bishanga nta ruhushya kugira ngoibidukikikiro bisubirane ubuzima kandi bitange umusaruro urambye ku baturage.",
+   "summary_en": "Wetlands are important for environmental protection and water regulation. In Rwanda, laws generally prohibit unauthorized activities in wetlands to help ecosystems recover and provide sustainable benefits to citizens.",
+   "keywords": [
+    "ibishanga",
+    "wetlands",
+    "ibidukikikiro",
+    "environment",
+    "amazi",
+    "water",
+    "u rwanda",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_b6369df6",
+   "category": "environment",
+   "title_rw": "Imicungire y'Amazi mu Rwanda",
+   "title_en": "Water Resource Management in Rwanda",
+   "summary_rw": "u Rwanda rufite gahunda yo gucunga neza amazi kugira ngo aboneke ku baturage bose n'ibikorwa by'ubukungu. Leta ishyira imbaraga mu kubungabunga ibidukikije, kurinda amasoko y'amazi, no kuyakoresha neza hatabayeho kuyangiza cyangwa kuyapfusha ubusa.",
+   "summary_en": "Rwanda implements strategies to manage water resources effectively to ensure availability for the population and economic activities. The government focuses on environmental conservation, protecting water sources, and promoting efficient use to prevent wastage and pollution.",
+   "keywords": [
+    "amazi",
+    "water",
+    "imicungire",
+    "management",
+    "rwanda",
+    "ibidukikije",
+    "environment"
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_7fa4337b",
+   "category": "environment",
+   "title_rw": "Ingufu zishobora kongera kwiteranya",
+   "title_en": "Renewable Energy Sources",
+   "summary_rw": "Ingufu zishobora kongera kwiteranya ni izikomoka ku bintu bisubira bikaboneka nko ku zuba, umuyaga, n'amazi. Zifashishwa mu kugabanya imyotsi yangiza ikirere no gutanga amashanyarazi mu buryo burambye. U Rwanda ruteza imbere gukoresha izi ngufu cyane cyane izituruka ku zuba n'amazi.",
+   "summary_en": "Renewable energy sources are derived from natural processes that are constantly replenished, such as sunlight, wind, and water. They are used to reduce greenhouse gas emissions and provide sustainable electricity. Rwanda promotes the use of these energies, particularly solar and hydro power.",
+   "keywords": [
+    "ingufu",
+    "energy",
+    "izuba",
+    "solar",
+    "amazi",
+    "water",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_4f2e87eb",
+   "category": "environment",
+   "title_rw": "Pariki z'Igihugu mu Rwanda",
+   "title_en": "National Parks in Rwanda",
+   "summary_rw": "Rwanda ifite pariki z'igihugu enye z'ingenzi zibungabunga ibidukikije n'inyamaswa z'agasozi. Izo ni Pariki ya Nyungwe, Pariki y'Akagera, Pariki y'Igihugu ya Volcanoes, na Pariki ya Gishwati-Mukura. Izi pariki zitanga ubuzima ku bwoko bwinshi bw'ibimera n'inyamaswa, kandi zifasha mu iterambere ry'ubukerarugendo mu gihugu.",
+   "summary_en": "Rwanda has four major national parks that protect natural environments and wildlife. These are Nyungwe National Park, Akagera National Park, Volcanoes National Park, and Gishwati-Mukura National Park. These parks support a rich diversity of flora and fauna, and they contribute significantly to the country's tourism industry.",
+   "keywords": [
+    "pariki",
+    "parks",
+    "rwanda",
+    "ibidukikije",
+    "environment",
+    "inyamaswa",
+    "wildlife",
+    "ubukerarugendo"
    ],
    "auto": true,
    "taught": "2026-11-14"
