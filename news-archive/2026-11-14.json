@@ -1,7 +1,27 @@
 {
  "day": "2026-11-14",
- "count": 6,
+ "count": 7,
  "articles": [
+  {
+   "id": "crawl_18bp3kv",
+   "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+   "summary": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
+   "link": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T01:47:36.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41c9/live/7d390f90-dfcc-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41c9/live/7d390f90-dfcc-11f1-b441-2b33b063138f.jpg",
+   "title_en": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+   "summary_en": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
+   "share_id": "MN202611_18bp3kvhoot"
+  },
   {
    "id": "crawl_1ml6lv3",
    "title": "Tech Now",
@@ -123,5 +143,5 @@
    "share_id": "MN202611_ghkicxdetr"
   }
  ],
- "updated": "2026-11-14T01:33:48.159Z"
+ "updated": "2026-11-14T04:01:54.808Z"
 }
