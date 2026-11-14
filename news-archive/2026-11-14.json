@@ -1,7 +1,67 @@
 {
  "day": "2026-11-14",
- "count": 3,
+ "count": 6,
  "articles": [
+  {
+   "id": "crawl_1ml6lv3",
+   "title": "Tech Now",
+   "summary": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
+   "link": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T01:00:00.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmwlpj.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmwlpj.jpg",
+   "title_en": "Tech Now",
+   "summary_en": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
+   "share_id": "MN202611_1ml6lv355jh"
+  },
+  {
+   "id": "crawl_1fc5nmb",
+   "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+   "summary": "The next title in the series is expected to be the biggest video game release ever.",
+   "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T00:37:01.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05c7/live/ef232fd0-df7e-11f1-a701-fddedf244c16.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05c7/live/ef232fd0-df7e-11f1-a701-fddedf244c16.jpg",
+   "title_en": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+   "summary_en": "The next title in the series is expected to be the biggest video game release ever.",
+   "share_id": "MN202611_1fc5nmbyk35"
+  },
+  {
+   "id": "crawl_1ah9zpe",
+   "title": "Brand, Walliams and MAFS: Is this a reckoning for the entertainment industry?",
+   "summary": "These stories represent the consequences of changes that began years ago, rather than being a sudden cultural shift.",
+   "link": "https://www.bbc.co.uk/news/articles/cqn70lz71lg8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqn70lz71lg8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T00:29:38.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c24/live/0b3d63c0-dfc5-11f1-81d0-51c2d6384bd2.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c24/live/0b3d63c0-dfc5-11f1-81d0-51c2d6384bd2.jpg",
+   "title_en": "Brand, Walliams and MAFS: Is this a reckoning for the entertainment industry?",
+   "summary_en": "These stories represent the consequences of changes that began years ago, rather than being a sudden cultural shift.",
+   "share_id": "MN202611_1ah9zpe2w68"
+  },
   {
    "id": "crawl_1qvibe3",
    "title": "Bluetongue virus confirmed on County Down farm",
@@ -63,5 +123,5 @@
    "share_id": "MN202611_ghkicxdetr"
   }
  ],
- "updated": "2026-11-14T00:27:29.009Z"
+ "updated": "2026-11-14T01:33:48.159Z"
 }

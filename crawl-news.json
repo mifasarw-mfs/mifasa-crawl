@@ -1,5 +1,65 @@
 [
  {
+  "id": "crawl_1ml6lv3",
+  "title": "Tech Now",
+  "summary": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
+  "link": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-14T01:00:00.000Z",
+  "source": "BBC Technology",
+  "category": "tech",
+  "lang": "en",
+  "keywords": [
+   "BBC Technology",
+   "tech"
+  ],
+  "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmwlpj.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmwlpj.jpg",
+  "title_en": "Tech Now",
+  "summary_en": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
+  "share_id": "MN202611_1ml6lv355jh"
+ },
+ {
+  "id": "crawl_1fc5nmb",
+  "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+  "summary": "The next title in the series is expected to be the biggest video game release ever.",
+  "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-14T00:37:01.000Z",
+  "source": "BBC Technology",
+  "category": "tech",
+  "lang": "en",
+  "keywords": [
+   "BBC Technology",
+   "tech"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05c7/live/ef232fd0-df7e-11f1-a701-fddedf244c16.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05c7/live/ef232fd0-df7e-11f1-a701-fddedf244c16.jpg",
+  "title_en": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+  "summary_en": "The next title in the series is expected to be the biggest video game release ever.",
+  "share_id": "MN202611_1fc5nmbyk35"
+ },
+ {
+  "id": "crawl_1ah9zpe",
+  "title": "Brand, Walliams and MAFS: Is this a reckoning for the entertainment industry?",
+  "summary": "These stories represent the consequences of changes that began years ago, rather than being a sudden cultural shift.",
+  "link": "https://www.bbc.co.uk/news/articles/cqn70lz71lg8o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cqn70lz71lg8o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-14T00:29:38.000Z",
+  "source": "BBC Entertainment",
+  "category": "entertainment",
+  "lang": "en",
+  "keywords": [
+   "BBC Entertainment",
+   "entertainment"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c24/live/0b3d63c0-dfc5-11f1-81d0-51c2d6384bd2.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c24/live/0b3d63c0-dfc5-11f1-81d0-51c2d6384bd2.jpg",
+  "title_en": "Brand, Walliams and MAFS: Is this a reckoning for the entertainment industry?",
+  "summary_en": "These stories represent the consequences of changes that began years ago, rather than being a sudden cultural shift.",
+  "share_id": "MN202611_1ah9zpe2w68"
+ },
+ {
   "id": "crawl_1qvibe3",
   "title": "Bluetongue virus confirmed on County Down farm",
   "summary": "Officials from the Department of Agriculture, Environment and Rural Affairs said the virus had been detected in three sheep.",
@@ -61,7 +121,7 @@
  },
  {
   "id": "crawl_1ldu16m",
-  "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+  "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
   "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
   "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
@@ -75,9 +135,29 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
-  "title_en": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+  "title_en": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
   "summary_en": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
   "share_id": "MN202611_1ldu16mmxng"
+ },
+ {
+  "id": "crawl_1rcpo7w",
+  "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+  "summary": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
+  "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-13T23:11:51.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ca7/live/511b1870-df1a-11f1-8440-dbadd0414f54.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ca7/live/511b1870-df1a-11f1-8440-dbadd0414f54.jpg",
+  "title_en": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+  "summary_en": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
+  "share_id": "MN202611_1rcpo7wikoq"
  },
  {
   "id": "crawl_1umgww2",
@@ -731,8 +811,8 @@
    "BBC Technology",
    "tech"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/a9179c50-df84-11f1-a8e2-5b59832bb2f1.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/a9179c50-df84-11f1-a8e2-5b59832bb2f1.jpg",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9359/live/2eb34280-dfc4-11f1-93e1-3b657b665bcf.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9359/live/2eb34280-dfc4-11f1-93e1-3b657b665bcf.jpg",
   "title_en": "Microsoft outage 'stark reminder' of how much we rely on tech",
   "summary_en": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
   "share_id": "MN202611_6b4ab3x6rx"
@@ -17172,86 +17252,5 @@
   "title_en": "'It's Savage junior's night' - Charlie scores against dad Robbie's side",
   "summary_en": "Robbie Savage's son Charlie scores for Reading against Peterborough United, the side his father manages in the first round of the FA Cup.",
   "share_id": "MN202611_18164ltjg33"
- },
- {
-  "id": "crawl_uk1koa",
-  "title": "International NGOs in Rwanda Receive Over US$230 Million Annually. Is the Impact Visible?",
-  "summary": "Operating across Rwanda’s 30 districts, international NGOs manage hundreds of millions of dollars in development funding every year. But with 1,487 local NGOs competing for a place in the same… The post International NGOs in Rwanda Receive Over US$230 Million Annually. Is the Impact Visible? appeared first on KT PRESS .",
-  "link": "https://www.ktpress.rw/2026/11/international-ngos-in-rwanda-receive-over-us230-million-annually-is-the-impact-visible/",
-  "url": "https://www.ktpress.rw/2026/11/international-ngos-in-rwanda-receive-over-us230-million-annually-is-the-impact-visible/",
-  "date": "2026-11-08T00:11:24.000Z",
-  "source": "KT Press",
-  "category": "news",
-  "lang": "en",
-  "keywords": [
-   "KT Press",
-   "news",
-   "Special Reports",
-   "big-story",
-   "latestnews"
-  ],
-  "title_en": "International NGOs in Rwanda Receive Over US$230 Million Annually. Is the Impact Visible?",
-  "summary_en": "Operating across Rwanda’s 30 districts, international NGOs manage hundreds of millions of dollars in development funding every year. But with 1,487 local NGOs competing for a place in the same… The post International NGOs in Rwanda Receive Over US$230 Million Annually. Is the Impact Visible? appeared first on KT PRESS .",
-  "share_id": "MN202611_uk1koanamg"
- },
- {
-  "id": "crawl_ywgfvt",
-  "title": "'Wonderful goal' - Crewe's McNeill scores from halfway line",
-  "summary": "Charlie McNeill scores from the halfway line in the 12th minute to open the scoring for Crewe Alexandra against AFC Wimbledon in the first round of the FA Cup.",
-  "link": "https://www.bbc.co.uk/sport/football/videos/cmkgekn1007qo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/videos/cmkgekn1007qo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-08T00:07:11.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c339/live/0442b290-db07-11f1-93e1-3b657b665bcf.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c339/live/0442b290-db07-11f1-93e1-3b657b665bcf.jpg",
-  "title_en": "'Wonderful goal' - Crewe's McNeill scores from halfway line",
-  "summary_en": "Charlie McNeill scores from the halfway line in the 12th minute to open the scoring for Crewe Alexandra against AFC Wimbledon in the first round of the FA Cup.",
-  "share_id": "MN202611_ywgfvttrd3"
- },
- {
-  "id": "crawl_lpe3g0",
-  "title": "Was Leeds' Bogle lucky to escape red card?",
-  "summary": "Match of the Day's Steph Houghton and Danny Murphy assess whether a challenge from Leeds United's Jayden Bogle on Tottenham's Mathys Tel was worthy of a red card.",
-  "link": "https://www.bbc.co.uk/sport/football/videos/c6lyl7qvq8ejo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/videos/c6lyl7qvq8ejo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-08T00:00:26.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16a1/live/ae222e20-dafe-11f1-b441-2b33b063138f.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16a1/live/ae222e20-dafe-11f1-b441-2b33b063138f.jpg",
-  "title_en": "Was Leeds' Bogle lucky to escape red card?",
-  "summary_en": "Match of the Day's Steph Houghton and Danny Murphy assess whether a challenge from Leeds United's Jayden Bogle on Tottenham's Mathys Tel was worthy of a red card.",
-  "share_id": "MN202611_lpe3g0rexa"
- },
- {
-  "id": "crawl_10vcd8w",
-  "title": "Forest win over Man City 'a turning point' - Murphy",
-  "summary": "Match of the Day's Danny Murphy breaks down Nottingham Forest's impressive 3-1 win over Manchester City, a victory that he believes could be \"a turning point\" in Forest's first season under Oliver Glasner.",
-  "link": "https://www.bbc.co.uk/sport/football/videos/c893zr4rlzp1o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/videos/c893zr4rlzp1o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-08T00:00:14.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a390/live/b108e540-dafc-11f1-a701-fddedf244c16.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a390/live/b108e540-dafc-11f1-a701-fddedf244c16.jpg",
-  "title_en": "Forest win over Man City 'a turning point' - Murphy",
-  "summary_en": "Match of the Day's Danny Murphy breaks down Nottingham Forest's impressive 3-1 win over Manchester City, a victory that he believes could be \"a turning point\" in Forest's first season under Oliver Glasner.",
-  "share_id": "MN202611_10vcd8wpoq6"
  }
 ]

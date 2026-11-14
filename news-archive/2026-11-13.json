@@ -1,6 +1,6 @@
 {
  "day": "2026-11-13",
- "count": 142,
+ "count": 143,
  "articles": [
   {
    "id": "crawl_1ldu16m",
@@ -21,6 +21,26 @@
    "title_en": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
    "summary_en": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
    "share_id": "MN202611_1ldu16mmxng"
+  },
+  {
+   "id": "crawl_1rcpo7w",
+   "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+   "summary": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
+   "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T23:11:51.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ca7/live/511b1870-df1a-11f1-8440-dbadd0414f54.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ca7/live/511b1870-df1a-11f1-8440-dbadd0414f54.jpg",
+   "title_en": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+   "summary_en": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
+   "share_id": "MN202611_1rcpo7wikoq"
   },
   {
    "id": "crawl_1umgww2",
@@ -3031,5 +3051,5 @@
    "share_id": "MN202611_cgwh2gfix2"
   }
  ],
- "updated": "2026-11-14T00:27:29.010Z"
+ "updated": "2026-11-14T01:33:48.160Z"
 }
