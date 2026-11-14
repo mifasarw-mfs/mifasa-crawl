@@ -1,7 +1,47 @@
 {
  "day": "2026-11-14",
- "count": 98,
+ "count": 101,
  "articles": [
+  {
+   "id": "crawl_125gz5l",
+   "title": "Spurs held to a draw by Everton in the WSL",
+   "summary": "Tottenham and Everton play out a hard-fought goalless draw in the Women's Super League.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ck9q8vvz81rxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/ck9q8vvz81rxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T20:56:46.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5616/live/4a633af0-e062-11f1-a701-fddedf244c16.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5616/live/4a633af0-e062-11f1-a701-fddedf244c16.jpg",
+   "title_en": "Spurs held to a draw by Everton in the WSL",
+   "summary_en": "Tottenham and Everton play out a hard-fought goalless draw in the Women's Super League.",
+   "share_id": "MN202611_125gz5luamv"
+  },
+  {
+   "id": "crawl_1evwof8",
+   "title": "What Wales need to stay in Nations League top tier",
+   "summary": "BBC Sport Wales explains how Wales can stay in the Nations League top tier despite finishing bottom of their group.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmx28nxw1elvo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmx28nxw1elvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T20:52:48.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f6a/live/8d336370-e065-11f1-b454-23ac84bf5ae9.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f6a/live/8d336370-e065-11f1-b454-23ac84bf5ae9.jpg",
+   "title_en": "What Wales need to stay in Nations League top tier",
+   "summary_en": "BBC Sport Wales explains how Wales can stay in the Nations League top tier despite finishing bottom of their group.",
+   "share_id": "MN202611_1evwof8oltu"
+  },
   {
    "id": "crawl_qapdih",
    "title": "'No racism in Spain' – De la Fuente message for Tuchel",
@@ -87,6 +127,33 @@
    "title_rw": "UmukireJensen Huanga igitsina kimukozeho,dore imvo nimvano uko bamuteze umugore nka Maneko",
    "summary_rw": "UmukireJensen Huanga igitsina kimukozeho,dore imvo nimvano uko bamuteze umugore nka Maneko",
    "share_id": "MN202611_lljo1ijsus"
+  },
+  {
+   "id": "crawl_1yqn1tj",
+   "title": "Uganda vs Botswana | Full Match | Video Game Simulation gAMEPLAY",
+   "summary": "Uganda vs Botswana | Full Match | Video Game Simulation gAMEPLAY ⚠️ IMPORTANT NOTICE & DISCLAIMER Content Type: Video Game Simulation & Gameplay Creation Game Engine: eFootball PES 2021 (Konami) DECLARATION: This livestream features a 100% fictional virtual football simulation created using eFootball PES 2021 gameplay. This stream does NOT contain real-life live sports broadcasts, TV footage, or c",
+   "link": "https://www.youtube.com/watch?v=GZBJLD5qwag",
+   "url": "https://www.youtube.com/watch?v=GZBJLD5qwag",
+   "date": "2026-11-14T20:03:58.000Z",
+   "source": "YouTube Trending Uganda",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "YouTube Trending Uganda",
+    "entertainment",
+    "trending",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "GZBJLD5qwag"
+   },
+   "type": "video",
+   "image": "https://i.ytimg.com/vi/GZBJLD5qwag/hqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/GZBJLD5qwag/hqdefault.jpg",
+   "title_en": "Uganda vs Botswana | Full Match | Video Game Simulation gAMEPLAY",
+   "summary_en": "Uganda vs Botswana | Full Match | Video Game Simulation gAMEPLAY ⚠️ IMPORTANT NOTICE & DISCLAIMER Content Type: Video Game Simulation & Gameplay Creation Game Engine: eFootball PES 2021 (Konami) DECLARATION: This livestream features a 100% fictional virtual football simulation created using eFootball PES 2021 gameplay. This stream does NOT contain real-life live sports broadcasts, TV footage, or c",
+   "share_id": "MN202611_1yqn1tjj4np"
   },
   {
    "id": "crawl_1my741",
@@ -2181,5 +2248,5 @@
    "share_id": "MN202611_151zgnivjho"
   }
  ],
- "updated": "2026-11-14T20:52:50.043Z"
+ "updated": "2026-11-14T21:26:19.701Z"
 }
