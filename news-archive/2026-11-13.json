@@ -1,6 +1,6 @@
 {
  "day": "2026-11-13",
- "count": 145,
+ "count": 146,
  "articles": [
   {
    "id": "crawl_1ldu16m",
@@ -719,6 +719,26 @@
    "title_en": "Catherine Zeta-Jones says US move humbled her before big break with Steven Spielberg",
    "summary_en": "The Swansea-born star got her big break in The Mask of Zorro which cemented her place as an A-lister.",
    "share_id": "MN202611_1g4eq487ml2"
+  },
+  {
+   "id": "crawl_sjug6l",
+   "title": "Estonia bans Russian athletes as backlash intensifies",
+   "summary": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine.",
+   "link": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T17:54:33.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c85/live/160022d0-df88-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c85/live/160022d0-df88-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "Estonia bans Russian athletes as backlash intensifies",
+   "summary_en": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine.",
+   "share_id": "MN202611_sjug6lkbkb"
   },
   {
    "id": "crawl_6b4ab3",
@@ -3093,5 +3113,5 @@
    "share_id": "MN202611_cgwh2gfix2"
   }
  ],
- "updated": "2026-11-14T07:33:21.549Z"
+ "updated": "2026-11-14T09:10:56.901Z"
 }
