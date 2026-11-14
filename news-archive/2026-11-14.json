@@ -1,7 +1,93 @@
 {
  "day": "2026-11-14",
- "count": 94,
+ "count": 98,
  "articles": [
+  {
+   "id": "crawl_qapdih",
+   "title": "'No racism in Spain' – De la Fuente message for Tuchel",
+   "summary": "Spain manager Luis de la Fuente says \"there is no racism in Spain\" after Thomas Tuchel issued a warning to his England players before Sunday's Nations League meeting in Madrid.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T20:43:57.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d168/live/23ffd600-e05f-11f1-9e26-b3b65586122f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d168/live/23ffd600-e05f-11f1-9e26-b3b65586122f.jpg",
+   "title_en": "'No racism in Spain' – De la Fuente message for Tuchel",
+   "summary_en": "Spain manager Luis de la Fuente says \"there is no racism in Spain\" after Thomas Tuchel issued a warning to his England players before Sunday's Nations League meeting in Madrid.",
+   "share_id": "MN202611_qapdihhax3"
+  },
+  {
+   "id": "crawl_1y5zpeq",
+   "title": "Rice close to signing new Arsenal contract",
+   "summary": "Arsenal and England midfielder Declan Rice says he is close to signing a new contract with his club.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T20:40:35.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ab3/live/e7107780-e069-11f1-99e6-531f8829f5a3.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ab3/live/e7107780-e069-11f1-99e6-531f8829f5a3.jpg",
+   "title_en": "Rice close to signing new Arsenal contract",
+   "summary_en": "Arsenal and England midfielder Declan Rice says he is close to signing a new contract with his club.",
+   "share_id": "MN202611_1y5zpeqrmtc"
+  },
+  {
+   "id": "crawl_8ei11x",
+   "title": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
+   "summary": "England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T20:22:00.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a93/live/1896ea50-e038-11f1-9ca9-b3b288fceb81.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a93/live/1896ea50-e038-11f1-9ca9-b3b288fceb81.jpg",
+   "title_en": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
+   "summary_en": "England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty.",
+   "share_id": "MN202611_8ei11xe0fn"
+  },
+  {
+   "id": "crawl_lljo1i",
+   "title": "UmukireJensen Huanga igitsina kimukozeho,dore imvo nimvano uko bamuteze umugore nka Maneko",
+   "summary": "UmukireJensen Huanga igitsina kimukozeho,dore imvo nimvano uko bamuteze umugore nka Maneko",
+   "link": "https://www.youtube.com/watch?v=3NtpbxOHpFU",
+   "url": "https://www.youtube.com/watch?v=3NtpbxOHpFU",
+   "date": "2026-11-14T20:14:37.000Z",
+   "source": "Rocky Entertainment YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Rocky Entertainment YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "3NtpbxOHpFU"
+   },
+   "type": "video",
+   "image": "https://i4.ytimg.com/vi/3NtpbxOHpFU/hqdefault.jpg",
+   "thumbnail": "https://i4.ytimg.com/vi/3NtpbxOHpFU/hqdefault.jpg",
+   "title_rw": "UmukireJensen Huanga igitsina kimukozeho,dore imvo nimvano uko bamuteze umugore nka Maneko",
+   "summary_rw": "UmukireJensen Huanga igitsina kimukozeho,dore imvo nimvano uko bamuteze umugore nka Maneko",
+   "share_id": "MN202611_lljo1ijsus"
+  },
   {
    "id": "crawl_1my741",
    "title": "Haaland helps Norway to win over Wales in Nations League",
@@ -2095,5 +2181,5 @@
    "share_id": "MN202611_151zgnivjho"
   }
  ],
- "updated": "2026-11-14T20:16:21.840Z"
+ "updated": "2026-11-14T20:52:50.043Z"
 }
