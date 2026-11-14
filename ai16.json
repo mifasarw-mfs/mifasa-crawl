@@ -3094,6 +3094,54 @@
    ],
    "auto": true,
    "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_6eb8723c_q",
+   "label_rw": "Kubara Agaciro k'Ubutunzi",
+   "label_en": "Net Worth Calculation",
+   "patterns_en": [
+    "What is net worth?",
+    "How is net worth calculated?",
+    "Why is it important to know your net worth?"
+   ],
+   "patterns_rw": [
+    "Agaciro k'ubutunzi ni iki?",
+    "Ni gute babara agaciro k'ubutunzi?",
+    "Kuki ari ingenzi kumenya agaciro k'ubutunzi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Agaciro k'ubutunzi ni itandukaniro riri hagati y'ibyo umuntu cyangwa ikigo gifite n'imyenda gifite. Kubara agaciro k'ubutunzi bifasha kumenya uko ubukungu bwifashe. Bimenyekana iyo bakuye imyenda yose ku mutungo wose ufite agaciro.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Net worth is the difference between total assets and total liabilities owned by an individual or entity. Calculating net worth helps assess financial health. It is usually determined by subtracting all debts from the total value of all assets.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_21dd4c5c_q",
+   "label_rw": "Imico Myiza yo Kugura",
+   "label_en": "Smart Consumer Habits",
+   "patterns_en": [
+    "How can I save money?",
+    "What is a budget?",
+    "How can I shop smartly?"
+   ],
+   "patterns_rw": [
+    "Ni gute nabika amafaranga?",
+    "Ese ingengo y'imari ni iki?",
+    "Ndashobora nte kugura neza?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imico myiza yo kugura ifasha abantu gucunga neza amafaranga yabo. Bisaba guteganya ingengo y'imari, kugura ibikenewe gusa, no kugereranya ibiciro mbere yo gufata umwanzuro wo kugura ikintu icyo ari cyo cyose.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Smart consumer habits help people manage their money effectively. This usually involves budgeting, buying only necessary items, and comparing prices before making any purchase decision.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
   }
  ],
  "knowledge": [
@@ -5636,6 +5684,46 @@
     "rwanda",
     "ubukerarugendo",
     "tourism"
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_6eb8723c",
+   "category": "finance",
+   "title_rw": "Kubara Agaciro k'Ubutunzi",
+   "title_en": "Net Worth Calculation",
+   "summary_rw": "Agaciro k'ubutunzi ni itandukaniro riri hagati y'ibyo umuntu cyangwa ikigo gifite n'imyenda gifite. Kubara agaciro k'ubutunzi bifasha kumenya uko ubukungu bwifashe. Bimenyekana iyo bakuye imyenda yose ku mutungo wose ufite agaciro.",
+   "summary_en": "Net worth is the difference between total assets and total liabilities owned by an individual or entity. Calculating net worth helps assess financial health. It is usually determined by subtracting all debts from the total value of all assets.",
+   "keywords": [
+    "ubutunzi",
+    "net",
+    "worth",
+    "imyenda",
+    "mutungo",
+    "finance",
+    "amafaranga",
+    "agaciro"
+   ],
+   "auto": true,
+   "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_21dd4c5c",
+   "category": "finance",
+   "title_rw": "Imico Myiza yo Kugura",
+   "title_en": "Smart Consumer Habits",
+   "summary_rw": "Imico myiza yo kugura ifasha abantu gucunga neza amafaranga yabo. Bisaba guteganya ingengo y'imari, kugura ibikenewe gusa, no kugereranya ibiciro mbere yo gufata umwanzuro wo kugura ikintu icyo ari cyo cyose.",
+   "summary_en": "Smart consumer habits help people manage their money effectively. This usually involves budgeting, buying only necessary items, and comparing prices before making any purchase decision.",
+   "keywords": [
+    "amafaranga",
+    "ingengo",
+    "imari",
+    "ubwizigame",
+    "money",
+    "budget",
+    "consumer",
+    "savings"
    ],
    "auto": true,
    "taught": "2026-11-14"
