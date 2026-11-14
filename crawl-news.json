@@ -1,5 +1,45 @@
 [
  {
+  "id": "crawl_szb2cb",
+  "title": "Imvo n'imvano ku rwego rw'uburezi rwugarijwe n'ikibazo cy'abana batarasubira ku mashuri mu Rwanda",
+  "summary": "Intara y'uburengerazuba ni yo igaragaza imibare myinshi y'abarenga ibihumbi 17 batarasubira ku ishuri, mu gihe mu gihugu cyose hari abasaga ibihumbi 19.",
+  "link": "https://www.bbc.com/gahuza/listen/crly54ye7nqjo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.com/gahuza/listen/crly54ye7nqjo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-14T06:05:43.000Z",
+  "source": "BBC Gahuza",
+  "category": "news",
+  "lang": "rw",
+  "keywords": [
+   "BBC Gahuza",
+   "news"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/946e/live/95c7aec0-dff1-11f1-a701-fddedf244c16.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/946e/live/95c7aec0-dff1-11f1-a701-fddedf244c16.jpg",
+  "title_rw": "Imvo n'imvano ku rwego rw'uburezi rwugarijwe n'ikibazo cy'abana batarasubira ku mashuri mu Rwanda",
+  "summary_rw": "Intara y'uburengerazuba ni yo igaragaza imibare myinshi y'abarenga ibihumbi 17 batarasubira ku ishuri, mu gihe mu gihugu cyose hari abasaga ibihumbi 19.",
+  "share_id": "MN202611_szb2cb7pfd"
+ },
+ {
+  "id": "crawl_wmb7bh",
+  "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+  "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+  "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-14T05:52:31.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
+  "title_en": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+  "summary_en": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+  "share_id": "MN202611_wmb7bh43sb"
+ },
+ {
   "id": "crawl_1kstelk",
   "title": "Volleyball: Amakipe ya Police yatanze isomo kuri APR",
   "summary": "Imbere y’abantu bari bakubise buzuye Stade nto y’ Iremera, Amakipe ya Police Volleyball club yatanze ubutumwa kuri APR VC nyuma yo kubatsinda bombi abagabo n’abagore badakozemo amaseti 3-1. Ibi (…)",
@@ -40,6 +80,26 @@
   "title_rw": "Wumva ushaka kurya ibiryo byoroheje mbere yo kuryama? Dore ikibitera – n'icyo wabikoraho",
   "summary_rw": "Hari impamvu zishingiye ku mikorere karemano y'umubiri zituma umuntu yifuza kurya ibiribwa biryohereye mbere yo kuryama ariko niba ubikora ushobora guhindura ako kamenyero.",
   "share_id": "MN202611_hehvfwarwq"
+ },
+ {
+  "id": "crawl_1d6sq6u",
+  "title": "What we know about the longest ground stop since 9/11",
+  "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
+  "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-14T03:45:21.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
+  "title_en": "What we know about the longest ground stop since 9/11",
+  "summary_en": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
+  "share_id": "MN202611_1d6sq6ulmno"
  },
  {
   "id": "crawl_18bp3kv",
@@ -1757,21 +1817,21 @@
  },
  {
   "id": "crawl_1cqvy2g",
-  "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+  "title": "What we know so far about the Microsoft outage",
   "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
   "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-13T11:43:27.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Technology",
+  "category": "tech",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Technology",
+   "tech"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e30a/live/54c2fe10-df57-11f1-a701-fddedf244c16.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e30a/live/54c2fe10-df57-11f1-a701-fddedf244c16.jpg",
-  "title_en": "Watch: How a server outage took down Microsoft Teams and Outlook",
+  "title_en": "What we know so far about the Microsoft outage",
   "summary_en": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
   "share_id": "MN202611_1cqvy2goj6e"
  },
@@ -2662,12 +2722,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-13T07:37:38.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Business",
+  "category": "business",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Business",
+   "business"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
@@ -17196,65 +17256,5 @@
   "title_en": "Dinosaur Horror Mod",
   "summary_en": "Today, a zombie virus has infected a massive T-Rex, and now it's on a rampage! If we don't do something to stop it, it'll wipe out all of the other dinosaurs, yikes! We have to travel back in time, and stop the zombie T-Rex! But we have to be careful, we need to make sure we don't harm any of the other dinosaurs or else it could change the present! We hope you enjoy our videos! Have a great day! M",
   "share_id": "MN202611_io3dwc3ipm"
- },
- {
-  "id": "crawl_1jegzkr",
-  "title": "What we know so far after Krakow gun attack",
-  "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
-  "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-08T01:47:41.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
-  "title_en": "What we know so far after Krakow gun attack",
-  "summary_en": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
-  "share_id": "MN202611_1jegzkr9w1l"
- },
- {
-  "id": "crawl_oil8as",
-  "title": "‘Carte d’Identité’: The Play Taking Rwanda’s History to a Young Audience",
-  "summary": "KIGALI — First Lady Mrs Jeannette Kagame joined a predominantly young audience at the Kigali Convention Centre on Saturday evening to watch a play that uses humour, personal memory and… The post ‘Carte d’Identité’: The Play Taking Rwanda’s History to a Young Audience appeared first on KT PRESS .",
-  "link": "https://www.ktpress.rw/2026/11/carte-didentite-the-play-taking-rwandas-history-to-a-young-audience/",
-  "url": "https://www.ktpress.rw/2026/11/carte-didentite-the-play-taking-rwandas-history-to-a-young-audience/",
-  "date": "2026-11-08T01:43:45.000Z",
-  "source": "KT Press",
-  "category": "news",
-  "lang": "en",
-  "keywords": [
-   "KT Press",
-   "news",
-   "Society",
-   "latestnews"
-  ],
-  "title_en": "‘Carte d’Identité’: The Play Taking Rwanda’s History to a Young Audience",
-  "summary_en": "KIGALI — First Lady Mrs Jeannette Kagame joined a predominantly young audience at the Kigali Convention Centre on Saturday evening to watch a play that uses humour, personal memory and… The post ‘Carte d’Identité’: The Play Taking Rwanda’s History to a Young Audience appeared first on KT PRESS .",
-  "share_id": "MN202611_oil8as7xcy"
- },
- {
-  "id": "crawl_a7sa3j",
-  "title": "The Trump coalition is shattered - what will Republicans do now?",
-  "summary": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
-  "link": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-08T00:52:39.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa4b/live/74e0bf70-dae8-11f1-93e1-3b657b665bcf.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa4b/live/74e0bf70-dae8-11f1-93e1-3b657b665bcf.jpg",
-  "title_en": "The Trump coalition is shattered - what will Republicans do now?",
-  "summary_en": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
-  "share_id": "MN202611_a7sa3jl6kd"
  }
 ]

@@ -1,7 +1,47 @@
 {
  "day": "2026-11-14",
- "count": 9,
+ "count": 12,
  "articles": [
+  {
+   "id": "crawl_szb2cb",
+   "title": "Imvo n'imvano ku rwego rw'uburezi rwugarijwe n'ikibazo cy'abana batarasubira ku mashuri mu Rwanda",
+   "summary": "Intara y'uburengerazuba ni yo igaragaza imibare myinshi y'abarenga ibihumbi 17 batarasubira ku ishuri, mu gihe mu gihugu cyose hari abasaga ibihumbi 19.",
+   "link": "https://www.bbc.com/gahuza/listen/crly54ye7nqjo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/listen/crly54ye7nqjo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T06:05:43.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/946e/live/95c7aec0-dff1-11f1-a701-fddedf244c16.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/946e/live/95c7aec0-dff1-11f1-a701-fddedf244c16.jpg",
+   "title_rw": "Imvo n'imvano ku rwego rw'uburezi rwugarijwe n'ikibazo cy'abana batarasubira ku mashuri mu Rwanda",
+   "summary_rw": "Intara y'uburengerazuba ni yo igaragaza imibare myinshi y'abarenga ibihumbi 17 batarasubira ku ishuri, mu gihe mu gihugu cyose hari abasaga ibihumbi 19.",
+   "share_id": "MN202611_szb2cb7pfd"
+  },
+  {
+   "id": "crawl_wmb7bh",
+   "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+   "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+   "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T05:52:31.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
+   "title_en": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+   "summary_en": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+   "share_id": "MN202611_wmb7bh43sb"
+  },
   {
    "id": "crawl_1kstelk",
    "title": "Volleyball: Amakipe ya Police yatanze isomo kuri APR",
@@ -42,6 +82,26 @@
    "title_rw": "Wumva ushaka kurya ibiryo byoroheje mbere yo kuryama? Dore ikibitera – n'icyo wabikoraho",
    "summary_rw": "Hari impamvu zishingiye ku mikorere karemano y'umubiri zituma umuntu yifuza kurya ibiribwa biryohereye mbere yo kuryama ariko niba ubikora ushobora guhindura ako kamenyero.",
    "share_id": "MN202611_hehvfwarwq"
+  },
+  {
+   "id": "crawl_1d6sq6u",
+   "title": "What we know about the longest ground stop since 9/11",
+   "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
+   "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T03:45:21.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
+   "title_en": "What we know about the longest ground stop since 9/11",
+   "summary_en": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
+   "share_id": "MN202611_1d6sq6ulmno"
   },
   {
    "id": "crawl_18bp3kv",
@@ -184,5 +244,5 @@
    "share_id": "MN202611_ghkicxdetr"
   }
  ],
- "updated": "2026-11-14T04:47:39.679Z"
+ "updated": "2026-11-14T06:26:13.137Z"
 }
