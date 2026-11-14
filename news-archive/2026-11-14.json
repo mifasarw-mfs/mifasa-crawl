@@ -1,7 +1,74 @@
 {
  "day": "2026-11-14",
- "count": 82,
+ "count": 85,
  "articles": [
+  {
+   "id": "crawl_ljqpjd",
+   "title": "DRC Says Ready to Withdraw Lumumba’s Candidacy For OIF",
+   "summary": "The Democratic Republic of Congo said on Saturday that it was ready to withdraw Juliana Lumumba’s candidacy for the La Francophonie Secretary General position. This latest development follows President Félix Tshisekedi arrival in Cambodia ahead of the 20th La Francophonie summit. The summit will notably be marked by the selection of the organization’s next Secretary-General, […] The post DRC Says…",
+   "link": "https://taarifa.rw/2026/11/14/drc-says-ready-to-withdraw-lumumbas-candidacy-for-oif/",
+   "url": "https://taarifa.rw/2026/11/14/drc-says-ready-to-withdraw-lumumbas-candidacy-for-oif/",
+   "date": "2026-11-14T17:24:46.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "La Francophonie Cambodia Special Report"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261114-191145.jpg?fit=720%2C429&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261114-191145.jpg?fit=720%2C429&ssl=1",
+   "title_en": "DRC Says Ready to Withdraw Lumumba’s Candidacy For OIF",
+   "summary_en": "The Democratic Republic of Congo said on Saturday that it was ready to withdraw Juliana Lumumba’s candidacy for the La Francophonie Secretary General position. This latest development follows President Félix Tshisekedi arrival in Cambodia ahead of the 20th La Francophonie summit. The summit will notably be marked by the selection of the organization’s next Secretary-General, […] The post DRC Says…",
+   "share_id": "MN202611_ljqpjd9rdz"
+  },
+  {
+   "id": "crawl_1s2fkm1",
+   "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+   "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+   "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T17:16:36.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce07/live/190ced90-e04c-11f1-88e1-eb4e155225b3.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce07/live/190ced90-e04c-11f1-88e1-eb4e155225b3.jpg",
+   "title_en": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+   "summary_en": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+   "share_id": "MN202611_1s2fkm18h2v"
+  },
+  {
+   "id": "crawl_b8u9gh",
+   "title": "HAPFIRIYEMO PEREZIDA ARI KWIHA AKABYIZI |UDUKORYO TWA PALAIS DE L'ÉLYSÉE IKORERAMO PREZIDA WA FRANCE",
+   "summary": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
+   "link": "https://www.youtube.com/watch?v=z8aAG0sKJVc",
+   "url": "https://www.youtube.com/watch?v=z8aAG0sKJVc",
+   "date": "2026-11-14T17:10:57.000Z",
+   "source": "Mwanafunzi Ismael YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Mwanafunzi Ismael YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "z8aAG0sKJVc"
+   },
+   "type": "video",
+   "image": "https://i3.ytimg.com/vi/z8aAG0sKJVc/hqdefault.jpg",
+   "thumbnail": "https://i3.ytimg.com/vi/z8aAG0sKJVc/hqdefault.jpg",
+   "title_rw": "HAPFIRIYEMO PEREZIDA ARI KWIHA AKABYIZI |UDUKORYO TWA PALAIS DE L'ÉLYSÉE IKORERAMO PREZIDA WA FRANCE",
+   "summary_rw": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
+   "share_id": "MN202611_b8u9ghue9r"
+  },
   {
    "id": "crawl_1nmn09s",
    "title": "Artificial Intelligence Should Understand Local Languages – La Francophonie Says",
@@ -1823,5 +1890,5 @@
    "share_id": "MN202611_ghkicxdetr"
   }
  ],
- "updated": "2026-11-14T17:11:16.204Z"
+ "updated": "2026-11-14T17:43:06.937Z"
 }
