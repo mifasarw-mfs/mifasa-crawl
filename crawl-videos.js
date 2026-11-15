@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-/* MIFASA video crawler. Inkomoko: (1) YouTube RSS (channels) (2) Internet Archive (public domain / Creative Commons) (3) Pexels (Pexels License; bisaba PEXELS_API_KEY).
+/* MIFASA video crawler. Inkomoko: (1) YouTube RSS (channels) (2) Internet Archive (public domain / Creative Commons) (3) Pexels (Pexels License; bisaba PEXELS_API_KEY) (4) LINKS: link y'urubuga urwo ari rwo rwose (crawler ikurikira n'izindi page zarwo ikishakira videos), playlist, channel cyangwa video. Links zishyirwa muri video-links.txt (zoroshye) cyangwa muri video-channels.json.
    Ntikuramo video: ibika link, izina, ibisobanuro bigufi, itariki, uruhushya (license) n'uwayifite. Usage: node crawl-videos.js [--dry]   (Node 18+, nta dependencies) */
 const fs = require("fs"), DRY = process.argv.includes("--dry"), UA = "MIFASA-VideoCrawler/1.1 (+https://mifasarw.neocities.org)";
 const rd = (f, d) => { try { return JSON.parse(fs.readFileSync(f, "utf8")); } catch (e) { return d; } };
@@ -7,7 +7,7 @@ const cfg = rd("video-channels.json", null); if (!cfg) { console.error("video-ch
 const sleep = ms => new Promise(r => setTimeout(r, ms)), UCID = /^UC[\w-]{22}$/, VID = /^[\w-]{11}$/, one = x => [].concat(x == null ? "" : x)[0];
 const clip = (s, n) => String(one(s) || "").replace(/<[^>]*>/g, " ").replace(/https?:\/\/\S+/g, "").replace(/\s+/g, " ").trim().slice(0, n);
 const dec = s => String(s || "").replace(/<!\[CDATA\[|\]\]>/g, "").replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16))).replace(/&#(\d+);/g, (_, d) => String.fromCodePoint(+d)).replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&apos;/g, "'").replace(/&amp;/g, "&");
-let status = 0;
+let status = 0, KNOWN = new Set(); const T0 = Date.now(), OUT_OF_TIME = () => Date.now() - T0 > 420000;   // 7 min (workflow ni 10)
 async function get(url, headers) {
   for (let i = 0; i < 3; i++) {
     try { const r = await fetch(url, { headers: { "User-Agent": UA, "Accept-Language": "en", Cookie: "CONSENT=YES+1", ...headers }, signal: AbortSignal.timeout(20000) }); status = r.status; if (r.ok) return await r.text(); if (r.status === 404 || r.status === 401 || r.status === 403) return null; } catch (e) { status = 0; }
@@ -47,14 +47,60 @@ async function fromPexels(s) {
     return { key: f.link, url: f.link, title: clip(s.query, 60) + " (stock #" + v.id + ")", description: "Video y'ubuntu ya Pexels (Pexels License) na " + clip(v.user && v.user.name, 60) + ".", date: today(), duration_estimate: mmss(v.duration || 0),
       channel: s.name, channel_url: /^https:\/\/www\.pexels\.com\//.test(v.url || "") ? v.url : "https://www.pexels.com/", license: "Pexels License", thumb: /^https:\/\//.test(v.image || "") ? v.image : "", credit: clip(v.user && v.user.name, 80) }; }).filter(Boolean);
 }
+/* ---- LINKS: link ishobora kuba channel (@handle | /channel/UC..), playlist (list=PL..), video imwe, cyangwa page (urubuga) ifite videos nyinshi ---- */
+const PLID = /[?&;]list=((?:PL|UU|OL|FL|LL)[\w-]{10,40})/g, YTV = /(?:youtu\.be\/|youtube(?:-nocookie)?\.com\/(?:embed\/|watch\?(?:[^"'\s<>]*?[&;])?v=|shorts\/|live\/|v\/))([\w-]{11})(?![\w-])/g, HREF = /<a\s[^>]*?href=["']([^"'#][^"']*)["']/gi, FILE = /(?:src|href|content)=["']([^"']+\.(?:mp4|webm)(?:\?[^"']*)?)["']/gi;
+const all = (re, s) => { const o = new Set(); let m; re.lastIndex = 0; while ((m = re.exec(s))) o.add(m[1]); return [...o]; };
+async function fromPlaylist(id, name, max) {
+  const xml = await get("https://www.youtube.com/feeds/videos.xml?playlist_id=" + id); if (!xml) { console.warn("! playlist ntiboneka: " + id + " (HTTP " + status + ")"); return []; }
+  const head = xml.split("<entry>")[0], ai = head.indexOf("<author>"), au = ai < 0 ? "" : head.slice(ai), who = clip(tag(au, "name"), 80), uri = tag(au, "uri");
+  return parseFeed(xml).slice(0, max).map(v => ({ key: v.id, url: "https://youtu.be/" + v.id, title: v.title, description: v.desc, date: v.date, channel: who || name || "YouTube", channel_url: /^https:\/\/www\.youtube\.com\//.test(uri) ? uri : "https://www.youtube.com/playlist?list=" + id, license: "YouTube (embed)" }));
+}
+async function oneVideo(id, name) {   // izina + nyirayo biva kuri oEmbed (video yihariye / private ntiboneka)
+  const t = await get("https://www.youtube.com/oembed?format=json&url=" + encodeURIComponent("https://www.youtube.com/watch?v=" + id)); if (!t) return null;
+  let j = {}; try { j = JSON.parse(t); } catch (e) {} if (!j.title) return null;
+  return { key: id, url: "https://youtu.be/" + id, title: clip(j.title, 150), description: "", date: today(), channel: clip(j.author_name, 80) || name || "YouTube", channel_url: /^https:\/\/www\.youtube\.com\//.test(j.author_url || "") ? j.author_url : "https://youtu.be/" + id, license: "YouTube (embed)" };
+}
+async function fromLink(l) {
+  const max = l.max || 30; let u = null; try { u = new URL(l.url); } catch (e) {}
+  if (!u || u.protocol !== "https:") { console.warn("! link ntiyemewe (https gusa): " + l.url); return []; }
+  const host = u.hostname.replace(/^(www|m|music)\./, ""), out = [], seen = new Set(), push = v => { if (v && !seen.has(v.key)) { seen.add(v.key); out.push(v); } };
+  if (host === "youtube.com" || host === "youtu.be") {
+    const hm = /^\/@([^/]+)/.exec(u.pathname), cm = /^\/channel\/(UC[\w-]{22})/.exec(u.pathname);
+    if (hm || cm) return fromYouTube({ handle: cm ? cm[1] : decodeURIComponent(hm[1]), id: cm ? cm[1] : "", name: l.name }, null, {});
+    const lid = u.searchParams.get("list"), pm = /^\/(?:shorts|live|embed)\/([\w-]{11})/.exec(u.pathname), vid = u.searchParams.get("v") || (pm ? pm[1] : host === "youtu.be" ? u.pathname.slice(1, 12) : "");
+    if (lid && /^[\w-]{10,50}$/.test(lid)) (await fromPlaylist(lid, l.name, max)).forEach(push);
+    if (VID.test(vid) && vid !== "videoseries") push(await oneVideo(vid, l.name));
+    return out.slice(0, max);
+  }
+  /* Urubuga rwose: crawler itangirira kuri link, igakurikira links z'imbere mu rubuga rumwe (depth + pages), ikishakira videos kuri buri page */
+  const maxPages = l.pages || cfg.site_pages || 25, maxDepth = l.depth != null ? l.depth : cfg.site_depth != null ? cfg.site_depth : 2, bare = h => h.replace(/^www\./, "");
+  const queue = [[l.url, 0]], visited = new Set(); let first = true;
+  while (queue.length && visited.size < maxPages && out.length < max && !OUT_OF_TIME()) {
+    const [pu, d] = queue.shift(), pk = pu.split("#")[0]; if (visited.has(pk)) continue; visited.add(pk);
+    const html = await get(pu); if (!html) { if (first) console.warn("! link ntifunguka: " + pu + " (HTTP " + status + ")"); first = false; continue; } first = false;
+    const page = html.replace(/&amp;/g, "&").replace(/\\u0026/g, "&").replace(/\\\//g, "/");
+    for (const p of all(PLID, page)) { if (out.length >= max) break; (await fromPlaylist(p, l.name, max)).forEach(push); await sleep(500); }   // playlist zose ziri kuri page
+    for (const id of all(YTV, page)) { if (out.length >= max) break; if (id === "videoseries" || seen.has(id) || KNOWN.has(id)) continue; push(await oneVideo(id, l.name)); await sleep(300); }   // video za YouTube (izisanzwe zirasimbukwa)
+    for (const f of all(FILE, page)) { try { const fu = new URL(f, pu); if (fu.protocol !== "https:" || KNOWN.has(fu.href)) continue; const fn = decodeURIComponent(fu.pathname.split("/").pop()).replace(/\.(mp4|webm)$/i, "").replace(/[-_]+/g, " ");
+      push({ key: fu.href, url: fu.href, title: clip(fn, 150) || "Video", description: "", date: today(), channel: l.name || host, channel_url: pu, license: "Urubuga rwa nyirarwo" }); } catch (e) {} }   // mp4/webm
+    if (d < maxDepth) for (const href of all(HREF, page)) { try { const nu = new URL(href, pu); nu.hash = ""; if (nu.protocol === "https:" && bare(nu.hostname) === bare(u.hostname) && !visited.has(nu.href) && !/\.(jpe?g|png|gif|webp|svg|ico|css|js|pdf|zip|mp3|mp4|webm|xml|json|txt)$/i.test(nu.pathname)) queue.push([nu.href, d + 1]); } catch (e) {} }
+    await sleep(400);
+  }
+  console.log("  " + l.url + ": pages " + visited.size + ", videos nshya " + out.length);
+  return out.slice(0, max);
+}
 const keyOf = v => { const m = /youtu\.be\/([\w-]{11})/.exec(v.url || "") || /archive\.org\/details\/([\w.\-]+)/.exec(v.url || ""); return m ? m[1] : (v.url || ""); };
 (async () => {
   const exCh = new Set((cfg.exclude_channels || []).map(h => h.toLowerCase())), exVid = new Set(cfg.exclude_videos || []), st = { idsChanged: false };
   const file = rd("videos.json", { videos: [] }), map = new Map();
   for (const v of Array.isArray(file.videos) ? file.videos : []) { const k = keyOf(v); if (k && !exVid.has(k) && !(v.source === "crawl" && exCh.has(String(v.handle || "").toLowerCase()))) map.set(k, v); }
+  KNOWN = new Set(map.keys());
+  const txt = (() => { try { return fs.readFileSync("video-links.txt", "utf8"); } catch (e) { return ""; } })();   // video-links.txt: link imwe kuri buri murongo (# = comment; "link | Izina")
+  const txtLinks = txt.split(/\r?\n/).map(x => x.trim()).filter(x => x && x[0] !== "#").map(x => { const [url, name] = x.split("|").map(y => y.trim()); return { url, name: name || "", category: "Amashusho", tags: [] }; });
   let added = 0;
   const add = (items, base, name) => { for (const v of items) { if (exVid.has(v.key) || map.has(v.key)) continue; const { key, ...o } = v; map.set(key, { duration_estimate: "unknown", category: base.category || "Amashusho", tags: base.tags || [], ...o, handle: name, source: "crawl" }); added++; } };
   for (const ch of cfg.channels || []) { if (exCh.has(ch.handle.toLowerCase())) continue; add(await fromYouTube(ch, exCh, st), ch, ch.handle); console.log("@" + ch.handle + " done"); await sleep(1000); }
+  for (const l0 of [...(cfg.links || []), ...txtLinks]) { if (OUT_OF_TIME()) { console.warn("! igihe cyashize, links zisigaye zizakorwa ubutaha"); break; } const l = typeof l0 === "string" ? { url: l0 } : l0; if (!l || !l.url) continue; const nm = l.name || l.url; if (exCh.has(String(nm).toLowerCase()) || exCh.has(String(l.url).toLowerCase())) continue; add(await fromLink(l), l, nm); console.log("link " + l.url + " done"); await sleep(1000); }
   for (const s of cfg.sources || []) { if (exCh.has(String(s.name).toLowerCase())) continue; add(s.type === "pexels" ? await fromPexels(s) : await fromArchive(s), s, s.name); console.log(s.name + " done"); await sleep(800); }
   const all = [...map.values()].sort((a, b) => String(a.date || "").localeCompare(String(b.date || ""))).slice(-(cfg.max_total || 300));
   const out = JSON.stringify({ _note: file._note || "Videos: manual + crawl-videos.js.", videos: all }, null, 1) + "\n";
