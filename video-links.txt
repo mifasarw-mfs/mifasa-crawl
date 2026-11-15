@@ -1,0 +1,6 @@
+# MIFASA: links z'inyongera zo gukorwaho crawl. Link imwe kuri buri murongo (https gusa).
+# Crawler itangirira kuri link ikurikira n'izindi page z'urubuga rumwe ikishakira videos (YouTube, playlist, mp4/webm).
+# Ushobora kongeraho izina: https://urubuga.com/amashusho | Izina ry'urubuga
+# Imirongo itangiwe na # ntisomwa. Urugero (kuramo # ugiye kuyikoresha):
+# https://example.com/videos | Urugero
+https://www.xvideos.com/?k=Rwanda&top | Xvideos 
