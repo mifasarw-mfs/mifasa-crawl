@@ -3142,6 +3142,102 @@
    ],
    "auto": true,
    "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_e06fccb0_q",
+   "label_rw": "Indimba n'imitako y'ururimi rw'Ikinyarwanda",
+   "label_en": "Kinyarwanda dialects and regional variations",
+   "patterns_en": [
+    "What are the main dialects of Kinyarwanda?",
+    "Does the pronunciation of Kinyarwanda vary by region?",
+    "Can Rwandans understand each other despite regional differences?"
+   ],
+   "patterns_rw": [
+    "Ni izihe ntonorero z'Ikinyarwanda zizwi mu Rwanda?",
+    "Ese imivugire y'Ikinyarwanda iratandukanye mu turere?",
+    "Abanyarwanda barumvikana nubwo bavuga mu buryo butandukanye?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ikinyarwanda gifite amoko y'indimi n'imitako bitandukanye bitewe n'uturere tw'u Rwanda. Uko abantu batuye mu ntara zitandukanye bituma hari amagambo cyangwa imivugire ihinduka gato. Icyakora, abantu bose bavuga Ikinyarwanda barumvikana neza mu gihugu hose.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Kinyarwanda features various dialects and regional variations across different regions of Rwanda. Living in different provinces leads to slight differences in vocabulary and pronunciation. However, all Kinyarwanda speakers easily understand each other throughout the country.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_37402412_q",
+   "label_rw": "Gukirana mu Rwanda rwo hambere",
+   "label_en": "Traditional wrestling in ancient Rwanda",
+   "patterns_en": [
+    "What was traditional wrestling in ancient Rwanda?",
+    "What was the purpose of wrestling?",
+    "How did young men show their skills?"
+   ],
+   "patterns_rw": [
+    "Gukirana kwari iki mu Rwanda rwo hambere?",
+    "Ni iki cyari kigamijwe mu gukirana?",
+    "Ni gute abasore berekana ubuhanga bwabo?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gukirana kwari umuco ukomeye mu Rwanda rwo hambere. Byari bifite umumaro wo kwigisha ubutwari no guteza imbere imbaraga z'umubiri. Abasore bahiganwaga mu birori bitandukanye kugira ngo bagaragaze ubuhanga n'ubushobozi bwabo bwo gutsinda.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Traditional wrestling was an important cultural practice in ancient Rwanda. It served to teach bravery and promote physical strength. Young men competed in various ceremonies to demonstrate their skill and ability to win.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_b60dbcda_q",
+   "label_rw": "Ubugeni bwo gucura icyuma mu Rwanda",
+   "label_en": "Traditional Rwandan ironworking",
+   "patterns_en": [
+    "What did traditional Rwandan smiths use to smelt iron?",
+    "What kinds of tools were made by Rwandan ironworkers?",
+    "What was the significance of ironworking in Rwandan history?"
+   ],
+   "patterns_rw": [
+    "Abacuzi bo mu Rwanda rwo hambere bakoreshaga iki ngo bashongeshe icyuma?",
+    "Ni ibiki bikoresho byakorerwaga n'abacuzi b'abanyarwanda?",
+    "Ubugeni bwo gucura icyuma bwari bufite akahe kamaro mu mateka y'u Rwanda?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubugeni bwo gucura icyuma mu Rwanda bwari urwego rukomeye rw'ubukungu n'umuco mu mateka. Abanyabwenge b'abacuzi bakoreshaga amatako n'ibumba ngo bashONGESHE amabuye y'icyuma. Babikoreshaga bakora intwaro, ibikoresho by'ubuhinzi, n'imitako y'agaciro.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Traditional ironworking was an important economic and cultural practice in Rwandan history. Expert smiths used traditional furnaces and clay blowers to smelt iron ore. They manufactured weapons, agricultural tools, and valuable ornaments.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_7b095430_q",
+   "label_rw": "Imyambarire gakondo y'u Rwanda",
+   "label_en": "Traditional Rwandan clothing",
+   "patterns_en": [
+    "What was used in traditional Rwandan clothing?",
+    "How were cow hides softened?",
+    "How has Rwandan clothing evolved over time?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyakoreshwaga mu myambarire gakondo?",
+    "Impu z'inka zaroroshcywaga zite?",
+    "Ni gute imyambarire y'u Rwanda yahindutse?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mbere, Abanyarwanda bambaraga impu z'inka cyangwa izindi nyamaswa. Impu zaroroshcywaga zikagirwa ubwiza bw'imyenda. Hanyuma, hagaje ibikorwa by'ubudozi bw'ibitenge n'imyenda yindi y'umuco.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Historically, Rwandans wore clothing made from cow hides or other animal skins. These hides were softened and prepared for daily wear. Later, traditional textile weaving and modern cultural fabrics became more common.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
   }
  ],
  "knowledge": [
@@ -5727,6 +5823,86 @@
    ],
    "auto": true,
    "taught": "2026-11-14"
+  },
+  {
+   "id": "ai16_e06fccb0",
+   "category": "rwanda",
+   "title_rw": "Indimba n'imitako y'ururimi rw'Ikinyarwanda",
+   "title_en": "Kinyarwanda dialects and regional variations",
+   "summary_rw": "Ikinyarwanda gifite amoko y'indimi n'imitako bitandukanye bitewe n'uturere tw'u Rwanda. Uko abantu batuye mu ntara zitandukanye bituma hari amagambo cyangwa imivugire ihinduka gato. Icyakora, abantu bose bavuga Ikinyarwanda barumvikana neza mu gihugu hose.",
+   "summary_en": "Kinyarwanda features various dialects and regional variations across different regions of Rwanda. Living in different provinces leads to slight differences in vocabulary and pronunciation. However, all Kinyarwanda speakers easily understand each other throughout the country.",
+   "keywords": [
+    "ikinyarwanda",
+    "indimba",
+    "imitako",
+    "imivugire",
+    "uturere",
+    "dialects",
+    "rwanda",
+    "language"
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_37402412",
+   "category": "rwanda",
+   "title_rw": "Gukirana mu Rwanda rwo hambere",
+   "title_en": "Traditional wrestling in ancient Rwanda",
+   "summary_rw": "Gukirana kwari umuco ukomeye mu Rwanda rwo hambere. Byari bifite umumaro wo kwigisha ubutwari no guteza imbere imbaraga z'umubiri. Abasore bahiganwaga mu birori bitandukanye kugira ngo bagaragaze ubuhanga n'ubushobozi bwabo bwo gutsinda.",
+   "summary_en": "Traditional wrestling was an important cultural practice in ancient Rwanda. It served to teach bravery and promote physical strength. Young men competed in various ceremonies to demonstrate their skill and ability to win.",
+   "keywords": [
+    "gukirana",
+    "umuco",
+    "u rwanda",
+    "imbaraga",
+    "wrestling",
+    "culture",
+    "rwanda",
+    "strength"
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_b60dbcda",
+   "category": "rwanda",
+   "title_rw": "Ubugeni bwo gucura icyuma mu Rwanda",
+   "title_en": "Traditional Rwandan ironworking",
+   "summary_rw": "Ubugeni bwo gucura icyuma mu Rwanda bwari urwego rukomeye rw'ubukungu n'umuco mu mateka. Abanyabwenge b'abacuzi bakoreshaga amatako n'ibumba ngo bashONGESHE amabuye y'icyuma. Babikoreshaga bakora intwaro, ibikoresho by'ubuhinzi, n'imitako y'agaciro.",
+   "summary_en": "Traditional ironworking was an important economic and cultural practice in Rwandan history. Expert smiths used traditional furnaces and clay blowers to smelt iron ore. They manufactured weapons, agricultural tools, and valuable ornaments.",
+   "keywords": [
+    "ubucuzi",
+    "icyuma",
+    "amateka",
+    "umuco",
+    "ubuhinzi",
+    "ironworking",
+    "smiths",
+    "history"
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_7b095430",
+   "category": "rwanda",
+   "title_rw": "Imyambarire gakondo y'u Rwanda",
+   "title_en": "Traditional Rwandan clothing",
+   "summary_rw": "Mbere, Abanyarwanda bambaraga impu z'inka cyangwa izindi nyamaswa. Impu zaroroshcywaga zikagirwa ubwiza bw'imyenda. Hanyuma, hagaje ibikorwa by'ubudozi bw'ibitenge n'imyenda yindi y'umuco.",
+   "summary_en": "Historically, Rwandans wore clothing made from cow hides or other animal skins. These hides were softened and prepared for daily wear. Later, traditional textile weaving and modern cultural fabrics became more common.",
+   "keywords": [
+    "impu",
+    "hides",
+    "umuco",
+    "culture",
+    "imyambarire",
+    "clothing",
+    "u rwanda",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
   }
  ]
 }
