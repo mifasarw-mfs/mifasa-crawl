@@ -1,7 +1,107 @@
 {
  "day": "2026-11-15",
- "count": 48,
+ "count": 53,
  "articles": [
+  {
+   "id": "crawl_1frfof9",
+   "title": "Club's first match after player's death abandoned because of serious injury",
+   "summary": "Hendon's first match since the death of midfielder Ezekiel Williams is abandoned because of a serious injury to Ethan Creary.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm98xd2dpjd7o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm98xd2dpjd7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T14:06:19.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7a/live/05560230-e0f8-11f1-97b9-9110abfffc70.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7a/live/05560230-e0f8-11f1-97b9-9110abfffc70.png",
+   "title_en": "Club's first match after player's death abandoned because of serious injury",
+   "summary_en": "Hendon's first match since the death of midfielder Ezekiel Williams is abandoned because of a serious injury to Ethan Creary.",
+   "share_id": "MN202611_1frfof97ltv"
+  },
+  {
+   "id": "crawl_15w1nte",
+   "title": "Bristol Rovers being let down by poor players - Evans",
+   "summary": "Steve Evans insists he will leave Bristol Rovers if he is not wanted but says his players have been \"inconsistent\" and \"poor\".",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cx1l0g217veqo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0g217veqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T13:55:09.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49c7/live/affda860-e0f2-11f1-97b9-9110abfffc70.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49c7/live/affda860-e0f2-11f1-97b9-9110abfffc70.jpg",
+   "title_en": "Bristol Rovers being let down by poor players - Evans",
+   "summary_en": "Steve Evans insists he will leave Bristol Rovers if he is not wanted but says his players have been \"inconsistent\" and \"poor\".",
+   "share_id": "MN202611_15w1ntetl80"
+  },
+  {
+   "id": "crawl_1gvldef",
+   "title": "Pitch perimeters under review after Vigar death",
+   "summary": "The Premier League, English Football League and Women's Super League are reviewing pitch perimeters after the death of Billy Vigar last year.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5y4jn2zw3yno?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c5y4jn2zw3yno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T13:49:17.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/541a/live/e9fcbc60-e0f5-11f1-97b9-9110abfffc70.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/541a/live/e9fcbc60-e0f5-11f1-97b9-9110abfffc70.jpg",
+   "title_en": "Pitch perimeters under review after Vigar death",
+   "summary_en": "The Premier League, English Football League and Women's Super League are reviewing pitch perimeters after the death of Billy Vigar last year.",
+   "share_id": "MN202611_1gvldefdat1"
+  },
+  {
+   "id": "crawl_pxx6pw",
+   "title": "Iran targets US military base in Bahrain with drone attack",
+   "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+   "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T13:42:58.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adcc/live/783de3c0-e0f4-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adcc/live/783de3c0-e0f4-11f1-b441-2b33b063138f.jpg",
+   "title_en": "Iran targets US military base in Bahrain with drone attack",
+   "summary_en": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+   "share_id": "MN202611_pxx6pwq36q"
+  },
+  {
+   "id": "crawl_1ytv3nz",
+   "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+   "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+   "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T13:37:45.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ab/live/d67148b0-e0ef-11f1-97b9-9110abfffc70.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ab/live/d67148b0-e0ef-11f1-97b9-9110abfffc70.png",
+   "title_en": "South Korea's top scorer in tax accountancy exam admits cheating",
+   "summary_en": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+   "share_id": "MN202611_1ytv3nzo04t"
+  },
   {
    "id": "crawl_8so2ob",
    "title": "Branthwaite, Garner and King omitted for Spain game",
@@ -1022,5 +1122,5 @@
    "share_id": "MN202611_1aez83ul1ig"
   }
  ],
- "updated": "2026-11-15T13:22:59.873Z"
+ "updated": "2026-11-15T14:11:24.571Z"
 }
