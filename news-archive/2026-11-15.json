@@ -1,7 +1,87 @@
 {
  "day": "2026-11-15",
- "count": 1,
+ "count": 5,
  "articles": [
+  {
+   "id": "crawl_11g793",
+   "title": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
+   "summary": "The presenter says she has received a 'five-year clear' after having a hysterectomy in her thirties.",
+   "link": "https://www.bbc.co.uk/news/articles/cw62p4n3n1xyo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw62p4n3n1xyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T00:09:29.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ca/live/a5a42090-e06d-11f1-99e6-531f8829f5a3.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ca/live/a5a42090-e06d-11f1-99e6-531f8829f5a3.jpg",
+   "title_en": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
+   "summary_en": "The presenter says she has received a 'five-year clear' after having a hysterectomy in her thirties.",
+   "share_id": "MN202611_11g793d5p1"
+  },
+  {
+   "id": "crawl_1yptwxk",
+   "title": "Holly Humberstone: People can't connect to a pop star who's 'too polished'",
+   "summary": "The singer felt forced to compete with her female peers, until she realised the power of longevity.",
+   "link": "https://www.bbc.co.uk/news/articles/cw77p7yj42k5o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw77p7yj42k5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T00:07:29.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e68f/live/3aa58e70-dcf6-11f1-9ef0-4b5930e2f80e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e68f/live/3aa58e70-dcf6-11f1-9ef0-4b5930e2f80e.jpg",
+   "title_en": "Holly Humberstone: People can't connect to a pop star who's 'too polished'",
+   "summary_en": "The singer felt forced to compete with her female peers, until she realised the power of longevity.",
+   "share_id": "MN202611_1yptwxkmtee"
+  },
+  {
+   "id": "crawl_11v5ng9",
+   "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+   "summary": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
+   "link": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T00:06:55.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94d8/live/8fe15d90-df82-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94d8/live/8fe15d90-df82-11f1-b441-2b33b063138f.jpg",
+   "title_en": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+   "summary_en": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
+   "share_id": "MN202611_11v5ng9yjx3"
+  },
+  {
+   "id": "crawl_1qlj4ly",
+   "title": "Judo champion shakes up French presidential race with surprise candidacy",
+   "summary": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
+   "link": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T00:06:51.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1901/live/c7db8b90-df5e-11f1-a8af-15d7a25dc0d1.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1901/live/c7db8b90-df5e-11f1-a8af-15d7a25dc0d1.jpg",
+   "title_en": "Judo champion shakes up French presidential race with surprise candidacy",
+   "summary_en": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
+   "share_id": "MN202611_1qlj4lyc12s"
+  },
   {
    "id": "crawl_nariwg",
    "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
@@ -23,5 +103,5 @@
    "share_id": "MN202611_nariwgkfda"
   }
  ],
- "updated": "2026-11-15T00:08:36.721Z"
+ "updated": "2026-11-15T01:06:13.239Z"
 }
