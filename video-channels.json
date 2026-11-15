@@ -1,0 +1,15 @@
+{
+  "_note": "Channels za YouTube zikurikirwa. 'id' (UC...) yuzuzwa na crawler ubwayo; niba kuyibona byanze, wandike intoki (YouTube > channel > About > Share > Copy channel ID). Kuramo channel: yiyandike muri exclude_channels.",
+  "channels": [
+    { "handle": "akabariro",       "name": "Akabariro",       "category": "Amashusho", "tags": ["akabariro"] },
+    { "handle": "BAHOFAMILYTV",    "name": "BAHO FAMILY TV",  "category": "Amashusho", "tags": ["baho family"] },
+    { "handle": "ibangaryurukundo","name": "Ibanga ry'urukundo","category": "Amashusho", "tags": ["urukundo"] },
+    { "handle": "tiv15",           "name": "TIV 15",          "category": "Amashusho", "tags": ["tiv15"] },
+    { "handle": "africanvillage250","name": "African Village 250","category": "Amashusho", "tags": ["african village"] },
+    { "handle": "thevoice2504",    "name": "The Voice 2504",  "category": "Amashusho", "tags": ["the voice"] }
+  ],
+  "exclude_channels": [],
+  "exclude_videos": [],
+  "max_per_channel": 15,
+  "max_total": 300
+}

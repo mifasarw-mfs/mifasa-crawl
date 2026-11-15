@@ -1,62 +1,53 @@
-/* MIFASA: gets EVERY video of every YouTube channel in crawl-feeds.json (entries with type:"youtube").
-   Needs the secret YOUTUBE_API_KEY (the same key the trending feeds use; 1 quota unit per 50 videos, free 10,000/day).
-   First run = the whole catalogue of each channel; later runs = only the new videos (stops at the first one it already knows).
-   Output: videos/<slug>.json (one file per channel) + videos/index.json.  Run: node crawl-videos.js   (or --only="Yee Fanta YouTube") */
-const fs = require("fs"), path = require("path");
-const KEY = process.env.YOUTUBE_API_KEY, DIR = "videos", UA = "Mozilla/5.0 (compatible; MIFASA-crawler)";
-const slug = n => String(n).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+#!/usr/bin/env node
+/* MIFASA video crawler: ikurikira channels za YouTube (RSS yemewe ya YouTube, nta API key) ikavugurura videos.json.
+   Ntikuramo video: ibika gusa link, izina, ibisobanuro bigufi (<=200), itariki na channel. Video ikinirwa na player ya YouTube.
+   Usage: node crawl-videos.js [--dry]     (Node 18+, nta dependencies)   Files: video-channels.json (config), videos.json (output) */
+const fs = require("fs"), DRY = process.argv.includes("--dry"), UA = "MIFASA-VideoCrawler/1.0 (+https://mifasarw.neocities.org)";
+const rd = (f, d) => { try { return JSON.parse(fs.readFileSync(f, "utf8")); } catch (e) { return d; } };
+const cfg = rd("video-channels.json", null); if (!cfg || !Array.isArray(cfg.channels)) { console.error("video-channels.json ntibonetse"); process.exit(1); }
+const sleep = ms => new Promise(r => setTimeout(r, ms)), UCID = /^UC[\w-]{22}$/, VID = /^[\w-]{11}$/;
+const clip = (s, n) => String(s || "").replace(/https?:\/\/\S+/g, "").replace(/\s+/g, " ").trim().slice(0, n);
+const dec = s => String(s || "").replace(/<!\[CDATA\[|\]\]>/g, "").replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16))).replace(/&#(\d+);/g, (_, d) => String.fromCodePoint(+d)).replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&apos;/g, "'").replace(/&amp;/g, "&");
 async function get(url) {
-  const ac = new AbortController(), t = setTimeout(() => ac.abort(), 25000);
-  try { const r = await fetch(url, { signal: ac.signal, redirect: "follow", headers: { "User-Agent": UA, "Accept-Language": "en" } }); if (!r.ok) throw new Error("HTTP " + r.status); return r; }
-  finally { clearTimeout(t); }
+  for (let i = 0; i < 3; i++) {
+    try { const r = await fetch(url, { headers: { "User-Agent": UA, "Accept-Language": "en", Cookie: "CONSENT=YES+1" }, signal: AbortSignal.timeout(20000) }); if (r.ok) return await r.text(); } catch (e) {}
+    await sleep(1500 * (i + 1));
+  }
+  return null;
 }
-async function channelId(f) {
-  const id = String(f.channel_id || "").trim();
-  if (/^UC[\w-]{22}$/.test(id)) return id;
-  const h = String(f.handle || "").trim().replace(/^@?/, "@");
-  if (h.length < 3) throw new Error("needs channel_id or handle");
-  const html = await (await get("https://www.youtube.com/" + h)).text();
-  const m = html.match(/"channelId":"(UC[\w-]{22})"/) || html.match(/channel\/(UC[\w-]{22})/);
-  if (!m) throw new Error("channel id not found for " + h + " (put \"channel_id\" in crawl-feeds.json)");
-  return m[1];
+async function resolveId(handle) {
+  const html = await get("https://www.youtube.com/@" + encodeURIComponent(handle)); if (!html) return null;
+  for (const re of [/rel="canonical" href="https:\/\/www\.youtube\.com\/channel\/(UC[\w-]{22})"/, /itemprop="(?:identifier|channelId)" content="(UC[\w-]{22})"/, /"externalId":"(UC[\w-]{22})"/, /"channelId":"(UC[\w-]{22})"/]) { const m = re.exec(html); if (m) return m[1]; }
+  return null;
 }
-async function main() {
-  if (!KEY) { console.log("YOUTUBE_API_KEY is not set: skipping (the RSS crawl still keeps each channel's latest 15 videos)"); return; }
-  const only = ((process.argv.find(a => a.startsWith("--only=")) || "").slice(7)).replace(/^"|"$/g, "");
-  const feeds = JSON.parse(fs.readFileSync("crawl-feeds.json", "utf8")).feeds.filter(f => f.type === "youtube" && f.enabled !== false && (!only || f.name === only));
-  fs.mkdirSync(DIR, { recursive: true });
-  const index = []; let quotaOut = false;
-  for (const f of feeds) {
-    const s = slug(f.name), file = path.join(DIR, s + ".json"); let old = { videos: [] };
-    try { old = JSON.parse(fs.readFileSync(file, "utf8")); } catch (e) {}
-    old.videos = Array.isArray(old.videos) ? old.videos : [];
-    let videos = old.videos, id = old.channel_id || "";
-    if (!quotaOut) try {
-      id = /^UC[\w-]{22}$/.test(id) ? id : await channelId(f);
-      const known = new Set(old.videos.map(v => v.id)), fresh = []; let token = "", stop = false, pages = 0;
-      while (!stop && pages++ < 100) {
-        const j = await (await get("https://www.googleapis.com/youtube/v3/playlistItems?part=snippet,contentDetails&maxResults=50&playlistId=UU" + id.slice(2) + "&key=" + KEY + (token ? "&pageToken=" + token : ""))).json();
-        for (const it of j.items || []) {
-          const vid = (it.contentDetails && it.contentDetails.videoId) || (it.snippet && it.snippet.resourceId && it.snippet.resourceId.videoId), t = (it.snippet && it.snippet.title) || "";
-          if (!/^[\w-]{11}$/.test(vid || "") || /^(private|deleted) video$/i.test(t)) continue;
-          if (known.has(vid)) { stop = true; continue; }
-          known.add(vid); fresh.push({ id: vid, t: t.slice(0, 160), d: String((it.contentDetails && it.contentDetails.videoPublishedAt) || (it.snippet && it.snippet.publishedAt) || "").slice(0, 19) });
-        }
-        token = j.nextPageToken || ""; if (!token) stop = true;
-      }
-      videos = fresh.concat(old.videos).sort((a, b) => (a.d < b.d ? 1 : a.d > b.d ? -1 : 0));
-      fs.writeFileSync(file, JSON.stringify({ name: f.name, handle: f.handle || "", channel_id: id, lang: f.lang || "rw", category: f.category || "entertainment", updated: new Date().toISOString(), total: videos.length, videos }));
-      console.log("OK    " + String(videos.length).padStart(5) + " videos (" + fresh.length + " new)  " + f.name);
-    } catch (e) {
-      console.log("FAIL  " + f.name + " -> " + e.message);
-      if (/HTTP 403/.test(e.message)) { quotaOut = true; console.log("      (403 = YouTube key wrong, API not enabled or quota used: the other channels keep what they had)"); }
+const tag = (x, t) => { const m = new RegExp("<" + t + "(?:\\s[^>]*)?>([\\s\\S]*?)</" + t + ">").exec(x); return m ? dec(m[1]).trim() : ""; };
+function parseFeed(xml) {
+  return xml.split("<entry>").slice(1).map(e => ({ id: tag(e, "yt:videoId"), title: clip(tag(e, "title"), 150), date: tag(e, "published").slice(0, 10), desc: clip(tag(e, "media:description"), 200) }))
+    .filter(v => VID.test(v.id) && v.title);
+}
+(async () => {
+  const exCh = new Set((cfg.exclude_channels || []).map(h => h.toLowerCase())), exVid = new Set(cfg.exclude_videos || []);
+  const file = rd("videos.json", { videos: [] }), cur = Array.isArray(file.videos) ? file.videos : [];
+  const idOf = u => { const m = /youtu\.be\/([\w-]{11})|[?&]v=([\w-]{11})/.exec(u || ""); return m ? (m[1] || m[2]) : ""; };
+  const map = new Map(); for (const v of cur) { const id = idOf(v.url); if (id && !exVid.has(id) && !(v.source === "crawl" && exCh.has(String(v.handle || "").toLowerCase()))) map.set(id, v); else if (!id) map.set("x" + map.size, v); }
+  let added = 0, idsChanged = false;
+  for (const ch of cfg.channels) {
+    if (exCh.has(ch.handle.toLowerCase())) continue;
+    if (!UCID.test(ch.id || "")) { const id = await resolveId(ch.handle); if (id) { ch.id = id; idsChanged = true; } else { console.warn("! channel ID ntibonetse: @" + ch.handle + " (yandike 'id' intoki muri video-channels.json)"); continue; } }
+    const xml = await get("https://www.youtube.com/feeds/videos.xml?channel_id=" + ch.id);
+    if (!xml) { console.warn("! RSS ntiboneka: @" + ch.handle); continue; }
+    for (const v of parseFeed(xml).slice(0, cfg.max_per_channel || 15)) {
+      if (exVid.has(v.id) || map.has(v.id)) continue;
+      map.set(v.id, { url: "https://youtu.be/" + v.id, title: v.title, description: v.desc, category: ch.category || "Amashusho", tags: ch.tags || [], duration_estimate: "unknown", date: v.date,
+        channel: ch.name || ch.handle, channel_url: "https://www.youtube.com/channel/" + ch.id, handle: ch.handle, source: "crawl" });
+      added++;
     }
-    if (videos.length) index.push({ name: f.name, slug: s, total: videos.length, lang: f.lang || "rw", category: f.category || "entertainment" });
+    console.log("@" + ch.handle + " ok"); await sleep(1000);
   }
-  if (!only || index.length) {
-    let prev = []; try { prev = JSON.parse(fs.readFileSync(path.join(DIR, "index.json"), "utf8")).channels || []; } catch (e) {}
-    const names = new Set(index.map(c => c.name)), merged = index.concat(only ? prev.filter(c => !names.has(c.name)) : []);
-    fs.writeFileSync(path.join(DIR, "index.json"), JSON.stringify({ updated: new Date().toISOString(), channels: merged }));
-  }
-}
-main().catch(e => { console.error(e); process.exit(1); });
+  const all = [...map.values()].sort((a, b) => String(a.date || "").localeCompare(String(b.date || ""))).slice(-(cfg.max_total || 300));   // kera -> gishya (nk'urubuga rwa Promo)
+  const out = JSON.stringify({ _note: file._note || "Videos: manual + crawl-videos.js. Hindura intoki ibyo ushaka; crawler ntisimbura ibiriho.", videos: all }, null, 1) + "\n";
+  console.log("added " + added + ", total " + all.length + (DRY ? " (dry)" : ""));
+  if (DRY) return;
+  if (out !== fs.readFileSync("videos.json", "utf8").toString() || !fs.existsSync("videos.json")) fs.writeFileSync("videos.json", out);
+  if (idsChanged) fs.writeFileSync("video-channels.json", JSON.stringify(cfg, null, 2) + "\n");
+})();
