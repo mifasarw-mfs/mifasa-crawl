@@ -1,7 +1,27 @@
 {
  "day": "2026-11-13",
- "count": 148,
+ "count": 149,
  "articles": [
+  {
+   "id": "crawl_7413oz",
+   "title": "France edge past South Africa after thriller in Nations Championship",
+   "summary": "France hold their nerve to beat South Africa by just two points, winning 21-19 at the Stade de France, to make it four wins from five in the Nations Championship and putting the home side in a strong position to top the northern hemisphere standings.",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/videos/c6eq4npqy7e0o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c6eq4npqy7e0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T23:43:05.000Z",
+   "source": "BBC Sport Africa",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Sport Africa",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a01/live/d41f1040-dfbb-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a01/live/d41f1040-dfbb-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "France edge past South Africa after thriller in Nations Championship",
+   "summary_en": "France hold their nerve to beat South Africa by just two points, winning 21-19 at the Stade de France, to make it four wins from five in the Nations Championship and putting the home side in a strong position to top the northern hemisphere standings.",
+   "share_id": "MN202611_7413ozj5w1"
+  },
   {
    "id": "crawl_1ldu16m",
    "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
@@ -3173,5 +3193,5 @@
    "share_id": "MN202611_cgwh2gfix2"
   }
  ],
- "updated": "2026-11-14T23:34:09.560Z"
+ "updated": "2026-11-15T11:48:02.190Z"
 }
