@@ -3406,6 +3406,102 @@
    ],
    "auto": true,
    "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_ddc92c04_q",
+   "label_rw": "Gucunga amafaranga yinjira n'asohoka",
+   "label_en": "Managing cash flow",
+   "patterns_en": [
+    "What is cash flow management?",
+    "How can a business avoid cash shortages?",
+    "Why is tracking income and expenses important?"
+   ],
+   "patterns_rw": [
+    "Gucunga amafaranga yinjira n'asohoka bisobanura iki?",
+    "Ni gute wakwirinda ikibazo cy'amikoro make mu bucuruzi?",
+    "Kuki gukurikiranira hafi amafaranga yinjira n'asohoka ari ingenzi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gucunga amafaranga yinjira n'asohoka bifasha ubucuruzi kumenya neza umutungo bukenye. Bisaba gukurikiranira hafi amafaranga yose yinjiye n'ayasohotse kugira ngo ubucuruzi bukomeze gukora neza. Ibi bituma ubucuruzi bwirinda ibibazo by'amikoro make.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Managing cash flow helps a business understand its financial liquidity. It usually involves tracking all money entering and leaving the business to ensure smooth daily operations. This practice helps businesses avoid sudden financial shortages.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_fb3755da_q",
+   "label_rw": "Mitungo n'imyenda by'ubucuruzi",
+   "label_en": "Business assets and liabilities",
+   "patterns_en": [
+    "What are business assets?",
+    "What are business liabilities?",
+    "Why is understanding assets and liabilities important?"
+   ],
+   "patterns_rw": [
+    "Imitungo y'ubucuruzi ni iki?",
+    "Imyenda y'ubucuruzi isobanura iki?",
+    "Kumenya imitungo n'imyenda bifasha iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imitungo y'ubucuruzi ni ibintu bifite agaciro umucuruzi afite bifasha mu bikorwa bye. Imyenda ni amafaranga cyangwa ibintu ubucuruzi bwenda abandi bantu. Gusobanukirwa ibi bifasha kumenya uko ubucuruzi buhagaze.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Business assets are valuable resources owned that help generate revenue. Liabilities are financial obligations or debts owed to outside parties. Understanding both helps determine the financial health of a business.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_6d0fd989_q",
+   "label_rw": "Ibanze ku bitumizwa mu mahanga n'iboherezwayo mu Rwanda",
+   "label_en": "Import and export basics in Rwanda",
+   "patterns_en": [
+    "What are the main imports of Rwanda?",
+    "What goods does Rwanda usually export?",
+    "Which institutions facilitate international trade?"
+   ],
+   "patterns_rw": [
+    "Ni ibiki bitumizwa cyane mu Rwanda?",
+    "Ni ibihe bicuruzwa u Rwanda rwohereza hanze?",
+    "Ni izihe nzego zifasha mu bucuruzi mpuzamahanga?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gutumiza ibicuruzwa mu mahanga no kuboherezayo bifasha u Rwanda mu bucuruzi. Ibikenerwa cyane ni ibikomoka kuri peteroli n'ibiribwa. Ibyoherezwa hanze ni ikawa, icyayi n'amabuye y'agaciro. Ibigo nka Rwanda Revenue Authority na Rwanda Development Board bifasha muri ibi bikorwa.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Importing and exporting are key to Rwanda trade. Common imports usually include petroleum products and foodstuffs. Main exports are coffee, tea, and minerals. Institutions like Rwanda Revenue Authority and Rwanda Development Board facilitate these business activities.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_3ec275d2_q",
+   "label_rw": "Uruhare rw'amakoperative mu bucuruzi bw'u Rwanda",
+   "label_en": "The role of cooperatives in Rwandan commerce",
+   "patterns_en": [
+    "What do cooperatives do in commerce?",
+    "How do cooperatives help citizens?",
+    "What is the role of cooperatives in the economy?"
+   ],
+   "patterns_rw": [
+    "Ni iki amakoperative akora mu bucuruzi?",
+    "Amakoperative afasha ate abaturage?",
+    "Uruhare rw'amakoperative mu bukungu ni uruhe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Amakoperative afasha abaturage kwiteza imbere binyuze mu kongera umusaruro no guhuza imbaraga mu bucuruzi. Atanga amahirwe yo kubona inguzanyo no guteza imbere ubukungu bw'igihugu.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Cooperatives help citizens improve their livelihoods by increasing production and pooling resources for business. They provide access to credit opportunities and promote national economic development.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
   }
  ],
  "knowledge": [
@@ -6207,6 +6303,84 @@
     "amateka",
     "history",
     "kingdom"
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_ddc92c04",
+   "category": "business",
+   "title_rw": "Gucunga amafaranga yinjira n'asohoka",
+   "title_en": "Managing cash flow",
+   "summary_rw": "Gucunga amafaranga yinjira n'asohoka bifasha ubucuruzi kumenya neza umutungo bukenye. Bisaba gukurikiranira hafi amafaranga yose yinjiye n'ayasohotse kugira ngo ubucuruzi bukomeze gukora neza. Ibi bituma ubucuruzi bwirinda ibibazo by'amikoro make.",
+   "summary_en": "Managing cash flow helps a business understand its financial liquidity. It usually involves tracking all money entering and leaving the business to ensure smooth daily operations. This practice helps businesses avoid sudden financial shortages.",
+   "keywords": [
+    "cash flow",
+    "amafaranga",
+    "ubucuruzi",
+    "imari",
+    "gucunga",
+    "business",
+    "finance"
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_fb3755da",
+   "category": "business",
+   "title_rw": "Mitungo n'imyenda by'ubucuruzi",
+   "title_en": "Business assets and liabilities",
+   "summary_rw": "Imitungo y'ubucuruzi ni ibintu bifite agaciro umucuruzi afite bifasha mu bikorwa bye. Imyenda ni amafaranga cyangwa ibintu ubucuruzi bwenda abandi bantu. Gusobanukirwa ibi bifasha kumenya uko ubucuruzi buhagaze.",
+   "summary_en": "Business assets are valuable resources owned that help generate revenue. Liabilities are financial obligations or debts owed to outside parties. Understanding both helps determine the financial health of a business.",
+   "keywords": [
+    "imitungo",
+    "imyenda",
+    "ubucuruzi",
+    "amafaranga",
+    "assets",
+    "liabilities",
+    "business",
+    "finance"
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_6d0fd989",
+   "category": "business",
+   "title_rw": "Ibanze ku bitumizwa mu mahanga n'iboherezwayo mu Rwanda",
+   "title_en": "Import and export basics in Rwanda",
+   "summary_rw": "Gutumiza ibicuruzwa mu mahanga no kuboherezayo bifasha u Rwanda mu bucuruzi. Ibikenerwa cyane ni ibikomoka kuri peteroli n'ibiribwa. Ibyoherezwa hanze ni ikawa, icyayi n'amabuye y'agaciro. Ibigo nka Rwanda Revenue Authority na Rwanda Development Board bifasha muri ibi bikorwa.",
+   "summary_en": "Importing and exporting are key to Rwanda trade. Common imports usually include petroleum products and foodstuffs. Main exports are coffee, tea, and minerals. Institutions like Rwanda Revenue Authority and Rwanda Development Board facilitate these business activities.",
+   "keywords": [
+    "ubucuruzi",
+    "trade",
+    "ibitumizwa",
+    "imports",
+    "iboherezwayo",
+    "exports",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_3ec275d2",
+   "category": "business",
+   "title_rw": "Uruhare rw'amakoperative mu bucuruzi bw'u Rwanda",
+   "title_en": "The role of cooperatives in Rwandan commerce",
+   "summary_rw": "Amakoperative afasha abaturage kwiteza imbere binyuze mu kongera umusaruro no guhuza imbaraga mu bucuruzi. Atanga amahirwe yo kubona inguzanyo no guteza imbere ubukungu bw'igihugu.",
+   "summary_en": "Cooperatives help citizens improve their livelihoods by increasing production and pooling resources for business. They provide access to credit opportunities and promote national economic development.",
+   "keywords": [
+    "amakoperative",
+    "cooperatives",
+    "ubucuruzi",
+    "commerce",
+    "ubukungu",
+    "economy",
+    "u rwanda",
+    "rwanda"
    ],
    "auto": true,
    "taught": "2026-11-15"
