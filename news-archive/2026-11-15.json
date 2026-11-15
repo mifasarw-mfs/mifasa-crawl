@@ -1,7 +1,27 @@
 {
  "day": "2026-11-15",
- "count": 75,
+ "count": 79,
  "articles": [
+  {
+   "id": "crawl_84i1r3",
+   "title": "London City's 'bravery' paying off in top three pursuit",
+   "summary": "After 10 games in the Women's Super League season, London City Lionesses have shown they are capable of finishing inside the top three.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6y49gzjgew5o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6y49gzjgew5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T20:03:08.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a0/live/0eabd970-e12c-11f1-8eed-17fbb70d2a8a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a0/live/0eabd970-e12c-11f1-8eed-17fbb70d2a8a.jpg",
+   "title_en": "London City's 'bravery' paying off in top three pursuit",
+   "summary_en": "After 10 games in the Women's Super League season, London City Lionesses have shown they are capable of finishing inside the top three.",
+   "share_id": "MN202611_84i1r3e14t"
+  },
   {
    "id": "crawl_1d7iltd",
    "title": "Aston Villa beat Birmingham in WSL derby",
@@ -41,6 +61,46 @@
    "title_en": "Struggling Charlton make WSL history after defeat at West Ham",
    "summary_en": "Charlton Athletic become the first team in Women's Super League history to lose their opening 10 matches of the season as Viviane Asseyi scores twice to guide West Ham United to victory.",
    "share_id": "MN202611_zy4poai15k"
+  },
+  {
+   "id": "crawl_6q2pu9",
+   "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+   "summary": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
+   "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T19:20:53.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b00/live/90c0ff50-e11b-11f1-a7a2-7bb21fac8f0b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b00/live/90c0ff50-e11b-11f1-a7a2-7bb21fac8f0b.jpg",
+   "title_en": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+   "summary_en": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
+   "share_id": "MN202611_6q2pu9vmb3"
+  },
+  {
+   "id": "crawl_1o9q59p",
+   "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+   "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+   "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T18:38:11.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc34/live/e2a8fc70-e11e-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc34/live/e2a8fc70-e11e-11f1-b441-2b33b063138f.jpg",
+   "title_en": "Pope Leo rides in helicopter cockpit during Peru trip",
+   "summary_en": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+   "share_id": "MN202611_1o9q59piqdn"
   },
   {
    "id": "crawl_1gamtfv",
@@ -303,6 +363,26 @@
    "title_en": "Africa CDC Chief Draws Ebola Response Lessons from Rwanda, Uganda as DRC Outbreak Persists",
    "summary_en": "ADDIS ABABA – Rwanda and Uganda offer important lessons in preparing for and responding to public health emergencies, Africa CDC Director General Dr Jean Kaseya has said. In the meantime,… The post Africa CDC Chief Draws Ebola Response Lessons from Rwanda, Uganda as DRC Outbreak Persists appeared first on KT PRESS .",
    "share_id": "MN202611_1yyes7csqp2"
+  },
+  {
+   "id": "crawl_cjoip5",
+   "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+   "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+   "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T16:15:20.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da5/live/b3273710-e0ff-11f1-bf0e-b9e6941e1cc7.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da5/live/b3273710-e0ff-11f1-bf0e-b9e6941e1cc7.jpg",
+   "title_en": "Clothing factories shut in Bangladesh as workers strike over pay",
+   "summary_en": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+   "share_id": "MN202611_cjoip5hf5z"
   },
   {
    "id": "crawl_1xl6gt",
@@ -1567,5 +1647,5 @@
    "share_id": "MN202611_1aez83ul1ig"
   }
  ],
- "updated": "2026-11-15T19:54:05.077Z"
+ "updated": "2026-11-15T20:24:53.318Z"
 }
