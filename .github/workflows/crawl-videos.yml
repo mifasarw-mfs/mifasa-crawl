@@ -1,0 +1,31 @@
+# MIFASA video crawler (GitHub Actions, ubuntu): buri masaha 3 isoma RSS ya channels za YouTube (video-channels.json),
+# ikavugurura videos.json, ikayishyira kuri Neocities (Hub, na Promo niba ufite key yayo).
+# Secrets: NEOCITIES_API_KEY_HUB (ya mizeromifasa)   optional: NEOCITIES_API_KEY_PROMO
+name: mifasa-video-crawler
+on:
+  schedule: [{ cron: "17 */3 * * *" }]
+  workflow_dispatch: {}
+permissions: { contents: write }
+concurrency: { group: mifasa-video-crawler, cancel-in-progress: false }
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: node crawl-videos.js
+      - name: Commit changes
+        id: keep
+        run: |
+          git config user.name "mifasa-video-crawler"; git config user.email "actions@users.noreply.github.com"
+          git add videos.json video-channels.json
+          if git diff --cached --quiet; then echo "changed=false" >> "$GITHUB_OUTPUT"; echo "Nothing new."; else
+            git commit -m "videos: update"; for i in 1 2 3; do git pull --rebase -q && git push && break || sleep 5; done; echo "changed=true" >> "$GITHUB_OUTPUT"; fi
+      - name: Upload to Neocities
+        if: steps.keep.outputs.changed == 'true'
+        env: { HUB: "${{ secrets.NEOCITIES_API_KEY_HUB }}", PROMO: "${{ secrets.NEOCITIES_API_KEY_PROMO }}" }
+        run: |
+          [ -n "$HUB" ] && curl -fsS -H "Authorization: Bearer $HUB" -F "videos.json=@videos.json" https://neocities.org/api/upload
+          [ -n "$PROMO" ] && curl -fsS -H "Authorization: Bearer $PROMO" -F "videos.json=@videos.json" https://neocities.org/api/upload || true
