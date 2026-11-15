@@ -1,7 +1,87 @@
 {
  "day": "2026-11-15",
- "count": 66,
+ "count": 71,
  "articles": [
+  {
+   "id": "crawl_1ewru40",
+   "title": "Charlotte Church closes wellness retreat after five 'beautiful' years",
+   "summary": "Church previously said she blew \"pretty much all my life savings\" on the £1.5m home.",
+   "link": "https://www.bbc.co.uk/news/articles/c65y13z1d8eyo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c65y13z1d8eyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T18:09:07.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc25/live/d9db2e30-e11c-11f1-a7a2-7bb21fac8f0b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc25/live/d9db2e30-e11c-11f1-a7a2-7bb21fac8f0b.jpg",
+   "title_en": "Charlotte Church closes wellness retreat after five 'beautiful' years",
+   "summary_en": "Church previously said she blew \"pretty much all my life savings\" on the £1.5m home.",
+   "share_id": "MN202611_1ewru40kqku"
+  },
+  {
+   "id": "crawl_1nzcgtu",
+   "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+   "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+   "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T18:08:20.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg",
+   "title_en": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+   "summary_en": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+   "share_id": "MN202611_1nzcgtu5dao"
+  },
+  {
+   "id": "crawl_69xf9v",
+   "title": "Ronaldinho makes comeback for Ravenna",
+   "summary": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T18:01:25.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45e6/live/30f37df0-e116-11f1-a7db-d90284d21c62.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45e6/live/30f37df0-e116-11f1-a7db-d90284d21c62.jpg",
+   "title_en": "Ronaldinho makes comeback for Ravenna",
+   "summary_en": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
+   "share_id": "MN202611_69xf9vtenl"
+  },
+  {
+   "id": "crawl_13igfi0",
+   "title": "Why 'inspiring' Van Gaal influences Scotland head coach Pocognoli",
+   "summary": "Scotland head coach Sebastien Pocognoli says he draws on the influence of iconic manager Louis van Gaal in his own coaching career.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw1mdl14dzx8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cw1mdl14dzx8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T17:56:57.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94b0/live/8883ed70-e11b-11f1-a7a2-7bb21fac8f0b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94b0/live/8883ed70-e11b-11f1-a7a2-7bb21fac8f0b.jpg",
+   "title_en": "Why 'inspiring' Van Gaal influences Scotland head coach Pocognoli",
+   "summary_en": "Scotland head coach Sebastien Pocognoli says he draws on the influence of iconic manager Louis van Gaal in his own coaching career.",
+   "share_id": "MN202611_13igfi08cwm"
+  },
   {
    "id": "crawl_1jg5s1e",
    "title": "Burundi Jumps Into Frier Attacking Rwanda’s OIF Candidate",
@@ -1267,6 +1347,26 @@
    "share_id": "MN202611_1b7bsqm4p7g"
   },
   {
+   "id": "crawl_1x5kabm",
+   "title": "Fiji 'did Ireland a favour' before South Africa game",
+   "summary": "Former South Africa head coach Jake White says his Fiji side \"did Ireland a favour\" in Saturday's Nations Championship match before they face the Springboks in Dublin next week.",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c9e85d7mm0myo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c9e85d7mm0myo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T00:29:26.000Z",
+   "source": "BBC Sport Africa",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Sport Africa",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdda/live/ffe90a40-e089-11f1-87c6-ab9cb7f2aab2.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdda/live/ffe90a40-e089-11f1-87c6-ab9cb7f2aab2.jpg",
+   "title_en": "Fiji 'did Ireland a favour' before South Africa game",
+   "summary_en": "Former South Africa head coach Jake White says his Fiji side \"did Ireland a favour\" in Saturday's Nations Championship match before they face the Springboks in Dublin next week.",
+   "share_id": "MN202611_1x5kabm8wo0"
+  },
+  {
    "id": "crawl_11g793",
    "title": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
    "summary": "The presenter says she has received a 'five-year clear' after having a hysterectomy in her thirties.",
@@ -1387,5 +1487,5 @@
    "share_id": "MN202611_1aez83ul1ig"
   }
  ],
- "updated": "2026-11-15T18:00:12.577Z"
+ "updated": "2026-11-15T18:26:33.092Z"
 }
