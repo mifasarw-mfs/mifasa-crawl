@@ -1,7 +1,27 @@
 {
  "day": "2026-11-15",
- "count": 64,
+ "count": 65,
  "articles": [
+  {
+   "id": "crawl_h94m5d",
+   "title": "AS FAR retain Women's African Champions League title",
+   "summary": "Imane Touriss scores twice as Moroccan club AS FAR beat Mamelodi Sundowns 3-1 to retain the Women's African Champions League title.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckdd10v6vqjpo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ckdd10v6vqjpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T17:23:45.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7e6/live/8463b3a0-e117-11f1-a7db-d90284d21c62.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7e6/live/8463b3a0-e117-11f1-a7db-d90284d21c62.jpg",
+   "title_en": "AS FAR retain Women's African Champions League title",
+   "summary_en": "Imane Touriss scores twice as Moroccan club AS FAR beat Mamelodi Sundowns 3-1 to retain the Women's African Champions League title.",
+   "share_id": "MN202611_h94m5dwjjz"
+  },
   {
    "id": "crawl_nccwd1",
    "title": "French, World’s 4th Most Spoken Language",
@@ -1346,5 +1366,5 @@
    "share_id": "MN202611_1aez83ul1ig"
   }
  ],
- "updated": "2026-11-15T17:08:16.850Z"
+ "updated": "2026-11-15T17:55:23.269Z"
 }
