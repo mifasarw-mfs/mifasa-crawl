@@ -13,8 +13,8 @@
    "BBC Football",
    "sports"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/212b/live/2366df60-e125-11f1-9198-73c27e618086.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/212b/live/2366df60-e125-11f1-9198-73c27e618086.jpg",
   "title_en": "Frick named new head coach at Aberdeen",
   "summary_en": "Former Liechtenstein striker Mario Frick is announced as the new head coach of Aberdeen.",
   "share_id": "MN202611_1gamtfvequh"
@@ -768,6 +768,36 @@
   "title_rw": "Diamond & Zuchu Mvua ya Baraka Official Video is on Channel now!",
   "summary_rw": "Diamond & Zuchu Mvua ya Baraka Official Video is on Channel now!",
   "share_id": "MN202611_1ox7cscj7yy"
+ },
+ {
+  "id": "crawl_yfy1z9",
+  "title": "Every Time I Crash, My YouTuber Car EVOLVES in GTA!",
+  "summary": "📺MY MINECRAFT CHANNEL: @Waffy ⚡Socials⚡ 🎯Discord: https://discord.gg/waffloos 🌵Twitter: https://twitter.com/Waffloos #gta5 #waffloos #gtarp",
+  "link": "https://www.youtube.com/watch?v=EDeMVVdYITo",
+  "url": "https://www.youtube.com/watch?v=EDeMVVdYITo",
+  "date": "2026-11-15T13:00:12.000Z",
+  "source": "YouTube Trending Uganda",
+  "category": "entertainment",
+  "lang": "en",
+  "keywords": [
+   "YouTube Trending Uganda",
+   "entertainment",
+   "trending",
+   "gta 5",
+   "gta 5 roleplay",
+   "grand theft auto",
+   "video"
+  ],
+  "video": {
+   "provider": "youtube",
+   "id": "EDeMVVdYITo"
+  },
+  "type": "video",
+  "image": "https://i.ytimg.com/vi/EDeMVVdYITo/hqdefault.jpg",
+  "thumbnail": "https://i.ytimg.com/vi/EDeMVVdYITo/hqdefault.jpg",
+  "title_en": "Every Time I Crash, My YouTuber Car EVOLVES in GTA!",
+  "summary_en": "📺MY MINECRAFT CHANNEL: @Waffy ⚡Socials⚡ 🎯Discord: https://discord.gg/waffloos 🌵Twitter: https://twitter.com/Waffloos #gta5 #waffloos #gtarp",
+  "share_id": "MN202611_yfy1z9u4tf"
  },
  {
   "id": "crawl_tnqmgh",
@@ -17378,25 +17408,5 @@
   "title_en": "U.S. Deports Genocide Fugitive Jean Léonard Teganya Back to Rwanda",
   "summary_en": "KIGALI — More than three decades after fleeing Rwanda at the end of the 1994 Genocide against the Tutsi, Jean Léonard Teganya has been returned to the country, where he… The post U.S. Deports Genocide Fugitive Jean Léonard Teganya Back to Rwanda appeared first on KT PRESS .",
   "share_id": "MN202611_1bj9n6fagdx"
- },
- {
-  "id": "crawl_1bijrvp",
-  "title": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
-  "summary": "The disgraced entertainer was sentenced on Monday following a four-week trial at Southwark Crown Court.",
-  "link": "https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-09T17:31:08.000Z",
-  "source": "BBC Entertainment",
-  "category": "entertainment",
-  "lang": "en",
-  "keywords": [
-   "BBC Entertainment",
-   "entertainment"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1c3/live/e7281af0-dc47-11f1-b441-2b33b063138f.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1c3/live/e7281af0-dc47-11f1-b441-2b33b063138f.jpg",
-  "title_en": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
-  "summary_en": "The disgraced entertainer was sentenced on Monday following a four-week trial at Southwark Crown Court.",
-  "share_id": "MN202611_1bijrvpcocj"
  }
 ]
