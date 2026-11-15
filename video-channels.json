@@ -1,5 +1,5 @@
 {
-  "_note": "channels = YouTube (RSS; GitHub ikunze kuziharira, ni optional). sources = amashusho afite uruhushya rwo gukoreshwa (Internet Archive: public domain/Creative Commons; Pexels: Pexels License, bisaba secret PEXELS_API_KEY). Kuramo: exclude_channels (handle cyangwa izina rya source), exclude_videos.",
+  "_note": "channels = YouTube (RSS; GitHub ikunze kuziharira, ni optional). sources = amashusho afite uruhushya rwo gukoreshwa (Internet Archive: public domain/Creative Commons; Pexels: Pexels License, bisaba secret PEXELS_API_KEY). Kuramo: exclude_channels (handle cyangwa izina rya source), exclude_videos. links = link iyo ariyo yose: channel (youtube.com/@x), playlist (youtube.com/playlist?list=...), video imwe, cyangwa page/urubuga (nka mifasarw.neocities.org) ifite videos nyinshi; crawler ibikuramo zose (YouTube, playlist, mp4/webm). 'max' = ntarengwa kuri link imwe. https gusa.",
   "channels": [
     {
       "handle": "mifasarw",
@@ -8,8 +8,7 @@
       "tags": [
         "mifasa",
         "mifasarw"
-      ],
-      "id": "UC18ODLNtqXiW5nsEumf8cnQ"
+      ]
     },
     {
       "handle": "mizeromifasa",
@@ -26,8 +25,7 @@
       "category": "Amashusho",
       "tags": [
         "akabariro"
-      ],
-      "id": "UC1D_RM_JHWLcrKXoWoB60Ng"
+      ]
     },
     {
       "handle": "BAHOFAMILYTV",
@@ -35,8 +33,7 @@
       "category": "Amashusho",
       "tags": [
         "baho family"
-      ],
-      "id": "UCCx1MtDXdHgb7378qW2VqtQ"
+      ]
     },
     {
       "handle": "ibangaryurukundo",
@@ -44,8 +41,7 @@
       "category": "Amashusho",
       "tags": [
         "urukundo"
-      ],
-      "id": "UCoHW_xXfJD5fVbvh19xEHPA"
+      ]
     },
     {
       "handle": "tiv15",
@@ -53,8 +49,7 @@
       "category": "Amashusho",
       "tags": [
         "tiv15"
-      ],
-      "id": "UCJCZIdqAi2_cUvLX5mTrd9g"
+      ]
     },
     {
       "handle": "africanvillage250",
@@ -62,8 +57,7 @@
       "category": "Amashusho",
       "tags": [
         "african village"
-      ],
-      "id": "UCuLxuBGiU27sIAW24qZR5nw"
+      ]
     },
     {
       "handle": "thevoice2504",
@@ -71,12 +65,33 @@
       "category": "Amashusho",
       "tags": [
         "the voice"
-      ],
-      "id": "UCmoDeUl-C5-bLaJHmzP3CYQ"
+      ]
     }
   ],
   "exclude_channels": [],
   "exclude_videos": [],
+  "links": [
+    {
+      "url": "https://www.xvideos.com/?k=Rwanda&top",
+      "name": "Xvideos (urubuga)",
+      "category": "MIFASA",
+      "tags": [
+        "xvideos ",
+        "rwandaprono"
+      ],
+      "max": 30
+    },
+    {
+      "url": "https://www.pornhub.com/video/search?search=kigali+rwanda",
+      "name": "MFS WORLD (urubuga)",
+      "category": "MIFASA",
+      "tags": [
+        "mifasa",
+        "mizero"
+      ],
+      "max": 30
+    }
+  ],
   "max_per_channel": 15,
   "max_total": 300,
   "sources": [
