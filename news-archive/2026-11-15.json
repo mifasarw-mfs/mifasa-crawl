@@ -1,7 +1,47 @@
 {
  "day": "2026-11-15",
- "count": 5,
+ "count": 7,
  "articles": [
+  {
+   "id": "crawl_14dayyw",
+   "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+   "summary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+   "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T03:21:04.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg",
+   "title_en": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+   "summary_en": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+   "share_id": "MN202611_14dayyw3vfq"
+  },
+  {
+   "id": "crawl_1b7bsqm",
+   "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+   "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+   "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T02:49:45.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg",
+   "title_en": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+   "summary_en": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+   "share_id": "MN202611_1b7bsqm4p7g"
+  },
   {
    "id": "crawl_11g793",
    "title": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
@@ -103,5 +143,5 @@
    "share_id": "MN202611_nariwgkfda"
   }
  ],
- "updated": "2026-11-15T01:06:13.239Z"
+ "updated": "2026-11-15T03:40:06.577Z"
 }
