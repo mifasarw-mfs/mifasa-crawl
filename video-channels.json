@@ -1,14 +1,31 @@
 {
-  "_note": "Channels za YouTube zikurikirwa. 'id' (UC...) yuzuzwa na crawler ubwayo; niba kuyibona byanze, wandike intoki (YouTube > channel > About > Share > Copy channel ID). Kuramo channel: yiyandike muri exclude_channels.",
+  "_note": "channels = YouTube (RSS; GitHub ikunze kuziharira, ni optional). sources = amashusho afite uruhushya rwo gukoreshwa (Internet Archive: public domain/Creative Commons; Pexels: Pexels License, bisaba secret PEXELS_API_KEY). Kuramo: exclude_channels (handle cyangwa izina rya source), exclude_videos.",
   "channels": [
+    {
+      "handle": "mifasarw",
+      "name": "MIFASARW",
+      "category": "MIFASA",
+      "tags": [
+        "mifasa",
+        "mifasarw"
+      ]
+    },
+    {
+      "handle": "mizeromifasa",
+      "name": "Mizero MIFASA",
+      "category": "MIFASA",
+      "tags": [
+        "mifasa",
+        "mizero"
+      ]
+    },
     {
       "handle": "akabariro",
       "name": "Akabariro",
       "category": "Amashusho",
       "tags": [
         "akabariro"
-      ],
-      "id": "UC1D_RM_JHWLcrKXoWoB60Ng"
+      ]
     },
     {
       "handle": "BAHOFAMILYTV",
@@ -16,8 +33,7 @@
       "category": "Amashusho",
       "tags": [
         "baho family"
-      ],
-      "id": "UCCx1MtDXdHgb7378qW2VqtQ"
+      ]
     },
     {
       "handle": "ibangaryurukundo",
@@ -25,8 +41,7 @@
       "category": "Amashusho",
       "tags": [
         "urukundo"
-      ],
-      "id": "UCoHW_xXfJD5fVbvh19xEHPA"
+      ]
     },
     {
       "handle": "tiv15",
@@ -34,8 +49,7 @@
       "category": "Amashusho",
       "tags": [
         "tiv15"
-      ],
-      "id": "UCJCZIdqAi2_cUvLX5mTrd9g"
+      ]
     },
     {
       "handle": "africanvillage250",
@@ -43,8 +57,7 @@
       "category": "Amashusho",
       "tags": [
         "african village"
-      ],
-      "id": "UCuLxuBGiU27sIAW24qZR5nw"
+      ]
     },
     {
       "handle": "thevoice2504",
@@ -52,12 +65,91 @@
       "category": "Amashusho",
       "tags": [
         "the voice"
-      ],
-      "id": "UCmoDeUl-C5-bLaJHmzP3CYQ"
+      ]
     }
   ],
   "exclude_channels": [],
   "exclude_videos": [],
   "max_per_channel": 15,
-  "max_total": 300
+  "max_total": 300,
+  "sources": [
+    {
+      "type": "archive",
+      "name": "Blender Open Movies",
+      "query": "creator:\"Blender Foundation\"",
+      "category": "Open Movies",
+      "tags": [
+        "blender",
+        "animation",
+        "creative commons"
+      ],
+      "max": 8
+    },
+    {
+      "type": "archive",
+      "name": "Internet Archive: Rwanda",
+      "query": "Rwanda",
+      "category": "Rwanda",
+      "tags": [
+        "rwanda",
+        "archive"
+      ],
+      "max": 10
+    },
+    {
+      "type": "archive",
+      "name": "Internet Archive: Africa",
+      "query": "Africa AND (documentary OR music OR culture)",
+      "category": "Africa",
+      "tags": [
+        "africa",
+        "archive"
+      ],
+      "max": 10
+    },
+    {
+      "type": "archive",
+      "name": "Internet Archive: Education",
+      "query": "subject:(education OR programming OR tutorial)",
+      "category": "Education",
+      "tags": [
+        "education",
+        "archive"
+      ],
+      "max": 8
+    },
+    {
+      "type": "pexels",
+      "name": "Pexels: Rwanda",
+      "query": "Rwanda",
+      "category": "Stock Video",
+      "tags": [
+        "rwanda",
+        "stock"
+      ],
+      "max": 6
+    },
+    {
+      "type": "pexels",
+      "name": "Pexels: Africa",
+      "query": "African village",
+      "category": "Stock Video",
+      "tags": [
+        "africa",
+        "stock"
+      ],
+      "max": 6
+    },
+    {
+      "type": "pexels",
+      "name": "Pexels: Technology",
+      "query": "coding technology",
+      "category": "Stock Video",
+      "tags": [
+        "technology",
+        "stock"
+      ],
+      "max": 6
+    }
+  ]
 }
