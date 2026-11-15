@@ -3334,6 +3334,78 @@
    ],
    "auto": true,
    "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_b0cb6fb0_q",
+   "label_rw": "Abiru",
+   "label_en": "Abiru",
+   "patterns_en": [
+    "Who were the Abiru in historical Rwanda?",
+    "What was the main role of the Abiru?",
+    "How was royal history preserved in early Rwanda?"
+   ],
+   "patterns_rw": [
+    "Abiru bari banyande mu Rwanda rwo hambere?",
+    "Ni iki cyari umurimo w'ingenzi w'Abiru?",
+    "Ese amategeko y'ubwami yayoborwaga nande?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Abiru bari abanyamateka b'ibanga mu Rwanda rwo hambere. Bashinzwe kubika no gutangaza amateka y'ubwami n'amategekoashingiye ku migenzo. Ibyo bimenyetso byatangwaga mu ibanga rikomeye ku mwami mushya.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Abiru were traditional oral historians and secret keepers in the historical Kingdom of Rwanda. They were responsible for preserving and transmitting royal history, rituals, and customary laws, which were passed down in strict confidence.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_eee0e8b4_q",
+   "label_rw": "Imboni Y'ubwami",
+   "label_en": "Royal Regalia of Rwanda",
+   "patterns_en": [
+    "What was the royal regalia of Rwanda?",
+    "What was the importance of the royal symbols?",
+    "What did they represent in ancient Rwanda?"
+   ],
+   "patterns_rw": [
+    "Imboni y'ubwami ni iki?",
+    "Ibimenyetso by'ubwami byari bifite akahe kamaro?",
+    "Byagaragazaga iki mu Rwanda rwo hambere?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imboni y'ubwami yari igice cy'ingenzi cy'ibimenyetso by'ubwami mu Rwanda rwo hambere. Ibi bimenyetso byagaragazaga ububasha n'ubusugire bw'umwami n'igihugu. Byarimo ibintu bitandukanye bifite agaciro gakomeye k'amateka n'umuco.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Imboni y'ubwami was an essential part of the royal regalia in ancient Rwanda. These symbols represented the power and sovereignty of the king and the nation. They included various objects of great historical and cultural value.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_24ed192c_q",
+   "label_rw": "Ubwami bwa Buganda",
+   "label_en": "The Ancient Kingdom of Buganda",
+   "patterns_en": [
+    "When was the Kingdom of Buganda founded?",
+    "What is the title of the ruler of Buganda?",
+    "Where was the Kingdom of Buganda located?"
+   ],
+   "patterns_rw": [
+    "Ubwami bwa Buganda bwashinguwe ryari?",
+    "Umwami wa Buganda yitwa nde?",
+    "Ubwami bwa Buganda buherereyehe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubwami bwa Buganda ni bumwe mu bwami bwa kera bwari mu karere k'ibiyaga bigari bya Afurika. Bwashinzwe mu kinyejana cya 14. Bwaje kuba ubwami bukomeye mu karere ka Uganda y'ubu. Umwami wabyo yitwa Kabaka. Abaganda bafite umuco n'amateka akomeye.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The Kingdom of Buganda is one of the ancient kingdoms in the African Great Lakes region. It was founded around the 14th century. It grew into a powerful state in present-day Uganda. Its traditional ruler is known as the Kabaka. The Baganda people have a rich culture and history.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
   }
  ],
  "knowledge": [
@@ -6076,6 +6148,65 @@
     "water",
     "ubuzima",
     "health"
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_b0cb6fb0",
+   "category": "history",
+   "title_rw": "Abiru",
+   "title_en": "Abiru",
+   "summary_rw": "Abiru bari abanyamateka b'ibanga mu Rwanda rwo hambere. Bashinzwe kubika no gutangaza amateka y'ubwami n'amategekoashingiye ku migenzo. Ibyo bimenyetso byatangwaga mu ibanga rikomeye ku mwami mushya.",
+   "summary_en": "Abiru were traditional oral historians and secret keepers in the historical Kingdom of Rwanda. They were responsible for preserving and transmitting royal history, rituals, and customary laws, which were passed down in strict confidence.",
+   "keywords": [
+    "abiru",
+    "amateka",
+    "rwanda",
+    "ubwami",
+    "history",
+    "oral",
+    "tradition",
+    "kingdom"
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_eee0e8b4",
+   "category": "history",
+   "title_rw": "Imboni Y'ubwami",
+   "title_en": "Royal Regalia of Rwanda",
+   "summary_rw": "Imboni y'ubwami yari igice cy'ingenzi cy'ibimenyetso by'ubwami mu Rwanda rwo hambere. Ibi bimenyetso byagaragazaga ububasha n'ubusugire bw'umwami n'igihugu. Byarimo ibintu bitandukanye bifite agaciro gakomeye k'amateka n'umuco.",
+   "summary_en": "Imboni y'ubwami was an essential part of the royal regalia in ancient Rwanda. These symbols represented the power and sovereignty of the king and the nation. They included various objects of great historical and cultural value.",
+   "keywords": [
+    "ubwami",
+    "amateka",
+    "umuco",
+    "rwanda",
+    "king",
+    "history",
+    "culture",
+    "regalia"
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_24ed192c",
+   "category": "history",
+   "title_rw": "Ubwami bwa Buganda",
+   "title_en": "The Ancient Kingdom of Buganda",
+   "summary_rw": "Ubwami bwa Buganda ni bumwe mu bwami bwa kera bwari mu karere k'ibiyaga bigari bya Afurika. Bwashinzwe mu kinyejana cya 14. Bwaje kuba ubwami bukomeye mu karere ka Uganda y'ubu. Umwami wabyo yitwa Kabaka. Abaganda bafite umuco n'amateka akomeye.",
+   "summary_en": "The Kingdom of Buganda is one of the ancient kingdoms in the African Great Lakes region. It was founded around the 14th century. It grew into a powerful state in present-day Uganda. Its traditional ruler is known as the Kabaka. The Baganda people have a rich culture and history.",
+   "keywords": [
+    "buganda",
+    "ubwami",
+    "uganda",
+    "kabaka",
+    "amateka",
+    "history",
+    "kingdom"
    ],
    "auto": true,
    "taught": "2026-11-15"
