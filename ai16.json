@@ -3526,6 +3526,102 @@
    ],
    "auto": true,
    "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_86906f9c_q",
+   "label_rw": "Kwiga indimi no kuvuga indimi nyinshi",
+   "label_en": "Language learning strategies and multilingualism",
+   "patterns_en": [
+    "What are the best strategies for learning a new language?",
+    "What are the benefits of multilingualism?",
+    "How does knowing multiple languages help in daily life?"
+   ],
+   "patterns_rw": [
+    "Ni ubuhe buryo bwiza bwo kwiga ururimi rushya?",
+    "Ni izihe nyungu zo kuvuga indimi nyinshi?",
+    "Ese kwiga indimi bifasha ute mu buzima bwa buri munsi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kwiga indimi nyinshi bifasha abantu gusobanukirwa imico itandukanye no kubona amahirwe y'akazi. Uburyo bwiza bwo kwiga ururimi rushya burimo kwiga buri munsi, kuvugana n'abandi, no gukoresha ibitabo cyangwa ikoranabuhanga. Kuvuga indimi nyinshi birinda ubwonko gusaza vuba bikongera n'ubushobozi bwo gutekereza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Learning multiple languages helps people understand different cultures and increases career opportunities. Good strategies for learning a new language include daily practice, conversing with others, and using books or technology. Multilingualism can improve brain health and cognitive abilities over time.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_f0fd1366_q",
+   "label_rw": "Uburezi bwihariye n'ibyumba by'amashuri byakira bose",
+   "label_en": "Special needs education and inclusive classrooms",
+   "patterns_en": [
+    "What is special needs education?",
+    "How do inclusive classrooms work?",
+    "How are students with disabilities supported?"
+   ],
+   "patterns_rw": [
+    "Uburezi bwihariye ni iki?",
+    "Ni gute ibyumba by'amashuri byakira bose bikora?",
+    "Ese abanyeshuri bafite ubumuga bafashwa bate?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Uburezi bwihariye bufasha abanyeshuri bafite ubumuga cyangwa ibindi bibazo byo kwiga. Ibyumba by'amashuri byakira bose bihuza abana bose hamwe kugira ngo bigirane. Ibi bituma buri munshuri abona ubufasha bukenewe kugira ngo atsinde mu ishuri.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Special needs education supports students with disabilities or other learning challenges. Inclusive classrooms bring all children together to learn side by side. This approach ensures every student receives the necessary support to succeed in school.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_d55daed5_q",
+   "label_rw": "Umubano w'umwarimu n'umunyeshuri",
+   "label_en": "Teacher-student relationship",
+   "patterns_en": [
+    "Why is the teacher-student relationship important?",
+    "How does mentorship help a student?",
+    "How can a teacher support a struggling student?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma umubano w'umwarimu n'umunyeshuri ukomeye?",
+    "Ese kugira inama bifasha bite umunyeshuri?",
+    "Umwarimu yafasha ate umunyeshuri ufite intege nke?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Umubano mwiza hagati y'umwarimu n'umunyeshuri ufasha mu kwiga neza. Abarimu batanga inama no gushyigikira abanyeshuri kugira ngo bagere ku ntego zabo z'uburezi. Ibi bituma abanyeshuri bagira icyizere kandi bakitabira amasomo yabo neza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "A positive relationship between a teacher and a student promotes effective learning. Teachers usually provide guidance and support to help students achieve their educational goals. This helps students build confidence and engage better in their studies.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_5c50d7a4_q",
+   "label_rw": "Amateka n'uburezi bw'ubwenegihugu",
+   "label_en": "History and civic education",
+   "patterns_en": [
+    "How do history and civic education help citizens?",
+    "Where are these subjects mostly taught to reach the youth?",
+    "What role do these studies play in building national unity?"
+   ],
+   "patterns_rw": [
+    "Amateka n'uburezi bw'ubwenegihugu bifasha iki abaturage?",
+    "Ni he bigishwa cyane kugira ngo urubyiruko rubyige?",
+    "Ese ibi byigisho bigira uruhare ki mu kubaka ubumwe bw'igihugu?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Amateka n'uburezi bw'ubwenegihugu bifasha abaturage gusobanukira igihugu cyabo. Bisobanura indangagaciro z'umuco n'amateka y'u Rwanda. Ibi bifasha abaturage guharanira ubumwe n'amahoro. Byigishwa mu mashuri kugira ngo urubyiruko rukure rufite ubumenyi bukenewe mu kubaka igihugu.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "History and civic education help citizens understand their country. They explain cultural values and the history of Rwanda. This helps citizens strive for unity and peace. They are taught in schools so youth grow up with the knowledge needed to build the nation.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
   }
  ],
  "knowledge": [
@@ -6425,6 +6521,86 @@
     "line",
     "time",
     "ocean"
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_86906f9c",
+   "category": "education",
+   "title_rw": "Kwiga indimi no kuvuga indimi nyinshi",
+   "title_en": "Language learning strategies and multilingualism",
+   "summary_rw": "Kwiga indimi nyinshi bifasha abantu gusobanukirwa imico itandukanye no kubona amahirwe y'akazi. Uburyo bwiza bwo kwiga ururimi rushya burimo kwiga buri munsi, kuvugana n'abandi, no gukoresha ibitabo cyangwa ikoranabuhanga. Kuvuga indimi nyinshi birinda ubwonko gusaza vuba bikongera n'ubushobozi bwo gutekereza.",
+   "summary_en": "Learning multiple languages helps people understand different cultures and increases career opportunities. Good strategies for learning a new language include daily practice, conversing with others, and using books or technology. Multilingualism can improve brain health and cognitive abilities over time.",
+   "keywords": [
+    "ururimi",
+    "language",
+    "kwiga",
+    "learning",
+    "ubumenyi",
+    "multilingualism",
+    "umuco",
+    "communication"
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_f0fd1366",
+   "category": "education",
+   "title_rw": "Uburezi bwihariye n'ibyumba by'amashuri byakira bose",
+   "title_en": "Special needs education and inclusive classrooms",
+   "summary_rw": "Uburezi bwihariye bufasha abanyeshuri bafite ubumuga cyangwa ibindi bibazo byo kwiga. Ibyumba by'amashuri byakira bose bihuza abana bose hamwe kugira ngo bigirane. Ibi bituma buri munshuri abona ubufasha bukenewe kugira ngo atsinde mu ishuri.",
+   "summary_en": "Special needs education supports students with disabilities or other learning challenges. Inclusive classrooms bring all children together to learn side by side. This approach ensures every student receives the necessary support to succeed in school.",
+   "keywords": [
+    "uburezi",
+    "education",
+    "ubumuga",
+    "disability",
+    "amashuri",
+    "schools",
+    "abana",
+    "children"
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_d55daed5",
+   "category": "education",
+   "title_rw": "Umubano w'umwarimu n'umunyeshuri",
+   "title_en": "Teacher-student relationship",
+   "summary_rw": "Umubano mwiza hagati y'umwarimu n'umunyeshuri ufasha mu kwiga neza. Abarimu batanga inama no gushyigikira abanyeshuri kugira ngo bagere ku ntego zabo z'uburezi. Ibi bituma abanyeshuri bagira icyizere kandi bakitabira amasomo yabo neza.",
+   "summary_en": "A positive relationship between a teacher and a student promotes effective learning. Teachers usually provide guidance and support to help students achieve their educational goals. This helps students build confidence and engage better in their studies.",
+   "keywords": [
+    "umwarimu",
+    "teacher",
+    "umunyeshuri",
+    "student",
+    "uburezi",
+    "education",
+    "inama",
+    "mentorship"
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_5c50d7a4",
+   "category": "education",
+   "title_rw": "Amateka n'uburezi bw'ubwenegihugu",
+   "title_en": "History and civic education",
+   "summary_rw": "Amateka n'uburezi bw'ubwenegihugu bifasha abaturage gusobanukira igihugu cyabo. Bisobanura indangagaciro z'umuco n'amateka y'u Rwanda. Ibi bifasha abaturage guharanira ubumwe n'amahoro. Byigishwa mu mashuri kugira ngo urubyiruko rukure rufite ubumenyi bukenewe mu kubaka igihugu.",
+   "summary_en": "History and civic education help citizens understand their country. They explain cultural values and the history of Rwanda. This helps citizens strive for unity and peace. They are taught in schools so youth grow up with the knowledge needed to build the nation.",
+   "keywords": [
+    "amateka",
+    "history",
+    "uburezi",
+    "education",
+    "ubwenegihugu",
+    "citizenship",
+    "u rwanda",
+    "rwanda"
    ],
    "auto": true,
    "taught": "2026-11-15"
