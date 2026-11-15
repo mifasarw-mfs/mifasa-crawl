@@ -1,7 +1,28 @@
 {
  "day": "2026-11-15",
- "count": 79,
+ "count": 80,
  "articles": [
+  {
+   "id": "crawl_1xq9wrh",
+   "title": "‘Consensus for whom?’ Rwanda challenges Romanian candidate over DRC backing",
+   "summary": "As the Francophonie prepares to choose its next secretary-general, the word “consensus” has become a diplomatic battleground. Romanian candidate Dacian Cioloș thanked the Democratic Republic of Congo for its support, praising Kinshasa’s “trust in my vision and its commitment to consensus.” He also thanked Juliana Amato Lumumba, the Congolese candidate, for her “commitment to the […] The post…",
+   "link": "https://taarifa.rw/2026/11/15/consensus-for-whom-rwanda-challenges-romanian-candidate-over-drc-backing/",
+   "url": "https://taarifa.rw/2026/11/15/consensus-for-whom-rwanda-challenges-romanian-candidate-over-drc-backing/",
+   "date": "2026-11-15T20:24:54.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "La Francophonie Cambodia Special Report"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/2A610A67-1921-4EF4-BF72-DD29836170EC.jpeg?fit=1280%2C853&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/2A610A67-1921-4EF4-BF72-DD29836170EC.jpeg?fit=1280%2C853&ssl=1",
+   "title_en": "‘Consensus for whom?’ Rwanda challenges Romanian candidate over DRC backing",
+   "summary_en": "As the Francophonie prepares to choose its next secretary-general, the word “consensus” has become a diplomatic battleground. Romanian candidate Dacian Cioloș thanked the Democratic Republic of Congo for its support, praising Kinshasa’s “trust in my vision and its commitment to consensus.” He also thanked Juliana Amato Lumumba, the Congolese candidate, for her “commitment to the […] The post…",
+   "share_id": "MN202611_1xq9wrhsf3v"
+  },
   {
    "id": "crawl_84i1r3",
    "title": "London City's 'bravery' paying off in top three pursuit",
@@ -1647,5 +1668,5 @@
    "share_id": "MN202611_1aez83ul1ig"
   }
  ],
- "updated": "2026-11-15T20:24:53.318Z"
+ "updated": "2026-11-15T20:29:49.868Z"
 }
