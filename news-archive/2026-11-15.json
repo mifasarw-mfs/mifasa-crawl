@@ -1,7 +1,95 @@
 {
  "day": "2026-11-15",
- "count": 15,
+ "count": 22,
  "articles": [
+  {
+   "id": "crawl_17gbbqv",
+   "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+   "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+   "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T08:17:41.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b26/live/e7664d20-e0c0-11f1-970d-f5d89da8a1ad.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b26/live/e7664d20-e0c0-11f1-970d-f5d89da8a1ad.jpg",
+   "title_en": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+   "summary_en": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+   "share_id": "MN202611_17gbbqv487p"
+  },
+  {
+   "id": "crawl_1jqxi89",
+   "title": "MU 2100 ABANTU BAZABA BATAGIPFA: BIZAGENDA BITE ABANTU NITUBAHO ITEKA? UKO BARI KURWANYA URUPFU",
+   "summary": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
+   "link": "https://www.youtube.com/watch?v=_9jUN3RzJn8",
+   "url": "https://www.youtube.com/watch?v=_9jUN3RzJn8",
+   "date": "2026-11-15T07:44:44.000Z",
+   "source": "Mwanafunzi Ismael YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Mwanafunzi Ismael YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "_9jUN3RzJn8"
+   },
+   "type": "video",
+   "image": "https://i4.ytimg.com/vi/_9jUN3RzJn8/hqdefault.jpg",
+   "thumbnail": "https://i4.ytimg.com/vi/_9jUN3RzJn8/hqdefault.jpg",
+   "title_rw": "MU 2100 ABANTU BAZABA BATAGIPFA: BIZAGENDA BITE ABANTU NITUBAHO ITEKA? UKO BARI KURWANYA URUPFU",
+   "summary_rw": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
+   "share_id": "MN202611_1jqxi89tl2f"
+  },
+  {
+   "id": "crawl_1ixbrkz",
+   "title": "Gisagara VC, EAUR VC, RRA na RP Huye mu bitwaye neza ku munsi wa gatanu wa shampiyona",
+   "summary": "Gisagara VC, EAUR VC, RRA na RP Huye mu bitwaye neza ku munsi wa gatanu wa shampiyona ‎ ‎Amakipe ya Gisagara VC na EAUR VC mu bagabo bitwaye neza batsinda imikino yabo y’umunsi wa gatanu naho RRA (…)",
+   "link": "https://www.kigalitoday.com/imikino/volleyball/article/gisagara-vc-eaur-vc-rra-na-rp-huye-mu-bitwaye",
+   "url": "https://www.kigalitoday.com/imikino/volleyball/article/gisagara-vc-eaur-vc-rra-na-rp-huye-mu-bitwaye",
+   "date": "2026-11-15T07:35:43.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Volleyball",
+    "Habiyaremye Japhet"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/24cc6d90-4b4f-44ac-9b5b-ac2633a9c3b8.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/24cc6d90-4b4f-44ac-9b5b-ac2633a9c3b8.jpg",
+   "title_rw": "Gisagara VC, EAUR VC, RRA na RP Huye mu bitwaye neza ku munsi wa gatanu wa shampiyona",
+   "summary_rw": "Gisagara VC, EAUR VC, RRA na RP Huye mu bitwaye neza ku munsi wa gatanu wa shampiyona ‎ ‎Amakipe ya Gisagara VC na EAUR VC mu bagabo bitwaye neza batsinda imikino yabo y’umunsi wa gatanu naho RRA (…)",
+   "share_id": "MN202611_1ixbrkzbuyp"
+  },
+  {
+   "id": "crawl_1fr0uhm",
+   "title": "How Spain's humble superstar Simon became world's best keeper",
+   "summary": "As Spain prepare to host England in the Nations League, BBC Sport columnist Guillem Balague charts the rise of Unai Simon to become the world's best keeper.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqvg23nv0jw2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqvg23nv0jw2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T07:29:30.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41cb/live/396f38d0-dddc-11f1-b865-d17d8611efca.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41cb/live/396f38d0-dddc-11f1-b865-d17d8611efca.jpg",
+   "title_en": "How Spain's humble superstar Simon became world's best keeper",
+   "summary_en": "As Spain prepare to host England in the Nations League, BBC Sport columnist Guillem Balague charts the rise of Unai Simon to become the world's best keeper.",
+   "share_id": "MN202611_1fr0uhmsrw8"
+  },
   {
    "id": "crawl_zbg9db",
    "title": "Perezida Kagame yitabiriye itangizwa ry'Inama ya 20 ya Francophonie",
@@ -126,6 +214,32 @@
    "share_id": "MN202611_rr3o8gwkpa"
   },
   {
+   "id": "crawl_1ihtipw",
+   "title": "AKAMARO K'URUVANGE RWA TANGAWIZI N'UBUKI NK'UMUTI W'INDWARA ZIRENGA 10",
+   "summary": "#dashdashyogacenter SOBANUKIRWA AKAMARO KA TANGAWIZI N'UBUKI BIVANZE MU GUSIGASIRA AMAGARA YA MWENEMUNTU N'UBURYO ARI UMUTI UKOMEYE CYANE WO KURWANYA INDWARA YA ASIMA.",
+   "link": "https://www.youtube.com/watch?v=8nn8htCf8_g",
+   "url": "https://www.youtube.com/watch?v=8nn8htCf8_g",
+   "date": "2026-11-15T06:38:09.000Z",
+   "source": "Dash Dash TV YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Dash Dash TV YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "8nn8htCf8_g"
+   },
+   "type": "video",
+   "image": "https://i1.ytimg.com/vi/8nn8htCf8_g/hqdefault.jpg",
+   "thumbnail": "https://i1.ytimg.com/vi/8nn8htCf8_g/hqdefault.jpg",
+   "title_rw": "AKAMARO K'URUVANGE RWA TANGAWIZI N'UBUKI NK'UMUTI W'INDWARA ZIRENGA 10",
+   "summary_rw": "#dashdashyogacenter SOBANUKIRWA AKAMARO KA TANGAWIZI N'UBUKI BIVANZE MU GUSIGASIRA AMAGARA YA MWENEMUNTU N'UBURYO ARI UMUTI UKOMEYE CYANE WO KURWANYA INDWARA YA ASIMA.",
+   "share_id": "MN202611_1ihtipwplk2"
+  },
+  {
    "id": "crawl_1a0a8pe",
    "title": "Amerika yazanye iciyumviro c'uko Ukraine yoheba Donbas ikinjira muri OTAN- bivugwa na Zelensky",
    "summary": "Amerika ntiremeza aya majambo yavuzwe na Perezida Zelensky wa Ukraine, umwe mu bategetsi yabwiye BBC ati: \"Ivyiyumviro vyinshi biracaganirwako\".",
@@ -164,6 +278,58 @@
    "title_en": "Respect? Exposure? Why England's star names are going abroad",
    "summary_en": "Harry Kane, Jude Bellingham and Anthony Gordon are three of England's current biggest stars, but all have chosen to play their club football abroad.",
    "share_id": "MN202611_14nwu3iori4"
+  },
+  {
+   "id": "crawl_1tdomxe",
+   "title": "Nyuma yogukizwa akaba umuvugabutumwa,Russell brand yakatiwe imyaka 10,kuki Imana yabyemeye ?impamvu",
+   "summary": "Nyuma yogukizwa akaba umuvugabutumwa,Russell brand yakatiwe imyaka 10,kuki Imana yabyemeye ?impamvu",
+   "link": "https://www.youtube.com/watch?v=khM-XNSsEzE",
+   "url": "https://www.youtube.com/watch?v=khM-XNSsEzE",
+   "date": "2026-11-15T04:40:11.000Z",
+   "source": "Rocky Entertainment YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Rocky Entertainment YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "khM-XNSsEzE"
+   },
+   "type": "video",
+   "image": "https://i4.ytimg.com/vi/khM-XNSsEzE/hqdefault.jpg",
+   "thumbnail": "https://i4.ytimg.com/vi/khM-XNSsEzE/hqdefault.jpg",
+   "title_rw": "Nyuma yogukizwa akaba umuvugabutumwa,Russell brand yakatiwe imyaka 10,kuki Imana yabyemeye ?impamvu",
+   "summary_rw": "Nyuma yogukizwa akaba umuvugabutumwa,Russell brand yakatiwe imyaka 10,kuki Imana yabyemeye ?impamvu",
+   "share_id": "MN202611_1tdomxekprk"
+  },
+  {
+   "id": "crawl_1wturdb",
+   "title": "Congo igiye kwica abasirikare bayo 66,abakomeye barakaye,barikwicana hagati yabo,numwanzi abari bubi",
+   "summary": "Congo igiye kwica abasirikare bayo 66,abakomeye barakaye,barikwicana hagati yabo,numwanzi abari bubi",
+   "link": "https://www.youtube.com/watch?v=CyZmuETz40k",
+   "url": "https://www.youtube.com/watch?v=CyZmuETz40k",
+   "date": "2026-11-15T04:02:09.000Z",
+   "source": "Rocky Entertainment YouTube",
+   "category": "entertainment",
+   "lang": "rw",
+   "keywords": [
+    "Rocky Entertainment YouTube",
+    "entertainment",
+    "video"
+   ],
+   "video": {
+    "provider": "youtube",
+    "id": "CyZmuETz40k"
+   },
+   "type": "video",
+   "image": "https://i4.ytimg.com/vi/CyZmuETz40k/hqdefault.jpg",
+   "thumbnail": "https://i4.ytimg.com/vi/CyZmuETz40k/hqdefault.jpg",
+   "title_rw": "Congo igiye kwica abasirikare bayo 66,abakomeye barakaye,barikwicana hagati yabo,numwanzi abari bubi",
+   "summary_rw": "Congo igiye kwica abasirikare bayo 66,abakomeye barakaye,barikwicana hagati yabo,numwanzi abari bubi",
+   "share_id": "MN202611_1wturdbqu7h"
   },
   {
    "id": "crawl_14dayyw",
@@ -306,5 +472,5 @@
    "share_id": "MN202611_nariwgkfda"
   }
  ],
- "updated": "2026-11-15T07:28:59.279Z"
+ "updated": "2026-11-15T08:23:53.430Z"
 }

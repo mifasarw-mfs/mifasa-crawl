@@ -1,6 +1,6 @@
 {
  "day": "2026-11-14",
- "count": 109,
+ "count": 110,
  "articles": [
   {
    "id": "crawl_ict9wi",
@@ -121,6 +121,26 @@
    "title_en": "Alleged Russell Brand rape victim wants age of consent law changed",
    "summary_en": "Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent.",
    "share_id": "MN202611_xsvfvbocc5"
+  },
+  {
+   "id": "crawl_z9nini",
+   "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+   "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+   "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T22:27:06.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6592/live/907a90a0-e090-11f1-a701-fddedf244c16.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6592/live/907a90a0-e090-11f1-a701-fddedf244c16.jpg",
+   "title_en": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+   "summary_en": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+   "share_id": "MN202611_z9ninigf4c"
   },
   {
    "id": "crawl_1x64839",
@@ -2408,5 +2428,5 @@
    "share_id": "MN202611_151zgnivjho"
   }
  ],
- "updated": "2026-11-14T23:34:09.558Z"
+ "updated": "2026-11-15T08:23:53.431Z"
 }
