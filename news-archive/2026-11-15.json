@@ -1,7 +1,47 @@
 {
  "day": "2026-11-15",
- "count": 82,
+ "count": 84,
  "articles": [
+  {
+   "id": "crawl_1k9s3qn",
+   "title": "Tories pledge to halt screen-based school exams and cut coursework",
+   "summary": "The party says its proposals for England aim to address excessive screen time and over-reliance on AI.",
+   "link": "https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T22:00:37.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92b/live/47994770-e110-11f1-b3df-4961589d9b68.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92b/live/47994770-e110-11f1-b3df-4961589d9b68.jpg",
+   "title_en": "Tories pledge to halt screen-based school exams and cut coursework",
+   "summary_en": "The party says its proposals for England aim to address excessive screen time and over-reliance on AI.",
+   "share_id": "MN202611_1k9s3qnl07h"
+  },
+  {
+   "id": "crawl_12qbut3",
+   "title": "I had to explain to my teacher what a young carer was - we need more support",
+   "summary": "Neraya says young carers such as herself want the chance of \"a childhood of our own\".",
+   "link": "https://www.bbc.co.uk/news/articles/cqgm0myvjv12o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqgm0myvjv12o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T21:52:08.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3ac/live/ce3d5980-df79-11f1-b714-6d69d4f58cef.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3ac/live/ce3d5980-df79-11f1-b714-6d69d4f58cef.jpg",
+   "title_en": "I had to explain to my teacher what a young carer was - we need more support",
+   "summary_en": "Neraya says young carers such as herself want the chance of \"a childhood of our own\".",
+   "share_id": "MN202611_12qbut34r9x"
+  },
   {
    "id": "crawl_1hutqth",
    "title": "Romanian Mercenaries Fled Goma. Now DRC Backs a Romanian for Francophonie’s Top Job",
@@ -1709,5 +1749,5 @@
    "share_id": "MN202611_1aez83ul1ig"
   }
  ],
- "updated": "2026-11-15T21:01:41.470Z"
+ "updated": "2026-11-15T22:03:17.813Z"
 }
