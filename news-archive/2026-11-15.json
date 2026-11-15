@@ -1,7 +1,68 @@
 {
  "day": "2026-11-15",
- "count": 45,
+ "count": 48,
  "articles": [
+  {
+   "id": "crawl_8so2ob",
+   "title": "Branthwaite, Garner and King omitted for Spain game",
+   "summary": "England manager Thomas Tuchel omits Josh King, James Garner and Jarrad Branthwaite from his squad to face Spain on Sunday night.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq4gn7014x76o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn7014x76o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T13:15:15.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77b7/live/b6cfa6a0-e0f4-11f1-93e1-3b657b665bcf.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77b7/live/b6cfa6a0-e0f4-11f1-93e1-3b657b665bcf.png",
+   "title_en": "Branthwaite, Garner and King omitted for Spain game",
+   "summary_en": "England manager Thomas Tuchel omits Josh King, James Garner and Jarrad Branthwaite from his squad to face Spain on Sunday night.",
+   "share_id": "MN202611_8so2obk221"
+  },
+  {
+   "id": "crawl_tnqmgh",
+   "title": "'Ababyeyi banjye bahisemo gupfira rimwe, nsigara mu gahinda jyenyine'",
+   "summary": "Els na Jan basabye ubufasha kwa muganga ngo barangize ubuzima bwabo nyuma y'imyaka 50 bashakanye, basiga umwana wabo w'ikinege.",
+   "link": "https://www.bbc.com/gahuza/articles/c574p4xyy2ego?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/c574p4xyy2ego?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T12:58:41.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0bdf/live/66ee1fc0-d90d-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0bdf/live/66ee1fc0-d90d-11f1-b441-2b33b063138f.jpg",
+   "title_rw": "'Ababyeyi banjye bahisemo gupfira rimwe, nsigara mu gahinda jyenyine'",
+   "summary_rw": "Els na Jan basabye ubufasha kwa muganga ngo barangize ubuzima bwabo nyuma y'imyaka 50 bashakanye, basiga umwana wabo w'ikinege.",
+   "share_id": "MN202611_tnqmghjixb"
+  },
+  {
+   "id": "crawl_1poe82w",
+   "title": "UN SG Antonio Guterres Tells Francophonie to Invest in Peace",
+   "summary": "Investment in peace while upholding international law and a rules-based international system could make La Francophonie bloc a better place to live in, UN secretary General Antonio Gutteres said on Sunday. “As your theme reminds us, peace is our best investment,” Guterres told Francophonie leaders in a video message. This was Gutteres’ final address to […] The post UN SG Antonio Guterres Tells…",
+   "link": "https://taarifa.rw/2026/11/15/un-sg-antonio-guterres-tells-francophonie-to-invest-in-peace/",
+   "url": "https://taarifa.rw/2026/11/15/un-sg-antonio-guterres-tells-francophonie-to-invest-in-peace/",
+   "date": "2026-11-15T12:40:23.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "La Francophonie Cambodia Special Report"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261115-143857.jpg?fit=720%2C302&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261115-143857.jpg?fit=720%2C302&ssl=1",
+   "title_en": "UN SG Antonio Guterres Tells Francophonie to Invest in Peace",
+   "summary_en": "Investment in peace while upholding international law and a rules-based international system could make La Francophonie bloc a better place to live in, UN secretary General Antonio Gutteres said on Sunday. “As your theme reminds us, peace is our best investment,” Guterres told Francophonie leaders in a video message. This was Gutteres’ final address to […] The post UN SG Antonio Guterres Tells…",
+   "share_id": "MN202611_1poe82wpmti"
+  },
   {
    "id": "crawl_j9sh4t",
    "title": "Mauritania Refuses Demands to Pull Out Of OIF Sec.Gen. Race",
@@ -961,5 +1022,5 @@
    "share_id": "MN202611_1aez83ul1ig"
   }
  ],
- "updated": "2026-11-15T12:22:14.062Z"
+ "updated": "2026-11-15T13:22:59.873Z"
 }
