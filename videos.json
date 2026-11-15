@@ -2,6 +2,641 @@
  "_note": "Buri video: url (YouTube https cyangwa .mp4), title, description, category, tags[], duration_estimate, date (YYYY-MM-DD, optional). Zishya ziri hasi: Studio iguha entry ushyiraho.",
  "videos": [
   {
+   "duration_estimate": "unknown",
+   "category": "Africa",
+   "tags": [
+    "africa",
+    "archive"
+   ],
+   "url": "https://archive.org/details/DuckandC1951",
+   "title": "Duck and Cover",
+   "description": "Selected for the 2004 National Film Registry of \"culturally, historically and aesthetically significant\" motion pictures. Famous Civil Defense film for children in which Bert the Turtle shows what to ",
+   "date": "2002-07-16",
+   "channel": "Internet Archive: Africa",
+   "channel_url": "https://archive.org/details/DuckandC1951",
+   "license": "Public Domain",
+   "thumb": "https://archive.org/services/img/DuckandC1951",
+   "credit": "Archer Productions, Inc.",
+   "handle": "Internet Archive: Africa",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Africa",
+   "tags": [
+    "africa",
+    "archive"
+   ],
+   "url": "https://archive.org/details/MyJapan1945",
+   "title": "My Japan",
+   "description": "Complex and disturbing anti-Japanese propaganda film produced to spur the sale of U.S. war bonds. CONTENT ADVISORY: Explicit racism and extreme violence.",
+   "date": "2002-07-16",
+   "channel": "Internet Archive: Africa",
+   "channel_url": "https://archive.org/details/MyJapan1945",
+   "license": "Public Domain",
+   "thumb": "https://archive.org/services/img/MyJapan1945",
+   "credit": "U.S. Treasury Department",
+   "handle": "Internet Archive: Africa",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Education",
+   "tags": [
+    "education",
+    "archive"
+   ],
+   "url": "https://archive.org/details/AsBoysGr1957",
+   "title": "As Boys Grow",
+   "description": "Sex education film aimed at teenage boys, with the coach as authority figure and teacher.",
+   "date": "2002-07-16",
+   "channel": "Internet Archive: Education",
+   "channel_url": "https://archive.org/details/AsBoysGr1957",
+   "license": "Public Domain",
+   "thumb": "https://archive.org/services/img/AsBoysGr1957",
+   "credit": "Medical Arts Productions",
+   "handle": "Internet Archive: Education",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Education",
+   "tags": [
+    "education",
+    "archive"
+   ],
+   "url": "https://archive.org/details/bacteria_friend_and_foe",
+   "title": "Bacteria: Friend and Foe",
+   "description": "Produced by Encyclopedia Britannica Films, Inc., in collaboration with Stewart A. Koser, Ph.D, Department of Bacteriology and Parasitology, the University of Chicago, Warren Everote, Producer. 0595 PA",
+   "date": "2003-05-16",
+   "channel": "Internet Archive: Education",
+   "channel_url": "https://archive.org/details/bacteria_friend_and_foe",
+   "license": "Public Domain",
+   "thumb": "https://archive.org/services/img/bacteria_friend_and_foe",
+   "credit": "Encyclopedia Britannica Films, Inc.",
+   "handle": "Internet Archive: Education",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Africa",
+   "tags": [
+    "africa",
+    "archive"
+   ],
+   "url": "https://archive.org/details/tarzans_revenge",
+   "title": "Tarzan's Revenge",
+   "description": "You can find more information regarding this film on its IMDb page .",
+   "date": "2004-06-22",
+   "channel": "Internet Archive: Africa",
+   "channel_url": "https://archive.org/details/tarzans_revenge",
+   "license": "Public Domain",
+   "thumb": "https://archive.org/services/img/tarzans_revenge",
+   "credit": "",
+   "handle": "Internet Archive: Africa",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Africa",
+   "tags": [
+    "africa",
+    "archive"
+   ],
+   "url": "https://archive.org/details/its_a_joke_son",
+   "title": "It's A Joke, Son",
+   "description": "You can find more information regarding this film on its IMDb page .",
+   "date": "2004-07-28",
+   "channel": "Internet Archive: Africa",
+   "channel_url": "https://archive.org/details/its_a_joke_son",
+   "license": "Public Domain",
+   "thumb": "https://archive.org/services/img/its_a_joke_son",
+   "credit": "Bryan Foy",
+   "handle": "Internet Archive: Africa",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Africa",
+   "tags": [
+    "africa",
+    "archive"
+   ],
+   "url": "https://archive.org/details/nazi_concentration_camps",
+   "title": "Nazi Concentration Camps",
+   "description": "**This film contains extremely graphic scenes of human suffering, please exercise caution when viewing.** Compilation footage of Nazi concentration camps in the immediate aftermath of World War II. Th",
+   "date": "2005-06-01",
+   "channel": "Internet Archive: Africa",
+   "channel_url": "https://archive.org/details/nazi_concentration_camps",
+   "license": "Public Domain",
+   "thumb": "https://archive.org/services/img/nazi_concentration_camps",
+   "credit": "",
+   "handle": "Internet Archive: Africa",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Education",
+   "tags": [
+    "education",
+    "archive"
+   ],
+   "url": "https://archive.org/details/Nonprogrammer_look_behind_veil",
+   "title": "A non-programmer's look beneath the veil",
+   "description": "Jeff Wilcox gave his presentation on 19 November 2005 to the Nagoya International Personal Computer Club at Kinjo Gakuin University in Nagoya Japan. The presentation covered the following: What really",
+   "date": "2005-12-19",
+   "channel": "Internet Archive: Education",
+   "channel_url": "https://archive.org/details/Nonprogrammer_look_behind_veil",
+   "license": "Public Domain",
+   "thumb": "https://archive.org/services/img/Nonprogrammer_look_behind_veil",
+   "credit": "",
+   "handle": "Internet Archive: Education",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Africa",
+   "tags": [
+    "africa",
+    "archive"
+   ],
+   "url": "https://archive.org/details/AfroMood",
+   "title": "Afro Mood Burlesque",
+   "description": "A burlesque short starring Amalia Aguilar. Part of \"Joe Bonica presents the Movie of the Month\" nudie film series.",
+   "date": "2007-03-01",
+   "channel": "Internet Archive: Africa",
+   "channel_url": "https://archive.org/details/AfroMood",
+   "license": "Public Domain",
+   "thumb": "https://archive.org/services/img/AfroMood",
+   "credit": "",
+   "handle": "Internet Archive: Africa",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Africa",
+   "tags": [
+    "africa",
+    "archive"
+   ],
+   "url": "https://archive.org/details/LaLiberationdeParis1944",
+   "title": "La Liberation de Paris",
+   "description": "La Libération de Paris is a documentary shot by the French Resistance during the battle of Paris in August 1944. On August 15, the French Resistance set an uprising in the capital of France then occup",
+   "date": "2007-07-04",
+   "channel": "Internet Archive: Africa",
+   "channel_url": "https://archive.org/details/LaLiberationdeParis1944",
+   "license": "Public Domain",
+   "thumb": "https://archive.org/services/img/LaLiberationdeParis1944",
+   "credit": "Le Comite de Liberation du Cinema Francais",
+   "handle": "Internet Archive: Africa",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Africa",
+   "tags": [
+    "africa",
+    "archive"
+   ],
+   "url": "https://archive.org/details/Kilimanjaro",
+   "title": "The Snows of Kilimanjaro",
+   "description": "The story centers on the memories of a writer (Gregory Peck) who is taking a safari in Africa. He develops a dangerous wound from a thorn prick, and lies awaiting his slow death. The loss of physical ",
+   "date": "2007-07-11",
+   "channel": "Internet Archive: Africa",
+   "channel_url": "https://archive.org/details/Kilimanjaro",
+   "license": "Public Domain",
+   "thumb": "https://archive.org/services/img/Kilimanjaro",
+   "credit": "Darryl F. Zanuck",
+   "handle": "Internet Archive: Africa",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Rwanda",
+   "tags": [
+    "rwanda",
+    "archive"
+   ],
+   "url": "https://archive.org/details/dw_griffith_birth_of_a_nation",
+   "title": "The Birth of a Nation",
+   "description": "In its time, \"The Birth of a Nation\" was a masterpiece. Its racist undertones and revisionism are quite disturbing, but it is still worth watching for its historical influence. IMDb entry:",
+   "date": "2007-11-08",
+   "channel": "Internet Archive: Rwanda",
+   "channel_url": "https://archive.org/details/dw_griffith_birth_of_a_nation",
+   "license": "Public Domain",
+   "thumb": "https://archive.org/services/img/dw_griffith_birth_of_a_nation",
+   "credit": "D.W. Griffith",
+   "handle": "Internet Archive: Rwanda",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Open Movies",
+   "tags": [
+    "blender",
+    "animation",
+    "creative commons"
+   ],
+   "url": "https://archive.org/details/BigBugBunny_AVCHD",
+   "title": "Big Bug Bunny",
+   "description": "Big Buck Bunny in AVCHD format (720p and ac3 5.1 (Dolby Digital 5.1 surround sound)). This version is the perfect match for people who have a playstation 3 and HD-ready tv. From the official website: ",
+   "date": "2008-06-28",
+   "channel": "Blender Open Movies",
+   "channel_url": "https://archive.org/details/BigBugBunny_AVCHD",
+   "license": "CC BY 3.0",
+   "thumb": "https://archive.org/services/img/BigBugBunny_AVCHD",
+   "credit": "Blender Foundation",
+   "handle": "Blender Open Movies",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Education",
+   "tags": [
+    "education",
+    "archive"
+   ],
+   "url": "https://archive.org/details/MIT6.046JF05MPEG4",
+   "title": "MIT 6.046J / 18.410J Introduction to Algorithms (SMA 5503), Fall 2005",
+   "description": "",
+   "date": "2009-01-06",
+   "channel": "Internet Archive: Education",
+   "channel_url": "https://archive.org/details/MIT6.046JF05MPEG4",
+   "license": "CC BY-NC-SA 3.0",
+   "thumb": "https://archive.org/services/img/MIT6.046JF05MPEG4",
+   "credit": "MIT OpenCourseWare",
+   "handle": "Internet Archive: Education",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Rwanda",
+   "tags": [
+    "rwanda",
+    "archive"
+   ],
+   "url": "https://archive.org/details/411Show-PaulRusesabaginaFromHotelRwanda455",
+   "title": "Paul Rusesabagina from Hotel Rwanda",
+   "description": "Paul Rusesabagina speaks at the 2009 Martin Luther King Day Celebration in San Antonio Texas January 2009. He was the hotel manager made famous in the movie Hotel Rwanda. He has now moved to San Anton",
+   "date": "2009-02-12",
+   "channel": "Internet Archive: Rwanda",
+   "channel_url": "https://archive.org/details/411Show-PaulRusesabaginaFromHotelRwanda455",
+   "license": "CC BY-NC-SA 3.0",
+   "thumb": "https://archive.org/services/img/411Show-PaulRusesabaginaFromHotelRwanda455",
+   "credit": "",
+   "handle": "Internet Archive: Rwanda",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Education",
+   "tags": [
+    "education",
+    "archive"
+   ],
+   "url": "https://archive.org/details/MIT6.00F08",
+   "title": "MIT 6.00 Introduction to Computer Science and Programming, Fall 2008",
+   "description": "This subject is aimed at students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems. It also aims to help",
+   "date": "2009-08-20",
+   "channel": "Internet Archive: Education",
+   "channel_url": "https://archive.org/details/MIT6.00F08",
+   "license": "CC BY-NC-SA 3.0",
+   "thumb": "https://archive.org/services/img/MIT6.00F08",
+   "credit": "MIT OpenCourseWare",
+   "handle": "Internet Archive: Education",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Open Movies",
+   "tags": [
+    "blender",
+    "animation",
+    "creative commons"
+   ],
+   "url": "https://archive.org/details/ElephantsDream_628",
+   "title": "Elephants Dream",
+   "description": "Elephants Dream is an open movie developed by Blender Foundation. It is available here as a DivX Plus (.mkv/h.264/aac) video that can be streamed to the DivX Plus Web Player.",
+   "date": "2009-11-03",
+   "channel": "Blender Open Movies",
+   "channel_url": "https://archive.org/details/ElephantsDream_628",
+   "license": "CC BY 3.0",
+   "thumb": "https://archive.org/services/img/ElephantsDream_628",
+   "credit": "Blender Foundation",
+   "handle": "Blender Open Movies",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Open Movies",
+   "tags": [
+    "blender",
+    "animation",
+    "creative commons"
+   ],
+   "url": "https://archive.org/details/Sintel",
+   "title": "Sintel",
+   "description": "Sintel is an open movie from the Blender Foundation licensed under the Creative Commons Attribution 3.0 license.",
+   "date": "2010-10-01",
+   "channel": "Blender Open Movies",
+   "channel_url": "https://archive.org/details/Sintel",
+   "license": "CC BY 3.0",
+   "thumb": "https://archive.org/services/img/Sintel",
+   "credit": "Blender Foundation",
+   "handle": "Blender Open Movies",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Africa",
+   "tags": [
+    "africa",
+    "archive"
+   ],
+   "url": "https://archive.org/details/gov.archives.arc.649353",
+   "title": "Apartheid in South Africa",
+   "description": "National Archives - Apartheid in South Africa - National Security Council. Central Intelligence Agency. (09/18/1947 - 12/04/1981). - This film explores South Africa's apartheid policy, focusing on iss",
+   "date": "2011-06-22",
+   "channel": "Internet Archive: Africa",
+   "channel_url": "https://archive.org/details/gov.archives.arc.649353",
+   "license": "CC0",
+   "thumb": "https://archive.org/services/img/gov.archives.arc.649353",
+   "credit": "National Archives",
+   "handle": "Internet Archive: Africa",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Education",
+   "tags": [
+    "education",
+    "archive"
+   ],
+   "url": "https://archive.org/details/MIT6.00SCS11",
+   "title": "MIT 6.00SC Introduction to Computer Science and Programming, Spring 2011",
+   "description": "Instructor: Professor John Guttag Collection of 26 lectures given during the Spring 2011 semester of 6.00, Introduction to Computer Science and Programming. This course covers introductory computer sc",
+   "date": "2012-02-01",
+   "channel": "Internet Archive: Education",
+   "channel_url": "https://archive.org/details/MIT6.00SCS11",
+   "license": "CC BY-NC-SA 3.0",
+   "thumb": "https://archive.org/services/img/MIT6.00SCS11",
+   "credit": "",
+   "handle": "Internet Archive: Education",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Open Movies",
+   "tags": [
+    "blender",
+    "animation",
+    "creative commons"
+   ],
+   "url": "https://archive.org/details/BigBuckBunnyFULLHD60FPS",
+   "title": "Big Buck Bunny - FULL HD 60 FPS",
+   "description": "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the ",
+   "date": "2015-05-17",
+   "channel": "Blender Open Movies",
+   "channel_url": "https://archive.org/details/BigBuckBunnyFULLHD60FPS",
+   "license": "CC BY 3.0",
+   "thumb": "https://archive.org/services/img/BigBuckBunnyFULLHD60FPS",
+   "credit": "Blender Foundation",
+   "handle": "Blender Open Movies",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Open Movies",
+   "tags": [
+    "blender",
+    "animation",
+    "creative commons"
+   ],
+   "url": "https://archive.org/details/CosmosLaundromatFirstCycle",
+   "title": "Cosmos Laundromat: First Cycle",
+   "description": "On a desolate island, suicidal sheep Franck meets his fate in a quirky salesman, who offers him the gift of a lifetime. Little does he know that he can only handle so much lifetime.",
+   "date": "2015-09-05",
+   "channel": "Blender Open Movies",
+   "channel_url": "https://archive.org/details/CosmosLaundromatFirstCycle",
+   "license": "CC BY 4.0",
+   "thumb": "https://archive.org/services/img/CosmosLaundromatFirstCycle",
+   "credit": "Blender Foundation",
+   "handle": "Blender Open Movies",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Education",
+   "tags": [
+    "education",
+    "archive"
+   ],
+   "url": "https://archive.org/details/MIT6.0001F16",
+   "title": "MIT 6.0001 Introduction to Computer Science and Programming in Python, Fall 2016",
+   "description": "MIT 6.0001 Introduction to Computer Science and Programming in Python, Fall 2016 View the complete course: Instructor: Dr. Ana Bell 6.0001 Introduction to Computer Science and Programming in Python is",
+   "date": "2017-01-06",
+   "channel": "Internet Archive: Education",
+   "channel_url": "https://archive.org/details/MIT6.0001F16",
+   "license": "CC BY-NC-SA 3.0",
+   "thumb": "https://archive.org/services/img/MIT6.0001F16",
+   "credit": "MIT OpenCourseWare",
+   "handle": "Internet Archive: Education",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Open Movies",
+   "tags": [
+    "blender",
+    "animation",
+    "creative commons"
+   ],
+   "url": "https://archive.org/details/CaminandesLlamigos",
+   "title": "Caminandes 3: Llamigos",
+   "description": "In this episode of the Caminandes cartoon series we get to know our hero Koro even better! It's winter in Patagonia, food is getting scarce. Koro the Llama engages with Oti the pesky penguin in an epi",
+   "date": "2017-03-05",
+   "channel": "Blender Open Movies",
+   "channel_url": "https://archive.org/details/CaminandesLlamigos",
+   "license": "CC BY 3.0",
+   "thumb": "https://archive.org/services/img/CaminandesLlamigos",
+   "credit": "Blender Foundation",
+   "handle": "Blender Open Movies",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Rwanda",
+   "tags": [
+    "rwanda",
+    "archive"
+   ],
+   "url": "https://archive.org/details/TheGreatestStoryNeverTold_201906",
+   "title": "The Greatest Story Never Told",
+   "description": "A documentary about Adolf Hitler free of Zionist lies and hate.",
+   "date": "2019-06-06",
+   "channel": "Internet Archive: Rwanda",
+   "channel_url": "https://archive.org/details/TheGreatestStoryNeverTold_201906",
+   "license": "Public Domain",
+   "thumb": "https://archive.org/services/img/TheGreatestStoryNeverTold_201906",
+   "credit": "Dennis Wise",
+   "handle": "Internet Archive: Rwanda",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Open Movies",
+   "tags": [
+    "blender",
+    "animation",
+    "creative commons"
+   ],
+   "url": "https://archive.org/details/spring_blenderopenmovie",
+   "title": "Spring - Blender Open Movie",
+   "description": "Spring - Blender Open Movie",
+   "date": "2019-10-02",
+   "channel": "Blender Open Movies",
+   "channel_url": "https://archive.org/details/spring_blenderopenmovie",
+   "license": "Public Domain",
+   "thumb": "https://archive.org/services/img/spring_blenderopenmovie",
+   "credit": "Blender Foundation",
+   "handle": "Blender Open Movies",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Rwanda",
+   "tags": [
+    "rwanda",
+    "archive"
+   ],
+   "url": "https://archive.org/details/orphans7",
+   "title": "Orphans 7 -- the 7th Orphan Film Symposium (2010): Moving Pictures Around the World",
+   "description": "Audio recordings of presentations at the 7th Orphan Film Symposium, Moving Pictures Around the World, New York University, held at the SVA Theatre, New York, April 7-10, 2010. Presented by NYU Tisch S",
+   "date": "2020-09-05",
+   "channel": "Internet Archive: Rwanda",
+   "channel_url": "https://archive.org/details/orphans7",
+   "license": "CC BY-NC-ND 4.0",
+   "thumb": "https://archive.org/services/img/orphans7",
+   "credit": "Orphan Film Symposium",
+   "handle": "Internet Archive: Rwanda",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Rwanda",
+   "tags": [
+    "rwanda",
+    "archive"
+   ],
+   "url": "https://archive.org/details/theologie-professor-pierre-gilbert-1995-banned-video-4-mp-4-dvd",
+   "title": "Theologie Professor Pierre Gilbert (1995) Banned Video (ReUp)",
+   "description": "Video von 1995: WEB BANNED The theology professor named Pierre Gilbert warns of vaccinations that can turn recipients into zombies. In biological destruction there are organized storms on the magnetic",
+   "date": "2021-06-19",
+   "channel": "Internet Archive: Rwanda",
+   "channel_url": "https://archive.org/details/theologie-professor-pierre-gilbert-1995-banned-video-4-mp-4-dvd",
+   "license": "Public Domain",
+   "thumb": "https://archive.org/services/img/theologie-professor-pierre-gilbert-1995-banned-video-4-mp-4-dvd",
+   "credit": "",
+   "handle": "Internet Archive: Rwanda",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Open Movies",
+   "tags": [
+    "blender",
+    "animation",
+    "creative commons"
+   ],
+   "url": "https://archive.org/details/project-peach",
+   "title": "Big Buck Bunny (Project Peach)",
+   "description": "Project Peach was the Blender Foundation’s second open movie. The movie started production in October 2007 and premiered April 2008. The targets this time were to create good hair/fur editing and rend",
+   "date": "2021-08-15",
+   "channel": "Blender Open Movies",
+   "channel_url": "https://archive.org/details/project-peach",
+   "license": "CC BY 3.0",
+   "thumb": "https://archive.org/services/img/project-peach",
+   "credit": "Blender Foundation",
+   "handle": "Blender Open Movies",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Rwanda",
+   "tags": [
+    "rwanda",
+    "archive"
+   ],
+   "url": "https://archive.org/details/afpif2022",
+   "title": "2022 African Peering and Interconnection Forum / Le Forum africain sur le peering et l’interconnexion (AfPIF)",
+   "description": "On Tuesday-Thursday August 23-25 2022 the African Peering and Interconnection Forum (AfPIF) 2022 will convene in Kigali, Rwanda. An open and inclusive forum, AfPIF focuses on developing Internet inter",
+   "date": "2022-08-24",
+   "channel": "Internet Archive: Rwanda",
+   "channel_url": "https://archive.org/details/afpif2022",
+   "license": "CC BY-SA 4.0",
+   "thumb": "https://archive.org/services/img/afpif2022",
+   "credit": "AfPIF",
+   "handle": "Internet Archive: Rwanda",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Education",
+   "tags": [
+    "education",
+    "archive"
+   ],
+   "url": "https://archive.org/details/free-vvv",
+   "title": "free vvv",
+   "description": "free",
+   "date": "2022-11-28",
+   "channel": "Internet Archive: Education",
+   "channel_url": "https://archive.org/details/free-vvv",
+   "license": "CC0",
+   "thumb": "https://archive.org/services/img/free-vvv",
+   "credit": "",
+   "handle": "Internet Archive: Education",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Rwanda",
+   "tags": [
+    "rwanda",
+    "archive"
+   ],
+   "url": "https://archive.org/details/mtv-dreamtime-rude-awakening-12-94-woc",
+   "title": "MTV - Dreamtime / Rude Awakening (12/94) WOC",
+   "description": "MTV Timeshift (December 1994) Run Time: 3:40:31 MTV Dreamtime Voice Over Host: John Sencio Tom Petty - You Don't Know How It Feels Faith No More - Epic MTV Bump - John Sencio Commercial Break: MTV Par",
+   "date": "2023-06-01",
+   "channel": "Internet Archive: Rwanda",
+   "channel_url": "https://archive.org/details/mtv-dreamtime-rude-awakening-12-94-woc",
+   "license": "Public Domain",
+   "thumb": "https://archive.org/services/img/mtv-dreamtime-rude-awakening-12-94-woc",
+   "credit": "MTV",
+   "handle": "Internet Archive: Rwanda",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Rwanda",
+   "tags": [
+    "rwanda",
+    "archive"
+   ],
+   "url": "https://archive.org/details/icann80-isoc-at-large",
+   "title": "ICANN 80 At-Large ISOC Chapter Roundtable",
+   "description": "On Thursday, June 13 2024 at 09:00-10:15 CAT (07:00-08:15 UTC) the Internet Corporation for Assigned Names and Numbers (ICANN) will convene an ‘ At-Large ISOC Chapter Roundtable ‘ at ICANN80 in Kigali",
+   "date": "2024-06-16",
+   "channel": "Internet Archive: Rwanda",
+   "channel_url": "https://archive.org/details/icann80-isoc-at-large",
+   "license": "CC BY-SA 4.0",
+   "thumb": "https://archive.org/services/img/icann80-isoc-at-large",
+   "credit": "ICANN",
+   "handle": "Internet Archive: Rwanda",
+   "source": "crawl"
+  },
+  {
    "url": "https://youtu.be/BhTz1OfikcM",
    "title": "Mifasa - Aho Utari",
    "description": "Indirimbo y'umwimerere yakozwe na MIFASA Production.",
@@ -56,6 +691,25 @@
    "duration_estimate": "unknown",
    "date": "2026-01-01",
    "source": "manual"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Rwanda",
+   "tags": [
+    "rwanda",
+    "archive"
+   ],
+   "url": "https://archive.org/details/fgi-ac",
+   "title": "Forum sur la Gouvernance de l’Internet d’Afrique Centrale (FGI-AC) 2025",
+   "description": "YOUTUBE | FACEBOOK | ZOOM | PERMALINK Du 16 au 21 février 2026 , sous le Haut Patronage de S.E. Monsieur le Président de la République du Burundi et le parrainage de Monsieur le Ministre des Finances,",
+   "date": "2026-02-19",
+   "channel": "Internet Archive: Rwanda",
+   "channel_url": "https://archive.org/details/fgi-ac",
+   "license": "CC BY-SA 4.0",
+   "thumb": "https://archive.org/services/img/fgi-ac",
+   "credit": "FGI-CA",
+   "handle": "Internet Archive: Rwanda",
+   "source": "crawl"
   }
  ]
 }
