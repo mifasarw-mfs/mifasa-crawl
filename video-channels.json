@@ -1,12 +1,60 @@
 {
   "_note": "Channels za YouTube zikurikirwa. 'id' (UC...) yuzuzwa na crawler ubwayo; niba kuyibona byanze, wandike intoki (YouTube > channel > About > Share > Copy channel ID). Kuramo channel: yiyandike muri exclude_channels.",
   "channels": [
-    { "handle": "akabariro",       "name": "Akabariro",       "category": "Amashusho", "tags": ["akabariro"] },
-    { "handle": "BAHOFAMILYTV",    "name": "BAHO FAMILY TV",  "category": "Amashusho", "tags": ["baho family"] },
-    { "handle": "ibangaryurukundo","name": "Ibanga ry'urukundo","category": "Amashusho", "tags": ["urukundo"] },
-    { "handle": "tiv15",           "name": "TIV 15",          "category": "Amashusho", "tags": ["tiv15"] },
-    { "handle": "africanvillage250","name": "African Village 250","category": "Amashusho", "tags": ["african village"] },
-    { "handle": "thevoice2504",    "name": "The Voice 2504",  "category": "Amashusho", "tags": ["the voice"] }
+    {
+      "handle": "akabariro",
+      "name": "Akabariro",
+      "category": "Amashusho",
+      "tags": [
+        "akabariro"
+      ],
+      "id": "UC1D_RM_JHWLcrKXoWoB60Ng"
+    },
+    {
+      "handle": "BAHOFAMILYTV",
+      "name": "BAHO FAMILY TV",
+      "category": "Amashusho",
+      "tags": [
+        "baho family"
+      ],
+      "id": "UCCx1MtDXdHgb7378qW2VqtQ"
+    },
+    {
+      "handle": "ibangaryurukundo",
+      "name": "Ibanga ry'urukundo",
+      "category": "Amashusho",
+      "tags": [
+        "urukundo"
+      ],
+      "id": "UCoHW_xXfJD5fVbvh19xEHPA"
+    },
+    {
+      "handle": "tiv15",
+      "name": "TIV 15",
+      "category": "Amashusho",
+      "tags": [
+        "tiv15"
+      ],
+      "id": "UCJCZIdqAi2_cUvLX5mTrd9g"
+    },
+    {
+      "handle": "africanvillage250",
+      "name": "African Village 250",
+      "category": "Amashusho",
+      "tags": [
+        "african village"
+      ],
+      "id": "UCuLxuBGiU27sIAW24qZR5nw"
+    },
+    {
+      "handle": "thevoice2504",
+      "name": "The Voice 2504",
+      "category": "Amashusho",
+      "tags": [
+        "the voice"
+      ],
+      "id": "UCmoDeUl-C5-bLaJHmzP3CYQ"
+    }
   ],
   "exclude_channels": [],
   "exclude_videos": [],
