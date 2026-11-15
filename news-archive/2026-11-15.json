@@ -1,7 +1,48 @@
 {
  "day": "2026-11-15",
- "count": 80,
+ "count": 82,
  "articles": [
+  {
+   "id": "crawl_1hutqth",
+   "title": "Romanian Mercenaries Fled Goma. Now DRC Backs a Romanian for Francophonie’s Top Job",
+   "summary": "Romania’s most visible recent encounter with the Democratic Republic of Congo came through the barrel of a gun. Hundreds of Romanian military contractors were deployed in eastern DRC, where they worked alongside the Congolese army in its campaign against AFC/M23. When Goma fell in January 2025, nearly 300 of them abandoned the battlefield, sought protection […] The post Romanian Mercenaries Fled…",
+   "link": "https://taarifa.rw/2026/11/15/romanian-mercenaries-fled-goma-now-drc-backs-a-romanian-for-francophonies-top-job/",
+   "url": "https://taarifa.rw/2026/11/15/romanian-mercenaries-fled-goma-now-drc-backs-a-romanian-for-francophonies-top-job/",
+   "date": "2026-11-15T20:50:10.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "La Francophonie Cambodia Special Report"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/IMG_7670.jpeg?fit=722%2C425&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/IMG_7670.jpeg?fit=722%2C425&ssl=1",
+   "title_en": "Romanian Mercenaries Fled Goma. Now DRC Backs a Romanian for Francophonie’s Top Job",
+   "summary_en": "Romania’s most visible recent encounter with the Democratic Republic of Congo came through the barrel of a gun. Hundreds of Romanian military contractors were deployed in eastern DRC, where they worked alongside the Congolese army in its campaign against AFC/M23. When Goma fell in January 2025, nearly 300 of them abandoned the battlefield, sought protection […] The post Romanian Mercenaries Fled…",
+   "share_id": "MN202611_1hutqthpkwz"
+  },
+  {
+   "id": "crawl_1k7t7wg",
+   "title": "Man Utd target Fulham's Bassey - Monday's gossip",
+   "summary": "Manchester United target Fulham's Calvin Bassey and Brentford's Nathan Collins, AC Milan want Real Madrid's Endrick on loan, plus more.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cklyegvq86w8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cklyegvq86w8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T20:47:44.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a569/live/89f0acc0-e12f-11f1-ac15-d140d3bbd516.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a569/live/89f0acc0-e12f-11f1-ac15-d140d3bbd516.png",
+   "title_en": "Man Utd target Fulham's Bassey - Monday's gossip",
+   "summary_en": "Manchester United target Fulham's Calvin Bassey and Brentford's Nathan Collins, AC Milan want Real Madrid's Endrick on loan, plus more.",
+   "share_id": "MN202611_1k7t7wgl5b2"
+  },
   {
    "id": "crawl_1xq9wrh",
    "title": "‘Consensus for whom?’ Rwanda challenges Romanian candidate over DRC backing",
@@ -1668,5 +1709,5 @@
    "share_id": "MN202611_1aez83ul1ig"
   }
  ],
- "updated": "2026-11-15T20:29:49.868Z"
+ "updated": "2026-11-15T21:01:41.470Z"
 }
