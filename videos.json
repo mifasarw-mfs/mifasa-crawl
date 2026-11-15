@@ -1,0 +1,61 @@
+{
+ "_note": "Buri video: url (YouTube https cyangwa .mp4), title, description, category, tags[], duration_estimate, date (YYYY-MM-DD, optional). Zishya ziri hasi: Studio iguha entry ushyiraho.",
+ "videos": [
+  {
+   "url": "https://youtu.be/BhTz1OfikcM",
+   "title": "Mifasa - Aho Utari",
+   "description": "Indirimbo y'umwimerere yakozwe na MIFASA Production.",
+   "category": "Music",
+   "tags": [
+    "mifasa",
+    "indirimbo",
+    "original"
+   ],
+   "duration_estimate": "unknown",
+   "date": "2026-01-01",
+   "source": "manual"
+  },
+  {
+   "url": "https://youtu.be/uaYEZ3ql_Eg",
+   "title": "Mifasa - Ibitambo (If You Know)",
+   "description": "Official lyrics video y'indirimbo 'If You Know' ya MIFASA.",
+   "category": "Lyrics Video",
+   "tags": [
+    "mifasa",
+    "lyrics",
+    "ibitambo"
+   ],
+   "duration_estimate": "unknown",
+   "date": "2026-01-01",
+   "source": "manual"
+  },
+  {
+   "url": "https://youtu.be/LwN6aKFZpWo",
+   "title": "Mizero Fabrice - Birahagije (Nzabivamo)",
+   "description": "Indirimbo ya Gospel ya Mizero Fabrice Samuel MIFASA.",
+   "category": "Gospel",
+   "tags": [
+    "gospel",
+    "mifasa",
+    "birahagije"
+   ],
+   "duration_estimate": "unknown",
+   "date": "2026-01-01",
+   "source": "manual"
+  },
+  {
+   "url": "https://youtu.be/TzkkaEd1cdg",
+   "title": "Agasobanuye: Take Me Back (Lexnour)",
+   "description": "Indirimbo 'Take Me Back' ya Lexnour isobanuwe na MIFASA mu Kinyarwanda.",
+   "category": "Translation",
+   "tags": [
+    "agasobanuye",
+    "kinyarwanda",
+    "mifasa"
+   ],
+   "duration_estimate": "unknown",
+   "date": "2026-01-01",
+   "source": "manual"
+  }
+ ]
+}
