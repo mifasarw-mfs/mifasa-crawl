@@ -1,7 +1,28 @@
 {
  "day": "2026-11-15",
- "count": 65,
+ "count": 66,
  "articles": [
+  {
+   "id": "crawl_1jg5s1e",
+   "title": "Burundi Jumps Into Frier Attacking Rwanda’s OIF Candidate",
+   "summary": "Burundi’s Foreign Affairs Minister Edouard Bizimana has attacked Rwanda’s candidature for the Secretary General of Francophonie organisation. The next Secretary General of the 90- member strong organisation will be announced tomorrow morning before 10Am according to insiders in the OIF. “A third term for Louise as secretary-general would bury the International Organisation of La Francophonie […]…",
+   "link": "https://taarifa.rw/2026/11/15/burundi-jumps-into-frier-attacking-rwandas-oif-candidate/",
+   "url": "https://taarifa.rw/2026/11/15/burundi-jumps-into-frier-attacking-rwandas-oif-candidate/",
+   "date": "2026-11-15T17:42:41.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "La Francophonie Cambodia Special Report"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261115-192106.jpg?fit=720%2C543&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261115-192106.jpg?fit=720%2C543&ssl=1",
+   "title_en": "Burundi Jumps Into Frier Attacking Rwanda’s OIF Candidate",
+   "summary_en": "Burundi’s Foreign Affairs Minister Edouard Bizimana has attacked Rwanda’s candidature for the Secretary General of Francophonie organisation. The next Secretary General of the 90- member strong organisation will be announced tomorrow morning before 10Am according to insiders in the OIF. “A third term for Louise as secretary-general would bury the International Organisation of La Francophonie […]…",
+   "share_id": "MN202611_1jg5s1ej3io"
+  },
   {
    "id": "crawl_h94m5d",
    "title": "AS FAR retain Women's African Champions League title",
@@ -1366,5 +1387,5 @@
    "share_id": "MN202611_1aez83ul1ig"
   }
  ],
- "updated": "2026-11-15T17:55:23.269Z"
+ "updated": "2026-11-15T18:00:12.577Z"
 }
