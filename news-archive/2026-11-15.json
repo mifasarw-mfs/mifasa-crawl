@@ -1,7 +1,28 @@
 {
  "day": "2026-11-15",
- "count": 55,
+ "count": 57,
  "articles": [
+  {
+   "id": "crawl_15jbf4n",
+   "title": "Has OIF Secretary General Been Elected?",
+   "summary": "Unconfirmed reports indicate that the new Secretary General for the La Francophonie organisation is already a fixed matter. Taarifa Investigative Desk has learned in emerging reports from those close to the nucleus of the organization that Rwanda’s Louise Mushikiwabo has been reelected. From consistent diplomatic sources, Mushikiwabo reportedly received 26 votes out of 51 cast […] The post Has…",
+   "link": "https://taarifa.rw/2026/11/15/has-oif-secretary-general-been-elected/",
+   "url": "https://taarifa.rw/2026/11/15/has-oif-secretary-general-been-elected/",
+   "date": "2026-11-15T15:24:49.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "La Francophonie Cambodia Special Report"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261115-172332.jpg?fit=720%2C465&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261115-172332.jpg?fit=720%2C465&ssl=1",
+   "title_en": "Has OIF Secretary General Been Elected?",
+   "summary_en": "Unconfirmed reports indicate that the new Secretary General for the La Francophonie organisation is already a fixed matter. Taarifa Investigative Desk has learned in emerging reports from those close to the nucleus of the organization that Rwanda’s Louise Mushikiwabo has been reelected. From consistent diplomatic sources, Mushikiwabo reportedly received 26 votes out of 51 cast […] The post Has…",
+   "share_id": "MN202611_15jbf4nhohh"
+  },
   {
    "id": "crawl_137zylb",
    "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
@@ -141,6 +162,26 @@
    "title_en": "Branthwaite, Garner and King omitted for Spain game",
    "summary_en": "England manager Thomas Tuchel omits Josh King, James Garner and Jarrad Branthwaite from his squad to face Spain on Sunday night.",
    "share_id": "MN202611_8so2obk221"
+  },
+  {
+   "id": "crawl_gd8l0x",
+   "title": "Minister backs legal right to job support for young people",
+   "summary": "The work and pensions secretary said the level of support currently on offer was too vague.",
+   "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T13:06:15.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ee9/live/2745bfb0-e103-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ee9/live/2745bfb0-e103-11f1-b441-2b33b063138f.jpg",
+   "title_en": "Minister backs legal right to job support for young people",
+   "summary_en": "The work and pensions secretary said the level of support currently on offer was too vague.",
+   "share_id": "MN202611_gd8l0x1hhr"
   },
   {
    "id": "crawl_tnqmgh",
@@ -1163,5 +1204,5 @@
    "share_id": "MN202611_1aez83ul1ig"
   }
  ],
- "updated": "2026-11-15T15:05:20.133Z"
+ "updated": "2026-11-15T15:26:37.984Z"
 }

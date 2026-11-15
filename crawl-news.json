@@ -1,17 +1,64 @@
 [
  {
+  "id": "crawl_15jbf4n",
+  "title": "Has OIF Secretary General Been Elected?",
+  "summary": "Unconfirmed reports indicate that the new Secretary General for the La Francophonie organisation is already a fixed matter. Taarifa Investigative Desk has learned in emerging reports from those close to the nucleus of the organization that Rwanda’s Louise Mushikiwabo has been reelected. From consistent diplomatic sources, Mushikiwabo reportedly received 26 votes out of 51 cast […] The post Has…",
+  "link": "https://taarifa.rw/2026/11/15/has-oif-secretary-general-been-elected/",
+  "url": "https://taarifa.rw/2026/11/15/has-oif-secretary-general-been-elected/",
+  "date": "2026-11-15T15:24:49.000Z",
+  "source": "Taarifa Rwanda",
+  "category": "news",
+  "lang": "en",
+  "keywords": [
+   "Taarifa Rwanda",
+   "news",
+   "La Francophonie Cambodia Special Report"
+  ],
+  "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261115-172332.jpg?fit=720%2C465&ssl=1",
+  "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261115-172332.jpg?fit=720%2C465&ssl=1",
+  "title_en": "Has OIF Secretary General Been Elected?",
+  "summary_en": "Unconfirmed reports indicate that the new Secretary General for the La Francophonie organisation is already a fixed matter. Taarifa Investigative Desk has learned in emerging reports from those close to the nucleus of the organization that Rwanda’s Louise Mushikiwabo has been reelected. From consistent diplomatic sources, Mushikiwabo reportedly received 26 votes out of 51 cast […] The post Has…",
+  "share_id": "MN202611_15jbf4nhohh"
+ },
+ {
+  "id": "crawl_pa0tfu",
+  "title": "🔴LIVE: AMAKURU Y'IJORO || TARIKI 15.11.2026",
+  "summary": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+  "link": "https://www.youtube.com/watch?v=NV3wjHl_bWQ",
+  "url": "https://www.youtube.com/watch?v=NV3wjHl_bWQ",
+  "date": "2026-11-15T15:22:49.000Z",
+  "source": "Radio Rwanda YouTube",
+  "category": "news",
+  "lang": "rw",
+  "keywords": [
+   "Radio Rwanda YouTube",
+   "news",
+   "video"
+  ],
+  "video": {
+   "provider": "youtube",
+   "id": "NV3wjHl_bWQ"
+  },
+  "type": "video",
+  "image": "https://i3.ytimg.com/vi/NV3wjHl_bWQ/hqdefault.jpg",
+  "thumbnail": "https://i3.ytimg.com/vi/NV3wjHl_bWQ/hqdefault.jpg",
+  "title_rw": "🔴LIVE: AMAKURU Y'IJORO || TARIKI 15.11.2026",
+  "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+  "share_id": "MN202611_pa0tfu0y94"
+ },
+ {
   "id": "crawl_137zylb",
   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
   "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
   "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-15T14:56:21.000Z",
-  "source": "BBC Technology",
-  "category": "tech",
+  "source": "BBC World",
+  "category": "world",
   "lang": "en",
   "keywords": [
-   "BBC Technology",
-   "tech"
+   "BBC World",
+   "world"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdfb/live/3e3fdc00-e103-11f1-b441-2b33b063138f.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdfb/live/3e3fdc00-e103-11f1-b441-2b33b063138f.jpg",
@@ -145,8 +192,8 @@
    "BBC World",
    "world"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adcc/live/783de3c0-e0f4-11f1-b441-2b33b063138f.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adcc/live/783de3c0-e0f4-11f1-b441-2b33b063138f.jpg",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0351/live/2e8de2e0-e106-11f1-93e1-3b657b665bcf.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0351/live/2e8de2e0-e106-11f1-93e1-3b657b665bcf.jpg",
   "title_en": "Iran targets US military base in Bahrain with drone attack",
   "summary_en": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
   "share_id": "MN202611_pxx6pwq36q"
@@ -242,6 +289,26 @@
   "title_en": "Branthwaite, Garner and King omitted for Spain game",
   "summary_en": "England manager Thomas Tuchel omits Josh King, James Garner and Jarrad Branthwaite from his squad to face Spain on Sunday night.",
   "share_id": "MN202611_8so2obk221"
+ },
+ {
+  "id": "crawl_gd8l0x",
+  "title": "Minister backs legal right to job support for young people",
+  "summary": "The work and pensions secretary said the level of support currently on offer was too vague.",
+  "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-15T13:06:15.000Z",
+  "source": "BBC Business",
+  "category": "business",
+  "lang": "en",
+  "keywords": [
+   "BBC Business",
+   "business"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ee9/live/2745bfb0-e103-11f1-b441-2b33b063138f.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ee9/live/2745bfb0-e103-11f1-b441-2b33b063138f.jpg",
+  "title_en": "Minister backs legal right to job support for young people",
+  "summary_en": "The work and pensions secretary said the level of support currently on offer was too vague.",
+  "share_id": "MN202611_gd8l0x1hhr"
  },
  {
   "id": "crawl_1ox7csc",
@@ -758,6 +825,36 @@
   "share_id": "MN202611_17gbbqv487p"
  },
  {
+  "id": "crawl_avt0bq",
+  "title": "Zuchu ft Diamond Platnumz - Mvua Ya Baraka ( Official Music Video)",
+  "summary": "Get #MvuaYaBaraka Now 👇🏼 https://zuchu.lnk.to/mvua Mvua ya Baraka is a heartfelt collaboration between Zuchu and Diamond Platnumz, inspired by their journey into parenthood. Built around gratitude, faith and answered prayers, the song captures the joy of receiving a blessing that changes your life. While deeply personal, its message is a celebration of new beginnings, family, love, success and e",
+  "link": "https://www.youtube.com/watch?v=Dy09mWiYsB0",
+  "url": "https://www.youtube.com/watch?v=Dy09mWiYsB0",
+  "date": "2026-11-15T08:04:13.000Z",
+  "source": "YouTube Trending Kenya",
+  "category": "entertainment",
+  "lang": "en",
+  "keywords": [
+   "YouTube Trending Kenya",
+   "entertainment",
+   "trending",
+   "diamond platnumz",
+   "wana",
+   "kwaru",
+   "video"
+  ],
+  "video": {
+   "provider": "youtube",
+   "id": "Dy09mWiYsB0"
+  },
+  "type": "video",
+  "image": "https://i.ytimg.com/vi/Dy09mWiYsB0/hqdefault.jpg",
+  "thumbnail": "https://i.ytimg.com/vi/Dy09mWiYsB0/hqdefault.jpg",
+  "title_en": "Zuchu ft Diamond Platnumz - Mvua Ya Baraka ( Official Music Video)",
+  "summary_en": "Get #MvuaYaBaraka Now 👇🏼 https://zuchu.lnk.to/mvua Mvua ya Baraka is a heartfelt collaboration between Zuchu and Diamond Platnumz, inspired by their journey into parenthood. Built around gratitude, faith and answered prayers, the song captures the joy of receiving a blessing that changes your life. While deeply personal, its message is a celebration of new beginnings, family, love, success and e",
+  "share_id": "MN202611_avt0bqt550"
+ },
+ {
   "id": "crawl_1jqxi89",
   "title": "MU 2100 ABANTU BAZABA BATAGIPFA: BIZAGENDA BITE ABANTU NITUBAHO ITEKA? UKO BARI KURWANYA URUPFU",
   "summary": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
@@ -1131,7 +1228,7 @@
  },
  {
   "id": "crawl_14dayyw",
-  "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+  "title": "Trump barred from closing 'Trash Island' golf course on Sunday",
   "summary": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
   "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
@@ -1145,7 +1242,7 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg",
-  "title_en": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+  "title_en": "Trump barred from closing 'Trash Island' golf course on Sunday",
   "summary_en": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
   "share_id": "MN202611_14dayyw3vfq"
  },
@@ -17301,96 +17398,5 @@
   "title_en": "Every goal from the Women's Super League - matchweek nine",
   "summary_en": "Watch every goal from across the WSL in matchweek nine, from a London City Lionesses first-half wonder goal to Khadija Shaw's first hat-trick of the Women's Super League season.",
   "share_id": "MN202611_1k8s8325jkc"
- },
- {
-  "id": "crawl_pun8my",
-  "title": "Civil servant who secretly held five jobs found guilty of fraud",
-  "summary": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
-  "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-09T15:24:54.000Z",
-  "source": "BBC Business",
-  "category": "business",
-  "lang": "en",
-  "keywords": [
-   "BBC Business",
-   "business"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1641/live/c3324b50-d6f9-11f1-b983-c357054e4d1e.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1641/live/c3324b50-d6f9-11f1-b983-c357054e4d1e.jpg",
-  "title_en": "Civil servant who secretly held five jobs found guilty of fraud",
-  "summary_en": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
-  "share_id": "MN202611_pun8myg53s"
- },
- {
-  "id": "crawl_bhugor",
-  "title": "Kettering Town 'cannot hide' from racism problem",
-  "summary": "Kettering Town says it \"can no longer hide\" from the issue of racism after a visiting Redditch player was allegedly subjected to \"sickening\" abuse.",
-  "link": "https://www.bbc.co.uk/sport/football/articles/cr0j0jnln3j0o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cr0j0jnln3j0o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-09T15:10:38.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/323e/live/1e5a5fe0-dc36-11f1-b441-2b33b063138f.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/323e/live/1e5a5fe0-dc36-11f1-b441-2b33b063138f.jpg",
-  "title_en": "Kettering Town 'cannot hide' from racism problem",
-  "summary_en": "Kettering Town says it \"can no longer hide\" from the issue of racism after a visiting Redditch player was allegedly subjected to \"sickening\" abuse.",
-  "share_id": "MN202611_bhugorqg2h"
- },
- {
-  "id": "crawl_gh7a3q",
-  "title": "Kigali to Host Africa’s Business Heroes Summit, Grand Finale in December",
-  "summary": "Rwanda’s Capital Kigali is gearing up for hosting the 8th edition of the prestigious 8th Africa’s Business Heroes (ABH) Summit and Grand Finale scheduled on December 1-2. According to organisers, more than 24,000 applications across all 54 African countries, ten founders have made it to the final stage of Africa’s Business Heroes (ABH), the continent’s […] The post Kigali to Host Africa’s…",
-  "link": "https://taarifa.rw/2026/11/09/kigali-to-host-africas-business-heroes-summit-grand-finale-in-december/",
-  "url": "https://taarifa.rw/2026/11/09/kigali-to-host-africas-business-heroes-summit-grand-finale-in-december/",
-  "date": "2026-11-09T15:01:22.000Z",
-  "source": "Taarifa Rwanda",
-  "category": "news",
-  "lang": "en",
-  "keywords": [
-   "Taarifa Rwanda",
-   "news",
-   "Business"
-  ],
-  "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261109-165507.jpg?fit=720%2C772&ssl=1",
-  "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261109-165507.jpg?fit=720%2C772&ssl=1",
-  "title_en": "Kigali to Host Africa’s Business Heroes Summit, Grand Finale in December",
-  "summary_en": "Rwanda’s Capital Kigali is gearing up for hosting the 8th edition of the prestigious 8th Africa’s Business Heroes (ABH) Summit and Grand Finale scheduled on December 1-2. According to organisers, more than 24,000 applications across all 54 African countries, ten founders have made it to the final stage of Africa’s Business Heroes (ABH), the continent’s […] The post Kigali to Host Africa’s…",
-  "share_id": "MN202611_gh7a3qz7b8"
- },
- {
-  "id": "crawl_16eg8wq",
-  "title": "I Became SPIDERMAN in Minecraft..",
-  "summary": "Instagram: https://www.instagram.com/cashmarcoyt/ Merch: https://cashandnico.com #Minecraft #MinecraftMod #Cash #NicoAndCash",
-  "link": "https://www.youtube.com/watch?v=YuT1H78SbN8",
-  "url": "https://www.youtube.com/watch?v=YuT1H78SbN8",
-  "date": "2026-11-09T15:00:10.000Z",
-  "source": "YouTube Trending Kenya",
-  "category": "entertainment",
-  "lang": "en",
-  "keywords": [
-   "YouTube Trending Kenya",
-   "entertainment",
-   "trending",
-   "Cash",
-   "Nico",
-   "Nico and Cash",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "YuT1H78SbN8"
-  },
-  "type": "video",
-  "image": "https://i.ytimg.com/vi/YuT1H78SbN8/hqdefault.jpg",
-  "thumbnail": "https://i.ytimg.com/vi/YuT1H78SbN8/hqdefault.jpg",
-  "title_en": "I Became SPIDERMAN in Minecraft..",
-  "summary_en": "Instagram: https://www.instagram.com/cashmarcoyt/ Merch: https://cashandnico.com #Minecraft #MinecraftMod #Cash #NicoAndCash",
-  "share_id": "MN202611_16eg8wqcbqw"
  }
 ]
