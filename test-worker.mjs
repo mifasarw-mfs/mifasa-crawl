@@ -1,0 +1,46 @@
+import { DatabaseSync } from "node:sqlite";
+import fs from "node:fs";
+import { handleLearn, cleanItem } from "./learn.js";
+const sqlite = new DatabaseSync(":memory:");
+sqlite.exec(fs.readFileSync("schema.sql", "utf8"));
+/* a tiny D1 look-alike (prepare/bind/run/first/all) on top of node:sqlite */
+const DB = { prepare(sql) { let args = []; const o = { bind(...a) { args = a; return o; }, async run() { sqlite.prepare(sql).run(...args); return { success: true }; }, async first() { return sqlite.prepare(sql).get(...args) || null; }, async all() { return { results: sqlite.prepare(sql).all(...args) }; } }; return o; } };
+const env = { DB, OWNER_TOKEN: "secret-owner", RATE_SALT: "x" };
+const call = async (method, path, body, token) => { const r = await handleLearn(new Request("http://w" + path, { method, headers: { "content-type": "application/json", "cf-connecting-ip": "1.2.3.4", ...(token ? { authorization: "Bearer " + token } : {}) }, body: body ? JSON.stringify(body) : undefined }), env); return r ? { status: r.status, j: await r.json() } : null; };
+const ok = (n, c) => console.log((c ? "✓ " : "✗ ") + n);
+const item = (id, extra) => Object.assign({ id, lang: "rw", q_raw: "Ni iki blockchain ya Satoshi?", q_norm: "ni iki blockchain ya satoshi", q_en: "what is satoshi blockchain", key_en: "what is satoshi blockchain", understood: "asks what blockchain is", intent: "definition", answer: "Blockchain ni ikaye y'imari ikwirakwijwe ku mashini nyinshi.", answer_lang: "rw", grounded: false, sources: [] }, extra || {});
+
+ok("unrelated path is ignored (returns null)", (await call("GET", "/health")) === null);
+let r = await call("POST", "/api/learn", { items: [item("Lab12"), item("Lab12")] });
+ok("visitor submit -> stored as pending", r.status === 200 && r.j.added === 1);
+r = await call("POST", "/api/learn", { items: [item("Lab12")] });
+ok("same question again only raises 'seen'", r.j.added === 0 && r.j.seen === 1);
+r = await call("POST", "/api/learn", { items: [item("Lbad1", { q_raw: "my password is hunter22 what is x" }), item("bad id!"), item("Lshort", { answer: "short" })] });
+ok("private / malformed items are refused", r.j.added === 0 && r.j.ignored === 3);
+ok("pending answers are NOT in the public export", (await call("GET", "/api/learned/export")).j.count === 0);
+ok("pending list needs the owner token", (await call("GET", "/api/learn/pending")).status === 401 && (await call("GET", "/api/learn/pending", null, "nope")).status === 401);
+r = await call("GET", "/api/learn/pending", null, "secret-owner");
+ok("owner sees the queue; seen counts every submission (3)", r.j.count === 1 && r.j.items[0].seen === 3);
+ok("visitor cannot approve", (await call("POST", "/api/learn/review", { id: "Lab12", action: "approve" })).status === 401);
+r = await call("POST", "/api/learn/review", { id: "Lab12", action: "approve", answer: "Blockchain ni ikaye y'imari ikwirakwijwe, itoroshye guhindurwa.", answer_other: "Blockchain is a shared ledger that is hard to alter." }, "secret-owner");
+ok("owner approves with a corrected answer + English translation", r.j.ok === true);
+r = await call("GET", "/api/learned/export");
+const x = r.j.items[0];
+ok("export now holds the approved answer (corrected)", r.j.count === 1 && /itoroshye guhindurwa/.test(x.answer));
+ok("export carries the other-language answer as answer_alt.en", x.answer_alt && /shared ledger/.test(x.answer_alt.en));
+ok("export does not leak review/vote/private columns", !("status" in x) && !("helpful" in x) && !("reviewed_at" in x));
+r = await call("POST", "/api/learn", { items: [item("Lab12", { answer: "A POISONED ANSWER that visitors try to push in place of it." })] });
+const again = (await call("GET", "/api/learned/export")).j.items[0];
+ok("a visitor can never overwrite an approved answer", !/POISONED/.test(again.answer));
+await call("POST", "/api/learn/vote", { id: "Lab12", good: false });
+ok("votes are counted", sqlite.prepare("SELECT unhelpful u FROM learned WHERE id='Lab12'").get().u === 1);
+r = await call("POST", "/api/translate", { text: "Muraho", from: "rw", to: "en" });
+ok("translator slot answers 501 until you fill it in", r.status === 501);
+/* daily limit */
+let last; for (let i = 0; i < 8; i++) last = await call("POST", "/api/learn", { items: Array.from({ length: 20 }, (_, k) => item("Lz" + i + "x" + k, { q_norm: "q" + i + k, q_raw: "question number " + i + "-" + k })) });
+ok("per-visitor daily limit stops floods (429)", last.status === 429);
+console.log("cleanItem exported:", typeof cleanItem === "function");
+import { splitMeta } from "./learn.js";
+const sm = splitMeta('Blockchain ni ikaye.\n<meta>{"q_en":"what is blockchain","understood_en":"asks for a definition"}</meta>');
+ok("splitMeta separates the answer from q_en + understood_en", sm.text === "Blockchain ni ikaye." && sm.q_en === "what is blockchain" && /definition/.test(sm.understood_en));
+ok("splitMeta leaves a plain answer untouched", splitMeta("plain answer").text === "plain answer");
