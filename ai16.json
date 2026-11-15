@@ -3238,6 +3238,30 @@
    ],
    "auto": true,
    "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_3be47a43_q",
+   "label_rw": "Imigendekere y'ibice bigize isi",
+   "label_en": "Plate tectonics",
+   "patterns_en": [
+    "What causes plate tectonics to move?",
+    "What geological events are caused by tectonic plates?",
+    "How do Earth's crustal plates interact?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera imigendekere y'ibice bigize isi?",
+    "Ni izihe ngaruka ziterwa n'uko ibice bigize isi byimuka?",
+    "Ese ibice bigize isi bigenda bite?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ibice bigize isi bigenda ku buryo buhoraho hejuru y'ubutaka bwo munsi bushyushye. Uku kugenda guterwa n'ubushyuhe bwo mu nda y'isi. Bituma habaho umutingito n'ibirunga. Bishobora no kurema imisozi miremire.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Plate tectonics is the scientific theory that Earth's outer shell is divided into several large plates that move over the mantle. This movement is driven by heat from Earth's interior and causes earthquakes, volcanic activity, and the formation of mountain ranges.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
   }
  ],
  "knowledge": [
@@ -5900,6 +5924,26 @@
     "clothing",
     "u rwanda",
     "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_3be47a43",
+   "category": "science",
+   "title_rw": "Imigendekere y'ibice bigize isi",
+   "title_en": "Plate tectonics",
+   "summary_rw": "Ibice bigize isi bigenda ku buryo buhoraho hejuru y'ubutaka bwo munsi bushyushye. Uku kugenda guterwa n'ubushyuhe bwo mu nda y'isi. Bituma habaho umutingito n'ibirunga. Bishobora no kurema imisozi miremire.",
+   "summary_en": "Plate tectonics is the scientific theory that Earth's outer shell is divided into several large plates that move over the mantle. This movement is driven by heat from Earth's interior and causes earthquakes, volcanic activity, and the formation of mountain ranges.",
+   "keywords": [
+    "isi",
+    "earth",
+    "ibice",
+    "plates",
+    "umutingito",
+    "earthquakes",
+    "ibirunga",
+    "volcanoes"
    ],
    "auto": true,
    "taught": "2026-11-15"
