@@ -1,7 +1,47 @@
 {
  "day": "2026-11-15",
- "count": 71,
+ "count": 73,
  "articles": [
+  {
+   "id": "crawl_1gamtfv",
+   "title": "Frick named new head coach at Aberdeen",
+   "summary": "Former Liechtenstein striker Mario Frick is announced as the new head coach of Aberdeen.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqrmgz9ypvwko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqrmgz9ypvwko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T18:27:08.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+   "title_en": "Frick named new head coach at Aberdeen",
+   "summary_en": "Former Liechtenstein striker Mario Frick is announced as the new head coach of Aberdeen.",
+   "share_id": "MN202611_1gamtfvequh"
+  },
+  {
+   "id": "crawl_1fackqi",
+   "title": "Children's tournament abandoned for parents' behaviour",
+   "summary": "A football tournament for nine and 10-year-olds in Italy is suspended because of parents fighting, spitting and shouting homophobic abuse at a child and a referee.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmp867d026nno?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmp867d026nno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T18:24:54.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d368/live/30545390-e11d-11f1-a7a2-7bb21fac8f0b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d368/live/30545390-e11d-11f1-a7a2-7bb21fac8f0b.jpg",
+   "title_en": "Children's tournament abandoned for parents' behaviour",
+   "summary_en": "A football tournament for nine and 10-year-olds in Italy is suspended because of parents fighting, spitting and shouting homophobic abuse at a child and a referee.",
+   "share_id": "MN202611_1fackqi4i54"
+  },
   {
    "id": "crawl_1ewru40",
    "title": "Charlotte Church closes wellness retreat after five 'beautiful' years",
@@ -1487,5 +1527,5 @@
    "share_id": "MN202611_1aez83ul1ig"
   }
  ],
- "updated": "2026-11-15T18:26:33.092Z"
+ "updated": "2026-11-15T18:39:26.095Z"
 }
