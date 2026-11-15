@@ -1,7 +1,27 @@
 {
  "day": "2026-11-15",
- "count": 53,
+ "count": 55,
  "articles": [
+  {
+   "id": "crawl_137zylb",
+   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+   "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+   "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T14:56:21.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdfb/live/3e3fdc00-e103-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdfb/live/3e3fdc00-e103-11f1-b441-2b33b063138f.jpg",
+   "title_en": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+   "summary_en": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+   "share_id": "MN202611_137zylbsv25"
+  },
   {
    "id": "crawl_1frfof9",
    "title": "Club's first match after player's death abandoned because of serious injury",
@@ -306,6 +326,27 @@
    "title_en": "Thailand Angry At Cambodia Taking Border Dispute to Francophonie Summit",
    "summary_en": "Thailand is up in arms in total anger against Cambodia for dragging their border dispute into the La Francophonie Summit ongoing in Phnom Penh. Days before the summit, Thailand warned Cambodia against using the Francophonie gathering to raise the border dispute. But Prime Minister Hun Manet went ahead anyway. “Cambodia did not fire the first […] The post Thailand Angry At Cambodia Taking Border…",
    "share_id": "MN202611_x975h0ojde"
+  },
+  {
+   "id": "crawl_1xu597z",
+   "title": "Rwanda and Cambodia Launch Digital Payment Link",
+   "summary": "Rwanda and Cambodia have launched a pilot initiative to connect their digital payment systems, paving the way for faster, more convenient and potentially cheaper cross-border money transfers between the two countries. The initiative, known as the Proof of Concept of Cross-Border Remittance between the Kingdom of Cambodia and the Republic of Rwanda, was officially launched […] The post Rwanda and…",
+   "link": "https://taarifa.rw/2026/11/15/rwanda-and-cambodia-launch-digital-payment-link/",
+   "url": "https://taarifa.rw/2026/11/15/rwanda-and-cambodia-launch-digital-payment-link/",
+   "date": "2026-11-15T10:50:28.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "La Francophonie Cambodia Special Report"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261115-164957.jpg?fit=720%2C447&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261115-164957.jpg?fit=720%2C447&ssl=1",
+   "title_en": "Rwanda and Cambodia Launch Digital Payment Link",
+   "summary_en": "Rwanda and Cambodia have launched a pilot initiative to connect their digital payment systems, paving the way for faster, more convenient and potentially cheaper cross-border money transfers between the two countries. The initiative, known as the Proof of Concept of Cross-Border Remittance between the Kingdom of Cambodia and the Republic of Rwanda, was officially launched […] The post Rwanda and…",
+   "share_id": "MN202611_1xu597zxdhp"
   },
   {
    "id": "crawl_1aa0ygt",
@@ -1122,5 +1163,5 @@
    "share_id": "MN202611_1aez83ul1ig"
   }
  ],
- "updated": "2026-11-15T14:11:24.571Z"
+ "updated": "2026-11-15T15:05:20.133Z"
 }
