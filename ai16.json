@@ -3262,6 +3262,78 @@
    ],
    "auto": true,
    "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_8f1c4a02_q",
+   "label_rw": "Kwita ku mubyeyi n'umwana nyuma y'uko abyaye",
+   "label_en": "Postnatal care",
+   "patterns_en": [
+    "When does postnatal care begin?",
+    "Why is postnatal care important for mother and baby?",
+    "What kind of guidance is provided during postnatal visits?"
+   ],
+   "patterns_rw": [
+    "Ni ryagwo hatangira kwita ku mubyeyi n'umwana nyuma yo kubyaye?",
+    "Kuki kwita ku mubyeyi n'umwana nyuma yo kubyara ari ingenzi?",
+    "Ni izihe nama zitangwa mu gihe cyo kwita ku mubyeyi n'umwana?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kwita ku mubyeyi n'umwana nyuma y'uko abyaye ni ingenzi cyane. Ibi bikubiyemo gusuzuma ubuzima bw'umubyeyi n'umwana kugira ngo hamenyekane niba nta ndwara cyangwa ibibazo bafite. Bitangira ako kanya umwana avutse kugeza ku minsi mirongo ine n'ine. Bisabwa ko umubyeyi ajya kwa muganga kugira ngo afashwe ndetse anahabwe inama ku mirire n'isuku.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Postnatal care is essential for the health of both mother and newborn. It usually involves medical checkups to monitor recovery and prevent complications. This care begins immediately after birth and continues for about six weeks. Mothers are encouraged to visit health facilities for clinical assessments, guidance on nutrition, and proper hygiene practices.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_9756de42_q",
+   "label_rw": "Gukurikirana no kuvura umuriro mu bana",
+   "label_en": "Managing fever in children",
+   "patterns_en": [
+    "When should a child with a fever see a doctor?",
+    "What causes a fever in children?",
+    "How can you care for a child with a fever at home?"
+   ],
+   "patterns_rw": [
+    "Ni ryari umwana ufite umuriro agomba kujyanwa kwa muganga?",
+    "Ni iki cyatuma umwana agira umuriro?",
+    "Wafasha ute umwana ufite umuriro mu rugo?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Umuriro mu bana usanzwe uterwa n'indwara ziterwa na mikorobe. Kugira ngo umwana afashwe, ni byiza kumwongerera amazi, kumwambika imyenda yoroheje, no gukoresha imiti nka paracetamol iyo bibaye ngombwa. Niba umwana afite imyaka iri munsi y'amezi atatu cyangwa afite ibimenyetso bikomeye, agomba kujyanwa kwa muganga vuba.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Fever in children is usually caused by common infections. To help a child, it is good to provide plenty of fluids, dress them in light clothing, and sometimes use medications like paracetamol if necessary. If an infant is under three months old or shows severe symptoms, medical attention should be sought promptly.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_4425673e_q",
+   "label_rw": "Isuku y'uruhu",
+   "label_en": "Skin hygiene",
+   "patterns_en": [
+    "How can I take care of my skin?",
+    "What is the importance of skin hygiene?",
+    "What should I do to have healthy skin?"
+   ],
+   "patterns_rw": [
+    "Ni gute nakwitaho uruhu rwanjye?",
+    "Isuku y'uruhu ifite akahe kamaro?",
+    "Nakora iki ngo ngire uruhu rwiza?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gukaraba buri munsi bifasha gukuraho imyanda n'amavuta menshi ku ruhu. Guha uruhu amazi ahagije no kurinda izuba bifasha mu buzima bwiza bw'uruhu. Kwitwararika kuisuku birinda indwara zitandukanye.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Daily washing helps remove dirt and excess oil from the skin. Keeping the skin hydrated and protected from the sun promotes good skin health. Proper hygiene helps prevent various skin conditions.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
   }
  ],
  "knowledge": [
@@ -5944,6 +6016,66 @@
     "earthquakes",
     "ibirunga",
     "volcanoes"
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_8f1c4a02",
+   "category": "health",
+   "title_rw": "Kwita ku mubyeyi n'umwana nyuma y'uko abyaye",
+   "title_en": "Postnatal care",
+   "summary_rw": "Kwita ku mubyeyi n'umwana nyuma y'uko abyaye ni ingenzi cyane. Ibi bikubiyemo gusuzuma ubuzima bw'umubyeyi n'umwana kugira ngo hamenyekane niba nta ndwara cyangwa ibibazo bafite. Bitangira ako kanya umwana avutse kugeza ku minsi mirongo ine n'ine. Bisabwa ko umubyeyi ajya kwa muganga kugira ngo afashwe ndetse anahabwe inama ku mirire n'isuku.",
+   "summary_en": "Postnatal care is essential for the health of both mother and newborn. It usually involves medical checkups to monitor recovery and prevent complications. This care begins immediately after birth and continues for about six weeks. Mothers are encouraged to visit health facilities for clinical assessments, guidance on nutrition, and proper hygiene practices.",
+   "keywords": [
+    "ubuzima",
+    "health",
+    "umwana",
+    "baby",
+    "umubyeyi",
+    "mother",
+    "muganga",
+    "care"
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_9756de42",
+   "category": "health",
+   "title_rw": "Gukurikirana no kuvura umuriro mu bana",
+   "title_en": "Managing fever in children",
+   "summary_rw": "Umuriro mu bana usanzwe uterwa n'indwara ziterwa na mikorobe. Kugira ngo umwana afashwe, ni byiza kumwongerera amazi, kumwambika imyenda yoroheje, no gukoresha imiti nka paracetamol iyo bibaye ngombwa. Niba umwana afite imyaka iri munsi y'amezi atatu cyangwa afite ibimenyetso bikomeye, agomba kujyanwa kwa muganga vuba.",
+   "summary_en": "Fever in children is usually caused by common infections. To help a child, it is good to provide plenty of fluids, dress them in light clothing, and sometimes use medications like paracetamol if necessary. If an infant is under three months old or shows severe symptoms, medical attention should be sought promptly.",
+   "keywords": [
+    "umuriro",
+    "umwana",
+    "ubuvuzi",
+    "paracetamol",
+    "fever",
+    "child",
+    "health",
+    "treatment"
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_4425673e",
+   "category": "health",
+   "title_rw": "Isuku y'uruhu",
+   "title_en": "Skin hygiene",
+   "summary_rw": "Gukaraba buri munsi bifasha gukuraho imyanda n'amavuta menshi ku ruhu. Guha uruhu amazi ahagije no kurinda izuba bifasha mu buzima bwiza bw'uruhu. Kwitwararika kuisuku birinda indwara zitandukanye.",
+   "summary_en": "Daily washing helps remove dirt and excess oil from the skin. Keeping the skin hydrated and protected from the sun promotes good skin health. Proper hygiene helps prevent various skin conditions.",
+   "keywords": [
+    "uruhu",
+    "skin",
+    "isuku",
+    "hygiene",
+    "amazi",
+    "water",
+    "ubuzima",
+    "health"
    ],
    "auto": true,
    "taught": "2026-11-15"
