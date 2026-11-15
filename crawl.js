@@ -302,7 +302,7 @@ function archiveItems(items) {
      Returns the list of archive files that changed (so the workflow uploads only those). */
   fs.mkdirSync(ARCHIVE_DIR, { recursive: true });
   const byDay = new Map();
-  items.forEach(a => { if (!a || !a.link) return; const m = dayOf(a.date); if (!byDay.has(m)) byDay.set(m, []); byDay.get(m).push(a); });
+  items.forEach(a => { if (!a || !a.link || a.video || a.type === "video") return; const m = dayOf(a.date); if (!byDay.has(m)) byDay.set(m, []); byDay.get(m).push(a); });
   const changed = [];
   for (const [m, list] of byDay) {
     const file = path.join(ARCHIVE_DIR, m + ".json");
@@ -331,6 +331,59 @@ function archiveItems(items) {
   let prev = ""; try { prev = fs.readFileSync(idxFile, "utf8"); } catch (e) {}
   const prevCmp = prev ? JSON.stringify({ ...JSON.parse(prev), updated: 0 }) : "";
   if (prevCmp !== JSON.stringify({ ...idx, updated: 0 })) { fs.writeFileSync(idxFile, JSON.stringify(idx, null, 1) + "\n"); changed.push("news-archive/index.json"); }
+  return changed;
+}
+
+/* ---------- FULL TEXT of every story (news-full/YYYY-MM-DD.json): long description, kept apart from the archive ---------- */
+/* Only what the story page itself contains is stored (nothing is invented or padded): { w: words, t: text, link, source }.
+   Videos are never archived. A source can opt out with  "full": false  in crawl-feeds.json.
+   Each run reads at most CFG.fullPerRun pages (newest days first), so the old archive fills up little by little. */
+const FULL_DIR = path.join(DIR, "news-full");
+CFG.fullPerRun = 10; CFG.fullMax = 40000; CFG.fullMinWords = 60;
+function articleText(html) {
+  html = String(html || "");
+  let best = "";
+  for (const m of html.matchAll(/<script[^>]+application\/ld\+json[^>]*>([\s\S]*?)<\/script>/gi)) {       // best source: the page's own articleBody
+    try { const walk = o => { if (!o || typeof o !== "object") return; if (typeof o.articleBody === "string" && o.articleBody.length > best.length) best = o.articleBody; (Array.isArray(o) ? o : Object.values(o)).forEach(walk); }; walk(JSON.parse(m[1])); } catch (e) {}
+  }
+  best = clean(best);
+  let h = html.replace(/<(script|style|noscript|nav|footer|aside|form|iframe)[\s\S]*?<\/\1>/gi, " ");
+  const art = h.match(/<article[\s\S]*?<\/article>/i); if (art) h = art[0];
+  const paras = [...h.matchAll(/<p[\s>][\s\S]*?<\/p>/gi)].map(m => clean(m[0])).filter(p => p.length >= 40 && !/^(share |follow us|read more|related|copyright|©|advertisement|sign up|subscribe)/i.test(p));
+  const text = paras.join("\n\n");
+  const out = text.length > best.length ? text : best;
+  return out.length > CFG.fullMax ? out.slice(0, CFG.fullMax).replace(/\s+\S*$/, "") + "…" : out;
+}
+async function enrichFull() {
+  if (!fs.existsSync(ARCHIVE_DIR)) return [];
+  let cfg = {}; try { JSON.parse(fs.readFileSync(FEEDS_FILE, "utf8")).feeds.forEach(f => { cfg[f.name] = f; }); } catch (e) {}
+  fs.mkdirSync(FULL_DIR, { recursive: true });
+  const days = fs.readdirSync(ARCHIVE_DIR).filter(f => /^\d{4}-\d{2}-\d{2}\.json$/.test(f)).sort().reverse();
+  const changed = []; let budget = CFG.fullPerRun, got = 0;
+  for (const f of days) {
+    if (budget <= 0) break;
+    let arch; try { arch = JSON.parse(fs.readFileSync(path.join(ARCHIVE_DIR, f), "utf8")); } catch (e) { continue; }
+    const ffile = path.join(FULL_DIR, f); let full = { day: f.slice(0, 10), items: {} };
+    try { const j = JSON.parse(fs.readFileSync(ffile, "utf8")); if (j && j.items) full = j; } catch (e) {}
+    let dirty = false;
+    for (const a of arch.articles || []) {
+      if (budget <= 0) break;
+      if (!a.share_id || !/^https?:\/\//i.test(a.link || "") || a.video || a.type === "video") continue;
+      const have = full.items[a.share_id];
+      if (have && (have.t || have.skip || have.fail >= 3)) continue;
+      const fc = cfg[a.source] || {}; if (fc.full === false || /^youtube/.test(fc.type || "")) continue;
+      budget--;
+      try {
+        if (!(await allowedByRobots(a.link))) { full.items[a.share_id] = { w: 0, skip: "robots" }; dirty = true; continue; }
+        await sleep(1000);
+        const text = articleText(await fetchText(a.link, 15000)), words = text ? text.split(/\s+/).length : 0;
+        full.items[a.share_id] = words >= CFG.fullMinWords ? { w: words, t: text, link: a.link, source: a.source } : { w: words, skip: "short" };
+        dirty = true; got++;
+      } catch (e) { full.items[a.share_id] = { fail: ((have && have.fail) || 0) + 1 }; dirty = true; }       // tried again next run, max 3 times
+    }
+    if (dirty) { full.updated = new Date().toISOString(); fs.writeFileSync(ffile, JSON.stringify(full) + "\n"); changed.push("news-full/" + f); }
+  }
+  console.log(`full text: ${got} stories read, ${changed.length} file(s) changed`);
   return changed;
 }
 
@@ -382,11 +435,12 @@ async function main() {
   }
   console.log(`\n${ok} feeds ok, ${bad} failed, ${fresh.length} fresh items`);
   if (testOnly) return;
-  if (!fresh.length) { console.log("Nothing fresh: crawl-news.json left unchanged."); return; }   // never wipe the file when offline
+  if (!fresh.length) { console.log("Nothing fresh: crawl-news.json left unchanged."); if (!testOnly && !dry) await enrichFull().catch(e => console.log("full text: " + e.message)); return; }   // never wipe the file when offline
   const all = ensureIds(merge(old, fresh));
   if (dry) { console.log(JSON.stringify(all.slice(0, 3), null, 1)); return; }
   fs.writeFileSync(OUT_FILE, JSON.stringify(all, null, 1) + "\n");
   const arch = archiveItems(all);
+  await enrichFull().catch(e => console.log("full text: " + e.message));
   console.log(`archive: ${arch.length} file(s) changed` + (arch.length ? " -> " + arch.join(", ") : ""));
   const w = buildWords(all, 400);
   fs.writeFileSync(WORDS_FILE, JSON.stringify(w) + "\n");
@@ -430,6 +484,8 @@ function selftest() {
     ["youtube: atom entry -> video id, thumbnail, type video", (() => { const y = parseFeed('<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><entry><yt:videoId>dQw4w9WgXcQ</yt:videoId><title>Video nshya</title><link rel="alternate" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"/><published>2026-11-01T10:00:00+00:00</published><media:group><media:description>Ibisobanuro</media:description></media:group></entry></feed>', { url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC18ODLNtqXiW5nsEumf8cnQ" }); const a = toArticle(y[0], { name: "MIFASARW YouTube", type: "youtube", category: "entertainment", lang: "rw" }); return y.length === 1 && a.video && a.video.id === "dQw4w9WgXcQ" && a.type === "video" && a.thumbnail.includes("dQw4w9WgXcQ"); })()],
     ["youtube: channel id format", /^UC[\w-]{22}$/.test("UC18ODLNtqXiW5nsEumf8cnQ")],
     ["youtube-trending: API json -> items with video id", (() => { const r = ytVideosToItems({ items: [{ id: "XWasJSROw2s", snippet: { title: "Indirimbo nshya", description: "Ibisobanuro  birebire", publishedAt: "2026-11-08T11:33:37Z", tags: ["a", "b"], thumbnails: { high: { url: "https://i.ytimg.com/vi/XWasJSROw2s/hqdefault.jpg" } } } }, { id: "bad", snippet: { title: "x" } }] }, 10); return r.length === 1 && r[0].video === "XWasJSROw2s" && r[0].link.endsWith("XWasJSROw2s") && r[0].cats[0] === "trending" && r[0].summary === "Ibisobanuro birebire"; })()],
+    ["full text: <article> paragraphs kept, menu/script/short lines dropped", (() => { const t = articleText('<nav><p>Menu menu menu menu menu menu menu menu menu menu</p></nav><article><p>' + "Perezida yavuze ku bukungu bw'igihugu n'uko buzamuka. ".repeat(3) + '</p><p>short</p><p>' + "Abaturage barishimye cyane kuri iyi gahunda nshya. ".repeat(3) + '</p></article><script>x()</script>'); return t.includes("\n\n") && !/Menu|short|x\(\)/.test(t) && t.split(/\s+/).length > 30; })()],
+    ["full text: ld+json articleBody preferred when longer", articleText('<script type="application/ld+json">{"@type":"NewsArticle","articleBody":"' + "word ".repeat(120) + '"}</script><p>tiny</p>').split(/\s+/).length >= 100],
     ["javascript: links refused", safeUrl("javascript:alert(1)") === ""]
   ];
   let bad = 0; checks.forEach(([n, ok]) => { console.log((ok ? "PASS  " : "FAIL  ") + n); if (!ok) bad++; });
