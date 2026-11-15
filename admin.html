@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>MIFASA AI admin</title>
+<style>
+:root{--bg:#f6f4ef;--fg:#1c1b19;--mut:#6b675e;--card:#fff;--line:#dcd7cb;--acc:#0b5d3b;--bad:#a4281c;color-scheme:light dark}
+@media (prefers-color-scheme:dark){:root{--bg:#161512;--fg:#ece8df;--mut:#9a958a;--card:#201f1b;--line:#38352e;--acc:#59c08c;--bad:#ef7d70}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.45 system-ui,sans-serif;padding:env(safe-area-inset-top,0) 0 env(safe-area-inset-bottom,0)}
+main{max-width:760px;margin:0 auto;padding:14px}h1{font-size:20px;margin:6px 0 2px}p.sub{margin:0 0 12px;color:var(--mut);font-size:14px}
+nav{display:flex;gap:6px;margin:10px 0}nav button{flex:1}
+button,input,textarea{font:inherit;color:inherit;background:var(--card);border:1px solid var(--line);border-radius:8px;padding:9px 10px}
+button{cursor:pointer;min-height:42px}button.on{background:var(--acc);color:#fff;border-color:var(--acc)}button.bad{color:var(--bad);border-color:var(--bad)}button.good{color:var(--acc);border-color:var(--acc)}
+input,textarea{width:100%;margin:4px 0 8px}label{font-size:13px;color:var(--mut)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px;margin:10px 0}.row{display:flex;gap:8px;flex-wrap:wrap}.row>*{flex:1}
+.q{font-weight:600}.a{white-space:pre-wrap;font-size:14px;margin:6px 0;max-height:9em;overflow:auto}.meta{font-size:12px;color:var(--mut)}
+#msg{position:sticky;top:0;background:var(--bg);padding:6px 0;font-size:14px;min-height:30px}.stat{display:flex;gap:10px;flex-wrap:wrap}.stat div{flex:1;min-width:90px}.stat b{display:block;font-size:22px}
+details summary{cursor:pointer;font-weight:600}
+</style>
+</head>
+<body>
+<main>
+<h1>MIFASA AI admin</h1>
+<p class="sub">Works from a phone. Keys stay in this browser only.</p>
+<div id="msg" role="status"></div>
+
+<details class="card" id="cfg"><summary>Settings (once)</summary>
+  <label>GitHub repo (owner/name)</label><input id="repo" placeholder="yourname/mifasarw" autocapitalize="off">
+  <label>Branch</label><input id="branch" value="main" autocapitalize="off">
+  <label>GitHub token (fine-grained: only this repo, Contents + Actions = read &amp; write)</label><input id="gh" type="password" autocomplete="off">
+  <label>Worker URL (optional, for the pending queue)</label><input id="wk" placeholder="https://your-worker.workers.dev" autocapitalize="off">
+  <label>Worker OWNER_TOKEN (optional)</label><input id="ot" type="password" autocomplete="off">
+  <button id="save">Save</button>
+</details>
+
+<nav><button id="t1" class="on">Learned</button><button id="t2">Worker queue</button></nav>
+
+<section id="p1">
+  <div class="card stat"><div><b id="sw">-</b>words</div><div><b id="sd">-</b>with meaning</div><div><b id="sa">-</b>answers</div><div><b id="st">-</b>today</div></div>
+  <div class="row"><button id="run" class="good">Run now</button><button id="reload">Reload</button></div>
+  <input id="find" type="search" placeholder="Search words or questions">
+  <div id="list"></div>
+</section>
+
+<section id="p2" hidden>
+  <div class="row"><button id="loadq">Load pending answers</button></div>
+  <div id="queue"></div>
+</section>
+</main>
+<script>
+const $ = id => document.getElementById(id);
+const store = { get: k => { try { return localStorage.getItem("mifasa_admin_" + k) || ""; } catch (e) { return ""; } }, set: (k, v) => { try { localStorage.setItem("mifasa_admin_" + k, v); } catch (e) {} } };
+const C = {}; ["repo", "branch", "gh", "wk", "ot"].forEach(k => { C[k] = store.get(k) || (k === "branch" ? "main" : ""); $(k).value = C[k]; });
+const say = (t, bad) => { $("msg").textContent = t; $("msg").style.color = bad ? "var(--bad)" : "inherit"; };
+$("save").onclick = () => { ["repo", "branch", "gh", "wk", "ot"].forEach(k => { C[k] = $(k).value.trim().replace(/\/+$/, ""); store.set(k, C[k]); }); say("Saved."); $("cfg").open = false; };
+if (!C.repo) $("cfg").open = true;
+const tab = n => { $("p1").hidden = n !== 1; $("p2").hidden = n !== 2; $("t1").classList.toggle("on", n === 1); $("t2").classList.toggle("on", n === 2); };
+$("t1").onclick = () => tab(1); $("t2").onclick = () => tab(2);
+const el = (tag, props, ...kids) => { const e = document.createElement(tag); Object.assign(e, props || {}); kids.forEach(k => e.append(k)); return e; };   // text only, never innerHTML
+const getJ = async f => { const r = await fetch(f + (f.includes("?") ? "&" : "?") + "t=" + Date.now(), { cache: "no-store" }); if (!r.ok) throw new Error(f + " " + r.status); return r.json(); };
+
+/* ---- GitHub ---- */
+const b64d = s => decodeURIComponent(escape(atob(s.replace(/\n/g, ""))));
+const b64e = s => btoa(unescape(encodeURIComponent(s)));
+const gh = (p, o) => fetch("https://api.github.com/repos/" + C.repo + p, Object.assign({ headers: { Authorization: "Bearer " + C.gh, Accept: "application/vnd.github+json", "Content-Type": "application/json" } }, o));
+async function ban(it, card) {
+  if (!C.repo || !C.gh) { say("Add the GitHub repo and token in Settings first.", true); $("cfg").open = true; return; }
+  if (!confirm('Ban "' + (it.word || it.q_raw) + '" for good?')) return;
+  try {
+    const f = "/contents/learned/banned.json", cur = await gh(f + "?ref=" + encodeURIComponent(C.branch));
+    let data = { ids: [], words: [] }, sha;
+    if (cur.ok) { const j = await cur.json(); sha = j.sha; data = JSON.parse(b64d(j.content)); } else if (cur.status !== 404) throw new Error("GitHub " + cur.status);
+    data.ids = [...new Set([...(data.ids || []), it.id])]; if (it.word) data.words = [...new Set([...(data.words || []), String(it.word).toLowerCase()])];
+    const put = await gh(f, { method: "PUT", body: JSON.stringify({ message: "admin: ban " + (it.word || it.id), content: b64e(JSON.stringify(data, null, 1) + "\n"), branch: C.branch, sha }) });
+    if (!put.ok) throw new Error("GitHub " + put.status + " (token needs Contents: read & write)");
+    card.style.opacity = .4; say("Banned. It disappears from MIFASA at the next run (within 30 minutes).");
+  } catch (e) { say(String(e.message || e), true); }
+}
+$("run").onclick = async () => {
+  if (!C.repo || !C.gh) { say("Add the GitHub repo and token in Settings first.", true); $("cfg").open = true; return; }
+  try { const r = await gh("/actions/workflows/mifasa-auto.yml/dispatches", { method: "POST", body: JSON.stringify({ ref: C.branch }) }); say(r.status === 204 ? "Started. It takes about 2-5 minutes." : "GitHub " + r.status + " (token needs Actions: read & write)", r.status !== 204); } catch (e) { say(String(e.message || e), true); }
+};
+
+/* ---- what MIFASA learned ---- */
+let ALL = [];
+function draw() {
+  const q = $("find").value.trim().toLowerCase(), box = $("list"); box.replaceChildren();
+  ALL.filter(x => !q || (x.word || "").includes(q) || (x.q_raw || "").toLowerCase().includes(q)).slice(0, 40).forEach(it => {
+    const card = el("div", { className: "card" }, el("div", { className: "q", textContent: it.q_raw }), el("div", { className: "a", textContent: it.answer }),
+      el("div", { className: "meta", textContent: (it.lang || "") + " · " + (it.added || "").slice(0, 10) + (it.sources && it.sources[0] ? " · " + it.sources[0].url : "") }));
+    const b = el("button", { className: "bad", textContent: "Ban" }); b.onclick = () => ban(it, card); card.append(el("div", { className: "row" }, b)); box.append(card);
+  });
+  if (!box.children.length) box.append(el("p", { className: "sub", textContent: "Nothing to show yet." }));
+}
+async function load() {
+  say("Loading...");
+  try {
+    const idx = await getJ("learned/index.json"); ALL = [];
+    for (const p of idx.parts.slice().reverse().slice(0, 2)) { const d = await getJ("learned/" + p.file); ALL.push(...d.items.slice().reverse()); }
+    $("sa").textContent = idx.total;
+    try { const w = await getJ("words/index.json"); $("sw").textContent = w.total; $("sd").textContent = w.defined; } catch (e) {}
+    try { const d = await getJ("daily/" + new Date().toISOString().slice(0, 10) + ".json"); $("st").textContent = d.new_answers; } catch (e) { $("st").textContent = "0"; }
+    draw(); say("");
+  } catch (e) { say("Nothing learned yet, or the first run has not finished. (" + (e.message || e) + ")", true); }
+}
+$("find").oninput = draw; $("reload").onclick = load;
+
+/* ---- Worker pending queue ---- */
+async function wk(path, opt) { if (!C.wk || !C.ot) throw new Error("Add the Worker URL and OWNER_TOKEN in Settings."); const r = await fetch(C.wk + path, Object.assign({ headers: { Authorization: "Bearer " + C.ot, "Content-Type": "application/json" } }, opt)); if (!r.ok) throw new Error("Worker " + r.status); return r.json(); }
+$("loadq").onclick = async () => {
+  try {
+    const j = await wk("/api/learn/pending?limit=50"), box = $("queue"); box.replaceChildren(); say(j.count + " pending");
+    j.items.forEach(it => {
+      const ta = el("textarea", { value: it.answer, rows: 5 }), card = el("div", { className: "card" }, el("div", { className: "q", textContent: it.q_raw }), el("div", { className: "meta", textContent: "asked " + it.seen + "× · " + it.lang }), ta);
+      const act = a => async () => { try { await wk("/api/learn/review", { method: "POST", body: JSON.stringify({ id: it.id, action: a, answer: a === "approve" ? ta.value : "" }) }); card.remove(); say(a === "approve" ? "Approved." : "Rejected."); } catch (e) { say(String(e.message || e), true); } };
+      const ok = el("button", { className: "good", textContent: "Approve" }), no = el("button", { className: "bad", textContent: "Reject" }); ok.onclick = act("approve"); no.onclick = act("reject");
+      card.append(el("div", { className: "row" }, ok, no)); box.append(card);
+    });
+  } catch (e) { say(String(e.message || e), true); }
+};
+load();
+</script>
+</body>
+</html>

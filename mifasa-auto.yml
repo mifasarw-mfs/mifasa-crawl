@@ -1,0 +1,86 @@
+# MIFASA auto: crawl + learn + test + deploy to Neocities + health check.  Runs on GitHub's servers: no laptop, no phone app.
+# Needs ONE secret:  Settings > Secrets and variables > Actions > New repository secret
+#     NEOCITIES_API_TOKEN   (Neocities > your site > Settings > Manage Site Settings > API)
+# Assumes the site files (index.html, script.js, ...) are in the ROOT of the repo. If they are in a folder, change SITE_SRC below.
+name: MIFASA auto
+on:
+  schedule: [{ cron: "*/30 * * * *" }]      # every 30 minutes (GitHub may delay a few minutes)
+  workflow_dispatch: {}                      # the "Run now" button (also used by admin.html)
+  push: { branches: [main, master] }         # every time you edit a file in GitHub, it tests and deploys
+concurrency: { group: mifasa-auto, cancel-in-progress: false }
+permissions: { contents: write }
+env:
+  SITE_URL: https://mifasarw.neocities.org
+  SITE_SRC: "."
+  HAS_TOKEN: ${{ secrets.NEOCITIES_API_TOKEN != '' }}
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+
+      - name: 1. Guard - script.js must have no syntax error (blocks the deploy)
+        run: node --check script.js
+
+      - name: 2. Crawl news (fast every run, slow sites once an hour)
+        continue-on-error: true
+        run: |
+          [ -f crawl.js ] || { echo "no crawl.js, skipped"; exit 0; }
+          node crawl.js --mode=fast
+          if [ "$(date -u +%M)" -lt 30 ]; then node crawl.js --mode=slow; fi
+
+      - name: 3. Learn new words and answers (learn-daily.js)
+        run: node learn-daily.js
+
+      - name: 4a. Tests that BLOCK the deploy (offline, no network)
+        run: |
+          node test-learn-daily.js
+          if [ -f test-site-learned.js ]; then
+            node test-site-learned.js | tee /tmp/site.txt
+            if grep -q "^✗" /tmp/site.txt; then echo "::error::browser-side test failed"; exit 1; fi
+          fi
+      - name: 4b. Older tests (report only, never block)
+        continue-on-error: true
+        run: |
+          for t in test-hub-ai.js test-learn.js; do [ -f "$t" ] && { echo "== $t"; node "$t" | tail -15; }; done; true
+
+      - name: 5. Save what was learned/crawled back into the repo
+        run: |
+          git config user.name "mifasa-bot"; git config user.email "mifasa-bot@users.noreply.github.com"
+          for p in words learned daily news-archive news-full crawl-news.json crawl-words.json dictionary-auto.json learn-state.json; do [ -e "$p" ] && git add -A "$p"; done
+          if git diff --cached --quiet; then echo "nothing new"; else
+            git commit -m "auto: learn+crawl $(date -u +'%Y-%m-%d %H:%M')"
+            git pull --rebase --autostash && git push
+          fi
+
+      - name: 6. Collect only the files a website needs
+        run: |
+          rm -rf /tmp/_site && mkdir /tmp/_site
+          rsync -a --prune-empty-dirs \
+            --exclude='.git/' --exclude='.github/' --exclude='node_modules/' --exclude='worker-learn/' --exclude='hub-part/' --exclude='parts/' \
+            --exclude='crawl.js' --exclude='learn-daily.js' --exclude='build.js' --exclude='apply-*.js' --exclude='make-*.js' --exclude='check-all.js' --exclude='test-*' --exclude='*.mjs' --exclude='script.orig.js' --exclude='README-AI.txt' \
+            --include='*/' --include='*.html' --include='*.css' --include='*.js' --include='*.json' --include='*.txt' --include='*.xml' --include='*.svg' --include='*.png' --include='*.jpg' --include='*.jpeg' --include='*.gif' --include='*.webp' --include='*.ico' --include='*.webmanifest' --include='*.woff' --include='*.woff2' --include='*.md' \
+            --exclude='*' "$SITE_SRC"/ /tmp/_site/
+          echo "files to deploy: $(find /tmp/_site -type f | wc -l)"; du -sh /tmp/_site
+
+      - name: 7. Deploy to Neocities
+        if: ${{ env.HAS_TOKEN == 'true' }}
+        uses: bcomnes/deploy-to-neocities@v2
+        with:
+          api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
+          dist_dir: /tmp/_site
+          cleanup: false            # never deletes files you uploaded by hand
+      - name: 7b. No token yet
+        if: ${{ env.HAS_TOKEN != 'true' }}
+        run: echo "::warning::NEOCITIES_API_TOKEN secret is missing - nothing was deployed. Add it, then press Run workflow."
+
+      - name: 8. Health check (a red X here makes GitHub email you)
+        if: ${{ env.HAS_TOKEN == 'true' }}
+        run: |
+          sleep 20
+          for f in "" "script.js" "learned/index.json"; do
+            curl -fsS -o /dev/null --retry 4 --retry-delay 10 --max-time 30 "$SITE_URL/$f" && echo "OK  $SITE_URL/$f" || { echo "::error::DOWN  $SITE_URL/$f"; exit 1; }
+          done

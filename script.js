@@ -2535,7 +2535,7 @@ function mifasaAddDictionary(entries) {
 }
 async function mifasaLoadDictionary(file) {
   let total = 0;
-  for (const f of (file ? [file] : ["dictionary.json", "grammar.json"])) {     // grammar.json = small words like ndi = "i am"
+  for (const f of (file ? [file] : ["dictionary.json", "grammar.json", "dictionary-auto.json"])) {     // grammar.json = small words like ndi = "i am"
     try {
       const res = await fetchWithTimeout(f, 10000, "no-store");
       if (res.ok) total += mifasaAddDictionary(await res.json());
@@ -7809,7 +7809,7 @@ MifasaAI.goalReset = () => { MIFASA_GOAL.state = null; };
 /* they WAIT for the owner's approval before anyone sees them. */
 /* ---------------------------------------------------------- */
 const MIFASA_LEARN = { mem: new Map(), db: null, ready: null, tcache: new Map(), queue: new Set(), timer: 0,
-  max: 3000, ttlDays: 180, stats: { hits: 0, saved: 0, skipped: 0, synced: 0, translated: 0 } };
+  max: 20000, ttlDays: 180, stats: { hits: 0, saved: 0, skipped: 0, synced: 0, translated: 0 } };
 const MIFASA_LEARN_PRIVATE_RE = /(password|passcode|\bpin\b|ijambo ry.ibanga|\b\d{6,}\b|(?:\+?250|\b07\d)[\s-]?\d{2}[\s-]?\d{3}|@\w+\.\w+|\bhiv\b|cancer|diagnos|suicid|\bcvv\b|card number|nimero ya konti)/i;
 const MIFASA_LEARN_STOP = new Set("the and for are was were what how why who when where which with from this that have has you your not can will nta si ni na wa ya mu cya bya iyi uyu uwo iki kuki gute ese".split(" "));
 
@@ -7885,8 +7885,35 @@ function mifasaLearnPrune() {
   list.slice(0, MIFASA_LEARN.mem.size - MIFASA_LEARN.max).forEach(r => mifasaLearnDel(r.id));
 }
 /* approved answers kept on the owner's server (GET /api/learned/export), refreshed every 6 hours */
+/* answers learned every day by learn-daily.js (GitHub Actions) and published on the site itself: learned/index.json -> learned/part-000N.json.
+   No Worker needed. A part is downloaded again only when its size changed; learned/banned.json removes answers the owner banned. */
+async function mifasaLearnLoadSite() {
+  if (typeof fetch === "undefined" || typeof localStorage === "undefined") return 0;
+  const getJ = async f => { const c = new AbortController(), t = setTimeout(() => c.abort(), 12000); try { const r = await fetch(f, { signal: c.signal, cache: "no-cache", credentials: "omit" }); return r.ok ? await r.json() : null; } catch (e) { return null; } finally { clearTimeout(t); } };
+  const idx = await getJ("learned/index.json"); if (!idx || !Array.isArray(idx.parts)) return 0;
+  let seen = {}; try { seen = JSON.parse(localStorage.getItem("mifasa_learn_site_v1") || "{}") || {}; } catch (e) {}
+  if (!MIFASA_LEARN.mem.size) seen = {};                                              // browser storage was cleared: load everything again
+  let n = 0; const batch = [];
+  for (const p of idx.parts) {
+    if (!p || !/^part-\d{4}\.json$/.test(p.file) || seen[p.file] === p.count) continue;
+    const d = await getJ("learned/" + p.file); if (!d || !Array.isArray(d.items)) continue;
+    d.items.forEach(x => { if (!x || !x.id || !x.answer || MIFASA_LEARN.mem.has(x.id) && MIFASA_LEARN.mem.get(x.id).site) return;
+      const old = MIFASA_LEARN.mem.get(x.id);
+      if (old && (old.status === "approved" || old.status === "rejected") && !old.site) return;                       // the owner's own decision wins
+      const rec = Object.assign({}, old || {}, x, { status: "approved", site: true, uses: (old && old.uses) || 0, updated: Date.now() });
+      MIFASA_LEARN.mem.set(rec.id, rec); batch.push(rec); n++; });
+    seen[p.file] = p.count;
+  }
+  const ban = await getJ("learned/banned.json");
+  if (ban) { const ids = new Set(ban.ids || []), ws = new Set((ban.words || []).map(w => String(w).toLowerCase()));
+    [...MIFASA_LEARN.mem.values()].forEach(r => { if (r.site && (ids.has(r.id) || ws.has(String(r.word || "").toLowerCase()))) mifasaLearnDel(r.id); }); }
+  if (batch.length && MIFASA_LEARN.db) { try { const tx = MIFASA_LEARN.db.transaction("items", "readwrite"), st = tx.objectStore("items"); batch.forEach(r => st.put(r)); } catch (e) {} }     // ONE transaction for the whole batch
+  try { localStorage.setItem("mifasa_learn_site_v1", JSON.stringify(seen)); } catch (e) {}
+  return n;
+}
 async function mifasaLearnLoadStatic() {
   try {
+    try { await mifasaLearnLoadSite(); } catch (e) { /* optional */ }
     const base = mifasaLearnBase(); if (!base) return;
     const last = +localStorage.getItem("mifasa_learn_static_ts") || 0;
     if (Date.now() - last < 6 * 3600 * 1000) return;
