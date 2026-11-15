@@ -1,6 +1,6 @@
 {
  "day": "2026-11-14",
- "count": 110,
+ "count": 111,
  "articles": [
   {
    "id": "crawl_ict9wi",
@@ -1478,6 +1478,26 @@
    "share_id": "MN202611_1v9di67pdct"
   },
   {
+   "id": "crawl_1yziqcr",
+   "title": "King jokes with Elton John as he marks 78th birthday with radio show",
+   "summary": "The monarch appears on a special episode to coincide with his 78th birthday on Saturday.",
+   "link": "https://www.bbc.co.uk/news/articles/ck0jx8pxxx6eo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ck0jx8pxxx6eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T10:02:59.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88dc/live/3611e330-e030-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88dc/live/3611e330-e030-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "King jokes with Elton John as he marks 78th birthday with radio show",
+   "summary_en": "The monarch appears on a special episode to coincide with his 78th birthday on Saturday.",
+   "share_id": "MN202611_1yziqcrbmtl"
+  },
+  {
    "id": "crawl_19he61w",
    "title": "#love #diamondplatnumz #zuchu # #wcb #wasafi",
    "summary": "#love #diamondplatnumz #zuchu # #wcb #wasafi",
@@ -2428,5 +2448,5 @@
    "share_id": "MN202611_151zgnivjho"
   }
  ],
- "updated": "2026-11-15T08:23:53.431Z"
+ "updated": "2026-11-15T09:10:48.840Z"
 }
