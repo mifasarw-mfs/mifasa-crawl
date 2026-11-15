@@ -339,7 +339,7 @@ function archiveItems(items) {
    Videos are never archived. A source can opt out with  "full": false  in crawl-feeds.json.
    Each run reads at most CFG.fullPerRun pages (newest days first), so the old archive fills up little by little. */
 const FULL_DIR = path.join(DIR, "news-full");
-CFG.fullPerRun = 10; CFG.fullMax = 40000; CFG.fullMinWords = 60;
+CFG.fullPerRun = +process.env.MIFASA_FULL_PER_RUN || (process.argv.includes("--mode=fast") ? 10 : 80); CFG.fullMax = 40000; CFG.fullMinWords = 60;   // every 5 min: 10 pages; hourly/all: 80 pages, so the whole archive fills up faster (set MIFASA_FULL_PER_RUN to change)
 function articleText(html) {
   html = String(html || "");
   let best = "";
