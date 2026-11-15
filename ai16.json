@@ -3502,6 +3502,30 @@
    ],
    "auto": true,
    "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_d825abf7_q",
+   "label_rw": "Umurongo Mpuzamahanga w'Itariki",
+   "label_en": "The International Date Line",
+   "patterns_en": [
+    "Where is the International Date Line located?",
+    "What happens when you cross the date line heading west?",
+    "Why does the International Date Line bend?"
+   ],
+   "patterns_rw": [
+    "Umurongo Mpuzamahanga w'Itariki uherereye he?",
+    "Bitwara iki iyo wambutse uyu murongo uva iburasirazuba?",
+    "Kuki uyu murongo udakurikira neza umurongo umwe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Umurongo Mpuzamahanga w'Itariki ni umurongo wo mu nyanja ya Pacific uhindura itariki. Iyo wambutse uva iburasirazuba ujya iburengerazuba, wongeraho umunsi umwe. Iyo uva iburengerazuba ujya iburasirazuba, ukuraho umunsi umwe. Uyu umurongo unyura hafi ya meridian ya 180.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The International Date Line is an imaginary line in the Pacific Ocean that marks the boundary between calendar dates. Crossing it from east to west adds one day. Crossing from west to east subtracts one day. The line generally follows the 180 degree meridian.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
   }
  ],
  "knowledge": [
@@ -6381,6 +6405,26 @@
     "economy",
     "u rwanda",
     "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_d825abf7",
+   "category": "world",
+   "title_rw": "Umurongo Mpuzamahanga w'Itariki",
+   "title_en": "The International Date Line",
+   "summary_rw": "Umurongo Mpuzamahanga w'Itariki ni umurongo wo mu nyanja ya Pacific uhindura itariki. Iyo wambutse uva iburasirazuba ujya iburengerazuba, wongeraho umunsi umwe. Iyo uva iburengerazuba ujya iburasirazuba, ukuraho umunsi umwe. Uyu umurongo unyura hafi ya meridian ya 180.",
+   "summary_en": "The International Date Line is an imaginary line in the Pacific Ocean that marks the boundary between calendar dates. Crossing it from east to west adds one day. Crossing from west to east subtracts one day. The line generally follows the 180 degree meridian.",
+   "keywords": [
+    "umurongo",
+    "itariki",
+    "pacific",
+    "igihe",
+    "date",
+    "line",
+    "time",
+    "ocean"
    ],
    "auto": true,
    "taught": "2026-11-15"
