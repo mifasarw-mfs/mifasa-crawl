@@ -1,7 +1,170 @@
 {
  "day": "2026-11-15",
- "count": 7,
+ "count": 15,
  "articles": [
+  {
+   "id": "crawl_zbg9db",
+   "title": "Perezida Kagame yitabiriye itangizwa ry'Inama ya 20 ya Francophonie",
+   "summary": "Perezida wa Repubulika y’u Rwanda, Paul Kagame, na Madamu Jeannette Kagame, bitabiriye umuhango wo gutangiza ku mugaragaro Inama ya 20 y’Abakuru b’Ibihugu na za Guverinoma bihuriye mu Muryango (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/perezida-kagame-yitabiriye-itangizwa-ry-inama-ya-20-ya-francophonie",
+   "url": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/perezida-kagame-yitabiriye-itangizwa-ry-inama-ya-20-ya-francophonie",
+   "date": "2026-11-15T07:22:21.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu mahanga",
+    "MobileBigStory",
+    "Tarib Abdul"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-15_at_07.27_34_1_.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-15_at_07.27_34_1_.jpg",
+   "title_rw": "Perezida Kagame yitabiriye itangizwa ry'Inama ya 20 ya Francophonie",
+   "summary_rw": "Perezida wa Repubulika y’u Rwanda, Paul Kagame, na Madamu Jeannette Kagame, bitabiriye umuhango wo gutangiza ku mugaragaro Inama ya 20 y’Abakuru b’Ibihugu na za Guverinoma bihuriye mu Muryango (…)",
+   "share_id": "MN202611_zbg9dbigwd"
+  },
+  {
+   "id": "crawl_69i9b3",
+   "title": "How Aston Villa are reclaiming their identity",
+   "summary": "Aston Villa Women are celebrating an important 30-year milestone on Sunday - but how are they trying to reclaim their identity?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm4gkgnkkn9zo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm4gkgnkkn9zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T07:12:05.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d8a/live/a96f30c0-e009-11f1-9fd4-8b3c9f9dfc89.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d8a/live/a96f30c0-e009-11f1-9fd4-8b3c9f9dfc89.jpg",
+   "title_en": "How Aston Villa are reclaiming their identity",
+   "summary_en": "Aston Villa Women are celebrating an important 30-year milestone on Sunday - but how are they trying to reclaim their identity?",
+   "share_id": "MN202611_69i9b3e8ot"
+  },
+  {
+   "id": "crawl_48p9wx",
+   "title": "'It's like you're in one of his paintings' Kyffin Williams' art brought to life",
+   "summary": "Technology similar to that used for exhibitions of Van Gogh, Cézanne and LS Lowry is being used.",
+   "link": "https://www.bbc.co.uk/news/articles/cwp9g9ey10dko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwp9g9ey10dko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T07:11:12.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/745f/live/62564500-dd27-11f1-ab46-9fae224bbf6f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/745f/live/62564500-dd27-11f1-ab46-9fae224bbf6f.jpg",
+   "title_en": "'It's like you're in one of his paintings' Kyffin Williams' art brought to life",
+   "summary_en": "Technology similar to that used for exhibitions of Van Gogh, Cézanne and LS Lowry is being used.",
+   "share_id": "MN202611_48p9wxi6dr"
+  },
+  {
+   "id": "crawl_mqtcr6",
+   "title": "Who am I? Guess WSL star No 12",
+   "summary": "Work out the identity of today's Women's Super League player in as few attempts as possible.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c32l8yzvjgx7o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c32l8yzvjgx7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T07:01:31.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d9/live/eb25ea50-9afd-11f1-b792-a710e56a11dc.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d9/live/eb25ea50-9afd-11f1-b792-a710e56a11dc.jpg",
+   "title_en": "Who am I? Guess WSL star No 12",
+   "summary_en": "Work out the identity of today's Women's Super League player in as few attempts as possible.",
+   "share_id": "MN202611_mqtcr6la5s"
+  },
+  {
+   "id": "crawl_whlxlj",
+   "title": "Who am I? Plus today's other quizzes",
+   "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c60mdnedvj2wo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c60mdnedvj2wo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T06:47:10.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+   "title_en": "Who am I? Plus today's other quizzes",
+   "summary_en": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "share_id": "MN202611_whlxljdv05"
+  },
+  {
+   "id": "crawl_rr3o8g",
+   "title": "Mental health is no joke - but I've turned it into a stand-up routine",
+   "summary": "People who have struggled with mental ill-health are giving stand-up a go to tell their stories.",
+   "link": "https://www.bbc.co.uk/news/articles/ck1l05lqjrq6o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ck1l05lqjrq6o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T06:41:46.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42e2/live/dacfa240-df59-11f1-a701-fddedf244c16.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42e2/live/dacfa240-df59-11f1-a701-fddedf244c16.jpg",
+   "title_en": "Mental health is no joke - but I've turned it into a stand-up routine",
+   "summary_en": "People who have struggled with mental ill-health are giving stand-up a go to tell their stories.",
+   "share_id": "MN202611_rr3o8gwkpa"
+  },
+  {
+   "id": "crawl_1a0a8pe",
+   "title": "Amerika yazanye iciyumviro c'uko Ukraine yoheba Donbas ikinjira muri OTAN- bivugwa na Zelensky",
+   "summary": "Amerika ntiremeza aya majambo yavuzwe na Perezida Zelensky wa Ukraine, umwe mu bategetsi yabwiye BBC ati: \"Ivyiyumviro vyinshi biracaganirwako\".",
+   "link": "https://www.bbc.com/gahuza/articles/c6x29lppvln8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/c6x29lppvln8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T06:36:09.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg",
+   "title_rw": "Amerika yazanye iciyumviro c'uko Ukraine yoheba Donbas ikinjira muri OTAN- bivugwa na Zelensky",
+   "summary_rw": "Amerika ntiremeza aya majambo yavuzwe na Perezida Zelensky wa Ukraine, umwe mu bategetsi yabwiye BBC ati: \"Ivyiyumviro vyinshi biracaganirwako\".",
+   "share_id": "MN202611_1a0a8pe3568"
+  },
+  {
+   "id": "crawl_14nwu3i",
+   "title": "Respect? Exposure? Why England's star names are going abroad",
+   "summary": "Harry Kane, Jude Bellingham and Anthony Gordon are three of England's current biggest stars, but all have chosen to play their club football abroad.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckdd17mq2pvmo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ckdd17mq2pvmo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T06:25:41.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10a/live/d6b0c900-df4a-11f1-a48c-75dd2efdacb5.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10a/live/d6b0c900-df4a-11f1-a48c-75dd2efdacb5.jpg",
+   "title_en": "Respect? Exposure? Why England's star names are going abroad",
+   "summary_en": "Harry Kane, Jude Bellingham and Anthony Gordon are three of England's current biggest stars, but all have chosen to play their club football abroad.",
+   "share_id": "MN202611_14nwu3iori4"
+  },
   {
    "id": "crawl_14dayyw",
    "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
@@ -143,5 +306,5 @@
    "share_id": "MN202611_nariwgkfda"
   }
  ],
- "updated": "2026-11-15T03:40:06.577Z"
+ "updated": "2026-11-15T07:28:59.279Z"
 }
