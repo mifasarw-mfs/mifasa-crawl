@@ -1,6 +1,6 @@
 # MIFASA video crawler (GitHub Actions, ubuntu): buri masaha 3 isoma RSS ya channels za YouTube (video-channels.json),
 # ikavugurura videos.json, ikayishyira kuri Neocities (Hub, na Promo niba ufite key yayo).
-# Secrets: NEOCITIES_API_KEY_HUB (ya mizeromifasa)   optional: NEOCITIES_API_KEY_PROMO
+# Secrets: NEOCITIES_API_KEY_HUB (ya mizeromifasa)   optional: NEOCITIES_API_KEY_PROMO, PEXELS_API_KEY (ubuntu: pexels.com/api)
 name: mifasa-video-crawler
 on:
   schedule: [{ cron: "17 */3 * * *" }]
@@ -16,6 +16,7 @@ jobs:
       - uses: actions/setup-node@v4
         with: { node-version: 20 }
       - run: node crawl-videos.js
+        env: { PEXELS_API_KEY: "${{ secrets.PEXELS_API_KEY }}" }
       - name: Commit changes
         id: keep
         run: |
