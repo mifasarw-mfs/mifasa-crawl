@@ -1,17 +1,57 @@
 [
  {
-  "id": "crawl_1o4851x",
-  "title": "California sues OpenAI over Hugging Face attack",
-  "summary": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
-  "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-16T23:12:24.000Z",
+  "id": "crawl_vq7h5v",
+  "title": "The AI start-ups fixing India's broken roads and messy land records",
+  "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
+  "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-16T23:25:53.000Z",
   "source": "BBC Technology",
   "category": "tech",
   "lang": "en",
   "keywords": [
    "BBC Technology",
    "tech"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/886f/live/a4a715f0-c892-11f1-b0a4-81e564f1cfaa.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/886f/live/a4a715f0-c892-11f1-b0a4-81e564f1cfaa.jpg",
+  "title_en": "The AI start-ups fixing India's broken roads and messy land records",
+  "summary_en": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
+  "share_id": "MN202611_vq7h5v0dmp"
+ },
+ {
+  "id": "crawl_hf6x5v",
+  "title": "Customers report service outages at major US banks",
+  "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+  "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-16T23:15:21.000Z",
+  "source": "BBC Business",
+  "category": "business",
+  "lang": "en",
+  "keywords": [
+   "BBC Business",
+   "business"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d633/live/6fb04df0-e212-11f1-b9ca-b9964628501b.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d633/live/6fb04df0-e212-11f1-b9ca-b9964628501b.jpg",
+  "title_en": "Customers report service outages at major US banks",
+  "summary_en": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+  "share_id": "MN202611_hf6x5vztmp"
+ },
+ {
+  "id": "crawl_1o4851x",
+  "title": "California sues OpenAI over Hugging Face attack",
+  "summary": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+  "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-16T23:12:24.000Z",
+  "source": "BBC Business",
+  "category": "business",
+  "lang": "en",
+  "keywords": [
+   "BBC Business",
+   "business"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
@@ -17290,45 +17330,5 @@
   "title_en": "Tech Life",
   "summary_en": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
   "share_id": "MN202611_3zt4qpm99b"
- },
- {
-  "id": "crawl_drub6j",
-  "title": "Tech Life",
-  "summary": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
-  "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-10T20:30:00.000Z",
-  "source": "BBC Technology",
-  "category": "tech",
-  "lang": "en",
-  "keywords": [
-   "BBC Technology",
-   "tech"
-  ],
-  "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm9xfz.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm9xfz.jpg",
-  "title_en": "Tech Life",
-  "summary_en": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
-  "share_id": "MN202611_drub6jkl15"
- },
- {
-  "id": "crawl_1ub87dn",
-  "title": "Tech Life",
-  "summary": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
-  "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-10T20:30:00.000Z",
-  "source": "BBC Technology",
-  "category": "tech",
-  "lang": "en",
-  "keywords": [
-   "BBC Technology",
-   "tech"
-  ],
-  "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm9xfz.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm9xfz.jpg",
-  "title_en": "Tech Life",
-  "summary_en": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
-  "share_id": "MN202611_1ub87dn8ard"
  }
 ]

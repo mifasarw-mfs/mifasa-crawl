@@ -1,7 +1,47 @@
 {
  "day": "2026-11-16",
- "count": 105,
+ "count": 107,
  "articles": [
+  {
+   "id": "crawl_vq7h5v",
+   "title": "The AI start-ups fixing India's broken roads and messy land records",
+   "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
+   "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T23:25:53.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/886f/live/a4a715f0-c892-11f1-b0a4-81e564f1cfaa.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/886f/live/a4a715f0-c892-11f1-b0a4-81e564f1cfaa.jpg",
+   "title_en": "The AI start-ups fixing India's broken roads and messy land records",
+   "summary_en": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
+   "share_id": "MN202611_vq7h5v0dmp"
+  },
+  {
+   "id": "crawl_hf6x5v",
+   "title": "Customers report service outages at major US banks",
+   "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+   "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T23:15:21.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d633/live/6fb04df0-e212-11f1-b9ca-b9964628501b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d633/live/6fb04df0-e212-11f1-b9ca-b9964628501b.jpg",
+   "title_en": "Customers report service outages at major US banks",
+   "summary_en": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+   "share_id": "MN202611_hf6x5vztmp"
+  },
   {
    "id": "crawl_1o4851x",
    "title": "California sues OpenAI over Hugging Face attack",
@@ -2138,5 +2178,5 @@
    "share_id": "MN202611_9h0okawny0"
   }
  ],
- "updated": "2026-11-16T23:14:22.593Z"
+ "updated": "2026-11-16T23:53:13.875Z"
 }
