@@ -1,7 +1,27 @@
 {
  "day": "2026-11-16",
- "count": 6,
+ "count": 7,
  "articles": [
+  {
+   "id": "crawl_u8iyzb",
+   "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
+   "summary": "The MP was allegedly run down by a car outside her electorate office four weeks ago.",
+   "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T01:53:19.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/083d/live/b9880d40-e15f-11f1-a6b7-c136ad7bd6e3.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/083d/live/b9880d40-e15f-11f1-a6b7-c136ad7bd6e3.jpg",
+   "title_en": "Australian MP who lost both legs in alleged car attack discharged from hospital",
+   "summary_en": "The MP was allegedly run down by a car outside her electorate office four weeks ago.",
+   "share_id": "MN202611_u8iyzbbvg5"
+  },
   {
    "id": "crawl_ruxm9f",
    "title": "Black Friday and tax return scams - don't fall for these",
@@ -124,5 +144,5 @@
    "share_id": "MN202611_9h0okawny0"
   }
  ],
- "updated": "2026-11-16T01:42:46.413Z"
+ "updated": "2026-11-16T02:43:57.367Z"
 }

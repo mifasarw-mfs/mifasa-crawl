@@ -1,6 +1,6 @@
 {
  "day": "2026-11-15",
- "count": 93,
+ "count": 94,
  "articles": [
   {
    "id": "crawl_i0zlqr",
@@ -201,6 +201,26 @@
    "title_en": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
    "summary_en": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
    "share_id": "MN202611_1ad6fi0zbyu"
+  },
+  {
+   "id": "crawl_c1nzc9",
+   "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+   "summary": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
+   "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T22:00:13.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba3f/live/22cfe9d0-e115-11f1-a7db-d90284d21c62.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba3f/live/22cfe9d0-e115-11f1-a7db-d90284d21c62.jpg",
+   "title_en": "Prince Harry praises war veterans on surprise visit to Ukraine",
+   "summary_en": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
+   "share_id": "MN202611_c1nzc9gvt3"
   },
   {
    "id": "crawl_12qbut3",
@@ -1929,5 +1949,5 @@
    "share_id": "MN202611_1aez83ul1ig"
   }
  ],
- "updated": "2026-11-16T00:11:43.062Z"
+ "updated": "2026-11-16T02:43:57.367Z"
 }
