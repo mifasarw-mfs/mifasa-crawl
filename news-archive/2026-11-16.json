@@ -1,7 +1,47 @@
 {
  "day": "2026-11-16",
- "count": 75,
+ "count": 78,
  "articles": [
+  {
+   "id": "crawl_1b768a9",
+   "title": "Wales without injured Williams for Portugal game",
+   "summary": "Wales will be without right-back Neco Williams for their final Nations League group match against Portugal, while goalkeeper Karl Darlow is a doubt.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmkgk3nv6pqyo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmkgk3nv6pqyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T15:55:16.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d83/live/350960d0-e1c5-11f1-8a52-0b287ff76f43.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d83/live/350960d0-e1c5-11f1-8a52-0b287ff76f43.jpg",
+   "title_en": "Wales without injured Williams for Portugal game",
+   "summary_en": "Wales will be without right-back Neco Williams for their final Nations League group match against Portugal, while goalkeeper Karl Darlow is a doubt.",
+   "share_id": "MN202611_1b768a9y5ov"
+  },
+  {
+   "id": "crawl_k9amr5",
+   "title": "South Africa recall Etzebeth for Ireland match",
+   "summary": "South Africa record cap holder Eben Etzebeth is recalled for Saturday's much-anticipated Nations Championship game against Ireland in Dublin.",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c8lyd2l9336qo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c8lyd2l9336qo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T15:46:57.000Z",
+   "source": "BBC Sport Africa",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Sport Africa",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5da/live/f2eea070-e1d3-11f1-b8c8-67fa35f5afdb.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5da/live/f2eea070-e1d3-11f1-b8c8-67fa35f5afdb.jpg",
+   "title_en": "South Africa recall Etzebeth for Ireland match",
+   "summary_en": "South Africa record cap holder Eben Etzebeth is recalled for Saturday's much-anticipated Nations Championship game against Ireland in Dublin.",
+   "share_id": "MN202611_k9amr5z93j"
+  },
   {
    "id": "crawl_dsmwhs",
    "title": "James Bond: What we know so far about the next 007 film",
@@ -101,6 +141,26 @@
    "title_en": "Raye, Rosalia and Dolly Parton recognised in Grammy nominations",
    "summary_en": "British singer Raye lands 11 nominations while Dolly Parton is recognised two months after her death.",
    "share_id": "MN202611_1cxttidmpz7"
+  },
+  {
+   "id": "crawl_1l90xzl",
+   "title": "Prendergast could miss South Africa game after being cited",
+   "summary": "Ireland fly-half Sam Prendergast is in danger of missing Saturday's Nations Championship match against South Africa after being cited for a tackle against Fiji.",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c3pw42zrp4peo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c3pw42zrp4peo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T14:31:37.000Z",
+   "source": "BBC Sport Africa",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Sport Africa",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cda/live/230309b0-e1c3-11f1-8a52-0b287ff76f43.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cda/live/230309b0-e1c3-11f1-8a52-0b287ff76f43.jpg",
+   "title_en": "Prendergast could miss South Africa game after being cited",
+   "summary_en": "Ireland fly-half Sam Prendergast is in danger of missing Saturday's Nations Championship match against South Africa after being cited for a tackle against Fiji.",
+   "share_id": "MN202611_1l90xzlpkbz"
   },
   {
    "id": "crawl_16ub3b9",
@@ -1530,5 +1590,5 @@
    "share_id": "MN202611_9h0okawny0"
   }
  ],
- "updated": "2026-11-16T15:58:44.792Z"
+ "updated": "2026-11-16T16:14:10.908Z"
 }
