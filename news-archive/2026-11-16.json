@@ -1,7 +1,70 @@
 {
  "day": "2026-11-16",
- "count": 81,
+ "count": 84,
  "articles": [
+  {
+   "id": "crawl_1qsgm30",
+   "title": "U Rwanda rugiye kuganira n'ibihugu bitanu uburyo rwakwakira abimukira birukanywe i Burayi",
+   "summary": "Rwanda n’ibihugu bitanu bigize Umuryango w’Ubumwe bw’u Burayi (EU) byatangiye ibiganiro bigamije gushyiraho uburyo bwo kujyana mu Rwanda abimukira batemerewe gukomeza kuba muri ibyo bihugu, mu (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/u-rwanda-rugiye-kuganira-n-ibihugu-bitanu-uburyo-rwakwakira-abimukira-birukanywe-i-burayi",
+   "url": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/u-rwanda-rugiye-kuganira-n-ibihugu-bitanu-uburyo-rwakwakira-abimukira-birukanywe-i-burayi",
+   "date": "2026-11-16T17:11:50.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu mahanga"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/golden_partnership__europe_and_rwanda_1_.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/golden_partnership__europe_and_rwanda_1_.png",
+   "title_rw": "U Rwanda rugiye kuganira n'ibihugu bitanu uburyo rwakwakira abimukira birukanywe i Burayi",
+   "summary_rw": "Rwanda n’ibihugu bitanu bigize Umuryango w’Ubumwe bw’u Burayi (EU) byatangiye ibiganiro bigamije gushyiraho uburyo bwo kujyana mu Rwanda abimukira batemerewe gukomeza kuba muri ibyo bihugu, mu (…)",
+   "share_id": "MN202611_1qsgm30hkve"
+  },
+  {
+   "id": "crawl_nqzyg8",
+   "title": "Amashyirahamwe ya Ruhago i Burayi yatanze umukandida uzahatanira na Infantino kuyobora FIFA",
+   "summary": "Amashyirahamwe y’umupira w’amaguru yo ku mugabane w’i Burayi ahagarariwe mu Nama Nyobozi ya UEFA no muri FIFA Council, yahurije ku gushyigikira Philippe Diallo, Perezida w’Ishyirahamwe ry’Umupira (…)",
+   "link": "https://www.kigalitoday.com/imikino/football/article/amashyirahamwe-ya-ruhago-i-burayi-yatanze-umukandida-uzahatanira-na-infantino-kuyobora-fifa",
+   "url": "https://www.kigalitoday.com/imikino/football/article/amashyirahamwe-ya-ruhago-i-burayi-yatanze-umukandida-uzahatanira-na-infantino-kuyobora-fifa",
+   "date": "2026-11-16T17:11:18.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Football",
+    "Ruzindana Janvier"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/img-20261116-wa0017.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/img-20261116-wa0017.jpg",
+   "title_rw": "Amashyirahamwe ya Ruhago i Burayi yatanze umukandida uzahatanira na Infantino kuyobora FIFA",
+   "summary_rw": "Amashyirahamwe y’umupira w’amaguru yo ku mugabane w’i Burayi ahagarariwe mu Nama Nyobozi ya UEFA no muri FIFA Council, yahurije ku gushyigikira Philippe Diallo, Perezida w’Ishyirahamwe ry’Umupira (…)",
+   "share_id": "MN202611_nqzyg80x8m"
+  },
+  {
+   "id": "crawl_18tz8z6",
+   "title": "Cameroon and Senegal close in on Afcon 2027 qualification",
+   "summary": "Cameroon and Senegal are on the brink of qualifying for the 2027 Africa Cup of Nations, while Ghana secure another crucial victory in their bid to reach the finals.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwg7lr2ly3ngo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwg7lr2ly3ngo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T17:07:04.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9751/live/dd2677a0-e1d7-11f1-ac67-3510ff19b64e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9751/live/dd2677a0-e1d7-11f1-ac67-3510ff19b64e.jpg",
+   "title_en": "Cameroon and Senegal close in on Afcon 2027 qualification",
+   "summary_en": "Cameroon and Senegal are on the brink of qualifying for the 2027 Africa Cup of Nations, while Ghana secure another crucial victory in their bid to reach the finals.",
+   "share_id": "MN202611_18tz8z6r6ds"
+  },
   {
    "id": "crawl_1vpwzd4",
    "title": "Rwanda to Retain Full Control Over EU Migrants It Receives",
@@ -1653,5 +1716,5 @@
    "share_id": "MN202611_9h0okawny0"
   }
  ],
- "updated": "2026-11-16T17:05:20.267Z"
+ "updated": "2026-11-16T17:24:23.755Z"
 }
