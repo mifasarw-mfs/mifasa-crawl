@@ -1,7 +1,108 @@
 {
  "day": "2026-11-16",
- "count": 1,
+ "count": 6,
  "articles": [
+  {
+   "id": "crawl_ruxm9f",
+   "title": "Black Friday and tax return scams - don't fall for these",
+   "summary": "Tens of thousands of scams are reported to HMRC - so it has advice on how to spot a fake request and refund.",
+   "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T00:50:39.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab33/live/9ed5ff60-dea9-11f1-98eb-79ee6ea9ba56.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab33/live/9ed5ff60-dea9-11f1-98eb-79ee6ea9ba56.jpg",
+   "title_en": "Black Friday and tax return scams - don't fall for these",
+   "summary_en": "Tens of thousands of scams are reported to HMRC - so it has advice on how to spot a fake request and refund.",
+   "share_id": "MN202611_ruxm9fqiq9"
+  },
+  {
+   "id": "crawl_xf84du",
+   "title": "Cancer 'sponge' tests could be offered to more people with bad indigestion",
+   "summary": "The \"sponge on a string\" tests can be done in GP surgeries, rather than hospitals, unlike endoscopy checks that use a small camera.",
+   "link": "https://www.bbc.co.uk/news/articles/cm5y13q0gx97o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm5y13q0gx97o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T00:47:04.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07cd/live/8214d800-df5e-11f1-a8af-15d7a25dc0d1.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07cd/live/8214d800-df5e-11f1-a8af-15d7a25dc0d1.png",
+   "title_en": "Cancer 'sponge' tests could be offered to more people with bad indigestion",
+   "summary_en": "The \"sponge on a string\" tests can be done in GP surgeries, rather than hospitals, unlike endoscopy checks that use a small camera.",
+   "share_id": "MN202611_xf84du10uo"
+  },
+  {
+   "id": "crawl_19stfsy",
+   "title": "Rwanda Backs UN Draft on Mercenaries, Calling for Equal Application of International Norms",
+   "summary": "Rwanda voted in favour of a draft resolution addressing the use of mercenaries to violate human rights and obstruct peoples’ right to self-determination, as the United Nations General Assembly’s Third Committee approved the text on November 13. The draft, A/C.3/81/L.35, received 117 votes in favour, 54 against and seven abstentions. The image of the recorded […] The post Rwanda Backs UN Draft on…",
+   "link": "https://taarifa.rw/2026/11/16/rwanda-backs-un-draft-on-mercenaries-calling-for-equal-application-of-international-norms/",
+   "url": "https://taarifa.rw/2026/11/16/rwanda-backs-un-draft-on-mercenaries-calling-for-equal-application-of-international-norms/",
+   "date": "2026-11-16T00:45:59.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "Politics"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/DE491F60-083D-42A9-8B2B-831AC973EBC1.jpeg?fit=1280%2C856&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/DE491F60-083D-42A9-8B2B-831AC973EBC1.jpeg?fit=1280%2C856&ssl=1",
+   "title_en": "Rwanda Backs UN Draft on Mercenaries, Calling for Equal Application of International Norms",
+   "summary_en": "Rwanda voted in favour of a draft resolution addressing the use of mercenaries to violate human rights and obstruct peoples’ right to self-determination, as the United Nations General Assembly’s Third Committee approved the text on November 13. The draft, A/C.3/81/L.35, received 117 votes in favour, 54 against and seven abstentions. The image of the recorded […] The post Rwanda Backs UN Draft on…",
+   "share_id": "MN202611_19stfsylmjk"
+  },
+  {
+   "id": "crawl_50addc",
+   "title": "Russia's mega-rich are already imagining a future after Putin",
+   "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+   "link": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T00:13:14.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d12/live/ba3084e0-de83-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d12/live/ba3084e0-de83-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "Russia's mega-rich are already imagining a future after Putin",
+   "summary_en": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+   "share_id": "MN202611_50addc39u6"
+  },
+  {
+   "id": "crawl_xqo0jm",
+   "title": "Town destroyed by flood rebuilt by Libya's strongman - but questions remain",
+   "summary": "The remarkable reconstruction of Derna is being used as a showcase for the rest of Libya by Khalifa Haftar and his sons.",
+   "link": "https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T00:11:12.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f0a/live/616751f0-df68-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f0a/live/616751f0-df68-11f1-b441-2b33b063138f.jpg",
+   "title_en": "Town destroyed by flood rebuilt by Libya's strongman - but questions remain",
+   "summary_en": "The remarkable reconstruction of Derna is being used as a showcase for the rest of Libya by Khalifa Haftar and his sons.",
+   "share_id": "MN202611_xqo0jmgx0g"
+  },
   {
    "id": "crawl_9h0oka",
    "title": "How did England cling on against Spain and what did Tuchel do differently?",
@@ -23,5 +124,5 @@
    "share_id": "MN202611_9h0okawny0"
   }
  ],
- "updated": "2026-11-16T00:11:43.061Z"
+ "updated": "2026-11-16T01:42:46.413Z"
 }
