@@ -1,7 +1,68 @@
 {
  "day": "2026-11-16",
- "count": 35,
+ "count": 38,
  "articles": [
+  {
+   "id": "crawl_yf1ty0",
+   "title": "Louise Mushikiwabo agiye gukomeza kuyobora Francophonie nyuma yuko amatora ananiranye",
+   "summary": "Iri subikwa ry'amatora ni bwo bwa mbere ribayeho mu mateka ya OIF, buri gihe yashyiragaho umunyamabanga mukuru hagendewe ku mukandida uhuriweho na bose.",
+   "link": "https://www.bbc.com/gahuza/articles/cxr5g623vnz4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/cxr5g623vnz4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T09:34:01.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/db8b/live/f9327800-e19f-11f1-b0a4-450a350911f4.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/db8b/live/f9327800-e19f-11f1-b0a4-450a350911f4.jpg",
+   "title_rw": "Louise Mushikiwabo agiye gukomeza kuyobora Francophonie nyuma yuko amatora ananiranye",
+   "summary_rw": "Iri subikwa ry'amatora ni bwo bwa mbere ribayeho mu mateka ya OIF, buri gihe yashyiragaho umunyamabanga mukuru hagendewe ku mukandida uhuriweho na bose.",
+   "share_id": "MN202611_yf1ty0uqeu"
+  },
+  {
+   "id": "crawl_1agoda9",
+   "title": "OIF Secretary General Elections Postponed For a Year",
+   "summary": "Taarifa Investigative Desk has reliably established from a french source that elections for the next Secretary General of the La Francophonie organisation have been postponed for one year. “The election of the secretary-general of the International Organisation of La Francophonie (#OIF) was due to take place on Monday, November 16 in Phnom Penh, #Cambodge, but […] The post OIF Secretary General…",
+   "link": "https://taarifa.rw/2026/11/16/oif-secretary-general-elections-postponed-for-a-year/",
+   "url": "https://taarifa.rw/2026/11/16/oif-secretary-general-elections-postponed-for-a-year/",
+   "date": "2026-11-16T09:15:52.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "La Francophonie Cambodia Special Report"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261116-111523.jpg?fit=720%2C378&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261116-111523.jpg?fit=720%2C378&ssl=1",
+   "title_en": "OIF Secretary General Elections Postponed For a Year",
+   "summary_en": "Taarifa Investigative Desk has reliably established from a french source that elections for the next Secretary General of the La Francophonie organisation have been postponed for one year. “The election of the secretary-general of the International Organisation of La Francophonie (#OIF) was due to take place on Monday, November 16 in Phnom Penh, #Cambodge, but […] The post OIF Secretary General…",
+   "share_id": "MN202611_1agoda9ogwv"
+  },
+  {
+   "id": "crawl_162b8kx",
+   "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
+   "summary": "The UK, Australia, Canada and Italy say Israeli authorities are holding back vital supplies at the borders, including 150,00 tents.",
+   "link": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T08:56:04.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c14/live/abcff740-e181-11f1-9386-1b849272ca8f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c14/live/abcff740-e181-11f1-9386-1b849272ca8f.jpg",
+   "title_en": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
+   "summary_en": "The UK, Australia, Canada and Italy say Israeli authorities are holding back vital supplies at the borders, including 150,00 tents.",
+   "share_id": "MN202611_162b8kx451r"
+  },
   {
    "id": "crawl_usxywg",
    "title": "FrancoTech 2026 Features Precision Farming to Boost Productivity, Exports",
@@ -711,5 +772,5 @@
    "share_id": "MN202611_9h0okawny0"
   }
  ],
- "updated": "2026-11-16T09:01:43.887Z"
+ "updated": "2026-11-16T10:00:39.074Z"
 }
