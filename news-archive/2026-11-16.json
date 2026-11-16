@@ -1,7 +1,27 @@
 {
  "day": "2026-11-16",
- "count": 38,
+ "count": 39,
  "articles": [
+  {
+   "id": "crawl_1giw6rw",
+   "title": "At Francophonie, Rwanda’s Mushikiwabo Stay On For Another Year As Secretary-General",
+   "summary": "PHNOM PENH – The contest over who should lead the International Organization of La Francophonie (OIF) has exposed deep diplomatic divisions within an organization whose founding principle is to bring… The post At Francophonie, Rwanda’s Mushikiwabo Stay On For Another Year As Secretary-General appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/at-francophonie-rwandas-mushikiwabo-stay-on-for-another-year-as-secretary-general/",
+   "url": "https://www.ktpress.rw/2026/11/at-francophonie-rwandas-mushikiwabo-stay-on-for-another-year-as-secretary-general/",
+   "date": "2026-11-16T10:27:01.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "International",
+    "big-story"
+   ],
+   "title_en": "At Francophonie, Rwanda’s Mushikiwabo Stay On For Another Year As Secretary-General",
+   "summary_en": "PHNOM PENH – The contest over who should lead the International Organization of La Francophonie (OIF) has exposed deep diplomatic divisions within an organization whose founding principle is to bring… The post At Francophonie, Rwanda’s Mushikiwabo Stay On For Another Year As Secretary-General appeared first on KT PRESS .",
+   "share_id": "MN202611_1giw6rwz7sa"
+  },
   {
    "id": "crawl_yf1ty0",
    "title": "Louise Mushikiwabo agiye gukomeza kuyobora Francophonie nyuma yuko amatora ananiranye",
@@ -772,5 +792,5 @@
    "share_id": "MN202611_9h0okawny0"
   }
  ],
- "updated": "2026-11-16T10:00:39.074Z"
+ "updated": "2026-11-16T10:38:05.841Z"
 }
