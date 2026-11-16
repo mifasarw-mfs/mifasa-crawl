@@ -1,7 +1,67 @@
 {
  "day": "2026-11-16",
- "count": 14,
+ "count": 20,
  "articles": [
+  {
+   "id": "crawl_1t54gcy",
+   "title": "Beavers could return to river separating counties",
+   "summary": "A trust says the river-dwelling mammals could improve the health of the waterway.",
+   "link": "https://www.bbc.co.uk/news/articles/cm3rglzqjl90o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm3rglzqjl90o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T06:27:27.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3245/live/d32d3880-3574-11f0-a288-d583f745f4b6.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3245/live/d32d3880-3574-11f0-a288-d583f745f4b6.jpg",
+   "title_en": "Beavers could return to river separating counties",
+   "summary_en": "A trust says the river-dwelling mammals could improve the health of the waterway.",
+   "share_id": "MN202611_1t54gcyxcts"
+  },
+  {
+   "id": "crawl_oaclm1",
+   "title": "Gas starts flowing from Jackdaw after government green light",
+   "summary": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
+   "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T06:24:08.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0f7/live/b14e4e00-e123-11f1-9198-73c27e618086.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0f7/live/b14e4e00-e123-11f1-9198-73c27e618086.jpg",
+   "title_en": "Gas starts flowing from Jackdaw after government green light",
+   "summary_en": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
+   "share_id": "MN202611_oaclm15i2v"
+  },
+  {
+   "id": "crawl_e79rju",
+   "title": "Who am I? Plus today's other quizzes",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqy0el2jy17ro?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqy0el2jy17ro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T06:23:57.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+   "title_en": "Who am I? Plus today's other quizzes",
+   "summary_en": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "share_id": "MN202611_e79rju5qxk"
+  },
   {
    "id": "crawl_1ut4ex2",
    "title": "Pupils fascinated by space get astronomy lesson",
@@ -21,6 +81,46 @@
    "title_en": "Pupils fascinated by space get astronomy lesson",
    "summary_en": "Pupils at First Tower School get a visit from a University of Cambridge astronomer.",
    "share_id": "MN202611_1ut4ex2xbdw"
+  },
+  {
+   "id": "crawl_1xukylb",
+   "title": "Harry Potter films at 25: Behind-the-scenes quiz",
+   "summary": "Celebrate 25 years of the Harry Potter films with this behind-the-scenes quiz.",
+   "link": "https://www.bbc.co.uk/news/articles/ck8790rrqx57o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ck8790rrqx57o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T06:11:10.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc14/live/dd1820f0-df80-11f1-a701-fddedf244c16.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc14/live/dd1820f0-df80-11f1-a701-fddedf244c16.jpg",
+   "title_en": "Harry Potter films at 25: Behind-the-scenes quiz",
+   "summary_en": "Celebrate 25 years of the Harry Potter films with this behind-the-scenes quiz.",
+   "share_id": "MN202611_1xukylbdv25"
+  },
+  {
+   "id": "crawl_12cgjlq",
+   "title": "Mansion featured in Rivals drops price by £1.5m after failing to sell",
+   "summary": "The house was put up for sale with an £8m price tag in May before estate agents cut it to £6.5m.",
+   "link": "https://www.bbc.co.uk/news/articles/ck053g1rz103o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ck053g1rz103o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T06:07:23.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2896/live/be50d9e0-5c1e-11f1-92d1-ab2daf594570.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2896/live/be50d9e0-5c1e-11f1-92d1-ab2daf594570.jpg",
+   "title_en": "Mansion featured in Rivals drops price by £1.5m after failing to sell",
+   "summary_en": "The house was put up for sale with an £8m price tag in May before estate agents cut it to £6.5m.",
+   "share_id": "MN202611_12cgjlq9g2k"
   },
   {
    "id": "crawl_1n9k4my",
@@ -164,6 +264,26 @@
    "share_id": "MN202611_u8iyzbbvg5"
   },
   {
+   "id": "crawl_15k3nwe",
+   "title": "Brand moved from Wandsworth to category C prison, his wife confirms on podcast",
+   "summary": "The convicted rapist has been moved to HMP Littlehey, which houses sex offenders.",
+   "link": "https://www.bbc.co.uk/news/articles/cm7024p1ded3o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm7024p1ded3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T01:22:50.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c7/live/710dd010-e12b-11f1-a2d0-ff163dc3689d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c7/live/710dd010-e12b-11f1-a2d0-ff163dc3689d.jpg",
+   "title_en": "Brand moved from Wandsworth to category C prison, his wife confirms on podcast",
+   "summary_en": "The convicted rapist has been moved to HMP Littlehey, which houses sex offenders.",
+   "share_id": "MN202611_15k3nwewkd8"
+  },
+  {
    "id": "crawl_ruxm9f",
    "title": "Black Friday and tax return scams - don't fall for these",
    "summary": "Tens of thousands of scams are reported to HMRC - so it has advice on how to spot a fake request and refund.",
@@ -285,5 +405,5 @@
    "share_id": "MN202611_9h0okawny0"
   }
  ],
- "updated": "2026-11-16T06:19:27.762Z"
+ "updated": "2026-11-16T07:04:41.295Z"
 }
