@@ -3933,6 +3933,102 @@
    ],
    "auto": true,
    "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_c76bb6b2_q",
+   "label_rw": "Ubwiyongere bw'Igiciro cy'Ibintu",
+   "label_en": "Understanding Inflation",
+   "patterns_en": [
+    "What is inflation?",
+    "What causes inflation?",
+    "How does inflation affect our daily lives?"
+   ],
+   "patterns_rw": [
+    "Ubwiyongere bw'igiciro cy'ibintu ni iki?",
+    "Ni iki gitera ubwiyongere bw'igiciro cy'ibintu?",
+    "Ni gute ubwiyongere bw'igiciro cy'ibintu bugira ingaruka ku buzima bwacu?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubwiyongere bw'igiciro cy'ibintu ni igihe agaciro k'amafaranga kagabanuka mu gihe ibiciro by'ibyenerwa byose byiyongera. Ibi bituma abantu bagura bike ugereranyije na mbere. Banki Nkuru y'Igihugu igenzura ubwo bwiyongere kugira ngo ubukungu bukomeze kuba bwiza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Inflation is the general increase in prices and fall in the purchasing value of money over time. This means people can buy less with the same amount of money. Central banks usually monitor and manage inflation to keep the economy stable.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_9d17cc4e_q",
+   "label_rw": "Gushyiraho Ntego z'Imari",
+   "label_en": "Financial Goal Setting",
+   "patterns_en": [
+    "What are financial goals?",
+    "How can someone achieve long-term goals?",
+    "Why is saving important in life?"
+   ],
+   "patterns_rw": [
+    "Ni iki gisobanuro cy'intego z'imari?",
+    "Twageraho dute ku ntego z'igihe kirekire?",
+    "Kuki kuzigama ari ingenzi mu buzima?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gushyiraho ntego z'imari bifasha umuntu gutegura ejo heza. Bigabanyije mu ntego z'igihe gito n'igihe kirekire. Gutegura neza bifasha kwirinda imyenda no kugera ku bwisanzure bw'amafaranga. Burijwe umuntu akwiriye kugira gahunda ihamye yo kuzigama no gukoresha neza umutungo we.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Financial goal setting helps individuals plan for their future. Goals are typically divided into short-term and long-term categories. Proper planning helps avoid debt and achieves financial independence. Everyone should have a consistent plan for saving and managing their resources effectively.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_e7785666_q",
+   "label_rw": "Inkomoko zitandukanye z'amafaranga y'injiza",
+   "label_en": "Multiple streams of income",
+   "patterns_en": [
+    "What are multiple streams of income?",
+    "Why do people seek multiple sources of revenue?",
+    "How does having multiple income streams help financially?"
+   ],
+   "patterns_rw": [
+    "Inkomoko zitandukanye z'amafaranga ni iki?",
+    "Ni iki gituma abantu bashaka amasoko menshi y'amafaranga?",
+    "Kugira inkomoko nyinshi z'amafaranga bifasha gute?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kugira inkomoko zitandukanye z'amafaranga y'injiza bisobanura ko umuntu afite amasoko menshi y'amafaranga. Bishobora kurinda umuntu ingorane z'imari igihe kimwe cy'ubucuruzi cyangwa akazi gihuye n'ibibazo. Bifasha abantu kongera umutungo wabo no kugera ku ntego zabo z'imari byihuse.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Multiple streams of income means having more than one source of revenue. This financial strategy can help protect individuals if one business or job faces difficulties. It usually helps people grow their wealth and achieve their financial goals faster.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_01e29e6d_q",
+   "label_rw": "Gusobanukirwa Inyandiko z'Imari",
+   "label_en": "Understanding Financial Statements",
+   "patterns_en": [
+    "What are financial statements composed of?",
+    "Why are financial statements important for a business?",
+    "What shows the profit and loss of a company?"
+   ],
+   "patterns_rw": [
+    "Inyandiko z'imari zigizwe n'iki?",
+    "Kuki inyandiko z'imari ari ingenzi ku bucuruzi?",
+    "Ni iki cyerekana inyungu n'igihombo cy'ikigo?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Inyandiko z'imari zerekana uko ubucuruzi buhagaze mu buryo bw'amafaranga. Zirimo urupapuro rw'ibyo umutungo n'imyenda bingana, n'urupapuro rw'inyungu n'igihombo. Ibi bifasha abayobozi n'abashoramari gufata ibyemezo byiza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Financial statements show the financial position of a business. They typically include the balance sheet and the income statement. These documents help managers and investors make informed decisions.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
   }
  ],
  "knowledge": [
@@ -7165,6 +7261,86 @@
     "imbyino",
     "gakondo",
     "ubutwari"
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_c76bb6b2",
+   "category": "finance",
+   "title_rw": "Ubwiyongere bw'Igiciro cy'Ibintu",
+   "title_en": "Understanding Inflation",
+   "summary_rw": "Ubwiyongere bw'igiciro cy'ibintu ni igihe agaciro k'amafaranga kagabanuka mu gihe ibiciro by'ibyenerwa byose byiyongera. Ibi bituma abantu bagura bike ugereranyije na mbere. Banki Nkuru y'Igihugu igenzura ubwo bwiyongere kugira ngo ubukungu bukomeze kuba bwiza.",
+   "summary_en": "Inflation is the general increase in prices and fall in the purchasing value of money over time. This means people can buy less with the same amount of money. Central banks usually monitor and manage inflation to keep the economy stable.",
+   "keywords": [
+    "ubwiyongere",
+    "inflation",
+    "ibiciro",
+    "prices",
+    "ubukungu",
+    "economy",
+    "amafaranga",
+    "money"
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_9d17cc4e",
+   "category": "finance",
+   "title_rw": "Gushyiraho Ntego z'Imari",
+   "title_en": "Financial Goal Setting",
+   "summary_rw": "Gushyiraho ntego z'imari bifasha umuntu gutegura ejo heza. Bigabanyije mu ntego z'igihe gito n'igihe kirekire. Gutegura neza bifasha kwirinda imyenda no kugera ku bwisanzure bw'amafaranga. Burijwe umuntu akwiriye kugira gahunda ihamye yo kuzigama no gukoresha neza umutungo we.",
+   "summary_en": "Financial goal setting helps individuals plan for their future. Goals are typically divided into short-term and long-term categories. Proper planning helps avoid debt and achieves financial independence. Everyone should have a consistent plan for saving and managing their resources effectively.",
+   "keywords": [
+    "imari",
+    "intego",
+    "kuzigama",
+    "ubukungu",
+    "finance",
+    "goals",
+    "saving",
+    "budget"
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_e7785666",
+   "category": "finance",
+   "title_rw": "Inkomoko zitandukanye z'amafaranga y'injiza",
+   "title_en": "Multiple streams of income",
+   "summary_rw": "Kugira inkomoko zitandukanye z'amafaranga y'injiza bisobanura ko umuntu afite amasoko menshi y'amafaranga. Bishobora kurinda umuntu ingorane z'imari igihe kimwe cy'ubucuruzi cyangwa akazi gihuye n'ibibazo. Bifasha abantu kongera umutungo wabo no kugera ku ntego zabo z'imari byihuse.",
+   "summary_en": "Multiple streams of income means having more than one source of revenue. This financial strategy can help protect individuals if one business or job faces difficulties. It usually helps people grow their wealth and achieve their financial goals faster.",
+   "keywords": [
+    "inkomoko",
+    "amafaranga",
+    "imari",
+    "ubucuruzi",
+    "mutungo",
+    "income",
+    "wealth",
+    "finance"
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_01e29e6d",
+   "category": "finance",
+   "title_rw": "Gusobanukirwa Inyandiko z'Imari",
+   "title_en": "Understanding Financial Statements",
+   "summary_rw": "Inyandiko z'imari zerekana uko ubucuruzi buhagaze mu buryo bw'amafaranga. Zirimo urupapuro rw'ibyo umutungo n'imyenda bingana, n'urupapuro rw'inyungu n'igihombo. Ibi bifasha abayobozi n'abashoramari gufata ibyemezo byiza.",
+   "summary_en": "Financial statements show the financial position of a business. They typically include the balance sheet and the income statement. These documents help managers and investors make informed decisions.",
+   "keywords": [
+    "imari",
+    "ubucuruzi",
+    "inyungu",
+    "umutungo",
+    "finance",
+    "business",
+    "profit",
+    "assets"
    ],
    "auto": true,
    "taught": "2026-11-16"
