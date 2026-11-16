@@ -1,7 +1,47 @@
 {
  "day": "2026-11-16",
- "count": 7,
+ "count": 9,
  "articles": [
+  {
+   "id": "crawl_pbos6x",
+   "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+   "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+   "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T03:08:31.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg",
+   "title_en": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+   "summary_en": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+   "share_id": "MN202611_pbos6xhonr"
+  },
+  {
+   "id": "crawl_xi87m6",
+   "title": "Investors sue chip giant Intel after 29% stock plunge",
+   "summary": "A proposed class action says Intel hid the impact of slowing sales, inflating its shares.",
+   "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T03:04:01.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e63c/live/afebacc0-e14f-11f1-8fb1-c394c4317b6a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e63c/live/afebacc0-e14f-11f1-8fb1-c394c4317b6a.jpg",
+   "title_en": "Investors sue chip giant Intel after 29% stock plunge",
+   "summary_en": "A proposed class action says Intel hid the impact of slowing sales, inflating its shares.",
+   "share_id": "MN202611_xi87m61430"
+  },
   {
    "id": "crawl_u8iyzb",
    "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
@@ -144,5 +184,5 @@
    "share_id": "MN202611_9h0okawny0"
   }
  ],
- "updated": "2026-11-16T02:43:57.367Z"
+ "updated": "2026-11-16T03:47:39.189Z"
 }

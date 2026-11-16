@@ -1,6 +1,6 @@
 {
  "day": "2026-11-15",
- "count": 94,
+ "count": 95,
  "articles": [
   {
    "id": "crawl_i0zlqr",
@@ -161,6 +161,26 @@
    "title_en": "London City earn point in thrilling draw against Arsenal",
    "summary_en": "London City Lionesses prove their elite credentials in a thrilling draw with Arsenal at Emirates Stadium.",
    "share_id": "MN202611_we18xrekf1"
+  },
+  {
+   "id": "crawl_1a0f1cq",
+   "title": "Canada bars Russia from Junior World Championships",
+   "summary": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
+   "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T22:01:16.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f27/live/38d2f5c0-e132-11f1-a204-d95dd4dbb76b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f27/live/38d2f5c0-e132-11f1-a204-d95dd4dbb76b.jpg",
+   "title_en": "Canada bars Russia from Junior World Championships",
+   "summary_en": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
+   "share_id": "MN202611_1a0f1cqqg3c"
   },
   {
    "id": "crawl_1k9s3qn",
@@ -1949,5 +1969,5 @@
    "share_id": "MN202611_1aez83ul1ig"
   }
  ],
- "updated": "2026-11-16T02:43:57.367Z"
+ "updated": "2026-11-16T03:47:39.190Z"
 }
