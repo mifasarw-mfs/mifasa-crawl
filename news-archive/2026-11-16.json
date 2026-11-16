@@ -1,6 +1,6 @@
 {
  "day": "2026-11-16",
- "count": 92,
+ "count": 93,
  "articles": [
   {
    "id": "crawl_1470mq3",
@@ -21,6 +21,26 @@
    "title_en": "Forensic expert says his analysis raises doubts about how Epstein died",
    "summary_en": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
    "share_id": "MN202611_1470mq3tj6x"
+  },
+  {
+   "id": "crawl_ugntic",
+   "title": "Robert Pattinson to replace Daniel Craig as James Bond",
+   "summary": "The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey.",
+   "link": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T19:43:58.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2657/live/f59bc570-e1db-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2657/live/f59bc570-e1db-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Robert Pattinson to replace Daniel Craig as James Bond",
+   "summary_en": "The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey.",
+   "share_id": "MN202611_ugnticgpz6"
   },
   {
    "id": "crawl_ywdxsv",
@@ -1876,5 +1896,5 @@
    "share_id": "MN202611_9h0okawny0"
   }
  ],
- "updated": "2026-11-16T20:10:42.755Z"
+ "updated": "2026-11-16T20:56:14.454Z"
 }
