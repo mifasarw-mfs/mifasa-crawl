@@ -1,7 +1,47 @@
 {
  "day": "2026-11-15",
- "count": 91,
+ "count": 93,
  "articles": [
+  {
+   "id": "crawl_i0zlqr",
+   "title": "60 minutes of perfection, 30 minutes of chaos - an England win for the ages",
+   "summary": "England's stunning win in Spain had everything - and was their best under Thomas Tuchel, writes Phil McNulty.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c933ge310n33o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c933ge310n33o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T23:52:43.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b361/live/48cfe320-e146-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b361/live/48cfe320-e146-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "60 minutes of perfection, 30 minutes of chaos - an England win for the ages",
+   "summary_en": "England's stunning win in Spain had everything - and was their best under Thomas Tuchel, writes Phil McNulty.",
+   "share_id": "MN202611_i0zlqrrj5d"
+  },
+  {
+   "id": "crawl_2wd9bt",
+   "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+   "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+   "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T23:52:10.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a295/live/b9635e50-e14b-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a295/live/b9635e50-e14b-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+   "summary_en": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+   "share_id": "MN202611_2wd9bta7rr"
+  },
   {
    "id": "crawl_caqqhv",
    "title": "Football Daily",
@@ -1889,5 +1929,5 @@
    "share_id": "MN202611_1aez83ul1ig"
   }
  ],
- "updated": "2026-11-15T23:31:17.678Z"
+ "updated": "2026-11-16T00:11:43.062Z"
 }
