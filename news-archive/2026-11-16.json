@@ -1,7 +1,27 @@
 {
  "day": "2026-11-16",
- "count": 104,
+ "count": 105,
  "articles": [
+  {
+   "id": "crawl_1o4851x",
+   "title": "California sues OpenAI over Hugging Face attack",
+   "summary": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+   "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T23:12:24.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
+   "title_en": "California sues OpenAI over Hugging Face attack",
+   "summary_en": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+   "share_id": "MN202611_1o4851x11ir"
+  },
   {
    "id": "crawl_1dh5uyt",
    "title": "Woman who got hooked on nasal spray for 10 years says it cost her thousands",
@@ -2118,5 +2138,5 @@
    "share_id": "MN202611_9h0okawny0"
   }
  ],
- "updated": "2026-11-16T23:12:33.798Z"
+ "updated": "2026-11-16T23:14:22.593Z"
 }

@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_1o4851x",
+  "title": "California sues OpenAI over Hugging Face attack",
+  "summary": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+  "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-16T23:12:24.000Z",
+  "source": "BBC Technology",
+  "category": "tech",
+  "lang": "en",
+  "keywords": [
+   "BBC Technology",
+   "tech"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
+  "title_en": "California sues OpenAI over Hugging Face attack",
+  "summary_en": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+  "share_id": "MN202611_1o4851x11ir"
+ },
+ {
   "id": "crawl_1dh5uyt",
   "title": "Woman who got hooked on nasal spray for 10 years says it cost her thousands",
   "summary": "Louise Gough says her dependence on decongestant nasal sprays left her feeling like a prisoner.",
@@ -17012,6 +17032,26 @@
   "share_id": "MN202611_1ywjqmpbo1b"
  },
  {
+  "id": "crawl_rdii08",
+  "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+  "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+  "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-10T22:52:15.000Z",
+  "source": "BBC Business",
+  "category": "business",
+  "lang": "en",
+  "keywords": [
+   "BBC Business",
+   "business"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d6c/live/e7ad5400-dd59-11f1-b441-2b33b063138f.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d6c/live/e7ad5400-dd59-11f1-b441-2b33b063138f.jpg",
+  "title_en": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+  "summary_en": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+  "share_id": "MN202611_rdii08beh2"
+ },
+ {
   "id": "crawl_1ug5mls",
   "title": "Why Walliams' unprecedented legal battle to stay anonymous failed",
   "summary": "The 55-year-old was named in reports by ITV News and the Guardian on Tuesday after losing a court bid to stop allegations being made public.",
@@ -17290,45 +17330,5 @@
   "title_en": "Tech Life",
   "summary_en": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
   "share_id": "MN202611_1ub87dn8ard"
- },
- {
-  "id": "crawl_uzsehb",
-  "title": "US Army soldier suspected of spying for Russia arrested in UK",
-  "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
-  "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-10T20:20:04.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c66f/live/939c6190-dd44-11f1-9ac0-6b8f7fc58221.png",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c66f/live/939c6190-dd44-11f1-9ac0-6b8f7fc58221.png",
-  "title_en": "US Army soldier suspected of spying for Russia arrested in UK",
-  "summary_en": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
-  "share_id": "MN202611_uzsehblay5"
- },
- {
-  "id": "crawl_oqhtls",
-  "title": "David Walliams accused of sexual misconduct after losing injunction bid",
-  "summary": "ITN and the Guardian allege the comedian preyed on teenage girls and young women. He has denied all allegations.",
-  "link": "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-10T20:07:39.000Z",
-  "source": "BBC Entertainment",
-  "category": "entertainment",
-  "lang": "en",
-  "keywords": [
-   "BBC Entertainment",
-   "entertainment"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e229/live/97ca3420-dd41-11f1-a701-fddedf244c16.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e229/live/97ca3420-dd41-11f1-a701-fddedf244c16.jpg",
-  "title_en": "David Walliams accused of sexual misconduct after losing injunction bid",
-  "summary_en": "ITN and the Guardian allege the comedian preyed on teenage girls and young women. He has denied all allegations.",
-  "share_id": "MN202611_oqhtlsaq2m"
  }
 ]
