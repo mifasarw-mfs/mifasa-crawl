@@ -1,7 +1,27 @@
 {
  "day": "2026-11-16",
- "count": 9,
+ "count": 10,
  "articles": [
+  {
+   "id": "crawl_cj0gfc",
+   "title": "Zelensky yasabye Amerika na Musk gukuraho inzitizi kuri internet ya Starlink no kuba 'ku ruhande rwiza rw'amateka'",
+   "summary": "Perezida wa Ukraine avuga ko internet igenda gahoro irimo gutuma guhagarika ibitero by'Uburusiya bigorana.",
+   "link": "https://www.bbc.co.uk/gahuza/live/cqwy4x91yrk7t?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/gahuza/live/cqwy4x91yrk7t?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T05:08:12.072Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9717/live/48e35c90-e171-11f1-a2d0-ff163dc3689d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9717/live/48e35c90-e171-11f1-a2d0-ff163dc3689d.jpg",
+   "title_rw": "Zelensky yasabye Amerika na Musk gukuraho inzitizi kuri internet ya Starlink no kuba 'ku ruhande rwiza rw'amateka'",
+   "summary_rw": "Perezida wa Ukraine avuga ko internet igenda gahoro irimo gutuma guhagarika ibitero by'Uburusiya bigorana.",
+   "share_id": "MN202611_cj0gfcx3ie"
+  },
   {
    "id": "crawl_pbos6x",
    "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
@@ -184,5 +204,5 @@
    "share_id": "MN202611_9h0okawny0"
   }
  ],
- "updated": "2026-11-16T03:47:39.189Z"
+ "updated": "2026-11-16T05:11:51.559Z"
 }
