@@ -3622,6 +3622,102 @@
    ],
    "auto": true,
    "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_93c226b1_q",
+   "label_rw": "Amategeko y'ibanze ya Volleyball",
+   "label_en": "Volleyball Basics and Rules",
+   "patterns_en": [
+    "How many players are on the court per team in volleyball?",
+    "How many touches are teams allowed before returning the ball?",
+    "What is the main objective of volleyball?"
+   ],
+   "patterns_rw": [
+    "Abakinnyi bangahe bari mu kibuga kuri buri ruhande muri Volleyball?",
+    "Amakipe yemerewe gukoraho umupira inshuro zingahe?",
+    "Intego nyamukuru ya Volleyball ni iyihe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Volleyball ni umukino ukinwa n'amakipe abiri y'abakinnyi batandatu kuri buri ruhande. Intego y'umukino ni ugushyira umupira hasi mu kibuga cy'ikipe ihanganye. Amakipe yemerewe gukoraho umupira inshuro eshatu gusa mbere yo kuwugarura mu kibuga cy'abandi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Volleyball is a sport played by two teams of six players each. The objective is to ground the ball on the opponent's court. Teams are typically allowed up to three touches before returning the ball over the net.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_495cda66_q",
+   "label_rw": "Amategeko y'ibanze na gahunda y'amakandara muri Karate",
+   "label_en": "Karate principles and belt system",
+   "patterns_en": [
+    "Which country does Karate originate from?",
+    "What is the starting belt color in Karate?",
+    "What are the main principles of Karate?"
+   ],
+   "patterns_rw": [
+    "Karate ikomoka mu kihe gihugu?",
+    "Amakandara ya Karate atangirira ku kihe kirenga?",
+    "Intego nyamukuru ya Karate ni iyihe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Karate ni umukino w'ubwirinzi ukomoka mu Buyapani ushimika ku bumenyi bwo kwirwanaho, ikinyabupfura n'umuco mwiza. Abawukina bambara amakandara atandukanye atangirira ku mweru agera ku mukara, asobanura urwego rw'ubumenyi n'umuhati mu myitozo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Karate is a martial art originating from Japan that emphasizes mental discipline, self-defense, and moral character. Practitioners advance through a belt system, typically starting with white and progressing to black, which signifies skill level, dedication, and knowledge.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_c95fa048_q",
+   "label_rw": "Ibikoresho n'amategeko y'ibanze ya Cricket",
+   "label_en": "Cricket equipment and batting basics",
+   "patterns_en": [
+    "What equipment is used in cricket?",
+    "How does a cricket player score runs?",
+    "What protects a player from injuries in cricket?"
+   ],
+   "patterns_rw": [
+    "Ni ibikoresho ki bikoreshwa muri Cricket?",
+    "Umukinnyi wa Cricket akora iki ngo abone amanota?",
+    "Ni iki kirinda umukinnyi kwikomeretsa muri Cricket?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Cricket ni umukino w'amakipe abiri akinishwa agati kitwa bat n'umupira. Abakinnyi bambara ingofero n'uburinzi bw'ibirenge kugira ngo birinde imvune. Umukinnyi ukubita umupira agerageza kuwujya kure kugira ngo atahure amanota menshi ashoboka.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Cricket is a team sport played with a bat and a ball. Players wear helmets and pads to prevent injuries. The batter tries to hit the ball far to score as many runs as possible.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_a15349e3_q",
+   "label_rw": "Amategeko n'imyanya y'abakinnyi muri Netball",
+   "label_en": "Netball rules and court positions",
+   "patterns_en": [
+    "How many players are on the court for each netball team?",
+    "Is a netball player allowed to run with the ball?",
+    "What is the main objective of playing netball?"
+   ],
+   "patterns_rw": [
+    "Ni abahe bakinnyi bagize ikipe ya netball mu kibuga?",
+    "Ese umukinnyi wa netball yemerewe kwiruka afite umupira?",
+    "Intego nyamukuru y'umukino wa netball ni iyihe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Netball ni umukino w'amakipe abiri aho buri kipe igira abakinnyi barindwi mu kibuga. Icyiciro cy'ingenzi ni uko abakinnyi bagomba gukinira mu byanya byagenewe buri muntu hakurikije umwanya we. Ntibyemewe kwiruka witwaje umupira cyangwa kugenda na wo. Umukino uba ugamije gutsinda ibitego byinshi unyuze mu nseke idafite ikirahuri.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Netball is a team sport where each team has seven players on the court. A key rule is that players must stay in designated areas according to their specific position. Running with the ball or walking while holding it is not allowed. The main objective is to score goals by throwing the ball through a ring without a backboard.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
   }
  ],
  "knowledge": [
@@ -6604,6 +6700,84 @@
    ],
    "auto": true,
    "taught": "2026-11-15"
+  },
+  {
+   "id": "ai16_93c226b1",
+   "category": "sports",
+   "title_rw": "Amategeko y'ibanze ya Volleyball",
+   "title_en": "Volleyball Basics and Rules",
+   "summary_rw": "Volleyball ni umukino ukinwa n'amakipe abiri y'abakinnyi batandatu kuri buri ruhande. Intego y'umukino ni ugushyira umupira hasi mu kibuga cy'ikipe ihanganye. Amakipe yemerewe gukoraho umupira inshuro eshatu gusa mbere yo kuwugarura mu kibuga cy'abandi.",
+   "summary_en": "Volleyball is a sport played by two teams of six players each. The objective is to ground the ball on the opponent's court. Teams are typically allowed up to three touches before returning the ball over the net.",
+   "keywords": [
+    "volleyball",
+    "amategeko",
+    "rules",
+    "imikino",
+    "sports",
+    "ikipe",
+    "team"
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_495cda66",
+   "category": "sports",
+   "title_rw": "Amategeko y'ibanze na gahunda y'amakandara muri Karate",
+   "title_en": "Karate principles and belt system",
+   "summary_rw": "Karate ni umukino w'ubwirinzi ukomoka mu Buyapani ushimika ku bumenyi bwo kwirwanaho, ikinyabupfura n'umuco mwiza. Abawukina bambara amakandara atandukanye atangirira ku mweru agera ku mukara, asobanura urwego rw'ubumenyi n'umuhati mu myitozo.",
+   "summary_en": "Karate is a martial art originating from Japan that emphasizes mental discipline, self-defense, and moral character. Practitioners advance through a belt system, typically starting with white and progressing to black, which signifies skill level, dedication, and knowledge.",
+   "keywords": [
+    "karate",
+    "sports",
+    "amakandara",
+    "belts",
+    "buyapani",
+    "japan",
+    "ubwirinzi",
+    "martial"
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_c95fa048",
+   "category": "sports",
+   "title_rw": "Ibikoresho n'amategeko y'ibanze ya Cricket",
+   "title_en": "Cricket equipment and batting basics",
+   "summary_rw": "Cricket ni umukino w'amakipe abiri akinishwa agati kitwa bat n'umupira. Abakinnyi bambara ingofero n'uburinzi bw'ibirenge kugira ngo birinde imvune. Umukinnyi ukubita umupira agerageza kuwujya kure kugira ngo atahure amanota menshi ashoboka.",
+   "summary_en": "Cricket is a team sport played with a bat and a ball. Players wear helmets and pads to prevent injuries. The batter tries to hit the ball far to score as many runs as possible.",
+   "keywords": [
+    "cricket",
+    "bat",
+    "umupira",
+    "ball",
+    "amanota",
+    "runs",
+    "ibikoresho",
+    "equipment"
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_a15349e3",
+   "category": "sports",
+   "title_rw": "Amategeko n'imyanya y'abakinnyi muri Netball",
+   "title_en": "Netball rules and court positions",
+   "summary_rw": "Netball ni umukino w'amakipe abiri aho buri kipe igira abakinnyi barindwi mu kibuga. Icyiciro cy'ingenzi ni uko abakinnyi bagomba gukinira mu byanya byagenewe buri muntu hakurikije umwanya we. Ntibyemewe kwiruka witwaje umupira cyangwa kugenda na wo. Umukino uba ugamije gutsinda ibitego byinshi unyuze mu nseke idafite ikirahuri.",
+   "summary_en": "Netball is a team sport where each team has seven players on the court. A key rule is that players must stay in designated areas according to their specific position. Running with the ball or walking while holding it is not allowed. The main objective is to score goals by throwing the ball through a ring without a backboard.",
+   "keywords": [
+    "netball",
+    "sports",
+    "rules",
+    "amategeko",
+    "imyanya",
+    "ibitego",
+    "imikino"
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
   }
  ]
 }
