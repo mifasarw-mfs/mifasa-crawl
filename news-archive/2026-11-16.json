@@ -1,7 +1,27 @@
 {
  "day": "2026-11-16",
- "count": 84,
+ "count": 85,
  "articles": [
+  {
+   "id": "crawl_1e8e3tx",
+   "title": "Emma Barnett to leave Radio 4's Today for new BBC Show",
+   "summary": "Barnett, who has presented Today and Woman's Hour, will front a multiplatform show in the New Year.",
+   "link": "https://www.bbc.co.uk/news/articles/c6rrgw2p52l5o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6rrgw2p52l5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T17:46:12.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a85c/live/36fe5760-e1e3-11f1-9f14-b33806cfd783.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a85c/live/36fe5760-e1e3-11f1-9f14-b33806cfd783.jpg",
+   "title_en": "Emma Barnett to leave Radio 4's Today for new BBC Show",
+   "summary_en": "Barnett, who has presented Today and Woman's Hour, will front a multiplatform show in the New Year.",
+   "share_id": "MN202611_1e8e3tx70ar"
+  },
   {
    "id": "crawl_1qsgm30",
    "title": "U Rwanda rugiye kuganira n'ibihugu bitanu uburyo rwakwakira abimukira birukanywe i Burayi",
@@ -1716,5 +1736,5 @@
    "share_id": "MN202611_9h0okawny0"
   }
  ],
- "updated": "2026-11-16T17:24:23.755Z"
+ "updated": "2026-11-16T18:18:18.722Z"
 }
