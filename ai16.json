@@ -3814,6 +3814,101 @@
    ],
    "auto": true,
    "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_4a98b737_q",
+   "label_rw": "Igereranya n'Uburinganire bw'Imibare",
+   "label_en": "Ratios and Proportions",
+   "patterns_en": [
+    "What is a ratio in math?",
+    "What does a proportion mean?",
+    "How are ratios used?"
+   ],
+   "patterns_rw": [
+    "Ni iki igereranya mu mibare?",
+    "Uburinganire bw'imibare bivuze iki?",
+    "Igereranya rikoreshwa mu ki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Igereranya rigereranya umubare w'ibintu bibiri cyangwa byinshi bifite ubwoko bumwe. Uburinganire bwerekana ko ibigereranyo bibiri bingana. Ibi bikoreshwa cyane mu gukemura ibibazo by'imibare byerekeye uburinganire bw'ibintu.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "A ratio compares two or more quantities of the same kind. A proportion states that two ratios are equal. These concepts are commonly used to solve mathematical problems involving proportional relationships.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_4d7c1890_q",
+   "label_rw": "Umubyimba n'Ubuso",
+   "label_en": "Volume and Surface Area",
+   "patterns_en": [
+    "What is volume?",
+    "What is surface area?",
+    "How do volume and surface area differ?"
+   ],
+   "patterns_rw": [
+    "Umubyimba ni iki?",
+    "Ubuso ni iki mu mibare?",
+    "Ese umubyimba n'ubuso bitandukaniyehe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Umubyimba ni umubare w'umwanya ikintu cy'icyerekezo cya gatatu gifata. Ubuso ni ubuso bwose bugaragara bw'ikintu. Aya makuru afasha mu kubara ibikoresho no mu mibare.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Volume is the amount of three-dimensional space an object occupies. Surface area is the total area of all the surfaces of an object. These concepts are used in measurement and geometry.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_57b30310_q",
+   "label_rw": "Imibare iri munsi ya Zero",
+   "label_en": "Negative Numbers",
+   "patterns_en": [
+    "What are negative numbers?",
+    "Where are negative numbers used?",
+    "Do negative numbers reduce value?"
+   ],
+   "patterns_rw": [
+    "Imibare iri munsi ya zero ni iki?",
+    "Imibare iri munsi ya zero ikoreshwa he?",
+    "Ese imibare iri munsi ya zero igabanya agaciro?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imibare iri munsi ya zero ni imibare ifite agaciro gato kuri zero. Ikoreshwa mu kwerekana ibintu nko gukonja cyangwa imyenda. Iyo wongewe kuri zero cyangwa indi mibare, bigabanya agaciro kayo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Negative numbers are values less than zero. They are typically used to represent concepts such as below-zero temperatures or financial debt. When combined with positive numbers, they reduce the overall value.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_988c90f3_q",
+   "label_rw": "Intangiriro ku Bushobozi bw'Ibintu",
+   "label_en": "Introduction to Probability",
+   "patterns_en": [
+    "What range do probability values typically fall between?",
+    "Why is probability important in daily life?"
+   ],
+   "patterns_rw": [
+    "Ubushobozi bw'ibintu ni iki?",
+    "Igipimo cy'ubushobozi bw'ibintu kiri hagati y'ibihe bikoresho?",
+    "Kuki ubushobozi bw'ibintu ari ngombwa mu buzima?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubushobozi bw'ibintu bugaragaza amahiriryo y'uko ikintu cyaba cyangwa cyabaho. Igipimo cyabyo kiri hagati ya zero na rimwe. Zero ivuga ko ikintu kidashobora kubaho na rimwe. Rimwe bivuga ko kizaba nta gushidikanya. Ibi byifashishwa mu mibare no mu buzima bwa buri munsi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Probability measures the likelihood that an event will occur. Values typically range from zero to one. Zero means an event is impossible, while one means it is certain. This concept is widely used in mathematics and daily life.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
   }
  ],
  "knowledge": [
@@ -6951,6 +7046,82 @@
     "privacy",
     "ibanga",
     "password"
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_4a98b737",
+   "category": "math",
+   "title_rw": "Igereranya n'Uburinganire bw'Imibare",
+   "title_en": "Ratios and Proportions",
+   "summary_rw": "Igereranya rigereranya umubare w'ibintu bibiri cyangwa byinshi bifite ubwoko bumwe. Uburinganire bwerekana ko ibigereranyo bibiri bingana. Ibi bikoreshwa cyane mu gukemura ibibazo by'imibare byerekeye uburinganire bw'ibintu.",
+   "summary_en": "A ratio compares two or more quantities of the same kind. A proportion states that two ratios are equal. These concepts are commonly used to solve mathematical problems involving proportional relationships.",
+   "keywords": [
+    "igereranya",
+    "uburinganire",
+    "imibare",
+    "ratio",
+    "proportion",
+    "math"
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_4d7c1890",
+   "category": "math",
+   "title_rw": "Umubyimba n'Ubuso",
+   "title_en": "Volume and Surface Area",
+   "summary_rw": "Umubyimba ni umubare w'umwanya ikintu cy'icyerekezo cya gatatu gifata. Ubuso ni ubuso bwose bugaragara bw'ikintu. Aya makuru afasha mu kubara ibikoresho no mu mibare.",
+   "summary_en": "Volume is the amount of three-dimensional space an object occupies. Surface area is the total area of all the surfaces of an object. These concepts are used in measurement and geometry.",
+   "keywords": [
+    "umubyimba",
+    "ubuso",
+    "volume",
+    "surface",
+    "area",
+    "geometry",
+    "math"
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_57b30310",
+   "category": "math",
+   "title_rw": "Imibare iri munsi ya Zero",
+   "title_en": "Negative Numbers",
+   "summary_rw": "Imibare iri munsi ya zero ni imibare ifite agaciro gato kuri zero. Ikoreshwa mu kwerekana ibintu nko gukonja cyangwa imyenda. Iyo wongewe kuri zero cyangwa indi mibare, bigabanya agaciro kayo.",
+   "summary_en": "Negative numbers are values less than zero. They are typically used to represent concepts such as below-zero temperatures or financial debt. When combined with positive numbers, they reduce the overall value.",
+   "keywords": [
+    "imibare",
+    "zero",
+    "kubara",
+    "numbers",
+    "math",
+    "negative",
+    "agaciro"
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_988c90f3",
+   "category": "math",
+   "title_rw": "Intangiriro ku Bushobozi bw'Ibintu",
+   "title_en": "Introduction to Probability",
+   "summary_rw": "Ubushobozi bw'ibintu bugaragaza amahiriryo y'uko ikintu cyaba cyangwa cyabaho. Igipimo cyabyo kiri hagati ya zero na rimwe. Zero ivuga ko ikintu kidashobora kubaho na rimwe. Rimwe bivuga ko kizaba nta gushidikanya. Ibi byifashishwa mu mibare no mu buzima bwa buri munsi.",
+   "summary_en": "Probability measures the likelihood that an event will occur. Values typically range from zero to one. Zero means an event is impossible, while one means it is certain. This concept is widely used in mathematics and daily life.",
+   "keywords": [
+    "probability",
+    "ubushobozi",
+    "math",
+    "mibare",
+    "chance",
+    "amahirwe",
+    "event",
+    "ikintu"
    ],
    "auto": true,
    "taught": "2026-11-16"
