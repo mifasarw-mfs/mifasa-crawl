@@ -3909,6 +3909,30 @@
    ],
    "auto": true,
    "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_5e182596_q",
+   "label_rw": "Imbyino y'Intore",
+   "label_en": "Intore Dance and Performance",
+   "patterns_en": [
+    "What is Intore in Rwandan culture?",
+    "Who historically performed the Intore dance?",
+    "What does the Intore performance represent?"
+   ],
+   "patterns_rw": [
+    "Intore ni iki mu muco nyarwanda?",
+    "Ni bande babyinaga Intore mu mateka?",
+    "Imbyino y'Intore igaragaza iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Intore ni imbyino gakondo yo mu Rwanda. Yahoze ari iy'abami n'ingabo zabo. Ababyinnyi bambara imyerero n'ingabo ku mutwe. Баbyina bagaragaza ubutwari n'amahoro.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Intore is a traditional dance form from Rwanda. It was historically performed for the royal court and warriors. Dancers wear mane-like hairpieces and carry spears. The performance showcases bravery, grace, and peace.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
   }
  ],
  "knowledge": [
@@ -7122,6 +7146,25 @@
     "amahirwe",
     "event",
     "ikintu"
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_5e182596",
+   "category": "culture",
+   "title_rw": "Imbyino y'Intore",
+   "title_en": "Intore Dance and Performance",
+   "summary_rw": "Intore ni imbyino gakondo yo mu Rwanda. Yahoze ari iy'abami n'ingabo zabo. Ababyinnyi bambara imyerero n'ingabo ku mutwe. Баbyina bagaragaza ubutwari n'amahoro.",
+   "summary_en": "Intore is a traditional dance form from Rwanda. It was historically performed for the royal court and warriors. Dancers wear mane-like hairpieces and carry spears. The performance showcases bravery, grace, and peace.",
+   "keywords": [
+    "intore",
+    "dance",
+    "rwanda",
+    "culture",
+    "imbyino",
+    "gakondo",
+    "ubutwari"
    ],
    "auto": true,
    "taught": "2026-11-16"
