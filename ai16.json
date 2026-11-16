@@ -3718,6 +3718,102 @@
    ],
    "auto": true,
    "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_e1a6764b_q",
+   "label_rw": "Umutekano w'inkongi y'umuriro mu rugo",
+   "label_en": "Home fire safety and prevention",
+   "patterns_en": [
+    "What causes home fires?",
+    "How can you check electrical wiring for safety?",
+    "What precautions prevent household fires?"
+   ],
+   "patterns_rw": [
+    "Ni iki giteza inkongi y'umuriro mu rugo?",
+    "Wacunga ute amashanyarazi kugira ngo wirinde inkongi?",
+    "Wakora iki ngo wirinde inkongi y'umuriro?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gutwika inkwi cyangwa gukoresha amashanyarazi nabi bishobora guteza inkongi mu rugo. Kugira ngo wirinde, ugomba gusuzuma insinga z'amashanyarazi buri gihe. Ntugasige amashyiga yaka cyangwa amatara y'amashanyarazi arimo gukora udahari. Bika ibintu bifata inkongi kure y'umuriro.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Using firewood or electricity improperly can cause home fires. To prevent fires, inspect electrical wiring regularly. Never leave burning stoves or electrical appliances unattended. Store flammable materials safely away from heat sources.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_14218c22_q",
+   "label_rw": "Umutekano w'amashanyarazi",
+   "label_en": "Electrical safety",
+   "patterns_en": [
+    "How can I stay safe from electricity?",
+    "What should I do if I see damaged wires?",
+    "Why is it dangerous to touch electrical devices with wet hands?"
+   ],
+   "patterns_rw": [
+    "Ni gute nakwirinda amashanyarazi?",
+    "Ese ngomba gukora iki nabonye insinga zangiritse?",
+    "Kuki ari bibi gukora ku mashanyarazi n'amaboko atose?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Amashanyarazi ashobora guteza akaga gakomeye nko gushya cyangwa urupfu naramuka akoreshejweabi. Ugomba kwirinda gukora ku bikoresho by'amashanyarazi n'amaboko atose. Ntukishyireho insinga zangiritse kandi ugomba kwitabaza inzobere mu bikorwa byose by'amashanyarazi mu nzu yawe.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Electricity can cause severe hazards such as burns or death if handled improperly. You should avoid touching electrical appliances with wet hands. Never use damaged wires and always consult a qualified professional for any electrical work in your home.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_2667d8ef_q",
+   "label_rw": "Isuku y'ibiribwa n'uburyo bwo kwirinda uburozi bwabyo",
+   "label_en": "Basic food hygiene and preventing food poisoning",
+   "patterns_en": [
+    "How can we prevent food poisoning?",
+    "How should we prepare fruits and vegetables safely?",
+    "Why is it important to separate raw and cooked foods?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyatuma twirinda uburozi bw'ibiribwa?",
+    "Ni gute twategura imbuto n'imboga mu mutekano?",
+    "Kuki ari ngombwa gutandukanya ibiribwa bikiri bisi n'ibitetse?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Isuku y'ibiribwa niingenzi mu kwirinda uburwayi buterwa n'ibiribwa bihumanye. Tugomba gukaraba intoki mbere yo guteka cyangwa kurya. Imbuto n'imboga bigomba gukarabwa n'amazi meza. Ibiribwa bikizebigomba gutekwa neza. Gutandukanya ibiribwa bikiri bisi n'ibitetse bifasha kwirinda mikorobe. Kubika ibiribwa mu bipimo by'ubushyuhe bukwiriye birinda ko byangirika.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Food hygiene is essential to prevent illnesses caused by contaminated food. We should wash our hands before cooking or eating. Fruits and vegetables must be washed with clean water. Food should be cooked thoroughly. Separating raw and cooked foods helps prevent germs. Storing food at appropriate temperatures prevents it from spoiling.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_97adba0c_q",
+   "label_rw": "Umutekano w'ibanga kuri interineti",
+   "label_en": "Internet privacy and data protection",
+   "patterns_en": [
+    "How do I create strong passwords?",
+    "What is personal data on the internet?",
+    "How can I secure my social media accounts?"
+   ],
+   "patterns_rw": [
+    "Ni gute nakoresha amagambo y'ibanga akomeye?",
+    "Amakuru bwite ni iki kuri interineti?",
+    "Washinga ute umutekano w'imbuga nkoranyambaga?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kurinda amakuru bwite kuri interineti bisaba kwitonda mu byo usangiza abandi. Ugomba gukoresha amagambo y'ibanga akomeye kandi ntiwishingikirize ku mbuga zitizewe. Kugenzura ibyerekeye umutekano w'imbuga ukoresha bifasha mu kwirinda uburiganya.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Protecting personal data on the internet requires careful sharing of information. You should use strong passwords and avoid untrusted websites. Checking privacy settings helps prevent online fraud.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
   }
  ],
  "knowledge": [
@@ -6775,6 +6871,86 @@
     "imyanya",
     "ibitego",
     "imikino"
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_e1a6764b",
+   "category": "safety",
+   "title_rw": "Umutekano w'inkongi y'umuriro mu rugo",
+   "title_en": "Home fire safety and prevention",
+   "summary_rw": "Gutwika inkwi cyangwa gukoresha amashanyarazi nabi bishobora guteza inkongi mu rugo. Kugira ngo wirinde, ugomba gusuzuma insinga z'amashanyarazi buri gihe. Ntugasige amashyiga yaka cyangwa amatara y'amashanyarazi arimo gukora udahari. Bika ibintu bifata inkongi kure y'umuriro.",
+   "summary_en": "Using firewood or electricity improperly can cause home fires. To prevent fires, inspect electrical wiring regularly. Never leave burning stoves or electrical appliances unattended. Store flammable materials safely away from heat sources.",
+   "keywords": [
+    "umuriro",
+    "inkongi",
+    "urugo",
+    "umutekano",
+    "amashanyarazi",
+    "fire",
+    "safety",
+    "home"
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_14218c22",
+   "category": "safety",
+   "title_rw": "Umutekano w'amashanyarazi",
+   "title_en": "Electrical safety",
+   "summary_rw": "Amashanyarazi ashobora guteza akaga gakomeye nko gushya cyangwa urupfu naramuka akoreshejweabi. Ugomba kwirinda gukora ku bikoresho by'amashanyarazi n'amaboko atose. Ntukishyireho insinga zangiritse kandi ugomba kwitabaza inzobere mu bikorwa byose by'amashanyarazi mu nzu yawe.",
+   "summary_en": "Electricity can cause severe hazards such as burns or death if handled improperly. You should avoid touching electrical appliances with wet hands. Never use damaged wires and always consult a qualified professional for any electrical work in your home.",
+   "keywords": [
+    "amashanyarazi",
+    "electricity",
+    "umutekano",
+    "safety",
+    "insinga",
+    "wires",
+    "impanuka",
+    "accidents"
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_2667d8ef",
+   "category": "safety",
+   "title_rw": "Isuku y'ibiribwa n'uburyo bwo kwirinda uburozi bwabyo",
+   "title_en": "Basic food hygiene and preventing food poisoning",
+   "summary_rw": "Isuku y'ibiribwa niingenzi mu kwirinda uburwayi buterwa n'ibiribwa bihumanye. Tugomba gukaraba intoki mbere yo guteka cyangwa kurya. Imbuto n'imboga bigomba gukarabwa n'amazi meza. Ibiribwa bikizebigomba gutekwa neza. Gutandukanya ibiribwa bikiri bisi n'ibitetse bifasha kwirinda mikorobe. Kubika ibiribwa mu bipimo by'ubushyuhe bukwiriye birinda ko byangirika.",
+   "summary_en": "Food hygiene is essential to prevent illnesses caused by contaminated food. We should wash our hands before cooking or eating. Fruits and vegetables must be washed with clean water. Food should be cooked thoroughly. Separating raw and cooked foods helps prevent germs. Storing food at appropriate temperatures prevents it from spoiling.",
+   "keywords": [
+    "isuku",
+    "ibiribwa",
+    "uburozi",
+    "gukaraba",
+    "guteka",
+    "hygiene",
+    "food",
+    "poisoning"
+   ],
+   "auto": true,
+   "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_97adba0c",
+   "category": "safety",
+   "title_rw": "Umutekano w'ibanga kuri interineti",
+   "title_en": "Internet privacy and data protection",
+   "summary_rw": "Kurinda amakuru bwite kuri interineti bisaba kwitonda mu byo usangiza abandi. Ugomba gukoresha amagambo y'ibanga akomeye kandi ntiwishingikirize ku mbuga zitizewe. Kugenzura ibyerekeye umutekano w'imbuga ukoresha bifasha mu kwirinda uburiganya.",
+   "summary_en": "Protecting personal data on the internet requires careful sharing of information. You should use strong passwords and avoid untrusted websites. Checking privacy settings helps prevent online fraud.",
+   "keywords": [
+    "amakuru",
+    "data",
+    "interineti",
+    "internet",
+    "umutekano",
+    "privacy",
+    "ibanga",
+    "password"
    ],
    "auto": true,
    "taught": "2026-11-16"
