@@ -1,7 +1,27 @@
 {
  "day": "2026-11-16",
- "count": 101,
+ "count": 102,
  "articles": [
+  {
+   "id": "crawl_1r6fhgd",
+   "title": "Watch as Scotland slump to 4-0 defeat in Switzerland",
+   "summary": "Watch the highlights as Scotland lose 4-0 to Switzerland in the Nations League in St Gallen.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmp3e19v734wo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cmp3e19v734wo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T22:14:34.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe26/live/f9c8c1f0-e20a-11f1-b023-f7d19fda92c1.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe26/live/f9c8c1f0-e20a-11f1-b023-f7d19fda92c1.jpg",
+   "title_en": "Watch as Scotland slump to 4-0 defeat in Switzerland",
+   "summary_en": "Watch the highlights as Scotland lose 4-0 to Switzerland in the Nations League in St Gallen.",
+   "share_id": "MN202611_1r6fhgdoqyj"
+  },
   {
    "id": "crawl_1nmfd05",
    "title": "Cass report author says she does not support draft conversion practices bill",
@@ -2058,5 +2078,5 @@
    "share_id": "MN202611_9h0okawny0"
   }
  ],
- "updated": "2026-11-16T22:15:46.510Z"
+ "updated": "2026-11-16T22:28:33.650Z"
 }

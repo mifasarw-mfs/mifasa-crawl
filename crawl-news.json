@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_1r6fhgd",
+  "title": "Watch as Scotland slump to 4-0 defeat in Switzerland",
+  "summary": "Watch the highlights as Scotland lose 4-0 to Switzerland in the Nations League in St Gallen.",
+  "link": "https://www.bbc.co.uk/sport/football/videos/cmp3e19v734wo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/football/videos/cmp3e19v734wo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-16T22:14:34.000Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe26/live/f9c8c1f0-e20a-11f1-b023-f7d19fda92c1.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe26/live/f9c8c1f0-e20a-11f1-b023-f7d19fda92c1.jpg",
+  "title_en": "Watch as Scotland slump to 4-0 defeat in Switzerland",
+  "summary_en": "Watch the highlights as Scotland lose 4-0 to Switzerland in the Nations League in St Gallen.",
+  "share_id": "MN202611_1r6fhgdoqyj"
+ },
+ {
   "id": "crawl_1nmfd05",
   "title": "Cass report author says she does not support draft conversion practices bill",
   "summary": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
@@ -1487,8 +1507,8 @@
  },
  {
   "id": "crawl_bjv11",
-  "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-  "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+  "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+  "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
   "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-16T11:45:40.000Z",
@@ -1501,8 +1521,8 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
-  "title_en": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-  "summary_en": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+  "title_en": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+  "summary_en": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
   "share_id": "MN202611_bjv11gtgz"
  },
  {
@@ -17310,25 +17330,5 @@
   "title_en": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
   "summary_en": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
   "share_id": "MN202611_rdii08beh2"
- },
- {
-  "id": "crawl_3sb32j",
-  "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
-  "summary": "Supporters of Sheikh Hasina want her to return from exile in India.",
-  "link": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-10T19:26:42.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb4a/live/173fa7e0-dd3c-11f1-a701-fddedf244c16.png",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb4a/live/173fa7e0-dd3c-11f1-a701-fddedf244c16.png",
-  "title_en": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
-  "summary_en": "Supporters of Sheikh Hasina want her to return from exile in India.",
-  "share_id": "MN202611_3sb32j3zjd"
  }
 ]
