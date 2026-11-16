@@ -1,7 +1,48 @@
 {
  "day": "2026-11-16",
- "count": 12,
+ "count": 14,
  "articles": [
+  {
+   "id": "crawl_1ut4ex2",
+   "title": "Pupils fascinated by space get astronomy lesson",
+   "summary": "Pupils at First Tower School get a visit from a University of Cambridge astronomer.",
+   "link": "https://www.bbc.co.uk/news/articles/c67428w9vvkqo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c67428w9vvkqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T06:11:42.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ed/live/38190870-df6d-11f1-8112-6b9154c79b48.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ed/live/38190870-df6d-11f1-8112-6b9154c79b48.jpg",
+   "title_en": "Pupils fascinated by space get astronomy lesson",
+   "summary_en": "Pupils at First Tower School get a visit from a University of Cambridge astronomer.",
+   "share_id": "MN202611_1ut4ex2xbdw"
+  },
+  {
+   "id": "crawl_1n9k4my",
+   "title": "Lumumba vs Mushikiwabo Enter Cambodia OIF Boxing Ring",
+   "summary": "The 20th edition of the La Francophonie Summit will remain in the organisation’s history books for it was the highest platform Rwanda and Democratic Republic of Congo took their fight. Just hours away from now, Rwanda’s candidate Louise Mushikiwabo and Congolese candidate Juliana Lumumba are seemingly entering a boxing ring before 53 heads of State […] The post Lumumba vs Mushikiwabo Enter…",
+   "link": "https://taarifa.rw/2026/11/16/lumumba-vs-mushikiwabo-enter-cambodia-oif-boxing-ring/",
+   "url": "https://taarifa.rw/2026/11/16/lumumba-vs-mushikiwabo-enter-cambodia-oif-boxing-ring/",
+   "date": "2026-11-16T05:51:11.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "La Francophonie Cambodia Special Report"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261116-075017.jpg?fit=694%2C347&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261116-075017.jpg?fit=694%2C347&ssl=1",
+   "title_en": "Lumumba vs Mushikiwabo Enter Cambodia OIF Boxing Ring",
+   "summary_en": "The 20th edition of the La Francophonie Summit will remain in the organisation’s history books for it was the highest platform Rwanda and Democratic Republic of Congo took their fight. Just hours away from now, Rwanda’s candidate Louise Mushikiwabo and Congolese candidate Juliana Lumumba are seemingly entering a boxing ring before 53 heads of State […] The post Lumumba vs Mushikiwabo Enter…",
+   "share_id": "MN202611_1n9k4my36hk"
+  },
   {
    "id": "crawl_cj0gfc",
    "title": "Zelensky yasabye Amerika na Musk gukuraho inzitizi kuri internet ya Starlink no kuba 'ku ruhande rwiza rw'amateka'",
@@ -244,5 +285,5 @@
    "share_id": "MN202611_9h0okawny0"
   }
  ],
- "updated": "2026-11-16T05:25:52.958Z"
+ "updated": "2026-11-16T06:19:27.762Z"
 }
