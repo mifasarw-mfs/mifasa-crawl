@@ -1,6 +1,6 @@
 {
  "day": "2026-11-15",
- "count": 95,
+ "count": 96,
  "articles": [
   {
    "id": "crawl_i0zlqr",
@@ -41,6 +41,26 @@
    "title_en": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
    "summary_en": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
    "share_id": "MN202611_2wd9bta7rr"
+  },
+  {
+   "id": "crawl_1w818sh",
+   "title": "Teenager Andreeva caps stunning week with WTA Finals title",
+   "summary": "French Open champion Mirra Andreeva caps her stellar season with a hard-fought victory over Elina Svitolina to win the WTA Finals.",
+   "link": "https://www.bbc.co.uk/sport/tennis/articles/c61740145y7wo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/c61740145y7wo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T23:18:38.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69dd/live/afd408a0-e1a8-11f1-b0a4-450a350911f4.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69dd/live/afd408a0-e1a8-11f1-b0a4-450a350911f4.jpg",
+   "title_en": "Teenager Andreeva caps stunning week with WTA Finals title",
+   "summary_en": "French Open champion Mirra Andreeva caps her stellar season with a hard-fought victory over Elina Svitolina to win the WTA Finals.",
+   "share_id": "MN202611_1w818shaian"
   },
   {
    "id": "crawl_caqqhv",
@@ -1969,5 +1989,5 @@
    "share_id": "MN202611_1aez83ul1ig"
   }
  ],
- "updated": "2026-11-16T03:47:39.190Z"
+ "updated": "2026-11-16T11:16:25.552Z"
 }

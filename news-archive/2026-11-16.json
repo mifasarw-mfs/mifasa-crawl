@@ -1,7 +1,47 @@
 {
  "day": "2026-11-16",
- "count": 39,
+ "count": 42,
  "articles": [
+  {
+   "id": "crawl_1im96q5",
+   "title": "Russell Brand's lack of remorse in prison message 'revolting', Miliband says",
+   "summary": "London Victims' Commissioner Andrea Simon also criticised Brand for message on his podcast saying he was innocent.",
+   "link": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T11:04:59.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97d5/live/c6ca2d50-e1a8-11f1-8ee3-23d0d09d2796.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97d5/live/c6ca2d50-e1a8-11f1-8ee3-23d0d09d2796.jpg",
+   "title_en": "Russell Brand's lack of remorse in prison message 'revolting', Miliband says",
+   "summary_en": "London Victims' Commissioner Andrea Simon also criticised Brand for message on his podcast saying he was innocent.",
+   "share_id": "MN202611_1im96q5236z"
+  },
+  {
+   "id": "crawl_1pc0gkh",
+   "title": "Two mass shootings in South Africa leave 17 dead",
+   "summary": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
+   "link": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T10:57:48.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e5/live/66487e80-e1a0-11f1-902c-ad301cbf1208.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e5/live/66487e80-e1a0-11f1-902c-ad301cbf1208.jpg",
+   "title_en": "Two mass shootings in South Africa leave 17 dead",
+   "summary_en": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
+   "share_id": "MN202611_1pc0gkhtd1b"
+  },
   {
    "id": "crawl_1giw6rw",
    "title": "At Francophonie, Rwanda’s Mushikiwabo Stay On For Another Year As Secretary-General",
@@ -228,6 +268,26 @@
    "title_rw": "OIF: Amatora arasubitswe, Louise Mushikiwabo arakomeza kuyobora undi mwaka",
    "summary_rw": "Umuryango w’Ibihugu bivuga ururimi rw’Igifaransa wasubitse amatora y’Umunyamabanga Mukuru, nyuma y’impaka ndende ahanini zatangijwe n’Igihugu cya Repubulika ya Demokarasi ya Congo. Byatangiye (…)",
    "share_id": "MN202611_ik6vhub9zk"
+  },
+  {
+   "id": "crawl_13xn8lx",
+   "title": "'We know we can do it' - Farrell eyes Springbok scalp",
+   "summary": "Head coach Andy Farrell says Ireland will look to draw inspiration from the big wins they have had under his watch when they renew their rivalry with world champions South Africa this weekend.",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6x2ey1r444lo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6x2ey1r444lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T08:03:22.000Z",
+   "source": "BBC Sport Africa",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Sport Africa",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d85/live/b2d383b0-e0fd-11f1-bf0e-b9e6941e1cc7.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d85/live/b2d383b0-e0fd-11f1-bf0e-b9e6941e1cc7.jpg",
+   "title_en": "'We know we can do it' - Farrell eyes Springbok scalp",
+   "summary_en": "Head coach Andy Farrell says Ireland will look to draw inspiration from the big wins they have had under his watch when they renew their rivalry with world champions South Africa this weekend.",
+   "share_id": "MN202611_13xn8lxbuyb"
   },
   {
    "id": "crawl_1tl488h",
@@ -792,5 +852,5 @@
    "share_id": "MN202611_9h0okawny0"
   }
  ],
- "updated": "2026-11-16T10:38:05.841Z"
+ "updated": "2026-11-16T11:16:25.551Z"
 }
