@@ -1,7 +1,119 @@
 {
  "day": "2026-11-16",
- "count": 61,
+ "count": 66,
  "articles": [
+  {
+   "id": "crawl_1qjja6u",
+   "title": "Perezida Kagame yitabiriye umunsi wa nyuma w'Inama ya OIF",
+   "summary": "Perezida wa Repubulika y’u Rwanda, Paul Kagame, yitabiriye umunsi wa nyuma w’Inama ya 20 y’Umuryango w’Ibihugu bikoresha ururimi rw’Igifaransa (OIF), yabereye i Phnom Penh muri Cambodia, aho (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/perezida-kagame-yitabiriye-umunsi-wa-nyuma-w-inama-ya-oif",
+   "url": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/perezida-kagame-yitabiriye-umunsi-wa-nyuma-w-inama-ya-oif",
+   "date": "2026-11-16T13:50:46.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu mahanga",
+    "MobileBigStory",
+    "Tarib Abdul"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-16_at_15.45_43.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-16_at_15.45_43.jpg",
+   "title_rw": "Perezida Kagame yitabiriye umunsi wa nyuma w'Inama ya OIF",
+   "summary_rw": "Perezida wa Repubulika y’u Rwanda, Paul Kagame, yitabiriye umunsi wa nyuma w’Inama ya 20 y’Umuryango w’Ibihugu bikoresha ururimi rw’Igifaransa (OIF), yabereye i Phnom Penh muri Cambodia, aho (…)",
+   "share_id": "MN202611_1qjja6uf4ac"
+  },
+  {
+   "id": "crawl_au8p7f",
+   "title": "U Rwanda rwatangiye gukingira abagore bafite imyaka 30–45 kanseri y'inkondo y'umura",
+   "summary": "U Rwanda rwatangiye gutanga ku buntu urukingo rwa kanseri y’inkondo y’umura ku bagore n’abakobwa bafite imyaka iri hagati ya 30 na 45, mu rwego rwo kwihutisha gahunda yo kurandura iyi ndwara (…)",
+   "link": "https://www.kigalitoday.com/ubuzima/indwara/article/u-rwanda-rwatangiye-gukingira-abagore-bafite-imyaka-30-45-kanseri-y-inkondo-y-umura",
+   "url": "https://www.kigalitoday.com/ubuzima/indwara/article/u-rwanda-rwatangiye-gukingira-abagore-bafite-imyaka-30-45-kanseri-y-inkondo-y-umura",
+   "date": "2026-11-16T13:47:41.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Indwara",
+    "MobileBigStory",
+    "Ernestine Musanabera"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/kanseri_y_inkondo_y_umura.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/kanseri_y_inkondo_y_umura.png",
+   "title_rw": "U Rwanda rwatangiye gukingira abagore bafite imyaka 30–45 kanseri y'inkondo y'umura",
+   "summary_rw": "U Rwanda rwatangiye gutanga ku buntu urukingo rwa kanseri y’inkondo y’umura ku bagore n’abakobwa bafite imyaka iri hagati ya 30 na 45, mu rwego rwo kwihutisha gahunda yo kurandura iyi ndwara (…)",
+   "share_id": "MN202611_au8p7fa12x"
+  },
+  {
+   "id": "crawl_1emshcs",
+   "title": "Ibibazo bya Dipolomasi, izingiro mu isubikwa ry'amatora y'Umunyamabanga Mukuru wa Francophonie",
+   "summary": "Amatora yo guhitamo Umunyamabanga Mukuru mushya w’Umuryango Mpuzamahanga w’Ibihugu bikoresha Igifaransa (OIF) yasubitsweho umwaka wose, nyuma y’uko ibihugu biwugize binaniwe kumvikana ku muntu (…)",
+   "link": "https://www.kigalitoday.com/Inkuru-Zicukumbuye/article/ibibazo-bya-dipolomasi-izingiro-mu-isubikwa-ry-amatora-y-umunyamabanga-mukuru-wa-francophonie",
+   "url": "https://www.kigalitoday.com/Inkuru-Zicukumbuye/article/ibibazo-bya-dipolomasi-izingiro-mu-isubikwa-ry-amatora-y-umunyamabanga-mukuru-wa-francophonie",
+   "date": "2026-11-16T13:44:07.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Inkuru Zicukumbuye",
+    "MobileBigStory",
+    "Ruzindana Janvier"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-15_at_11.11_30_1_.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-15_at_11.11_30_1_.jpg",
+   "title_rw": "Ibibazo bya Dipolomasi, izingiro mu isubikwa ry'amatora y'Umunyamabanga Mukuru wa Francophonie",
+   "summary_rw": "Amatora yo guhitamo Umunyamabanga Mukuru mushya w’Umuryango Mpuzamahanga w’Ibihugu bikoresha Igifaransa (OIF) yasubitsweho umwaka wose, nyuma y’uko ibihugu biwugize binaniwe kumvikana ku muntu (…)",
+   "share_id": "MN202611_1emshcs79bu"
+  },
+  {
+   "id": "crawl_1y7ylom",
+   "title": "GTA 6 hacker pleads guilty after release from secure hospital",
+   "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
+   "link": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T13:34:22.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b17/live/41c7a2f0-e1a2-11f1-b0a4-450a350911f4.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b17/live/41c7a2f0-e1a2-11f1-b0a4-450a350911f4.png",
+   "title_en": "GTA 6 hacker pleads guilty after release from secure hospital",
+   "summary_en": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
+   "share_id": "MN202611_1y7ylomri5g"
+  },
+  {
+   "id": "crawl_e3bsfk",
+   "title": "Afurika igomba kwitegura ko inguzanyo mpuzamahanga zishobora kurushaho guhenda-Minisitiri Murangwa",
+   "summary": "Minisitiri w’Imari n’Igenamigambi, Yusuf Murangwa, yasabye ibihugu by’Afurika kongera ubushobozi bwo kwishakamo igishoro no guteza imbere amasoko y’imari yo mu bihugu byabyo, mu gihe kubona (…)",
+   "link": "https://www.kigalitoday.com/ubukungu/ishoramari/article/afurika-igomba-kwitegura-ko-inguzanyo-mpuzamahanga-zishobora-kurushaho-guhenda-minisitiri-murangwa",
+   "url": "https://www.kigalitoday.com/ubukungu/ishoramari/article/afurika-igomba-kwitegura-ko-inguzanyo-mpuzamahanga-zishobora-kurushaho-guhenda-minisitiri-murangwa",
+   "date": "2026-11-16T13:30:22.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Ishoramari",
+    "MobileBigStory",
+    "Oswald Niyonzima"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/murangwa_ok.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/murangwa_ok.png",
+   "title_rw": "Afurika igomba kwitegura ko inguzanyo mpuzamahanga zishobora kurushaho guhenda-Minisitiri Murangwa",
+   "summary_rw": "Minisitiri w’Imari n’Igenamigambi, Yusuf Murangwa, yasabye ibihugu by’Afurika kongera ubushobozi bwo kwishakamo igishoro no guteza imbere amasoko y’imari yo mu bihugu byabyo, mu gihe kubona (…)",
+   "share_id": "MN202611_e3bsfk9hzi"
+  },
   {
    "id": "crawl_1pa0tze",
    "title": "Has Trafford replaced Pickford as England No 1?",
@@ -1235,5 +1347,5 @@
    "share_id": "MN202611_9h0okawny0"
   }
  ],
- "updated": "2026-11-16T13:08:13.735Z"
+ "updated": "2026-11-16T14:14:23.473Z"
 }
