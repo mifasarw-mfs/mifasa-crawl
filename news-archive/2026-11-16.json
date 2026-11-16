@@ -1,6 +1,6 @@
 {
  "day": "2026-11-16",
- "count": 85,
+ "count": 86,
  "articles": [
   {
    "id": "crawl_1e8e3tx",
@@ -642,6 +642,26 @@
    "title_en": "Cap fits as Robertson poised to take King Kenny's crown",
    "summary_en": "Andy Robertson will take over from Kenny Dalglish as Scotland's most-capped player when he captains his country against Switzerland on Monday evening.",
    "share_id": "MN202611_1wfk65zc3kl"
+  },
+  {
+   "id": "crawl_oi8rq4",
+   "title": "'It's been horrific' - Evatt says sickness bug decimated Blackpool",
+   "summary": "Blackpool boss Ian Evatt says his squad had a horrific build-up to Saturday's League One defeat by AFC Wimbledon following a fast-spreading sickness bug in his camp.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck205w918pz7o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ck205w918pz7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T12:15:46.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cff/live/f2631e90-e1ad-11f1-9a3f-99aca912798e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cff/live/f2631e90-e1ad-11f1-9a3f-99aca912798e.jpg",
+   "title_en": "'It's been horrific' - Evatt says sickness bug decimated Blackpool",
+   "summary_en": "Blackpool boss Ian Evatt says his squad had a horrific build-up to Saturday's League One defeat by AFC Wimbledon following a fast-spreading sickness bug in his camp.",
+   "share_id": "MN202611_oi8rq40p4q"
   },
   {
    "id": "crawl_yw6obn",
@@ -1736,5 +1756,5 @@
    "share_id": "MN202611_9h0okawny0"
   }
  ],
- "updated": "2026-11-16T18:18:18.722Z"
+ "updated": "2026-11-16T18:20:05.897Z"
 }
