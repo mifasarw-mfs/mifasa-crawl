@@ -1,5 +1,45 @@
 [
  {
+  "id": "crawl_1mbm42f",
+  "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+  "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+  "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T01:04:45.000Z",
+  "source": "BBC Technology",
+  "category": "tech",
+  "lang": "en",
+  "keywords": [
+   "BBC Technology",
+   "tech"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb4c/live/4a003210-e1d0-11f1-b8c8-67fa35f5afdb.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb4c/live/4a003210-e1d0-11f1-b8c8-67fa35f5afdb.jpg",
+  "title_en": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+  "summary_en": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+  "share_id": "MN202611_1mbm42ff0j9"
+ },
+ {
+  "id": "crawl_2wmq8c",
+  "title": "What's the story with Scotland boss Pocognoli - is it time to go?",
+  "summary": "The sense of drift in this Scotland team can't go on much longer. Is it too late for Sebastien Pocognoli to win back players and fans?",
+  "link": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T00:19:58.000Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0abe/live/50ce4e30-e21e-11f1-a094-5fdc692f3e33.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0abe/live/50ce4e30-e21e-11f1-a094-5fdc692f3e33.jpg",
+  "title_en": "What's the story with Scotland boss Pocognoli - is it time to go?",
+  "summary_en": "The sense of drift in this Scotland team can't go on much longer. Is it too late for Sebastien Pocognoli to win back players and fans?",
+  "share_id": "MN202611_2wmq8cipm2"
+ },
+ {
   "id": "crawl_11ht6kx",
   "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
   "summary": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
@@ -258,6 +298,26 @@
   "title_en": "Houthi rebel advance in Yemen may further destabilise global economy",
   "summary_en": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
   "share_id": "MN202611_1grtrc0mnsu"
+ },
+ {
+  "id": "crawl_bljew0",
+  "title": "Football Daily",
+  "summary": "Was England 3-2 Spain Tuchel's best win yet? And is Trafford primed to be new number one?",
+  "link": "https://www.bbc.co.uk/sounds/play/p0pnbcy5?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sounds/play/p0pnbcy5?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-16T21:14:00.000Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnbcz4.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnbcz4.jpg",
+  "title_en": "Football Daily",
+  "summary_en": "Was England 3-2 Spain Tuchel's best win yet? And is Trafford primed to be new number one?",
+  "share_id": "MN202611_bljew0cjem"
  },
  {
   "id": "crawl_7q5baq",
@@ -2902,7 +2962,7 @@
  {
   "id": "crawl_50addc",
   "title": "Russia's mega-rich are already imagining a future after Putin",
-  "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+  "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power.",
   "link": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-16T00:13:14.000Z",
@@ -2916,7 +2976,7 @@
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d12/live/ba3084e0-de83-11f1-93e1-3b657b665bcf.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d12/live/ba3084e0-de83-11f1-93e1-3b657b665bcf.jpg",
   "title_en": "Russia's mega-rich are already imagining a future after Putin",
-  "summary_en": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+  "summary_en": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power.",
   "share_id": "MN202611_50addc39u6"
  },
  {
@@ -17270,65 +17330,5 @@
   "title_en": "Why does Australia want Brits to swap Sydney for the outback?",
   "summary_en": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions.",
   "share_id": "MN202611_mpy3mbr035"
- },
- {
-  "id": "crawl_1bl7qqq",
-  "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-  "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
-  "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-10T20:53:33.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
-  "title_en": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-  "summary_en": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
-  "share_id": "MN202611_1bl7qqq0n7k"
- },
- {
-  "id": "crawl_21ufs6",
-  "title": "Pocognoli to lean on Scotland's 'captain group of five'",
-  "summary": "Sebastien Pocognoli is delighted to welcome \"exciting\" Scott McTominay into his squad, saying the Napoli midfielder is one of the \"fantastic leaders\" that helped persuade him to become Scotland head coach.",
-  "link": "https://www.bbc.co.uk/sport/football/articles/cmde8e8wjyzgo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cmde8e8wjyzgo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-10T20:49:11.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24a3/live/94ca09f0-dd35-11f1-ab86-698de9f28d28.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24a3/live/94ca09f0-dd35-11f1-ab86-698de9f28d28.jpg",
-  "title_en": "Pocognoli to lean on Scotland's 'captain group of five'",
-  "summary_en": "Sebastien Pocognoli is delighted to welcome \"exciting\" Scott McTominay into his squad, saying the Napoli midfielder is one of the \"fantastic leaders\" that helped persuade him to become Scotland head coach.",
-  "share_id": "MN202611_21ufs6qf5w"
- },
- {
-  "id": "crawl_161btng",
-  "title": "Spain's king and queen attend memorial service for rail crash victims",
-  "summary": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
-  "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-10T20:46:40.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d303/live/f5a86570-dd42-11f1-9ac0-6b8f7fc58221.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d303/live/f5a86570-dd42-11f1-9ac0-6b8f7fc58221.jpg",
-  "title_en": "Spain's king and queen attend memorial service for rail crash victims",
-  "summary_en": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
-  "share_id": "MN202611_161btng4q4a"
  }
 ]

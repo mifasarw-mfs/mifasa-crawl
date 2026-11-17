@@ -1,7 +1,47 @@
 {
  "day": "2026-11-17",
- "count": 3,
+ "count": 5,
  "articles": [
+  {
+   "id": "crawl_1mbm42f",
+   "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+   "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+   "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T01:04:45.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb4c/live/4a003210-e1d0-11f1-b8c8-67fa35f5afdb.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb4c/live/4a003210-e1d0-11f1-b8c8-67fa35f5afdb.jpg",
+   "title_en": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+   "summary_en": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+   "share_id": "MN202611_1mbm42ff0j9"
+  },
+  {
+   "id": "crawl_2wmq8c",
+   "title": "What's the story with Scotland boss Pocognoli - is it time to go?",
+   "summary": "The sense of drift in this Scotland team can't go on much longer. Is it too late for Sebastien Pocognoli to win back players and fans?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T00:19:58.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0abe/live/50ce4e30-e21e-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0abe/live/50ce4e30-e21e-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "What's the story with Scotland boss Pocognoli - is it time to go?",
+   "summary_en": "The sense of drift in this Scotland team can't go on much longer. Is it too late for Sebastien Pocognoli to win back players and fans?",
+   "share_id": "MN202611_2wmq8cipm2"
+  },
   {
    "id": "crawl_11ht6kx",
    "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
@@ -63,5 +103,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-17T00:32:19.718Z"
+ "updated": "2026-11-17T01:46:04.137Z"
 }

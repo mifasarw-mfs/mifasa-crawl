@@ -1,6 +1,6 @@
 {
  "day": "2026-11-16",
- "count": 108,
+ "count": 109,
  "articles": [
   {
    "id": "crawl_vq7h5v",
@@ -201,6 +201,26 @@
    "title_en": "Houthi rebel advance in Yemen may further destabilise global economy",
    "summary_en": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
    "share_id": "MN202611_1grtrc0mnsu"
+  },
+  {
+   "id": "crawl_bljew0",
+   "title": "Football Daily",
+   "summary": "Was England 3-2 Spain Tuchel's best win yet? And is Trafford primed to be new number one?",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pnbcy5?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/p0pnbcy5?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T21:14:00.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnbcz4.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnbcz4.jpg",
+   "title_en": "Football Daily",
+   "summary_en": "Was England 3-2 Spain Tuchel's best win yet? And is Trafford primed to be new number one?",
+   "share_id": "MN202611_bljew0cjem"
   },
   {
    "id": "crawl_7q5baq",
@@ -2198,5 +2218,5 @@
    "share_id": "MN202611_9h0okawny0"
   }
  ],
- "updated": "2026-11-17T00:32:19.719Z"
+ "updated": "2026-11-17T01:46:04.138Z"
 }
