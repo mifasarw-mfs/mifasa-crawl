@@ -1,5 +1,65 @@
 [
  {
+  "id": "crawl_1wddph1",
+  "title": "Pakistan's solar revolution seems unstoppable - but there's a problem",
+  "summary": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
+  "link": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T23:34:56.000Z",
+  "source": "BBC Science",
+  "category": "science",
+  "lang": "en",
+  "keywords": [
+   "BBC Science",
+   "science"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f9b/live/9d67ed20-e29e-11f1-8dda-8925a81c3da5.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f9b/live/9d67ed20-e29e-11f1-8dda-8925a81c3da5.jpg",
+  "title_en": "Pakistan's solar revolution seems unstoppable - but there's a problem",
+  "summary_en": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
+  "share_id": "MN202611_1wddph16lxv"
+ },
+ {
+  "id": "crawl_sksv3a",
+  "title": "Republic of Ireland talisman Parrott caps dream year with two more goals",
+  "summary": "Republic of Ireland striker Troy Parrott reflects on a transformative 12 months for both club and country after scoring a double in the win against Kosovo.",
+  "link": "https://www.bbc.co.uk/sport/football/articles/cqzjr3yr2z0eo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cqzjr3yr2z0eo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T23:10:33.000Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8700/live/18d492f0-e2d2-11f1-99ed-7de3e5932968.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8700/live/18d492f0-e2d2-11f1-99ed-7de3e5932968.jpg",
+  "title_en": "Republic of Ireland talisman Parrott caps dream year with two more goals",
+  "summary_en": "Republic of Ireland striker Troy Parrott reflects on a transformative 12 months for both club and country after scoring a double in the win against Kosovo.",
+  "share_id": "MN202611_sksv3akshw"
+ },
+ {
+  "id": "crawl_w21mvp",
+  "title": "Thomas Markle charged over child sex abuse material in Philippines",
+  "summary": "Markle is being held in prison in the US on a separate charge and has previously denied all of the allegations.",
+  "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T22:44:15.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
+  "title_en": "Thomas Markle charged over child sex abuse material in Philippines",
+  "summary_en": "Markle is being held in prison in the US on a separate charge and has previously denied all of the allegations.",
+  "share_id": "MN202611_w21mvpujcj"
+ },
+ {
   "id": "crawl_11tv88t",
   "title": "Fears toxic lagoon fire led to cancer and miscarriages",
   "summary": "The incident took place in Llwyneinion in August 1980.",
@@ -127,22 +187,22 @@
  },
  {
   "id": "crawl_1y9xxxh",
-  "title": "Nvidia reports bumper results as firm says it not reinstating Huang",
-  "summary": "Nvidia's ousted CEO Jensen Huang earlier on Tuesday offered to return, despite the board's disinterest.",
+  "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
+  "summary": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang.",
   "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-17T21:45:13.000Z",
-  "source": "BBC Business",
-  "category": "business",
+  "source": "BBC World",
+  "category": "world",
   "lang": "en",
   "keywords": [
-   "BBC Business",
-   "business"
+   "BBC World",
+   "world"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082e/live/14e6ac60-e2d1-11f1-99a1-253766e7ad8b.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082e/live/14e6ac60-e2d1-11f1-99a1-253766e7ad8b.jpg",
-  "title_en": "Nvidia reports bumper results as firm says it not reinstating Huang",
-  "summary_en": "Nvidia's ousted CEO Jensen Huang earlier on Tuesday offered to return, despite the board's disinterest.",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
+  "title_en": "Nvidia reports bumper results as firm says it's not reinstating Huang",
+  "summary_en": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang.",
   "share_id": "MN202611_1y9xxxhqueb"
  },
  {
@@ -280,8 +340,8 @@
    "BBC World",
    "world"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d1/live/31a610b0-e2b9-11f1-bee0-ef418afc697f.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d1/live/31a610b0-e2b9-11f1-bee0-ef418afc697f.jpg",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42be/live/81981920-e2db-11f1-950d-ffe0c8f51f90.png",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42be/live/81981920-e2db-11f1-950d-ffe0c8f51f90.png",
   "title_en": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
   "summary_en": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
   "share_id": "MN202611_139ackz391t"
@@ -391,6 +451,26 @@
   "title_en": "Russian military plane crashes, killing all 19 on board",
   "summary_en": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
   "share_id": "MN202611_1d68n9g1jqa"
+ },
+ {
+  "id": "crawl_1v3ye0q",
+  "title": "Government backs welfare shake-up to prevent 'lost generation'",
+  "summary": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+  "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T18:43:05.000Z",
+  "source": "BBC Business",
+  "category": "business",
+  "lang": "en",
+  "keywords": [
+   "BBC Business",
+   "business"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf5e/live/7e3d3ce0-e2b0-11f1-8226-87dfa5049e9a.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf5e/live/7e3d3ce0-e2b0-11f1-8226-87dfa5049e9a.jpg",
+  "title_en": "Government backs welfare shake-up to prevent 'lost generation'",
+  "summary_en": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+  "share_id": "MN202611_1v3ye0qrahk"
  },
  {
   "id": "crawl_102u4hh",
@@ -571,12 +651,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-17T17:19:56.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Business",
+  "category": "business",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Business",
+   "business"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg",
@@ -719,7 +799,7 @@
  {
   "id": "crawl_1mecc60",
   "title": "Senegal and Morocco lead Afcon qualifiers but Tunisia protest",
-  "summary": "Senegal, Cameroon and Morocco lead six qualifiers for the 2027 Africa Cup of Nations, while Nigeria's bid to reach the finals suffers another setback.",
+  "summary": "Senegal, Cameroon and Morocco qualify for the 2027 Africa Cup of Nations, but Nigeria are in trouble, and struggling Tunisia fail with an impassioned penalty protest.",
   "link": "https://www.bbc.co.uk/sport/football/articles/c5evrgrvw1ezo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/sport/football/articles/c5evrgrvw1ezo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-17T16:18:05.000Z",
@@ -733,7 +813,7 @@
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7391/live/363a56f0-e29a-11f1-8dda-8925a81c3da5.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7391/live/363a56f0-e29a-11f1-8dda-8925a81c3da5.jpg",
   "title_en": "Senegal and Morocco lead Afcon qualifiers but Tunisia protest",
-  "summary_en": "Senegal, Cameroon and Morocco lead six qualifiers for the 2027 Africa Cup of Nations, while Nigeria's bid to reach the finals suffers another setback.",
+  "summary_en": "Senegal, Cameroon and Morocco qualify for the 2027 Africa Cup of Nations, but Nigeria are in trouble, and struggling Tunisia fail with an impassioned penalty protest.",
   "share_id": "MN202611_1mecc6049km"
  },
  {
@@ -17136,86 +17216,5 @@
   "title_en": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
   "summary_en": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, one expert says.",
   "share_id": "MN202611_1hreltj7iad"
- },
- {
-  "id": "crawl_1unvdy5",
-  "title": "Free Sad lamps given out as disorder 'makes it hard to do anything on darker days'",
-  "summary": "Seasonal Affective Disorder can affect mood, energy and sleep during the winter months.",
-  "link": "https://www.bbc.co.uk/news/articles/c6wyvy50r2ewo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/c6wyvy50r2ewo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-11T22:40:57.000Z",
-  "source": "BBC Health",
-  "category": "health",
-  "lang": "en",
-  "keywords": [
-   "BBC Health",
-   "health"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d720/live/b37e9d50-de77-11f1-b441-2b33b063138f.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d720/live/b37e9d50-de77-11f1-b441-2b33b063138f.jpg",
-  "title_en": "Free Sad lamps given out as disorder 'makes it hard to do anything on darker days'",
-  "summary_en": "Seasonal Affective Disorder can affect mood, energy and sleep during the winter months.",
-  "share_id": "MN202611_1unvdy5oaez"
- },
- {
-  "id": "crawl_14dek1y",
-  "title": "RGB Identifies “Negative Narratives” on Rwanda’s Governance as a Threat",
-  "summary": "KIGALI – The Rwanda Governance Board (RGB) has identified negative narratives about Rwanda’s governance as one of the threats facing the country, according to its new 2026–2029 Strategic Plan. The… The post RGB Identifies “Negative Narratives” on Rwanda’s Governance as a Threat appeared first on KT PRESS .",
-  "link": "https://www.ktpress.rw/2026/11/rgb-identifies-negative-narratives-on-rwandas-governance-as-a-threat/",
-  "url": "https://www.ktpress.rw/2026/11/rgb-identifies-negative-narratives-on-rwandas-governance-as-a-threat/",
-  "date": "2026-11-11T22:27:33.000Z",
-  "source": "KT Press",
-  "category": "news",
-  "lang": "en",
-  "keywords": [
-   "KT Press",
-   "news",
-   "National",
-   "big-story",
-   "latestnews"
-  ],
-  "title_en": "RGB Identifies “Negative Narratives” on Rwanda’s Governance as a Threat",
-  "summary_en": "KIGALI – The Rwanda Governance Board (RGB) has identified negative narratives about Rwanda’s governance as one of the threats facing the country, according to its new 2026–2029 Strategic Plan. The… The post RGB Identifies “Negative Narratives” on Rwanda’s Governance as a Threat appeared first on KT PRESS .",
-  "share_id": "MN202611_14dek1yenfo"
- },
- {
-  "id": "crawl_3ub76",
-  "title": "Welsh NHS bosses call for multi-year health funding",
-  "summary": "Next week Welsh ministers will unveil next year's draft spending plans for all public services.",
-  "link": "https://www.bbc.co.uk/news/articles/cmn80735d3eqo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cmn80735d3eqo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-11T22:26:26.000Z",
-  "source": "BBC Health",
-  "category": "health",
-  "lang": "en",
-  "keywords": [
-   "BBC Health",
-   "health"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e42/live/3601ddd0-dde4-11f1-9cf4-b188db5b2d8c.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e42/live/3601ddd0-dde4-11f1-9cf4-b188db5b2d8c.jpg",
-  "title_en": "Welsh NHS bosses call for multi-year health funding",
-  "summary_en": "Next week Welsh ministers will unveil next year's draft spending plans for all public services.",
-  "share_id": "MN202611_3ub76r9n4"
- },
- {
-  "id": "crawl_1fba9o5",
-  "title": "Lego marketplace BrickLink offline after 'unusual activity' detected",
-  "summary": "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.",
-  "link": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-11T22:26:18.000Z",
-  "source": "BBC Technology",
-  "category": "tech",
-  "lang": "en",
-  "keywords": [
-   "BBC Technology",
-   "tech"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38f3/live/c4e58c50-de1a-11f1-9f86-23852740988a.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38f3/live/c4e58c50-de1a-11f1-9f86-23852740988a.jpg",
-  "title_en": "Lego marketplace BrickLink offline after 'unusual activity' detected",
-  "summary_en": "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.",
-  "share_id": "MN202611_1fba9o5364z"
  }
 ]

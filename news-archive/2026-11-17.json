@@ -1,7 +1,67 @@
 {
  "day": "2026-11-17",
- "count": 115,
+ "count": 119,
  "articles": [
+  {
+   "id": "crawl_1wddph1",
+   "title": "Pakistan's solar revolution seems unstoppable - but there's a problem",
+   "summary": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
+   "link": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T23:34:56.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f9b/live/9d67ed20-e29e-11f1-8dda-8925a81c3da5.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f9b/live/9d67ed20-e29e-11f1-8dda-8925a81c3da5.jpg",
+   "title_en": "Pakistan's solar revolution seems unstoppable - but there's a problem",
+   "summary_en": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
+   "share_id": "MN202611_1wddph16lxv"
+  },
+  {
+   "id": "crawl_sksv3a",
+   "title": "Republic of Ireland talisman Parrott caps dream year with two more goals",
+   "summary": "Republic of Ireland striker Troy Parrott reflects on a transformative 12 months for both club and country after scoring a double in the win against Kosovo.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqzjr3yr2z0eo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqzjr3yr2z0eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T23:10:33.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8700/live/18d492f0-e2d2-11f1-99ed-7de3e5932968.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8700/live/18d492f0-e2d2-11f1-99ed-7de3e5932968.jpg",
+   "title_en": "Republic of Ireland talisman Parrott caps dream year with two more goals",
+   "summary_en": "Republic of Ireland striker Troy Parrott reflects on a transformative 12 months for both club and country after scoring a double in the win against Kosovo.",
+   "share_id": "MN202611_sksv3akshw"
+  },
+  {
+   "id": "crawl_w21mvp",
+   "title": "Thomas Markle charged over child sex abuse material in Philippines",
+   "summary": "Markle is being held in prison in the US on a separate charge and has previously denied all of the allegations.",
+   "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T22:44:15.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "Thomas Markle charged over child sex abuse material in Philippines",
+   "summary_en": "Markle is being held in prison in the US on a separate charge and has previously denied all of the allegations.",
+   "share_id": "MN202611_w21mvpujcj"
+  },
   {
    "id": "crawl_11tv88t",
    "title": "Fears toxic lagoon fire led to cancer and miscarriages",
@@ -342,6 +402,26 @@
    "title_en": "Russian military plane crashes killing all 19 on board",
    "summary_en": "Russia's defence ministry says a technical malfunction was the likely cause of the crash in the Kemerovo region.",
    "share_id": "MN202611_1d68n9g1jqa"
+  },
+  {
+   "id": "crawl_1v3ye0q",
+   "title": "Government backs welfare shake-up to prevent 'lost generation'",
+   "summary": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+   "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T18:43:05.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf5e/live/7e3d3ce0-e2b0-11f1-8226-87dfa5049e9a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf5e/live/7e3d3ce0-e2b0-11f1-8226-87dfa5049e9a.jpg",
+   "title_en": "Government backs welfare shake-up to prevent 'lost generation'",
+   "summary_en": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+   "share_id": "MN202611_1v3ye0qrahk"
   },
   {
    "id": "crawl_158sjrh",
@@ -2317,5 +2397,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-17T22:45:03.682Z"
+ "updated": "2026-11-17T23:39:54.015Z"
 }
