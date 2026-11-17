@@ -1,7 +1,27 @@
 {
  "day": "2026-11-17",
- "count": 31,
+ "count": 33,
  "articles": [
+  {
+   "id": "crawl_191kbcq",
+   "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
+   "summary": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
+   "link": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T09:41:07.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c57/live/770860f0-e268-11f1-900c-895604014268.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c57/live/770860f0-e268-11f1-900c-895604014268.jpg",
+   "title_en": "'We're a capitalist society': Grindr defends $120 a month premium tier",
+   "summary_en": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
+   "share_id": "MN202611_191kbcqd7tk"
+  },
   {
    "id": "crawl_aeczyk",
    "title": "Human Rights Watch yaneguye umugambi w'ibihugu bitanu vy'i Buraya wo kurungika abimukira mu Rwanda",
@@ -486,6 +506,26 @@
    "share_id": "MN202611_1rol0tfdxa9"
   },
   {
+   "id": "crawl_1ahyfwh",
+   "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
+   "summary": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan.",
+   "link": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T02:38:08.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eff/live/0fbc83f0-e11d-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eff/live/0fbc83f0-e11d-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
+   "summary_en": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan.",
+   "share_id": "MN202611_1ahyfwhrcdb"
+  },
+  {
    "id": "crawl_1m12z3u",
    "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
    "summary": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
@@ -626,5 +666,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-17T09:30:32.878Z"
+ "updated": "2026-11-17T09:42:45.721Z"
 }
