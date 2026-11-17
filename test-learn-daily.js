@@ -24,6 +24,7 @@ ok(w.has("ubukungu") && w.has("umujyi") && !w.has("kagame") && !w.has("kigali") 
 ok(!L.gate("cats", { url: "https://x", pos: "noun", defs: ["plural of cat"] }), "'plural of' stubs are rejected");
 ok(!L.gate("x", { url: "", pos: "noun", defs: ["a perfectly fine long definition"] }), "no source URL = rejected");
 ok(L.gate("ubukungu", { url: "https://en.wiktionary.org/wiki/ubukungu", pos: "noun", defs: ["economy"] }), "good definition passes");
+ok(L.gate("fall", { url: "https://x", pos: "verb", defs: ["To move to a lower position.", "to move to a lower position."] }).defs.length === 1, "duplicate senses are removed");
 ok(L.shortGloss({ defs: ["(economics) economy; wealth"] }) === "economy", "short English gloss for dictionary-auto");
 
 /* 4. a whole run with a fake network */

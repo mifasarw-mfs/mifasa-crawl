@@ -6041,6 +6041,7 @@ async function mifasaAskAsync(message, limit) {
       }
     } catch (e) { /* fall through to the normal answer */ }
   }
+  if (raw.length >= 6 && typeof mifasaLearnLookup === "function") { try { const ex = await mifasaLearnLookup(raw, { exact: true }); if (ex) return ex; } catch (e) { /* optional */ } }      // an exact question MIFASA already knows beats a loose local match
   const r = mifasaAskApi(raw, limit);
   const noAnswer = r && !r.html && (!r.items || !r.items.length);
   const weak = r && r.html && /(nta makuru ndabona|nta bisubizo|couldn't find|no results)/i.test(r.html) && (!r.items || !r.items.length);
@@ -7865,7 +7866,7 @@ function mifasaLearnLoad() {
         } catch (e) { done(); }
       });
     }
-    mifasaLearnLoadStatic();                         // approved answers from the owner's server (no wait)
+    MIFASA_LEARN.site = mifasaLearnLoadStatic();     // answers from learned/ on this site + approved answers from the owner's server (no wait here)
     return true;
   })();
   return MIFASA_LEARN.ready;
@@ -7985,15 +7986,21 @@ function mifasaLearnFind(qn, qen, lang) {
   return best;
 }
 
+/* the very same question (after normalising) already answered and CHECKED: used BEFORE the local engine, which can match a loose, wrong page ("fall" -> inflation) */
+function mifasaLearnExactFind(qn, lang) {
+  const r = MIFASA_LEARN.mem.get(mifasaLearnId(lang, qn));
+  return r && r.answer && (r.status === "approved" || r.status === "verified") ? { r, s: 1 } : null;
+}
 async function mifasaLearnLookup(raw, opt) {
   try {
     if (!mifasaLearnEligible(raw, opt)) return null;
     await mifasaLearnLoad();
+    if (!MIFASA_LEARN.mem.size && MIFASA_LEARN.site) await Promise.race([Promise.resolve(MIFASA_LEARN.site).catch(() => 0), new Promise(r => setTimeout(r, 5000))]);      // very first visit: wait (max 5s) for learned/ to arrive
     if (!MIFASA_LEARN.mem.size) { if (mifasaLearnQLang(raw) !== "en") mifasaLearnTranslate(raw, "rw", "en"); return null; }
     const lang = mifasaLearnQLang(raw), qn = mifasaLearnNorm(raw);
     let qen = lang === "en" ? qn : "";
-    if (lang !== "en") { const tr = await mifasaLearnTranslate(raw, lang, "en"); if (tr && tr.text) qen = mifasaLearnNorm(tr.text); }
-    const hit = mifasaLearnFind(qn, qen, lang);
+    if (lang !== "en" && !(opt && opt.exact)) { const tr = await mifasaLearnTranslate(raw, lang, "en"); if (tr && tr.text) qen = mifasaLearnNorm(tr.text); }
+    const hit = opt && opt.exact ? mifasaLearnExactFind(qn, lang) : mifasaLearnFind(qn, qen, lang);
     if (!hit) return null;
     const r = hit.r, want = lang === "en" ? "en" : "rw";
     let text = (r.answer_alt && r.answer_alt[want]) || (r.answer_lang === want ? r.answer : "");

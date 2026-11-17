@@ -102,7 +102,9 @@ const STUB_RE = /\b(?:plural|singular|inflection|alternative (?:form|spelling)|a
 function gate(word, info) {
   if (!info || !info.url || !/^https:\/\//.test(info.url)) return null;
   if (BLOCK_RE.test(word) || PRIVATE_RE.test(word)) return null;
-  const defs = info.defs.filter(d => d.length >= 6 && d.length <= 300 && !STUB_RE.test(d.slice(0, 80)) && !BLOCK_RE.test(d) && !PRIVATE_RE.test(d)).slice(0, 3);
+  const seen = new Set();                         // the same sense is often listed twice ("fall": "to move to a lower position..." x2)
+  const defs = info.defs.filter(d => d.length >= 6 && d.length <= 300 && !STUB_RE.test(d.slice(0, 80)) && !BLOCK_RE.test(d) && !PRIVATE_RE.test(d))
+    .filter(d => { const k = d.toLowerCase().replace(/[^a-z0-9 ]/g, "").replace(/\s+/g, " ").trim(); if (seen.has(k)) return false; seen.add(k); return true; }).slice(0, 3);
   if (!defs.length) return null;
   const text = defs.length === 1 ? defs[0] : defs.map((d, i) => (i + 1) + ". " + d).join(" ");
   return text.length <= 700 ? { pos: info.pos, defs, text, url: info.url } : null;
