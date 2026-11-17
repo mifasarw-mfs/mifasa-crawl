@@ -1,7 +1,47 @@
 {
  "day": "2026-11-17",
- "count": 101,
+ "count": 104,
  "articles": [
+  {
+   "id": "crawl_1mkx3fb",
+   "title": "Tech Life",
+   "summary": "Video gaming is huge - it's more lucrative than the movies and music combined.",
+   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T20:30:00.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnhxll.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnhxll.jpg",
+   "title_en": "Tech Life",
+   "summary_en": "Video gaming is huge - it's more lucrative than the movies and music combined.",
+   "share_id": "MN202611_1mkx3fbfw39"
+  },
+  {
+   "id": "crawl_139ackz",
+   "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+   "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+   "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T20:07:08.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d1/live/31a610b0-e2b9-11f1-bee0-ef418afc697f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d1/live/31a610b0-e2b9-11f1-bee0-ef418afc697f.jpg",
+   "title_en": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+   "summary_en": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+   "share_id": "MN202611_139ackz391t"
+  },
   {
    "id": "crawl_ljo2jh",
    "title": "Millwall open disciplinary proceedings against Baker",
@@ -81,6 +121,26 @@
    "title_en": "Russian military plane crashes killing all 19 on board",
    "summary_en": "Russia's defence ministry says a technical malfunction was the likely cause of the crash in the Kemerovo region.",
    "share_id": "MN202611_1d68n9g1jqa"
+  },
+  {
+   "id": "crawl_158sjrh",
+   "title": "Who to watch in Spain's election race",
+   "summary": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule.",
+   "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T18:13:45.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35a3/live/3ec32a00-df88-11f1-a5d4-0b20a170e974.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35a3/live/3ec32a00-df88-11f1-a5d4-0b20a170e974.jpg",
+   "title_en": "Who to watch in Spain's election race",
+   "summary_en": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule.",
+   "share_id": "MN202611_158sjrhlg8b"
   },
   {
    "id": "crawl_1ppv75m",
@@ -2036,5 +2096,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-17T20:23:23.179Z"
+ "updated": "2026-11-17T20:44:35.845Z"
 }
