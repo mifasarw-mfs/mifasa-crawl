@@ -1,7 +1,67 @@
 {
  "day": "2026-11-17",
- "count": 54,
+ "count": 57,
  "articles": [
+  {
+   "id": "crawl_1deeyte",
+   "title": "Speed camera fault may have allowed drivers to escape fines",
+   "summary": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+   "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T12:44:53.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a89/live/90911890-e282-11f1-b166-176de21e2352.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a89/live/90911890-e282-11f1-b166-176de21e2352.jpg",
+   "title_en": "Speed camera fault may have allowed drivers to escape fines",
+   "summary_en": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+   "share_id": "MN202611_1deeyte7va8"
+  },
+  {
+   "id": "crawl_4mgb9o",
+   "title": "Government must act now or lose Royal Mail, former minister warns",
+   "summary": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
+   "link": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T12:43:07.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9890/live/489f1940-e1c1-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9890/live/489f1940-e1c1-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Government must act now or lose Royal Mail, former minister warns",
+   "summary_en": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
+   "share_id": "MN202611_4mgb9o97qi"
+  },
+  {
+   "id": "crawl_e7lu1o",
+   "title": "Watch: Can Northern Ireland hit the right notes in Budapest?",
+   "summary": "As Northern Ireland prepare to face Hungary in a key Nations League encounter, BBC Sport NI teams up with the Ulster Orchestra to build up to the big game in Budapest in musical fashion.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cxyvd3z52dq5o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cxyvd3z52dq5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T12:40:23.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b7f/live/f97ce0e0-e283-11f1-b166-176de21e2352.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b7f/live/f97ce0e0-e283-11f1-b166-176de21e2352.jpg",
+   "title_en": "Watch: Can Northern Ireland hit the right notes in Budapest?",
+   "summary_en": "As Northern Ireland prepare to face Hungary in a key Nations League encounter, BBC Sport NI teams up with the Ulster Orchestra to build up to the big game in Budapest in musical fashion.",
+   "share_id": "MN202611_e7lu1oz5iy"
+  },
   {
    "id": "crawl_180jxm4",
    "title": "Giant lunar sculpture has visitors over the moon",
@@ -1089,5 +1149,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-17T12:20:04.784Z"
+ "updated": "2026-11-17T12:49:27.331Z"
 }
