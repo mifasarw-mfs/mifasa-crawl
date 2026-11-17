@@ -1,5 +1,45 @@
 [
  {
+  "id": "crawl_s2vrwv",
+  "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+  "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+  "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T00:00:03.000Z",
+  "source": "BBC Business",
+  "category": "business",
+  "lang": "en",
+  "keywords": [
+   "BBC Business",
+   "business"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca90/live/0c02f160-e1ac-11f1-8ee3-23d0d09d2796.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca90/live/0c02f160-e1ac-11f1-8ee3-23d0d09d2796.jpg",
+  "title_en": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+  "summary_en": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+  "share_id": "MN202611_s2vrwvoodp"
+ },
+ {
+  "id": "crawl_u3mszm",
+  "title": "We couldn't afford a house alone, so we bought one with strangers",
+  "summary": "People who can't afford to get on the housing ladder are buying homes with people they don't know.",
+  "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T00:00:02.000Z",
+  "source": "BBC Business",
+  "category": "business",
+  "lang": "en",
+  "keywords": [
+   "BBC Business",
+   "business"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aa8/live/134f7040-e181-11f1-9386-1b849272ca8f.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aa8/live/134f7040-e181-11f1-9386-1b849272ca8f.jpg",
+  "title_en": "We couldn't afford a house alone, so we bought one with strangers",
+  "summary_en": "People who can't afford to get on the housing ladder are buying homes with people they don't know.",
+  "share_id": "MN202611_u3mszmfpgg"
+ },
+ {
   "id": "crawl_vq7h5v",
   "title": "The AI start-ups fixing India's broken roads and messy land records",
   "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
@@ -17290,45 +17330,5 @@
   "title_en": "More than the Score",
   "summary_en": "The five nominees have been announced for the BBC World Service award",
   "share_id": "MN202611_1mkx3fbfw39"
- },
- {
-  "id": "crawl_jz7zlq",
-  "title": "Tech Life",
-  "summary": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
-  "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-10T20:30:00.000Z",
-  "source": "BBC Technology",
-  "category": "tech",
-  "lang": "en",
-  "keywords": [
-   "BBC Technology",
-   "tech"
-  ],
-  "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm9xfz.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm9xfz.jpg",
-  "title_en": "Tech Life",
-  "summary_en": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
-  "share_id": "MN202611_jz7zlqz998"
- },
- {
-  "id": "crawl_3zt4qp",
-  "title": "Tech Life",
-  "summary": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
-  "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyv?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyv?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-10T20:30:00.000Z",
-  "source": "BBC Technology",
-  "category": "tech",
-  "lang": "en",
-  "keywords": [
-   "BBC Technology",
-   "tech"
-  ],
-  "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm9xfz.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm9xfz.jpg",
-  "title_en": "Tech Life",
-  "summary_en": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
-  "share_id": "MN202611_3zt4qpm99b"
  }
 ]
