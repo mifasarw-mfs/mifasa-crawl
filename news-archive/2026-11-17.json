@@ -1,7 +1,27 @@
 {
  "day": "2026-11-17",
- "count": 6,
+ "count": 7,
  "articles": [
+  {
+   "id": "crawl_132pgkj",
+   "title": "Vance avuga ko azafata icyemezo 'mu gihe runaka umwaka utaha' niba aziyamamaza mu matora ya perezida w'Amerika yo mu 2028",
+   "summary": "Visi Perezida w'Amerika yabwiye igitangazamakuru Fox News ko nafata icyemezo cyo kwiyamamaza cyangwa kutiyamamaza, azaba acyiyemeje \"neza neza uko kizaba kimeze kose\".",
+   "link": "https://www.bbc.co.uk/gahuza/live/cmn80gdzel6pt?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/gahuza/live/cmn80gdzel6pt?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T04:27:26.193Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15f9/live/970f0300-e23a-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15f9/live/970f0300-e23a-11f1-99b6-a35a62fa4264.jpg",
+   "title_rw": "Vance avuga ko azafata icyemezo 'mu gihe runaka umwaka utaha' niba aziyamamaza mu matora ya perezida w'Amerika yo mu 2028",
+   "summary_rw": "Visi Perezida w'Amerika yabwiye igitangazamakuru Fox News ko nafata icyemezo cyo kwiyamamaza cyangwa kutiyamamaza, azaba acyiyemeje \"neza neza uko kizaba kimeze kose\".",
+   "share_id": "MN202611_132pgkji1oh"
+  },
   {
    "id": "crawl_1mbm42f",
    "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
@@ -123,5 +143,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-17T03:30:45.852Z"
+ "updated": "2026-11-17T04:28:45.187Z"
 }
