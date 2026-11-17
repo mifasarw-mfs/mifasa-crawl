@@ -1,7 +1,87 @@
 {
  "day": "2026-11-17",
- "count": 97,
+ "count": 101,
  "articles": [
+  {
+   "id": "crawl_ljo2jh",
+   "title": "Millwall open disciplinary proceedings against Baker",
+   "summary": "Millwall are undertaking disciplinary proceedings against forward Benicio Baker, BBC Sport understands.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6m2lelll4n1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6m2lelll4n1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T20:00:52.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b19e/live/34866790-e2a9-11f1-8226-87dfa5049e9a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b19e/live/34866790-e2a9-11f1-8226-87dfa5049e9a.jpg",
+   "title_en": "Millwall open disciplinary proceedings against Baker",
+   "summary_en": "Millwall are undertaking disciplinary proceedings against forward Benicio Baker, BBC Sport understands.",
+   "share_id": "MN202611_ljo2jhfzy3"
+  },
+  {
+   "id": "crawl_xh1qoy",
+   "title": "Nearly 8 in 10 East Africans Are Below 35 as Regional Population Hits 361 Million",
+   "summary": "Nearly eight in every 10 people living in the East African Community (EAC) are below the age of 35, with the region’s population reaching an estimated 361.1 million in 2026,… The post Nearly 8 in 10 East Africans Are Below 35 as Regional Population Hits 361 Million appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/nearly-8-in-10-east-africans-are-below-35-as-regional-population-hits-361-million/",
+   "url": "https://www.ktpress.rw/2026/11/nearly-8-in-10-east-africans-are-below-35-as-regional-population-hits-361-million/",
+   "date": "2026-11-17T19:41:41.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "Regional",
+    "big-story"
+   ],
+   "title_en": "Nearly 8 in 10 East Africans Are Below 35 as Regional Population Hits 361 Million",
+   "summary_en": "Nearly eight in every 10 people living in the East African Community (EAC) are below the age of 35, with the region’s population reaching an estimated 361.1 million in 2026,… The post Nearly 8 in 10 East Africans Are Below 35 as Regional Population Hits 361 Million appeared first on KT PRESS .",
+   "share_id": "MN202611_xh1qoy4rpc"
+  },
+  {
+   "id": "crawl_15igcai",
+   "title": "Madrid-bound Gabriel posts farewell Man Utd message",
+   "summary": "TeenagerJJ Gabriel posts a farewell message saying Manchester United will always be part of his story, as he prepares for a likely move to Real Madrid.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqvg2e4208zmo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqvg2e4208zmo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T19:35:06.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ad8/live/9eaa4ed0-e2b7-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ad8/live/9eaa4ed0-e2b7-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Madrid-bound Gabriel posts farewell Man Utd message",
+   "summary_en": "TeenagerJJ Gabriel posts a farewell message saying Manchester United will always be part of his story, as he prepares for a likely move to Real Madrid.",
+   "share_id": "MN202611_15igcai89p4"
+  },
+  {
+   "id": "crawl_1d68n9g",
+   "title": "Russian military plane crashes killing all 19 on board",
+   "summary": "Russia's defence ministry says a technical malfunction was the likely cause of the crash in the Kemerovo region.",
+   "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T19:33:55.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c578/live/c69a9120-e2c1-11f1-99b6-a35a62fa4264.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c578/live/c69a9120-e2c1-11f1-99b6-a35a62fa4264.png",
+   "title_en": "Russian military plane crashes killing all 19 on board",
+   "summary_en": "Russia's defence ministry says a technical malfunction was the likely cause of the crash in the Kemerovo region.",
+   "share_id": "MN202611_1d68n9g1jqa"
+  },
   {
    "id": "crawl_1ppv75m",
    "title": "Hunger Games prequel splits opinion: 'Surreally awful' or 'surprisingly strong'",
@@ -1956,5 +2036,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-17T18:22:12.154Z"
+ "updated": "2026-11-17T20:23:23.179Z"
 }
