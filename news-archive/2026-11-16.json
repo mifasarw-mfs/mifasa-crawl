@@ -1,6 +1,6 @@
 {
  "day": "2026-11-16",
- "count": 113,
+ "count": 114,
  "articles": [
   {
    "id": "crawl_vq7h5v",
@@ -483,6 +483,26 @@
    "title_en": "Emma Barnett to leave Radio 4's Today for new BBC Show",
    "summary_en": "Barnett, who has presented Today and Woman's Hour, will front a multiplatform show in the New Year.",
    "share_id": "MN202611_1e8e3tx70ar"
+  },
+  {
+   "id": "crawl_1cnoy5h",
+   "title": "Nations Championship final round - what SA need to top table",
+   "summary": "Who needs what to qualify for the inaugural Nations Championship final on 29 November?",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cgrkpl5x70eo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cgrkpl5x70eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T17:36:25.000Z",
+   "source": "BBC Sport Africa",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Sport Africa",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f050/live/1ab37e40-e1e4-11f1-9f14-b33806cfd783.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f050/live/1ab37e40-e1e4-11f1-9f14-b33806cfd783.jpg",
+   "title_en": "Nations Championship final round - what SA need to top table",
+   "summary_en": "Who needs what to qualify for the inaugural Nations Championship final on 29 November?",
+   "share_id": "MN202611_1cnoy5h0cw3"
   },
   {
    "id": "crawl_1rl7dfr",
@@ -2298,5 +2318,5 @@
    "share_id": "MN202611_9h0okawny0"
   }
  ],
- "updated": "2026-11-17T07:49:17.277Z"
+ "updated": "2026-11-17T11:29:02.795Z"
 }
