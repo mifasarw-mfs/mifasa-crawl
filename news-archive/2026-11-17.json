@@ -1,7 +1,47 @@
 {
  "day": "2026-11-17",
- "count": 104,
+ "count": 107,
  "articles": [
+  {
+   "id": "crawl_249wf4",
+   "title": "Rangers great Brand dies aged 89",
+   "summary": "Rangers have paid tribute to Ralph Brand, one of the most prolific goalscorers in the club's history, who has died aged 89.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c933g4eegmp8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c933g4eegmp8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T21:02:57.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1db1/live/95aec9c0-e2c9-11f1-99ed-7de3e5932968.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1db1/live/95aec9c0-e2c9-11f1-99ed-7de3e5932968.jpg",
+   "title_en": "Rangers great Brand dies aged 89",
+   "summary_en": "Rangers have paid tribute to Ralph Brand, one of the most prolific goalscorers in the club's history, who has died aged 89.",
+   "share_id": "MN202611_249wf45vsu"
+  },
+  {
+   "id": "crawl_xcob3w",
+   "title": "Campaigners take claim 'regulatory gap' risks poultry farms polluting rivers to High Court",
+   "summary": "It follows years of debate over the alleged impacts on rivers in an area dubbed \"poultry capital\".",
+   "link": "https://www.bbc.co.uk/news/articles/cm894x41jw54o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm894x41jw54o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T21:00:51.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f55/live/3a2a1670-e294-11f1-8dda-8925a81c3da5.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f55/live/3a2a1670-e294-11f1-8dda-8925a81c3da5.png",
+   "title_en": "Campaigners take claim 'regulatory gap' risks poultry farms polluting rivers to High Court",
+   "summary_en": "It follows years of debate over the alleged impacts on rivers in an area dubbed \"poultry capital\".",
+   "share_id": "MN202611_xcob3wh7kq"
+  },
   {
    "id": "crawl_1mkx3fb",
    "title": "Tech Life",
@@ -21,6 +61,26 @@
    "title_en": "Tech Life",
    "summary_en": "Video gaming is huge - it's more lucrative than the movies and music combined.",
    "share_id": "MN202611_1mkx3fbfw39"
+  },
+  {
+   "id": "crawl_1ot6r5u",
+   "title": "Tech Life",
+   "summary": "Video gaming is huge - it's more lucrative than the movies and music combined.",
+   "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyw?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyw?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T20:30:00.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnhxll.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnhxll.jpg",
+   "title_en": "Tech Life",
+   "summary_en": "Video gaming is huge - it's more lucrative than the movies and music combined.",
+   "share_id": "MN202611_1ot6r5uvtpc"
   },
   {
    "id": "crawl_139ackz",
@@ -2096,5 +2156,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-17T20:44:35.845Z"
+ "updated": "2026-11-17T21:15:32.546Z"
 }
