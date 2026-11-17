@@ -1,7 +1,28 @@
 {
  "day": "2026-11-17",
- "count": 107,
+ "count": 109,
  "articles": [
+  {
+   "id": "crawl_unnwjp",
+   "title": "Amavubi atsinzwe na Mali mu mukino warebwe na Perezida Kagame(Amafoto)",
+   "summary": "Kuri uyu wa Kabiri, Ikipe y’igihugu y’u Rwanda Amavubi yatsindiwe na Mali ibitego 2-0 kuri Stade Amahoro, mu mukino w’umunsi wa kane wo gushaka itike y’Igikombe cya Afurika 2027, warebwe na (…)",
+   "link": "https://www.kigalitoday.com/imikino/football/article/amavubi-atsinzwe-na-mali-mu-mukino-warebwe-na-perezida-kagame-amafoto",
+   "url": "https://www.kigalitoday.com/imikino/football/article/amavubi-atsinzwe-na-mali-mu-mukino-warebwe-na-perezida-kagame-amafoto",
+   "date": "2026-11-17T21:32:04.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Football"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/img-20261117-wa0099.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/img-20261117-wa0099.jpg",
+   "title_rw": "Amavubi atsinzwe na Mali mu mukino warebwe na Perezida Kagame(Amafoto)",
+   "summary_rw": "Kuri uyu wa Kabiri, Ikipe y’igihugu y’u Rwanda Amavubi yatsindiwe na Mali ibitego 2-0 kuri Stade Amahoro, mu mukino w’umunsi wa kane wo gushaka itike y’Igikombe cya Afurika 2027, warebwe na (…)",
+   "share_id": "MN202611_unnwjpq42r"
+  },
   {
    "id": "crawl_249wf4",
    "title": "Rangers great Brand dies aged 89",
@@ -81,6 +102,26 @@
    "title_en": "Tech Life",
    "summary_en": "Video gaming is huge - it's more lucrative than the movies and music combined.",
    "share_id": "MN202611_1ot6r5uvtpc"
+  },
+  {
+   "id": "crawl_jz7zlq",
+   "title": "Tech Life",
+   "summary": "Video gaming is huge - it's more lucrative than the movies and music combined.",
+   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T20:30:00.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnhxll.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnhxll.jpg",
+   "title_en": "Tech Life",
+   "summary_en": "Video gaming is huge - it's more lucrative than the movies and music combined.",
+   "share_id": "MN202611_jz7zlqz998"
   },
   {
    "id": "crawl_139ackz",
@@ -2156,5 +2197,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-17T21:15:32.546Z"
+ "updated": "2026-11-17T21:42:30.703Z"
 }
