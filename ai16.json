@@ -4029,6 +4029,54 @@
    ],
    "auto": true,
    "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_a0dccf1e_q",
+   "label_rw": "Ubwami bwa Kongo",
+   "label_en": "Kingdom of Kongo",
+   "patterns_en": [
+    "Where was the Kingdom of Kongo located?",
+    "Which modern countries were part of the Kingdom of Kongo?",
+    "When was the Kingdom of Kongo founded?"
+   ],
+   "patterns_rw": [
+    "Ubwami bwa Kongo bwabaga he?",
+    "Ni ibihe bihugu by'ubu byari bigize Ubwami bwa Kongo?",
+    "Ubwami bwa Kongo bwagaragaye ryari?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubwami bwa Kongo bwari ubwami bukomeye muri Afurika yo hagati. Bwategekaga ubutaka burimo ibihugu bitatu by'ubu ari byo Angola, Repubulika Iharanira Demokarasi ya Kongo, na Repubulika ya Kongo. Bwatangiye mu kinyejana cya cumi na gatatu maze butera imbere mu bucuruzi n'ubutegetsi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The Kingdom of Kongo was a powerful state in central Africa. Its territory included parts of modern-day Angola, the Democratic Republic of the Congo, and the Republic of the Congo. It was founded around the thirteenth century and grew through trade and political centralization.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-17"
+  },
+  {
+   "id": "ai16_0a9b1ad2_q",
+   "label_rw": "Intambara za Punike",
+   "label_en": "The Punic Wars",
+   "patterns_en": [
+    "Which civilizations fought in the Punic Wars?",
+    "Who won the Punic Wars?",
+    "When did the Punic Wars take place?"
+   ],
+   "patterns_rw": [
+    "Intambara za Punike zahuje ibihugu iki?",
+    "Ni nde watsinze Intambara za Punike?",
+    "Intambara za Punike zabaye ryari?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Intambara za Punike zari eshatu zahuje Roma na Carthage hagati ya 264 na 146 mbere ya Yezu. Izi ntambara zatsinzwe na Roma. Zatumye Roma iba ubutegetsi bukomeye mu Nyanja ya Mediterane.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The Punic Wars were a series of three conflicts fought between Rome and Carthage from 264 to 146 BC. Rome emerged victorious in these wars. This outcome established Roman dominance over the Mediterranean region.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-17"
   }
  ],
  "knowledge": [
@@ -7344,6 +7392,45 @@
    ],
    "auto": true,
    "taught": "2026-11-16"
+  },
+  {
+   "id": "ai16_a0dccf1e",
+   "category": "history",
+   "title_rw": "Ubwami bwa Kongo",
+   "title_en": "Kingdom of Kongo",
+   "summary_rw": "Ubwami bwa Kongo bwari ubwami bukomeye muri Afurika yo hagati. Bwategekaga ubutaka burimo ibihugu bitatu by'ubu ari byo Angola, Repubulika Iharanira Demokarasi ya Kongo, na Repubulika ya Kongo. Bwatangiye mu kinyejana cya cumi na gatatu maze butera imbere mu bucuruzi n'ubutegetsi.",
+   "summary_en": "The Kingdom of Kongo was a powerful state in central Africa. Its territory included parts of modern-day Angola, the Democratic Republic of the Congo, and the Republic of the Congo. It was founded around the thirteenth century and grew through trade and political centralization.",
+   "keywords": [
+    "kongo",
+    "ubwami",
+    "afurika",
+    "angola",
+    "amateka",
+    "kingdom",
+    "history",
+    "africa"
+   ],
+   "auto": true,
+   "taught": "2026-11-17"
+  },
+  {
+   "id": "ai16_0a9b1ad2",
+   "category": "history",
+   "title_rw": "Intambara za Punike",
+   "title_en": "The Punic Wars",
+   "summary_rw": "Intambara za Punike zari eshatu zahuje Roma na Carthage hagati ya 264 na 146 mbere ya Yezu. Izi ntambara zatsinzwe na Roma. Zatumye Roma iba ubutegetsi bukomeye mu Nyanja ya Mediterane.",
+   "summary_en": "The Punic Wars were a series of three conflicts fought between Rome and Carthage from 264 to 146 BC. Rome emerged victorious in these wars. This outcome established Roman dominance over the Mediterranean region.",
+   "keywords": [
+    "carthage",
+    "roma",
+    "punike",
+    "mediterane",
+    "intambara",
+    "rome",
+    "wars"
+   ],
+   "auto": true,
+   "taught": "2026-11-17"
   }
  ]
 }
