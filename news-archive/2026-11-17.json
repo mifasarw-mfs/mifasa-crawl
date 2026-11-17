@@ -1,6 +1,6 @@
 {
  "day": "2026-11-17",
- "count": 84,
+ "count": 85,
  "articles": [
   {
    "id": "crawl_1094tk4",
@@ -41,6 +41,26 @@
    "title_en": "Senegal become first side to book Afcon 2027 spot",
    "summary_en": "Senegal become the first side to qualify for the 2027 Africa Cup of Nations, while Egypt miss the chance to join them and Nigeria suffer another setback.",
    "share_id": "MN202611_1mecc6049km"
+  },
+  {
+   "id": "crawl_1i8aqgr",
+   "title": "York City player pleads not guilty over alleged punch of Rochdale fan",
+   "summary": "Hiram Boateng has pleaded not guilty to a public order charge at Manchester Magistrates' Court.",
+   "link": "https://www.bbc.co.uk/news/articles/c60mdvd4vpy4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c60mdvd4vpy4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T16:03:15.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f106/live/1294a7e0-e296-11f1-8dda-8925a81c3da5.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f106/live/1294a7e0-e296-11f1-8dda-8925a81c3da5.jpg",
+   "title_en": "York City player pleads not guilty over alleged punch of Rochdale fan",
+   "summary_en": "Hiram Boateng has pleaded not guilty to a public order charge at Manchester Magistrates' Court.",
+   "share_id": "MN202611_1i8aqgr3mxl"
   },
   {
    "id": "crawl_3dfskj",
@@ -1696,5 +1716,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-17T16:25:43.232Z"
+ "updated": "2026-11-17T16:29:34.691Z"
 }
