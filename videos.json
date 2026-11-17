@@ -2173,6 +2173,25 @@
   },
   {
    "duration_estimate": "unknown",
+   "category": "Africa",
+   "tags": [
+    "africa",
+    "archive"
+   ],
+   "url": "https://archive.org/details/youtube-0htaV3gssLU",
+   "title": "Michael Jackson 'MOONWALKER' Full Movie (1988) - 4K UPSCALE",
+   "description": "#music​ #video​ #nostalgia​ Highest quality available, thanks to Topaz Video AI Enhancer. My AI UltraHD upscale of Michael's iconic full-length feature film. No copyright infringement intended. Copied",
+   "date": "2026-07-17",
+   "channel": "Internet Archive: Africa",
+   "channel_url": "https://archive.org/details/youtube-0htaV3gssLU",
+   "license": "CC BY 4.0",
+   "thumb": "https://archive.org/services/img/youtube-0htaV3gssLU",
+   "credit": "CINEKYD MEDIA ARCHIVE",
+   "handle": "Internet Archive: Africa",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
    "category": "Amashusho",
    "tags": [
     "tiv15"
@@ -2656,6 +2675,22 @@
    "channel_url": "https://www.youtube.com/channel/UCoHW_xXfJD5fVbvh19xEHPA",
    "license": "YouTube (embed)",
    "handle": "ibangaryurukundo",
+   "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Amashusho",
+   "tags": [
+    "akabariro"
+   ],
+   "url": "https://youtu.be/PE42lZ02ND4",
+   "title": "GABANYA VOLUME UJYE KURE YABANA WIGE UKO BASWERA NEZA BAKANYAZA IGITUBA 🔥♥️",
+   "description": "",
+   "date": "2026-11-17",
+   "channel": "Akabariro",
+   "channel_url": "https://www.youtube.com/channel/UC1D_RM_JHWLcrKXoWoB60Ng",
+   "license": "YouTube (embed)",
+   "handle": "akabariro",
    "source": "crawl"
   }
  ]
