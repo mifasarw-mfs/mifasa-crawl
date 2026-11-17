@@ -1,5 +1,51 @@
 [
  {
+  "id": "crawl_12dlvgr",
+  "title": "WAMUFARANSA Yibye Moto Kamubayeho Mutesi Sicovia arumiwe 😱",
+  "summary": "#wamufaransa #funnyvideo #mutesiscovia",
+  "link": "https://www.youtube.com/watch?v=yT1vapHYiw0",
+  "url": "https://www.youtube.com/watch?v=yT1vapHYiw0",
+  "date": "2026-11-17T14:17:51.000Z",
+  "source": "Wamufaransa Comedy YouTube",
+  "category": "entertainment",
+  "lang": "rw",
+  "keywords": [
+   "Wamufaransa Comedy YouTube",
+   "entertainment",
+   "video"
+  ],
+  "video": {
+   "provider": "youtube",
+   "id": "yT1vapHYiw0"
+  },
+  "type": "video",
+  "image": "https://i2.ytimg.com/vi/yT1vapHYiw0/hqdefault.jpg",
+  "thumbnail": "https://i2.ytimg.com/vi/yT1vapHYiw0/hqdefault.jpg",
+  "title_rw": "WAMUFARANSA Yibye Moto Kamubayeho Mutesi Sicovia arumiwe 😱",
+  "summary_rw": "#wamufaransa #funnyvideo #mutesiscovia",
+  "share_id": "MN202611_12dlvgrhyax"
+ },
+ {
+  "id": "crawl_1u87q6s",
+  "title": "Rooney says he considered taking his own life at Man Utd",
+  "summary": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
+  "link": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T14:09:19.000Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e89d/live/4c076e50-e281-11f1-b166-176de21e2352.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e89d/live/4c076e50-e281-11f1-b166-176de21e2352.jpg",
+  "title_en": "Rooney says he considered taking his own life at Man Utd",
+  "summary_en": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
+  "share_id": "MN202611_1u87q6sznle"
+ },
+ {
   "id": "crawl_16480e7",
   "title": "NHS gets £500m boost in Wales' first budget under Plaid Cymru",
   "summary": "Health spending will rise, but the government says it is grappling with \"tight\" public finances.",
@@ -451,6 +497,26 @@
   "title_rw": "#diamondplatnumz #Bts #MvuaYaBaraka #viral #trendingshorts",
   "summary_rw": "#diamondplatnumz #Bts #MvuaYaBaraka #viral #trendingshorts",
   "share_id": "MN202611_1unck2pof9b"
+ },
+ {
+  "id": "crawl_1przb5k",
+  "title": "MP to challenge 'ill-thought' Shakespeare move",
+  "summary": "Manuela Perteghella said the decision to move the Institute to Birmingham is 'shocking'.",
+  "link": "https://www.bbc.co.uk/news/articles/cm3wgejy5qq8o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cm3wgejy5qq8o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T12:29:02.000Z",
+  "source": "BBC Entertainment",
+  "category": "entertainment",
+  "lang": "en",
+  "keywords": [
+   "BBC Entertainment",
+   "entertainment"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e983/live/c903f930-e283-11f1-b166-176de21e2352.png",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e983/live/c903f930-e283-11f1-b166-176de21e2352.png",
+  "title_en": "MP to challenge 'ill-thought' Shakespeare move",
+  "summary_en": "Manuela Perteghella said the decision to move the Institute to Birmingham is 'shocking'.",
+  "share_id": "MN202611_1przb5ks7me"
  },
  {
   "id": "crawl_180jxm4",
@@ -1481,7 +1547,7 @@
  {
   "id": "crawl_2r3ho0",
   "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-  "summary": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
+  "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
   "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-17T04:18:32.000Z",
@@ -1495,7 +1561,7 @@
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
   "title_en": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-  "summary_en": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
+  "summary_en": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
   "share_id": "MN202611_2r3ho00g3y"
  },
  {
@@ -17202,71 +17268,5 @@
   "title_rw": "IBYEGERA BYA TRUMP BIRI KU KAGOZI KANDI NIBITANGIRA KWEGUZWA BIZAMUKORAHO| KWIHIMURA KW'ABADEMOKRATE",
   "summary_rw": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
   "share_id": "MN202611_1mr7azl3dtr"
- },
- {
-  "id": "crawl_xvftgh",
-  "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-  "summary": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
-  "link": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-11T13:25:47.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae61/live/09e205f0-ddb6-11f1-90cd-85e940e3a009.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae61/live/09e205f0-ddb6-11f1-90cd-85e940e3a009.jpg",
-  "title_en": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-  "summary_en": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
-  "share_id": "MN202611_xvftgh8pxb"
- },
- {
-  "id": "crawl_zgzwq0",
-  "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-  "summary": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
-  "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-11T13:24:29.000Z",
-  "source": "BBC Science",
-  "category": "science",
-  "lang": "en",
-  "keywords": [
-   "BBC Science",
-   "science"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ce6/live/65c341e0-ddcf-11f1-a701-fddedf244c16.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ce6/live/65c341e0-ddcf-11f1-a701-fddedf244c16.jpg",
-  "title_en": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-  "summary_en": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
-  "share_id": "MN202611_zgzwq0st6u"
- },
- {
-  "id": "crawl_wo51jv",
-  "title": "Amakuru mashya mu #Amavubi i Bamako || Yiteguye Mali mu mukino w'ishiraniro",
-  "summary": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
-  "link": "https://www.youtube.com/watch?v=Fk993F6DuHs",
-  "url": "https://www.youtube.com/watch?v=Fk993F6DuHs",
-  "date": "2026-11-11T13:00:09.000Z",
-  "source": "Radio Rwanda YouTube",
-  "category": "news",
-  "lang": "rw",
-  "keywords": [
-   "Radio Rwanda YouTube",
-   "news",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "Fk993F6DuHs"
-  },
-  "type": "video",
-  "image": "https://i3.ytimg.com/vi/Fk993F6DuHs/hqdefault.jpg",
-  "thumbnail": "https://i3.ytimg.com/vi/Fk993F6DuHs/hqdefault.jpg",
-  "title_rw": "Amakuru mashya mu #Amavubi i Bamako || Yiteguye Mali mu mukino w'ishiraniro",
-  "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
-  "share_id": "MN202611_wo51jv14e1"
  }
 ]
