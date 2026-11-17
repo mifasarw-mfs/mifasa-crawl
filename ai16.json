@@ -4077,6 +4077,54 @@
    ],
    "auto": true,
    "taught": "2026-11-17"
+  },
+  {
+   "id": "ai16_1ccf1f8c_q",
+   "label_rw": "Ubutayu bwa Sahara",
+   "label_en": "The Sahara Desert",
+   "patterns_en": [
+    "Where is the Sahara Desert located?",
+    "What characterizes the Sahara Desert?",
+    "Is the Sahara the largest desert in the world?"
+   ],
+   "patterns_rw": [
+    "Ubutayu bwa Sahara buherereye he?",
+    "Ni iki kiranga ubutayu bwa Sahara?",
+    "Ese Sahara ni ubutayu bunini ku isi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubutayu bwa Sahara ni ubutayu bunini cyane ku isi bufite ubutaka bwumye. Buherereye mu majyaruguru ya Afurika. Bugira ubushyuhe bwinshi ku zuba n'imbeho cyane nijoro.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The Sahara Desert is the largest hot desert in the world, located in northern Africa. It is characterized by extremely arid conditions, high daytime temperatures, and significant temperature drops at night.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-17"
+  },
+  {
+   "id": "ai16_218e1c29_q",
+   "label_rw": "Inyanja ya Mediterane",
+   "label_en": "The Mediterranean Sea",
+   "patterns_en": [
+    "Where is the Mediterranean Sea located?",
+    "What is the area of the Mediterranean Sea?",
+    "Which ocean does the Mediterranean Sea connect to?"
+   ],
+   "patterns_rw": [
+    "Inyanja ya Mediterane iherereye he?",
+    "Ni ubuhe buso bw'Inyanja ya Mediterane?",
+    "Inyanja ya Mediterane ihura n'iyihe nyanja?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Inyanja ya Mediterane iherereye hagati y'Uburayi, Afurika na Aziya. Ifite ubuso bwa kilometero kare miliyoni ebyiri n'igice. Ihuriye n'Inyanja ya Atlantika binyuze mu gace ka Gibraltar. Igira uruhare rukomeye mu bucuruzi n'amateka y'ibihugu biyikikije.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The Mediterranean Sea is located between Europe, Africa, and Asia. It covers an area of about 2.5 million square kilometers. It connects to the Atlantic Ocean through the Strait of Gibraltar. It plays a major role in the trade and history of surrounding countries.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-17"
   }
  ],
  "knowledge": [
@@ -7428,6 +7476,46 @@
     "intambara",
     "rome",
     "wars"
+   ],
+   "auto": true,
+   "taught": "2026-11-17"
+  },
+  {
+   "id": "ai16_1ccf1f8c",
+   "category": "world",
+   "title_rw": "Ubutayu bwa Sahara",
+   "title_en": "The Sahara Desert",
+   "summary_rw": "Ubutayu bwa Sahara ni ubutayu bunini cyane ku isi bufite ubutaka bwumye. Buherereye mu majyaruguru ya Afurika. Bugira ubushyuhe bwinshi ku zuba n'imbeho cyane nijoro.",
+   "summary_en": "The Sahara Desert is the largest hot desert in the world, located in northern Africa. It is characterized by extremely arid conditions, high daytime temperatures, and significant temperature drops at night.",
+   "keywords": [
+    "sahara",
+    "ubutayu",
+    "afurika",
+    "ubushyuhe",
+    "desert",
+    "africa",
+    "heat",
+    "sand"
+   ],
+   "auto": true,
+   "taught": "2026-11-17"
+  },
+  {
+   "id": "ai16_218e1c29",
+   "category": "world",
+   "title_rw": "Inyanja ya Mediterane",
+   "title_en": "The Mediterranean Sea",
+   "summary_rw": "Inyanja ya Mediterane iherereye hagati y'Uburayi, Afurika na Aziya. Ifite ubuso bwa kilometero kare miliyoni ebyiri n'igice. Ihuriye n'Inyanja ya Atlantika binyuze mu gace ka Gibraltar. Igira uruhare rukomeye mu bucuruzi n'amateka y'ibihugu biyikikije.",
+   "summary_en": "The Mediterranean Sea is located between Europe, Africa, and Asia. It covers an area of about 2.5 million square kilometers. It connects to the Atlantic Ocean through the Strait of Gibraltar. It plays a major role in the trade and history of surrounding countries.",
+   "keywords": [
+    "mediterane",
+    "mediterranean",
+    "inyanja",
+    "sea",
+    "uburayi",
+    "europe",
+    "afurika",
+    "africa"
    ],
    "auto": true,
    "taught": "2026-11-17"
