@@ -1,7 +1,27 @@
 {
  "day": "2026-11-17",
- "count": 43,
+ "count": 44,
  "articles": [
+  {
+   "id": "crawl_zv4292",
+   "title": "Has Infantino already won Fifa election as challengers are revealed?",
+   "summary": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T10:32:07.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/576c/live/d124d9e0-e26a-11f1-b19c-7b42f37bea48.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/576c/live/d124d9e0-e26a-11f1-b19c-7b42f37bea48.jpg",
+   "title_en": "Has Infantino already won Fifa election as challengers are revealed?",
+   "summary_en": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?",
+   "share_id": "MN202611_zv4292vzno"
+  },
   {
    "id": "crawl_cmmbye",
    "title": "How new US chip restrictions on South East Asia will hit China",
@@ -868,5 +888,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-17T10:33:22.177Z"
+ "updated": "2026-11-17T10:41:47.886Z"
 }
