@@ -1,7 +1,47 @@
 {
  "day": "2026-11-17",
- "count": 82,
+ "count": 84,
  "articles": [
+  {
+   "id": "crawl_1094tk4",
+   "title": "US loses measles elimination status after 26 years amid record case numbers",
+   "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+   "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T16:19:30.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b33/live/4927cca0-dfd1-11f1-8c90-4fc10fbf9142.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b33/live/4927cca0-dfd1-11f1-8c90-4fc10fbf9142.jpg",
+   "title_en": "US loses measles elimination status after 26 years amid record case numbers",
+   "summary_en": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+   "share_id": "MN202611_1094tk4xq0y"
+  },
+  {
+   "id": "crawl_1mecc60",
+   "title": "Senegal become first side to book Afcon 2027 spot",
+   "summary": "Senegal become the first side to qualify for the 2027 Africa Cup of Nations, while Egypt miss the chance to join them and Nigeria suffer another setback.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5evrgrvw1ezo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c5evrgrvw1ezo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T16:18:05.000Z",
+   "source": "BBC Sport Africa",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Sport Africa",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7391/live/363a56f0-e29a-11f1-8dda-8925a81c3da5.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7391/live/363a56f0-e29a-11f1-8dda-8925a81c3da5.jpg",
+   "title_en": "Senegal become first side to book Afcon 2027 spot",
+   "summary_en": "Senegal become the first side to qualify for the 2027 Africa Cup of Nations, while Egypt miss the chance to join them and Nigeria suffer another setback.",
+   "share_id": "MN202611_1mecc6049km"
+  },
   {
    "id": "crawl_3dfskj",
    "title": "FA wants to host Nations League finals in England",
@@ -1656,5 +1696,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-17T16:12:52.491Z"
+ "updated": "2026-11-17T16:25:43.232Z"
 }
