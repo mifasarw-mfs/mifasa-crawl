@@ -1,7 +1,148 @@
 {
  "day": "2026-11-17",
- "count": 33,
+ "count": 43,
  "articles": [
+  {
+   "id": "crawl_cmmbye",
+   "title": "How new US chip restrictions on South East Asia will hit China",
+   "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+   "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T10:22:09.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg",
+   "title_en": "How new US chip restrictions on South East Asia will hit China",
+   "summary_en": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+   "share_id": "MN202611_cmmbyef8f8"
+  },
+  {
+   "id": "crawl_16uvgrf",
+   "title": "Blackburn boss Mowbray 'steps back' over health issues",
+   "summary": "Blackburn Rovers head coach Tony Mowbray steps back from his role with the Championship club due to health issues.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6dx190nkvl4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6dx190nkvl4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T10:21:47.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+   "title_en": "Blackburn boss Mowbray 'steps back' over health issues",
+   "summary_en": "Blackburn Rovers head coach Tony Mowbray steps back from his role with the Championship club due to health issues.",
+   "share_id": "MN202611_16uvgrfne61"
+  },
+  {
+   "id": "crawl_1hkd19p",
+   "title": "Will President Trump meet Kim Jong Un?",
+   "summary": "President Trump says he would be keen to meet the North Korea leader at the Apec summit in China.",
+   "link": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T10:13:27.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4583/live/99273800-e263-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4583/live/99273800-e263-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Will President Trump meet Kim Jong Un?",
+   "summary_en": "President Trump says he would be keen to meet the North Korea leader at the Apec summit in China.",
+   "share_id": "MN202611_1hkd19p5mdn"
+  },
+  {
+   "id": "crawl_iatwnp",
+   "title": "Woman who accuses Russell Brand of rape says prison message 'upsetting'",
+   "summary": "Mia Latter spoke to the BBC after the jailed comedian claimed he was innocent of offences against four other women, in comments on a podcast following his convction.",
+   "link": "https://www.bbc.co.uk/news/articles/cqvg27zyrd99o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqvg27zyrd99o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T10:11:00.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a85/live/44d4a5b0-e26f-11f1-b19c-7b42f37bea48.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a85/live/44d4a5b0-e26f-11f1-b19c-7b42f37bea48.jpg",
+   "title_en": "Woman who accuses Russell Brand of rape says prison message 'upsetting'",
+   "summary_en": "Mia Latter spoke to the BBC after the jailed comedian claimed he was innocent of offences against four other women, in comments on a podcast following his convction.",
+   "share_id": "MN202611_iatwnpmt4j"
+  },
+  {
+   "id": "crawl_1upzyzi",
+   "title": "DRC’s OIF Candidate Lumumba Was Withdrawn Without Her Knowledge",
+   "summary": "DRC’s Juliana Lumumba may have been thrown into the battle for Secretary General seat of La Francophonie organisation without her interest, and later her candidature humiliatingly withdrawn without her knowledge, it has emerged. Taarifa Investigative Desk has established from Kinshasa’s diplomatic sources that last year Lumumba had declined to run for OIF Secretary General office. […] The post…",
+   "link": "https://taarifa.rw/2026/11/17/drcs-oif-candidate-lumumba-withdrawn-without-her-knowledge/",
+   "url": "https://taarifa.rw/2026/11/17/drcs-oif-candidate-lumumba-withdrawn-without-her-knowledge/",
+   "date": "2026-11-17T09:51:39.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "La Francophonie Cambodia Special Report"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261117-114809.jpg?fit=720%2C427&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261117-114809.jpg?fit=720%2C427&ssl=1",
+   "title_en": "DRC’s OIF Candidate Lumumba Was Withdrawn Without Her Knowledge",
+   "summary_en": "DRC’s Juliana Lumumba may have been thrown into the battle for Secretary General seat of La Francophonie organisation without her interest, and later her candidature humiliatingly withdrawn without her knowledge, it has emerged. Taarifa Investigative Desk has established from Kinshasa’s diplomatic sources that last year Lumumba had declined to run for OIF Secretary General office. […] The post…",
+   "share_id": "MN202611_1upzyzirwe4"
+  },
+  {
+   "id": "crawl_1d03ahr",
+   "title": "Pochettino says he would tell Guardiola to take USA job",
+   "summary": "Mauricio Pochettino says he would tell Pep Guardiola to take the United States job if the former Manchester City manager was ever offered it.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crgj36e6ee5yo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/crgj36e6ee5yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T09:48:24.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc69/live/2fe36070-e269-11f1-900c-895604014268.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc69/live/2fe36070-e269-11f1-900c-895604014268.jpg",
+   "title_en": "Pochettino says he would tell Guardiola to take USA job",
+   "summary_en": "Mauricio Pochettino says he would tell Pep Guardiola to take the United States job if the former Manchester City manager was ever offered it.",
+   "share_id": "MN202611_1d03ahrv7wd"
+  },
+  {
+   "id": "crawl_1kpd0eh",
+   "title": "More than £160m needed to clean up one of Europe's largest illegal dumps",
+   "summary": "Environment Minister Andrew Muir has described what happened at Mobuoy, near Derry, as an \"absolute scandal\" which could take a generation to fix.",
+   "link": "https://www.bbc.co.uk/news/articles/cr5y18lg31nxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cr5y18lg31nxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T09:46:31.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5254/live/cbfabb10-e26f-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5254/live/cbfabb10-e26f-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "More than £160m needed to clean up one of Europe's largest illegal dumps",
+   "summary_en": "Environment Minister Andrew Muir has described what happened at Mobuoy, near Derry, as an \"absolute scandal\" which could take a generation to fix.",
+   "share_id": "MN202611_1kpd0eh5wvb"
+  },
   {
    "id": "crawl_191kbcq",
    "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
@@ -21,6 +162,47 @@
    "title_en": "'We're a capitalist society': Grindr defends $120 a month premium tier",
    "summary_en": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
    "share_id": "MN202611_191kbcqd7tk"
+  },
+  {
+   "id": "crawl_1d5ps2x",
+   "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
+   "summary": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
+   "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T09:27:44.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c83/live/904d30a0-e1a4-11f1-973a-a76c1b2f887a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c83/live/904d30a0-e1a4-11f1-973a-a76c1b2f887a.jpg",
+   "title_en": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
+   "summary_en": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
+   "share_id": "MN202611_1d5ps2xiojr"
+  },
+  {
+   "id": "crawl_1ah8avn",
+   "title": "France to Extract, Process Rare Earth Minerals in Malaysia",
+   "summary": "France has revealed that it is slated to begin extraction and processing for Rare Earth Minerals in Malaysia. President Emmanuel Macron of France is currently visiting Malaysia where he has signed a package of cooperation deals with the kingdom. “Starting in 2027, the Carester-Malaco project will enable rare earths to be processed in Malaysia, with […] The post France to Extract, Process Rare…",
+   "link": "https://taarifa.rw/2026/11/17/france-to-extract-process-rare-earth-minerals-in-malaysia/",
+   "url": "https://taarifa.rw/2026/11/17/france-to-extract-process-rare-earth-minerals-in-malaysia/",
+   "date": "2026-11-17T09:27:14.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "Politics"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261117-122459.jpg?fit=720%2C444&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261117-122459.jpg?fit=720%2C444&ssl=1",
+   "title_en": "France to Extract, Process Rare Earth Minerals in Malaysia",
+   "summary_en": "France has revealed that it is slated to begin extraction and processing for Rare Earth Minerals in Malaysia. President Emmanuel Macron of France is currently visiting Malaysia where he has signed a package of cooperation deals with the kingdom. “Starting in 2027, the Carester-Malaco project will enable rare earths to be processed in Malaysia, with […] The post France to Extract, Process Rare…",
+   "share_id": "MN202611_1ah8avnvju9"
   },
   {
    "id": "crawl_aeczyk",
@@ -324,6 +506,26 @@
    "title_en": "Ronaldo, Maradona, Baggio - what happened to the World XI?",
    "summary_en": "Football's biggest stars used to turn out in their prime for the Rest of the World XI, something that would not seem possible today.",
    "share_id": "MN202611_1eykrduk53"
+  },
+  {
+   "id": "crawl_f4a2pb",
+   "title": "Body of Melbourne Cup horse found dumped in Sydney skip",
+   "summary": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip.",
+   "link": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T07:01:00.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/632b/live/b9ed96e0-e251-11f1-876d-1dfc6cf3b709.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/632b/live/b9ed96e0-e251-11f1-876d-1dfc6cf3b709.jpg",
+   "title_en": "Body of Melbourne Cup horse found dumped in Sydney skip",
+   "summary_en": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip.",
+   "share_id": "MN202611_f4a2pb2z65"
   },
   {
    "id": "crawl_n786y1",
@@ -666,5 +868,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-17T09:42:45.721Z"
+ "updated": "2026-11-17T10:33:22.177Z"
 }
