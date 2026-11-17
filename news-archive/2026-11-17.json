@@ -1,6 +1,6 @@
 {
  "day": "2026-11-17",
- "count": 5,
+ "count": 6,
  "articles": [
   {
    "id": "crawl_1mbm42f",
@@ -63,6 +63,26 @@
    "share_id": "MN202611_11ht6kxb967"
   },
   {
+   "id": "crawl_e4klj0",
+   "title": "Kidnap, child marriage and poverty: Why millions of Nigerian children can't go to school",
+   "summary": "BBC World Service launches programme in Hausa for out-of-school children in West Africa.",
+   "link": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T00:08:19.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f550/live/94dd3480-e1ae-11f1-b0a4-450a350911f4.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f550/live/94dd3480-e1ae-11f1-b0a4-450a350911f4.jpg",
+   "title_en": "Kidnap, child marriage and poverty: Why millions of Nigerian children can't go to school",
+   "summary_en": "BBC World Service launches programme in Hausa for out-of-school children in West Africa.",
+   "share_id": "MN202611_e4klj0dhzu"
+  },
+  {
    "id": "crawl_s2vrwv",
    "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
    "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
@@ -103,5 +123,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-17T01:46:04.137Z"
+ "updated": "2026-11-17T03:30:45.852Z"
 }

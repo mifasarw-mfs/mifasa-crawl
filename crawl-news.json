@@ -60,6 +60,26 @@
   "share_id": "MN202611_11ht6kxb967"
  },
  {
+  "id": "crawl_e4klj0",
+  "title": "Kidnap, child marriage and poverty: Why millions of Nigerian children can't go to school",
+  "summary": "BBC World Service launches programme in Hausa for out-of-school children in West Africa.",
+  "link": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T00:08:19.000Z",
+  "source": "BBC Africa",
+  "category": "news",
+  "lang": "en",
+  "keywords": [
+   "BBC Africa",
+   "news"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f550/live/94dd3480-e1ae-11f1-b0a4-450a350911f4.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f550/live/94dd3480-e1ae-11f1-b0a4-450a350911f4.jpg",
+  "title_en": "Kidnap, child marriage and poverty: Why millions of Nigerian children can't go to school",
+  "summary_en": "BBC World Service launches programme in Hausa for out-of-school children in West Africa.",
+  "share_id": "MN202611_e4klj0dhzu"
+ },
+ {
   "id": "crawl_s2vrwv",
   "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
   "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
@@ -17310,25 +17330,5 @@
   "title_en": "Man City thrash Inter to claim first CL win of season",
   "summary_en": "Manchester City come from behind to beat Inter Milan in style for their first Champions League win of the season.",
   "share_id": "MN202611_l3nfgk0qxu"
- },
- {
-  "id": "crawl_mpy3mb",
-  "title": "Why does Australia want Brits to swap Sydney for the outback?",
-  "summary": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions.",
-  "link": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-10T21:17:00.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0fb/live/0de51890-dbfe-11f1-bb7b-19f7beb970a6.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0fb/live/0de51890-dbfe-11f1-bb7b-19f7beb970a6.jpg",
-  "title_en": "Why does Australia want Brits to swap Sydney for the outback?",
-  "summary_en": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions.",
-  "share_id": "MN202611_mpy3mbr035"
  }
 ]
