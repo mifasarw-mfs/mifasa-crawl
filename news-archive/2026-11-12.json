@@ -1,6 +1,6 @@
 {
  "day": "2026-11-12",
- "count": 136,
+ "count": 137,
  "articles": [
   {
    "id": "crawl_ha7obw",
@@ -965,6 +965,26 @@
    "title_en": "Uganda Airlines Set to Launch Daily Kigali–Entebbe Flights",
    "summary_en": "Uganda Airlines is preparing to strengthen air connectivity between Rwanda and Uganda with the introduction of daily flights linking Kigali and Entebbe, in a move expected to boost tourism, trade, business travel and regional integration. The new route, which officially launches on November 18, 2026, was presented at a travel trade engagement held at Kigali […] The post Uganda Airlines Set to…",
    "share_id": "MN202611_11o55h8x2vu"
+  },
+  {
+   "id": "crawl_1gy3w30",
+   "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
+   "summary": "A deadline to secure a buyer was set to expire at midnight, but the retailer now has an extra 10 days to find a buyer.",
+   "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T14:29:59.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
+   "title_en": "Poundland gets more time to secure a rescue deal as emergency talks continue",
+   "summary_en": "A deadline to secure a buyer was set to expire at midnight, but the retailer now has an extra 10 days to find a buyer.",
+   "share_id": "MN202611_1gy3w30wsju"
   },
   {
    "id": "crawl_5u1f7v",
@@ -2929,5 +2949,5 @@
    "share_id": "MN202611_1qpleoceb56"
   }
  ],
- "updated": "2026-11-14T15:20:01.416Z"
+ "updated": "2026-11-17T06:58:05.811Z"
 }
