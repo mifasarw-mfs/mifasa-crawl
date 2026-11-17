@@ -1,7 +1,108 @@
 {
  "day": "2026-11-17",
- "count": 19,
+ "count": 26,
  "articles": [
+  {
+   "id": "crawl_1mdgqc7",
+   "title": "'I spent more than two days waiting in A&E' - NHS bids to end corridor care",
+   "summary": "The Welsh government has vowed to speed up emergency care and help patients get home sooner.",
+   "link": "https://www.bbc.co.uk/news/articles/c6gm3912vvvyo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6gm3912vvvyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T08:41:37.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad72/live/7d1f4140-e1d5-11f1-99a1-253766e7ad8b.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad72/live/7d1f4140-e1d5-11f1-99a1-253766e7ad8b.png",
+   "title_en": "'I spent more than two days waiting in A&E' - NHS bids to end corridor care",
+   "summary_en": "The Welsh government has vowed to speed up emergency care and help patients get home sooner.",
+   "share_id": "MN202611_1mdgqc79mt1"
+  },
+  {
+   "id": "crawl_s902k",
+   "title": "Owono did not deserve 12-match ban - Pique",
+   "summary": "FC Andorra owner Gerard Pique says goalkeeper Jesus Owono did not deserve the 12-match suspension he received following his challenge which resulted in the death of Tenerife forward Jesus de Miguel.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T08:28:10.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/729a/live/738fe790-e25e-11f1-84cb-b9a30b11458c.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/729a/live/738fe790-e25e-11f1-84cb-b9a30b11458c.jpg",
+   "title_en": "Owono did not deserve 12-match ban - Pique",
+   "summary_en": "FC Andorra owner Gerard Pique says goalkeeper Jesus Owono did not deserve the 12-match suspension he received following his challenge which resulted in the death of Tenerife forward Jesus de Miguel.",
+   "share_id": "MN202611_s902k4zga"
+  },
+  {
+   "id": "crawl_1yzwf0i",
+   "title": "Rwanda’s Nduhungirehe Blasts DRC’s Kayikwamba For Lying",
+   "summary": "Rwanda’s Foreign Affairs Minister Oliveir Nduhungirehe has lambasted his Congolese counterpart Wagner Kayikwamba for lying about what transpired behind closed doors during elections for the next La Francophonie Secretary General in Cambodia. “DRC’s Minister of Foreign Affairs, who took part in closed-door meeting of Francophonie heads of state, should avoid lying to the public,” Nduhungirehe […]…",
+   "link": "https://taarifa.rw/2026/11/17/rwandas-nduhungirehe-blasts-drcs-kayikwamba-for-lying/",
+   "url": "https://taarifa.rw/2026/11/17/rwandas-nduhungirehe-blasts-drcs-kayikwamba-for-lying/",
+   "date": "2026-11-17T08:24:36.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "La Francophonie Cambodia Special Report"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261117-102114.jpg?fit=720%2C445&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261117-102114.jpg?fit=720%2C445&ssl=1",
+   "title_en": "Rwanda’s Nduhungirehe Blasts DRC’s Kayikwamba For Lying",
+   "summary_en": "Rwanda’s Foreign Affairs Minister Oliveir Nduhungirehe has lambasted his Congolese counterpart Wagner Kayikwamba for lying about what transpired behind closed doors during elections for the next La Francophonie Secretary General in Cambodia. “DRC’s Minister of Foreign Affairs, who took part in closed-door meeting of Francophonie heads of state, should avoid lying to the public,” Nduhungirehe […]…",
+   "share_id": "MN202611_1yzwf0ibew0"
+  },
+  {
+   "id": "crawl_ndgoek",
+   "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
+   "summary": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
+   "link": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T08:22:08.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a7e/live/95f17ee0-e257-11f1-8199-439bbe0918ee.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a7e/live/95f17ee0-e257-11f1-8199-439bbe0918ee.jpg",
+   "title_en": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
+   "summary_en": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
+   "share_id": "MN202611_ndgoek9kve"
+  },
+  {
+   "id": "crawl_1plqwo1",
+   "title": "How do NI replace 'perfect player' Donley?",
+   "summary": "With Jamie Donley suspended for Northern Ireland's Nations League visit to Hungary on Tuesday night, manager Michael O'Neill has a decision to make around a starting striker.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c3rrg9xdp5ypo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c3rrg9xdp5ypo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T08:17:08.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e779/live/81e02c10-e1d2-11f1-99b6-a35a62fa4264.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e779/live/81e02c10-e1d2-11f1-99b6-a35a62fa4264.png",
+   "title_en": "How do NI replace 'perfect player' Donley?",
+   "summary_en": "With Jamie Donley suspended for Northern Ireland's Nations League visit to Hungary on Tuesday night, manager Michael O'Neill has a decision to make around a starting striker.",
+   "share_id": "MN202611_1plqwo1iu2n"
+  },
   {
    "id": "crawl_1x8yprl",
    "title": "Nigerians among 12 suspects arrested in $4.5m Canada luxury car theft syndicate",
@@ -41,6 +142,47 @@
    "title_en": "How and when to see the peak of the Leonid meteor shower",
    "summary_en": "The Leonid meteor shower, known for its bright and fast meteors, is set to peak on Tuesday night.",
    "share_id": "MN202611_1qe7zjkm05q"
+  },
+  {
+   "id": "crawl_vfa5e1",
+   "title": "Are Scotland still too reliant on 'old guard'?",
+   "summary": "After a bruising defeat in Switzerland to conclude Scotland's Nations League campaign, questions are being asked about the direction of travel under new head coach Sebastien Pocognoli.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6zxvd1p4pr0o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6zxvd1p4pr0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T07:55:21.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a72d/live/90cf5280-e260-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a72d/live/90cf5280-e260-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Are Scotland still too reliant on 'old guard'?",
+   "summary_en": "After a bruising defeat in Switzerland to conclude Scotland's Nations League campaign, questions are being asked about the direction of travel under new head coach Sebastien Pocognoli.",
+   "share_id": "MN202611_vfa5e122sn"
+  },
+  {
+   "id": "crawl_lwjuhx",
+   "title": "Rwanda Takes in Rejected EU Asylum Seekers",
+   "summary": "Five European Union (EU) countries have announced plans to establish a migrant deportation centre in Rwanda, marking a significant shift in Europe’s migration policy and reviving a controversial arrangement previously pursued by the United Kingdom. Germany, Austria, Denmark, Greece and the Netherlands unveiled the initiative on Monday, November 16, 2026, during a migration conference in […] The…",
+   "link": "https://taarifa.rw/2026/11/17/rwanda-takes-in-rejected-eu-asylum-seekers/",
+   "url": "https://taarifa.rw/2026/11/17/rwanda-takes-in-rejected-eu-asylum-seekers/",
+   "date": "2026-11-17T07:35:45.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "National"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261117-103302.jpg?fit=720%2C468&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261117-103302.jpg?fit=720%2C468&ssl=1",
+   "title_en": "Rwanda Takes in Rejected EU Asylum Seekers",
+   "summary_en": "Five European Union (EU) countries have announced plans to establish a migrant deportation centre in Rwanda, marking a significant shift in Europe’s migration policy and reviving a controversial arrangement previously pursued by the United Kingdom. Germany, Austria, Denmark, Greece and the Netherlands unveiled the initiative on Monday, November 16, 2026, during a migration conference in […] The…",
+   "share_id": "MN202611_lwjuhx4fsz"
   },
   {
    "id": "crawl_1eykrd",
@@ -383,5 +525,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-17T08:15:48.715Z"
+ "updated": "2026-11-17T08:44:16.132Z"
 }
