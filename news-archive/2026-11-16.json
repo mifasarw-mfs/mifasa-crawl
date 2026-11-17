@@ -1,6 +1,6 @@
 {
  "day": "2026-11-16",
- "count": 111,
+ "count": 113,
  "articles": [
   {
    "id": "crawl_vq7h5v",
@@ -41,6 +41,26 @@
    "title_en": "Customers report service outages at major US banks",
    "summary_en": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
    "share_id": "MN202611_hf6x5vztmp"
+  },
+  {
+   "id": "crawl_n02k8y",
+   "title": "'Is that not match-fixing?' - Erasmus questions officiating",
+   "summary": "South Africa head coach Rassie Erasmus predicts Ireland fly-half Sam Prendergast will not face a ban after being cited, and questions standards in officiating.",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ck0jx1dnd38go?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ck0jx1dnd38go?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T23:14:48.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07e0/live/84fc2000-e1fc-11f1-ba8d-01314a590f72.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07e0/live/84fc2000-e1fc-11f1-ba8d-01314a590f72.jpg",
+   "title_en": "'Is that not match-fixing?' - Erasmus questions officiating",
+   "summary_en": "South Africa head coach Rassie Erasmus predicts Ireland fly-half Sam Prendergast will not face a ban after being cited, and questions standards in officiating.",
+   "share_id": "MN202611_n02k8yr6lc"
   },
   {
    "id": "crawl_1o4851x",
@@ -261,6 +281,26 @@
    "title_en": "Football Daily",
    "summary_en": "Was England 3-2 Spain Tuchel's best win yet? And is Trafford primed to be new number one?",
    "share_id": "MN202611_bljew0cjem"
+  },
+  {
+   "id": "crawl_o1sulc",
+   "title": "Pope Leo hit by flying rosary while waving to crowds in Peru",
+   "summary": "The pontiff was struck in the face by what is thought to be prayer beads while travelling aboard the popemobile to deliver a farewell Mass.",
+   "link": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T21:12:13.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0861/live/f40b1380-e200-11f1-ba8d-01314a590f72.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0861/live/f40b1380-e200-11f1-ba8d-01314a590f72.jpg",
+   "title_en": "Pope Leo hit by flying rosary while waving to crowds in Peru",
+   "summary_en": "The pontiff was struck in the face by what is thought to be prayer beads while travelling aboard the popemobile to deliver a farewell Mass.",
+   "share_id": "MN202611_o1sulcphoe"
   },
   {
    "id": "crawl_7q5baq",
@@ -2258,5 +2298,5 @@
    "share_id": "MN202611_9h0okawny0"
   }
  ],
- "updated": "2026-11-17T05:51:14.329Z"
+ "updated": "2026-11-17T07:49:17.277Z"
 }

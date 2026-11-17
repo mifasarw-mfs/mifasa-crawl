@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_1eykrd",
+  "title": "Ronaldo, Maradona, Baggio - what happened to the World XI?",
+  "summary": "Football's biggest stars used to turn out in their prime for the Rest of the World XI, something that would not seem possible today.",
+  "link": "https://www.bbc.co.uk/sport/football/articles/cwj34058rvv6o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cwj34058rvv6o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T07:22:26.000Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffc0/live/2037cc60-c261-11f1-a202-b3a903690ffe.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffc0/live/2037cc60-c261-11f1-a202-b3a903690ffe.jpg",
+  "title_en": "Ronaldo, Maradona, Baggio - what happened to the World XI?",
+  "summary_en": "Football's biggest stars used to turn out in their prime for the Rest of the World XI, something that would not seem possible today.",
+  "share_id": "MN202611_1eykrduk53"
+ },
+ {
   "id": "crawl_7meok5",
   "title": "Ndakurahiye ntibikunda",
   "summary": "Ndakurahiye ntibikunda",
@@ -193,8 +213,8 @@
  },
  {
   "id": "crawl_2r3ho0",
-  "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
-  "summary": "The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow.",
+  "title": "Ukraine and Russia trade strikes on key bridges",
+  "summary": "A bridge linking Crimea and Russia has reportedly been damaged, while two major routes through Kyiv are closed.",
   "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-17T04:18:32.000Z",
@@ -205,10 +225,10 @@
    "BBC World",
    "world"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1524/live/baf89050-e227-11f1-a094-5fdc692f3e33.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1524/live/baf89050-e227-11f1-a094-5fdc692f3e33.jpg",
-  "title_en": "Two major Kyiv bridges hit in Russian attack, mayor says",
-  "summary_en": "The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow.",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef42/live/91d5bfa0-e258-11f1-8199-439bbe0918ee.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef42/live/91d5bfa0-e258-11f1-8199-439bbe0918ee.jpg",
+  "title_en": "Ukraine and Russia trade strikes on key bridges",
+  "summary_en": "A bridge linking Crimea and Russia has reportedly been damaged, while two major routes through Kyiv are closed.",
   "share_id": "MN202611_2r3ho00g3y"
  },
  {
@@ -225,8 +245,8 @@
    "BBC World",
    "world"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaf2/live/c1118580-e22e-11f1-a930-0d0ddd22a84e.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaf2/live/c1118580-e22e-11f1-a930-0d0ddd22a84e.jpg",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c6/live/3f22aa50-e255-11f1-99b6-a35a62fa4264.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c6/live/3f22aa50-e255-11f1-99b6-a35a62fa4264.jpg",
   "title_en": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
   "summary_en": "The US vice-president tells Fox News that when he makes a decision to run or otherwise, he will \"be all in on whatever that decision is\".",
   "share_id": "MN202611_1rol0tfdxa9"
@@ -333,7 +353,7 @@
  },
  {
   "id": "crawl_s2vrwv",
-  "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+  "title": "Which areas have the most jobs for 16 to 24-year-olds? Find out here",
   "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
   "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
@@ -347,7 +367,7 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca90/live/0c02f160-e1ac-11f1-8ee3-23d0d09d2796.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca90/live/0c02f160-e1ac-11f1-8ee3-23d0d09d2796.jpg",
-  "title_en": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+  "title_en": "Which areas have the most jobs for 16 to 24-year-olds? Find out here",
   "summary_en": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
   "share_id": "MN202611_s2vrwvoodp"
  },
@@ -412,9 +432,29 @@
   "share_id": "MN202611_hf6x5vztmp"
  },
  {
+  "id": "crawl_n02k8y",
+  "title": "'Is that not match-fixing?' - Erasmus questions officiating",
+  "summary": "South Africa head coach Rassie Erasmus predicts Ireland fly-half Sam Prendergast will not face a ban after being cited, and questions standards in officiating.",
+  "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ck0jx1dnd38go?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ck0jx1dnd38go?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-16T23:14:48.000Z",
+  "source": "BBC Africa",
+  "category": "news",
+  "lang": "en",
+  "keywords": [
+   "BBC Africa",
+   "news"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07e0/live/84fc2000-e1fc-11f1-ba8d-01314a590f72.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07e0/live/84fc2000-e1fc-11f1-ba8d-01314a590f72.jpg",
+  "title_en": "'Is that not match-fixing?' - Erasmus questions officiating",
+  "summary_en": "South Africa head coach Rassie Erasmus predicts Ireland fly-half Sam Prendergast will not face a ban after being cited, and questions standards in officiating.",
+  "share_id": "MN202611_n02k8yr6lc"
+ },
+ {
   "id": "crawl_1o4851x",
-  "title": "California sues OpenAI over Hugging Face attack",
-  "summary": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+  "title": "OpenAI sued by California over Hugging Face attack",
+  "summary": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
   "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-16T23:12:24.000Z",
@@ -427,8 +467,8 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
-  "title_en": "California sues OpenAI over Hugging Face attack",
-  "summary_en": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+  "title_en": "OpenAI sued by California over Hugging Face attack",
+  "summary_en": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
   "share_id": "MN202611_1o4851x11ir"
  },
  {
@@ -490,6 +530,34 @@
   "title_en": "Woman who got hooked on nasal spray for 10 years says it cost her thousands",
   "summary_en": "Louise Gough says her dependence on decongestant nasal sprays left her feeling like a prisoner.",
   "share_id": "MN202611_1dh5uytyrfn"
+ },
+ {
+  "id": "crawl_145q0pe",
+  "title": "iSHOWSPEED x GTA 6 | OFFICIAL TRAILER",
+  "summary": "WATCH ME PLAY IT LIVE HERE 👉 https://youtube.com/live/qSyo5d-dVzA?feature=share",
+  "link": "https://www.youtube.com/watch?v=2BRL4ALMCyA",
+  "url": "https://www.youtube.com/watch?v=2BRL4ALMCyA",
+  "date": "2026-11-16T22:44:43.000Z",
+  "source": "YouTube Trending Kenya",
+  "category": "entertainment",
+  "lang": "en",
+  "keywords": [
+   "YouTube Trending Kenya",
+   "entertainment",
+   "trending",
+   "ishowspeed",
+   "video"
+  ],
+  "video": {
+   "provider": "youtube",
+   "id": "2BRL4ALMCyA"
+  },
+  "type": "video",
+  "image": "https://i.ytimg.com/vi/2BRL4ALMCyA/hqdefault.jpg",
+  "thumbnail": "https://i.ytimg.com/vi/2BRL4ALMCyA/hqdefault.jpg",
+  "title_en": "iSHOWSPEED x GTA 6 | OFFICIAL TRAILER",
+  "summary_en": "WATCH ME PLAY IT LIVE HERE 👉 https://youtube.com/live/qSyo5d-dVzA?feature=share",
+  "share_id": "MN202611_145q0pem3jk"
  },
  {
   "id": "crawl_c7f07f",
@@ -632,6 +700,26 @@
   "share_id": "MN202611_bljew0cjem"
  },
  {
+  "id": "crawl_o1sulc",
+  "title": "Pope Leo hit by flying rosary while waving to crowds in Peru",
+  "summary": "The pontiff was struck in the face by what is thought to be prayer beads while travelling aboard the popemobile to deliver a farewell Mass.",
+  "link": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-16T21:12:13.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0861/live/f40b1380-e200-11f1-ba8d-01314a590f72.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0861/live/f40b1380-e200-11f1-ba8d-01314a590f72.jpg",
+  "title_en": "Pope Leo hit by flying rosary while waving to crowds in Peru",
+  "summary_en": "The pontiff was struck in the face by what is thought to be prayer beads while travelling aboard the popemobile to deliver a farewell Mass.",
+  "share_id": "MN202611_o1sulcphoe"
+ },
+ {
   "id": "crawl_7q5baq",
   "title": "Portugal boss responds to criticism from Ronaldo's mum",
   "summary": "Jorge Jesus responds to claims by Cristiano Ronaldo's mother, Dolores Aveiro, that her son had been \"deceived\" by the Portugal manager.",
@@ -758,6 +846,32 @@
   "title_rw": "Impunzi zimwe ubuhungiro mubihugu 5 zigiye kujya zizanwa mu Rwanda,Germany,Netherlands,Greece,",
   "summary_rw": "Impunzi zimwe ubuhungiro mubihugu 5 zigiye kujya zizanwa mu Rwanda,Germany,Netherlands,Greece,",
   "share_id": "MN202611_ne8ul38zed"
+ },
+ {
+  "id": "crawl_1sj7d2w",
+  "title": "🔴LIVE: #URUBUGARWIMIKINO: Amavubi arakina na Mali || Rwanda U-23 Vs Cameroun || #UEFANationsLeague",
+  "summary": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+  "link": "https://www.youtube.com/watch?v=_swIUPLlPkY",
+  "url": "https://www.youtube.com/watch?v=_swIUPLlPkY",
+  "date": "2026-11-16T19:59:28.000Z",
+  "source": "Radio Rwanda YouTube",
+  "category": "news",
+  "lang": "rw",
+  "keywords": [
+   "Radio Rwanda YouTube",
+   "news",
+   "video"
+  ],
+  "video": {
+   "provider": "youtube",
+   "id": "_swIUPLlPkY"
+  },
+  "type": "video",
+  "image": "https://i4.ytimg.com/vi/_swIUPLlPkY/hqdefault.jpg",
+  "thumbnail": "https://i4.ytimg.com/vi/_swIUPLlPkY/hqdefault.jpg",
+  "title_rw": "🔴LIVE: #URUBUGARWIMIKINO: Amavubi arakina na Mali || Rwanda U-23 Vs Cameroun || #UEFANationsLeague",
+  "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+  "share_id": "MN202611_1sj7d2w3fx2"
  },
  {
   "id": "crawl_ugntic",
@@ -2059,7 +2173,7 @@
  },
  {
   "id": "crawl_bjv11",
-  "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+  "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
   "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
   "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
@@ -2073,7 +2187,7 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
-  "title_en": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+  "title_en": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
   "summary_en": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
   "share_id": "MN202611_bjv11gtgz"
  },
@@ -17242,105 +17356,5 @@
   "title_rw": "Trump arayamanitse aciye amarenga ko atazongera kurasa Iran,nyuma yuko ishyaka rye ritsinzwe",
   "summary_rw": "Trump arayamanitse aciye amarenga ko atazongera kurasa Iran,nyuma yuko ishyaka rye ritsinzwe",
   "share_id": "MN202611_1wrmyl9j1ff"
- },
- {
-  "id": "crawl_6tvwr8",
-  "title": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
-  "summary": "The TV presenter says he was once \"friendly\" with David Walliams and Russell Brand, but was \"genuinely unaware\" of their conduct.",
-  "link": "https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-11T04:03:25.000Z",
-  "source": "BBC Entertainment",
-  "category": "entertainment",
-  "lang": "en",
-  "keywords": [
-   "BBC Entertainment",
-   "entertainment"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecf2/live/e5fa1a90-ddad-11f1-a701-fddedf244c16.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecf2/live/e5fa1a90-ddad-11f1-a701-fddedf244c16.jpg",
-  "title_en": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
-  "summary_en": "The TV presenter says he was once \"friendly\" with David Walliams and Russell Brand, but was \"genuinely unaware\" of their conduct.",
-  "share_id": "MN202611_6tvwr8ot82"
- },
- {
-  "id": "crawl_e87gw9",
-  "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
-  "summary": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
-  "link": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-11T03:44:06.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afb3/live/7b472130-d956-11f1-b7f4-8bd3c0617693.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afb3/live/7b472130-d956-11f1-b7f4-8bd3c0617693.jpg",
-  "title_en": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
-  "summary_en": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
-  "share_id": "MN202611_e87gw90dd3"
- },
- {
-  "id": "crawl_5gv6e",
-  "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
-  "summary": "The 400 Mawozo gang was targeted by El Salvador's military, which has deployed thousands of troops to combat Haiti's gang violence crisis.",
-  "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-11T02:47:59.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2854/live/3f67c570-dd7a-11f1-ad5a-4712ee7e64fd.png",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2854/live/3f67c570-dd7a-11f1-ad5a-4712ee7e64fd.png",
-  "title_en": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
-  "summary_en": "The 400 Mawozo gang was targeted by El Salvador's military, which has deployed thousands of troops to combat Haiti's gang violence crisis.",
-  "share_id": "MN202611_5gv6edtmc"
- },
- {
-  "id": "crawl_j1naqt",
-  "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
-  "summary": "But the court dismisses the other part of Trump's lawsuit that alleged the BBC had violated a Florida law.",
-  "link": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-11T01:18:09.000Z",
-  "source": "BBC Entertainment",
-  "category": "entertainment",
-  "lang": "en",
-  "keywords": [
-   "BBC Entertainment",
-   "entertainment"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7671/live/0710fae0-ddd2-11f1-b441-2b33b063138f.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7671/live/0710fae0-ddd2-11f1-b441-2b33b063138f.jpg",
-  "title_en": "Judge allows Trump's $10bn defamation case against BBC to proceed",
-  "summary_en": "But the court dismisses the other part of Trump's lawsuit that alleged the BBC had violated a Florida law.",
-  "share_id": "MN202611_j1naqtg77n"
- },
- {
-  "id": "crawl_10om1wj",
-  "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-  "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
-  "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-11T01:01:20.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba2/live/c17cf610-dd8f-11f1-8c82-87885cae71d3.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba2/live/c17cf610-dd8f-11f1-8c82-87885cae71d3.jpg",
-  "title_en": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-  "summary_en": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
-  "share_id": "MN202611_10om1wjeydd"
  }
 ]

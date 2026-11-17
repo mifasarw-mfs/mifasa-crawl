@@ -1,7 +1,27 @@
 {
  "day": "2026-11-17",
- "count": 16,
+ "count": 17,
  "articles": [
+  {
+   "id": "crawl_1eykrd",
+   "title": "Ronaldo, Maradona, Baggio - what happened to the World XI?",
+   "summary": "Football's biggest stars used to turn out in their prime for the Rest of the World XI, something that would not seem possible today.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwj34058rvv6o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwj34058rvv6o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T07:22:26.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffc0/live/2037cc60-c261-11f1-a202-b3a903690ffe.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffc0/live/2037cc60-c261-11f1-a202-b3a903690ffe.jpg",
+   "title_en": "Ronaldo, Maradona, Baggio - what happened to the World XI?",
+   "summary_en": "Football's biggest stars used to turn out in their prime for the Rest of the World XI, something that would not seem possible today.",
+   "share_id": "MN202611_1eykrduk53"
+  },
   {
    "id": "crawl_n786y1",
    "title": "Who am I? Plus today's other quizzes",
@@ -323,5 +343,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-17T06:58:05.808Z"
+ "updated": "2026-11-17T07:49:17.276Z"
 }
