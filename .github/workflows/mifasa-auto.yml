@@ -58,20 +58,20 @@ jobs:
 
       - name: 6. Collect only the files a website needs
         run: |
-          rm -rf /tmp/_site && mkdir /tmp/_site
+          rm -rf _site && mkdir _site
           rsync -a --prune-empty-dirs \
-            --exclude='.git/' --exclude='.github/' --exclude='node_modules/' --exclude='worker-learn/' --exclude='hub-part/' --exclude='parts/' \
+            --exclude='_site/' --exclude='.git/' --exclude='.github/' --exclude='node_modules/' --exclude='worker-learn/' --exclude='hub-part/' --exclude='parts/' \
             --exclude='crawl.js' --exclude='learn-daily.js' --exclude='build.js' --exclude='apply-*.js' --exclude='make-*.js' --exclude='check-all.js' --exclude='test-*' --exclude='*.mjs' --exclude='script.orig.js' --exclude='README-AI.txt' \
             --include='*/' --include='*.html' --include='*.css' --include='*.js' --include='*.json' --include='*.txt' --include='*.xml' --include='*.svg' --include='*.png' --include='*.jpg' --include='*.jpeg' --include='*.gif' --include='*.webp' --include='*.ico' --include='*.webmanifest' --include='*.woff' --include='*.woff2' --include='*.md' \
-            --exclude='*' "$SITE_SRC"/ /tmp/_site/
-          echo "files to deploy: $(find /tmp/_site -type f | wc -l)"; du -sh /tmp/_site
+            --exclude='*' "$SITE_SRC"/ _site/
+          echo "files to deploy: $(find _site -type f | wc -l)"; du -sh _site
 
       - name: 7. Deploy to Neocities
         if: ${{ env.HAS_TOKEN == 'true' }}
         uses: bcomnes/deploy-to-neocities@v2
         with:
           api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
-          dist_dir: /tmp/_site
+          dist_dir: _site
           cleanup: false            # never deletes files you uploaded by hand
       - name: 7b. No token yet
         if: ${{ env.HAS_TOKEN != 'true' }}
