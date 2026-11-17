@@ -1,7 +1,127 @@
 {
  "day": "2026-11-17",
- "count": 85,
+ "count": 94,
  "articles": [
+  {
+   "id": "crawl_1fxtnbn",
+   "title": "Woman's blocked nose led to nasal spray addiction",
+   "summary": "Louise Gough says her dependence on decongestant nasal sprays left her feeling like a prisoner.",
+   "link": "https://www.bbc.co.uk/news/videos/cm9q87qeq3l1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cm9q87qeq3l1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T17:26:26.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5d0/live/5331b830-e2a3-11f1-8226-87dfa5049e9a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5d0/live/5331b830-e2a3-11f1-8226-87dfa5049e9a.jpg",
+   "title_en": "Woman's blocked nose led to nasal spray addiction",
+   "summary_en": "Louise Gough says her dependence on decongestant nasal sprays left her feeling like a prisoner.",
+   "share_id": "MN202611_1fxtnbnm8fl"
+  },
+  {
+   "id": "crawl_s4o8h3",
+   "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+   "summary": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
+   "link": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T17:25:23.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7a7/live/7ef929f0-e29c-11f1-8dda-8925a81c3da5.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7a7/live/7ef929f0-e29c-11f1-8dda-8925a81c3da5.jpg",
+   "title_en": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+   "summary_en": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
+   "share_id": "MN202611_s4o8h3h4xx"
+  },
+  {
+   "id": "crawl_1pmsd8a",
+   "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+   "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+   "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T17:19:56.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+   "summary_en": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+   "share_id": "MN202611_1pmsd8al9p4"
+  },
+  {
+   "id": "crawl_whnae4",
+   "title": "Last chance to vote for BBC Women's Footballer of the Year 2026",
+   "summary": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T17:13:24.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "Last chance to vote for BBC Women's Footballer of the Year 2026",
+   "summary_en": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
+   "share_id": "MN202611_whnae4f7sq"
+  },
+  {
+   "id": "crawl_tc4tql",
+   "title": "Brad Pitt and Florence Pugh pitch for James Bond villain role",
+   "summary": "The two A-list stars throw their hats into the ring to be the villain facing Robert Pattinson's 007.",
+   "link": "https://www.bbc.co.uk/news/articles/cq4gnpgl0zkxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq4gnpgl0zkxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T16:42:49.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cca1/live/480e0780-e2ab-11f1-a094-5fdc692f3e33.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cca1/live/480e0780-e2ab-11f1-a094-5fdc692f3e33.png",
+   "title_en": "Brad Pitt and Florence Pugh pitch for James Bond villain role",
+   "summary_en": "The two A-list stars throw their hats into the ring to be the villain facing Robert Pattinson's 007.",
+   "share_id": "MN202611_tc4tqlxq7f"
+  },
+  {
+   "id": "crawl_vcml8n",
+   "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+   "summary": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
+   "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T16:42:11.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a331/live/4e364d80-e287-11f1-b166-176de21e2352.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a331/live/4e364d80-e287-11f1-b166-176de21e2352.jpg",
+   "title_en": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+   "summary_en": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
+   "share_id": "MN202611_vcml8nfhph"
+  },
   {
    "id": "crawl_1094tk4",
    "title": "US loses measles elimination status after 26 years amid record case numbers",
@@ -43,6 +163,26 @@
    "share_id": "MN202611_1mecc6049km"
   },
   {
+   "id": "crawl_12z97v",
+   "title": "South Africa head coach Erasmus banned for six matches",
+   "summary": "South Africa head coach Rassie Erasmus has been banned for six matches by World Rugby over comments he made about match officials.",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cj752w5q7z90o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cj752w5q7z90o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T16:09:24.000Z",
+   "source": "BBC Sport Africa",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Sport Africa",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/107e/live/acefa850-e2a3-11f1-8226-87dfa5049e9a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/107e/live/acefa850-e2a3-11f1-8226-87dfa5049e9a.jpg",
+   "title_en": "South Africa head coach Erasmus banned for six matches",
+   "summary_en": "South Africa head coach Rassie Erasmus has been banned for six matches by World Rugby over comments he made about match officials.",
+   "share_id": "MN202611_12z97vrxjd"
+  },
+  {
    "id": "crawl_1i8aqgr",
    "title": "York City player pleads not guilty over alleged punch of Rochdale fan",
    "summary": "Hiram Boateng has pleaded not guilty to a public order charge at Manchester Magistrates' Court.",
@@ -61,6 +201,26 @@
    "title_en": "York City player pleads not guilty over alleged punch of Rochdale fan",
    "summary_en": "Hiram Boateng has pleaded not guilty to a public order charge at Manchester Magistrates' Court.",
    "share_id": "MN202611_1i8aqgr3mxl"
+  },
+  {
+   "id": "crawl_3kapos",
+   "title": "BBC reports from Kyiv bridge hit by Russian attack",
+   "summary": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
+   "link": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T15:54:15.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea8f/live/0f7d2750-e299-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea8f/live/0f7d2750-e299-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "BBC reports from Kyiv bridge hit by Russian attack",
+   "summary_en": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
+   "share_id": "MN202611_3kapos7cru"
   },
   {
    "id": "crawl_3dfskj",
@@ -423,6 +583,26 @@
    "title_en": "Man convicted for racist abuse of Real Madrid's Mbappe",
    "summary_en": "A man has been convicted of a hate crime after directing racist insults at Real Madrid forward Kylian Mbappe during a La Liga match at Real Oviedo in 2025.",
    "share_id": "MN202611_1vv84zz02el"
+  },
+  {
+   "id": "crawl_1u53fzs",
+   "title": "Trump lands in Asia ahead of talks with Russian and Chinese presidents",
+   "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+   "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T12:54:32.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b939/live/dca6f2e0-e291-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b939/live/dca6f2e0-e291-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "Trump lands in Asia ahead of talks with Russian and Chinese presidents",
+   "summary_en": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+   "share_id": "MN202611_1u53fzswcgm"
   },
   {
    "id": "crawl_1mohita",
@@ -1716,5 +1896,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-17T16:29:34.691Z"
+ "updated": "2026-11-17T17:29:41.643Z"
 }
