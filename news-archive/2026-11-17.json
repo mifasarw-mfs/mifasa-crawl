@@ -1,7 +1,27 @@
 {
  "day": "2026-11-17",
- "count": 2,
+ "count": 3,
  "articles": [
+  {
+   "id": "crawl_11ht6kx",
+   "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
+   "summary": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
+   "link": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T00:09:54.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1014/live/a44029a0-e1b3-11f1-9a3f-99aca912798e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1014/live/a44029a0-e1b3-11f1-9a3f-99aca912798e.jpg",
+   "title_en": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
+   "summary_en": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
+   "share_id": "MN202611_11ht6kxb967"
+  },
   {
    "id": "crawl_s2vrwv",
    "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
@@ -43,5 +63,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-17T00:07:47.025Z"
+ "updated": "2026-11-17T00:32:19.718Z"
 }

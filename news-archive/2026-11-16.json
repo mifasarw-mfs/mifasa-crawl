@@ -1,6 +1,6 @@
 {
  "day": "2026-11-16",
- "count": 107,
+ "count": 108,
  "articles": [
   {
    "id": "crawl_vq7h5v",
@@ -101,6 +101,26 @@
    "title_en": "Pocognoli wants patience but Scotland 'don't have time' says Robertson",
    "summary_en": "Angry captain Andy Robertson says Scotland do not have time to turn things around after a brutal 4-0 defeat by Switzerland consigns them to a third-place finish in their Nations League group.",
    "share_id": "MN202611_c7f07fazl5"
+  },
+  {
+   "id": "crawl_hlpkah",
+   "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+   "summary": "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.",
+   "link": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T22:32:47.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a76/live/fbd49eb0-e1e2-11f1-9f14-b33806cfd783.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a76/live/fbd49eb0-e1e2-11f1-9f14-b33806cfd783.jpg",
+   "title_en": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+   "summary_en": "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.",
+   "share_id": "MN202611_hlpkahigrb"
   },
   {
    "id": "crawl_1r6fhgd",
@@ -2178,5 +2198,5 @@
    "share_id": "MN202611_9h0okawny0"
   }
  ],
- "updated": "2026-11-16T23:53:13.875Z"
+ "updated": "2026-11-17T00:32:19.719Z"
 }
