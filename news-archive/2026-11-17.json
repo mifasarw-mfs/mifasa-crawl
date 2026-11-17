@@ -1,7 +1,87 @@
 {
  "day": "2026-11-17",
- "count": 48,
+ "count": 54,
  "articles": [
+  {
+   "id": "crawl_180jxm4",
+   "title": "Giant lunar sculpture has visitors over the moon",
+   "summary": "People can see the 6m-wide sculpture in St Helier until 29 November.",
+   "link": "https://www.bbc.co.uk/news/articles/cm79213ngx45o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm79213ngx45o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T12:04:38.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c5c/live/1791db60-e272-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c5c/live/1791db60-e272-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "Giant lunar sculpture has visitors over the moon",
+   "summary_en": "People can see the 6m-wide sculpture in St Helier until 29 November.",
+   "share_id": "MN202611_180jxm4cu2y"
+  },
+  {
+   "id": "crawl_1x1b9nc",
+   "title": "NHS data contract to stay with Palantir until 2029",
+   "summary": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
+   "link": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T12:00:12.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87b8/live/b2aca760-54fb-11f1-b682-cf91850925ea.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87b8/live/b2aca760-54fb-11f1-b682-cf91850925ea.jpg",
+   "title_en": "NHS data contract to stay with Palantir until 2029",
+   "summary_en": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
+   "share_id": "MN202611_1x1b9nc4646"
+  },
+  {
+   "id": "crawl_1jy8w18",
+   "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
+   "summary": "Rodríguez had denounced alleged links between criminal organisations and powerful figures in Costa Rica.",
+   "link": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T11:58:16.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb5/live/140763d0-e26c-11f1-b19c-7b42f37bea48.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb5/live/140763d0-e26c-11f1-b19c-7b42f37bea48.jpg",
+   "title_en": "Gunmen kill Costa Rican journalist who reported on drugs trade",
+   "summary_en": "Rodríguez had denounced alleged links between criminal organisations and powerful figures in Costa Rica.",
+   "share_id": "MN202611_1jy8w181si2"
+  },
+  {
+   "id": "crawl_1obx131",
+   "title": "'Why not have a go?' - the halfway line goal phenomenon",
+   "summary": "Why Premier League players are trying their luck on goal from long range more regularly.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw24041nqlygo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cw24041nqlygo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T11:54:07.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9989/live/f8fe0ae0-dec8-11f1-86d5-71a9f29d1c99.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9989/live/f8fe0ae0-dec8-11f1-86d5-71a9f29d1c99.jpg",
+   "title_en": "'Why not have a go?' - the halfway line goal phenomenon",
+   "summary_en": "Why Premier League players are trying their luck on goal from long range more regularly.",
+   "share_id": "MN202611_1obx131oyhn"
+  },
   {
    "id": "crawl_pdjk1e",
    "title": "When is the Nations League quarter-final draw?",
@@ -41,6 +121,26 @@
    "title_en": "US government confirms investigation into tech firm Megaspeed",
    "summary_en": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
    "share_id": "MN202611_1m0v40xo0hr"
+  },
+  {
+   "id": "crawl_5aaz8",
+   "title": "Almost impossible for Scotland to not qualify for Euro 2028... or is it?",
+   "summary": "BBC Scotland picks its way through the permutations in Scotland's pursuit of Euro 2028 qualification.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm62p7eg7nqvo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm62p7eg7nqvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T11:13:40.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/652a/live/58ba5ae0-e213-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/652a/live/58ba5ae0-e213-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Almost impossible for Scotland to not qualify for Euro 2028... or is it?",
+   "summary_en": "BBC Scotland picks its way through the permutations in Scotland's pursuit of Euro 2028 qualification.",
+   "share_id": "MN202611_5aaz86acy"
   },
   {
    "id": "crawl_1nku6b7",
@@ -649,6 +749,26 @@
    "share_id": "MN202611_n786y104cn"
   },
   {
+   "id": "crawl_1m9zdm4",
+   "title": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
+   "summary": "The meeting will take place as Trump attends the Asia-Pacific Economic Co-operation (Apec) summit in the southern city of Shenzhen.",
+   "link": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T06:23:51.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2905/live/37886bc0-e1df-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2905/live/37886bc0-e1df-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
+   "summary_en": "The meeting will take place as Trump attends the Asia-Pacific Economic Co-operation (Apec) summit in the southern city of Shenzhen.",
+   "share_id": "MN202611_1m9zdm4ryq2"
+  },
+  {
    "id": "crawl_lplxb6",
    "title": "'Aha bahita kwa mucuzi... Ndabikunda cyane' – Uko Nirere yayobotse umwuga ukorwa n'abagore bacye mu Rwanda",
    "summary": "Uretse kuba uyu ari umwuga ugenda ucika kubera iterambere ry'inganda, no mu gihe cyo hambere ugikorwa cyane wasaga n'umwihariko w'abagabo.",
@@ -969,5 +1089,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-17T11:29:02.793Z"
+ "updated": "2026-11-17T12:20:04.784Z"
 }
