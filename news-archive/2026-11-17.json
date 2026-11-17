@@ -1,7 +1,47 @@
 {
  "day": "2026-11-17",
- "count": 94,
+ "count": 97,
  "articles": [
+  {
+   "id": "crawl_1ppv75m",
+   "title": "Hunger Games prequel splits opinion: 'Surreally awful' or 'surprisingly strong'",
+   "summary": "Sunrise on the Reaping, the franchise's sixth film, is both criticised and praised by film critics.",
+   "link": "https://www.bbc.co.uk/news/articles/c9vg2xgn0xe5o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c9vg2xgn0xe5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T17:57:56.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22ee/live/daa8b410-e2a0-11f1-8dda-8925a81c3da5.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22ee/live/daa8b410-e2a0-11f1-8dda-8925a81c3da5.jpg",
+   "title_en": "Hunger Games prequel splits opinion: 'Surreally awful' or 'surprisingly strong'",
+   "summary_en": "Sunrise on the Reaping, the franchise's sixth film, is both criticised and praised by film critics.",
+   "share_id": "MN202611_1ppv75mo3mg"
+  },
+  {
+   "id": "crawl_l2h8h3",
+   "title": "Arsenal Double winner Storey dies aged 81",
+   "summary": "Former Arsenal and England midfielder Peter Storey - who helped the Gunners win the Double in 1970-71 - has died at the age of 81.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c63eg3ekxnpyo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c63eg3ekxnpyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T17:33:41.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2835/live/0a8db170-e2a7-11f1-8226-87dfa5049e9a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2835/live/0a8db170-e2a7-11f1-8226-87dfa5049e9a.jpg",
+   "title_en": "Arsenal Double winner Storey dies aged 81",
+   "summary_en": "Former Arsenal and England midfielder Peter Storey - who helped the Gunners win the Double in 1970-71 - has died at the age of 81.",
+   "share_id": "MN202611_l2h8h395vp"
+  },
   {
    "id": "crawl_1fxtnbn",
    "title": "Woman's blocked nose led to nasal spray addiction",
@@ -41,6 +81,26 @@
    "title_en": "William and Kate celebrate Earthshot Prize winners in Mumbai",
    "summary_en": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
    "share_id": "MN202611_s4o8h3h4xx"
+  },
+  {
+   "id": "crawl_1e849wj",
+   "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+   "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
+   "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T17:19:57.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f084/live/ab522920-e29c-11f1-8dda-8925a81c3da5.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f084/live/ab522920-e29c-11f1-8dda-8925a81c3da5.jpg",
+   "title_en": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+   "summary_en": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
+   "share_id": "MN202611_1e849wjx6dd"
   },
   {
    "id": "crawl_1pmsd8a",
@@ -1896,5 +1956,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-17T17:29:41.643Z"
+ "updated": "2026-11-17T18:22:12.154Z"
 }
