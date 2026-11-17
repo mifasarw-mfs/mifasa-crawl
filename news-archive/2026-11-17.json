@@ -1,7 +1,47 @@
 {
  "day": "2026-11-17",
- "count": 17,
+ "count": 19,
  "articles": [
+  {
+   "id": "crawl_1x8yprl",
+   "title": "Nigerians among 12 suspects arrested in $4.5m Canada luxury car theft syndicate",
+   "summary": "Canadian authorities say they have recovered 96 luxury vehicles destined for West Africa.",
+   "link": "https://www.bbc.co.uk/news/articles/cm5y1wr1535ko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm5y1wr1535ko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T08:11:20.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5db/live/3bffede0-e252-11f1-876d-1dfc6cf3b709.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5db/live/3bffede0-e252-11f1-876d-1dfc6cf3b709.jpg",
+   "title_en": "Nigerians among 12 suspects arrested in $4.5m Canada luxury car theft syndicate",
+   "summary_en": "Canadian authorities say they have recovered 96 luxury vehicles destined for West Africa.",
+   "share_id": "MN202611_1x8yprlrm8f"
+  },
+  {
+   "id": "crawl_1qe7zjk",
+   "title": "How and when to see the peak of the Leonid meteor shower",
+   "summary": "The Leonid meteor shower, known for its bright and fast meteors, is set to peak on Tuesday night.",
+   "link": "https://www.bbc.co.uk/weather/articles/c6742xzg3eljo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/weather/articles/c6742xzg3eljo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T08:01:47.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52ad/live/8061a130-e1b8-11f1-9a3f-99aca912798e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52ad/live/8061a130-e1b8-11f1-9a3f-99aca912798e.jpg",
+   "title_en": "How and when to see the peak of the Leonid meteor shower",
+   "summary_en": "The Leonid meteor shower, known for its bright and fast meteors, is set to peak on Tuesday night.",
+   "share_id": "MN202611_1qe7zjkm05q"
+  },
   {
    "id": "crawl_1eykrd",
    "title": "Ronaldo, Maradona, Baggio - what happened to the World XI?",
@@ -343,5 +383,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-17T07:49:17.276Z"
+ "updated": "2026-11-17T08:15:48.715Z"
 }
