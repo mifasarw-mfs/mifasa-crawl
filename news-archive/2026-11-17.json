@@ -1,7 +1,27 @@
 {
  "day": "2026-11-17",
- "count": 77,
+ "count": 79,
  "articles": [
+  {
+   "id": "crawl_wm1dom",
+   "title": "It's too expensive to hire under-25s, say firms. Will Milburn plans help?",
+   "summary": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
+   "link": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T15:20:36.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/018c/live/b8cf1470-e286-11f1-b166-176de21e2352.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/018c/live/b8cf1470-e286-11f1-b166-176de21e2352.jpg",
+   "title_en": "It's too expensive to hire under-25s, say firms. Will Milburn plans help?",
+   "summary_en": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
+   "share_id": "MN202611_wm1domua5g"
+  },
   {
    "id": "crawl_1u87q6s",
    "title": "Rooney says he considered taking his own life at Man Utd",
@@ -203,6 +223,26 @@
    "title_en": "Rwanda, Uganda Police Chiefs Sign Framework to Strengthen Security Cooperation",
    "summary_en": "The police chiefs of Rwanda and Uganda have signed an implementation framework aimed at strengthening cooperation between the two countries’ law enforcement institutions. The agreement was signed on Tuesday, November… The post Rwanda, Uganda Police Chiefs Sign Framework to Strengthen Security Cooperation appeared first on KT PRESS .",
    "share_id": "MN202611_f68ajh9h6j"
+  },
+  {
+   "id": "crawl_xnz6je",
+   "title": "UK sanctions firms over Israeli West Bank settlements",
+   "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+   "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T13:10:06.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
+   "title_en": "UK sanctions firms over Israeli West Bank settlements",
+   "summary_en": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+   "share_id": "MN202611_xnz6jes308"
   },
   {
    "id": "crawl_h0ohpk",
@@ -1556,5 +1596,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-17T15:19:14.066Z"
+ "updated": "2026-11-17T15:30:33.557Z"
 }
