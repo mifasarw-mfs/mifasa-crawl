@@ -1,7 +1,47 @@
 {
  "day": "2026-11-17",
- "count": 79,
+ "count": 82,
  "articles": [
+  {
+   "id": "crawl_3dfskj",
+   "title": "FA wants to host Nations League finals in England",
+   "summary": "England could host the Nations League finals this season after Football Association officials register their interest.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5742x4xldmpo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c5742x4xldmpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T15:51:30.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a7f/live/592780e0-e29d-11f1-8dda-8925a81c3da5.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a7f/live/592780e0-e29d-11f1-8dda-8925a81c3da5.jpg",
+   "title_en": "FA wants to host Nations League finals in England",
+   "summary_en": "England could host the Nations League finals this season after Football Association officials register their interest.",
+   "share_id": "MN202611_3dfskjbry9"
+  },
+  {
+   "id": "crawl_wm7bsc",
+   "title": "How the attack on Crimean Bridge unfolded",
+   "summary": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
+   "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T15:38:10.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82dd/live/f7995500-e29d-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82dd/live/f7995500-e29d-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "How the attack on Crimean Bridge unfolded",
+   "summary_en": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
+   "share_id": "MN202611_wm7bsc0896"
+  },
   {
    "id": "crawl_wm1dom",
    "title": "It's too expensive to hire under-25s, say firms. Will Milburn plans help?",
@@ -21,6 +61,26 @@
    "title_en": "It's too expensive to hire under-25s, say firms. Will Milburn plans help?",
    "summary_en": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
    "share_id": "MN202611_wm1domua5g"
+  },
+  {
+   "id": "crawl_151xnga",
+   "title": "Carney eyes 'other options' for embattled Canadian auto sector on China trip",
+   "summary": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
+   "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T15:17:49.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dab7/live/371458b0-e299-11f1-8dda-8925a81c3da5.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dab7/live/371458b0-e299-11f1-8dda-8925a81c3da5.jpg",
+   "title_en": "Carney eyes 'other options' for embattled Canadian auto sector on China trip",
+   "summary_en": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
+   "share_id": "MN202611_151xngaqjx4"
   },
   {
    "id": "crawl_1u87q6s",
@@ -1596,5 +1656,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-17T15:30:33.557Z"
+ "updated": "2026-11-17T16:12:52.491Z"
 }
