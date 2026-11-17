@@ -4125,6 +4125,150 @@
    ],
    "auto": true,
    "taught": "2026-11-17"
+  },
+  {
+   "id": "ai16_4212a206_q",
+   "label_rw": "Uburengero bw'ibidukikije mu mashuri",
+   "label_en": "Environmental education in schools",
+   "patterns_en": [
+    "Why is environmental education important in schools?",
+    "What activities do students do to protect the environment?",
+    "How does sustainability help students?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitumye uburengero bw'ibidukikije ari ingenzi mu mashuri?",
+    "Ni ibihe bikorwa abanyeshuri bakora mu kubungabunga ibidukikije?",
+    "Iterambere rirambye rifasha ryate abanyeshuri?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Uburengero bw'ibidukikije mu mashuri bufasha abanyeshuri gusobanukirwa akamaro ko kubungabunga ibidukikije. Bigisha uburyo bwo gukoresha neza umutungo kamere no kurwanya ihindagurika ry'ikirere. Abanyeshuri bigishwa gukora ibikorwa nko gutera ibiti no gukuraho imyanda mu buryo burambye.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Environmental education in schools helps students understand the importance of protecting the environment. It teaches ways to use natural resources wisely and combat climate change. Students usually learn to participate in activities like tree planting and sustainable waste management.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-17"
+  },
+  {
+   "id": "ai16_137016f0_q",
+   "label_rw": "Uruhare rw'ababyeyi mu burezi",
+   "label_en": "Parental involvement in education",
+   "patterns_en": [
+    "What do parents do to help their children?",
+    "What is the purpose of cooperation between school and parents?",
+    "How does a parent know what their child learns at school?"
+   ],
+   "patterns_rw": [
+    "Ni iki ababyeyi bakora kugira ngo bafashe abana babo?",
+    "Ubufatanye bw'ishuri n'ababyeyi bumaze iki?",
+    "Ni gute umubyeyi amenya ibyo umwana yiga ku ishuri?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Uruhare rw'ababyeyi mu burezi rufasha abana kwitwara neza ku ishuri no gutsinda. Ababyeyi bagomba kuganira n'abana ku byo biga no kubabonera ibikoresho. Ubufatanye hagati y'ishuri n'umuryango butuma umwana agira imyitwarire myiza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Parental involvement in education usually helps children perform better in school and succeed. Parents should discuss schoolwork with their children and provide necessary supplies. Collaboration between school and family promotes positive behavior in children.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-17"
+  },
+  {
+   "id": "ai16_5d95a566_q",
+   "label_rw": "Uburezi bw'ubuhanzi n'umuziki mu Rwanda",
+   "label_en": "Creative Arts and Music Education in Rwanda",
+   "patterns_en": [
+    "What is the importance of creative arts education?",
+    "What is taught in arts and music subjects in Rwanda?",
+    "How do the arts help a student's development?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera akamaro k'uburezi bw'ubuhanzi?",
+    "Ni ibiki bigishwa mu masomo y'ubuhanzi mu Rwanda?",
+    "Ubuhanzi bufasha gute umunyeshuri mu iterambere rye?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Uburezi bw'ubuhanzi n'umuziki bufasha abanyeshuri mu iterambere ry'ubwenge n'imyitwarire myiza. Muri gahunda y'uburezi mu Rwanda, amasomo y'ubuhanzi agamije guteza imbere ubumenyi bufatika, umuco nyarwanda, no guhanga udushya. Abanyeshuri bigishwa kuririmba, gucuranga, kubyina, no gushushanya kugira ngo bamenye kwigaragaza neza mu buzima bwabo bwa buri munsi n'isoko ry'umurimo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Creative arts and music education help students develop cognitive skills and positive behavior. In Rwanda's education system, arts subjects aim to promote practical skills, Rwandan culture, and innovation. Students learn singing, playing instruments, dancing, and drawing to express themselves effectively in daily life and prepare for future careers.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-17"
+  },
+  {
+   "id": "ai16_01652f04_q",
+   "label_rw": "Inama z'Umwuga ku Banyeshuri",
+   "label_en": "Career Guidance for Students",
+   "patterns_en": [
+    "What is the importance of career guidance?",
+    "How are students helped in choosing subjects?",
+    "What skills does career counseling provide?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera akamaro k'inama z'umwuga?",
+    "Ese abanyeshuri bafashwa bate guhitamo amasomo?",
+    "Ubuyobozi bw'umwuga bufasha buhe bumenyi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Inama n'ubuyobozi ku iterambere ry'umwuga bifasha abanyeshuri kumenya impano zabo n'amahirwe y'akazi ahari. Ibi bikorwa bituma bafata ibyemezo byiza ku masomo yabo y'ejo hazaza hagamijwe gutsinda mu kazi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Career guidance and counseling help students discover their skills and explore available job opportunities. These services enable them to make informed educational and professional choices for future success.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-17"
+  },
+  {
+   "id": "ai16_c1a517b2_q",
+   "label_rw": "Iterambere ry'abana b'incuke n'amashuri y'inshuke",
+   "label_en": "Early childhood development and preschool education",
+   "patterns_en": [
+    "What do preschools help children with?",
+    "How do children usually learn in preschool?",
+    "Why is early childhood development important?"
+   ],
+   "patterns_rw": [
+    "Amashuri y'inshuke afasha iki abana?",
+    "Ese abana biga bate mu mashuri y'inshuke?",
+    "Kuki iterambere ry'abana b'incuke ari ingenzi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Iterambere ry'abana b'incuke n'amashuri y'inshuke bifasha abana bato mu mitekerereze n'imibereho myiza. Amashuri y'inshuke ategura abana kujya mu mashuri abanza. Abana biga binyuze mu mikino n'ibikorwa bifatika.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Early childhood development and preschool education help young children grow mentally and socially. Preschools prepare children for primary school. Children usually learn through play and practical activities.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-17"
+  },
+  {
+   "id": "ai16_31ca1f0b_q",
+   "label_rw": "Impaka no kuvuga imbere y'abantu",
+   "label_en": "Debate and rhetoric skills",
+   "patterns_en": [
+    "Why are debate skills important for students?",
+    "How do debate clubs help students in Rwandan schools?",
+    "What are the best public speaking techniques?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma ubumenyi bwo impaka ari ingirakamaro ku banyeshuri?",
+    "Amatsinda y'impaka afasha ate abanyeshuri mu mashuri yo mu Rwanda?",
+    "Ni ubuhe buryo bwo kuvuga imbere y'abantu bwiza?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubumenyi bwo impaka no kuvuga imbere y'abantu bufasha abanyeshuri gutekereza neza no gutanga ibitekerezo byabo mu mucyo. Mu Rwanda, amashuri menshi ashyiraho amatsinda y'impaka kugira ngo ateze imbere ubushobozi bw'abanyeshuri mu gutanga ibimenyetso no kumvisha abandi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Debate and public speaking skills help students think critically and express their ideas clearly. In many Rwandan schools, debate clubs are established to improve students' abilities in presenting arguments and persuading others effectively.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-17"
   }
  ],
  "knowledge": [
@@ -7516,6 +7660,125 @@
     "europe",
     "afurika",
     "africa"
+   ],
+   "auto": true,
+   "taught": "2026-11-17"
+  },
+  {
+   "id": "ai16_4212a206",
+   "category": "education",
+   "title_rw": "Uburengero bw'ibidukikije mu mashuri",
+   "title_en": "Environmental education in schools",
+   "summary_rw": "Uburengero bw'ibidukikije mu mashuri bufasha abanyeshuri gusobanukirwa akamaro ko kubungabunga ibidukikije. Bigisha uburyo bwo gukoresha neza umutungo kamere no kurwanya ihindagurika ry'ikirere. Abanyeshuri bigishwa gukora ibikorwa nko gutera ibiti no gukuraho imyanda mu buryo burambye.",
+   "summary_en": "Environmental education in schools helps students understand the importance of protecting the environment. It teaches ways to use natural resources wisely and combat climate change. Students usually learn to participate in activities like tree planting and sustainable waste management.",
+   "keywords": [
+    "ibidukikije",
+    "environment",
+    "amashuri",
+    "schools",
+    "iterambere",
+    "sustainability",
+    "uburezi",
+    "education"
+   ],
+   "auto": true,
+   "taught": "2026-11-17"
+  },
+  {
+   "id": "ai16_137016f0",
+   "category": "education",
+   "title_rw": "Uruhare rw'ababyeyi mu burezi",
+   "title_en": "Parental involvement in education",
+   "summary_rw": "Uruhare rw'ababyeyi mu burezi rufasha abana kwitwara neza ku ishuri no gutsinda. Ababyeyi bagomba kuganira n'abana ku byo biga no kubabonera ibikoresho. Ubufatanye hagati y'ishuri n'umuryango butuma umwana agira imyitwarire myiza.",
+   "summary_en": "Parental involvement in education usually helps children perform better in school and succeed. Parents should discuss schoolwork with their children and provide necessary supplies. Collaboration between school and family promotes positive behavior in children.",
+   "keywords": [
+    "uburezi",
+    "education",
+    "ababyeyi",
+    "parents",
+    "abana",
+    "children",
+    "ishuri",
+    "school"
+   ],
+   "auto": true,
+   "taught": "2026-11-17"
+  },
+  {
+   "id": "ai16_5d95a566",
+   "category": "education",
+   "title_rw": "Uburezi bw'ubuhanzi n'umuziki mu Rwanda",
+   "title_en": "Creative Arts and Music Education in Rwanda",
+   "summary_rw": "Uburezi bw'ubuhanzi n'umuziki bufasha abanyeshuri mu iterambere ry'ubwenge n'imyitwarire myiza. Muri gahunda y'uburezi mu Rwanda, amasomo y'ubuhanzi agamije guteza imbere ubumenyi bufatika, umuco nyarwanda, no guhanga udushya. Abanyeshuri bigishwa kuririmba, gucuranga, kubyina, no gushushanya kugira ngo bamenye kwigaragaza neza mu buzima bwabo bwa buri munsi n'isoko ry'umurimo.",
+   "summary_en": "Creative arts and music education help students develop cognitive skills and positive behavior. In Rwanda's education system, arts subjects aim to promote practical skills, Rwandan culture, and innovation. Students learn singing, playing instruments, dancing, and drawing to express themselves effectively in daily life and prepare for future careers.",
+   "keywords": [
+    "uburezi",
+    "ubuhanzi",
+    "umuziki",
+    "education",
+    "arts",
+    "music",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-17"
+  },
+  {
+   "id": "ai16_01652f04",
+   "category": "education",
+   "title_rw": "Inama z'Umwuga ku Banyeshuri",
+   "title_en": "Career Guidance for Students",
+   "summary_rw": "Inama n'ubuyobozi ku iterambere ry'umwuga bifasha abanyeshuri kumenya impano zabo n'amahirwe y'akazi ahari. Ibi bikorwa bituma bafata ibyemezo byiza ku masomo yabo y'ejo hazaza hagamijwe gutsinda mu kazi.",
+   "summary_en": "Career guidance and counseling help students discover their skills and explore available job opportunities. These services enable them to make informed educational and professional choices for future success.",
+   "keywords": [
+    "education",
+    "career",
+    "students",
+    "guidance",
+    "uburezi",
+    "umwuga",
+    "abanyeshuri",
+    "inama"
+   ],
+   "auto": true,
+   "taught": "2026-11-17"
+  },
+  {
+   "id": "ai16_c1a517b2",
+   "category": "education",
+   "title_rw": "Iterambere ry'abana b'incuke n'amashuri y'inshuke",
+   "title_en": "Early childhood development and preschool education",
+   "summary_rw": "Iterambere ry'abana b'incuke n'amashuri y'inshuke bifasha abana bato mu mitekerereze n'imibereho myiza. Amashuri y'inshuke ategura abana kujya mu mashuri abanza. Abana biga binyuze mu mikino n'ibikorwa bifatika.",
+   "summary_en": "Early childhood development and preschool education help young children grow mentally and socially. Preschools prepare children for primary school. Children usually learn through play and practical activities.",
+   "keywords": [
+    "incuke",
+    "preschool",
+    "abana",
+    "children",
+    "uburezi",
+    "education",
+    "iterambere",
+    "development"
+   ],
+   "auto": true,
+   "taught": "2026-11-17"
+  },
+  {
+   "id": "ai16_31ca1f0b",
+   "category": "education",
+   "title_rw": "Impaka no kuvuga imbere y'abantu",
+   "title_en": "Debate and rhetoric skills",
+   "summary_rw": "Ubumenyi bwo impaka no kuvuga imbere y'abantu bufasha abanyeshuri gutekereza neza no gutanga ibitekerezo byabo mu mucyo. Mu Rwanda, amashuri menshi ashyiraho amatsinda y'impaka kugira ngo ateze imbere ubushobozi bw'abanyeshuri mu gutanga ibimenyetso no kumvisha abandi.",
+   "summary_en": "Debate and public speaking skills help students think critically and express their ideas clearly. In many Rwandan schools, debate clubs are established to improve students' abilities in presenting arguments and persuading others effectively.",
+   "keywords": [
+    "impaka",
+    "debate",
+    "ubumenyi",
+    "skills",
+    "amashuri",
+    "schools",
+    "gutekereza",
+    "thinking"
    ],
    "auto": true,
    "taught": "2026-11-17"
