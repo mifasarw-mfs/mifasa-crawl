@@ -1,6 +1,6 @@
 {
  "day": "2026-11-16",
- "count": 109,
+ "count": 111,
  "articles": [
   {
    "id": "crawl_vq7h5v",
@@ -61,6 +61,46 @@
    "title_en": "California sues OpenAI over Hugging Face attack",
    "summary_en": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
    "share_id": "MN202611_1o4851x11ir"
+  },
+  {
+   "id": "crawl_k4moui",
+   "title": "Taking Korea's toughest exam from behind bars",
+   "summary": "Eleven convicts at the Mandela Boys' School will be among the thousands of young Koreans taking the country's hardest exam, the Suneung.",
+   "link": "https://www.bbc.co.uk/news/articles/cmewvxg855yno?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmewvxg855yno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T23:09:49.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2ce/live/66eb6250-e1ad-11f1-8ee3-23d0d09d2796.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2ce/live/66eb6250-e1ad-11f1-8ee3-23d0d09d2796.png",
+   "title_en": "Taking Korea's toughest exam from behind bars",
+   "summary_en": "Eleven convicts at the Mandela Boys' School will be among the thousands of young Koreans taking the country's hardest exam, the Suneung.",
+   "share_id": "MN202611_k4mouiflbc"
+  },
+  {
+   "id": "crawl_v43bl5",
+   "title": "China is hosting the world's leaders in its AI wonderland. Here's what they won't see",
+   "summary": "Leave Shenzhen's tech-flecked city skyline and you run into the challenges confronting Xi's China.",
+   "link": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T23:07:20.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c637/live/5938bed0-e1b4-11f1-9a3f-99aca912798e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c637/live/5938bed0-e1b4-11f1-9a3f-99aca912798e.jpg",
+   "title_en": "China is hosting the world's leaders in its AI wonderland. Here's what they won't see",
+   "summary_en": "Leave Shenzhen's tech-flecked city skyline and you run into the challenges confronting Xi's China.",
+   "share_id": "MN202611_v43bl5w81z"
   },
   {
    "id": "crawl_1dh5uyt",
@@ -2218,5 +2258,5 @@
    "share_id": "MN202611_9h0okawny0"
   }
  ],
- "updated": "2026-11-17T01:46:04.138Z"
+ "updated": "2026-11-17T05:51:14.329Z"
 }

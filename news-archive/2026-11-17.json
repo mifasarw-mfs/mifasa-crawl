@@ -1,6 +1,6 @@
 {
  "day": "2026-11-17",
- "count": 7,
+ "count": 10,
  "articles": [
   {
    "id": "crawl_132pgkj",
@@ -21,6 +21,66 @@
    "title_rw": "Vance avuga ko azafata icyemezo 'mu gihe runaka umwaka utaha' niba aziyamamaza mu matora ya perezida w'Amerika yo mu 2028",
    "summary_rw": "Visi Perezida w'Amerika yabwiye igitangazamakuru Fox News ko nafata icyemezo cyo kwiyamamaza cyangwa kutiyamamaza, azaba acyiyemeje \"neza neza uko kizaba kimeze kose\".",
    "share_id": "MN202611_132pgkji1oh"
+  },
+  {
+   "id": "crawl_2r3ho0",
+   "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
+   "summary": "The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow.",
+   "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T04:18:32.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1524/live/baf89050-e227-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1524/live/baf89050-e227-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Two major Kyiv bridges hit in Russian attack, mayor says",
+   "summary_en": "The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow.",
+   "share_id": "MN202611_2r3ho00g3y"
+  },
+  {
+   "id": "crawl_1rol0tf",
+   "title": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
+   "summary": "The US vice-president tells Fox News that when he makes a decision to run or otherwise, he will \"be all in on whatever that decision is\".",
+   "link": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T03:07:23.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaf2/live/c1118580-e22e-11f1-a930-0d0ddd22a84e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaf2/live/c1118580-e22e-11f1-a930-0d0ddd22a84e.jpg",
+   "title_en": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
+   "summary_en": "The US vice-president tells Fox News that when he makes a decision to run or otherwise, he will \"be all in on whatever that decision is\".",
+   "share_id": "MN202611_1rol0tfdxa9"
+  },
+  {
+   "id": "crawl_1m12z3u",
+   "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+   "summary": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
+   "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T01:26:01.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34cb/live/06da8400-e224-11f1-91de-bf87f3de9484.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34cb/live/06da8400-e224-11f1-91de-bf87f3de9484.jpg",
+   "title_en": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+   "summary_en": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
+   "share_id": "MN202611_1m12z3uvvko"
   },
   {
    "id": "crawl_1mbm42f",
@@ -143,5 +203,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-17T04:28:45.187Z"
+ "updated": "2026-11-17T05:51:14.327Z"
 }
