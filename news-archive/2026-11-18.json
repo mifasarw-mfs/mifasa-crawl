@@ -1,7 +1,70 @@
 {
  "day": "2026-11-18",
- "count": 100,
+ "count": 103,
  "articles": [
+  {
+   "id": "crawl_11fignc",
+   "title": "Man Utd pursuing Como's Paz - Thursday's gossip",
+   "summary": "Manchester United pursuing Nico Paz, Besiktas plot move for Amad Diallo, Barcelona to rebuff offers for Alejandro Balde, plus more.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cxnv4q2qnvjvo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cxnv4q2qnvjvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T22:34:05.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07c/live/092861f0-e3a0-11f1-8c43-131df4a2c89f.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07c/live/092861f0-e3a0-11f1-8c43-131df4a2c89f.png",
+   "title_en": "Man Utd pursuing Como's Paz - Thursday's gossip",
+   "summary_en": "Manchester United pursuing Nico Paz, Besiktas plot move for Amad Diallo, Barcelona to rebuff offers for Alejandro Balde, plus more.",
+   "share_id": "MN202611_11figncae1y"
+  },
+  {
+   "id": "crawl_r0sv8b",
+   "title": "Buurman rescues late Chelsea win against PSG",
+   "summary": "Veerle Buurman scores an 87th-minute winner for Chelsea as they edge past Paris St-Germain 1-0 in the Women's Champions League to move top of the table.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cjy5xkq5wwrgo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cjy5xkq5wwrgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T22:13:49.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7393/live/0b748390-e39a-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7393/live/0b748390-e39a-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Buurman rescues late Chelsea win against PSG",
+   "summary_en": "Veerle Buurman scores an 87th-minute winner for Chelsea as they edge past Paris St-Germain 1-0 in the Women's Champions League to move top of the table.",
+   "share_id": "MN202611_r0sv8b66pl"
+  },
+  {
+   "id": "crawl_a9bo8a",
+   "title": "Abagize inteko ishinga amategeko ya Amerika basabye Leta kurenganura u Rwanda",
+   "summary": "Abanyapolitiki batatu bo muri Leta Zunze Ubumwe za Amerika bandikiye Umunyamabanga wa Leta ushinzwe Imari, Scott Bessent, basaba ko ibihano byafatiwe u Rwanda mu gihe cyo gushyira mu bikorwa (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/abagize-inteko-ishinga-amategeko-ya-amerika-basabye-leta-kurenganura-u-rwanda",
+   "url": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/abagize-inteko-ishinga-amategeko-ya-amerika-basabye-leta-kurenganura-u-rwanda",
+   "date": "2026-11-18T22:06:46.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu mahanga",
+    "MobileBigStory",
+    "Ruzindana Janvier"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-18_at_21.35_18_1_.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-18_at_21.35_18_1_.jpg",
+   "title_rw": "Abagize inteko ishinga amategeko ya Amerika basabye Leta kurenganura u Rwanda",
+   "summary_rw": "Abanyapolitiki batatu bo muri Leta Zunze Ubumwe za Amerika bandikiye Umunyamabanga wa Leta ushinzwe Imari, Scott Bessent, basaba ko ibihano byafatiwe u Rwanda mu gihe cyo gushyira mu bikorwa (…)",
+   "share_id": "MN202611_a9bo8a55s8"
+  },
   {
    "id": "crawl_13h734",
    "title": "Ukrainian FA to blame for failed drugs test - Mudryk",
@@ -2026,5 +2089,5 @@
    "share_id": "MN202611_12cwcm8p932"
   }
  ],
- "updated": "2026-11-18T21:44:02.592Z"
+ "updated": "2026-11-18T22:43:51.258Z"
 }
