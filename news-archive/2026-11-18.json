@@ -1,7 +1,47 @@
 {
  "day": "2026-11-18",
- "count": 21,
+ "count": 24,
  "articles": [
+  {
+   "id": "crawl_1eh127m",
+   "title": "Ghana's new $60m presidential jet sparks public outrage",
+   "summary": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising living costs.",
+   "link": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T08:08:20.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/377e/live/9eb7bde0-e31b-11f1-81d5-99b8785f3e51.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/377e/live/9eb7bde0-e31b-11f1-81d5-99b8785f3e51.jpg",
+   "title_en": "Ghana's new $60m presidential jet sparks public outrage",
+   "summary_en": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising living costs.",
+   "share_id": "MN202611_1eh127mtyog"
+  },
+  {
+   "id": "crawl_dlzhva",
+   "title": "Harry Styles, Sam Fender and Billie Eilish to headline Glastonbury 2027",
+   "summary": "The festival will return after a fallow year with a pop-heavy line-up, led by Harry Styles and Cher.",
+   "link": "https://www.bbc.co.uk/news/articles/crwy4w381nlpo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/crwy4w381nlpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T07:59:54.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63ff/live/dc5ef950-e2d1-11f1-99ed-7de3e5932968.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63ff/live/dc5ef950-e2d1-11f1-99ed-7de3e5932968.jpg",
+   "title_en": "Harry Styles, Sam Fender and Billie Eilish to headline Glastonbury 2027",
+   "summary_en": "The festival will return after a fallow year with a pop-heavy line-up, led by Harry Styles and Cher.",
+   "share_id": "MN202611_dlzhvasec4"
+  },
   {
    "id": "crawl_sz5kc7",
    "title": "Nigeria approves law allowing states to run their own police",
@@ -223,6 +263,26 @@
    "share_id": "MN202611_178adss3a9m"
   },
   {
+   "id": "crawl_sbodf3",
+   "title": "'Human' is Cambridge Dictionary Word of the Year",
+   "summary": "The growth of AI means we need to say when something is made by humans, says the book's editor.",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2ev38k4yno?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2ev38k4yno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T05:39:39.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9606/live/60cdf4b0-e274-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9606/live/60cdf4b0-e274-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "'Human' is Cambridge Dictionary Word of the Year",
+   "summary_en": "The growth of AI means we need to say when something is made by humans, says the book's editor.",
+   "share_id": "MN202611_sbodf3h9vx"
+  },
+  {
    "id": "crawl_7w5w1v",
    "title": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
    "summary": "The Lobito Corridor is at the centre of a US-backed effort to secure access to Africa's critical minerals.",
@@ -423,5 +483,5 @@
    "share_id": "MN202611_12cwcm8p932"
   }
  ],
- "updated": "2026-11-18T07:54:09.712Z"
+ "updated": "2026-11-18T08:10:33.112Z"
 }
