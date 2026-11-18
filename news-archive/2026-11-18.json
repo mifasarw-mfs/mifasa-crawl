@@ -1,7 +1,90 @@
 {
  "day": "2026-11-18",
- "count": 103,
+ "count": 109,
  "articles": [
+  {
+   "id": "crawl_e79ys2",
+   "title": "Kinshasa yanze ibiganiro ihitamo intambara, natwe turiteguye - FRN",
+   "summary": "Ku wa 18 Ugushyingo, Ubuyobozi bw’Umutwe wa FRN yahoze ari AFC/M23 bwasohoye itangazo rivuga ko ubutegetsi bwa Kinshasa bwanze ibiganiro, bisobanuye ko bwahisemo intambara, kandi FRN ivuga rwose (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/kinshasa-yanze-ibiganiro-ihitamo-intambara-natwe-turiteguye-frn",
+   "url": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/kinshasa-yanze-ibiganiro-ihitamo-intambara-natwe-turiteguye-frn",
+   "date": "2026-11-18T23:26:02.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu mahanga",
+    "MobileBigStory",
+    "Mediatrice Uwingabire"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/2026-11-19_01_22_23-imageresize_1400_799_.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-19_01_22_23-imageresize_1400_799_.png",
+   "title_rw": "Kinshasa yanze ibiganiro ihitamo intambara, natwe turiteguye - FRN",
+   "summary_rw": "Ku wa 18 Ugushyingo, Ubuyobozi bw’Umutwe wa FRN yahoze ari AFC/M23 bwasohoye itangazo rivuga ko ubutegetsi bwa Kinshasa bwanze ibiganiro, bisobanuye ko bwahisemo intambara, kandi FRN ivuga rwose (…)",
+   "share_id": "MN202611_e79ys2voq8"
+  },
+  {
+   "id": "crawl_kcox2c",
+   "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+   "summary": "No state has ever been found guilty by an international court of committing genocide.",
+   "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T23:04:06.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67fc/live/b89f41e0-e336-11f1-9479-d17d3e98c29d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67fc/live/b89f41e0-e336-11f1-9479-d17d3e98c29d.jpg",
+   "title_en": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+   "summary_en": "No state has ever been found guilty by an international court of committing genocide.",
+   "share_id": "MN202611_kcox2chtj6"
+  },
+  {
+   "id": "crawl_rxgx8b",
+   "title": "Hunger Games fan, 13, to get artwork shown on cinema screens before film",
+   "summary": "Freja Brown beat more than 1,000 entries and met some of the stars after winning a competition.",
+   "link": "https://www.bbc.co.uk/news/articles/cm4gnxjy5zllo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm4gnxjy5zllo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T23:01:49.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/718c/live/e3805b60-e368-11f1-9f51-4bfc31543510.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/718c/live/e3805b60-e368-11f1-9f51-4bfc31543510.jpg",
+   "title_en": "Hunger Games fan, 13, to get artwork shown on cinema screens before film",
+   "summary_en": "Freja Brown beat more than 1,000 entries and met some of the stars after winning a competition.",
+   "share_id": "MN202611_rxgx8b9tp5"
+  },
+  {
+   "id": "crawl_1qrmxbn",
+   "title": "Gilts v kilts: What is happening with Scottish government bonds?",
+   "summary": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market?",
+   "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T23:01:09.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef5/live/7cbd5260-e35a-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef5/live/7cbd5260-e35a-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Gilts v kilts: What is happening with Scottish government bonds?",
+   "summary_en": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market?",
+   "share_id": "MN202611_1qrmxbnftsh"
+  },
   {
    "id": "crawl_11fignc",
    "title": "Man Utd pursuing Como's Paz - Thursday's gossip",
@@ -64,6 +147,46 @@
    "title_rw": "Abagize inteko ishinga amategeko ya Amerika basabye Leta kurenganura u Rwanda",
    "summary_rw": "Abanyapolitiki batatu bo muri Leta Zunze Ubumwe za Amerika bandikiye Umunyamabanga wa Leta ushinzwe Imari, Scott Bessent, basaba ko ibihano byafatiwe u Rwanda mu gihe cyo gushyira mu bikorwa (…)",
    "share_id": "MN202611_a9bo8a55s8"
+  },
+  {
+   "id": "crawl_1eanmzf",
+   "title": "Euro Leagues",
+   "summary": "Who makes the list of the Top 10 European Strikers of the Century so far?",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pnqxmx?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/p0pnqxmx?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T22:06:00.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg",
+   "title_en": "Euro Leagues",
+   "summary_en": "Who makes the list of the Top 10 European Strikers of the Century so far?",
+   "share_id": "MN202611_1eanmzfcpix"
+  },
+  {
+   "id": "crawl_6uhxt6",
+   "title": "Can Anthropic's record breaking IPO stop the AI bubble bursting?",
+   "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+   "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T21:28:08.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcc1/live/0bb55690-e36d-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcc1/live/0bb55690-e36d-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Can Anthropic's record breaking IPO stop the AI bubble bursting?",
+   "summary_en": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+   "share_id": "MN202611_6uhxt6aua0"
   },
   {
    "id": "crawl_13h734",
@@ -2089,5 +2212,5 @@
    "share_id": "MN202611_12cwcm8p932"
   }
  ],
- "updated": "2026-11-18T22:43:51.258Z"
+ "updated": "2026-11-18T23:32:36.746Z"
 }
