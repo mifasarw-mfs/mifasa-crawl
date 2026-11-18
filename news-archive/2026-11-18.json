@@ -1,7 +1,87 @@
 {
  "day": "2026-11-18",
- "count": 9,
+ "count": 13,
  "articles": [
+  {
+   "id": "crawl_14w4bau",
+   "title": "Amavubi Head Coach Constantine Calls for Stronger Football Development After Mali Defeat",
+   "summary": "KIGALI – Rwanda’s hopes of ending their encounter with Mali on a positive note faded in the closing minutes on Tuesday evening, as the visitors secured a 2-0 victory that… The post Amavubi Head Coach Constantine Calls for Stronger Football Development After Mali Defeat appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/amavubi-head-coach-constantine-calls-for-stronger-football-development-after-mali-defeat/",
+   "url": "https://www.ktpress.rw/2026/11/amavubi-head-coach-constantine-calls-for-stronger-football-development-after-mali-defeat/",
+   "date": "2026-11-18T06:31:40.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "Sports",
+    "big-story"
+   ],
+   "title_en": "Amavubi Head Coach Constantine Calls for Stronger Football Development After Mali Defeat",
+   "summary_en": "KIGALI – Rwanda’s hopes of ending their encounter with Mali on a positive note faded in the closing minutes on Tuesday evening, as the visitors secured a 2-0 victory that… The post Amavubi Head Coach Constantine Calls for Stronger Football Development After Mali Defeat appeared first on KT PRESS .",
+   "share_id": "MN202611_14w4bauwi1g"
+  },
+  {
+   "id": "crawl_1mnsz",
+   "title": "Conservationists searching for large river eels",
+   "summary": "The Tees Rivers Trust has been searching for eels to tag and track as they migrate out to sea.",
+   "link": "https://www.bbc.co.uk/news/articles/ck3rgl783xqro?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ck3rgl783xqro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T06:19:28.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55ec/live/b074fa60-df75-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55ec/live/b074fa60-df75-11f1-b441-2b33b063138f.jpg",
+   "title_en": "Conservationists searching for large river eels",
+   "summary_en": "The Tees Rivers Trust has been searching for eels to tag and track as they migrate out to sea.",
+   "share_id": "MN202611_1mnszjm8x"
+  },
+  {
+   "id": "crawl_1g8pwc1",
+   "title": "What's gone wrong at Britain's worst bathing site?",
+   "summary": "The BBC looks at why in a dry summer with few sewage spills, one bathing site failed so many water quality tests.",
+   "link": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T06:12:44.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ad3/live/f181e450-e1c3-11f1-8a52-0b287ff76f43.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ad3/live/f181e450-e1c3-11f1-8a52-0b287ff76f43.jpg",
+   "title_en": "What's gone wrong at Britain's worst bathing site?",
+   "summary_en": "The BBC looks at why in a dry summer with few sewage spills, one bathing site failed so many water quality tests.",
+   "share_id": "MN202611_1g8pwc1issv"
+  },
+  {
+   "id": "crawl_178adss",
+   "title": "How important are Nvidia and Jensen Huang to the US economy?",
+   "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+   "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T06:04:21.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
+   "title_en": "How important are Nvidia and Jensen Huang to the US economy?",
+   "summary_en": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+   "share_id": "MN202611_178adss3a9m"
+  },
   {
    "id": "crawl_7w5w1v",
    "title": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
@@ -183,5 +263,5 @@
    "share_id": "MN202611_12cwcm8p932"
   }
  ],
- "updated": "2026-11-18T05:30:33.992Z"
+ "updated": "2026-11-18T06:34:30.187Z"
 }
