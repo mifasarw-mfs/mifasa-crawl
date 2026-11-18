@@ -1,5 +1,85 @@
 [
  {
+  "id": "crawl_pd775s",
+  "title": "72+: The EFL Podcast",
+  "summary": "Aaron, Jobi and Tommy Smith talk all things EFL.",
+  "link": "https://www.bbc.co.uk/sounds/play/p0pnnkrh?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sounds/play/p0pnnkrh?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-18T16:15:00.000Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg",
+  "title_en": "72+: The EFL Podcast",
+  "summary_en": "Aaron, Jobi and Tommy Smith talk all things EFL.",
+  "share_id": "MN202611_pd775s0boe"
+ },
+ {
+  "id": "crawl_sxyzs6",
+  "title": "The tightest survival scrap for years? Why it's not too early to worry",
+  "summary": "The Premier League resumes on Saturday with Crystal Palace, Sunderland and Man Utd in the relegation zone. But is it too early to be worried?",
+  "link": "https://www.bbc.co.uk/sport/football/articles/cj3vgp36z063o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cj3vgp36z063o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-18T16:09:55.000Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f51/live/09641460-e33d-11f1-a094-5fdc692f3e33.png",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f51/live/09641460-e33d-11f1-a094-5fdc692f3e33.png",
+  "title_en": "The tightest survival scrap for years? Why it's not too early to worry",
+  "summary_en": "The Premier League resumes on Saturday with Crystal Palace, Sunderland and Man Utd in the relegation zone. But is it too early to be worried?",
+  "share_id": "MN202611_sxyzs6qx6s"
+ },
+ {
+  "id": "crawl_6q3mxz",
+  "title": "'Best night' of Dáithí's life all thanks to organ donation",
+  "summary": "Dáithí Mac Gabhann walked out with Republic of Ireland's Troy Parrott as Ireland won 3-0 over Kosovo in the Nations League.",
+  "link": "https://www.bbc.co.uk/news/articles/cx5y1vq89lypo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cx5y1vq89lypo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-18T16:09:29.000Z",
+  "source": "BBC Health",
+  "category": "health",
+  "lang": "en",
+  "keywords": [
+   "BBC Health",
+   "health"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/712a/live/85f4e880-e368-11f1-9f51-4bfc31543510.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/712a/live/85f4e880-e368-11f1-9f51-4bfc31543510.jpg",
+  "title_en": "'Best night' of Dáithí's life all thanks to organ donation",
+  "summary_en": "Dáithí Mac Gabhann walked out with Republic of Ireland's Troy Parrott as Ireland won 3-0 over Kosovo in the Nations League.",
+  "share_id": "MN202611_6q3mxzwjet"
+ },
+ {
+  "id": "crawl_ss2ai3",
+  "title": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
+  "summary": "Zookeepers say she cannot have surgery but are providing fluids and supportive care to help her pass the hat.",
+  "link": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-18T16:05:26.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/769d/live/66da74a0-e369-11f1-99b6-a35a62fa4264.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/769d/live/66da74a0-e369-11f1-99b6-a35a62fa4264.jpg",
+  "title_en": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
+  "summary_en": "Zookeepers say she cannot have surgery but are providing fluids and supportive care to help her pass the hat.",
+  "share_id": "MN202611_ss2ai3v6yx"
+ },
+ {
   "id": "crawl_yzerqz",
   "title": "Parents jailed for torture and death of four-year-old girl in France in 1987",
   "summary": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
@@ -21,8 +101,8 @@
  },
  {
   "id": "crawl_e59dlk",
-  "title": "Hakeem Jeffries nominated to be US Speaker of the House",
-  "summary": "Democrats in the US House of Representatives have officially nominated him, setting him on the path to become the first black lawmaker to lead the chamber.",
+  "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+  "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
   "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-18T15:38:02.000Z",
@@ -35,8 +115,8 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg",
-  "title_en": "Hakeem Jeffries nominated to be US Speaker of the House",
-  "summary_en": "Democrats in the US House of Representatives have officially nominated him, setting him on the path to become the first black lawmaker to lead the chamber.",
+  "title_en": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+  "summary_en": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
   "share_id": "MN202611_e59dlk2a2e"
  },
  {
@@ -231,6 +311,26 @@
   "title_en": "Hacks, AI or just overdue updates - why have there been so many outages?",
   "summary_en": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.",
   "share_id": "MN202611_13lld34e9jy"
+ },
+ {
+  "id": "crawl_vpw27w",
+  "title": "Rugby TV pundit says sex assault 'never happened'",
+  "summary": "Danika Priim is on trial at Leeds Crown Court after being charged with sexual assault.",
+  "link": "https://www.bbc.co.uk/news/articles/cw62pelje06do?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cw62pelje06do?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-18T13:15:49.000Z",
+  "source": "BBC Entertainment",
+  "category": "entertainment",
+  "lang": "en",
+  "keywords": [
+   "BBC Entertainment",
+   "entertainment"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08bb/live/47d3a410-e34f-11f1-99aa-0f40b013ad11.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08bb/live/47d3a410-e34f-11f1-99aa-0f40b013ad11.jpg",
+  "title_en": "Rugby TV pundit says sex assault 'never happened'",
+  "summary_en": "Danika Priim is on trial at Leeds Crown Court after being charged with sexual assault.",
+  "share_id": "MN202611_vpw27woyoq"
  },
  {
   "id": "crawl_kd39v6",
@@ -1166,6 +1266,26 @@
   "title_en": "People asked for views on blue brook pollution",
   "summary_en": "The Environment Agency wants to know how the incident affected visitors, residents and businesses.",
   "share_id": "MN202611_11uht2rg90"
+ },
+ {
+  "id": "crawl_zualyv",
+  "title": "BBC correspondents discuss historic Trump, Xi and Putin meeting",
+  "summary": "The BBC’s Laura Bicker, Steve Rosenberg and Nada Tawfik explain everything you need to know ahead of the unprecedented trilateral meeting.",
+  "link": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-18T08:33:32.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e20b/live/66ff6490-e323-11f1-a094-5fdc692f3e33.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e20b/live/66ff6490-e323-11f1-a094-5fdc692f3e33.jpg",
+  "title_en": "BBC correspondents discuss historic Trump, Xi and Putin meeting",
+  "summary_en": "The BBC’s Laura Bicker, Steve Rosenberg and Nada Tawfik explain everything you need to know ahead of the unprecedented trilateral meeting.",
+  "share_id": "MN202611_zualyv372t"
  },
  {
   "id": "crawl_1eh127m",
@@ -4384,11 +4504,11 @@
   "link": "https://www.youtube.com/watch?v=Hv-AtzyrkmQ",
   "url": "https://www.youtube.com/watch?v=Hv-AtzyrkmQ",
   "date": "2026-11-17T07:00:33.000Z",
-  "source": "YouTube Trending Kenya",
+  "source": "YouTube Trending Uganda",
   "category": "entertainment",
   "lang": "en",
   "keywords": [
-   "YouTube Trending Kenya",
+   "YouTube Trending Uganda",
    "entertainment",
    "trending",
    "video"
@@ -17045,142 +17165,5 @@
   "title_rw": "Cya Tonalite kizanye ingingo zibabaje Gael yirengagiza 😭🤣Kigeze Kuri Lague kirabihuhura 🤣🤣",
   "summary_rw": "Ushatse kutuvugisha #0787413998 #MIEempire https://www.instagram.com/mie_empire.rw/ https://www.instagram.com/irenemurindahabi/",
   "share_id": "MN202611_1lxovltkyfz"
- },
- {
-  "id": "crawl_98fh1l",
-  "title": "Finally THIERRY HENRY  in efootball 🔥😭 PACK OPENING + GAMEPLAY",
-  "summary": "The French Gazelle is BACK! 🇫🇷🐐 Today we're taking Thierry Henry into eFootball 2027 to see what the Arsenal legend can really do! From his incredible pace to his deadly finishing, we're testing one of the greatest strikers of all time. Can Thierry Henry dominate in eFootball 27 and prove why he's a true football legend? Watch until the end and let me know your thoughts! 🔥 Don't forget to LIKE",
-  "link": "https://www.youtube.com/watch?v=BK7GUHNjLOY",
-  "url": "https://www.youtube.com/watch?v=BK7GUHNjLOY",
-  "date": "2026-11-12T14:53:21.000Z",
-  "source": "YouTube Trending Kenya",
-  "category": "entertainment",
-  "lang": "en",
-  "keywords": [
-   "YouTube Trending Kenya",
-   "entertainment",
-   "trending",
-   "Thierry Henry eFootball 2027",
-   "eFootball 27",
-   "Thierry Henry eFootball",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "BK7GUHNjLOY"
-  },
-  "type": "video",
-  "image": "https://i.ytimg.com/vi/BK7GUHNjLOY/hqdefault.jpg",
-  "thumbnail": "https://i.ytimg.com/vi/BK7GUHNjLOY/hqdefault.jpg",
-  "title_en": "Finally THIERRY HENRY  in efootball 🔥😭 PACK OPENING + GAMEPLAY",
-  "summary_en": "The French Gazelle is BACK! 🇫🇷🐐 Today we're taking Thierry Henry into eFootball 2027 to see what the Arsenal legend can really do! From his incredible pace to his deadly finishing, we're testing one of the greatest strikers of all time. Can Thierry Henry dominate in eFootball 27 and prove why he's a true football legend? Watch until the end and let me know your thoughts! 🔥 Don't forget to LIKE",
-  "share_id": "MN202611_98fh1lfluv"
- },
- {
-  "id": "crawl_11o55h8",
-  "title": "Uganda Airlines Set to Launch Daily Kigali–Entebbe Flights",
-  "summary": "Uganda Airlines is preparing to strengthen air connectivity between Rwanda and Uganda with the introduction of daily flights linking Kigali and Entebbe, in a move expected to boost tourism, trade, business travel and regional integration. The new route, which officially launches on November 18, 2026, was presented at a travel trade engagement held at Kigali […] The post Uganda Airlines Set to…",
-  "link": "https://taarifa.rw/2026/11/12/uganda-airlines-set-to-launch-daily-kigali-entebbe-flights/",
-  "url": "https://taarifa.rw/2026/11/12/uganda-airlines-set-to-launch-daily-kigali-entebbe-flights/",
-  "date": "2026-11-12T14:44:22.000Z",
-  "source": "Taarifa Rwanda",
-  "category": "news",
-  "lang": "en",
-  "keywords": [
-   "Taarifa Rwanda",
-   "news",
-   "Africa"
-  ],
-  "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-12-at-16.33.46-1.jpeg?fit=1024%2C683&ssl=1",
-  "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-12-at-16.33.46-1.jpeg?fit=1024%2C683&ssl=1",
-  "title_en": "Uganda Airlines Set to Launch Daily Kigali–Entebbe Flights",
-  "summary_en": "Uganda Airlines is preparing to strengthen air connectivity between Rwanda and Uganda with the introduction of daily flights linking Kigali and Entebbe, in a move expected to boost tourism, trade, business travel and regional integration. The new route, which officially launches on November 18, 2026, was presented at a travel trade engagement held at Kigali […] The post Uganda Airlines Set to…",
-  "share_id": "MN202611_11o55h8x2vu"
- },
- {
-  "id": "crawl_1gy3w30",
-  "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
-  "summary": "A deadline to secure a buyer was set to expire at midnight, but the retailer now has an extra 10 days to find a buyer.",
-  "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-12T14:29:59.000Z",
-  "source": "BBC Business",
-  "category": "business",
-  "lang": "en",
-  "keywords": [
-   "BBC Business",
-   "business"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
-  "title_en": "Poundland gets more time to secure a rescue deal as emergency talks continue",
-  "summary_en": "A deadline to secure a buyer was set to expire at midnight, but the retailer now has an extra 10 days to find a buyer.",
-  "share_id": "MN202611_1gy3w30wsju"
- },
- {
-  "id": "crawl_5u1f7v",
-  "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-  "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-  "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-12T14:18:33.000Z",
-  "source": "BBC Business",
-  "category": "business",
-  "lang": "en",
-  "keywords": [
-   "BBC Business",
-   "business"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg",
-  "title_en": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-  "summary_en": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-  "share_id": "MN202611_5u1f7vubop"
- },
- {
-  "id": "crawl_10zy0de",
-  "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
-  "summary": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
-  "link": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-12T14:12:55.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9195/live/8aa36db0-de8c-11f1-9afe-1f03bfe02283.png",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9195/live/8aa36db0-de8c-11f1-9afe-1f03bfe02283.png",
-  "title_en": "Before Scott Colom, these two men were the last black US senators from Mississippi",
-  "summary_en": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
-  "share_id": "MN202611_10zy0deqwu8"
- },
- {
-  "id": "crawl_u8ovze",
-  "title": "🔴LIVE: #URUBUGARWIMIKINO: #Amavubi arakina na Mali | Man Utd yirukanye umutoza | #UEFANationsLeague",
-  "summary": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
-  "link": "https://www.youtube.com/watch?v=itFNlUxwX7E",
-  "url": "https://www.youtube.com/watch?v=itFNlUxwX7E",
-  "date": "2026-11-12T14:08:42.000Z",
-  "source": "Radio Rwanda YouTube",
-  "category": "news",
-  "lang": "rw",
-  "keywords": [
-   "Radio Rwanda YouTube",
-   "news",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "itFNlUxwX7E"
-  },
-  "type": "video",
-  "image": "https://i2.ytimg.com/vi/itFNlUxwX7E/hqdefault.jpg",
-  "thumbnail": "https://i2.ytimg.com/vi/itFNlUxwX7E/hqdefault.jpg",
-  "title_rw": "🔴LIVE: #URUBUGARWIMIKINO: #Amavubi arakina na Mali | Man Utd yirukanye umutoza | #UEFANationsLeague",
-  "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
-  "share_id": "MN202611_u8ovzep0so"
  }
 ]
