@@ -4269,6 +4269,78 @@
    ],
    "auto": true,
    "taught": "2026-11-17"
+  },
+  {
+   "id": "ai16_3bb73b0c_q",
+   "label_rw": "Uburyo bwo kujugunya muri Judo n'ibanze ku kurwana hasi",
+   "label_en": "Judo throws and grappling basics",
+   "patterns_en": [
+    "Where does judo originate from?",
+    "What are the main throwing techniques in judo?",
+    "What is the primary goal in judo?"
+   ],
+   "patterns_rw": [
+    "Judo ikomoka he?",
+    "Ni ubuhe buryo bukoreshwa mu kujugunya muri Judo?",
+    "Intego nyamukuru ya Judo ni iyihe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Judo ni umukino w'imirwano ukomoka mu Buyapani. Ushingiye ku buryo bubiri bw'ingenzi: kujugunya uwo muhanganye hasi (Nage-waza) no kumugenzura hasi cyangwa kumuniga (Katame-waza). Abakinnyi bakoresha imbaraga z'uwo bahanganye kugira ngo bamutsinde.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Judo is a martial art originating from Japan. It focuses on two main techniques: throwing an opponent to the ground (Nage-waza) and controlling or choking them on the ground (Katame-waza). Athletes usually use their opponent's momentum to win.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_89300954_q",
+   "label_rw": "Amategeko ya Hockey mu kibuga",
+   "label_en": "Field Hockey Rules",
+   "patterns_en": [
+    "How many players are on the field for each team in field hockey?",
+    "Is it allowed to use hands in field hockey?",
+    "What kind of stick is used in field hockey?"
+   ],
+   "patterns_rw": [
+    "Ni abakinnyi bangahe bari mu kibuga kuri buri kipe muri hockey?",
+    "Ese byemewe gukoresha amaboko muri hockey?",
+    "Inkoni ikoreshwa muri hockey imeze ite?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Hockey mu kibuga ni umukino ukinirwa n'amakipe abiri afite abakinnyi cumi na umwe buri kipe. Abakinnyi bakoresha inkoni y'uruhande rumwe gusa kugira ngo bakubite umupira. Ntibyemewe gukora ku mupira n'amaboko, keretse umunyezamu mu rubuga rwe. Intego ni ukwinjiza umupira mu izamu ry'ikipe ihanganye.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Field hockey is a sport played by two teams of eleven players each. Players use a stick that is flat on one side only to hit the ball. Touching the ball with hands is not allowed, except for the goalkeeper within their circle. The objective is to score goals by putting the ball into the opponent's net.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_424d4057_q",
+   "label_rw": "Uburyo bwo kwitwara muri Golf no guhitamo inkoni",
+   "label_en": "Golf etiquette and club selection",
+   "patterns_en": [
+    "What etiquette is required of golf players?",
+    "How does a player choose the right club?",
+    "Why is etiquette important in golf?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyubahiro gisabwa abakinnyi ba golf?",
+    "Ni gute umukinnyi ahitamo inkoni ikwiye?",
+    "Kuki imyitwarire ari ingenzi muri golf?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Golf ni umukino usaba imyitwarire myiza n'icyubahiro ku kibuga. Abakinnyi bagomba guceceka abandi batera umupira no kwitondera aho bahagarara. Guhitamo inkoni ikwiye bitewe n'interuro n'uburebure bwa terrain bifasha umukinnyi kugera ku ntego ye neza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Golf is a sport that requires good etiquette and respect on the course. Players must remain quiet while others take their shot and pay attention to their positioning. Selecting the right club based on the distance and terrain helps a player achieve their goal successfully.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
   }
  ],
  "knowledge": [
@@ -7782,6 +7854,66 @@
    ],
    "auto": true,
    "taught": "2026-11-17"
+  },
+  {
+   "id": "ai16_3bb73b0c",
+   "category": "sports",
+   "title_rw": "Uburyo bwo kujugunya muri Judo n'ibanze ku kurwana hasi",
+   "title_en": "Judo throws and grappling basics",
+   "summary_rw": "Judo ni umukino w'imirwano ukomoka mu Buyapani. Ushingiye ku buryo bubiri bw'ingenzi: kujugunya uwo muhanganye hasi (Nage-waza) no kumugenzura hasi cyangwa kumuniga (Katame-waza). Abakinnyi bakoresha imbaraga z'uwo bahanganye kugira ngo bamutsinde.",
+   "summary_en": "Judo is a martial art originating from Japan. It focuses on two main techniques: throwing an opponent to the ground (Nage-waza) and controlling or choking them on the ground (Katame-waza). Athletes usually use their opponent's momentum to win.",
+   "keywords": [
+    "judo",
+    "sports",
+    "imirwano",
+    "martial arts",
+    "kujugunya",
+    "throws",
+    "ubuyapani",
+    "japan"
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_89300954",
+   "category": "sports",
+   "title_rw": "Amategeko ya Hockey mu kibuga",
+   "title_en": "Field Hockey Rules",
+   "summary_rw": "Hockey mu kibuga ni umukino ukinirwa n'amakipe abiri afite abakinnyi cumi na umwe buri kipe. Abakinnyi bakoresha inkoni y'uruhande rumwe gusa kugira ngo bakubite umupira. Ntibyemewe gukora ku mupira n'amaboko, keretse umunyezamu mu rubuga rwe. Intego ni ukwinjiza umupira mu izamu ry'ikipe ihanganye.",
+   "summary_en": "Field hockey is a sport played by two teams of eleven players each. Players use a stick that is flat on one side only to hit the ball. Touching the ball with hands is not allowed, except for the goalkeeper within their circle. The objective is to score goals by putting the ball into the opponent's net.",
+   "keywords": [
+    "hockey",
+    "inkoni",
+    "umupira",
+    "izamu",
+    "urubuga",
+    "amategeko",
+    "imikino",
+    "sports"
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_424d4057",
+   "category": "sports",
+   "title_rw": "Uburyo bwo kwitwara muri Golf no guhitamo inkoni",
+   "title_en": "Golf etiquette and club selection",
+   "summary_rw": "Golf ni umukino usaba imyitwarire myiza n'icyubahiro ku kibuga. Abakinnyi bagomba guceceka abandi batera umupira no kwitondera aho bahagarara. Guhitamo inkoni ikwiye bitewe n'interuro n'uburebure bwa terrain bifasha umukinnyi kugera ku ntego ye neza.",
+   "summary_en": "Golf is a sport that requires good etiquette and respect on the course. Players must remain quiet while others take their shot and pay attention to their positioning. Selecting the right club based on the distance and terrain helps a player achieve their goal successfully.",
+   "keywords": [
+    "golf",
+    "inkoni",
+    "imyitwarire",
+    "kibuga",
+    "club",
+    "etiquette",
+    "sport",
+    "player"
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
   }
  ]
 }
