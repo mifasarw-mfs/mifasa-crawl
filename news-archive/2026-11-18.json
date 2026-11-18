@@ -1,7 +1,28 @@
 {
  "day": "2026-11-18",
- "count": 35,
+ "count": 36,
  "articles": [
+  {
+   "id": "crawl_147525n",
+   "title": "Uganda Airlines Flight Airborne to Kigali",
+   "summary": "A Uganda national carrier flight has taken off from Entebbe International Airport and is scheduled to land at Kigali International Airport in Rwanda’s Capital. Uganda’s foreign affairs ministry said before the flight take off, “The new route marks a significant milestone in strengthening Uganda–Rwanda trade, tourism and connectivity while expanding Uganda Airlines’ footprint across the […] The…",
+   "link": "https://taarifa.rw/2026/11/18/uganda-airlines-flight-airborne-to-kigali/",
+   "url": "https://taarifa.rw/2026/11/18/uganda-airlines-flight-airborne-to-kigali/",
+   "date": "2026-11-18T10:38:01.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "Business"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261118-123447.jpg?fit=720%2C403&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261118-123447.jpg?fit=720%2C403&ssl=1",
+   "title_en": "Uganda Airlines Flight Airborne to Kigali",
+   "summary_en": "A Uganda national carrier flight has taken off from Entebbe International Airport and is scheduled to land at Kigali International Airport in Rwanda’s Capital. Uganda’s foreign affairs ministry said before the flight take off, “The new route marks a significant milestone in strengthening Uganda–Rwanda trade, tourism and connectivity while expanding Uganda Airlines’ footprint across the […] The…",
+   "share_id": "MN202611_147525ny6o9"
+  },
   {
    "id": "crawl_356u6z",
    "title": "U Rwanda rwahaye Liberia ibitekerezo ku kubaka amahoro arambye",
@@ -708,5 +729,5 @@
    "share_id": "MN202611_12cwcm8p932"
   }
  ],
- "updated": "2026-11-18T10:31:02.033Z"
+ "updated": "2026-11-18T10:41:17.662Z"
 }
