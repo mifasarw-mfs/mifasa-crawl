@@ -1,7 +1,47 @@
 {
  "day": "2026-11-18",
- "count": 3,
+ "count": 5,
  "articles": [
+  {
+   "id": "crawl_15zpr8w",
+   "title": "Waymo temporarily pulls driverless taxis from all US freeways",
+   "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+   "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T03:07:22.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e7c/live/e9a84520-e2f5-11f1-910a-c953499d69d5.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e7c/live/e9a84520-e2f5-11f1-910a-c953499d69d5.jpg",
+   "title_en": "Waymo temporarily pulls driverless taxis from all US freeways",
+   "summary_en": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+   "share_id": "MN202611_15zpr8winpq"
+  },
+  {
+   "id": "crawl_11dqx4b",
+   "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+   "summary": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+   "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T02:40:45.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/704f/live/8581feb0-e2f5-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/704f/live/8581feb0-e2f5-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+   "summary_en": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+   "share_id": "MN202611_11dqx4bjtl5"
+  },
   {
    "id": "crawl_14o9o4s",
    "title": "Voy at-home test kit adverts banned over low testosterone claims",
@@ -63,5 +103,5 @@
    "share_id": "MN202611_12cwcm8p932"
   }
  ],
- "updated": "2026-11-18T01:51:22.158Z"
+ "updated": "2026-11-18T03:19:24.423Z"
 }

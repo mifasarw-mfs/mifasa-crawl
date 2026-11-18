@@ -1,5 +1,45 @@
 [
  {
+  "id": "crawl_15zpr8w",
+  "title": "Waymo temporarily pulls driverless taxis from all US freeways",
+  "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+  "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-18T03:07:22.000Z",
+  "source": "BBC Technology",
+  "category": "tech",
+  "lang": "en",
+  "keywords": [
+   "BBC Technology",
+   "tech"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e7c/live/e9a84520-e2f5-11f1-910a-c953499d69d5.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e7c/live/e9a84520-e2f5-11f1-910a-c953499d69d5.jpg",
+  "title_en": "Waymo temporarily pulls driverless taxis from all US freeways",
+  "summary_en": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+  "share_id": "MN202611_15zpr8winpq"
+ },
+ {
+  "id": "crawl_11dqx4b",
+  "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+  "summary": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+  "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-18T02:40:45.000Z",
+  "source": "BBC Business",
+  "category": "business",
+  "lang": "en",
+  "keywords": [
+   "BBC Business",
+   "business"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/704f/live/8581feb0-e2f5-11f1-99b6-a35a62fa4264.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/704f/live/8581feb0-e2f5-11f1-99b6-a35a62fa4264.jpg",
+  "title_en": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+  "summary_en": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+  "share_id": "MN202611_11dqx4bjtl5"
+ },
+ {
   "id": "crawl_14o9o4s",
   "title": "Voy at-home test kit adverts banned over low testosterone claims",
   "summary": "The Advertising Standards Authority says the adverts by online healthcare provider Voy made misleading claims.",
@@ -17175,45 +17215,5 @@
   "title_en": "Sunbed firms must not downplay cancer risk, says watchdog",
   "summary_en": "The advertising watchdog says they also must not make misleading claims that sunbeds can treat skin conditions or improve mental health.",
   "share_id": "MN202611_y012oztz5t"
- },
- {
-  "id": "crawl_7jj6d7",
-  "title": "Significant drop in levels of toxic 'forever' chemicals in England's rivers",
-  "summary": "The decline has been put down to severe restrictions placed on the substances' use.",
-  "link": "https://www.bbc.co.uk/news/articles/cmze75r55g3jo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cmze75r55g3jo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-12T00:12:59.000Z",
-  "source": "BBC Science",
-  "category": "science",
-  "lang": "en",
-  "keywords": [
-   "BBC Science",
-   "science"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e068/live/4f7ef220-ddfd-11f1-8445-15eb55286f71.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e068/live/4f7ef220-ddfd-11f1-8445-15eb55286f71.jpg",
-  "title_en": "Significant drop in levels of toxic 'forever' chemicals in England's rivers",
-  "summary_en": "The decline has been put down to severe restrictions placed on the substances' use.",
-  "share_id": "MN202611_7jj6d7c2u1"
- },
- {
-  "id": "crawl_187yh1k",
-  "title": "Are max strength cold and flu pills worth the money?",
-  "summary": "Some cold and flu remedies cost 20 times as much as a basic pack of paracetamol or ibuprofen.",
-  "link": "https://www.bbc.co.uk/news/articles/cjkgep4rgngro?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cjkgep4rgngro?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-12T00:12:28.000Z",
-  "source": "BBC Health",
-  "category": "health",
-  "lang": "en",
-  "keywords": [
-   "BBC Health",
-   "health"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3dd/live/1dbdaeb0-de7b-11f1-b88b-3f1671ea859d.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3dd/live/1dbdaeb0-de7b-11f1-b88b-3f1671ea859d.jpg",
-  "title_en": "Are max strength cold and flu pills worth the money?",
-  "summary_en": "Some cold and flu remedies cost 20 times as much as a basic pack of paracetamol or ibuprofen.",
-  "share_id": "MN202611_187yh1krdie"
  }
 ]
