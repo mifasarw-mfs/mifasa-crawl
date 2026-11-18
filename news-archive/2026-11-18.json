@@ -1,7 +1,27 @@
 {
  "day": "2026-11-18",
- "count": 86,
+ "count": 88,
  "articles": [
+  {
+   "id": "crawl_3lrx3o",
+   "title": "Rooney revelations important - Bradford boss Duff",
+   "summary": "Bradford boss Michael Duff praises former England captain Wayne Rooney for speaking out about the mental health struggles he had while playing.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cvrlgke13e9go?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cvrlgke13e9go?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T17:52:23.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3743/live/c2268860-e375-11f1-b879-03485a55c082.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3743/live/c2268860-e375-11f1-b879-03485a55c082.jpg",
+   "title_en": "Rooney revelations important - Bradford boss Duff",
+   "summary_en": "Bradford boss Michael Duff praises former England captain Wayne Rooney for speaking out about the mental health struggles he had while playing.",
+   "share_id": "MN202611_3lrx3onwhe"
+  },
   {
    "id": "crawl_1wno81s",
    "title": "Doctors learn of complaints through data leak from regulator",
@@ -40,6 +60,26 @@
    "title_en": "The Growing Absurdity Of HRW’s Campaign Against Rwanda",
    "summary_en": "An unyielding stand by its sovereignty has brought Rwanda enemies among individuals and organisations, who have always regarded having influence over the country almost as their inalienable right. Among the… The post The Growing Absurdity Of HRW’s Campaign Against Rwanda appeared first on KT PRESS .",
    "share_id": "MN202611_sa19171q6x"
+  },
+  {
+   "id": "crawl_o0hc7c",
+   "title": "New video shows explosions moments before part of Crimea Bridge collapses",
+   "summary": "BBC Verify analyses footage showing the final moments before part of the bridge fell and videos showing the scale of destruction.",
+   "link": "https://www.bbc.co.uk/news/videos/ckvg28jy77z5o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/ckvg28jy77z5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T17:09:43.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/442c/live/51ebbbe0-e36d-11f1-99a1-253766e7ad8b.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/442c/live/51ebbbe0-e36d-11f1-99a1-253766e7ad8b.png",
+   "title_en": "New video shows explosions moments before part of Crimea Bridge collapses",
+   "summary_en": "BBC Verify analyses footage showing the final moments before part of the bridge fell and videos showing the scale of destruction.",
+   "share_id": "MN202611_o0hc7cdzae"
   },
   {
    "id": "crawl_1wpdnyj",
@@ -1746,5 +1786,5 @@
    "share_id": "MN202611_12cwcm8p932"
   }
  ],
- "updated": "2026-11-18T17:49:40.664Z"
+ "updated": "2026-11-18T18:20:13.207Z"
 }
