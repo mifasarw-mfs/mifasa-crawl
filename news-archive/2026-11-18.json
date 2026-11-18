@@ -1,7 +1,67 @@
 {
  "day": "2026-11-18",
- "count": 97,
+ "count": 100,
  "articles": [
+  {
+   "id": "crawl_13h734",
+   "title": "Ukrainian FA to blame for failed drugs test - Mudryk",
+   "summary": "Tottenham's on-loan Chelsea winger Mykhailo Mudryk says he blames the Ukrainian Association of Football for his failed drugs test and subsequent ban.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cr930l71z5ejo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cr930l71z5ejo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T21:22:18.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000a/live/86e56660-e391-11f1-b4f3-9f0685d52a1f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000a/live/86e56660-e391-11f1-b4f3-9f0685d52a1f.jpg",
+   "title_en": "Ukrainian FA to blame for failed drugs test - Mudryk",
+   "summary_en": "Tottenham's on-loan Chelsea winger Mykhailo Mudryk says he blames the Ukrainian Association of Football for his failed drugs test and subsequent ban.",
+   "share_id": "MN202611_13h734d6gu"
+  },
+  {
+   "id": "crawl_rq6ica",
+   "title": "England defender Carter joins Bay FC after Gotham exit",
+   "summary": "England defender Jess Carter completes a move to Bay FC after leaving Gotham FC as a free agent.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck5y169v1262o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ck5y169v1262o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T21:07:26.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2514/live/7b839f70-e392-11f1-b4f3-9f0685d52a1f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2514/live/7b839f70-e392-11f1-b4f3-9f0685d52a1f.jpg",
+   "title_en": "England defender Carter joins Bay FC after Gotham exit",
+   "summary_en": "England defender Jess Carter completes a move to Bay FC after leaving Gotham FC as a free agent.",
+   "share_id": "MN202611_rq6icayfqw"
+  },
+  {
+   "id": "crawl_xatnvu",
+   "title": "Strasbourg appoint Swansea boss Matos",
+   "summary": "Strasbourg appoint Swansea City's Vitor Matos as the club's new head coach.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6174epxv1p4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6174epxv1p4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T20:57:54.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3f2/live/25bf9080-e356-11f1-acd4-25eaaa5def63.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3f2/live/25bf9080-e356-11f1-acd4-25eaaa5def63.jpg",
+   "title_en": "Strasbourg appoint Swansea boss Matos",
+   "summary_en": "Strasbourg appoint Swansea City's Vitor Matos as the club's new head coach.",
+   "share_id": "MN202611_xatnvullag"
+  },
   {
    "id": "crawl_1u3mznk",
    "title": "FA explored legal challenge to Infantino staying on",
@@ -1966,5 +2026,5 @@
    "share_id": "MN202611_12cwcm8p932"
   }
  ],
- "updated": "2026-11-18T21:09:55.180Z"
+ "updated": "2026-11-18T21:44:02.592Z"
 }
