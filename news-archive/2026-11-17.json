@@ -1,7 +1,47 @@
 {
  "day": "2026-11-17",
- "count": 119,
+ "count": 122,
  "articles": [
+  {
+   "id": "crawl_53jdjd",
+   "title": "Belief and bench steer Northern Ireland into Nations League top tier",
+   "summary": "Manager Michael O'Neill hails the belief shown by his side after they came from behind against Hungary to seal the draw they needed for promotion to Nations League A.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T23:49:31.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a30/live/f5d9d9d0-e2e1-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a30/live/f5d9d9d0-e2e1-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Belief and bench steer Northern Ireland into Nations League top tier",
+   "summary_en": "Manager Michael O'Neill hails the belief shown by his side after they came from behind against Hungary to seal the draw they needed for promotion to Nations League A.",
+   "share_id": "MN202611_53jdjdfcx3"
+  },
+  {
+   "id": "crawl_gbzyhf",
+   "title": "Bellamy convinced of Wales credentials despite defeat by Portugal",
+   "summary": "Wales finished bottom of their Nations League group, but boss Craig Bellamy believes his team showed they belong in the top flight.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmn507wn6gg3o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmn507wn6gg3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T23:37:45.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5735/live/f46405e0-e2e5-11f1-8e58-ef8e322f3c98.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5735/live/f46405e0-e2e5-11f1-8e58-ef8e322f3c98.jpg",
+   "title_en": "Bellamy convinced of Wales credentials despite defeat by Portugal",
+   "summary_en": "Wales finished bottom of their Nations League group, but boss Craig Bellamy believes his team showed they belong in the top flight.",
+   "share_id": "MN202611_gbzyhfvxv5"
+  },
   {
    "id": "crawl_1wddph1",
    "title": "Pakistan's solar revolution seems unstoppable - but there's a problem",
@@ -41,6 +81,26 @@
    "title_en": "Republic of Ireland talisman Parrott caps dream year with two more goals",
    "summary_en": "Republic of Ireland striker Troy Parrott reflects on a transformative 12 months for both club and country after scoring a double in the win against Kosovo.",
    "share_id": "MN202611_sksv3akshw"
+  },
+  {
+   "id": "crawl_143ukm4",
+   "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+   "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+   "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T23:02:12.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg",
+   "title_en": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+   "summary_en": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+   "share_id": "MN202611_143ukm4nh2y"
   },
   {
    "id": "crawl_w21mvp",
@@ -2397,5 +2457,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-17T23:39:54.015Z"
+ "updated": "2026-11-18T00:30:04.104Z"
 }

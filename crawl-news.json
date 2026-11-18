@@ -1,5 +1,65 @@
 [
  {
+  "id": "crawl_12cwcm8",
+  "title": "Europe plans to catch the next computer chip wave",
+  "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+  "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-18T00:00:24.000Z",
+  "source": "BBC Business",
+  "category": "business",
+  "lang": "en",
+  "keywords": [
+   "BBC Business",
+   "business"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c96b/live/b14b3a60-d9c8-11f1-93e1-3b657b665bcf.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c96b/live/b14b3a60-d9c8-11f1-93e1-3b657b665bcf.jpg",
+  "title_en": "Europe plans to catch the next computer chip wave",
+  "summary_en": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+  "share_id": "MN202611_12cwcm8p932"
+ },
+ {
+  "id": "crawl_53jdjd",
+  "title": "Belief and bench steer Northern Ireland into Nations League top tier",
+  "summary": "Manager Michael O'Neill hails the belief shown by his side after they came from behind against Hungary to seal the draw they needed for promotion to Nations League A.",
+  "link": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T23:49:31.000Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a30/live/f5d9d9d0-e2e1-11f1-a094-5fdc692f3e33.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a30/live/f5d9d9d0-e2e1-11f1-a094-5fdc692f3e33.jpg",
+  "title_en": "Belief and bench steer Northern Ireland into Nations League top tier",
+  "summary_en": "Manager Michael O'Neill hails the belief shown by his side after they came from behind against Hungary to seal the draw they needed for promotion to Nations League A.",
+  "share_id": "MN202611_53jdjdfcx3"
+ },
+ {
+  "id": "crawl_gbzyhf",
+  "title": "Bellamy convinced of Wales credentials despite defeat by Portugal",
+  "summary": "Wales finished bottom of their Nations League group, but boss Craig Bellamy believes his team showed they belong in the top flight.",
+  "link": "https://www.bbc.co.uk/sport/football/articles/cmn507wn6gg3o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cmn507wn6gg3o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T23:37:45.000Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5735/live/f46405e0-e2e5-11f1-8e58-ef8e322f3c98.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5735/live/f46405e0-e2e5-11f1-8e58-ef8e322f3c98.jpg",
+  "title_en": "Bellamy convinced of Wales credentials despite defeat by Portugal",
+  "summary_en": "Wales finished bottom of their Nations League group, but boss Craig Bellamy believes his team showed they belong in the top flight.",
+  "share_id": "MN202611_gbzyhfvxv5"
+ },
+ {
   "id": "crawl_1wddph1",
   "title": "Pakistan's solar revolution seems unstoppable - but there's a problem",
   "summary": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
@@ -40,9 +100,29 @@
   "share_id": "MN202611_sksv3akshw"
  },
  {
+  "id": "crawl_143ukm4",
+  "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+  "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+  "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T23:02:12.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg",
+  "title_en": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+  "summary_en": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+  "share_id": "MN202611_143ukm4nh2y"
+ },
+ {
   "id": "crawl_w21mvp",
   "title": "Thomas Markle charged over child sex abuse material in Philippines",
-  "summary": "Markle is being held in prison in the US on a separate charge and has previously denied all of the allegations.",
+  "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
   "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-17T22:44:15.000Z",
@@ -56,7 +136,7 @@
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
   "title_en": "Thomas Markle charged over child sex abuse material in Philippines",
-  "summary_en": "Markle is being held in prison in the US on a separate charge and has previously denied all of the allegations.",
+  "summary_en": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
   "share_id": "MN202611_w21mvpujcj"
  },
  {
@@ -187,8 +267,8 @@
  },
  {
   "id": "crawl_1y9xxxh",
-  "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
-  "summary": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang.",
+  "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+  "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
   "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-17T21:45:13.000Z",
@@ -201,8 +281,8 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
-  "title_en": "Nvidia reports bumper results as firm says it's not reinstating Huang",
-  "summary_en": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang.",
+  "title_en": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+  "summary_en": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
   "share_id": "MN202611_1y9xxxhqueb"
  },
  {
@@ -1763,12 +1843,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-17T10:22:09.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Business",
+  "category": "business",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Business",
+   "business"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg",
@@ -2155,11 +2235,11 @@
   "link": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-17T08:28:10.000Z",
-  "source": "BBC Football",
+  "source": "BBC Sport Africa",
   "category": "sports",
   "lang": "en",
   "keywords": [
-   "BBC Football",
+   "BBC Sport Africa",
    "sports"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/729a/live/738fe790-e25e-11f1-84cb-b9a30b11458c.jpg",
@@ -17135,86 +17215,5 @@
   "title_en": "Some under-25s should get fewer benefits, Milburn review to say",
   "summary_en": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
   "share_id": "MN202611_v622awuyrq"
- },
- {
-  "id": "crawl_1nvkd4g",
-  "title": "Euro Leagues",
-  "summary": "John Bennett is joined by Rafa Honigstein and Julien Laurens",
-  "link": "https://www.bbc.co.uk/sounds/play/p0pmj6yk?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sounds/play/p0pmj6yk?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-11T23:08:00.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg",
-  "title_en": "Euro Leagues",
-  "summary_en": "John Bennett is joined by Rafa Honigstein and Julien Laurens",
-  "share_id": "MN202611_1nvkd4g9fny"
- },
- {
-  "id": "crawl_1psf4ik",
-  "title": "At COP31, Premier Pitches Climate Plan Equivalent to Removing 6,500 Cars from Roads",
-  "summary": "ANTALYA, Türkiye – Rwanda has called for greater investment in green industries, arguing that climate action can also drive economic growth, attract investors and create jobs. Speaking at COP31 on… The post At COP31, Premier Pitches Climate Plan Equivalent to Removing 6,500 Cars from Roads appeared first on KT PRESS .",
-  "link": "https://www.ktpress.rw/2026/11/at-cop31-premier-pitches-climate-plan-equivalent-to-removing-6500-cars-from-roads/",
-  "url": "https://www.ktpress.rw/2026/11/at-cop31-premier-pitches-climate-plan-equivalent-to-removing-6500-cars-from-roads/",
-  "date": "2026-11-11T23:02:47.000Z",
-  "source": "KT Press",
-  "category": "news",
-  "lang": "en",
-  "keywords": [
-   "KT Press",
-   "news",
-   "International",
-   "big-story",
-   "latestnews"
-  ],
-  "title_en": "At COP31, Premier Pitches Climate Plan Equivalent to Removing 6,500 Cars from Roads",
-  "summary_en": "ANTALYA, Türkiye – Rwanda has called for greater investment in green industries, arguing that climate action can also drive economic growth, attract investors and create jobs. Speaking at COP31 on… The post At COP31, Premier Pitches Climate Plan Equivalent to Removing 6,500 Cars from Roads appeared first on KT PRESS .",
-  "share_id": "MN202611_1psf4iki5iy"
- },
- {
-  "id": "crawl_1p4txg1",
-  "title": "Survivor pulled from rubble of deadly building collapse in New York",
-  "summary": "Two people are dead and several others injured as rescuers scour the debris in Brooklyn.",
-  "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-11T22:55:26.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8114/live/d10cd710-de22-11f1-a006-f3a783cdc303.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8114/live/d10cd710-de22-11f1-a006-f3a783cdc303.jpg",
-  "title_en": "Survivor pulled from rubble of deadly building collapse in New York",
-  "summary_en": "Two people are dead and several others injured as rescuers scour the debris in Brooklyn.",
-  "share_id": "MN202611_1p4txg1mijz"
- },
- {
-  "id": "crawl_1hreltj",
-  "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
-  "summary": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, one expert says.",
-  "link": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-11T22:48:59.000Z",
-  "source": "BBC Science",
-  "category": "science",
-  "lang": "en",
-  "keywords": [
-   "BBC Science",
-   "science"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5e0/live/4c115b80-de72-11f1-b441-2b33b063138f.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5e0/live/4c115b80-de72-11f1-b441-2b33b063138f.jpg",
-  "title_en": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
-  "summary_en": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, one expert says.",
-  "share_id": "MN202611_1hreltj7iad"
  }
 ]
