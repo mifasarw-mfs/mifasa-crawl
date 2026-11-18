@@ -1,7 +1,27 @@
 {
  "day": "2026-11-18",
- "count": 1,
+ "count": 2,
  "articles": [
+  {
+   "id": "crawl_2nck1h",
+   "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
+   "summary": "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns",
+   "link": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T00:44:48.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36bf/live/43e4a6f0-e29c-11f1-8dda-8925a81c3da5.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36bf/live/43e4a6f0-e29c-11f1-8dda-8925a81c3da5.jpg",
+   "title_en": "Government risks missing climate targets if EV rules weakened, adviser warns",
+   "summary_en": "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns",
+   "share_id": "MN202611_2nck1h9ihf"
+  },
   {
    "id": "crawl_12cwcm8",
    "title": "Europe plans to catch the next computer chip wave",
@@ -23,5 +43,5 @@
    "share_id": "MN202611_12cwcm8p932"
   }
  ],
- "updated": "2026-11-18T00:30:04.103Z"
+ "updated": "2026-11-18T00:50:20.490Z"
 }
