@@ -1,7 +1,47 @@
 {
  "day": "2026-11-18",
- "count": 92,
+ "count": 95,
  "articles": [
+  {
+   "id": "crawl_sd2tbo",
+   "title": "Torrential rain causes widespread flooding in South Florida",
+   "summary": "Entire neighbourhoods remain under water as disruptions impact schools, roads, hospitals and airports.",
+   "link": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T20:29:18.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8e9/live/3c97d280-e38e-11f1-bc86-33d7d6275eba.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8e9/live/3c97d280-e38e-11f1-bc86-33d7d6275eba.jpg",
+   "title_en": "Torrential rain causes widespread flooding in South Florida",
+   "summary_en": "Entire neighbourhoods remain under water as disruptions impact schools, roads, hospitals and airports.",
+   "share_id": "MN202611_sd2tbozgeq"
+  },
+  {
+   "id": "crawl_bbbbrw",
+   "title": "Hemp and Shaw star as Manchester City get vital win at Hacken",
+   "summary": "Substitutes Lauren Hemp and Khadija Shaw both get on the scoresheet to help Manchester City secure a crucial 2-0 win against Swedish side Hacken in the Champions League.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c32l50p1yk8vo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c32l50p1yk8vo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T20:25:40.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9911/live/b9f39560-e385-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9911/live/b9f39560-e385-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Hemp and Shaw star as Manchester City get vital win at Hacken",
+   "summary_en": "Substitutes Lauren Hemp and Khadija Shaw both get on the scoresheet to help Manchester City secure a crucial 2-0 win against Swedish side Hacken in the Champions League.",
+   "share_id": "MN202611_bbbbrwon96"
+  },
   {
    "id": "crawl_ojnlf3",
    "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
@@ -41,6 +81,26 @@
    "title_en": "All Tanzanian, Congolese Airlines Banned From EU Skies",
    "summary_en": "Every airline certified in Tanzania and the Democratic Republic of the Congo (DRC) remains barred from operating to, from or over the European Union, after the European Commission renewed its… The post All Tanzanian, Congolese Airlines Banned From EU Skies appeared first on KT PRESS .",
    "share_id": "MN202611_eml1o1litr"
+  },
+  {
+   "id": "crawl_ufw2qy",
+   "title": "Leicester split with sponsor after porn actress row",
+   "summary": "A fans group had complained after BC Game appointed a porn actress as a brand ambassador.",
+   "link": "https://www.bbc.co.uk/news/articles/cq4gnx28zp5lo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq4gnx28zp5lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T19:10:21.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc3/live/c94480c0-d9d4-11f1-9e5a-c30c5e3d8c85.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc3/live/c94480c0-d9d4-11f1-9e5a-c30c5e3d8c85.jpg",
+   "title_en": "Leicester split with sponsor after porn actress row",
+   "summary_en": "A fans group had complained after BC Game appointed a porn actress as a brand ambassador.",
+   "share_id": "MN202611_ufw2qyoz7s"
   },
   {
    "id": "crawl_64wuvv",
@@ -1866,5 +1926,5 @@
    "share_id": "MN202611_12cwcm8p932"
   }
  ],
- "updated": "2026-11-18T20:17:48.644Z"
+ "updated": "2026-11-18T20:45:44.836Z"
 }
