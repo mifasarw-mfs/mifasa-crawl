@@ -4509,6 +4509,54 @@
    ],
    "auto": true,
    "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_07f03d99_q",
+   "label_rw": "Uburyo bwo Guhuza Ubuhinzi n'Amashyamba",
+   "label_en": "Agroforestry Systems",
+   "patterns_en": [
+    "What is agroforestry?",
+    "What are the benefits of planting trees on farms?",
+    "How does agroforestry help in soil conservation?"
+   ],
+   "patterns_rw": [
+    "Uburyo bwo guhuza ubuhinzi n'amashyamba ni iki?",
+    "Ni izihe nyungu zo gutera ibiti mu mirima?",
+    "Ubu buryo bufasha gute mu kubungabunga ubutaka?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Guhuza ubuhinzi n'amashyamba bisobanura gutera ibiti hamwe n'imyaka cyangwa ubworozi kubutaka bumwe. Ubu buryo bufasha kongeraumusaruro w'ubutaka, kurinda ubutaka kwangirika, no gutanga inkwi n'ibiryo by'amatungo. Bifasha kandi mu kubungabunga ibidukikije no guhangana n'ihindagurika ry'ikirere mu Rwanda.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Agroforestry systems involve integrating trees with agricultural crops or livestock on the same land. This practice helps increase land productivity, prevents soil erosion, and provides firewood and animal fodder. It also supports environmental conservation and helps mitigate climate change effects in Rwanda.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_90a6a7b1_q",
+   "label_rw": "Ubworozi bw'Ifi mu Rwanda",
+   "label_en": "Aquaculture in Rwanda",
+   "patterns_en": [
+    "How is aquaculture practiced in Rwanda?",
+    "What drives the development of fish farming?",
+    "How does fish farming help citizens?"
+   ],
+   "patterns_rw": [
+    "Ese ubworozi bw'ifi buhagaze gute mu Rwanda?",
+    "Ni iki gitera iterambere ry'ubworozi bw'ifi?",
+    "Ubworozi bw'ifi bufasha iki abaturage?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubworozi bw'ifi mu Rwanda buragenda butera imbere. Leta n'abikorera barateza imbere ubworozi bw'ifi mu biyaga n'amakibaya. Ibi bifasha mu kongera ibiribwa bikungahaye kuri poroteyine no guteza imbere ubukungu bw'abaturage.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Aquaculture in Rwanda is growing steadily. The government and private sector promote fish farming in lakes, ponds, and reservoirs. This practice helps increase the supply of protein-rich food and improves community livelihoods.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
   }
  ],
  "knowledge": [
@@ -8218,6 +8266,45 @@
     "igihe",
     "conjugation",
     "ururimi"
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_07f03d99",
+   "category": "agriculture",
+   "title_rw": "Uburyo bwo Guhuza Ubuhinzi n'Amashyamba",
+   "title_en": "Agroforestry Systems",
+   "summary_rw": "Guhuza ubuhinzi n'amashyamba bisobanura gutera ibiti hamwe n'imyaka cyangwa ubworozi kubutaka bumwe. Ubu buryo bufasha kongeraumusaruro w'ubutaka, kurinda ubutaka kwangirika, no gutanga inkwi n'ibiryo by'amatungo. Bifasha kandi mu kubungabunga ibidukikije no guhangana n'ihindagurika ry'ikirere mu Rwanda.",
+   "summary_en": "Agroforestry systems involve integrating trees with agricultural crops or livestock on the same land. This practice helps increase land productivity, prevents soil erosion, and provides firewood and animal fodder. It also supports environmental conservation and helps mitigate climate change effects in Rwanda.",
+   "keywords": [
+    "agroforestry",
+    "ubuhinzi",
+    "amashyamba",
+    "ubutaka",
+    "ibidukikije",
+    "umusaruro",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_90a6a7b1",
+   "category": "agriculture",
+   "title_rw": "Ubworozi bw'Ifi mu Rwanda",
+   "title_en": "Aquaculture in Rwanda",
+   "summary_rw": "Ubworozi bw'ifi mu Rwanda buragenda butera imbere. Leta n'abikorera barateza imbere ubworozi bw'ifi mu biyaga n'amakibaya. Ibi bifasha mu kongera ibiribwa bikungahaye kuri poroteyine no guteza imbere ubukungu bw'abaturage.",
+   "summary_en": "Aquaculture in Rwanda is growing steadily. The government and private sector promote fish farming in lakes, ponds, and reservoirs. This practice helps increase the supply of protein-rich food and improves community livelihoods.",
+   "keywords": [
+    "ubworozi",
+    "ifi",
+    "rwanda",
+    "ibiribwa",
+    "amakibaya",
+    "aquaculture",
+    "fish",
+    "farming"
    ],
    "auto": true,
    "taught": "2026-11-18"
