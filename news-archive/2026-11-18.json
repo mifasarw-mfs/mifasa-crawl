@@ -1,7 +1,27 @@
 {
  "day": "2026-11-18",
- "count": 109,
+ "count": 110,
  "articles": [
+  {
+   "id": "crawl_18ancrk",
+   "title": "Claude-maker Anthropic poised for $1.4tn stock market debut",
+   "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+   "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T23:36:04.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
+   "title_en": "Claude-maker Anthropic poised for $1.4tn stock market debut",
+   "summary_en": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+   "share_id": "MN202611_18ancrkg98e"
+  },
   {
    "id": "crawl_e79ys2",
    "title": "Kinshasa yanze ibiganiro ihitamo intambara, natwe turiteguye - FRN",
@@ -2212,5 +2232,5 @@
    "share_id": "MN202611_12cwcm8p932"
   }
  ],
- "updated": "2026-11-18T23:32:36.746Z"
+ "updated": "2026-11-18T23:41:50.761Z"
 }
