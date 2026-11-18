@@ -1,7 +1,148 @@
 {
  "day": "2026-11-18",
- "count": 51,
+ "count": 60,
  "articles": [
+  {
+   "id": "crawl_13lld34",
+   "title": "Hacks, AI or just overdue updates - why have there been so many outages?",
+   "summary": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.",
+   "link": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T13:16:53.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4986/live/43b39be0-e34c-11f1-99aa-0f40b013ad11.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4986/live/43b39be0-e34c-11f1-99aa-0f40b013ad11.jpg",
+   "title_en": "Hacks, AI or just overdue updates - why have there been so many outages?",
+   "summary_en": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.",
+   "share_id": "MN202611_13lld34e9jy"
+  },
+  {
+   "id": "crawl_u6z58u",
+   "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+   "summary": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way.",
+   "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T13:10:01.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f6a/live/8100d500-e345-11f1-99aa-0f40b013ad11.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f6a/live/8100d500-e345-11f1-99aa-0f40b013ad11.jpg",
+   "title_en": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+   "summary_en": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way.",
+   "share_id": "MN202611_u6z58us1po"
+  },
+  {
+   "id": "crawl_1ldcei8",
+   "title": "Israel row a 'defining moment for us' - Hallgrimsson",
+   "summary": "Republic of Ireland manager Heimir Hallgrimsson says the controversy surrounding the Nations League games against Israel has made \"this group stronger\".",
+   "link": "https://www.bbc.co.uk/sport/football/articles/credqnv9xe4vo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/credqnv9xe4vo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T13:05:48.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c390/live/18f5b870-e333-11f1-9479-d17d3e98c29d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c390/live/18f5b870-e333-11f1-9479-d17d3e98c29d.jpg",
+   "title_en": "Israel row a 'defining moment for us' - Hallgrimsson",
+   "summary_en": "Republic of Ireland manager Heimir Hallgrimsson says the controversy surrounding the Nations League games against Israel has made \"this group stronger\".",
+   "share_id": "MN202611_1ldcei84bwu"
+  },
+  {
+   "id": "crawl_br7los",
+   "title": "Toney loses bid to avoid Euro 2028 court clash",
+   "summary": "Ivan Toney's trial, for an alleged assault which he denies, is due to take place during the Euro 2028 tournament.",
+   "link": "https://www.bbc.co.uk/news/articles/ckm2m1899mqyo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckm2m1899mqyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T12:46:12.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cbd/live/7b56a630-e349-11f1-99aa-0f40b013ad11.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cbd/live/7b56a630-e349-11f1-99aa-0f40b013ad11.jpg",
+   "title_en": "Toney loses bid to avoid Euro 2028 court clash",
+   "summary_en": "Ivan Toney's trial, for an alleged assault which he denies, is due to take place during the Euro 2028 tournament.",
+   "share_id": "MN202611_br7los0i5m"
+  },
+  {
+   "id": "crawl_16gnv9l",
+   "title": "Rwanda, Austria Explore New Areas of Cooperation in High-Level Vienna Meeting",
+   "summary": "Rwanda and Austria are seeking to strengthen their bilateral relations and explore new opportunities for cooperation following a meeting between senior government officials held in Vienna, Austria. The Minister of State in the Ministry of Foreign Affairs and International Cooperation, Dr Usta Kaitesi, held discussions with Sepp Schellhorn, Austria’s State Secretary at the Federal Ministry […] The…",
+   "link": "https://taarifa.rw/2026/11/18/rwanda-austria-explore-new-areas-of-cooperation-in-high-level-vienna-meeting-2/",
+   "url": "https://taarifa.rw/2026/11/18/rwanda-austria-explore-new-areas-of-cooperation-in-high-level-vienna-meeting-2/",
+   "date": "2026-11-18T12:39:28.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "Politics"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/IMG-20261118-WA0020.jpg?fit=720%2C480&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/IMG-20261118-WA0020.jpg?fit=720%2C480&ssl=1",
+   "title_en": "Rwanda, Austria Explore New Areas of Cooperation in High-Level Vienna Meeting",
+   "summary_en": "Rwanda and Austria are seeking to strengthen their bilateral relations and explore new opportunities for cooperation following a meeting between senior government officials held in Vienna, Austria. The Minister of State in the Ministry of Foreign Affairs and International Cooperation, Dr Usta Kaitesi, held discussions with Sepp Schellhorn, Austria’s State Secretary at the Federal Ministry […] The…",
+   "share_id": "MN202611_16gnv9lp1wn"
+  },
+  {
+   "id": "crawl_1aq38yo",
+   "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+   "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+   "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T12:39:24.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg",
+   "title_en": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+   "summary_en": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+   "share_id": "MN202611_1aq38yow5fi"
+  },
+  {
+   "id": "crawl_1xapwyv",
+   "title": "Joint-record six referee errors in last Premier League weekend",
+   "summary": "The Premier League's Key Match Incidents Panel rules there were six on-field errors in the last round of games - the joint-highest in one weekend.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c69q8jy924y4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c69q8jy924y4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T12:38:38.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d44c/live/1634e590-e345-11f1-99aa-0f40b013ad11.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d44c/live/1634e590-e345-11f1-99aa-0f40b013ad11.jpg",
+   "title_en": "Joint-record six referee errors in last Premier League weekend",
+   "summary_en": "The Premier League's Key Match Incidents Panel rules there were six on-field errors in the last round of games - the joint-highest in one weekend.",
+   "share_id": "MN202611_1xapwyvhudh"
+  },
   {
    "id": "crawl_1dm8vqf",
    "title": "Grand Theft Auto 6 is a masterpiece, say critics",
@@ -147,6 +288,26 @@
    "title_en": "William and Kate honour Earthshot Prize winners in Mumbai",
    "summary_en": "The Prince and Princess of Wales have said environmental innovators are changing the lives of future generations as they celebrated this year's winners of the Earthshot Prize.",
    "share_id": "MN202611_ggxb2hty5j"
+  },
+  {
+   "id": "crawl_1jz644q",
+   "title": "Bancroft sandpaper claims heap pressure on Cummins",
+   "summary": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins.",
+   "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T11:12:46.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb1d/live/c5d2fbf0-e330-11f1-9c56-6ffaf0e1e706.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb1d/live/c5d2fbf0-e330-11f1-9c56-6ffaf0e1e706.jpg",
+   "title_en": "Bancroft sandpaper claims heap pressure on Cummins",
+   "summary_en": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins.",
+   "share_id": "MN202611_1jz644qtd3c"
   },
   {
    "id": "crawl_1ov8neb",
@@ -414,6 +575,26 @@
    "title_en": "Uganda and Petroleum Tycoon Dangote Explore Crude Oil Supply Prospects",
    "summary_en": "The government of Uganda is courting Africa’s richest man Alhaji Aliko Dangote to consider a host of Partnerships in the country’s oil ventures. President Yoweri Museveni and Dangote on Tuesday held discussions on several investment opportunities across energy, petroleum, agriculture and mining. “We also discussed possible investment in the fertiliser industry to ensure regional food […] The post…",
    "share_id": "MN202611_1nz5jdkxgl2"
+  },
+  {
+   "id": "crawl_8txf79",
+   "title": "Ireland fly-half Prendergast cleared to face South Africa",
+   "summary": "Ireland fly-half Sam Prendergast successfully appeals against citing to make himself available to face South Africa on Saturday.",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm5y16g1ly0zo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm5y16g1ly0zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T09:22:06.000Z",
+   "source": "BBC Sport Africa",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Sport Africa",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62c0/live/6695aba0-e336-11f1-9479-d17d3e98c29d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62c0/live/6695aba0-e336-11f1-9479-d17d3e98c29d.jpg",
+   "title_en": "Ireland fly-half Prendergast cleared to face South Africa",
+   "summary_en": "Ireland fly-half Sam Prendergast successfully appeals against citing to make himself available to face South Africa on Saturday.",
+   "share_id": "MN202611_8txf79m1jn"
   },
   {
    "id": "crawl_mfya2g",
@@ -1039,5 +1220,5 @@
    "share_id": "MN202611_12cwcm8p932"
   }
  ],
- "updated": "2026-11-18T12:23:50.706Z"
+ "updated": "2026-11-18T13:44:58.129Z"
 }
