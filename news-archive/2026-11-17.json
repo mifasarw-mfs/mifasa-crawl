@@ -1,6 +1,6 @@
 {
  "day": "2026-11-17",
- "count": 122,
+ "count": 123,
  "articles": [
   {
    "id": "crawl_53jdjd",
@@ -362,6 +362,26 @@
    "title_en": "Tech Life",
    "summary_en": "Video gaming is huge - it's more lucrative than the movies and music combined.",
    "share_id": "MN202611_jz7zlqz998"
+  },
+  {
+   "id": "crawl_1w5rm86",
+   "title": "Tech Life",
+   "summary": "Video gaming is huge - it's more lucrative than the movies and music combined.",
+   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T20:30:00.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnhxll.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnhxll.jpg",
+   "title_en": "Tech Life",
+   "summary_en": "Video gaming is huge - it's more lucrative than the movies and music combined.",
+   "share_id": "MN202611_1w5rm86sffo"
   },
   {
    "id": "crawl_139ackz",
@@ -2457,5 +2477,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-18T00:30:04.104Z"
+ "updated": "2026-11-18T05:30:33.993Z"
 }

@@ -1,7 +1,67 @@
 {
  "day": "2026-11-18",
- "count": 6,
+ "count": 9,
  "articles": [
+  {
+   "id": "crawl_7w5w1v",
+   "title": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
+   "summary": "The Lobito Corridor is at the centre of a US-backed effort to secure access to Africa's critical minerals.",
+   "link": "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T05:11:42.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7de4/live/f39e1920-e1b9-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7de4/live/f39e1920-e1b9-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
+   "summary_en": "The Lobito Corridor is at the centre of a US-backed effort to secure access to Africa's critical minerals.",
+   "share_id": "MN202611_7w5w1vysip"
+  },
+  {
+   "id": "crawl_1df88iz",
+   "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
+   "summary": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
+   "link": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T05:10:02.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/493a/live/9d5c2350-e30c-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/493a/live/9d5c2350-e30c-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
+   "summary_en": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
+   "share_id": "MN202611_1df88iz0tmx"
+  },
+  {
+   "id": "crawl_jtmaa6",
+   "title": "Security flaw found in Java, world's third-largest programming language",
+   "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+   "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T05:03:38.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d641/live/9437db30-e30b-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d641/live/9437db30-e30b-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "Security flaw found in Java, world's third-largest programming language",
+   "summary_en": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+   "share_id": "MN202611_jtmaa6f6r0"
+  },
   {
    "id": "crawl_1i0v7nf",
    "title": "Intambara mu burasirazuba bwa RD Congo yatumye abarwariye mu bitaro bya Bunyakiri bahungishwa – MSF",
@@ -123,5 +183,5 @@
    "share_id": "MN202611_12cwcm8p932"
   }
  ],
- "updated": "2026-11-18T04:27:25.512Z"
+ "updated": "2026-11-18T05:30:33.992Z"
 }
