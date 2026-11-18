@@ -1,7 +1,47 @@
 {
  "day": "2026-11-18",
- "count": 71,
+ "count": 73,
  "articles": [
+  {
+   "id": "crawl_yzerqz",
+   "title": "Parents jailed for torture and death of four-year-old girl in France in 1987",
+   "summary": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
+   "link": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T15:39:57.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f1d/live/5d5ab520-e35f-11f1-a94c-dd322c59ae3f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f1d/live/5d5ab520-e35f-11f1-a94c-dd322c59ae3f.jpg",
+   "title_en": "Parents jailed for torture and death of four-year-old girl in France in 1987",
+   "summary_en": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
+   "share_id": "MN202611_yzerqz7o7t"
+  },
+  {
+   "id": "crawl_e59dlk",
+   "title": "Hakeem Jeffries nominated to be US Speaker of the House",
+   "summary": "Democrats in the US House of Representatives have officially nominated him, setting him on the path to become the first black lawmaker to lead the chamber.",
+   "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T15:38:02.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg",
+   "title_en": "Hakeem Jeffries nominated to be US Speaker of the House",
+   "summary_en": "Democrats in the US House of Representatives have officially nominated him, setting him on the path to become the first black lawmaker to lead the chamber.",
+   "share_id": "MN202611_e59dlk2a2e"
+  },
   {
    "id": "crawl_6f9yex",
    "title": "Divide and conquer - how maverick Springboks coach Erasmus split the rugby world",
@@ -1447,5 +1487,5 @@
    "share_id": "MN202611_12cwcm8p932"
   }
  ],
- "updated": "2026-11-18T15:33:44.634Z"
+ "updated": "2026-11-18T15:49:18.900Z"
 }
