@@ -1,7 +1,27 @@
 {
  "day": "2026-11-18",
- "count": 5,
+ "count": 6,
  "articles": [
+  {
+   "id": "crawl_1i0v7nf",
+   "title": "Intambara mu burasirazuba bwa RD Congo yatumye abarwariye mu bitaro bya Bunyakiri bahungishwa – MSF",
+   "summary": "Umuryango wa Médecins Sans Frontières uvuga ko imirwano hagati y'umutwe w'inyeshyamba wa FRN n'ingabo za leta yakajije umurego kuva ku itariki ya 6 y'uku kwezi.",
+   "link": "https://www.bbc.co.uk/gahuza/live/cmreg8qzd894t?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/gahuza/live/cmreg8qzd894t?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T04:26:04.744Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f68c/live/0aff64c0-e304-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f68c/live/0aff64c0-e304-11f1-99b6-a35a62fa4264.jpg",
+   "title_rw": "Intambara mu burasirazuba bwa RD Congo yatumye abarwariye mu bitaro bya Bunyakiri bahungishwa – MSF",
+   "summary_rw": "Umuryango wa Médecins Sans Frontières uvuga ko imirwano hagati y'umutwe w'inyeshyamba wa FRN n'ingabo za leta yakajije umurego kuva ku itariki ya 6 y'uku kwezi.",
+   "share_id": "MN202611_1i0v7nfnsrd"
+  },
   {
    "id": "crawl_15zpr8w",
    "title": "Waymo temporarily pulls driverless taxis from all US freeways",
@@ -103,5 +123,5 @@
    "share_id": "MN202611_12cwcm8p932"
   }
  ],
- "updated": "2026-11-18T03:19:24.423Z"
+ "updated": "2026-11-18T04:27:25.512Z"
 }
