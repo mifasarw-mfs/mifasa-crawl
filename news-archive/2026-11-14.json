@@ -1,6 +1,6 @@
 {
  "day": "2026-11-14",
- "count": 111,
+ "count": 112,
  "articles": [
   {
    "id": "crawl_ict9wi",
@@ -2319,6 +2319,26 @@
    "share_id": "MN202611_1ml6lv355jh"
   },
   {
+   "id": "crawl_1062bk7",
+   "title": "Tech Now",
+   "summary": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
+   "link": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T01:00:00.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmwlpj.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmwlpj.jpg",
+   "title_en": "Tech Now",
+   "summary_en": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
+   "share_id": "MN202611_1062bk7vg2t"
+  },
+  {
    "id": "crawl_1fc5nmb",
    "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
    "summary": "The next title in the series is expected to be the biggest video game release ever.",
@@ -2448,5 +2468,5 @@
    "share_id": "MN202611_151zgnivjho"
   }
  ],
- "updated": "2026-11-15T09:10:48.840Z"
+ "updated": "2026-11-18T01:51:22.161Z"
 }

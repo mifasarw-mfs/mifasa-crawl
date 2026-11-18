@@ -1,7 +1,27 @@
 {
  "day": "2026-11-18",
- "count": 2,
+ "count": 3,
  "articles": [
+  {
+   "id": "crawl_14o9o4s",
+   "title": "Voy at-home test kit adverts banned over low testosterone claims",
+   "summary": "The Advertising Standards Authority says the adverts by online healthcare provider Voy made misleading claims.",
+   "link": "https://www.bbc.co.uk/news/articles/c6pw42ldpgn1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6pw42ldpgn1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T01:11:07.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b0/live/d8c4a540-e2b5-11f1-bee0-ef418afc697f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b0/live/d8c4a540-e2b5-11f1-bee0-ef418afc697f.jpg",
+   "title_en": "Voy at-home test kit adverts banned over low testosterone claims",
+   "summary_en": "The Advertising Standards Authority says the adverts by online healthcare provider Voy made misleading claims.",
+   "share_id": "MN202611_14o9o4s2klm"
+  },
   {
    "id": "crawl_2nck1h",
    "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
@@ -43,5 +63,5 @@
    "share_id": "MN202611_12cwcm8p932"
   }
  ],
- "updated": "2026-11-18T00:50:20.490Z"
+ "updated": "2026-11-18T01:51:22.158Z"
 }
