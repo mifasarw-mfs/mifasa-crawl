@@ -1,6 +1,6 @@
 {
  "day": "2026-11-17",
- "count": 123,
+ "count": 124,
  "articles": [
   {
    "id": "crawl_53jdjd",
@@ -81,6 +81,26 @@
    "title_en": "Republic of Ireland talisman Parrott caps dream year with two more goals",
    "summary_en": "Republic of Ireland striker Troy Parrott reflects on a transformative 12 months for both club and country after scoring a double in the win against Kosovo.",
    "share_id": "MN202611_sksv3akshw"
+  },
+  {
+   "id": "crawl_jdsr0y",
+   "title": "Millions of red crabs start annual migration on Christmas Island",
+   "summary": "The crabs were seen migrating from forests to the sea to breed on the coast of the Australian territory.",
+   "link": "https://www.bbc.co.uk/news/videos/cq62p73jjl90o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cq62p73jjl90o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T23:05:39.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa2f/live/6faad2d0-e2da-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa2f/live/6faad2d0-e2da-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Millions of red crabs start annual migration on Christmas Island",
+   "summary_en": "The crabs were seen migrating from forests to the sea to breed on the coast of the Australian territory.",
+   "share_id": "MN202611_jdsr0ype40"
   },
   {
    "id": "crawl_143ukm4",
@@ -2477,5 +2497,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-18T05:30:33.993Z"
+ "updated": "2026-11-18T08:47:47.306Z"
 }

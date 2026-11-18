@@ -1,7 +1,47 @@
 {
  "day": "2026-11-18",
- "count": 24,
+ "count": 27,
  "articles": [
+  {
+   "id": "crawl_rkfz4u",
+   "title": "Manchester won't always be blue - Pochettino",
+   "summary": "New Manchester United boss Mauricio Pochettino says he will restore Manchester United to being the most successful footballing side in the city.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm782wnwzvq3o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm782wnwzvq3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T08:42:28.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2794/live/b8059f20-e324-11f1-baab-4b3b35d174b7.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2794/live/b8059f20-e324-11f1-baab-4b3b35d174b7.jpg",
+   "title_en": "Manchester won't always be blue - Pochettino",
+   "summary_en": "New Manchester United boss Mauricio Pochettino says he will restore Manchester United to being the most successful footballing side in the city.",
+   "share_id": "MN202611_rkfz4u7wjg"
+  },
+  {
+   "id": "crawl_11uht2",
+   "title": "People asked for views on blue brook pollution",
+   "summary": "The Environment Agency wants to know how the incident affected visitors, residents and businesses.",
+   "link": "https://www.bbc.co.uk/news/articles/cqpv9mjm78m3o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqpv9mjm78m3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T08:37:02.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecf1/live/46364460-e326-11f1-baab-4b3b35d174b7.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecf1/live/46364460-e326-11f1-baab-4b3b35d174b7.jpg",
+   "title_en": "People asked for views on blue brook pollution",
+   "summary_en": "The Environment Agency wants to know how the incident affected visitors, residents and businesses.",
+   "share_id": "MN202611_11uht2rg90"
+  },
   {
    "id": "crawl_1eh127m",
    "title": "Ghana's new $60m presidential jet sparks public outrage",
@@ -443,6 +483,26 @@
    "share_id": "MN202611_14o9o4s2klm"
   },
   {
+   "id": "crawl_63gndg",
+   "title": "Largest British study to check social media ban's effect on youth mental health",
+   "summary": "Ten different research teams will look at how well teenagers are coping without social media.",
+   "link": "https://www.bbc.co.uk/news/articles/cm0evw0d2wq4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm0evw0d2wq4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T00:49:31.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cd/live/6ddfb5f0-e2bd-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cd/live/6ddfb5f0-e2bd-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Largest British study to check social media ban's effect on youth mental health",
+   "summary_en": "Ten different research teams will look at how well teenagers are coping without social media.",
+   "share_id": "MN202611_63gndg9jua"
+  },
+  {
    "id": "crawl_2nck1h",
    "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
    "summary": "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns",
@@ -483,5 +543,5 @@
    "share_id": "MN202611_12cwcm8p932"
   }
  ],
- "updated": "2026-11-18T08:10:33.112Z"
+ "updated": "2026-11-18T08:47:47.301Z"
 }
