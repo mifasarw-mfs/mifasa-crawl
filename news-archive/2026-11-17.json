@@ -1,6 +1,6 @@
 {
  "day": "2026-11-17",
- "count": 124,
+ "count": 126,
  "articles": [
   {
    "id": "crawl_53jdjd",
@@ -724,6 +724,26 @@
    "share_id": "MN202611_vcml8nfhph"
   },
   {
+   "id": "crawl_1uq5lpt",
+   "title": "TV pundit put hand up woman's skirt, jury told",
+   "summary": "Priim is accused of sexually assaulting a woman in a cricket club toilet in July 2022.",
+   "link": "https://www.bbc.co.uk/news/articles/cm0rknk0pgdpo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm0rknk0pgdpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T16:33:14.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd7a/live/35e5ca20-e2a1-11f1-8dda-8925a81c3da5.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd7a/live/35e5ca20-e2a1-11f1-8dda-8925a81c3da5.jpg",
+   "title_en": "TV pundit put hand up woman's skirt, jury told",
+   "summary_en": "Priim is accused of sexually assaulting a woman in a cricket club toilet in July 2022.",
+   "share_id": "MN202611_1uq5lptyi6n"
+  },
+  {
    "id": "crawl_1094tk4",
    "title": "US loses measles elimination status after 26 years amid record case numbers",
    "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
@@ -1225,6 +1245,26 @@
    "title_en": "Travellers Coming to Rwanda are Key Drivers of Travel Revenue into EAC",
    "summary_en": "Rwanda earned US$604 million from international visitors in 2025, contributing to a regional travel economy that generated nearly US$12 billion, according to a new report by the East African Community… The post Travellers Coming to Rwanda are Key Drivers of Travel Revenue into EAC appeared first on KT PRESS .",
    "share_id": "MN202611_1mohitaywpo"
+  },
+  {
+   "id": "crawl_s18tun",
+   "title": "Leicestershire re-sign South Africa's De Swardt",
+   "summary": "South Africa all-rounder Ruan de Swardt agrees to return to Leicestershire next season.",
+   "link": "https://www.bbc.co.uk/sport/cricket/articles/cvde1k833k18o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/cvde1k833k18o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T12:46:37.000Z",
+   "source": "BBC Sport Africa",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Sport Africa",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32df/live/d5a978d0-e284-11f1-b166-176de21e2352.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32df/live/d5a978d0-e284-11f1-b166-176de21e2352.jpg",
+   "title_en": "Leicestershire re-sign South Africa's De Swardt",
+   "summary_en": "South Africa all-rounder Ruan de Swardt agrees to return to Leicestershire next season.",
+   "share_id": "MN202611_s18tun04sd"
   },
   {
    "id": "crawl_1deeyte",
@@ -2497,5 +2537,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-18T08:47:47.306Z"
+ "updated": "2026-11-18T10:31:02.037Z"
 }
