@@ -4557,6 +4557,126 @@
    ],
    "auto": true,
    "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_47cbff04_q",
+   "label_rw": "Gutegura Iby'umutungo",
+   "label_en": "Estate Planning Basics",
+   "patterns_en": [
+    "What is estate planning?",
+    "What are the benefits of having a will?",
+    "What happens to assets without a will?"
+   ],
+   "patterns_rw": [
+    "Ni iki gisobanuro cyo gutegura iby'umutungo?",
+    "Ni izihe nyungu zo kugira icyemezo cy'izungura?",
+    "Ni iki kiba ku mutungo iyo ntawashyizweho ngo awucunge?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gutegura iby'umutungo ni uguteganya uko ibyo umuntu asigaranye bizacungwa cyangwa bizahabwa abazabirya nyuma y'urupfu rwe. Ibi bikubiyemo kwandika ibyemezo by'izungura, gushyiraho ababifitiye ububasha, no gufata ingamba zo kugabanya imisoro y'ubutegetsi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Estate planning involves arranging how a person's assets will be managed and distributed after their death. This process usually includes writing a will, establishing powers of attorney, and taking steps to minimize probate taxes and legal complications.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_fdc59429_q",
+   "label_rw": "Gusobanukirwa no guhinduranya amafaranga y'amahanga",
+   "label_en": "Understanding Currency Exchange",
+   "patterns_en": [
+    "What does currency exchange mean?",
+    "Who is authorized to help people exchange money?",
+    "What causes changes in currency exchange rates?"
+   ],
+   "patterns_rw": [
+    "Guhinduranya amafaranga y'amahanga bisobanura iki?",
+    "Ni nde wemerewe gufasha abantu guhindura amafaranga?",
+    "Ni iki gitera impinduka mu biciro by'amafaranga y'amahanga?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Guhinduranya amafaranga y'amahanga bivuze kugura cyangwa kugurisha amafaranga y'igihugukimwe uyajyana mu cyindi. Igiciro cyo guhinduranya gihinduka buri gihe bitewe n'isoko mpuzamahanga. Banki n'ibigo by'imari ni byo byemerewe gufasha abantu guhindura amafaranga.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Currency exchange means trading the money of one country for another. The exchange rate usually changes constantly based on the global market. Banks and financial institutions are typically authorized to help people exchange currencies.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_4b61f18b_q",
+   "label_rw": "Imyumvire n'imyitwarire ku bijyanye n'amafaranga",
+   "label_en": "The Psychology of Money",
+   "patterns_en": [
+    "What shapes our attitudes toward money?",
+    "How does behavior affect financial success?",
+    "How can we make better financial decisions?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera imyumvire itandukanye ku mafaranga?",
+    "Ese imyitwarire igira uruhe ruhare ku bukungu?",
+    "Twakora iki ngo dufateibyemezo byiza by'amafaranga?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imyumvire y'amafaranga yerekana uburyo ibitekerezo n'imico yacu bigenga uko dukoresha amafaranga. Ntabwo ari ubumenyi bw'imibare gusa, ahubwo ni ukumenya uko twitwara imbere y'amafaranga. Kugira ubukungu bushingiye ku kwitonda bisaba kwigengesera no kwiga kwihangana mu gufata ibyemezo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The psychology of money explains how our thoughts and behaviors influence financial decisions. Managing wealth depends more on personal behavior than on technical math skills. Building financial stability usually requires patience, discipline, and emotional control when dealing with money.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_b4d5d8eb_q",
+   "label_rw": "Gutanga Imfashanyo",
+   "label_en": "Philanthropy and Charitable Giving",
+   "patterns_en": [
+    "What is philanthropy?",
+    "How does charitable giving help communities?",
+    "Through which channels is charity done in Rwanda?"
+   ],
+   "patterns_rw": [
+    "Ni iki gisobanuro cy'imfashanyo?",
+    "Gutanga imfashanyo bifasha gute abaturage?",
+    "Ni hehehanyuze gukora ibikorwa by'ubufasha mu Rwanda?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gutanga imfashanyo ni igikorwa cyo gufasha abakeneye ubufasha hagamijwe kuzamura imibereho yabo. Mu Rwanda, ibi bikorwa binyura mu miryango itegamiye kuri Leta, amadini cyangwa ku giti cyumuntu. Bituma habaho iterambere ry'abaturage no kugabanya ubukene.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Philanthropy involves giving money, time, or resources to help those in need and improve social welfare. In Rwanda, charitable giving is often channeled through non-governmental organizations, religious institutions, or individual initiatives. It contributes to community development and poverty reduction.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_f533778c_q",
+   "label_rw": "Gusobanukirwa imigabane n'impapuro mpeshafite z'inguzanyo",
+   "label_en": "Securities and Bonds Explained",
+   "patterns_en": [
+    "What is the difference between stocks and bonds?",
+    "Why do investors buy bonds?",
+    "How do financial markets work?"
+   ],
+   "patterns_rw": [
+    "Imigabane itandukaniye ithe n'impapuro mpeshafite z'inguzanyo?",
+    "Ni iki gituma abantu bashora imari muri bonds?",
+    "Ni gute isoko ry'imari n'imigabano rikora?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imigabane igurishwa mu masoko y'imari n'imigabano itanga uburenganzira bwo kuba umunyamigabane muri sosiyete. Impapuro mpeshafite z'inguzanyo cyangwa se bond zo ni inguzanyo abashoramari baguriza leta cyangwa ibigo. Leta cyangwa ibigo byishyura inyungu ku gihe kandi bigasubiza amafaranga y'ibanze igihe icyo cy'inguzanyo kirangiye.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Stocks sold in financial markets represent ownership shares in a company. Bonds are fixed-income instruments where investors loan money to governments or corporations. The issuer pays periodic interest and returns the principal upon maturity, usually offering lower risk than stocks.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
   }
  ],
  "knowledge": [
@@ -8305,6 +8425,105 @@
     "aquaculture",
     "fish",
     "farming"
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_47cbff04",
+   "category": "finance",
+   "title_rw": "Gutegura Iby'umutungo",
+   "title_en": "Estate Planning Basics",
+   "summary_rw": "Gutegura iby'umutungo ni uguteganya uko ibyo umuntu asigaranye bizacungwa cyangwa bizahabwa abazabirya nyuma y'urupfu rwe. Ibi bikubiyemo kwandika ibyemezo by'izungura, gushyiraho ababifitiye ububasha, no gufata ingamba zo kugabanya imisoro y'ubutegetsi.",
+   "summary_en": "Estate planning involves arranging how a person's assets will be managed and distributed after their death. This process usually includes writing a will, establishing powers of attorney, and taking steps to minimize probate taxes and legal complications.",
+   "keywords": [
+    "umutungo",
+    "estate",
+    "izungura",
+    "will",
+    "uburenganzira",
+    "planning",
+    "finance",
+    "imari"
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_fdc59429",
+   "category": "finance",
+   "title_rw": "Gusobanukirwa no guhinduranya amafaranga y'amahanga",
+   "title_en": "Understanding Currency Exchange",
+   "summary_rw": "Guhinduranya amafaranga y'amahanga bivuze kugura cyangwa kugurisha amafaranga y'igihugukimwe uyajyana mu cyindi. Igiciro cyo guhinduranya gihinduka buri gihe bitewe n'isoko mpuzamahanga. Banki n'ibigo by'imari ni byo byemerewe gufasha abantu guhindura amafaranga.",
+   "summary_en": "Currency exchange means trading the money of one country for another. The exchange rate usually changes constantly based on the global market. Banks and financial institutions are typically authorized to help people exchange currencies.",
+   "keywords": [
+    "amafaranga",
+    "currency",
+    "guhinduranya",
+    "exchange",
+    "isoko",
+    "market",
+    "banki",
+    "bank"
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_4b61f18b",
+   "category": "finance",
+   "title_rw": "Imyumvire n'imyitwarire ku bijyanye n'amafaranga",
+   "title_en": "The Psychology of Money",
+   "summary_rw": "Imyumvire y'amafaranga yerekana uburyo ibitekerezo n'imico yacu bigenga uko dukoresha amafaranga. Ntabwo ari ubumenyi bw'imibare gusa, ahubwo ni ukumenya uko twitwara imbere y'amafaranga. Kugira ubukungu bushingiye ku kwitonda bisaba kwigengesera no kwiga kwihangana mu gufata ibyemezo.",
+   "summary_en": "The psychology of money explains how our thoughts and behaviors influence financial decisions. Managing wealth depends more on personal behavior than on technical math skills. Building financial stability usually requires patience, discipline, and emotional control when dealing with money.",
+   "keywords": [
+    "amafaranga",
+    "ubukungu",
+    "imyitwarire",
+    "ibyemezo",
+    "money",
+    "finance",
+    "behavior",
+    "wealth"
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_b4d5d8eb",
+   "category": "finance",
+   "title_rw": "Gutanga Imfashanyo",
+   "title_en": "Philanthropy and Charitable Giving",
+   "summary_rw": "Gutanga imfashanyo ni igikorwa cyo gufasha abakeneye ubufasha hagamijwe kuzamura imibereho yabo. Mu Rwanda, ibi bikorwa binyura mu miryango itegamiye kuri Leta, amadini cyangwa ku giti cyumuntu. Bituma habaho iterambere ry'abaturage no kugabanya ubukene.",
+   "summary_en": "Philanthropy involves giving money, time, or resources to help those in need and improve social welfare. In Rwanda, charitable giving is often channeled through non-governmental organizations, religious institutions, or individual initiatives. It contributes to community development and poverty reduction.",
+   "keywords": [
+    "imfashanyo",
+    "ubufasha",
+    "philanthropy",
+    "charity",
+    "iterambere",
+    "development",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_f533778c",
+   "category": "finance",
+   "title_rw": "Gusobanukirwa imigabane n'impapuro mpeshafite z'inguzanyo",
+   "title_en": "Securities and Bonds Explained",
+   "summary_rw": "Imigabane igurishwa mu masoko y'imari n'imigabano itanga uburenganzira bwo kuba umunyamigabane muri sosiyete. Impapuro mpeshafite z'inguzanyo cyangwa se bond zo ni inguzanyo abashoramari baguriza leta cyangwa ibigo. Leta cyangwa ibigo byishyura inyungu ku gihe kandi bigasubiza amafaranga y'ibanze igihe icyo cy'inguzanyo kirangiye.",
+   "summary_en": "Stocks sold in financial markets represent ownership shares in a company. Bonds are fixed-income instruments where investors loan money to governments or corporations. The issuer pays periodic interest and returns the principal upon maturity, usually offering lower risk than stocks.",
+   "keywords": [
+    "imigabane",
+    "bonds",
+    "stocks",
+    "isoko",
+    "market",
+    "finance",
+    "inguzanyo",
+    "ubushoramari"
    ],
    "auto": true,
    "taught": "2026-11-18"
