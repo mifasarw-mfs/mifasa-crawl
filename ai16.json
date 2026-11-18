@@ -4437,6 +4437,78 @@
    ],
    "auto": true,
    "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_2dfdfad0_q",
+   "label_rw": "Abagize umuryango mu Kinyarwanda",
+   "label_en": "Family members and relatives in Kinyarwanda",
+   "patterns_en": [
+    "What does data mean in Kinyarwanda?",
+    "What is the difference between family and relatives?",
+    "Why are family relation terms important?"
+   ],
+   "patterns_rw": [
+    "Data asobanura iki mu Kinyarwanda?",
+    "Ni iki gitandukanya umuryango n'abavandimwe?",
+    "Kuki amazina y'abashakanye ari ingenzi mu muryango?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mu Kinyarwanda, hari amazina atandukanye yihariye yo kwita abagize umuryango n'abavandimwe. Ibi bisobanura isano y'amaraso cyangwa iy'abashakanye. Urugero, data ni papa, naho mama ni mama. Aya magambo agaragaza icyubahiro n'ubucuti mu muryango nyarwanda.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "In Kinyarwanda, there are specific terms used to name family members and relatives. These terms usually define blood relations or marital ties. For example, data means father, and mama means mother. These words often show respect and closeness within the Rwandan family.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_67622e80_q",
+   "label_rw": "Ibiribwa n'ibinyobwa",
+   "label_en": "Food and drink items",
+   "patterns_en": [
+    "What is umutsima in Kinyarwanda?",
+    "What is the importance of milk in Rwanda?",
+    "What are the names of essential foods?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyitwa umutsima mu Kinyarwanda?",
+    "Amata afite akahe kamaro mu Rwanda?",
+    "Ni ayahe mazina y'ibiribwa by'ingenzi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mu Kinyarwanda, amazina y'ibiribwa n'ibinyobwa akoreshwa mu buzima bwa buri munsi afite inkomoko muco nyarwanda. Urugero, umutsima ukorwa mu ifarini, naho amata akaba ikinyobwa cy'ingenzi cy'aborozi. Ibi biribwa biha abantu imbaraga kandi bigira uruhare runini mu mibereho yabo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "In Kinyarwanda, the names of food and drink used daily have cultural roots in Rwanda. For example, umutsima is made from flour, and milk is an important drink for herders. These items provide energy and play a major role in people's lives.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_43209ea8_q",
+   "label_rw": "Imiterere y'ingenzi y'inshinga mu Kinyarwanda",
+   "label_en": "Kinyarwanda verb conjugation basics",
+   "patterns_en": [
+    "What do Kinyarwanda verbs consist of?",
+    "How do noun classes agree with verbs?",
+    "What changes the form of a verb in Kinyarwanda?"
+   ],
+   "patterns_rw": [
+    "Inshinga z'Ikinyarwanda zigizwe n'iki?",
+    "Inteko z'amazina zihura zite n'inshinga?",
+    "Ni iki gihindura isura y'inshinga mu Kinyarwanda?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Inshinga z'Ikinyarwanda zigizwe n'umuzi n'ibyugo bigaragaza ibihe, abantu n'ubwoko bw'inteko. Izi nteko zihura n'izina rihamagarwa mu ntera zitandukanye. Uko inshinga yanditswe cyangwa yavuzwe ihinduka bitewe n'igihe cyangwa n'uburyo ikoreshejwemo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Kinyarwanda verbs consist of a root and affixes that typically indicate tense, subject agreement, and noun classes. These agreement markers match the noun class of the subject. Verb forms change depending on the tense, aspect, or mood being expressed in the sentence.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
   }
  ],
  "knowledge": [
@@ -8087,6 +8159,65 @@
     "bite",
     "urukingo",
     "vaccine"
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_2dfdfad0",
+   "category": "language",
+   "title_rw": "Abagize umuryango mu Kinyarwanda",
+   "title_en": "Family members and relatives in Kinyarwanda",
+   "summary_rw": "Mu Kinyarwanda, hari amazina atandukanye yihariye yo kwita abagize umuryango n'abavandimwe. Ibi bisobanura isano y'amaraso cyangwa iy'abashakanye. Urugero, data ni papa, naho mama ni mama. Aya magambo agaragaza icyubahiro n'ubucuti mu muryango nyarwanda.",
+   "summary_en": "In Kinyarwanda, there are specific terms used to name family members and relatives. These terms usually define blood relations or marital ties. For example, data means father, and mama means mother. These words often show respect and closeness within the Rwandan family.",
+   "keywords": [
+    "umuryango",
+    "family",
+    "abavandimwe",
+    "relatives",
+    "kinyarwanda",
+    "language",
+    "isano",
+    "relations"
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_67622e80",
+   "category": "language",
+   "title_rw": "Ibiribwa n'ibinyobwa",
+   "title_en": "Food and drink items",
+   "summary_rw": "Mu Kinyarwanda, amazina y'ibiribwa n'ibinyobwa akoreshwa mu buzima bwa buri munsi afite inkomoko muco nyarwanda. Urugero, umutsima ukorwa mu ifarini, naho amata akaba ikinyobwa cy'ingenzi cy'aborozi. Ibi biribwa biha abantu imbaraga kandi bigira uruhare runini mu mibereho yabo.",
+   "summary_en": "In Kinyarwanda, the names of food and drink used daily have cultural roots in Rwanda. For example, umutsima is made from flour, and milk is an important drink for herders. These items provide energy and play a major role in people's lives.",
+   "keywords": [
+    "ibiribwa",
+    "ibinyobwa",
+    "food",
+    "drink",
+    "umutsima",
+    "amata",
+    "kinyarwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_43209ea8",
+   "category": "language",
+   "title_rw": "Imiterere y'ingenzi y'inshinga mu Kinyarwanda",
+   "title_en": "Kinyarwanda verb conjugation basics",
+   "summary_rw": "Inshinga z'Ikinyarwanda zigizwe n'umuzi n'ibyugo bigaragaza ibihe, abantu n'ubwoko bw'inteko. Izi nteko zihura n'izina rihamagarwa mu ntera zitandukanye. Uko inshinga yanditswe cyangwa yavuzwe ihinduka bitewe n'igihe cyangwa n'uburyo ikoreshejwemo.",
+   "summary_en": "Kinyarwanda verbs consist of a root and affixes that typically indicate tense, subject agreement, and noun classes. These agreement markers match the noun class of the subject. Verb forms change depending on the tense, aspect, or mood being expressed in the sentence.",
+   "keywords": [
+    "inshinga",
+    "verbs",
+    "ikinyarwanda",
+    "grammar",
+    "inteko",
+    "igihe",
+    "conjugation",
+    "ururimi"
    ],
    "auto": true,
    "taught": "2026-11-18"
