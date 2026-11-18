@@ -1,5 +1,51 @@
 [
  {
+  "id": "crawl_1pvxl9d",
+  "title": "November 18, 2026",
+  "summary": "November 18, 2026",
+  "link": "https://www.youtube.com/shorts/Ti-YMV37Geg",
+  "url": "https://www.youtube.com/shorts/Ti-YMV37Geg",
+  "date": "2026-11-18T16:37:03.000Z",
+  "source": "Diamond Platnumz YouTube",
+  "category": "entertainment",
+  "lang": "rw",
+  "keywords": [
+   "Diamond Platnumz YouTube",
+   "entertainment",
+   "video"
+  ],
+  "video": {
+   "provider": "youtube",
+   "id": "Ti-YMV37Geg"
+  },
+  "type": "video",
+  "image": "https://i1.ytimg.com/vi/Ti-YMV37Geg/hqdefault.jpg",
+  "thumbnail": "https://i1.ytimg.com/vi/Ti-YMV37Geg/hqdefault.jpg",
+  "title_rw": "November 18, 2026",
+  "summary_rw": "November 18, 2026",
+  "share_id": "MN202611_1pvxl9d9gfz"
+ },
+ {
+  "id": "crawl_q0qtnq",
+  "title": "Julio Iglesias facing court investigation over alleged sexual offences",
+  "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
+  "link": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-18T16:33:16.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03b/live/031efcc0-e34f-11f1-99aa-0f40b013ad11.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03b/live/031efcc0-e34f-11f1-99aa-0f40b013ad11.jpg",
+  "title_en": "Julio Iglesias facing court investigation over alleged sexual offences",
+  "summary_en": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
+  "share_id": "MN202611_q0qtnqjq4k"
+ },
+ {
   "id": "crawl_pd775s",
   "title": "72+: The EFL Podcast",
   "summary": "Aaron, Jobi and Tommy Smith talk all things EFL.",
@@ -164,7 +210,7 @@
  },
  {
   "id": "crawl_o42659",
-  "title": "William and Kate meet Indian Prime Minister Modi in New Delhi",
+  "title": "William and Kate reflect on 'enduring' UK-India ties with Modi",
   "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize",
   "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
@@ -178,7 +224,7 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe9/live/814a0670-e35a-11f1-a8cd-2ff5ed84046e.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe9/live/814a0670-e35a-11f1-a8cd-2ff5ed84046e.jpg",
-  "title_en": "William and Kate meet Indian Prime Minister Modi in New Delhi",
+  "title_en": "William and Kate reflect on 'enduring' UK-India ties with Modi",
   "summary_en": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize",
   "share_id": "MN202611_o42659v2m3"
  },
@@ -16832,6 +16878,26 @@
   "share_id": "MN202611_ibzvt9u6f"
  },
  {
+  "id": "crawl_5u1f7v",
+  "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+  "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+  "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-12T17:11:48.000Z",
+  "source": "BBC Business",
+  "category": "business",
+  "lang": "en",
+  "keywords": [
+   "BBC Business",
+   "business"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg",
+  "title_en": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+  "summary_en": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+  "share_id": "MN202611_5u1f7vubop"
+ },
+ {
   "id": "crawl_1rh6bfu",
   "title": "OIF Summit in Cambodia To Cost €100M",
   "summary": "L’Organisation internationale de la Francophonie (OIF) leaders including the Administrator of the OIF, Ms. Caroline St-Hilaire, and the President of the Summit Secretariat, Ms. Sophea EAT have this Thursday signed an agreement in the Cambodian capital, Phnom Penh. The 20th edition of this Summit kicks off in the next three days. This agreement concerns the […] The post OIF Summit in Cambodia To…",
@@ -17090,80 +17156,5 @@
   "title_en": "Owono undecided over future following De Miguel death",
   "summary_en": "FC Andorra manager Carles Manso says goalkeeper Jesus Owono is yet to decide whether he will return to playing action following the death of Tenerife forward Jesus de Miguel.",
   "share_id": "MN202611_17g04prs24d"
- },
- {
-  "id": "crawl_1x1g2bw",
-  "title": "Imvura iragwa ukagira ngo umuriro na wo ugiye kugama-Senateri Evode Uwizeyimana",
-  "summary": "Senateri Evode Uwizeyimana yagaragaje impungenge ku kuba u Rwanda ruzashobora kugera ku ntego yo kugeza amashanyarazi kuri buri rugo kugeza mu 2029, ashingiye ku bibazo bikigaragara mu (…)",
-  "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/imvura-iragwa-ukagira-ngo-umuriro-na-wo-ugiye-kugama-senateri-evode-uwizeyimana",
-  "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/imvura-iragwa-ukagira-ngo-umuriro-na-wo-ugiye-kugama-senateri-evode-uwizeyimana",
-  "date": "2026-11-12T15:32:35.000Z",
-  "source": "Kigali Today",
-  "category": "news",
-  "lang": "rw",
-  "keywords": [
-   "Kigali Today",
-   "news",
-   "Mu Rwanda",
-   "MobileBigStory",
-   "Oswald Niyonzima"
-  ],
-  "image": "https://www.kigalitoday.com/IMG/png/amashanyarazi-2.png",
-  "thumbnail": "https://www.kigalitoday.com/IMG/png/amashanyarazi-2.png",
-  "title_rw": "Imvura iragwa ukagira ngo umuriro na wo ugiye kugama-Senateri Evode Uwizeyimana",
-  "summary_rw": "Senateri Evode Uwizeyimana yagaragaje impungenge ku kuba u Rwanda ruzashobora kugera ku ntego yo kugeza amashanyarazi kuri buri rugo kugeza mu 2029, ashingiye ku bibazo bikigaragara mu (…)",
-  "share_id": "MN202611_1x1g2bwstre"
- },
- {
-  "id": "crawl_ju6fjd",
-  "title": "Yee Fanta - Abagome ( Lyrics Video )",
-  "summary": "Artist: Yee Fanta Prod:Yee Fanta Mix /Mas: Yee Fanta Compose : @GuerishomTv & Yee Fanta Writing:@GuerishomTv & Yee Fanta Smart Link : https://ditto.fm/abagome 🎧 Stream now on : Audiomack : https://audiomack.com/yeefanta/song/abagome Spotify : https://open.spotify.com/track/43Qro0hPCOAHjyBacUFBOa?1011ljwEH Deezer : https://www.deezer.com/us/track/4384588541 Amazone music :…",
-  "link": "https://www.youtube.com/watch?v=kjkHJJfPu94",
-  "url": "https://www.youtube.com/watch?v=kjkHJJfPu94",
-  "date": "2026-11-12T15:17:55.000Z",
-  "source": "Yee Fanta YouTube",
-  "category": "entertainment",
-  "lang": "rw",
-  "keywords": [
-   "Yee Fanta YouTube",
-   "entertainment",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "kjkHJJfPu94"
-  },
-  "type": "video",
-  "image": "https://i4.ytimg.com/vi/kjkHJJfPu94/hqdefault.jpg",
-  "thumbnail": "https://i4.ytimg.com/vi/kjkHJJfPu94/hqdefault.jpg",
-  "title_rw": "Yee Fanta - Abagome ( Lyrics Video )",
-  "summary_rw": "Artist: Yee Fanta Prod:Yee Fanta Mix /Mas: Yee Fanta Compose : @GuerishomTv & Yee Fanta Writing:@GuerishomTv & Yee Fanta Smart Link : https://ditto.fm/abagome 🎧 Stream now on : Audiomack : https://audiomack.com/yeefanta/song/abagome Spotify : https://open.spotify.com/track/43Qro0hPCOAHjyBacUFBOa?1011ljwEH Deezer : https://www.deezer.com/us/track/4384588541 Amazone music :…",
-  "share_id": "MN202611_ju6fjd6kcn"
- },
- {
-  "id": "crawl_1lxovlt",
-  "title": "Cya Tonalite kizanye ingingo zibabaje Gael yirengagiza 😭🤣Kigeze Kuri Lague kirabihuhura 🤣🤣",
-  "summary": "Ushatse kutuvugisha #0787413998 #MIEempire https://www.instagram.com/mie_empire.rw/ https://www.instagram.com/irenemurindahabi/",
-  "link": "https://www.youtube.com/watch?v=olL4SiW4SNI",
-  "url": "https://www.youtube.com/watch?v=olL4SiW4SNI",
-  "date": "2026-11-12T15:02:28.000Z",
-  "source": "Mie Empire YouTube",
-  "category": "entertainment",
-  "lang": "rw",
-  "keywords": [
-   "Mie Empire YouTube",
-   "entertainment",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "olL4SiW4SNI"
-  },
-  "type": "video",
-  "image": "https://i4.ytimg.com/vi/olL4SiW4SNI/hqdefault.jpg",
-  "thumbnail": "https://i4.ytimg.com/vi/olL4SiW4SNI/hqdefault.jpg",
-  "title_rw": "Cya Tonalite kizanye ingingo zibabaje Gael yirengagiza 😭🤣Kigeze Kuri Lague kirabihuhura 🤣🤣",
-  "summary_rw": "Ushatse kutuvugisha #0787413998 #MIEempire https://www.instagram.com/mie_empire.rw/ https://www.instagram.com/irenemurindahabi/",
-  "share_id": "MN202611_1lxovltkyfz"
  }
 ]

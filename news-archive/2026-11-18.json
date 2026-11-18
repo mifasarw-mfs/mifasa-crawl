@@ -1,7 +1,27 @@
 {
  "day": "2026-11-18",
- "count": 79,
+ "count": 80,
  "articles": [
+  {
+   "id": "crawl_q0qtnq",
+   "title": "Julio Iglesias facing court investigation over alleged sexual offences",
+   "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
+   "link": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T16:33:16.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03b/live/031efcc0-e34f-11f1-99aa-0f40b013ad11.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03b/live/031efcc0-e34f-11f1-99aa-0f40b013ad11.jpg",
+   "title_en": "Julio Iglesias facing court investigation over alleged sexual offences",
+   "summary_en": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
+   "share_id": "MN202611_q0qtnqjq4k"
+  },
   {
    "id": "crawl_pd775s",
    "title": "72+: The EFL Podcast",
@@ -1607,5 +1627,5 @@
    "share_id": "MN202611_12cwcm8p932"
   }
  ],
- "updated": "2026-11-18T16:35:01.494Z"
+ "updated": "2026-11-18T16:54:12.322Z"
 }
