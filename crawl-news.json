@@ -1,5 +1,66 @@
 [
  {
+  "id": "crawl_qiyne7",
+  "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
+  "summary": "Tyler Buchanan, from Dundee, is a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
+  "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-18T09:28:35.000Z",
+  "source": "BBC Technology",
+  "category": "tech",
+  "lang": "en",
+  "keywords": [
+   "BBC Technology",
+   "tech"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66c1/live/d8eb9360-e2a3-11f1-99b6-a35a62fa4264.png",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66c1/live/d8eb9360-e2a3-11f1-99b6-a35a62fa4264.png",
+  "title_en": "British hacker who stole $11m through text message scheme jailed for six years in US",
+  "summary_en": "Tyler Buchanan, from Dundee, is a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
+  "share_id": "MN202611_qiyne7rjv1"
+ },
+ {
+  "id": "crawl_1nz5jdk",
+  "title": "Uganda and Petroleum Tycoon Dangote Explore Crude Oil Supply Prospects",
+  "summary": "The government of Uganda is courting Africa’s richest man Alhaji Aliko Dangote to consider a host of Partnerships in the country’s oil ventures. President Yoweri Museveni and Dangote on Tuesday held discussions on several investment opportunities across energy, petroleum, agriculture and mining. “We also discussed possible investment in the fertiliser industry to ensure regional food […] The post…",
+  "link": "https://taarifa.rw/2026/11/18/uganda-and-petroleum-tycoon-dangote-explore-crude-oil-supply-prospects/",
+  "url": "https://taarifa.rw/2026/11/18/uganda-and-petroleum-tycoon-dangote-explore-crude-oil-supply-prospects/",
+  "date": "2026-11-18T09:27:41.000Z",
+  "source": "Taarifa Rwanda",
+  "category": "news",
+  "lang": "en",
+  "keywords": [
+   "Taarifa Rwanda",
+   "news",
+   "Business"
+  ],
+  "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261118-112705.jpg?fit=720%2C583&ssl=1",
+  "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261118-112705.jpg?fit=720%2C583&ssl=1",
+  "title_en": "Uganda and Petroleum Tycoon Dangote Explore Crude Oil Supply Prospects",
+  "summary_en": "The government of Uganda is courting Africa’s richest man Alhaji Aliko Dangote to consider a host of Partnerships in the country’s oil ventures. President Yoweri Museveni and Dangote on Tuesday held discussions on several investment opportunities across energy, petroleum, agriculture and mining. “We also discussed possible investment in the fertiliser industry to ensure regional food […] The post…",
+  "share_id": "MN202611_1nz5jdkxgl2"
+ },
+ {
+  "id": "crawl_mfya2g",
+  "title": "Nyuma yuko serivisi nyinshi z'ikoranabuhanga zihagaze, Rubio avuga ko Amerika itagabweho 'igitero kigambiriwe'",
+  "summary": "Minisitiri w'ububanyi n'amahanga w'Amerika yavuze ko hari \"gihamya zeru\" yo kwemeza ibivugwa ku mbuga za internet ko ihungabana riherutse kuba ryibasiye Microsoft, banki n'ingendo z'indege rifitanye isano.",
+  "link": "https://www.bbc.com/gahuza/articles/cmn80y6vpjgjo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.com/gahuza/articles/cmn80y6vpjgjo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-18T09:10:10.000Z",
+  "source": "BBC Gahuza",
+  "category": "news",
+  "lang": "rw",
+  "keywords": [
+   "BBC Gahuza",
+   "news"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5dde/live/dee0de10-e325-11f1-baab-4b3b35d174b7.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5dde/live/dee0de10-e325-11f1-baab-4b3b35d174b7.jpg",
+  "title_rw": "Nyuma yuko serivisi nyinshi z'ikoranabuhanga zihagaze, Rubio avuga ko Amerika itagabweho 'igitero kigambiriwe'",
+  "summary_rw": "Minisitiri w'ububanyi n'amahanga w'Amerika yavuze ko hari \"gihamya zeru\" yo kwemeza ibivugwa ku mbuga za internet ko ihungabana riherutse kuba ryibasiye Microsoft, banki n'ingendo z'indege rifitanye isano.",
+  "share_id": "MN202611_mfya2gr6ja"
+ },
+ {
   "id": "crawl_rkfz4u",
   "title": "Manchester won't always be blue - Pochettino",
   "summary": "New Manchester United boss Mauricio Pochettino says he will restore Manchester United to being the most successful footballing side in the city.",
@@ -101,8 +162,8 @@
  },
  {
   "id": "crawl_1rtauh7",
-  "title": "Higher petrol and diesel prices push UK inflation to 3.6%",
-  "summary": "There are also signs inflation is impacting the wider economy, with the cost raw materials and goods leaving factories climbing.",
+  "title": "Petrol and diesel prices push inflation to highest in a year",
+  "summary": "Inflation is likely to keep rising on fresh forecasts that household energy bills will jump by 26% in January.",
   "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-18T07:40:54.000Z",
@@ -115,8 +176,8 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d0b/live/be9d4d20-e31e-11f1-baab-4b3b35d174b7.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d0b/live/be9d4d20-e31e-11f1-baab-4b3b35d174b7.jpg",
-  "title_en": "Higher petrol and diesel prices push UK inflation to 3.6%",
-  "summary_en": "There are also signs inflation is impacting the wider economy, with the cost raw materials and goods leaving factories climbing.",
+  "title_en": "Petrol and diesel prices push inflation to highest in a year",
+  "summary_en": "Inflation is likely to keep rising on fresh forecasts that household energy bills will jump by 26% in January.",
   "share_id": "MN202611_1rtauh73qy1"
  },
  {
@@ -227,7 +288,7 @@
  },
  {
   "id": "crawl_1ufdfjy",
-  "title": "The 3pm football blackout: outdated or still relevant in 2026?",
+  "title": "The 3pm football blackout: Outdated or still relevant in 2026?",
   "summary": "After 60 years, is time finally running out on the 3pm blackout in football?",
   "link": "https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o?at_medium=RSS&at_campaign=rss",
@@ -241,7 +302,7 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1959/live/65173c80-e287-11f1-b166-176de21e2352.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1959/live/65173c80-e287-11f1-b166-176de21e2352.jpg",
-  "title_en": "The 3pm football blackout: outdated or still relevant in 2026?",
+  "title_en": "The 3pm football blackout: Outdated or still relevant in 2026?",
   "summary_en": "After 60 years, is time finally running out on the 3pm blackout in football?",
   "share_id": "MN202611_1ufdfjy5cyk"
  },
@@ -405,8 +466,8 @@
    "BBC Technology",
    "tech"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/493a/live/9d5c2350-e30c-11f1-99a1-253766e7ad8b.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/493a/live/9d5c2350-e30c-11f1-99a1-253766e7ad8b.jpg",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce0b/live/4f4097b0-e32e-11f1-9c56-6ffaf0e1e706.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce0b/live/4f4097b0-e32e-11f1-9c56-6ffaf0e1e706.jpg",
   "title_en": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
   "summary_en": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
   "share_id": "MN202611_1df88iz0tmx"
@@ -493,7 +554,7 @@
  },
  {
   "id": "crawl_11dqx4b",
-  "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+  "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
   "summary": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
   "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
@@ -507,7 +568,7 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0369/live/387a8f10-e2ff-11f1-a094-5fdc692f3e33.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0369/live/387a8f10-e2ff-11f1-a094-5fdc692f3e33.jpg",
-  "title_en": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+  "title_en": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
   "summary_en": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
   "share_id": "MN202611_11dqx4bjtl5"
  },
@@ -17132,71 +17193,5 @@
   "title_en": "'Unfinished business' - Tuchel committed to England",
   "summary_en": "England head coach Thomas Tuchel says he has \"no intention\" of leaving the job before Euro 2028 regardless of any offers from major clubs.",
   "share_id": "MN202611_12xbnqa3l4w"
- },
- {
-  "id": "crawl_osh99m",
-  "title": "IMPAMVU UDAKWIRIYE KWIHOMA KU MUNTU UTAKIGUSHAKA | KUBURA INSHUTI BIRAGATSINDWA, ARIKO SI IHEREZO",
-  "summary": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
-  "link": "https://www.youtube.com/watch?v=CahhFSqsxWU",
-  "url": "https://www.youtube.com/watch?v=CahhFSqsxWU",
-  "date": "2026-11-12T08:40:37.000Z",
-  "source": "Mwanafunzi Ismael YouTube",
-  "category": "entertainment",
-  "lang": "rw",
-  "keywords": [
-   "Mwanafunzi Ismael YouTube",
-   "entertainment",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "CahhFSqsxWU"
-  },
-  "type": "video",
-  "image": "https://i4.ytimg.com/vi/CahhFSqsxWU/hqdefault.jpg",
-  "thumbnail": "https://i4.ytimg.com/vi/CahhFSqsxWU/hqdefault.jpg",
-  "title_rw": "IMPAMVU UDAKWIRIYE KWIHOMA KU MUNTU UTAKIGUSHAKA | KUBURA INSHUTI BIRAGATSINDWA, ARIKO SI IHEREZO",
-  "summary_rw": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
-  "share_id": "MN202611_osh99mhe2w"
- },
- {
-  "id": "crawl_1um9cnz",
-  "title": "Young duo at heart of Nations League's meanest defence",
-  "summary": "With Northern Ireland yet to concede a goal in the 2026-27 Nations League, young defenders Ruairi McConville and Tom Atcheson have been impressing for Michael O'Neill's side.",
-  "link": "https://www.bbc.co.uk/sport/articles/cw24epvmq96lo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/articles/cw24epvmq96lo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-12T08:17:52.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1cf/live/ea41ecb0-ddc9-11f1-93e1-3b657b665bcf.png",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1cf/live/ea41ecb0-ddc9-11f1-93e1-3b657b665bcf.png",
-  "title_en": "Young duo at heart of Nations League's meanest defence",
-  "summary_en": "With Northern Ireland yet to concede a goal in the 2026-27 Nations League, young defenders Ruairi McConville and Tom Atcheson have been impressing for Michael O'Neill's side.",
-  "share_id": "MN202611_1um9cnzv62l"
- },
- {
-  "id": "crawl_19283me",
-  "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
-  "summary": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from.",
-  "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-12T07:45:52.000Z",
-  "source": "BBC Africa",
-  "category": "news",
-  "lang": "en",
-  "keywords": [
-   "BBC Africa",
-   "news"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7574/live/b4ca5c60-de65-11f1-8771-4778a0df4e09.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7574/live/b4ca5c60-de65-11f1-8771-4778a0df4e09.jpg",
-  "title_en": "Oranges investigated after four girls die in suspected Uganda school poisoning",
-  "summary_en": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from.",
-  "share_id": "MN202611_19283me1038"
  }
 ]

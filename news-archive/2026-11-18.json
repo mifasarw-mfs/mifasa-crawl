@@ -1,7 +1,68 @@
 {
  "day": "2026-11-18",
- "count": 27,
+ "count": 30,
  "articles": [
+  {
+   "id": "crawl_qiyne7",
+   "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
+   "summary": "Tyler Buchanan, from Dundee, is a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
+   "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T09:28:35.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66c1/live/d8eb9360-e2a3-11f1-99b6-a35a62fa4264.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66c1/live/d8eb9360-e2a3-11f1-99b6-a35a62fa4264.png",
+   "title_en": "British hacker who stole $11m through text message scheme jailed for six years in US",
+   "summary_en": "Tyler Buchanan, from Dundee, is a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
+   "share_id": "MN202611_qiyne7rjv1"
+  },
+  {
+   "id": "crawl_1nz5jdk",
+   "title": "Uganda and Petroleum Tycoon Dangote Explore Crude Oil Supply Prospects",
+   "summary": "The government of Uganda is courting Africa’s richest man Alhaji Aliko Dangote to consider a host of Partnerships in the country’s oil ventures. President Yoweri Museveni and Dangote on Tuesday held discussions on several investment opportunities across energy, petroleum, agriculture and mining. “We also discussed possible investment in the fertiliser industry to ensure regional food […] The post…",
+   "link": "https://taarifa.rw/2026/11/18/uganda-and-petroleum-tycoon-dangote-explore-crude-oil-supply-prospects/",
+   "url": "https://taarifa.rw/2026/11/18/uganda-and-petroleum-tycoon-dangote-explore-crude-oil-supply-prospects/",
+   "date": "2026-11-18T09:27:41.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "Business"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261118-112705.jpg?fit=720%2C583&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261118-112705.jpg?fit=720%2C583&ssl=1",
+   "title_en": "Uganda and Petroleum Tycoon Dangote Explore Crude Oil Supply Prospects",
+   "summary_en": "The government of Uganda is courting Africa’s richest man Alhaji Aliko Dangote to consider a host of Partnerships in the country’s oil ventures. President Yoweri Museveni and Dangote on Tuesday held discussions on several investment opportunities across energy, petroleum, agriculture and mining. “We also discussed possible investment in the fertiliser industry to ensure regional food […] The post…",
+   "share_id": "MN202611_1nz5jdkxgl2"
+  },
+  {
+   "id": "crawl_mfya2g",
+   "title": "Nyuma yuko serivisi nyinshi z'ikoranabuhanga zihagaze, Rubio avuga ko Amerika itagabweho 'igitero kigambiriwe'",
+   "summary": "Minisitiri w'ububanyi n'amahanga w'Amerika yavuze ko hari \"gihamya zeru\" yo kwemeza ibivugwa ku mbuga za internet ko ihungabana riherutse kuba ryibasiye Microsoft, banki n'ingendo z'indege rifitanye isano.",
+   "link": "https://www.bbc.com/gahuza/articles/cmn80y6vpjgjo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/cmn80y6vpjgjo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T09:10:10.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5dde/live/dee0de10-e325-11f1-baab-4b3b35d174b7.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5dde/live/dee0de10-e325-11f1-baab-4b3b35d174b7.jpg",
+   "title_rw": "Nyuma yuko serivisi nyinshi z'ikoranabuhanga zihagaze, Rubio avuga ko Amerika itagabweho 'igitero kigambiriwe'",
+   "summary_rw": "Minisitiri w'ububanyi n'amahanga w'Amerika yavuze ko hari \"gihamya zeru\" yo kwemeza ibivugwa ku mbuga za internet ko ihungabana riherutse kuba ryibasiye Microsoft, banki n'ingendo z'indege rifitanye isano.",
+   "share_id": "MN202611_mfya2gr6ja"
+  },
   {
    "id": "crawl_rkfz4u",
    "title": "Manchester won't always be blue - Pochettino",
@@ -543,5 +604,5 @@
    "share_id": "MN202611_12cwcm8p932"
   }
  ],
- "updated": "2026-11-18T08:47:47.301Z"
+ "updated": "2026-11-18T09:30:05.546Z"
 }
