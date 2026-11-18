@@ -1,7 +1,47 @@
 {
  "day": "2026-11-18",
- "count": 88,
+ "count": 90,
  "articles": [
+  {
+   "id": "crawl_eml1o1",
+   "title": "All Tanzanian, Congolese Airlines Banned From EU Skies",
+   "summary": "Every airline certified in Tanzania and the Democratic Republic of the Congo (DRC) remains barred from operating to, from or over the European Union, after the European Commission renewed its… The post All Tanzanian, Congolese Airlines Banned From EU Skies appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/all-tanzanian-congolese-airlines-banned-from-eu-skies/",
+   "url": "https://www.ktpress.rw/2026/11/all-tanzanian-congolese-airlines-banned-from-eu-skies/",
+   "date": "2026-11-18T19:21:05.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "Economy",
+    "latestnews"
+   ],
+   "title_en": "All Tanzanian, Congolese Airlines Banned From EU Skies",
+   "summary_en": "Every airline certified in Tanzania and the Democratic Republic of the Congo (DRC) remains barred from operating to, from or over the European Union, after the European Commission renewed its… The post All Tanzanian, Congolese Airlines Banned From EU Skies appeared first on KT PRESS .",
+   "share_id": "MN202611_eml1o1litr"
+  },
+  {
+   "id": "crawl_64wuvv",
+   "title": "From kit boy to manager at 28 - Dumbarton appoint Fellowes",
+   "summary": "Martin Fellowes becomes the youngest manager in SPFL history, taking on the Dumbarton job at the age of 28.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c61k9mz9vvkyo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c61k9mz9vvkyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T19:09:00.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c880/live/28da6540-e37b-11f1-b879-03485a55c082.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c880/live/28da6540-e37b-11f1-b879-03485a55c082.jpg",
+   "title_en": "From kit boy to manager at 28 - Dumbarton appoint Fellowes",
+   "summary_en": "Martin Fellowes becomes the youngest manager in SPFL history, taking on the Dumbarton job at the age of 28.",
+   "share_id": "MN202611_64wuvvsu9l"
+  },
   {
    "id": "crawl_3lrx3o",
    "title": "Rooney revelations important - Bradford boss Duff",
@@ -1786,5 +1826,5 @@
    "share_id": "MN202611_12cwcm8p932"
   }
  ],
- "updated": "2026-11-18T18:20:13.207Z"
+ "updated": "2026-11-18T19:49:48.850Z"
 }
