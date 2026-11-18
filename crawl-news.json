@@ -6,12 +6,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-18T12:22:15.000Z",
-  "source": "BBC Technology",
-  "category": "tech",
+  "source": "BBC Entertainment",
+  "category": "entertainment",
   "lang": "en",
   "keywords": [
-   "BBC Technology",
-   "tech"
+   "BBC Entertainment",
+   "entertainment"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg",
@@ -677,7 +677,7 @@
  },
  {
   "id": "crawl_dlzhva",
-  "title": "Harry Styles, Cher, Sam Fender and Billie Eilish to headline Glastonbury 2027",
+  "title": "Harry Styles, Billie Eilish, Sam Fender and Cher to headline Glastonbury 2027",
   "summary": "The festival will also host Cher in the Sunday \"legends\" slot, the unofficial fourth headline set.",
   "link": "https://www.bbc.co.uk/news/articles/crwy4w381nlpo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/crwy4w381nlpo?at_medium=RSS&at_campaign=rss",
@@ -691,7 +691,7 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c012/live/0ebd38d0-e340-11f1-99b6-a35a62fa4264.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c012/live/0ebd38d0-e340-11f1-99b6-a35a62fa4264.jpg",
-  "title_en": "Harry Styles, Cher, Sam Fender and Billie Eilish to headline Glastonbury 2027",
+  "title_en": "Harry Styles, Billie Eilish, Sam Fender and Cher to headline Glastonbury 2027",
   "summary_en": "The festival will also host Cher in the Sunday \"legends\" slot, the unofficial fourth headline set.",
   "share_id": "MN202611_dlzhvasec4"
  },
