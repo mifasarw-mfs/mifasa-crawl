@@ -4341,6 +4341,102 @@
    ],
    "auto": true,
    "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_27e82984_q",
+   "label_rw": "Uko witwara mu gihe cy'umutingito",
+   "label_en": "Earthquake Safety and Preparedness",
+   "patterns_en": [
+    "What should you do during an earthquake?",
+    "What actions are needed after an earthquake?",
+    "How can you prepare your home for an earthquake?"
+   ],
+   "patterns_rw": [
+    "Wakora iki umutingito utangiye?",
+    "Ni iki wakora umutingito urangiye?",
+    "Wategura ute urugo rwawe ku mutingito?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mu gihe cy'umutingito w'isi, ugomba kwitwara neza ukamenya icyo ukora. Banza wunamye, wipfuke umutwe, kandi wifatanye n'ikintu gikomeye kugira ngo wirinde. Nyuma y'umutingito, genzura niba nta bikomere ufite kandi witondere ibindi bishobora gukurikiraho.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "During an earthquake, proper safety actions are essential. Drop to the ground, cover your head and neck, and hold on to sturdy shelter to protect yourself. After shaking stops, check for injuries and remain cautious of potential aftershocks.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_f696556f_q",
+   "label_rw": "Umutekano ku igare no kwambara ingofero",
+   "label_en": "Bicycle safety and helmet use",
+   "patterns_en": [
+    "What is important to consider when riding a bicycle?",
+    "Why should you wear a helmet every time you ride a bike?",
+    "What is the importance of brakes on a bicycle?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyingenzi cyo kwitondera ku igare?",
+    "Kuki ugomba kwambara ingofero igihe cyose utwaye igare?",
+    "Ese feri zifite akahe kamaro ku igare?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kwitwara ku igare bisaba kwambara ingofero irinda kugira ngo wirinde gukomereka umutwe mu byago. Ugomba no kwitondera imihanda no kureba ko feri zikora neza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Bicycle safety requires wearing a helmet to prevent head injuries in case of accidents. You should also pay attention to traffic and ensure your brakes work properly.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_c80d3136_q",
+   "label_rw": "Kurwanira izuba no kwirinda ubushyuhe bukabije",
+   "label_en": "Sun safety and heat exhaustion prevention",
+   "patterns_en": [
+    "How can you prevent heat exhaustion?",
+    "Why is drinking water important in hot weather?",
+    "What should you wear during strong sun?"
+   ],
+   "patterns_rw": [
+    "Wakwirinda ute ubushyuhe bukabije?",
+    "Ese amazi afasha iki mu gihe cy'izuba?",
+    "Wambara ute mu gihe cy'izuba ryinshi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gukingira umubiri izuba bifasha kwirinda gushya no kurwara. Unywa amazi menshi kugira ngo udashyuha cyane. Wambara imyenda miremire n'ingofero. Utinda mu gicucu izuba ryinshi rifite.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Protecting the body from the sun helps prevent sunburn and heat exhaustion. Drinking plenty of water helps avoid overheating. Wearing long clothes and hats provides defense. Staying in the shade during peak hours is helpful.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_1fb4daef_q",
+   "label_rw": "Umutekano ku Nyamaswa n'Indwara y'Umucuru",
+   "label_en": "Animal Safety and Rabies Awareness",
+   "patterns_en": [
+    "What should you do if bitten by a dog?",
+    "How is rabies transmitted?",
+    "How can you prevent dog bites?"
+   ],
+   "patterns_rw": [
+    "Wagira ute nuriakwa n'imbwa?",
+    "Umucuru utorwa ute?",
+    "Wakwirinda ute kuribwa n'imbwa?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gukiza no kwirinda kuribwa n'imbwa bifasha mu gukumira indwara y'umucuru. Ingingo z'ingenzi zirimo gukingira imbwa no kwivuza vuba iyo urumwe. Umucuru ni indwara iterwa na virusi ishobora kwica abantu n'inyamaswa. Ntugakore ku mbwa zitazwi kandi wubahe inyamaswa.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Preventing dog bites helps control rabies. Key measures include vaccinating dogs and seeking prompt medical treatment after a bite. Rabies is a viral disease that can be fatal to humans and animals. Avoid unfamiliar dogs and respect animals.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
   }
  ],
  "knowledge": [
@@ -7911,6 +8007,86 @@
     "etiquette",
     "sport",
     "player"
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_27e82984",
+   "category": "safety",
+   "title_rw": "Uko witwara mu gihe cy'umutingito",
+   "title_en": "Earthquake Safety and Preparedness",
+   "summary_rw": "Mu gihe cy'umutingito w'isi, ugomba kwitwara neza ukamenya icyo ukora. Banza wunamye, wipfuke umutwe, kandi wifatanye n'ikintu gikomeye kugira ngo wirinde. Nyuma y'umutingito, genzura niba nta bikomere ufite kandi witondere ibindi bishobora gukurikiraho.",
+   "summary_en": "During an earthquake, proper safety actions are essential. Drop to the ground, cover your head and neck, and hold on to sturdy shelter to protect yourself. After shaking stops, check for injuries and remain cautious of potential aftershocks.",
+   "keywords": [
+    "umutingito",
+    "earthquake",
+    "umutekano",
+    "safety",
+    "kwitegura",
+    "preparedness",
+    "kurengera",
+    "protection"
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_f696556f",
+   "category": "safety",
+   "title_rw": "Umutekano ku igare no kwambara ingofero",
+   "title_en": "Bicycle safety and helmet use",
+   "summary_rw": "Kwitwara ku igare bisaba kwambara ingofero irinda kugira ngo wirinde gukomereka umutwe mu byago. Ugomba no kwitondera imihanda no kureba ko feri zikora neza.",
+   "summary_en": "Bicycle safety requires wearing a helmet to prevent head injuries in case of accidents. You should also pay attention to traffic and ensure your brakes work properly.",
+   "keywords": [
+    "igare",
+    "bicycle",
+    "ingofero",
+    "helmet",
+    "umutekano",
+    "safety",
+    "feri",
+    "brakes"
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_c80d3136",
+   "category": "safety",
+   "title_rw": "Kurwanira izuba no kwirinda ubushyuhe bukabije",
+   "title_en": "Sun safety and heat exhaustion prevention",
+   "summary_rw": "Gukingira umubiri izuba bifasha kwirinda gushya no kurwara. Unywa amazi menshi kugira ngo udashyuha cyane. Wambara imyenda miremire n'ingofero. Utinda mu gicucu izuba ryinshi rifite.",
+   "summary_en": "Protecting the body from the sun helps prevent sunburn and heat exhaustion. Drinking plenty of water helps avoid overheating. Wearing long clothes and hats provides defense. Staying in the shade during peak hours is helpful.",
+   "keywords": [
+    "izuba",
+    "ubushyuhe",
+    "amazi",
+    "umutekano",
+    "sun",
+    "heat",
+    "water",
+    "safety"
+   ],
+   "auto": true,
+   "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_1fb4daef",
+   "category": "safety",
+   "title_rw": "Umutekano ku Nyamaswa n'Indwara y'Umucuru",
+   "title_en": "Animal Safety and Rabies Awareness",
+   "summary_rw": "Gukiza no kwirinda kuribwa n'imbwa bifasha mu gukumira indwara y'umucuru. Ingingo z'ingenzi zirimo gukingira imbwa no kwivuza vuba iyo urumwe. Umucuru ni indwara iterwa na virusi ishobora kwica abantu n'inyamaswa. Ntugakore ku mbwa zitazwi kandi wubahe inyamaswa.",
+   "summary_en": "Preventing dog bites helps control rabies. Key measures include vaccinating dogs and seeking prompt medical treatment after a bite. Rabies is a viral disease that can be fatal to humans and animals. Avoid unfamiliar dogs and respect animals.",
+   "keywords": [
+    "imbwa",
+    "dog",
+    "umucuru",
+    "rabies",
+    "urupfu",
+    "bite",
+    "urukingo",
+    "vaccine"
    ],
    "auto": true,
    "taught": "2026-11-18"
