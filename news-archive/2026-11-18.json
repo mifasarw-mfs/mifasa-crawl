@@ -1,7 +1,27 @@
 {
  "day": "2026-11-18",
- "count": 95,
+ "count": 97,
  "articles": [
+  {
+   "id": "crawl_1u3mznk",
+   "title": "FA explored legal challenge to Infantino staying on",
+   "summary": "The Football Association considered challenging Gianni Infantino's eligibility to run for a fourth term as Fifa president, but it felt a case was likely to fail.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm3eg1w4ypz5o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm3eg1w4ypz5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T20:55:01.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8c1/live/e7141200-e37f-11f1-b879-03485a55c082.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8c1/live/e7141200-e37f-11f1-b879-03485a55c082.jpg",
+   "title_en": "FA explored legal challenge to Infantino staying on",
+   "summary_en": "The Football Association considered challenging Gianni Infantino's eligibility to run for a fourth term as Fifa president, but it felt a case was likely to fail.",
+   "share_id": "MN202611_1u3mznkex26"
+  },
   {
    "id": "crawl_sd2tbo",
    "title": "Torrential rain causes widespread flooding in South Florida",
@@ -300,6 +320,26 @@
    "title_en": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
    "summary_en": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
    "share_id": "MN202611_18kvdntoa4n"
+  },
+  {
+   "id": "crawl_59vo6m",
+   "title": "Watch: Non-league player scores from own half",
+   "summary": "The midfielder speaks of his \"special moment\" as fans roared from around the ground.",
+   "link": "https://www.bbc.co.uk/news/videos/cr4gn768pg5lo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cr4gn768pg5lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T16:46:34.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b1b/live/b398fac0-e367-11f1-9f51-4bfc31543510.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b1b/live/b398fac0-e367-11f1-9f51-4bfc31543510.jpg",
+   "title_en": "Watch: Non-league player scores from own half",
+   "summary_en": "The midfielder speaks of his \"special moment\" as fans roared from around the ground.",
+   "share_id": "MN202611_59vo6msb9o"
   },
   {
    "id": "crawl_q0qtnq",
@@ -1926,5 +1966,5 @@
    "share_id": "MN202611_12cwcm8p932"
   }
  ],
- "updated": "2026-11-18T20:45:44.836Z"
+ "updated": "2026-11-18T21:09:55.180Z"
 }
