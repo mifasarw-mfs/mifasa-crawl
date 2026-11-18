@@ -1,7 +1,108 @@
 {
  "day": "2026-11-18",
- "count": 36,
+ "count": 45,
  "articles": [
+  {
+   "id": "crawl_ggxb2h",
+   "title": "William and Kate honour Earthshot Prize winners in Mumbai",
+   "summary": "The Prince and Princess of Wales have said environmental innovators are changing the lives of future generations as they celebrated this year's winners of the Earthshot Prize.",
+   "link": "https://www.bbc.co.uk/news/videos/cmwy97rj83n1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cmwy97rj83n1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T11:18:04.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f7c/live/f6abfca0-e33e-11f1-99aa-0f40b013ad11.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f7c/live/f6abfca0-e33e-11f1-99aa-0f40b013ad11.jpg",
+   "title_en": "William and Kate honour Earthshot Prize winners in Mumbai",
+   "summary_en": "The Prince and Princess of Wales have said environmental innovators are changing the lives of future generations as they celebrated this year's winners of the Earthshot Prize.",
+   "share_id": "MN202611_ggxb2hty5j"
+  },
+  {
+   "id": "crawl_1ov8neb",
+   "title": "Tanzanian Leader Suluhu Hurries To Kampala",
+   "summary": "Tanzanian President Samia Suluhu has touched ground at Entebbe International Airport to begin her state visit, according to the Ugandan Presidency. “Her Excellency Suluhu Samia the President of the United Republic of Tanzania, arrived at Entebbe International Airport this morning for a two-day State Visit at the invitation of President Yoweri Kaguta Museveni,” Uganda’s State […] The post…",
+   "link": "https://taarifa.rw/2026/11/18/tanzanian-leader-suluhu-hurries-to-kampala/",
+   "url": "https://taarifa.rw/2026/11/18/tanzanian-leader-suluhu-hurries-to-kampala/",
+   "date": "2026-11-18T11:04:44.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "Politics"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261118-131601.jpg?fit=720%2C425&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261118-131601.jpg?fit=720%2C425&ssl=1",
+   "title_en": "Tanzanian Leader Suluhu Hurries To Kampala",
+   "summary_en": "Tanzanian President Samia Suluhu has touched ground at Entebbe International Airport to begin her state visit, according to the Ugandan Presidency. “Her Excellency Suluhu Samia the President of the United Republic of Tanzania, arrived at Entebbe International Airport this morning for a two-day State Visit at the invitation of President Yoweri Kaguta Museveni,” Uganda’s State […] The post…",
+   "share_id": "MN202611_1ov8nebp6q9"
+  },
+  {
+   "id": "crawl_1ikatc1",
+   "title": "Joanna Page says male actor made 'awful' and 'inappropriate' comments to her on set",
+   "summary": "Page spoke of the comments during Tuesday's episode of I'm a Celebrity... Get Me Out Of Here!",
+   "link": "https://www.bbc.co.uk/news/articles/cqj3kelenm0do?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqj3kelenm0do?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T11:00:05.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca06/live/582be290-e33c-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca06/live/582be290-e33c-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Joanna Page says male actor made 'awful' and 'inappropriate' comments to her on set",
+   "summary_en": "Page spoke of the comments during Tuesday's episode of I'm a Celebrity... Get Me Out Of Here!",
+   "share_id": "MN202611_1ikatc13psv"
+  },
+  {
+   "id": "crawl_15rsf22",
+   "title": "Record crowds, legends - Bordeaux bid to escape amateur game",
+   "summary": "Bordeaux fans thought things could not get any worse, then they were demoted to France's amateur sixth tier.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c63rgqrz9jgqo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c63rgqrz9jgqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T10:51:37.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eee8/live/7fc32c80-e2a3-11f1-8226-87dfa5049e9a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eee8/live/7fc32c80-e2a3-11f1-8226-87dfa5049e9a.jpg",
+   "title_en": "Record crowds, legends - Bordeaux bid to escape amateur game",
+   "summary_en": "Bordeaux fans thought things could not get any worse, then they were demoted to France's amateur sixth tier.",
+   "share_id": "MN202611_15rsf22kcgo"
+  },
+  {
+   "id": "crawl_1d57i7r",
+   "title": "Williams to join temporary Swansea coaching team",
+   "summary": "Ashley Williams is set to join a temporary Swansea City coaching team as the Championship club attempt to fill the void left by Vitor Matos.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5lyk9rp0vjgo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c5lyk9rp0vjgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T10:48:39.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d275/live/5ed8a260-e33a-11f1-9479-d17d3e98c29d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d275/live/5ed8a260-e33a-11f1-9479-d17d3e98c29d.jpg",
+   "title_en": "Williams to join temporary Swansea coaching team",
+   "summary_en": "Ashley Williams is set to join a temporary Swansea City coaching team as the Championship club attempt to fill the void left by Vitor Matos.",
+   "share_id": "MN202611_1d57i7rzfmd"
+  },
   {
    "id": "crawl_147525n",
    "title": "Uganda Airlines Flight Airborne to Kigali",
@@ -22,6 +123,26 @@
    "title_en": "Uganda Airlines Flight Airborne to Kigali",
    "summary_en": "A Uganda national carrier flight has taken off from Entebbe International Airport and is scheduled to land at Kigali International Airport in Rwanda’s Capital. Uganda’s foreign affairs ministry said before the flight take off, “The new route marks a significant milestone in strengthening Uganda–Rwanda trade, tourism and connectivity while expanding Uganda Airlines’ footprint across the […] The…",
    "share_id": "MN202611_147525ny6o9"
+  },
+  {
+   "id": "crawl_1flvwe6",
+   "title": "Emma Barnett pays tribute to 'decent journalism' in final Today episode",
+   "summary": "Radio presenter Emma Barnett has paid tribute to \"decent journalism\" in her final moments hosting the Today programme.",
+   "link": "https://www.bbc.co.uk/news/videos/c6wy0j1xeypqo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/c6wy0j1xeypqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T10:34:57.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca33/live/deb790e0-e335-11f1-9479-d17d3e98c29d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca33/live/deb790e0-e335-11f1-9479-d17d3e98c29d.jpg",
+   "title_en": "Emma Barnett pays tribute to 'decent journalism' in final Today episode",
+   "summary_en": "Radio presenter Emma Barnett has paid tribute to \"decent journalism\" in her final moments hosting the Today programme.",
+   "share_id": "MN202611_1flvwe6ohi4"
   },
   {
    "id": "crawl_356u6z",
@@ -489,6 +610,48 @@
    "share_id": "MN202611_178adss3a9m"
   },
   {
+   "id": "crawl_ewil8k",
+   "title": "Why Rwanda’s Volcanoes National Park Could Be Perfect Setting For Next James Bond Film",
+   "summary": "Rwanda’s dramatic landscapes, winding mountain roads and breathtaking natural attractions could soon find themselves in the spotlight of one of the world’s most celebrated film franchises, following a proposal by the British Embassy in Kigali to have scenes of the next James Bond movie shot in the country. The proposal places particular attention on Volcanoes […] The post Why Rwanda’s Volcanoes…",
+   "link": "https://taarifa.rw/2026/11/18/why-rwandas-volcanoes-national-park-could-be-perfect-setting-for-next-james-bond-film/",
+   "url": "https://taarifa.rw/2026/11/18/why-rwandas-volcanoes-national-park-could-be-perfect-setting-for-next-james-bond-film/",
+   "date": "2026-11-18T05:47:15.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "Entertainment"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/IMG-20261118-WA0026.jpg?fit=1024%2C1280&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/IMG-20261118-WA0026.jpg?fit=1024%2C1280&ssl=1",
+   "title_en": "Why Rwanda’s Volcanoes National Park Could Be Perfect Setting For Next James Bond Film",
+   "summary_en": "Rwanda’s dramatic landscapes, winding mountain roads and breathtaking natural attractions could soon find themselves in the spotlight of one of the world’s most celebrated film franchises, following a proposal by the British Embassy in Kigali to have scenes of the next James Bond movie shot in the country. The proposal places particular attention on Volcanoes […] The post Why Rwanda’s Volcanoes…",
+   "share_id": "MN202611_ewil8kyp7m"
+  },
+  {
+   "id": "crawl_2dq4cw",
+   "title": "Kagame Joins Fans at Amahoro Stadium For Mali vs Amavubi",
+   "summary": "President Paul Kagame joined thousands of football supporters at Amahoro Stadium in Kigali as the national football team, Amavubi, faced Mali in a crucial 2027 Africa Cup of Nations (AFCON) qualifying encounter. The return-leg fixture, played on Tuesday, November 17, 2026, attracted a massive home crowd, with supporters filling the stadium to rally behind the […] The post Kagame Joins Fans at…",
+   "link": "https://taarifa.rw/2026/11/18/kagame-joins-fans-at-amahoro-stadium-for-mali-vs-amavubi/",
+   "url": "https://taarifa.rw/2026/11/18/kagame-joins-fans-at-amahoro-stadium-for-mali-vs-amavubi/",
+   "date": "2026-11-18T05:41:19.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "Sports"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-18-at-10.43.28-1.jpeg?fit=864%2C1080&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-18-at-10.43.28-1.jpeg?fit=864%2C1080&ssl=1",
+   "title_en": "Kagame Joins Fans at Amahoro Stadium For Mali vs Amavubi",
+   "summary_en": "President Paul Kagame joined thousands of football supporters at Amahoro Stadium in Kigali as the national football team, Amavubi, faced Mali in a crucial 2027 Africa Cup of Nations (AFCON) qualifying encounter. The return-leg fixture, played on Tuesday, November 17, 2026, attracted a massive home crowd, with supporters filling the stadium to rally behind the […] The post Kagame Joins Fans at…",
+   "share_id": "MN202611_2dq4cw3fu6"
+  },
+  {
    "id": "crawl_sbodf3",
    "title": "'Human' is Cambridge Dictionary Word of the Year",
    "summary": "The growth of AI means we need to say when something is made by humans, says the book's editor.",
@@ -587,6 +750,27 @@
    "title_en": "Rubio says US not 'under systemic attack' after series of tech outages",
    "summary_en": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
    "share_id": "MN202611_d8q13rixkl"
+  },
+  {
+   "id": "crawl_1q04ju2",
+   "title": "Rwanda, Austria Explore New Areas of Cooperation in High-Level Vienna Meeting",
+   "summary": "Rwanda and Austria are seeking to strengthen their bilateral relations and explore new opportunities for cooperation following a meeting between senior government officials held in Vienna, Austria. The Minister of State in the Ministry of Foreign Affairs and International Cooperation, Dr Usta Kaitesi, held discussions with Sepp Schellhorn, Austria’s State Secretary at the Federal Ministry […] The…",
+   "link": "https://taarifa.rw/2026/11/18/rwanda-austria-explore-new-areas-of-cooperation-in-high-level-vienna-meeting/",
+   "url": "https://taarifa.rw/2026/11/18/rwanda-austria-explore-new-areas-of-cooperation-in-high-level-vienna-meeting/",
+   "date": "2026-11-18T04:44:43.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "National"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/IMG-20261118-WA0020.jpg?fit=720%2C480&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/IMG-20261118-WA0020.jpg?fit=720%2C480&ssl=1",
+   "title_en": "Rwanda, Austria Explore New Areas of Cooperation in High-Level Vienna Meeting",
+   "summary_en": "Rwanda and Austria are seeking to strengthen their bilateral relations and explore new opportunities for cooperation following a meeting between senior government officials held in Vienna, Austria. The Minister of State in the Ministry of Foreign Affairs and International Cooperation, Dr Usta Kaitesi, held discussions with Sepp Schellhorn, Austria’s State Secretary at the Federal Ministry […] The…",
+   "share_id": "MN202611_1q04ju2l77s"
   },
   {
    "id": "crawl_1i0v7nf",
@@ -729,5 +913,5 @@
    "share_id": "MN202611_12cwcm8p932"
   }
  ],
- "updated": "2026-11-18T10:41:17.662Z"
+ "updated": "2026-11-18T11:28:19.293Z"
 }
