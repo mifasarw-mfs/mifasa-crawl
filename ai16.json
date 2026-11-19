@@ -4821,6 +4821,78 @@
    ],
    "auto": true,
    "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_24bd8a96_q",
+   "label_rw": "Isuku y'amenyo no kuyitaho",
+   "label_en": "Dental hygiene and tooth care",
+   "patterns_en": [
+    "How often should a person brush their teeth?",
+    "What causes tooth decay?",
+    "When should someone visit a dentist?"
+   ],
+   "patterns_rw": [
+    "Ni kangahe umuntu agomba gukaraba amenyo ku munsi?",
+    "Ni iki gitera indwara z'amenyo?",
+    "Ni ryari umuntu agomba gusura muganga w'amenyo?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Isuku y'amenyo ifasha kwirinda indwara z'amenyo n'ubumonyi. Gukaraba amenyo kabiri ku munsi na buruse na paste irimo fluoride bifasha gukuraho ibicuruzwa bisigara mu menyo. Kujya kwa muganga w'amenyo buri gihe bituma amenyo aguma meza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Dental hygiene helps prevent tooth decay and gum diseases. Brushing teeth twice a day with a toothbrush and fluoride toothpaste helps remove food debris. Regular visits to a dentist help maintain good oral health.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_37d5ffe2_q",
+   "label_rw": "Indwara y'isi y'imitsi y'ubwonko",
+   "label_en": "Recognizing signs of stroke",
+   "patterns_en": [
+    "What causes a stroke?",
+    "What are the main symptoms of a stroke?",
+    "What should be done when someone shows stroke symptoms?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera indwara y'isi y'imitsi y'ubwonko?",
+    "Ni ibihe bimenyetso by'ibanze by'iyi ndwara?",
+    "Wakora iki igihe umuntu agaragaje ibimenyetso bya stroke?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Indwara y'isi y'imitsi y'ubwonko iterwa n'uko amaraso adashobora kugera ku bwonko neza. Ibimenyetso bisanzwe birimo kugwa kw'akana ku ruhande rumwe, intege nke mu kuboko, n'imbogamizi mu kuvuga. Igihe ibi bimenyetso bigaragaye, hakenewe ubufasha bw'abaganga vuba.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "A stroke occurs when blood flow to the brain is interrupted. Common signs usually include facial drooping, arm weakness, and speech difficulties. Immediate medical attention is required when these symptoms appear.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_5246f8b9_q",
+   "label_rw": "Akamaro ko kwicara neza",
+   "label_en": "Importance of good posture",
+   "patterns_en": [
+    "What causes back pain?",
+    "How should you sit to protect your spine?",
+    "What are the effects of bad posture?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera uburibazi bw'umugongo?",
+    "Wicara ute kugira ngo umugongo utababaza?",
+    "Kwicara nabi bifite izihe ngaruka?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kwicara neza no guhagarara neza bifasha umugongo gukora neza. Bikabuza uburibazi bw'umugongo n'amagufa. Bisaba ko umugongo ugororoka kandi ibiro bikwira hose.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Good posture helps the spine function properly. It usually prevents back and joint pain. It requires keeping the spine aligned and distributing body weight evenly.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
   }
  ],
  "knowledge": [
@@ -8786,6 +8858,65 @@
     "genetics",
     "biology",
     "ubuzima"
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_24bd8a96",
+   "category": "health",
+   "title_rw": "Isuku y'amenyo no kuyitaho",
+   "title_en": "Dental hygiene and tooth care",
+   "summary_rw": "Isuku y'amenyo ifasha kwirinda indwara z'amenyo n'ubumonyi. Gukaraba amenyo kabiri ku munsi na buruse na paste irimo fluoride bifasha gukuraho ibicuruzwa bisigara mu menyo. Kujya kwa muganga w'amenyo buri gihe bituma amenyo aguma meza.",
+   "summary_en": "Dental hygiene helps prevent tooth decay and gum diseases. Brushing teeth twice a day with a toothbrush and fluoride toothpaste helps remove food debris. Regular visits to a dentist help maintain good oral health.",
+   "keywords": [
+    "amenyo",
+    "teeth",
+    "isuku",
+    "hygiene",
+    "muganga",
+    "dentist",
+    "fluoride",
+    "ubumonyi"
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_37d5ffe2",
+   "category": "health",
+   "title_rw": "Indwara y'isi y'imitsi y'ubwonko",
+   "title_en": "Recognizing signs of stroke",
+   "summary_rw": "Indwara y'isi y'imitsi y'ubwonko iterwa n'uko amaraso adashobora kugera ku bwonko neza. Ibimenyetso bisanzwe birimo kugwa kw'akana ku ruhande rumwe, intege nke mu kuboko, n'imbogamizi mu kuvuga. Igihe ibi bimenyetso bigaragaye, hakenewe ubufasha bw'abaganga vuba.",
+   "summary_en": "A stroke occurs when blood flow to the brain is interrupted. Common signs usually include facial drooping, arm weakness, and speech difficulties. Immediate medical attention is required when these symptoms appear.",
+   "keywords": [
+    "stroke",
+    "ubwonko",
+    "amaraso",
+    "indwara",
+    "ibimenyetso",
+    "abaganga",
+    "ubufasha"
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_5246f8b9",
+   "category": "health",
+   "title_rw": "Akamaro ko kwicara neza",
+   "title_en": "Importance of good posture",
+   "summary_rw": "Kwicara neza no guhagarara neza bifasha umugongo gukora neza. Bikabuza uburibazi bw'umugongo n'amagufa. Bisaba ko umugongo ugororoka kandi ibiro bikwira hose.",
+   "summary_en": "Good posture helps the spine function properly. It usually prevents back and joint pain. It requires keeping the spine aligned and distributing body weight evenly.",
+   "keywords": [
+    "umugongo",
+    "back",
+    "uburibazi",
+    "pain",
+    "kwicara",
+    "posture",
+    "ubuzima",
+    "health"
    ],
    "auto": true,
    "taught": "2026-11-19"
