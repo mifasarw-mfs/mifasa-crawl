@@ -5,8 +5,17 @@
     <link>https://mifasarw.neocities.org/</link>
     <description>Inkuru zigezweho mu Rwanda no ku Isi, na Video za MIFASARW.</description>
     <language>rw</language>
-    <lastBuildDate>Thu, 19 Nov 2026 00:01:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 00:22:40 GMT</lastBuildDate>
     <atom:link href="https://mifasarw.neocities.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nimwakire intashyo z'Inganzongari</title>
+      <link>https://mifasarw.neocities.org/s/MN202611_835zdr6gjh.html</link>
+      <guid isPermaLink="true">https://mifasarw.neocities.org/s/MN202611_835zdr6gjh.html</guid>
+      <pubDate>Thu, 19 Nov 2026 00:22:40 GMT</pubDate>
+      <category>news</category>
+      <description>Nimwakire intashyo z'Inganzongari (Isoko: Kigali Today)</description>
+      <media:thumbnail url="https://www.kigalitoday.com/IMG/png/2026-11-19_02_21_55-_328_beyond_the_stage__getting_to_know_inganzongari._-_youtube.png"/>
+    </item>
     <item>
       <title>Two-hour ambulance handover limit missed more than 2,000 times</title>
       <link>https://mifasarw.neocities.org/s/MN202611_133gvi69rz0.html</link>
@@ -24,6 +33,15 @@
       <category>business</category>
       <description>A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead. (Source: BBC Business)</description>
       <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/decb/live/a6ef9570-e364-11f1-99a1-253766e7ad8b.jpg"/>
+    </item>
+    <item>
+      <title>Why has Waymo pulled all its driverless cars from US freeways?</title>
+      <link>https://mifasarw.neocities.org/s/MN202611_19h9gz62234.html</link>
+      <guid isPermaLink="true">https://mifasarw.neocities.org/s/MN202611_19h9gz62234.html</guid>
+      <pubDate>Wed, 18 Nov 2026 23:47:46 GMT</pubDate>
+      <category>world</category>
+      <description>The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles. (Source: BBC World)</description>
+      <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cf8/live/3bc03860-e3a8-11f1-ae87-b7d1078e8448.jpg"/>
     </item>
     <item>
       <title>Claude-maker Anthropic poised for more than $1.4tn stock market debut</title>
@@ -470,7 +488,7 @@
       <pubDate>Wed, 18 Nov 2026 14:57:00 GMT</pubDate>
       <category>news</category>
       <description>Dr. David Matsanga, Umunya Uganda w’inararibonye muri politiki no gukemura amakimbirane ubarizwa i Paris mu Bufaransa, yanenze cyane imyifatire y’abayobozi bamwe batera isoni umugabane wa Afurika, (…) (Isoko: Kigali Today)</description>
-      <media:thumbnail url="https://www.kigalitoday.com/IMG/png/2026-11-18_12_15_38-_13_brave_etienne_kwizera_on_x___this_man_is_speaking_the_truth_listen_him_afr.png"/>
+      <media:thumbnail url="https://www.kigalitoday.com/IMG/png/2026-11-18_16_31_37-_13_matsanga_-_search___x.png"/>
     </item>
     <item>
       <title>William and Kate meet PM Modi as they wrap up India tour</title>
@@ -525,24 +543,6 @@
       <category>news</category>
       <description>#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda… (Isoko: Radio Rwanda)</description>
       <media:thumbnail url="https://i2.ytimg.com/vi/5EpINyXOoqE/hqdefault.jpg"/>
-    </item>
-    <item>
-      <title>Hacks, AI or just overdue updates - why have there been so many outages?</title>
-      <link>https://mifasarw.neocities.org/s/MN202611_13lld34e9jy.html</link>
-      <guid isPermaLink="true">https://mifasarw.neocities.org/s/MN202611_13lld34e9jy.html</guid>
-      <pubDate>Wed, 18 Nov 2026 13:16:53 GMT</pubDate>
-      <category>tech</category>
-      <description>There is no evidence these are linked, but the constant series of tech disruptions can be unnerving. (Source: BBC Technology)</description>
-      <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4986/live/43b39be0-e34c-11f1-99aa-0f40b013ad11.jpg"/>
-    </item>
-    <item>
-      <title>Rugby TV pundit says sex assault 'never happened'</title>
-      <link>https://mifasarw.neocities.org/s/MN202611_vpw27woyoq.html</link>
-      <guid isPermaLink="true">https://mifasarw.neocities.org/s/MN202611_vpw27woyoq.html</guid>
-      <pubDate>Wed, 18 Nov 2026 13:15:49 GMT</pubDate>
-      <category>entertainment</category>
-      <description>Danika Priim is on trial at Leeds Crown Court after being charged with sexual assault. (Source: BBC Entertainment)</description>
-      <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08bb/live/47d3a410-e34f-11f1-99aa-0f40b013ad11.jpg"/>
     </item>
   </channel>
 </rss>
