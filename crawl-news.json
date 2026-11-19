@@ -1,5 +1,85 @@
 [
  {
+  "id": "crawl_1qf9oc8",
+  "title": "Barcelona target Man Utd's Martinez - Friday's gossip",
+  "summary": "Barcelona interested in Lisandro Martinez, while Manchester United target Fulham defensive pair and Liverpool scout Serie A top scorer, plus more.",
+  "link": "https://www.bbc.co.uk/sport/football/articles/cj5y14g2wppko?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cj5y14g2wppko?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-19T21:57:22.000Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee26/live/3f8fe980-e462-11f1-a094-5fdc692f3e33.png",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee26/live/3f8fe980-e462-11f1-a094-5fdc692f3e33.png",
+  "title_en": "Barcelona target Man Utd's Martinez - Friday's gossip",
+  "summary_en": "Barcelona interested in Lisandro Martinez, while Manchester United target Fulham defensive pair and Liverpool scout Serie A top scorer, plus more.",
+  "share_id": "MN202611_1qf9oc81lqu"
+ },
+ {
+  "id": "crawl_jurj07",
+  "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+  "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+  "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-19T21:38:42.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
+  "title_en": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+  "summary_en": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+  "share_id": "MN202611_jurj07kfh1"
+ },
+ {
+  "id": "crawl_12k99vd",
+  "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+  "summary": "\"She fought until she couldn’t anymore,\" the Cincinnati Zoo said in a statement. Fiona became ill a few days after the incident.",
+  "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-19T21:26:10.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0deb/live/75026a20-e45d-11f1-a599-65f550c2a35a.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0deb/live/75026a20-e45d-11f1-a599-65f550c2a35a.jpg",
+  "title_en": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+  "summary_en": "\"She fought until she couldn’t anymore,\" the Cincinnati Zoo said in a statement. Fiona became ill a few days after the incident.",
+  "share_id": "MN202611_12k99vd26c7"
+ },
+ {
+  "id": "crawl_1l6mzyf",
+  "title": "Rob Brydon says he invented his own fake agent to negotiate fees",
+  "summary": "The comedian and actor says he \"invented a guy called Richard Knight\" to negotiate on his behalf.",
+  "link": "https://www.bbc.co.uk/news/articles/ck20w02v79qgo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/ck20w02v79qgo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-19T21:14:23.000Z",
+  "source": "BBC Entertainment",
+  "category": "entertainment",
+  "lang": "en",
+  "keywords": [
+   "BBC Entertainment",
+   "entertainment"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40a4/live/86ff04a0-e45c-11f1-a599-65f550c2a35a.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40a4/live/86ff04a0-e45c-11f1-a599-65f550c2a35a.jpg",
+  "title_en": "Rob Brydon says he invented his own fake agent to negotiate fees",
+  "summary_en": "The comedian and actor says he \"invented a guy called Richard Knight\" to negotiate on his behalf.",
+  "share_id": "MN202611_1l6mzyffwf9"
+ },
+ {
   "id": "crawl_1lhi5vh",
   "title": "Shevchenko accuses Mudryk camp of 'baseless slander'",
   "summary": "Ukraine great Andriy Shevchenko accuses Mykhailo Mudryk of a \"baseless slander\" after the on-loan Tottenham winger blamed his failed drugs test on the nation's football association.",
@@ -3102,11 +3182,11 @@
   "link": "https://www.youtube.com/watch?v=YDNs_sPEcJc",
   "url": "https://www.youtube.com/watch?v=YDNs_sPEcJc",
   "date": "2026-11-18T18:23:40.000Z",
-  "source": "YouTube Trending Kenya",
+  "source": "YouTube Trending Uganda",
   "category": "entertainment",
   "lang": "en",
   "keywords": [
-   "YouTube Trending Kenya",
+   "YouTube Trending Uganda",
    "entertainment",
    "trending",
    "GTA 6",
@@ -4608,12 +4688,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-18T09:28:35.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Technology",
+  "category": "tech",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Technology",
+   "tech"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee74/live/b9842e30-e337-11f1-9479-d17d3e98c29d.png",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee74/live/b9842e30-e337-11f1-9479-d17d3e98c29d.png",
@@ -5700,12 +5780,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-17T21:45:13.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Business",
+  "category": "business",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Business",
+   "business"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
@@ -17137,85 +17217,5 @@
   "title_en": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
   "summary_en": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory.",
   "share_id": "MN202611_9pbgro4d8i"
- },
- {
-  "id": "crawl_14q5p5z",
-  "title": "What could El Niño mean for winter weather in the US and Canada?",
-  "summary": "El Niño winters typically bring more rain in the southern USA and drier, warmer conditions further north but the impacts on snowfall are complex.",
-  "link": "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-13T18:50:15.000Z",
-  "source": "BBC Science",
-  "category": "science",
-  "lang": "en",
-  "keywords": [
-   "BBC Science",
-   "science"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0340/live/da88e130-bfdc-11f1-b4e6-d96c2bf27b65.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0340/live/da88e130-bfdc-11f1-b4e6-d96c2bf27b65.jpg",
-  "title_en": "What could El Niño mean for winter weather in the US and Canada?",
-  "summary_en": "El Niño winters typically bring more rain in the southern USA and drier, warmer conditions further north but the impacts on snowfall are complex.",
-  "share_id": "MN202611_14q5p5znrr9"
- },
- {
-  "id": "crawl_16pb02j",
-  "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
-  "summary": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi.",
-  "link": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-13T18:36:27.000Z",
-  "source": "BBC Africa",
-  "category": "news",
-  "lang": "en",
-  "keywords": [
-   "BBC Africa",
-   "news"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/526a/live/09935180-dfaa-11f1-a701-fddedf244c16.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/526a/live/09935180-dfaa-11f1-a701-fddedf244c16.jpg",
-  "title_en": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
-  "summary_en": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi.",
-  "share_id": "MN202611_16pb02j2xh5"
- },
- {
-  "id": "crawl_byodgf",
-  "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-  "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
-  "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-13T18:34:45.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/566c/live/8649d9e0-df84-11f1-a8e2-5b59832bb2f1.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/566c/live/8649d9e0-df84-11f1-a8e2-5b59832bb2f1.jpg",
-  "title_en": "The Peruvian city that has embraced Pope Leo as one of its own",
-  "summary_en": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
-  "share_id": "MN202611_byodgfh9x9"
- },
- {
-  "id": "crawl_1n07tx5",
-  "title": "EFL warns clubs over social media posts",
-  "summary": "The English Football League (EFL) warns its members about their usage of posts on social media.",
-  "link": "https://www.bbc.co.uk/sport/football/articles/cmqj5r8edvneo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cmqj5r8edvneo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-13T18:20:17.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b02d/live/e876d9a0-df8a-11f1-a5d4-0b20a170e974.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b02d/live/e876d9a0-df8a-11f1-a5d4-0b20a170e974.jpg",
-  "title_en": "EFL warns clubs over social media posts",
-  "summary_en": "The English Football League (EFL) warns its members about their usage of posts on social media.",
-  "share_id": "MN202611_1n07tx5zrbr"
  }
 ]

@@ -1,7 +1,87 @@
 {
  "day": "2026-11-19",
- "count": 88,
+ "count": 92,
  "articles": [
+  {
+   "id": "crawl_1qf9oc8",
+   "title": "Barcelona target Man Utd's Martinez - Friday's gossip",
+   "summary": "Barcelona interested in Lisandro Martinez, while Manchester United target Fulham defensive pair and Liverpool scout Serie A top scorer, plus more.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj5y14g2wppko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cj5y14g2wppko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T21:57:22.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee26/live/3f8fe980-e462-11f1-a094-5fdc692f3e33.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee26/live/3f8fe980-e462-11f1-a094-5fdc692f3e33.png",
+   "title_en": "Barcelona target Man Utd's Martinez - Friday's gossip",
+   "summary_en": "Barcelona interested in Lisandro Martinez, while Manchester United target Fulham defensive pair and Liverpool scout Serie A top scorer, plus more.",
+   "share_id": "MN202611_1qf9oc81lqu"
+  },
+  {
+   "id": "crawl_jurj07",
+   "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+   "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+   "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T21:38:42.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+   "summary_en": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+   "share_id": "MN202611_jurj07kfh1"
+  },
+  {
+   "id": "crawl_12k99vd",
+   "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+   "summary": "\"She fought until she couldn’t anymore,\" the Cincinnati Zoo said in a statement. Fiona became ill a few days after the incident.",
+   "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T21:26:10.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0deb/live/75026a20-e45d-11f1-a599-65f550c2a35a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0deb/live/75026a20-e45d-11f1-a599-65f550c2a35a.jpg",
+   "title_en": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+   "summary_en": "\"She fought until she couldn’t anymore,\" the Cincinnati Zoo said in a statement. Fiona became ill a few days after the incident.",
+   "share_id": "MN202611_12k99vd26c7"
+  },
+  {
+   "id": "crawl_1l6mzyf",
+   "title": "Rob Brydon says he invented his own fake agent to negotiate fees",
+   "summary": "The comedian and actor says he \"invented a guy called Richard Knight\" to negotiate on his behalf.",
+   "link": "https://www.bbc.co.uk/news/articles/ck20w02v79qgo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ck20w02v79qgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T21:14:23.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40a4/live/86ff04a0-e45c-11f1-a599-65f550c2a35a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40a4/live/86ff04a0-e45c-11f1-a599-65f550c2a35a.jpg",
+   "title_en": "Rob Brydon says he invented his own fake agent to negotiate fees",
+   "summary_en": "The comedian and actor says he \"invented a guy called Richard Knight\" to negotiate on his behalf.",
+   "share_id": "MN202611_1l6mzyffwf9"
+  },
   {
    "id": "crawl_1lhi5vh",
    "title": "Shevchenko accuses Mudryk camp of 'baseless slander'",
@@ -1793,5 +1873,5 @@
    "share_id": "MN202611_492yq9vv73"
   }
  ],
- "updated": "2026-11-19T21:17:49.629Z"
+ "updated": "2026-11-19T22:06:52.197Z"
 }
