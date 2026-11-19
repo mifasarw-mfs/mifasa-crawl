@@ -1,7 +1,67 @@
 {
  "day": "2026-11-19",
- "count": 92,
+ "count": 95,
  "articles": [
+  {
+   "id": "crawl_13sxktq",
+   "title": "California probing whether China improperly acquired Nvidia technology",
+   "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+   "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T23:04:30.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg",
+   "title_en": "California probing whether China improperly acquired Nvidia technology",
+   "summary_en": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+   "share_id": "MN202611_13sxktqqhak"
+  },
+  {
+   "id": "crawl_tsjgn2",
+   "title": "Lyon outclass Arsenal for Champions League win",
+   "summary": "Arsenal fall to a 2-0 defeat against a superior Lyon side in the Women's Champions League, dealing a blow to their hopes of automatic quarter-final qualification.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T22:56:07.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65a8/live/85a48b70-e461-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65a8/live/85a48b70-e461-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "Lyon outclass Arsenal for Champions League win",
+   "summary_en": "Arsenal fall to a 2-0 defeat against a superior Lyon side in the Women's Champions League, dealing a blow to their hopes of automatic quarter-final qualification.",
+   "share_id": "MN202611_tsjgn2ws4c"
+  },
+  {
+   "id": "crawl_q37px8",
+   "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+   "summary": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
+   "link": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T22:48:22.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d77/live/35f78600-e465-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d77/live/35f78600-e465-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+   "summary_en": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
+   "share_id": "MN202611_q37px80me2"
+  },
   {
    "id": "crawl_1qf9oc8",
    "title": "Barcelona target Man Utd's Martinez - Friday's gossip",
@@ -1873,5 +1933,5 @@
    "share_id": "MN202611_492yq9vv73"
   }
  ],
- "updated": "2026-11-19T22:06:52.197Z"
+ "updated": "2026-11-19T23:13:26.409Z"
 }
