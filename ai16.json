@@ -5013,6 +5013,150 @@
    ],
    "auto": true,
    "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_d983e474_q",
+   "label_rw": "Gucunga imyitozo yo mu rugo no kwiga wenyine",
+   "label_en": "Homework management and independent study",
+   "patterns_en": [
+    "How can I create a good study schedule?",
+    "What are the benefits of doing homework?",
+    "Where is the best place to study independently?"
+   ],
+   "patterns_rw": [
+    "Ni gute nabona gahunda nziza yo kwiga wenyine?",
+    "Ese gukora imyitozo yo mu rugo bifasha iki?",
+    "Ni he hantu heza ho kwigira?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gucunga imyitozo yo mu rugo no kwiga wenyine bifasha abanyeshuri gutsinda neza. Biteganya igihe cyo kwiga, gushyira ibibanze imbere, no gushaka ahantu hatuje. Kwiga wenyine bituma umunyeshuri amenya kwifatira ibyemezo no kumva amasomo neza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Homework management and independent study help students succeed academically. These practices involve scheduling study time, prioritizing tasks, and finding a quiet environment. Independent study develops self-discipline and deeper understanding of academic subjects.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_d0049bc2_q",
+   "label_rw": "Gukoresha Isomero",
+   "label_en": "Library Usage",
+   "patterns_en": [
+    "Why is a library helpful for students?",
+    "How can we find a book in a library?",
+    "What kind of information is found in a library?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma isomero rifasha abanyeshuri?",
+    "Twashaka dute igitabo mu isomero?",
+    "Amakuru aboneka mu isomero aba ameze ate?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Isomero ni ahantu hafasha abanyeshuri n'abashakashatsi kubona ibitabo n'inyandiko zikenerwa. Gusura isomero bifasha kwiga neza no kubona amakuru yizewe. Abasomyi bashobora gushaka ibitabo bakoresheje amazina yabyo cyangwa ababanditsi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "A library is a place that helps students and researchers find necessary books and documents. Visiting a library helps in studying well and finding reliable information. Readers can usually search for books using their titles or authors.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_dd2ffde8_q",
+   "label_rw": "Gufashanya mu kwiga no kugira abajyanama",
+   "label_en": "Peer tutoring and mentoring programs",
+   "patterns_en": [
+    "How does peer tutoring help students?",
+    "Who usually provides support in mentoring programs?",
+    "How do these programs contribute to student development?"
+   ],
+   "patterns_rw": [
+    "Gufashanya mu kwiga bifasha bite abanyeshuri?",
+    "Ni bande batanga ubufasha muri gahunda zo kugira abajyanama?",
+    "Gahunda zo gufashanya zifasha zite mu iterambere ry'abanyeshuri?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gufashanya mu kwiga no kugira abajyanama bituma abanyeshuri bafashanya mu masomo no mu iterambere ryabo. Abanyeshuri bakuze cyangwa abafite ubumenyi bwinshi baha ubufasha abandi. Ibi bikoresha uburyo bwo gusangira ubumenyi. Byongera icyizere no gutsinda mu ishuri.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Peer tutoring and mentoring programs typically involve students helping each other with academics and personal growth. Older or more knowledgeable students usually support their peers. This approach fosters knowledge sharing and builds academic confidence.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_8281909e_q",
+   "label_rw": "Umutekano kuri interineti ku banyeshuri",
+   "label_en": "Online safety for students",
+   "patterns_en": [
+    "How can I maintain my safety online?",
+    "What personal information should not be shared with others?",
+    "How should we behave on social media?"
+   ],
+   "patterns_rw": [
+    "Ni gute nabungabunga umutekano wanjye kuri interineti?",
+    "Ni ayahe makuru y'ingenzi ntihakwiye gusangira n'abandi?",
+    "Twitwara dute ku mbuga nkoranyambaga?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Umutekano kuri interineti ni ingenzi ku banyeshuri. Abanyeshuri bagomba kurinda amakuru yabo bwite. Ntibagomba gusangira amabanga yabo n'abantu batazi. Bagomba kandi kwitwara neza no kubaha abandi mu gihe bari ku mbuga nkoranyambaga.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Online safety is important for students. Students should protect their personal information. They should not share private details with strangers. They must also behave well and respect others while using social media.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_6ea283e5_q",
+   "label_rw": "Ubuzima n'imirire byiza mu mashuri",
+   "label_en": "Health and nutrition for academic performance",
+   "patterns_en": [
+    "How does a balanced diet help students?",
+    "Why should a student care about their health?",
+    "What is the role of good health in school?"
+   ],
+   "patterns_rw": [
+    "Ese imirire yuzuye ifasha ute abanyeshuri?",
+    "Ni iki gituma umunyeshuri agomba kwitwararika ku buzima bwe?",
+    "Amagara mazima agira akahe kamaro mu ishuri?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kurya indyo yuzuye bifasha abanyeshuri kwiga neza. Ubwonko bukeneka intungamubiri kugira ngo bukore neza. Kunywa amazi ahagije bituma umunyeshuri atagira umunaniro mu ishuri. Amagara mazima atuma abana batiga basiba.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Eating a balanced diet generally helps students learn better. The brain typically needs proper nutrients to function well. Drinking enough water often prevents fatigue in class. Good health usually reduces student absenteeism.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_7357f433_q",
+   "label_rw": "Gusobanukirwa raporo z'ishuri",
+   "label_en": "Understanding school reports",
+   "patterns_en": [
+    "What is the purpose of a school report?",
+    "What information is in a school report?",
+    "Why is reading school reports important?"
+   ],
+   "patterns_rw": [
+    "Raporo y'ishuri imaze iki?",
+    "Ni iki kiba muri raporo y'ishuri?",
+    "Kuki gusoma raporo ari ingenzi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Raporo z'ishuri zerekana uko umunyeshuri yatsinze mu masomo n'imyitwarire ye. Ababyeyi basoma izi raporo kugira ngo bamenye aho umwana akomeye n'aho akeneye ubufasha. Ibi bifasha ababyeyi n'abarimu gukorana kugira ngo umwana atere imbere mu myigire ye.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "School reports show a student's academic performance and behavior. Parents read these reports to understand where a child is strong and where they need help. This helps parents and teachers work together to support the child's learning progress.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
   }
  ],
  "knowledge": [
@@ -9136,6 +9280,126 @@
     "business",
     "legal",
     "agreement"
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_d983e474",
+   "category": "education",
+   "title_rw": "Gucunga imyitozo yo mu rugo no kwiga wenyine",
+   "title_en": "Homework management and independent study",
+   "summary_rw": "Gucunga imyitozo yo mu rugo no kwiga wenyine bifasha abanyeshuri gutsinda neza. Biteganya igihe cyo kwiga, gushyira ibibanze imbere, no gushaka ahantu hatuje. Kwiga wenyine bituma umunyeshuri amenya kwifatira ibyemezo no kumva amasomo neza.",
+   "summary_en": "Homework management and independent study help students succeed academically. These practices involve scheduling study time, prioritizing tasks, and finding a quiet environment. Independent study develops self-discipline and deeper understanding of academic subjects.",
+   "keywords": [
+    "imyitozo",
+    "kwiga",
+    "ishyaka",
+    "gahunda",
+    "homework",
+    "study",
+    "schedule",
+    "success"
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_d0049bc2",
+   "category": "education",
+   "title_rw": "Gukoresha Isomero",
+   "title_en": "Library Usage",
+   "summary_rw": "Isomero ni ahantu hafasha abanyeshuri n'abashakashatsi kubona ibitabo n'inyandiko zikenerwa. Gusura isomero bifasha kwiga neza no kubona amakuru yizewe. Abasomyi bashobora gushaka ibitabo bakoresheje amazina yabyo cyangwa ababanditsi.",
+   "summary_en": "A library is a place that helps students and researchers find necessary books and documents. Visiting a library helps in studying well and finding reliable information. Readers can usually search for books using their titles or authors.",
+   "keywords": [
+    "isomero",
+    "library",
+    "ibitabo",
+    "books",
+    "amakuru",
+    "information",
+    "ubushakashatsi",
+    "research"
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_dd2ffde8",
+   "category": "education",
+   "title_rw": "Gufashanya mu kwiga no kugira abajyanama",
+   "title_en": "Peer tutoring and mentoring programs",
+   "summary_rw": "Gufashanya mu kwiga no kugira abajyanama bituma abanyeshuri bafashanya mu masomo no mu iterambere ryabo. Abanyeshuri bakuze cyangwa abafite ubumenyi bwinshi baha ubufasha abandi. Ibi bikoresha uburyo bwo gusangira ubumenyi. Byongera icyizere no gutsinda mu ishuri.",
+   "summary_en": "Peer tutoring and mentoring programs typically involve students helping each other with academics and personal growth. Older or more knowledgeable students usually support their peers. This approach fosters knowledge sharing and builds academic confidence.",
+   "keywords": [
+    "kwiga",
+    "ubufasha",
+    "abajyanama",
+    "abanyeshuri",
+    "ubumenyi",
+    "learning",
+    "tutoring",
+    "mentoring"
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_8281909e",
+   "category": "education",
+   "title_rw": "Umutekano kuri interineti ku banyeshuri",
+   "title_en": "Online safety for students",
+   "summary_rw": "Umutekano kuri interineti ni ingenzi ku banyeshuri. Abanyeshuri bagomba kurinda amakuru yabo bwite. Ntibagomba gusangira amabanga yabo n'abantu batazi. Bagomba kandi kwitwara neza no kubaha abandi mu gihe bari ku mbuga nkoranyambaga.",
+   "summary_en": "Online safety is important for students. Students should protect their personal information. They should not share private details with strangers. They must also behave well and respect others while using social media.",
+   "keywords": [
+    "interineti",
+    "internet",
+    "umutekano",
+    "safety",
+    "uburenganzira",
+    "citizenship",
+    "abanyeshuri",
+    "students"
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_6ea283e5",
+   "category": "education",
+   "title_rw": "Ubuzima n'imirire byiza mu mashuri",
+   "title_en": "Health and nutrition for academic performance",
+   "summary_rw": "Kurya indyo yuzuye bifasha abanyeshuri kwiga neza. Ubwonko bukeneka intungamubiri kugira ngo bukore neza. Kunywa amazi ahagije bituma umunyeshuri atagira umunaniro mu ishuri. Amagara mazima atuma abana batiga basiba.",
+   "summary_en": "Eating a balanced diet generally helps students learn better. The brain typically needs proper nutrients to function well. Drinking enough water often prevents fatigue in class. Good health usually reduces student absenteeism.",
+   "keywords": [
+    "ubuzima",
+    "imirire",
+    "amashuri",
+    "ubwonko",
+    "health",
+    "nutrition",
+    "school",
+    "students"
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_7357f433",
+   "category": "education",
+   "title_rw": "Gusobanukirwa raporo z'ishuri",
+   "title_en": "Understanding school reports",
+   "summary_rw": "Raporo z'ishuri zerekana uko umunyeshuri yatsinze mu masomo n'imyitwarire ye. Ababyeyi basoma izi raporo kugira ngo bamenye aho umwana akomeye n'aho akeneye ubufasha. Ibi bifasha ababyeyi n'abarimu gukorana kugira ngo umwana atere imbere mu myigire ye.",
+   "summary_en": "School reports show a student's academic performance and behavior. Parents read these reports to understand where a child is strong and where they need help. This helps parents and teachers work together to support the child's learning progress.",
+   "keywords": [
+    "raporo",
+    "ishuri",
+    "ababyeyi",
+    "abarimu",
+    "amasomo",
+    "report",
+    "school",
+    "parents"
    ],
    "auto": true,
    "taught": "2026-11-19"
