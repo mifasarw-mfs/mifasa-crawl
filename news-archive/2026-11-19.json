@@ -1,7 +1,67 @@
 {
  "day": "2026-11-19",
- "count": 84,
+ "count": 87,
  "articles": [
+  {
+   "id": "crawl_1955rx3",
+   "title": "Frank happy to be 'back in the circus' at Palace",
+   "summary": "Thomas Frank is happy to be \"back in the circus\" after speaking at his first news conference as Crystal Palace manager.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cje3900n0vvro?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cje3900n0vvro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T20:16:10.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33ef/live/c3f26550-e452-11f1-8a3d-bb9751dc9556.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33ef/live/c3f26550-e452-11f1-8a3d-bb9751dc9556.jpg",
+   "title_en": "Frank happy to be 'back in the circus' at Palace",
+   "summary_en": "Thomas Frank is happy to be \"back in the circus\" after speaking at his first news conference as Crystal Palace manager.",
+   "share_id": "MN202611_1955rx3xpbp"
+  },
+  {
+   "id": "crawl_1c7c3gn",
+   "title": "Oil firm fined for breaking environmental rules hundreds of times",
+   "summary": "Ten charges involved oil, cyanide and other pollutants entering local waterways.",
+   "link": "https://www.bbc.co.uk/news/articles/cmwy5de1177yo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmwy5de1177yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T19:58:27.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a4/live/abc74840-e440-11f1-9192-3924a59e54c7.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a4/live/abc74840-e440-11f1-9192-3924a59e54c7.jpg",
+   "title_en": "Oil firm fined for breaking environmental rules hundreds of times",
+   "summary_en": "Ten charges involved oil, cyanide and other pollutants entering local waterways.",
+   "share_id": "MN202611_1c7c3gn4zxh"
+  },
+  {
+   "id": "crawl_crr702",
+   "title": "Congo’s FRN-M23 Rebels Plan 3,300 Houses to Ease Goma Housing Crisis",
+   "summary": "A new residential development of more than 3,000 houses is being planned outside Goma, eastern Democratic Republic of Congo (DRC), as pressure on housing continues to grow in the region’s… The post Congo’s FRN-M23 Rebels Plan 3,300 Houses to Ease Goma Housing Crisis appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/congos-frn-m23-rebels-plan-3300-houses-to-ease-goma-housing-crisis/",
+   "url": "https://www.ktpress.rw/2026/11/congos-frn-m23-rebels-plan-3300-houses-to-ease-goma-housing-crisis/",
+   "date": "2026-11-19T19:29:14.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "Regional",
+    "latestnews"
+   ],
+   "title_en": "Congo’s FRN-M23 Rebels Plan 3,300 Houses to Ease Goma Housing Crisis",
+   "summary_en": "A new residential development of more than 3,000 houses is being planned outside Goma, eastern Democratic Republic of Congo (DRC), as pressure on housing continues to grow in the region’s… The post Congo’s FRN-M23 Rebels Plan 3,300 Houses to Ease Goma Housing Crisis appeared first on KT PRESS .",
+   "share_id": "MN202611_crr702ignk"
+  },
   {
    "id": "crawl_blciqs",
    "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
@@ -1713,5 +1773,5 @@
    "share_id": "MN202611_492yq9vv73"
   }
  ],
- "updated": "2026-11-19T19:30:52.940Z"
+ "updated": "2026-11-19T20:27:39.592Z"
 }
