@@ -1,7 +1,27 @@
 {
  "day": "2026-11-19",
- "count": 7,
+ "count": 8,
  "articles": [
+  {
+   "id": "crawl_6twl1x",
+   "title": "Elon Musk avuga ko amafaranga ya mbere menshi yashyize mu matora yo hagati muri manda yatumye yumva ari 'umupfapfa cyane'",
+   "summary": "Uyu muherwe utunze za miliyari nyinshi z'amadolari yanavuze ko ataba muri MAGA, yitandukanya n'iyo nkubiri ya politike ifitanye isano na Trump.",
+   "link": "https://www.bbc.co.uk/gahuza/live/cm15ez8p21d0t?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/gahuza/live/cm15ez8p21d0t?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T04:28:16.345Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a434/live/16d9f660-e3cd-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a434/live/16d9f660-e3cd-11f1-99b6-a35a62fa4264.jpg",
+   "title_rw": "Elon Musk avuga ko amafaranga ya mbere menshi yashyize mu matora yo hagati muri manda yatumye yumva ari 'umupfapfa cyane'",
+   "summary_rw": "Uyu muherwe utunze za miliyari nyinshi z'amadolari yanavuze ko ataba muri MAGA, yitandukanya n'iyo nkubiri ya politike ifitanye isano na Trump.",
+   "share_id": "MN202611_6twl1xt84z"
+  },
   {
    "id": "crawl_7q8075",
    "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
@@ -145,5 +165,5 @@
    "share_id": "MN202611_492yq9vv73"
   }
  ],
- "updated": "2026-11-19T02:08:23.962Z"
+ "updated": "2026-11-19T04:29:38.102Z"
 }
