@@ -1,6 +1,6 @@
 {
  "day": "2026-11-18",
- "count": 110,
+ "count": 112,
  "articles": [
   {
    "id": "crawl_18ancrk",
@@ -21,6 +21,26 @@
    "title_en": "Claude-maker Anthropic poised for $1.4tn stock market debut",
    "summary_en": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
    "share_id": "MN202611_18ancrkg98e"
+  },
+  {
+   "id": "crawl_zqggvh",
+   "title": "Russian man accused of spying on US tech defence company that assists Ukraine",
+   "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+   "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T23:28:03.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb01/live/85dba110-e39d-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb01/live/85dba110-e39d-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Russian man accused of spying on US tech defence company that assists Ukraine",
+   "summary_en": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+   "share_id": "MN202611_zqggvh9dcb"
   },
   {
    "id": "crawl_e79ys2",
@@ -124,6 +144,26 @@
    "title_en": "Man Utd pursuing Como's Paz - Thursday's gossip",
    "summary_en": "Manchester United pursuing Nico Paz, Besiktas plot move for Amad Diallo, Barcelona to rebuff offers for Alejandro Balde, plus more.",
    "share_id": "MN202611_11figncae1y"
+  },
+  {
+   "id": "crawl_pf10cd",
+   "title": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
+   "summary": "The Prince and Princess of Wales ended their three-day trip to India on Wednesday, the couple's first international tour since 2022.",
+   "link": "https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T22:32:47.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e88/live/842b0ae0-e39d-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e88/live/842b0ae0-e39d-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
+   "summary_en": "The Prince and Princess of Wales ended their three-day trip to India on Wednesday, the couple's first international tour since 2022.",
+   "share_id": "MN202611_pf10cdxnff"
   },
   {
    "id": "crawl_r0sv8b",
@@ -2232,5 +2272,5 @@
    "share_id": "MN202611_12cwcm8p932"
   }
  ],
- "updated": "2026-11-18T23:41:50.761Z"
+ "updated": "2026-11-19T00:24:10.120Z"
 }

@@ -1,11 +1,31 @@
 [
  {
-  "id": "crawl_18ancrk",
-  "title": "Claude-maker Anthropic poised for $1.4tn stock market debut",
-  "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
-  "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-18T23:36:04.000Z",
+  "id": "crawl_133gvi6",
+  "title": "Two-hour ambulance handover limit missed more than 2,000 times",
+  "summary": "Achieving the two-hour protocol over the winter will be \"very challenging\", says a senior doctor.",
+  "link": "https://www.bbc.co.uk/news/articles/cm752zx62n62o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cm752zx62n62o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-19T00:01:29.000Z",
+  "source": "BBC Health",
+  "category": "health",
+  "lang": "en",
+  "keywords": [
+   "BBC Health",
+   "health"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af28/live/7c382990-e36a-11f1-9f51-4bfc31543510.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af28/live/7c382990-e36a-11f1-9f51-4bfc31543510.jpg",
+  "title_en": "Two-hour ambulance handover limit missed more than 2,000 times",
+  "summary_en": "Achieving the two-hour protocol over the winter will be \"very challenging\", says a senior doctor.",
+  "share_id": "MN202611_133gvi69rz0"
+ },
+ {
+  "id": "crawl_492yq9",
+  "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+  "summary": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+  "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-19T00:00:59.000Z",
   "source": "BBC Business",
   "category": "business",
   "lang": "en",
@@ -13,11 +33,51 @@
    "BBC Business",
    "business"
   ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/decb/live/a6ef9570-e364-11f1-99a1-253766e7ad8b.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/decb/live/a6ef9570-e364-11f1-99a1-253766e7ad8b.jpg",
+  "title_en": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+  "summary_en": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+  "share_id": "MN202611_492yq9vv73"
+ },
+ {
+  "id": "crawl_18ancrk",
+  "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+  "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+  "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-18T23:36:04.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
-  "title_en": "Claude-maker Anthropic poised for $1.4tn stock market debut",
+  "title_en": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
   "summary_en": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
   "share_id": "MN202611_18ancrkg98e"
+ },
+ {
+  "id": "crawl_zqggvh",
+  "title": "Russian man accused of spying on US tech defence company that assists Ukraine",
+  "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+  "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-18T23:28:03.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb01/live/85dba110-e39d-11f1-a094-5fdc692f3e33.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb01/live/85dba110-e39d-11f1-a094-5fdc692f3e33.jpg",
+  "title_en": "Russian man accused of spying on US tech defence company that assists Ukraine",
+  "summary_en": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+  "share_id": "MN202611_zqggvh9dcb"
  },
  {
   "id": "crawl_e79ys2",
@@ -121,6 +181,26 @@
   "title_en": "Man Utd pursuing Como's Paz - Thursday's gossip",
   "summary_en": "Manchester United pursuing Nico Paz, Besiktas plot move for Amad Diallo, Barcelona to rebuff offers for Alejandro Balde, plus more.",
   "share_id": "MN202611_11figncae1y"
+ },
+ {
+  "id": "crawl_pf10cd",
+  "title": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
+  "summary": "The Prince and Princess of Wales ended their three-day trip to India on Wednesday, the couple's first international tour since 2022.",
+  "link": "https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-18T22:32:47.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e88/live/842b0ae0-e39d-11f1-a094-5fdc692f3e33.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e88/live/842b0ae0-e39d-11f1-a094-5fdc692f3e33.jpg",
+  "title_en": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
+  "summary_en": "The Prince and Princess of Wales ended their three-day trip to India on Wednesday, the couple's first international tour since 2022.",
+  "share_id": "MN202611_pf10cdxnff"
  },
  {
   "id": "crawl_r0sv8b",
@@ -17107,85 +17187,5 @@
   "title_en": "Brand will face 'hell on earth' in Wandsworth prison, says former inmate",
   "summary_en": "The disgraced entertainer was sentenced to 10 years and six months for rape and sexual assault.",
   "share_id": "MN202611_ifhl5dahm7"
- },
- {
-  "id": "crawl_ehxxd1",
-  "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-  "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
-  "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-13T00:13:35.000Z",
-  "source": "BBC Business",
-  "category": "business",
-  "lang": "en",
-  "keywords": [
-   "BBC Business",
-   "business"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8436/live/9852bb70-d6a6-11f1-b441-2b33b063138f.png",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8436/live/9852bb70-d6a6-11f1-b441-2b33b063138f.png",
-  "title_en": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-  "summary_en": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
-  "share_id": "MN202611_ehxxd1qttv"
- },
- {
-  "id": "crawl_cgwh2g",
-  "title": "Zimbabwe beat Afghanistan by 57 runs to win series - second Test scorecard",
-  "summary": "Latest scorecard from the second Test between Afghanistan and Zimbabwe in Sharjah.",
-  "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244571?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244571?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-13T00:00:00.000Z",
-  "source": "BBC Sport Africa",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Sport Africa",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6d5/live/c578bf90-dcf1-11f1-b441-2b33b063138f.png",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6d5/live/c578bf90-dcf1-11f1-b441-2b33b063138f.png",
-  "title_en": "Zimbabwe beat Afghanistan by 57 runs to win series - second Test scorecard",
-  "summary_en": "Latest scorecard from the second Test between Afghanistan and Zimbabwe in Sharjah.",
-  "share_id": "MN202611_cgwh2gfix2"
- },
- {
-  "id": "crawl_ha7obw",
-  "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
-  "summary": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
-  "link": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-12T23:42:52.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63ae/live/32b2b320-def2-11f1-a701-fddedf244c16.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63ae/live/32b2b320-def2-11f1-a701-fddedf244c16.jpg",
-  "title_en": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
-  "summary_en": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
-  "share_id": "MN202611_ha7obw4bey"
- },
- {
-  "id": "crawl_qwucok",
-  "title": "Football Daily",
-  "summary": "Harry Kane becomes the most-capped England men's player in history.",
-  "link": "https://www.bbc.co.uk/sounds/play/p0pmqwrn?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sounds/play/p0pmqwrn?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-12T23:37:00.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg",
-  "title_en": "Football Daily",
-  "summary_en": "Harry Kane becomes the most-capped England men's player in history.",
-  "share_id": "MN202611_qwucoknh76"
  }
 ]
