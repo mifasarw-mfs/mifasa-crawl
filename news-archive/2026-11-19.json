@@ -1,7 +1,30 @@
 {
  "day": "2026-11-19",
- "count": 28,
+ "count": 29,
  "articles": [
+  {
+   "id": "crawl_aoqmuq",
+   "title": "Amategeko icumi y'abahutu: Dore ingingo yatumye abagore bibasirwa muri Jenoside yakorewe abatutsi",
+   "summary": "Urukiko rwa rubanda rw’i Paris rwatangiye kuburanisha urubanza ruregwamo Madjaliwa Safari, umunyarwanda uba mu Bufaransa ushinjwa icyaha cya Jenoside yakorewe Abatutsi muri Mata 1994 n’ibindi (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/amategeko-icumi-y-abahutu-dore-ingingo-yatumye-abagore-bibasirwa-muri-jenoside-yakorewe-abatutsi",
+   "url": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/amategeko-icumi-y-abahutu-dore-ingingo-yatumye-abagore-bibasirwa-muri-jenoside-yakorewe-abatutsi",
+   "date": "2026-11-19T10:43:57.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu mahanga",
+    "MobileBigStory",
+    "Jean de la Croix Tabaro"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-19_at_12.38_06.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-19_at_12.38_06.jpg",
+   "title_rw": "Amategeko icumi y'abahutu: Dore ingingo yatumye abagore bibasirwa muri Jenoside yakorewe abatutsi",
+   "summary_rw": "Urukiko rwa rubanda rw’i Paris rwatangiye kuburanisha urubanza ruregwamo Madjaliwa Safari, umunyarwanda uba mu Bufaransa ushinjwa icyaha cya Jenoside yakorewe Abatutsi muri Mata 1994 n’ibindi (…)",
+   "share_id": "MN202611_aoqmuqil5c"
+  },
   {
    "id": "crawl_grhv72",
    "title": "'I'm very healthy' - Kompany to return to dugout after health scare",
@@ -566,5 +589,5 @@
    "share_id": "MN202611_492yq9vv73"
   }
  ],
- "updated": "2026-11-19T10:40:26.988Z"
+ "updated": "2026-11-19T10:52:04.068Z"
 }
