@@ -1,7 +1,87 @@
 {
  "day": "2026-11-19",
- "count": 13,
+ "count": 17,
  "articles": [
+  {
+   "id": "crawl_4q1s9i",
+   "title": "How Premier League's big six keep getting richer",
+   "summary": "Ten games into the Premier League season, and the top five places are dominated by big six clubs. It should come as no surprise as they have a growing advantage of hundreds of millions of pounds.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6x28e93zv3jo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6x28e93zv3jo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T07:38:22.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c612/live/1f6a6e00-e291-11f1-b166-176de21e2352.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c612/live/1f6a6e00-e291-11f1-b166-176de21e2352.jpg",
+   "title_en": "How Premier League's big six keep getting richer",
+   "summary_en": "Ten games into the Premier League season, and the top five places are dominated by big six clubs. It should come as no surprise as they have a growing advantage of hundreds of millions of pounds.",
+   "share_id": "MN202611_4q1s9ixrn8"
+  },
+  {
+   "id": "crawl_13reyfr",
+   "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal",
+   "summary": "Some local media report that at least four bodies have been recovered.",
+   "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T07:27:26.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f4/live/ce62ad80-e3e7-11f1-a16c-7de3762c094b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f4/live/ce62ad80-e3e7-11f1-a16c-7de3762c094b.jpg",
+   "title_en": "Dozens missing after boat carrying 100 migrants sinks off Senegal",
+   "summary_en": "Some local media report that at least four bodies have been recovered.",
+   "share_id": "MN202611_13reyfr7uwl"
+  },
+  {
+   "id": "crawl_j1esjx",
+   "title": "From Forest fringes to Glasner's go-to guy - the rise of McAtee",
+   "summary": "How has Nottingham Forest midfielder James McAtee gone from the bench to indispensable at the City Ground?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck98z842gp11o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ck98z842gp11o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T07:14:11.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfef/live/f045c5a0-dc43-11f1-95cf-a38331e6cb4b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfef/live/f045c5a0-dc43-11f1-95cf-a38331e6cb4b.jpg",
+   "title_en": "From Forest fringes to Glasner's go-to guy - the rise of McAtee",
+   "summary_en": "How has Nottingham Forest midfielder James McAtee gone from the bench to indispensable at the City Ground?",
+   "share_id": "MN202611_j1esjx6pyj"
+  },
+  {
+   "id": "crawl_xfxcqa",
+   "title": "Who am I? Plus today's other quizzes",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmde19r53008o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmde19r53008o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T07:06:18.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+   "title_en": "Who am I? Plus today's other quizzes",
+   "summary_en": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "share_id": "MN202611_xfxcqapa4w"
+  },
   {
    "id": "crawl_zrzwub",
    "title": "Vote for the first BBC Men's Footballer of the Year",
@@ -265,5 +345,5 @@
    "share_id": "MN202611_492yq9vv73"
   }
  ],
- "updated": "2026-11-19T06:57:41.963Z"
+ "updated": "2026-11-19T07:52:03.344Z"
 }
