@@ -1,6 +1,6 @@
 {
  "day": "2026-11-19",
- "count": 17,
+ "count": 18,
  "articles": [
   {
    "id": "crawl_4q1s9i",
@@ -305,6 +305,26 @@
    "share_id": "MN202611_grjeou5z0c"
   },
   {
+   "id": "crawl_18200h0",
+   "title": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
+   "summary": "The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch.",
+   "link": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T00:05:31.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aec/live/3ca33b80-6077-11ef-aea1-e764981585c4.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aec/live/3ca33b80-6077-11ef-aea1-e764981585c4.jpg",
+   "title_en": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
+   "summary_en": "The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch.",
+   "share_id": "MN202611_18200h0swxu"
+  },
+  {
    "id": "crawl_133gvi6",
    "title": "Two-hour ambulance handover limit missed more than 2,000 times",
    "summary": "Achieving the two-hour protocol over the winter will be \"very challenging\", says a senior doctor.",
@@ -345,5 +365,5 @@
    "share_id": "MN202611_492yq9vv73"
   }
  ],
- "updated": "2026-11-19T07:52:03.344Z"
+ "updated": "2026-11-19T08:49:17.079Z"
 }
