@@ -1,7 +1,47 @@
 {
  "day": "2026-11-19",
- "count": 3,
+ "count": 6,
  "articles": [
+  {
+   "id": "crawl_144arou",
+   "title": "Crimean Bridge attacked again, Russian official says",
+   "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+   "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T01:05:03.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg",
+   "title_en": "Crimean Bridge attacked again, Russian official says",
+   "summary_en": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+   "share_id": "MN202611_144arou3o5o"
+  },
+  {
+   "id": "crawl_lbct6m",
+   "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+   "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+   "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T00:49:19.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ead6/live/066e7440-e3af-11f1-8476-9fd445fc522b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ead6/live/066e7440-e3af-11f1-8476-9fd445fc522b.jpg",
+   "title_en": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+   "summary_en": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+   "share_id": "MN202611_lbct6m5png"
+  },
   {
    "id": "crawl_835zdr",
    "title": "Nimwakire intashyo z'Inganzongari",
@@ -22,6 +62,27 @@
    "title_rw": "Nimwakire intashyo z'Inganzongari",
    "summary_rw": "Nimwakire intashyo z'Inganzongari",
    "share_id": "MN202611_835zdr6gjh"
+  },
+  {
+   "id": "crawl_grjeou",
+   "title": "Rwanda Defence Minister Holds Talks at Global Security Forum in Brussels",
+   "summary": "Rwanda’s Minister of Defence, Juvenal Marizamunda, held discussions with government officials and representatives of international organisations attending the 2026 Schuman Security and Defence Forum in Brussels, Belgium. The third edition of the forum took place on November 17 and 18, bringing together senior decision-makers from more than 80 partner countries, EU member states, international and…",
+   "link": "https://taarifa.rw/2026/11/19/rwanda-defence-minister-holds-talks-at-global-security-forum-in-brussels/",
+   "url": "https://taarifa.rw/2026/11/19/rwanda-defence-minister-holds-talks-at-global-security-forum-in-brussels/",
+   "date": "2026-11-19T00:13:58.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "National"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/3987C95A-52B2-4804-9C05-39F5D1190DC0.jpeg?fit=960%2C1280&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/3987C95A-52B2-4804-9C05-39F5D1190DC0.jpeg?fit=960%2C1280&ssl=1",
+   "title_en": "Rwanda Defence Minister Holds Talks at Global Security Forum in Brussels",
+   "summary_en": "Rwanda’s Minister of Defence, Juvenal Marizamunda, held discussions with government officials and representatives of international organisations attending the 2026 Schuman Security and Defence Forum in Brussels, Belgium. The third edition of the forum took place on November 17 and 18, bringing together senior decision-makers from more than 80 partner countries, EU member states, international and…",
+   "share_id": "MN202611_grjeou5z0c"
   },
   {
    "id": "crawl_133gvi6",
@@ -64,5 +125,5 @@
    "share_id": "MN202611_492yq9vv73"
   }
  ],
- "updated": "2026-11-19T00:51:58.993Z"
+ "updated": "2026-11-19T01:42:24.445Z"
 }
