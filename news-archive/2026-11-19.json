@@ -1,7 +1,27 @@
 {
  "day": "2026-11-19",
- "count": 8,
+ "count": 9,
  "articles": [
+  {
+   "id": "crawl_macj8b",
+   "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+   "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+   "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T04:42:52.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ac/live/bcaff6a0-e3cf-11f1-a266-6b47da5e73cc.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ac/live/bcaff6a0-e3cf-11f1-a266-6b47da5e73cc.jpg",
+   "title_en": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+   "summary_en": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+   "share_id": "MN202611_macj8b5fp5"
+  },
   {
    "id": "crawl_6twl1x",
    "title": "Elon Musk avuga ko amafaranga ya mbere menshi yashyize mu matora yo hagati muri manda yatumye yumva ari 'umupfapfa cyane'",
@@ -165,5 +185,5 @@
    "share_id": "MN202611_492yq9vv73"
   }
  ],
- "updated": "2026-11-19T04:29:38.102Z"
+ "updated": "2026-11-19T05:33:23.607Z"
 }

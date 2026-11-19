@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_macj8b",
+  "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+  "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+  "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-19T04:42:52.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ac/live/bcaff6a0-e3cf-11f1-a266-6b47da5e73cc.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ac/live/bcaff6a0-e3cf-11f1-a266-6b47da5e73cc.jpg",
+  "title_en": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+  "summary_en": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+  "share_id": "MN202611_macj8b5fp5"
+ },
+ {
   "id": "crawl_6twl1x",
   "title": "Elon Musk avuga ko amafaranga ya mbere menshi yashyize mu matora yo hagati muri manda yatumye yumva ari 'umupfapfa cyane'",
   "summary": "Uyu muherwe utunze za miliyari nyinshi z'amadolari yanavuze ko ataba muri MAGA, yitandukanya n'iyo nkubiri ya politike ifitanye isano na Trump.",
@@ -1101,7 +1121,7 @@
  },
  {
   "id": "crawl_59vo6m",
-  "title": "Watch: Non-league player scores from own half",
+  "title": "'Best I've seen live': Watch as player scores ‘special’ goal",
   "summary": "The midfielder speaks of his \"special moment\" as fans roared from around the ground.",
   "link": "https://www.bbc.co.uk/news/videos/cr4gn768pg5lo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/videos/cr4gn768pg5lo?at_medium=RSS&at_campaign=rss",
@@ -1115,7 +1135,7 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b1b/live/b398fac0-e367-11f1-9f51-4bfc31543510.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b1b/live/b398fac0-e367-11f1-9f51-4bfc31543510.jpg",
-  "title_en": "Watch: Non-league player scores from own half",
+  "title_en": "'Best I've seen live': Watch as player scores ‘special’ goal",
   "summary_en": "The midfielder speaks of his \"special moment\" as fans roared from around the ground.",
   "share_id": "MN202611_59vo6msb9o"
  },
@@ -17178,25 +17198,5 @@
   "title_en": "Will the Eurovision Song Contest succeed in Asia?",
   "summary_en": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday.",
   "share_id": "MN202611_1vbesyw7e2u"
- },
- {
-  "id": "crawl_1mm8m3g",
-  "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-  "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
-  "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-13T02:01:35.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9462/live/a60e9f80-df2b-11f1-a701-fddedf244c16.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9462/live/a60e9f80-df2b-11f1-a701-fddedf244c16.jpg",
-  "title_en": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-  "summary_en": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
-  "share_id": "MN202611_1mm8m3g1ika"
  }
 ]
