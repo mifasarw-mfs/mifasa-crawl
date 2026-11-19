@@ -1,7 +1,50 @@
 {
  "day": "2026-11-19",
- "count": 54,
+ "count": 56,
  "articles": [
+  {
+   "id": "crawl_xxiklo",
+   "title": "U Rwanda rwitabiriye Imurikagurisha Mpuzamahanga ry'Ubukerarugendo bwo ku rwego rwo hejuru, Luxperience 2026",
+   "summary": "U Rwanda rwitabiriye ihuriro, rikaba n’imurikagurisha mpuzamahanga ry’ubukerarugendo bwo ku rwego ruhanitse (Luxperience 2026), ririmo kubera i Sydney muri Australia, kuva ku itariki 17 kugeza (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/u-rwanda-rwitabiriye-imurikagurisha-mpuzamahanga-ry-ubukerarugendo-bwo-ku-rwego-rwo-hejuru-luxperience-2026",
+   "url": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/u-rwanda-rwitabiriye-imurikagurisha-mpuzamahanga-ry-ubukerarugendo-bwo-ku-rwego-rwo-hejuru-luxperience-2026",
+   "date": "2026-11-19T14:11:58.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu mahanga",
+    "MobileBigStory",
+    "Mediatrice Uwingabire"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-19_at_14.15_35.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-19_at_14.15_35.jpg",
+   "title_rw": "U Rwanda rwitabiriye Imurikagurisha Mpuzamahanga ry'Ubukerarugendo bwo ku rwego rwo hejuru, Luxperience 2026",
+   "summary_rw": "U Rwanda rwitabiriye ihuriro, rikaba n’imurikagurisha mpuzamahanga ry’ubukerarugendo bwo ku rwego ruhanitse (Luxperience 2026), ririmo kubera i Sydney muri Australia, kuva ku itariki 17 kugeza (…)",
+   "share_id": "MN202611_xxiklogewa"
+  },
+  {
+   "id": "crawl_oti9lg",
+   "title": "Welsh NHS in strongest pre-winter position ever, says health minister",
+   "summary": "It comes as the number waiting for planned NHS treatment in Wales increases for the sixth month.",
+   "link": "https://www.bbc.co.uk/news/articles/cq702e33el83o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq702e33el83o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T13:52:35.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5e3/live/ca6c9fe0-e402-11f1-877f-2bb5452e5ffc.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5e3/live/ca6c9fe0-e402-11f1-877f-2bb5452e5ffc.jpg",
+   "title_en": "Welsh NHS in strongest pre-winter position ever, says health minister",
+   "summary_en": "It comes as the number waiting for planned NHS treatment in Wales increases for the sixth month.",
+   "share_id": "MN202611_oti9lgb62a"
+  },
   {
    "id": "crawl_ndj6yj",
    "title": "Fiona Harvey to appear at Crown Court on harassment charge",
@@ -1107,5 +1150,5 @@
    "share_id": "MN202611_492yq9vv73"
   }
  ],
- "updated": "2026-11-19T13:49:59.918Z"
+ "updated": "2026-11-19T14:14:45.246Z"
 }
