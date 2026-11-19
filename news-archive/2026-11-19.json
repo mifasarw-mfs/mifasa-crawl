@@ -1,7 +1,27 @@
 {
  "day": "2026-11-19",
- "count": 11,
+ "count": 13,
  "articles": [
+  {
+   "id": "crawl_zrzwub",
+   "title": "Vote for the first BBC Men's Footballer of the Year",
+   "summary": "Jude Bellingham, Harry Kane, Kylian Mbappe, Rodri and Lamine Yamal are shortlisted for the BBC's Men's Footballer of the Year award.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c61wrqr7l1d8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c61wrqr7l1d8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T06:30:04.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca1/live/e82d49d0-e335-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca1/live/e82d49d0-e335-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Vote for the first BBC Men's Footballer of the Year",
+   "summary_en": "Jude Bellingham, Harry Kane, Kylian Mbappe, Rodri and Lamine Yamal are shortlisted for the BBC's Men's Footballer of the Year award.",
+   "share_id": "MN202611_zrzwubru8x"
+  },
   {
    "id": "crawl_i9s34j",
    "title": "Developer accused of 'environmental vandalism'",
@@ -21,6 +41,26 @@
    "title_en": "Developer accused of 'environmental vandalism'",
    "summary_en": "Bellway says the work has been done with an ecologist on site and in compliance with planning consent.",
    "share_id": "MN202611_i9s34jkzld"
+  },
+  {
+   "id": "crawl_1wt77dt",
+   "title": "Who decides if a game is for adults only?",
+   "summary": "Examiners based in Stevenage spend days playing unreleased games before issuing age rating.",
+   "link": "https://www.bbc.co.uk/news/articles/c6m25ver32rpo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6m25ver32rpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T05:58:59.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69a0/live/a96b9210-e1dc-11f1-b8c8-67fa35f5afdb.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69a0/live/a96b9210-e1dc-11f1-b8c8-67fa35f5afdb.jpg",
+   "title_en": "Who decides if a game is for adults only?",
+   "summary_en": "Examiners based in Stevenage spend days playing unreleased games before issuing age rating.",
+   "share_id": "MN202611_1wt77dt03un"
   },
   {
    "id": "crawl_6s95ur",
@@ -225,5 +265,5 @@
    "share_id": "MN202611_492yq9vv73"
   }
  ],
- "updated": "2026-11-19T06:31:02.969Z"
+ "updated": "2026-11-19T06:57:41.963Z"
 }

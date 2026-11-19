@@ -1,6 +1,6 @@
 {
  "day": "2026-11-18",
- "count": 113,
+ "count": 114,
  "articles": [
   {
    "id": "crawl_19h9gz6",
@@ -41,6 +41,26 @@
    "title_en": "Claude-maker Anthropic poised for $1.4tn stock market debut",
    "summary_en": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
    "share_id": "MN202611_18ancrkg98e"
+  },
+  {
+   "id": "crawl_1f3xw09",
+   "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
+   "summary": "This comes after Brand's wife shared a message from him in which he claimed his innocence.",
+   "link": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T23:29:14.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c05a/live/ff349a00-e38c-11f1-bc86-33d7d6275eba.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c05a/live/ff349a00-e38c-11f1-bc86-33d7d6275eba.jpg",
+   "title_en": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
+   "summary_en": "This comes after Brand's wife shared a message from him in which he claimed his innocence.",
+   "share_id": "MN202611_1f3xw09qsh3"
   },
   {
    "id": "crawl_zqggvh",
@@ -2292,5 +2312,5 @@
    "share_id": "MN202611_12cwcm8p932"
   }
  ],
- "updated": "2026-11-19T00:51:58.994Z"
+ "updated": "2026-11-19T06:57:41.964Z"
 }
