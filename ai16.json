@@ -4677,6 +4677,102 @@
    ],
    "auto": true,
    "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_c87d018f_q",
+   "label_rw": "Umuco wo gukora ubuki mu Rwanda",
+   "label_en": "Rwandan honey harvesting traditions",
+   "patterns_en": [
+    "How did traditional beekeepers harvest honey in Rwanda?",
+    "What was used to calm bees during honey collection?",
+    "What role did honey play in Rwandan traditions?"
+   ],
+   "patterns_rw": [
+    "Ni gute abantu bo mu Rwanda baheraho bakura ubuki mu mizinga?",
+    "Ni iki cyakoreshwaga mu kwirukana inzuki igihe cy'umusaruro?",
+    "Ubuki bwagiraga akahe kamaro mu muco nyarwanda?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "U Rwanda rufite amateka maremare mu bworozi bw'inzuki. Aborozi bakoreshaga amizinga y'ibiti. Bashyiraga amizinga mu biti birebire. Gutera akuka byabaga nijoro. Abaturage bakoreshaga umwotsi kugira ngo birukane inzuki. Ubuki bwagiraga akamaro mu mirire n'imiti.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Rwanda has a long history of beekeeping. Beekeepers traditionally used wooden hives. Hives were placed high in tall trees. Harvesting usually took place at night. People used smoke to calm the bees. Honey played an important role in nutrition and traditional medicine.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_d3c851b3_q",
+   "label_rw": "Ubumenyi gakondo bw'ikirere",
+   "label_en": "Traditional astronomy in Rwanda",
+   "patterns_en": [
+    "How did ancient Rwandans track seasons?",
+    "What was the role of stars in traditional agriculture?",
+    "What was timekeeping based on in ancient Rwanda?"
+   ],
+   "patterns_rw": [
+    "Ni gute abanyarwanda bo hambere bamenyaga ibihe?",
+    "Uruhare rw'inyenyeri rwari uruhe mu buhinzi gakondo?",
+    "Ni iki cyashingirwaho mu kubara igihe mu Rwanda rwo hambere?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Abanyarwanda bo hambere bamenyaga ibihe n'amasaha binyuze mu kwitegereza inyenyeri n'ukwezi. Uko ibihe by'umwaka byahinduragahinduraga byabafashaga kumenya igihe cyo guhinga no gusarura. Iri genamibare ryashingiraga ku miterere y'ikirere n'imibereho y'aborozi n'abahinzi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Ancient Rwandans tracked seasons and time by observing stars and the moon. Seasonal changes helped them determine when to plant and harvest crops. This indigenous knowledge system was based on atmospheric patterns and the lifestyle of farmers and herders.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_d26359a8_q",
+   "label_rw": "Imikino gakondo y'iteramakofi no kwirwanaho mu Rwanda",
+   "label_en": "Traditional Rwandan martial arts and self-defense",
+   "patterns_en": [
+    "What traditional martial arts existed in ancient Rwanda?",
+    "What was the purpose of self-defense in traditional Rwanda?",
+    "How did traditional wrestling help men in Rwanda?"
+   ],
+   "patterns_rw": [
+    "Ni iyihe mikino gakondo y'iteramakofi yariho mu Rwanda?",
+    "Ese kwirwanaho byari bifite akahe kamaro mu Rwanda rwo hambere?",
+    "Imikino y'iteramakofi yafashaga abagabo mu biki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mu Rwanda rwo hambere, habagaho uburyo bwo kwirwanaho no guhangana hakoreshejwe imbaraga z'umubiri n'ubuhanga. Imikino nk'iteramakofi n'amarushanwa yo gusunikana byafashaga abagabo n'abasore kugira ubuzima bwiza no kurinda umuryango wabo. Ibyo bikorwa byari bifite akamaro mu muco no mu mutekano w'igihugu.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "In ancient Rwanda, there were traditional methods of self-defense and combat using physical strength and skill. Sports like traditional wrestling and boxing helped men and youth maintain fitness and protect their communities. These activities played an important role in culture and local security.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_012e341c_q",
+   "label_rw": "Umunyu gakondo mu Rwanda",
+   "label_en": "Traditional salt production in Rwanda",
+   "patterns_en": [
+    "How was traditional salt made in Rwanda?",
+    "What materials were used to produce traditional salt?",
+    "What was the importance of traditional salt in early Rwanda?"
+   ],
+   "patterns_rw": [
+    "Umunyu gakondo wakorwaga ute mu Rwanda?",
+    "Ni iki cyakoreshwaga mu gukora umunyu gakondo?",
+    "Ese umunyu gakondo wari ufite akahe kamaro?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mu Rwanda rwo hambere, abaturage bakoraga umunyu mu byondo cyangwa mu bimera byihariye. Ibi byondo cyangwa imyinge byacanirwaga bikavamo umunyu w'imborera wakoreshwaga mu buzima bwa buri munsi no mu gihe cy'ubucuruzi bw'ubuterane.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "In ancient Rwanda, people produced salt from specific marsh soils or plants. These materials were usually filtered and boiled to extract local salt used for daily consumption and early regional trade.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
   }
  ],
  "knowledge": [
@@ -8527,6 +8623,84 @@
    ],
    "auto": true,
    "taught": "2026-11-18"
+  },
+  {
+   "id": "ai16_c87d018f",
+   "category": "rwanda",
+   "title_rw": "Umuco wo gukora ubuki mu Rwanda",
+   "title_en": "Rwandan honey harvesting traditions",
+   "summary_rw": "U Rwanda rufite amateka maremare mu bworozi bw'inzuki. Aborozi bakoreshaga amizinga y'ibiti. Bashyiraga amizinga mu biti birebire. Gutera akuka byabaga nijoro. Abaturage bakoreshaga umwotsi kugira ngo birukane inzuki. Ubuki bwagiraga akamaro mu mirire n'imiti.",
+   "summary_en": "Rwanda has a long history of beekeeping. Beekeepers traditionally used wooden hives. Hives were placed high in tall trees. Harvesting usually took place at night. People used smoke to calm the bees. Honey played an important role in nutrition and traditional medicine.",
+   "keywords": [
+    "ubuki",
+    "honey",
+    "inzuki",
+    "bees",
+    "amizinga",
+    "hives",
+    "u rwanda",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_d3c851b3",
+   "category": "rwanda",
+   "title_rw": "Ubumenyi gakondo bw'ikirere",
+   "title_en": "Traditional astronomy in Rwanda",
+   "summary_rw": "Abanyarwanda bo hambere bamenyaga ibihe n'amasaha binyuze mu kwitegereza inyenyeri n'ukwezi. Uko ibihe by'umwaka byahinduragahinduraga byabafashaga kumenya igihe cyo guhinga no gusarura. Iri genamibare ryashingiraga ku miterere y'ikirere n'imibereho y'aborozi n'abahinzi.",
+   "summary_en": "Ancient Rwandans tracked seasons and time by observing stars and the moon. Seasonal changes helped them determine when to plant and harvest crops. This indigenous knowledge system was based on atmospheric patterns and the lifestyle of farmers and herders.",
+   "keywords": [
+    "ikirere",
+    "inyenyeri",
+    "ibihe",
+    "ubuhinzi",
+    "sky",
+    "stars",
+    "seasons",
+    "agriculture"
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_d26359a8",
+   "category": "rwanda",
+   "title_rw": "Imikino gakondo y'iteramakofi no kwirwanaho mu Rwanda",
+   "title_en": "Traditional Rwandan martial arts and self-defense",
+   "summary_rw": "Mu Rwanda rwo hambere, habagaho uburyo bwo kwirwanaho no guhangana hakoreshejwe imbaraga z'umubiri n'ubuhanga. Imikino nk'iteramakofi n'amarushanwa yo gusunikana byafashaga abagabo n'abasore kugira ubuzima bwiza no kurinda umuryango wabo. Ibyo bikorwa byari bifite akamaro mu muco no mu mutekano w'igihugu.",
+   "summary_en": "In ancient Rwanda, there were traditional methods of self-defense and combat using physical strength and skill. Sports like traditional wrestling and boxing helped men and youth maintain fitness and protect their communities. These activities played an important role in culture and local security.",
+   "keywords": [
+    "iteramakofi",
+    "martial",
+    "arts",
+    "umuco",
+    "culture",
+    "rwanda",
+    "self-defense"
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_012e341c",
+   "category": "rwanda",
+   "title_rw": "Umunyu gakondo mu Rwanda",
+   "title_en": "Traditional salt production in Rwanda",
+   "summary_rw": "Mu Rwanda rwo hambere, abaturage bakoraga umunyu mu byondo cyangwa mu bimera byihariye. Ibi byondo cyangwa imyinge byacanirwaga bikavamo umunyu w'imborera wakoreshwaga mu buzima bwa buri munsi no mu gihe cy'ubucuruzi bw'ubuterane.",
+   "summary_en": "In ancient Rwanda, people produced salt from specific marsh soils or plants. These materials were usually filtered and boiled to extract local salt used for daily consumption and early regional trade.",
+   "keywords": [
+    "umunyu",
+    "salt",
+    "gakondo",
+    "traditional",
+    "rwanda",
+    "ubucuruzi",
+    "trade"
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
   }
  ]
 }
