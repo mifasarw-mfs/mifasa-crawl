@@ -1,7 +1,90 @@
 {
  "day": "2026-11-19",
- "count": 42,
+ "count": 47,
  "articles": [
+  {
+   "id": "crawl_1w4g79j",
+   "title": "Covid inquiry report: key findings on testing, tracing and 'the pingdemic'",
+   "summary": "Early efforts to contain coronavirus \"were doomed to fail\", the public inquiry has found. Here's what you need to know.",
+   "link": "https://www.bbc.co.uk/news/articles/crx20q8ql4gwo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/crx20q8ql4gwo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T12:47:27.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/907e/live/c7d0e7d0-e37d-11f1-b879-03485a55c082.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/907e/live/c7d0e7d0-e37d-11f1-b879-03485a55c082.png",
+   "title_en": "Covid inquiry report: key findings on testing, tracing and 'the pingdemic'",
+   "summary_en": "Early efforts to contain coronavirus \"were doomed to fail\", the public inquiry has found. Here's what you need to know.",
+   "share_id": "MN202611_1w4g79j93qd"
+  },
+  {
+   "id": "crawl_10c4etz",
+   "title": "Will this be the tightest Championship promotion race ever?",
+   "summary": "With five teams separated by just one point at the top of the Championship, could this be the best season yet?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c63ele354444o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c63ele354444o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T12:36:31.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0079/live/93457630-e35e-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0079/live/93457630-e35e-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "Will this be the tightest Championship promotion race ever?",
+   "summary_en": "With five teams separated by just one point at the top of the Championship, could this be the best season yet?",
+   "share_id": "MN202611_10c4etzwc8l"
+  },
+  {
+   "id": "crawl_158eevt",
+   "title": "FC Barcelone na Kinshasa: Abakomisiyoneri babirwaniyemo",
+   "summary": "Ubufatanye hagati ya Repubulika Iharanira Demokarasi ya Congo (RDC) na FC Barcelone bwari bugamije kumenyekanisha Congo ku rwego mpuzamahanga binyuze mu mupira w’amaguru, bwaje kuvamo amakimbirane (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/fc-barcelone-na-kinshasa-abakomisiyoneri-babirwaniyemo",
+   "url": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/fc-barcelone-na-kinshasa-abakomisiyoneri-babirwaniyemo",
+   "date": "2026-11-19T12:34:48.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu mahanga",
+    "MobileBigStory",
+    "Murego Yusuf Hope"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/2026-11-19_12_48_23-.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-19_12_48_23-.png",
+   "title_rw": "FC Barcelone na Kinshasa: Abakomisiyoneri babirwaniyemo",
+   "summary_rw": "Ubufatanye hagati ya Repubulika Iharanira Demokarasi ya Congo (RDC) na FC Barcelone bwari bugamije kumenyekanisha Congo ku rwego mpuzamahanga binyuze mu mupira w’amaguru, bwaje kuvamo amakimbirane (…)",
+   "share_id": "MN202611_158eevtfliv"
+  },
+  {
+   "id": "crawl_8z4wj0",
+   "title": "Posh chairman MacAnthony 'fighting for his legacy'",
+   "summary": "Darragh MacAnthony says he is \"working around the clock\" to protect his \"legacy\" as Peterborough United chairman.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqj3kn54nxljo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqj3kn54nxljo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T12:33:21.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9da2/live/a46292a0-e40c-11f1-b37c-b3a71d7200af.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9da2/live/a46292a0-e40c-11f1-b37c-b3a71d7200af.jpg",
+   "title_en": "Posh chairman MacAnthony 'fighting for his legacy'",
+   "summary_en": "Darragh MacAnthony says he is \"working around the clock\" to protect his \"legacy\" as Peterborough United chairman.",
+   "share_id": "MN202611_8z4wj00vwq"
+  },
   {
    "id": "crawl_1mzsyxh",
    "title": "UK joins in GTA 6 frenzy as game becomes available worldwide",
@@ -229,6 +312,26 @@
    "title_en": "Uganda, Tanzania Fast-Track Proposed Railway Link to DRC Border",
    "summary_en": "Ugandan President Yoweri Museveni and Tanzanian President Samia Suluhu Hassan have agreed to accelerate preparations for a Standard Gauge Railway that would connect Isaka in Tanzania to Mpondwe, on Uganda’s border with the Democratic Republic of Congo. The leaders witnessed the signing of a framework agreement at State House in Entebbe on November 18, during […] The post Uganda, Tanzania…",
    "share_id": "MN202611_17cd8cr5tnt"
+  },
+  {
+   "id": "crawl_1m1ysu9",
+   "title": "Magill returns to NI squad for Greece friendlies",
+   "summary": "Northern Ireland manager Michael McArdle has made five changes to his squad for the upcoming friendlies against Greece, with the return of experienced striker Simone Magill among the notable returnees.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqly43n1vjm8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqly43n1vjm8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T11:12:20.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b69/live/b1481ac0-e408-11f1-ab35-e1af93fa5cce.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b69/live/b1481ac0-e408-11f1-ab35-e1af93fa5cce.jpg",
+   "title_en": "Magill returns to NI squad for Greece friendlies",
+   "summary_en": "Northern Ireland manager Michael McArdle has made five changes to his squad for the upcoming friendlies against Greece, with the return of experienced striker Simone Magill among the notable returnees.",
+   "share_id": "MN202611_1m1ysu9qq8v"
   },
   {
    "id": "crawl_19cf43p",
@@ -861,5 +964,5 @@
    "share_id": "MN202611_492yq9vv73"
   }
  ],
- "updated": "2026-11-19T12:31:27.755Z"
+ "updated": "2026-11-19T12:56:44.840Z"
 }
