@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_kdrwb9",
+  "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+  "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+  "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-19T15:23:34.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg",
+  "title_en": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+  "summary_en": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+  "share_id": "MN202611_kdrwb9kss3"
+ },
+ {
   "id": "crawl_1kdcomh",
   "title": "Covid inquiry urges UK–Ireland pandemic co-ordination in future",
   "summary": "In its latest report into the programme of test and trace, it said cooperation was needed \"to ensure that border control measures are effective and operable in practice\".",
@@ -160,7 +180,7 @@
  },
  {
   "id": "crawl_13nwbea",
-  "title": "AHO NTITWABA DUKABIRIZA UBUTASI? UGUSANGA IGIHUGU KIRAKENNYE ARIKO UMUTUNGO WOSE GISHOBORA MU BUTASI",
+  "title": "AHO NTITWABA DUKABIRIZA UBUTASI? UGASANGA IGIHUGU KIRAKENNYE ARIKO UMUTUNGO WOSE GISHOBORA MU BUTASI",
   "summary": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
   "link": "https://www.youtube.com/watch?v=Xn8OcpZ0Rq0",
   "url": "https://www.youtube.com/watch?v=Xn8OcpZ0Rq0",
@@ -180,7 +200,7 @@
   "type": "video",
   "image": "https://i1.ytimg.com/vi/Xn8OcpZ0Rq0/hqdefault.jpg",
   "thumbnail": "https://i1.ytimg.com/vi/Xn8OcpZ0Rq0/hqdefault.jpg",
-  "title_rw": "AHO NTITWABA DUKABIRIZA UBUTASI? UGUSANGA IGIHUGU KIRAKENNYE ARIKO UMUTUNGO WOSE GISHOBORA MU BUTASI",
+  "title_rw": "AHO NTITWABA DUKABIRIZA UBUTASI? UGASANGA IGIHUGU KIRAKENNYE ARIKO UMUTUNGO WOSE GISHOBORA MU BUTASI",
   "summary_rw": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
   "share_id": "MN202611_13nwbease8g"
  },
@@ -1708,12 +1728,12 @@
   "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-18T23:47:46.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Business",
+  "category": "business",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Business",
+   "business"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cf8/live/3bc03860-e3a8-11f1-ae87-b7d1078e8448.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cf8/live/3bc03860-e3a8-11f1-ae87-b7d1078e8448.jpg",
@@ -17035,6 +17055,32 @@
   "share_id": "MN202611_nvjx3bctk5"
  },
  {
+  "id": "crawl_imsaj6",
+  "title": "KidFromKigali - EH EH! (Official Music Video)",
+  "summary": "Dir. Olaf Prod by BadManQuba Kayamoon to the world KFK",
+  "link": "https://www.youtube.com/watch?v=4VwoyrjU-QE",
+  "url": "https://www.youtube.com/watch?v=4VwoyrjU-QE",
+  "date": "2026-11-13T14:30:07.000Z",
+  "source": "Kid From Kigali YouTube",
+  "category": "entertainment",
+  "lang": "rw",
+  "keywords": [
+   "Kid From Kigali YouTube",
+   "entertainment",
+   "video"
+  ],
+  "video": {
+   "provider": "youtube",
+   "id": "4VwoyrjU-QE"
+  },
+  "type": "video",
+  "image": "https://i1.ytimg.com/vi/4VwoyrjU-QE/hqdefault.jpg",
+  "thumbnail": "https://i1.ytimg.com/vi/4VwoyrjU-QE/hqdefault.jpg",
+  "title_rw": "KidFromKigali - EH EH! (Official Music Video)",
+  "summary_rw": "Dir. Olaf Prod by BadManQuba Kayamoon to the world KFK",
+  "share_id": "MN202611_imsaj6sfcg"
+ },
+ {
   "id": "crawl_ecez6x",
   "title": "Are you affected by the Microsoft outage?",
   "summary": "A Microsoft outage has affected services including Teams, Outlook and AI software Copilot.",
@@ -17146,51 +17192,5 @@
   "title_rw": "Mushikiwabo yagaragaje uruhare rwa Francophonie mu guhuza ibihugu no kubaka amahoro",
   "summary_rw": "Umunyamabanga Mukuru w’Umuryango Mpuzamahanga w’Ibihugu bikoresha Igifaransa (OIF), Louise Mushikiwabo, yavuze ko Francophonie ari urubuga rukomeye ruhuza abantu n’ibihugu bifite amateka n’imico (…)",
   "share_id": "MN202611_1x4dw65hm7v"
- },
- {
-  "id": "crawl_12eduv1",
-  "title": "AMAKURU YIRIWE AVUGWA HIRYA NO HINO || TARIKI 13 UGUSHYINGO 2026",
-  "summary": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
-  "link": "https://www.youtube.com/watch?v=z9DmgUdnzwE",
-  "url": "https://www.youtube.com/watch?v=z9DmgUdnzwE",
-  "date": "2026-11-13T13:15:08.000Z",
-  "source": "Radio Rwanda YouTube",
-  "category": "news",
-  "lang": "rw",
-  "keywords": [
-   "Radio Rwanda YouTube",
-   "news",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "z9DmgUdnzwE"
-  },
-  "type": "video",
-  "image": "https://i3.ytimg.com/vi/z9DmgUdnzwE/hqdefault.jpg",
-  "thumbnail": "https://i3.ytimg.com/vi/z9DmgUdnzwE/hqdefault.jpg",
-  "title_rw": "AMAKURU YIRIWE AVUGWA HIRYA NO HINO || TARIKI 13 UGUSHYINGO 2026",
-  "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
-  "share_id": "MN202611_12eduv19xp7"
- },
- {
-  "id": "crawl_9fbrc2",
-  "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
-  "summary": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
-  "link": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-13T13:11:23.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cda/live/d40d3460-df57-11f1-9172-871e44a840d8.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cda/live/d40d3460-df57-11f1-9172-871e44a840d8.jpg",
-  "title_en": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
-  "summary_en": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
-  "share_id": "MN202611_9fbrc24nsw"
  }
 ]

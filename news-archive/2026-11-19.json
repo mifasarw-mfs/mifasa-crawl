@@ -1,7 +1,27 @@
 {
  "day": "2026-11-19",
- "count": 64,
+ "count": 65,
  "articles": [
+  {
+   "id": "crawl_kdrwb9",
+   "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+   "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+   "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T15:23:34.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+   "summary_en": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+   "share_id": "MN202611_kdrwb9kss3"
+  },
   {
    "id": "crawl_1kdcomh",
    "title": "Covid inquiry urges UK–Ireland pandemic co-ordination in future",
@@ -1311,5 +1331,5 @@
    "share_id": "MN202611_492yq9vv73"
   }
  ],
- "updated": "2026-11-19T15:25:21.083Z"
+ "updated": "2026-11-19T15:37:32.294Z"
 }
