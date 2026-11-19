@@ -4773,6 +4773,54 @@
    ],
    "auto": true,
    "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_3c6da886_q",
+   "label_rw": "Umuheha w'ubuhumekero bw'umuntu",
+   "label_en": "The Human Respiratory System",
+   "patterns_en": [
+    "What is the human respiratory system made of?",
+    "Which gas enters the body during breathing?",
+    "What is the function of the lungs?"
+   ],
+   "patterns_rw": [
+    "Ubuhumekero bw'umuntu bugizwe n'iki?",
+    "Ni uwuhe mwuka winjira mu mubiri?",
+    "Imyanya y'ubuhumekero ikora iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Umuheha w'ubuhumekero bw'umuntu ugizwe n'imyanya y'ubuhumekero n'ibihaha. Utwara umwuka wa ogisijeni mu mubiri kandi ugakuramo umwuka wa karuboni diokiside. Amahaha ni yo akora ivunjurwa ry'imyuka mu maraso.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The human respiratory system consists of the respiratory tract and lungs. It supplies oxygen to the body and removes carbon dioxide. The lungs are responsible for gas exchange in the blood.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_4d7fb425_q",
+   "label_rw": "Mitosis",
+   "label_en": "Mitosis",
+   "patterns_en": [
+    "What is mitosis?",
+    "Why is mitosis important for the body?",
+    "How does cell division occur in mitosis?"
+   ],
+   "patterns_rw": [
+    "Mitosis ni iki?",
+    "Ni iki gitera mitosis mu mubiri?",
+    "Uburemere bwa mitosis ni ubuhe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mitosis ni uburyo uturemangingo tw'umubiri twitandukanya kugira ngo haturemo utundi turemangingo tubiri dufite amakuru y'umurage asa neza. Ubu buryo bufasha mu gukura kw'umubiri no gukira kw'ibikomere.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Mitosis is a process of cell division that results in two daughter cells each having the same genetic material as the parent cell. This process is essential for body growth and tissue repair.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
   }
  ],
  "knowledge": [
@@ -8698,6 +8746,46 @@
     "rwanda",
     "ubucuruzi",
     "trade"
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_3c6da886",
+   "category": "science",
+   "title_rw": "Umuheha w'ubuhumekero bw'umuntu",
+   "title_en": "The Human Respiratory System",
+   "summary_rw": "Umuheha w'ubuhumekero bw'umuntu ugizwe n'imyanya y'ubuhumekero n'ibihaha. Utwara umwuka wa ogisijeni mu mubiri kandi ugakuramo umwuka wa karuboni diokiside. Amahaha ni yo akora ivunjurwa ry'imyuka mu maraso.",
+   "summary_en": "The human respiratory system consists of the respiratory tract and lungs. It supplies oxygen to the body and removes carbon dioxide. The lungs are responsible for gas exchange in the blood.",
+   "keywords": [
+    "ubuhumekero",
+    "respiratory",
+    "ibihaha",
+    "lungs",
+    "ogisijeni",
+    "oxygen",
+    "umwuka",
+    "system"
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_4d7fb425",
+   "category": "science",
+   "title_rw": "Mitosis",
+   "title_en": "Mitosis",
+   "summary_rw": "Mitosis ni uburyo uturemangingo tw'umubiri twitandukanya kugira ngo haturemo utundi turemangingo tubiri dufite amakuru y'umurage asa neza. Ubu buryo bufasha mu gukura kw'umubiri no gukira kw'ibikomere.",
+   "summary_en": "Mitosis is a process of cell division that results in two daughter cells each having the same genetic material as the parent cell. This process is essential for body growth and tissue repair.",
+   "keywords": [
+    "mitosis",
+    "cell",
+    "division",
+    "uretsemangingo",
+    "kwigabanyamo",
+    "genetics",
+    "biology",
+    "ubuzima"
    ],
    "auto": true,
    "taught": "2026-11-19"
