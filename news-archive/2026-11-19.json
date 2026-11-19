@@ -1,7 +1,28 @@
 {
  "day": "2026-11-19",
- "count": 2,
+ "count": 3,
  "articles": [
+  {
+   "id": "crawl_835zdr",
+   "title": "Nimwakire intashyo z'Inganzongari",
+   "summary": "Nimwakire intashyo z'Inganzongari",
+   "link": "https://www.kigalitoday.com/amashusho/kt-tv/article/nimwakire-intashyo-z-inganzongari",
+   "url": "https://www.kigalitoday.com/amashusho/kt-tv/article/nimwakire-intashyo-z-inganzongari",
+   "date": "2026-11-19T00:22:40.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "KT TV"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/2026-11-19_02_21_55-_328_beyond_the_stage__getting_to_know_inganzongari._-_youtube.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-19_02_21_55-_328_beyond_the_stage__getting_to_know_inganzongari._-_youtube.png",
+   "title_rw": "Nimwakire intashyo z'Inganzongari",
+   "summary_rw": "Nimwakire intashyo z'Inganzongari",
+   "share_id": "MN202611_835zdr6gjh"
+  },
   {
    "id": "crawl_133gvi6",
    "title": "Two-hour ambulance handover limit missed more than 2,000 times",
@@ -43,5 +64,5 @@
    "share_id": "MN202611_492yq9vv73"
   }
  ],
- "updated": "2026-11-19T00:24:10.119Z"
+ "updated": "2026-11-19T00:51:58.993Z"
 }

@@ -1,5 +1,26 @@
 [
  {
+  "id": "crawl_835zdr",
+  "title": "Nimwakire intashyo z'Inganzongari",
+  "summary": "Nimwakire intashyo z'Inganzongari",
+  "link": "https://www.kigalitoday.com/amashusho/kt-tv/article/nimwakire-intashyo-z-inganzongari",
+  "url": "https://www.kigalitoday.com/amashusho/kt-tv/article/nimwakire-intashyo-z-inganzongari",
+  "date": "2026-11-19T00:22:40.000Z",
+  "source": "Kigali Today",
+  "category": "news",
+  "lang": "rw",
+  "keywords": [
+   "Kigali Today",
+   "news",
+   "KT TV"
+  ],
+  "image": "https://www.kigalitoday.com/IMG/png/2026-11-19_02_21_55-_328_beyond_the_stage__getting_to_know_inganzongari._-_youtube.png",
+  "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-19_02_21_55-_328_beyond_the_stage__getting_to_know_inganzongari._-_youtube.png",
+  "title_rw": "Nimwakire intashyo z'Inganzongari",
+  "summary_rw": "Nimwakire intashyo z'Inganzongari",
+  "share_id": "MN202611_835zdr6gjh"
+ },
+ {
   "id": "crawl_133gvi6",
   "title": "Two-hour ambulance handover limit missed more than 2,000 times",
   "summary": "Achieving the two-hour protocol over the winter will be \"very challenging\", says a senior doctor.",
@@ -38,6 +59,26 @@
   "title_en": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
   "summary_en": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
   "share_id": "MN202611_492yq9vv73"
+ },
+ {
+  "id": "crawl_19h9gz6",
+  "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+  "summary": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
+  "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-18T23:47:46.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cf8/live/3bc03860-e3a8-11f1-ae87-b7d1078e8448.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cf8/live/3bc03860-e3a8-11f1-ae87-b7d1078e8448.jpg",
+  "title_en": "Why has Waymo pulled all its driverless cars from US freeways?",
+  "summary_en": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
+  "share_id": "MN202611_19h9gz62234"
  },
  {
   "id": "crawl_18ancrk",
@@ -93,7 +134,6 @@
    "Kigali Today",
    "news",
    "Mu mahanga",
-   "MobileBigStory",
    "Mediatrice Uwingabire"
   ],
   "image": "https://www.kigalitoday.com/IMG/png/2026-11-19_01_22_23-imageresize_1400_799_.png",
@@ -1103,8 +1143,8 @@
    "MobileBigStory",
    "Jean de la Croix Tabaro"
   ],
-  "image": "https://www.kigalitoday.com/IMG/png/2026-11-18_12_15_38-_13_brave_etienne_kwizera_on_x___this_man_is_speaking_the_truth_listen_him_afr.png",
-  "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-18_12_15_38-_13_brave_etienne_kwizera_on_x___this_man_is_speaking_the_truth_listen_him_afr.png",
+  "image": "https://www.kigalitoday.com/IMG/png/2026-11-18_16_31_37-_13_matsanga_-_search___x.png",
+  "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-18_16_31_37-_13_matsanga_-_search___x.png",
   "title_rw": "Tshisekedi si Perezida wa DRC, ni Perezida wa Kinshasa - Dr. Matsanga",
   "summary_rw": "Dr. David Matsanga, Umunya Uganda w’inararibonye muri politiki no gukemura amakimbirane ubarizwa i Paris mu Bufaransa, yanenze cyane imyifatire y’abayobozi bamwe batera isoni umugabane wa Afurika, (…)",
   "share_id": "MN202611_1oupoh0fxmq"
@@ -1595,8 +1635,8 @@
    "MobileBigStory",
    "Ruzindana Janvier"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-18_at_11.14_22_1_.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-18_at_11.14_22_1_.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-18_at_13.27_14.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-18_at_13.27_14.jpg",
   "title_rw": "Uganda Airlines yatangije ingendo za buri munsi hagati ya Entebbe na Kigali",
   "summary_rw": "Sosiyete y’indege ya Uganda Airlines yatangije ku mugaragaro ingendo z’indege za buri munsi zihuza Entebbe muri Uganda na Kigali mu Rwanda, mu rwego rwo koroshya ingendo no kurushaho guteza imbere (…)",
   "share_id": "MN202611_wx1g030q6"
@@ -1618,8 +1658,8 @@
    "MobileBigStory",
    "Tarib Abdul"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-17_at_15.22_48.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-17_at_15.22_48.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-17_at_15.22_48_1_.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-17_at_15.22_48_1_.jpg",
   "title_rw": "Abafite ubumuga bifuza ko bagira umubare wihariye ushingirwaho mu myanya y'akazi",
   "summary_rw": "Abantu bafite ubumuga barasaba ko hashyirwaho umubare wihariye w’imyanya y’akazi igenerwa iki cyiciro, kugira ngo barusheho kubona amahirwe angana n’ay’abandi ku isoko ry’umurimo. Iki cyifuzo (…)",
   "share_id": "MN202611_spxbqzvkgp"
@@ -1875,8 +1915,8 @@
    "MobileBigStory",
    "Ruzindana Janvier"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-18_at_11.50_14.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-18_at_11.50_14.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-18_at_11.50_14_1_.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-18_at_11.50_14_1_.jpg",
   "title_rw": "U Rwanda rwahaye Liberia ibitekerezo ku kubaka amahoro arambye",
   "summary_rw": "U Rwanda rwagaragarije Liberia ubunararibonye mu rugendo rwo kongera kubaka igihugu nyuma ya Jenoside yakorewe Abatutsi mu 1994, guteza imbere ubumwe n’ubwiyunge no kubungabunga amateka, hagamijwe (…)",
   "share_id": "MN202611_356u6zmy61"
@@ -3221,8 +3261,8 @@
    "news",
    "Football"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/img-20261117-wa0099.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/img-20261117-wa0099.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/hxxutfcxoaa3js_.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/hxxutfcxoaa3js_.jpg",
   "title_rw": "Amavubi atsinzwe na Mali mu mukino warebwe na Perezida Kagame(Amafoto)",
   "summary_rw": "Kuri uyu wa Kabiri, Ikipe y’igihugu y’u Rwanda Amavubi yatsindiwe na Mali ibitego 2-0 kuri Stade Amahoro, mu mukino w’umunsi wa kane wo gushaka itike y’Igikombe cya Afurika 2027, warebwe na (…)",
   "share_id": "MN202611_unnwjpq42r"
@@ -7332,8 +7372,8 @@
    "MobileBigStory",
    "Ruzindana Janvier"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-15_at_19.56_06.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-15_at_19.56_06.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-15_at_11.11_30_1_.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-15_at_11.11_30_1_.jpg",
   "title_rw": "Ibibazo bya Dipolomasi, izingiro mu isubikwa ry'amatora y'Umunyamabanga Mukuru wa Francophonie",
   "summary_rw": "Amatora yo guhitamo Umunyamabanga Mukuru mushya w’Umuryango Mpuzamahanga w’Ibihugu bikoresha Igifaransa (OIF) yasubitsweho umwaka wose, nyuma y’uko ibihugu biwugize binaniwe kumvikana ku muntu (…)",
   "share_id": "MN202611_1emshcs79bu"
@@ -7421,8 +7461,8 @@
    "MobileBigStory",
    "Oswald Niyonzima"
   ],
-  "image": "https://www.kigalitoday.com/IMG/png/bonds_loans_esg_africa_2026.png",
-  "thumbnail": "https://www.kigalitoday.com/IMG/png/bonds_loans_esg_africa_2026.png",
+  "image": "https://www.kigalitoday.com/IMG/png/murangwa_ok.png",
+  "thumbnail": "https://www.kigalitoday.com/IMG/png/murangwa_ok.png",
   "title_rw": "Afurika igomba kwitegura ko inguzanyo mpuzamahanga zishobora kurushaho guhenda-Minisitiri Murangwa",
   "summary_rw": "Minisitiri w’Imari n’Igenamigambi, Yusuf Murangwa, yasabye ibihugu by’Afurika kongera ubushobozi bwo kwishakamo igishoro no guteza imbere amasoko y’imari yo mu bihugu byabyo, mu gihe kubona (…)",
   "share_id": "MN202611_e3bsfk9hzi"
@@ -10633,8 +10673,8 @@
    "MobileBigStory",
    "Tarib Abdul"
   ],
-  "image": "https://www.kigalitoday.com/IMG/png/oif.png",
-  "thumbnail": "https://www.kigalitoday.com/IMG/png/oif.png",
+  "image": "https://www.kigalitoday.com/IMG/png/kagame_oif.png",
+  "thumbnail": "https://www.kigalitoday.com/IMG/png/kagame_oif.png",
   "title_rw": "Perezida Kagame n'abakuru b'ibihugu byo muri Francophonie basangiye na Mushikiwabo",
   "summary_rw": "Perezida Paul Kagam na Madamu Jeannette Kagame bifatanyije n’abakuru b’ibihugu na za Guverinoma ku ifunguro rya saa sita ryateguwe n’Umunyamabanga Mukuru w’Umuryango Mpuzamahanga w’Ibihugu (…)",
   "share_id": "MN202611_1aa0ygtcwbf"
@@ -10992,8 +11032,8 @@
    "Volleyball",
    "Habiyaremye Japhet"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/85bd4c98-46b9-465c-bb37-5a89b462d64f.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/85bd4c98-46b9-465c-bb37-5a89b462d64f.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/24cc6d90-4b4f-44ac-9b5b-ac2633a9c3b8.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/24cc6d90-4b4f-44ac-9b5b-ac2633a9c3b8.jpg",
   "title_rw": "Gisagara VC, EAUR VC, RRA na RP Huye mu bitwaye neza ku munsi wa gatanu wa shampiyona",
   "summary_rw": "Gisagara VC, EAUR VC, RRA na RP Huye mu bitwaye neza ku munsi wa gatanu wa shampiyona ‎ ‎Amakipe ya Gisagara VC na EAUR VC mu bagabo bitwaye neza batsinda imikino yabo y’umunsi wa gatanu naho RRA (…)",
   "share_id": "MN202611_zukqw1siwv"
@@ -11035,8 +11075,8 @@
    "MobileBigStory",
    "Tarib Abdul"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-15_at_07.27_34.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-15_at_07.27_34.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-15_at_07.27_34_1_.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-15_at_07.27_34_1_.jpg",
   "title_rw": "Perezida Kagame yitabiriye itangizwa ry'Inama ya 20 ya Francophonie",
   "summary_rw": "Perezida wa Repubulika y’u Rwanda, Paul Kagame, na Madamu Jeannette Kagame, bitabiriye umuhango wo gutangiza ku mugaragaro Inama ya 20 y’Abakuru b’Ibihugu na za Guverinoma bihuriye mu Muryango (…)",
   "share_id": "MN202611_zbg9dbigwd"
@@ -17147,45 +17187,5 @@
   "title_en": "Skye Newman gets 'goosebumps' over record-breaking Brixton Academy run",
   "summary_en": "She is the first British female solo singer to play a five-gig residency at the venue.",
   "share_id": "MN202611_gro5avh1rp"
- },
- {
-  "id": "crawl_83ilyi",
-  "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-  "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
-  "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-13T00:20:24.000Z",
-  "source": "BBC Africa",
-  "category": "news",
-  "lang": "en",
-  "keywords": [
-   "BBC Africa",
-   "news"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dca/live/418b2150-de90-11f1-a701-fddedf244c16.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dca/live/418b2150-de90-11f1-a701-fddedf244c16.jpg",
-  "title_en": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-  "summary_en": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
-  "share_id": "MN202611_83ilyibifc"
- },
- {
-  "id": "crawl_ifhl5d",
-  "title": "Brand will face 'hell on earth' in Wandsworth prison, says former inmate",
-  "summary": "The disgraced entertainer was sentenced to 10 years and six months for rape and sexual assault.",
-  "link": "https://www.bbc.co.uk/news/articles/ck7v25pp19m8o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/ck7v25pp19m8o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-13T00:15:27.000Z",
-  "source": "BBC Entertainment",
-  "category": "entertainment",
-  "lang": "en",
-  "keywords": [
-   "BBC Entertainment",
-   "entertainment"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12b4/live/eae03630-de92-11f1-a701-fddedf244c16.png",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12b4/live/eae03630-de92-11f1-a701-fddedf244c16.png",
-  "title_en": "Brand will face 'hell on earth' in Wandsworth prison, says former inmate",
-  "summary_en": "The disgraced entertainer was sentenced to 10 years and six months for rape and sexual assault.",
-  "share_id": "MN202611_ifhl5dahm7"
  }
 ]
