@@ -1,7 +1,49 @@
 {
  "day": "2026-11-19",
- "count": 95,
+ "count": 97,
  "articles": [
+  {
+   "id": "crawl_13q2j3g",
+   "title": "Kingdom Night yagiye gushaka 'abakomerekeye' mu matorero kandi yarababonye",
+   "summary": "Kingdom Night yagiye gushaka 'abakomerekeye' mu matorero kandi yarababonye",
+   "link": "https://www.kigalitoday.com/amashusho/kt-tv/article/kingdom-night-yagiye-gushaka-abakomerekeye-mu-matorero-kandi-yarababonye",
+   "url": "https://www.kigalitoday.com/amashusho/kt-tv/article/kingdom-night-yagiye-gushaka-abakomerekeye-mu-matorero-kandi-yarababonye",
+   "date": "2026-11-19T23:28:31.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "KT TV",
+    "MobileBigStory"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/2026-11-20_01_18_29-_330_what_is_the_heart_behind_kingdom_night_and_what_makes_it_more_than_just_a.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-20_01_18_29-_330_what_is_the_heart_behind_kingdom_night_and_what_makes_it_more_than_just_a.png",
+   "title_rw": "Kingdom Night yagiye gushaka 'abakomerekeye' mu matorero kandi yarababonye",
+   "summary_rw": "Kingdom Night yagiye gushaka 'abakomerekeye' mu matorero kandi yarababonye",
+   "share_id": "MN202611_13q2j3gkr4a"
+  },
+  {
+   "id": "crawl_xpbyns",
+   "title": "Trump posthumously pardons US baseball legend Pete Rose",
+   "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
+   "link": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T23:18:43.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a82/live/d2560a80-e465-11f1-80e9-fd4d95b40178.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a82/live/d2560a80-e465-11f1-80e9-fd4d95b40178.jpg",
+   "title_en": "Trump posthumously pardons US baseball legend Pete Rose",
+   "summary_en": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
+   "share_id": "MN202611_xpbyns4v4m"
+  },
   {
    "id": "crawl_13sxktq",
    "title": "California probing whether China improperly acquired Nvidia technology",
@@ -1933,5 +1975,5 @@
    "share_id": "MN202611_492yq9vv73"
   }
  ],
- "updated": "2026-11-19T23:13:26.409Z"
+ "updated": "2026-11-19T23:30:52.130Z"
 }
