@@ -1,6 +1,6 @@
 {
  "day": "2026-11-19",
- "count": 56,
+ "count": 57,
  "articles": [
   {
    "id": "crawl_xxiklo",
@@ -24,6 +24,26 @@
    "title_rw": "U Rwanda rwitabiriye Imurikagurisha Mpuzamahanga ry'Ubukerarugendo bwo ku rwego rwo hejuru, Luxperience 2026",
    "summary_rw": "U Rwanda rwitabiriye ihuriro, rikaba n’imurikagurisha mpuzamahanga ry’ubukerarugendo bwo ku rwego ruhanitse (Luxperience 2026), ririmo kubera i Sydney muri Australia, kuva ku itariki 17 kugeza (…)",
    "share_id": "MN202611_xxiklogewa"
+  },
+  {
+   "id": "crawl_fmppfg",
+   "title": "Hooker Sheehan named at number eight for Boks game",
+   "summary": "Ireland captain Dan Sheehan is named at number eight for Saturday's highly anticipated Nations Championship match against world champions South Africa in Dublin.",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm4gnpgn3z1wo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm4gnpgn3z1wo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T13:59:31.000Z",
+   "source": "BBC Sport Africa",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Sport Africa",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27b1/live/47701120-e41c-11f1-9e08-55a8a3b48445.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27b1/live/47701120-e41c-11f1-9e08-55a8a3b48445.jpg",
+   "title_en": "Hooker Sheehan named at number eight for Boks game",
+   "summary_en": "Ireland captain Dan Sheehan is named at number eight for Saturday's highly anticipated Nations Championship match against world champions South Africa in Dublin.",
+   "share_id": "MN202611_fmppfgebru"
   },
   {
    "id": "crawl_oti9lg",
@@ -1150,5 +1170,5 @@
    "share_id": "MN202611_492yq9vv73"
   }
  ],
- "updated": "2026-11-19T14:14:45.246Z"
+ "updated": "2026-11-19T14:40:08.164Z"
 }
