@@ -1,7 +1,87 @@
 {
  "day": "2026-11-19",
- "count": 70,
+ "count": 74,
  "articles": [
+  {
+   "id": "crawl_l6oiae",
+   "title": "Susan Smith denied parole again 32 years after drowning her two sons",
+   "summary": "At a hearing on the possibility of parole, Smith said she wished she could change the past, and her two children \"did not deserve to die\".",
+   "link": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T17:23:34.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d76c/live/0d6d9ab0-a76f-11ef-a215-2b35ff609397.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d76c/live/0d6d9ab0-a76f-11ef-a215-2b35ff609397.jpg",
+   "title_en": "Susan Smith denied parole again 32 years after drowning her two sons",
+   "summary_en": "At a hearing on the possibility of parole, Smith said she wished she could change the past, and her two children \"did not deserve to die\".",
+   "share_id": "MN202611_l6oiaeher8"
+  },
+  {
+   "id": "crawl_tqaypm",
+   "title": "We'll only sell if offer makes club blink - McInnes",
+   "summary": "Manager Derek McInnes says Rangers will only sell players in January if they receive offers that \"makes the club blink\".",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwlymr2159y5o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwlymr2159y5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T17:11:51.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/234c/live/6f2a6f00-e429-11f1-bdfb-a33543c4dc85.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/234c/live/6f2a6f00-e429-11f1-bdfb-a33543c4dc85.jpg",
+   "title_en": "We'll only sell if offer makes club blink - McInnes",
+   "summary_en": "Manager Derek McInnes says Rangers will only sell players in January if they receive offers that \"makes the club blink\".",
+   "share_id": "MN202611_tqaypm2w48"
+  },
+  {
+   "id": "crawl_15c2qk2",
+   "title": "Football Daily",
+   "summary": "Ellen White joins Rick & Lloyd to discuss the BBC Men’s Footballer of the Year shortlist.",
+   "link": "https://www.bbc.co.uk/sounds/play/m003501m?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/m003501m?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T16:42:00.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pntn4g.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pntn4g.jpg",
+   "title_en": "Football Daily",
+   "summary_en": "Ellen White joins Rick & Lloyd to discuss the BBC Men’s Footballer of the Year shortlist.",
+   "share_id": "MN202611_15c2qk2vv2o"
+  },
+  {
+   "id": "crawl_llo8ay",
+   "title": "Crawley keep Blackwell as boss until end of season",
+   "summary": "Crawley Town appoint Kevin Blackwell as manager until the end of the season after the 67-year-old's spell in temporary charge.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c8zx975y67qdo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c8zx975y67qdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T16:40:30.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/157a/live/569d91d0-e436-11f1-8346-933d3547e297.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/157a/live/569d91d0-e436-11f1-8346-933d3547e297.jpg",
+   "title_en": "Crawley keep Blackwell as boss until end of season",
+   "summary_en": "Crawley Town appoint Kevin Blackwell as manager until the end of the season after the 67-year-old's spell in temporary charge.",
+   "share_id": "MN202611_llo8ayg5pk"
+  },
   {
    "id": "crawl_aavijd",
    "title": "Dutch watchdog tells people not to buy AI smart glasses",
@@ -1431,5 +1511,5 @@
    "share_id": "MN202611_492yq9vv73"
   }
  ],
- "updated": "2026-11-19T16:40:27.502Z"
+ "updated": "2026-11-19T17:28:20.655Z"
 }
