@@ -1,7 +1,27 @@
 {
  "day": "2026-11-19",
- "count": 87,
+ "count": 88,
  "articles": [
+  {
+   "id": "crawl_1lhi5vh",
+   "title": "Shevchenko accuses Mudryk camp of 'baseless slander'",
+   "summary": "Ukraine great Andriy Shevchenko accuses Mykhailo Mudryk of a \"baseless slander\" after the on-loan Tottenham winger blamed his failed drugs test on the nation's football association.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmgqx908lk44o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmgqx908lk44o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T20:44:11.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2404/live/380cedc0-e43f-11f1-9192-3924a59e54c7.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2404/live/380cedc0-e43f-11f1-9192-3924a59e54c7.jpg",
+   "title_en": "Shevchenko accuses Mudryk camp of 'baseless slander'",
+   "summary_en": "Ukraine great Andriy Shevchenko accuses Mykhailo Mudryk of a \"baseless slander\" after the on-loan Tottenham winger blamed his failed drugs test on the nation's football association.",
+   "share_id": "MN202611_1lhi5vha3a3"
+  },
   {
    "id": "crawl_1955rx3",
    "title": "Frank happy to be 'back in the circus' at Palace",
@@ -1773,5 +1793,5 @@
    "share_id": "MN202611_492yq9vv73"
   }
  ],
- "updated": "2026-11-19T20:27:39.592Z"
+ "updated": "2026-11-19T21:17:49.629Z"
 }
