@@ -4989,6 +4989,30 @@
    ],
    "auto": true,
    "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_8541eb61_q",
+   "label_rw": "Amasezerano y'ubucuruzi",
+   "label_en": "Commercial Contracts",
+   "patterns_en": [
+    "What is included in a commercial contract?",
+    "Why are commercial contracts important?",
+    "When is a commercial contract legally binding?"
+   ],
+   "patterns_rw": [
+    "Ni iki amasezerano y'ubucuruzi aba arimo?",
+    "Kuki amasezerano y'ubucuruzi ari ingenzi?",
+    "Ni ryaje amasezerano y'ubucuruzi aba agomba gukurikizwa?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Amasezerano y'ubucuruzi ni inyandiko yubahirizwa n'amategeko hagati y'impande ebyiri cyangwa more. Agaragaza ibyo buri ruwacu rwemeye gukora. Harimo ibijyanye no gutanga ibicuruzwa, kwishyura, n'igihe amasezerano azamara. Afasha abikorera kwirinda amakimbirane no kurengera uburenganzira bwabo mu gihe cy'ubucuruzi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "A commercial contract is a legally binding document between two or more parties. It outlines what each party agrees to do. It usually includes terms about goods, payment, and duration. These agreements help businesses prevent disputes and protect their legal rights during commercial activities.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
   }
  ],
  "knowledge": [
@@ -9092,6 +9116,26 @@
     "porogaramu",
     "programming",
     "ububiko"
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_8541eb61",
+   "category": "business",
+   "title_rw": "Amasezerano y'ubucuruzi",
+   "title_en": "Commercial Contracts",
+   "summary_rw": "Amasezerano y'ubucuruzi ni inyandiko yubahirizwa n'amategeko hagati y'impande ebyiri cyangwa more. Agaragaza ibyo buri ruwacu rwemeye gukora. Harimo ibijyanye no gutanga ibicuruzwa, kwishyura, n'igihe amasezerano azamara. Afasha abikorera kwirinda amakimbirane no kurengera uburenganzira bwabo mu gihe cy'ubucuruzi.",
+   "summary_en": "A commercial contract is a legally binding document between two or more parties. It outlines what each party agrees to do. It usually includes terms about goods, payment, and duration. These agreements help businesses prevent disputes and protect their legal rights during commercial activities.",
+   "keywords": [
+    "amasezerano",
+    "ubucuruzi",
+    "amategeko",
+    "uburenganzira",
+    "contract",
+    "business",
+    "legal",
+    "agreement"
    ],
    "auto": true,
    "taught": "2026-11-19"
