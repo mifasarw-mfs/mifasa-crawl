@@ -1,7 +1,47 @@
 {
  "day": "2026-11-19",
- "count": 9,
+ "count": 11,
  "articles": [
+  {
+   "id": "crawl_i9s34j",
+   "title": "Developer accused of 'environmental vandalism'",
+   "summary": "Bellway says the work has been done with an ecologist on site and in compliance with planning consent.",
+   "link": "https://www.bbc.co.uk/news/articles/cmeq4nx95qpdo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmeq4nx95qpdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T06:09:25.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a5d/live/f7ab8f50-e35f-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a5d/live/f7ab8f50-e35f-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Developer accused of 'environmental vandalism'",
+   "summary_en": "Bellway says the work has been done with an ecologist on site and in compliance with planning consent.",
+   "share_id": "MN202611_i9s34jkzld"
+  },
+  {
+   "id": "crawl_6s95ur",
+   "title": "Rwanda: Inkuru y'umugore wamamaye aho atuye kubera gukina igisoro",
+   "summary": "Igisoro ni umukino gakondo ubu usa n'ugenda ucika dore ko benshi mu bato nta bumenyi na busa bawufiteho, mu bihe byo hambere wasaga n'umwihariko w'abagabo.",
+   "link": "https://www.bbc.com/gahuza/articles/ck30gd50qjp5o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/ck30gd50qjp5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T05:56:16.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c649/live/bbe97be0-e3db-11f1-80c7-5be4cadd4e68.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c649/live/bbe97be0-e3db-11f1-80c7-5be4cadd4e68.jpg",
+   "title_rw": "Rwanda: Inkuru y'umugore wamamaye aho atuye kubera gukina igisoro",
+   "summary_rw": "Igisoro ni umukino gakondo ubu usa n'ugenda ucika dore ko benshi mu bato nta bumenyi na busa bawufiteho, mu bihe byo hambere wasaga n'umwihariko w'abagabo.",
+   "share_id": "MN202611_6s95ur22bl"
+  },
   {
    "id": "crawl_macj8b",
    "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
@@ -185,5 +225,5 @@
    "share_id": "MN202611_492yq9vv73"
   }
  ],
- "updated": "2026-11-19T05:33:23.607Z"
+ "updated": "2026-11-19T06:31:02.969Z"
 }

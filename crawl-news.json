@@ -1,5 +1,45 @@
 [
  {
+  "id": "crawl_i9s34j",
+  "title": "Developer accused of 'environmental vandalism'",
+  "summary": "Bellway says the work has been done with an ecologist on site and in compliance with planning consent.",
+  "link": "https://www.bbc.co.uk/news/articles/cmeq4nx95qpdo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cmeq4nx95qpdo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-19T06:09:25.000Z",
+  "source": "BBC Science",
+  "category": "science",
+  "lang": "en",
+  "keywords": [
+   "BBC Science",
+   "science"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a5d/live/f7ab8f50-e35f-11f1-a094-5fdc692f3e33.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a5d/live/f7ab8f50-e35f-11f1-a094-5fdc692f3e33.jpg",
+  "title_en": "Developer accused of 'environmental vandalism'",
+  "summary_en": "Bellway says the work has been done with an ecologist on site and in compliance with planning consent.",
+  "share_id": "MN202611_i9s34jkzld"
+ },
+ {
+  "id": "crawl_6s95ur",
+  "title": "Rwanda: Inkuru y'umugore wamamaye aho atuye kubera gukina igisoro",
+  "summary": "Igisoro ni umukino gakondo ubu usa n'ugenda ucika dore ko benshi mu bato nta bumenyi na busa bawufiteho, mu bihe byo hambere wasaga n'umwihariko w'abagabo.",
+  "link": "https://www.bbc.com/gahuza/articles/ck30gd50qjp5o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.com/gahuza/articles/ck30gd50qjp5o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-19T05:56:16.000Z",
+  "source": "BBC Gahuza",
+  "category": "news",
+  "lang": "rw",
+  "keywords": [
+   "BBC Gahuza",
+   "news"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c649/live/bbe97be0-e3db-11f1-80c7-5be4cadd4e68.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c649/live/bbe97be0-e3db-11f1-80c7-5be4cadd4e68.jpg",
+  "title_rw": "Rwanda: Inkuru y'umugore wamamaye aho atuye kubera gukina igisoro",
+  "summary_rw": "Igisoro ni umukino gakondo ubu usa n'ugenda ucika dore ko benshi mu bato nta bumenyi na busa bawufiteho, mu bihe byo hambere wasaga n'umwihariko w'abagabo.",
+  "share_id": "MN202611_6s95ur22bl"
+ },
+ {
   "id": "crawl_macj8b",
   "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
   "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
@@ -110,6 +150,36 @@
   "title_rw": "Amateka arabaye Trump Putin na XI mucyumba kimwe",
   "summary_rw": "Amateka arabaye Trump Putin na XI mucyumba kimwe",
   "share_id": "MN202611_1bne7g1aaa7"
+ },
+ {
+  "id": "crawl_ryalom",
+  "title": "PLAYING GTA 6 FOR THE FIRST TIME (PART 1)",
+  "summary": "FOLLOW ME ON TWITCH: https://www.twitch.tv/kaicenat JOIN THE REDDIT🟠: https://www.reddit.com/r/TheKM/ 🔴Follow My Socials: Main Channel: https://youtube.com/c/KaiCenat Twitter : https://twitter.com/KaiCenat Instagram: https://www.instagram.com/kaicenat #KaiCenat #KaiCenatLive #KaiCenatStream",
+  "link": "https://www.youtube.com/watch?v=VZqAPdUvqnQ",
+  "url": "https://www.youtube.com/watch?v=VZqAPdUvqnQ",
+  "date": "2026-11-19T01:28:04.000Z",
+  "source": "YouTube Trending Uganda",
+  "category": "entertainment",
+  "lang": "en",
+  "keywords": [
+   "YouTube Trending Uganda",
+   "entertainment",
+   "trending",
+   "Kai Cenat",
+   "Kai Cenat Live",
+   "Kai Cenat Livestream",
+   "video"
+  ],
+  "video": {
+   "provider": "youtube",
+   "id": "VZqAPdUvqnQ"
+  },
+  "type": "video",
+  "image": "https://i.ytimg.com/vi/VZqAPdUvqnQ/hqdefault.jpg",
+  "thumbnail": "https://i.ytimg.com/vi/VZqAPdUvqnQ/hqdefault.jpg",
+  "title_en": "PLAYING GTA 6 FOR THE FIRST TIME (PART 1)",
+  "summary_en": "FOLLOW ME ON TWITCH: https://www.twitch.tv/kaicenat JOIN THE REDDIT🟠: https://www.reddit.com/r/TheKM/ 🔴Follow My Socials: Main Channel: https://youtube.com/c/KaiCenat Twitter : https://twitter.com/KaiCenat Instagram: https://www.instagram.com/kaicenat #KaiCenat #KaiCenatLive #KaiCenatStream",
+  "share_id": "MN202611_ryalomaqhw"
  },
  {
   "id": "crawl_1lpw7qc",
@@ -253,8 +323,8 @@
    "BBC Business",
    "business"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/decb/live/a6ef9570-e364-11f1-99a1-253766e7ad8b.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/decb/live/a6ef9570-e364-11f1-99a1-253766e7ad8b.jpg",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc2e/live/1e9dd410-e3e2-11f1-a094-5fdc692f3e33.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc2e/live/1e9dd410-e3e2-11f1-a094-5fdc692f3e33.jpg",
   "title_en": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
   "summary_en": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
   "share_id": "MN202611_492yq9vv73"
@@ -7057,6 +7127,36 @@
   "title_rw": "Ibihugu bitanu byo mu muryango w'Ubumwe bw'Uburayi byatangaje gahunda y'ikigo cyo kwakira abimukira byirukanye kizaba kiri mu Rwanda",
   "summary_rw": "Mu kwezi kwa Nzeri(9), Ubudage, Danemark, Autriche, Ubugereki n'Ubuholandi byatangaje ko biri mu biganiro bigamije kugirana amasezerano n'igihugu kitari mu Muryango w'Ubumwe bw'Uburayi, kugira ngo hashyirweho ibyo byise \"ibigo byakira abasubizwa mu bihugu byabo\".",
   "share_id": "MN202611_1s98hn31e3x"
+ },
+ {
+  "id": "crawl_gx12a7",
+  "title": "GIVE ME SOME SUGAH | Official Trailer | Netflix",
+  "summary": "Based on the incredible true story of Lenore Lindsey, Give Me Some Sugah follows a Chicago bakery owner who is stunned by an incredible discovery that inspires her to reclaim lost time, heal old wounds, and find purpose in life’s unexpected miracles. Starring Taraji P. Henson, Jo-Vaughn Virginie Scott (professionally known as Joey BadA$$), and Aunjanue Ellis-Taylor. From producers DeVon Franklin a",
+  "link": "https://www.youtube.com/watch?v=tLdpJLVaVRQ",
+  "url": "https://www.youtube.com/watch?v=tLdpJLVaVRQ",
+  "date": "2026-11-16T16:00:01.000Z",
+  "source": "YouTube Trending Kenya",
+  "category": "entertainment",
+  "lang": "en",
+  "keywords": [
+   "YouTube Trending Kenya",
+   "entertainment",
+   "trending",
+   "Academy Award Nominee",
+   "Adopt",
+   "Black Women",
+   "video"
+  ],
+  "video": {
+   "provider": "youtube",
+   "id": "tLdpJLVaVRQ"
+  },
+  "type": "video",
+  "image": "https://i.ytimg.com/vi/tLdpJLVaVRQ/hqdefault.jpg",
+  "thumbnail": "https://i.ytimg.com/vi/tLdpJLVaVRQ/hqdefault.jpg",
+  "title_en": "GIVE ME SOME SUGAH | Official Trailer | Netflix",
+  "summary_en": "Based on the incredible true story of Lenore Lindsey, Give Me Some Sugah follows a Chicago bakery owner who is stunned by an incredible discovery that inspires her to reclaim lost time, heal old wounds, and find purpose in life’s unexpected miracles. Starring Taraji P. Henson, Jo-Vaughn Virginie Scott (professionally known as Joey BadA$$), and Aunjanue Ellis-Taylor. From producers DeVon Franklin a",
+  "share_id": "MN202611_gx12a7173h"
  },
  {
   "id": "crawl_1b768a9",
@@ -17118,85 +17218,5 @@
   "title_en": "Whatever happened to the $300,000 diamond that went missing in F1 crash?",
   "summary_en": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?",
   "share_id": "MN202611_yl1vvqttac"
- },
- {
-  "id": "crawl_163ra7j",
-  "title": "Firm offers to fake artworks for wealthy migrants seeking UK 'talent' visas - BBC investigation",
-  "summary": "Going undercover to expose an elaborate fraud aimed at obtaining fast-track settlement for wealthy migrants.",
-  "link": "https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-13T06:00:44.000Z",
-  "source": "BBC Entertainment",
-  "category": "entertainment",
-  "lang": "en",
-  "keywords": [
-   "BBC Entertainment",
-   "entertainment"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18bf/live/f63106d0-de89-11f1-b441-2b33b063138f.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18bf/live/f63106d0-de89-11f1-b441-2b33b063138f.jpg",
-  "title_en": "Firm offers to fake artworks for wealthy migrants seeking UK 'talent' visas - BBC investigation",
-  "summary_en": "Going undercover to expose an elaborate fraud aimed at obtaining fast-track settlement for wealthy migrants.",
-  "share_id": "MN202611_163ra7jk6od"
- },
- {
-  "id": "crawl_13gn3wo",
-  "title": "Gitega : Abantu batanu baraye bapfuye abandi barenga 20 barakomereka mw’isanganya ry’imodoka ridasanzwe",
-  "summary": "Amafoto yahanahanywe ku mbuga ngurukanabumenyi na nyagiro agaragaza abantu batari bake barambaraye mw’ibarabara harimwo abagore n’abana, n’imodoka zononekaye cane harimwo iyatembagaye.",
-  "link": "https://www.bbc.co.uk/gahuza/live/cmeq4ngd2ljlt?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/gahuza/live/cmeq4ngd2ljlt?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-13T03:57:12.797Z",
-  "source": "BBC Gahuza",
-  "category": "news",
-  "lang": "rw",
-  "keywords": [
-   "BBC Gahuza",
-   "news"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/621e/live/47cfc080-df3e-11f1-93e1-3b657b665bcf.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/621e/live/47cfc080-df3e-11f1-93e1-3b657b665bcf.jpg",
-  "title_rw": "Gitega : Abantu batanu baraye bapfuye abandi barenga 20 barakomereka mw’isanganya ry’imodoka ridasanzwe",
-  "summary_rw": "Amafoto yahanahanywe ku mbuga ngurukanabumenyi na nyagiro agaragaza abantu batari bake barambaraye mw’ibarabara harimwo abagore n’abana, n’imodoka zononekaye cane harimwo iyatembagaye.",
-  "share_id": "MN202611_13gn3wofp0m"
- },
- {
-  "id": "crawl_2j1omj",
-  "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-  "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
-  "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-13T02:48:29.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c16a/live/65ee22f0-df02-11f1-b6e1-5b169363fed4.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c16a/live/65ee22f0-df02-11f1-b6e1-5b169363fed4.jpg",
-  "title_en": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-  "summary_en": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
-  "share_id": "MN202611_2j1omjyn2h"
- },
- {
-  "id": "crawl_1vbesyw",
-  "title": "Will the Eurovision Song Contest succeed in Asia?",
-  "summary": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday.",
-  "link": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-13T02:24:11.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f20/live/af01cfe0-df08-11f1-a701-fddedf244c16.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f20/live/af01cfe0-df08-11f1-a701-fddedf244c16.jpg",
-  "title_en": "Will the Eurovision Song Contest succeed in Asia?",
-  "summary_en": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday.",
-  "share_id": "MN202611_1vbesyw7e2u"
  }
 ]
