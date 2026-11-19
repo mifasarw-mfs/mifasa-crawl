@@ -4893,6 +4893,102 @@
    ],
    "auto": true,
    "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_11c38930_q",
+   "label_rw": "Aderesi za IP n'amazina y'imbuga za interineti",
+   "label_en": "IP addresses and domain names",
+   "patterns_en": [
+    "What is an IP address?",
+    "How do domain names work?",
+    "What is the role of DNS?"
+   ],
+   "patterns_rw": [
+    "Aderesi ya IP ni iki?",
+    "Izina ry'urubuga rwa interineti rikora ryari?",
+    "DNS ikora ute kuri interineti?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Aderesi ya IP ni umubare uranga mudasomwa kuri interineti. Amazina y'imbuga za interineti afasha abantu kubona aho izo aderesi ziri mu buryo bworoshye. Sisitemu yitwa DNS ihindura ayo mazina aba aderesi za IP kugira ngo mudasomwa zishobore kuvugana.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "An IP address is a numerical label that identifies devices on a network. Domain names make it easier for people to access these locations. The Domain Name System translates these human-readable names into IP addresses so computers can communicate.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_38f8a34c_q",
+   "label_rw": "Porogaramu nkingi zo kurinda urusobe rwa mudasobwa",
+   "label_en": "Firewalls and network security",
+   "patterns_en": [
+    "What is a firewall?",
+    "How does a firewall work?",
+    "Why is network security important?"
+   ],
+   "patterns_rw": [
+    "Porogaramu nkingi ni iki?",
+    "Ese porogaramu nkingi ikora ite?",
+    "Ni gute urusobe rwa mudasobwa rurindwa?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Porogaramu nkingi ni uburyo burinda urusobe rwa mudasobwa. Zigenzura amakuru yinjira n'asohoka. Zibuza abantu badafite uburenganzira kwinjira muri mudasobwa.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "A firewall is a network security system that monitors and controls incoming and outgoing network traffic. It acts as a barrier between a trusted internal network and untrusted external networks like the internet.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_bcd1a1f0_q",
+   "label_rw": "Ubumenyi bwibanze ku miyoboro yihuza porogaramu",
+   "label_en": "API Application Programming Interface basics",
+   "patterns_en": [
+    "What is an API in software?",
+    "How do APIs work in technology?",
+    "Why are APIs important for applications?"
+   ],
+   "patterns_rw": [
+    "API ni iki muri porogaramu?",
+    "Ese API ikora ite mu ikoranabuhanga?",
+    "Ni kuki APIs ari ingenzi kuri porogaramu?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "API ni uburyo buhuza porogaramu ebyiri cyangwa zirenga kugira ngo zivugane. Ifasha porogaramu imwe gusaba amakuru cyangwa serivisi ku yindi. Zifashishwa cyangwa zikoreshwa cyane mu ikoranabuhanga kugira ngo serivisi zitandukanye zikorere hamwe byoroshye.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "An API is a set of rules that allows different software applications to communicate with each other. It enables one program to request data or services from another system. APIs are widely used in technology to help various services work together smoothly.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_f1c35b95_q",
+   "label_rw": "Uburyo bwo gutunganya no kubika amakuru muri mudasobwa",
+   "label_en": "Data structures and arrays",
+   "patterns_en": [
+    "What is a data structure?",
+    "What is an array in programming?",
+    "Why is efficient data organization important?"
+   ],
+   "patterns_rw": [
+    "Uburyo bwo gutunganya amakuru ni iki?",
+    "Array ni iki muri mudasobwa?",
+    "Kuki kubika amakuru neza bifite akamaro?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Uburyo bwo gutunganya no kubika amakuru bufasha mudasobwa gukora vuba. Array ni bumwe mu buryo bw'ibanze bwo kubika amakuru menshi afite ubwoko bumwe ku murongo umwe. Bituma ubushakashatsi bw'amakuru bworoha kandi bugakorwa vuba mu gihe cyo gukoresha porogaramu.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Data structures help computers organize and store information efficiently. An array is a fundamental data structure that usually stores a collection of elements of the same type in sequential memory locations. This allows programs to access and manipulate data quickly.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
   }
  ],
  "knowledge": [
@@ -8917,6 +9013,85 @@
     "posture",
     "ubuzima",
     "health"
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_11c38930",
+   "category": "technology",
+   "title_rw": "Aderesi za IP n'amazina y'imbuga za interineti",
+   "title_en": "IP addresses and domain names",
+   "summary_rw": "Aderesi ya IP ni umubare uranga mudasomwa kuri interineti. Amazina y'imbuga za interineti afasha abantu kubona aho izo aderesi ziri mu buryo bworoshye. Sisitemu yitwa DNS ihindura ayo mazina aba aderesi za IP kugira ngo mudasomwa zishobore kuvugana.",
+   "summary_en": "An IP address is a numerical label that identifies devices on a network. Domain names make it easier for people to access these locations. The Domain Name System translates these human-readable names into IP addresses so computers can communicate.",
+   "keywords": [
+    "ip address",
+    "aderesi ya ip",
+    "domain name",
+    "izina ry'urubuga",
+    "dns",
+    "interineti",
+    "internet"
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_38f8a34c",
+   "category": "technology",
+   "title_rw": "Porogaramu nkingi zo kurinda urusobe rwa mudasobwa",
+   "title_en": "Firewalls and network security",
+   "summary_rw": "Porogaramu nkingi ni uburyo burinda urusobe rwa mudasobwa. Zigenzura amakuru yinjira n'asohoka. Zibuza abantu badafite uburenganzira kwinjira muri mudasobwa.",
+   "summary_en": "A firewall is a network security system that monitors and controls incoming and outgoing network traffic. It acts as a barrier between a trusted internal network and untrusted external networks like the internet.",
+   "keywords": [
+    "firewall",
+    "porogaramu",
+    "urusobe",
+    "mudasobwa",
+    "umutekano",
+    "interineti",
+    "network",
+    "security"
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_bcd1a1f0",
+   "category": "technology",
+   "title_rw": "Ubumenyi bwibanze ku miyoboro yihuza porogaramu",
+   "title_en": "API Application Programming Interface basics",
+   "summary_rw": "API ni uburyo buhuza porogaramu ebyiri cyangwa zirenga kugira ngo zivugane. Ifasha porogaramu imwe gusaba amakuru cyangwa serivisi ku yindi. Zifashishwa cyangwa zikoreshwa cyane mu ikoranabuhanga kugira ngo serivisi zitandukanye zikorere hamwe byoroshye.",
+   "summary_en": "An API is a set of rules that allows different software applications to communicate with each other. It enables one program to request data or services from another system. APIs are widely used in technology to help various services work together smoothly.",
+   "keywords": [
+    "api",
+    "porogaramu",
+    "software",
+    "ikoranabuhanga",
+    "amakuru",
+    "data",
+    "connection",
+    "huza"
+   ],
+   "auto": true,
+   "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_f1c35b95",
+   "category": "technology",
+   "title_rw": "Uburyo bwo gutunganya no kubika amakuru muri mudasobwa",
+   "title_en": "Data structures and arrays",
+   "summary_rw": "Uburyo bwo gutunganya no kubika amakuru bufasha mudasobwa gukora vuba. Array ni bumwe mu buryo bw'ibanze bwo kubika amakuru menshi afite ubwoko bumwe ku murongo umwe. Bituma ubushakashatsi bw'amakuru bworoha kandi bugakorwa vuba mu gihe cyo gukoresha porogaramu.",
+   "summary_en": "Data structures help computers organize and store information efficiently. An array is a fundamental data structure that usually stores a collection of elements of the same type in sequential memory locations. This allows programs to access and manipulate data quickly.",
+   "keywords": [
+    "amakuru",
+    "data",
+    "mudasobwa",
+    "computer",
+    "array",
+    "porogaramu",
+    "programming",
+    "ububiko"
    ],
    "auto": true,
    "taught": "2026-11-19"
