@@ -1,7 +1,47 @@
 {
  "day": "2026-11-19",
- "count": 74,
+ "count": 76,
  "articles": [
+  {
+   "id": "crawl_10opscr",
+   "title": "Can the Rwanda-EU5 Migration Agreement Push EU to Acknowledge Rwanda’s True Face?",
+   "summary": "Europe, the West in general, have long been two faced about Rwanda. With the announcement of “immigration return hubs” partnership between Rwanda, and five EU member states, will the EU… The post Can the Rwanda-EU5 Migration Agreement Push EU to Acknowledge Rwanda’s True Face? appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/can-the-rwanda-eu5-migration-agreement-push-eu-to-acknowledge-rwandas-true-face/",
+   "url": "https://www.ktpress.rw/2026/11/can-the-rwanda-eu5-migration-agreement-push-eu-to-acknowledge-rwandas-true-face/",
+   "date": "2026-11-19T17:35:39.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "International",
+    "big-story"
+   ],
+   "title_en": "Can the Rwanda-EU5 Migration Agreement Push EU to Acknowledge Rwanda’s True Face?",
+   "summary_en": "Europe, the West in general, have long been two faced about Rwanda. With the announcement of “immigration return hubs” partnership between Rwanda, and five EU member states, will the EU… The post Can the Rwanda-EU5 Migration Agreement Push EU to Acknowledge Rwanda’s True Face? appeared first on KT PRESS .",
+   "share_id": "MN202611_10opscrirzd"
+  },
+  {
+   "id": "crawl_1cjc4v3",
+   "title": "Somalia yategetse ambasaderi wa Emira Zunze Ubumwe z'Abarabu kuva ku butaka bwayo mu gihe kitarenze amasaha 72",
+   "summary": "Iki cyemezo cyatangajwe kuri uyu wa kane na minisitiri w'itangazamakuru wa Somalia, Abdulfatah Qasim, nyuma y'inama y'abaminisitiri yari iyobowe na Minisitiri w'Intebe Hamza Abdi Barre.",
+   "link": "https://www.bbc.com/gahuza/articles/cqrkgn0336y2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/cqrkgn0336y2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T17:33:45.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eece/live/551a8530-e43f-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eece/live/551a8530-e43f-11f1-99b6-a35a62fa4264.jpg",
+   "title_rw": "Somalia yategetse ambasaderi wa Emira Zunze Ubumwe z'Abarabu kuva ku butaka bwayo mu gihe kitarenze amasaha 72",
+   "summary_rw": "Iki cyemezo cyatangajwe kuri uyu wa kane na minisitiri w'itangazamakuru wa Somalia, Abdulfatah Qasim, nyuma y'inama y'abaminisitiri yari iyobowe na Minisitiri w'Intebe Hamza Abdi Barre.",
+   "share_id": "MN202611_1cjc4v351bx"
+  },
   {
    "id": "crawl_l6oiae",
    "title": "Susan Smith denied parole again 32 years after drowning her two sons",
@@ -1511,5 +1551,5 @@
    "share_id": "MN202611_492yq9vv73"
   }
  ],
- "updated": "2026-11-19T17:28:20.655Z"
+ "updated": "2026-11-19T18:19:54.641Z"
 }
