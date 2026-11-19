@@ -1,6 +1,6 @@
 {
  "day": "2026-11-19",
- "count": 20,
+ "count": 21,
  "articles": [
   {
    "id": "crawl_16psmm6",
@@ -41,6 +41,26 @@
    "title_en": "The best European strikers this century - ranked by you",
    "summary_en": "BBC Sport reveals the top 10 European strikers this century, as voted for by you.",
    "share_id": "MN202611_1iusgz4kedq"
+  },
+  {
+   "id": "crawl_zpfbo4",
+   "title": "World marathon champion Jepchirchir gets three-year doping ban",
+   "summary": "Reigning world marathon champion Peres Jepchirchir is banned for three years for a doping violation.",
+   "link": "https://www.bbc.co.uk/sport/athletics/articles/cv5y1e1zle88o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/athletics/articles/cv5y1e1zle88o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T08:20:47.000Z",
+   "source": "BBC Sport Africa",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Sport Africa",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c292/live/4a3d4a90-ced6-11f1-b2b0-07f43a3ad2d3.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c292/live/4a3d4a90-ced6-11f1-b2b0-07f43a3ad2d3.jpg",
+   "title_en": "World marathon champion Jepchirchir gets three-year doping ban",
+   "summary_en": "Reigning world marathon champion Peres Jepchirchir is banned for three years for a doping violation.",
+   "share_id": "MN202611_zpfbo4xdv6"
   },
   {
    "id": "crawl_4q1s9i",
@@ -405,5 +425,5 @@
    "share_id": "MN202611_492yq9vv73"
   }
  ],
- "updated": "2026-11-19T09:33:42.915Z"
+ "updated": "2026-11-19T09:45:28.107Z"
 }

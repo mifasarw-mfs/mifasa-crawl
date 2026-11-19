@@ -6,12 +6,12 @@
   "link": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-19T09:21:54.000Z",
-  "source": "BBC Science",
-  "category": "science",
+  "source": "BBC World",
+  "category": "world",
   "lang": "en",
   "keywords": [
-   "BBC Science",
-   "science"
+   "BBC World",
+   "world"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f49/live/977f9e30-e3f2-11f1-a1b0-810734adec41.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f49/live/977f9e30-e3f2-11f1-a1b0-810734adec41.jpg",
@@ -40,6 +40,26 @@
   "share_id": "MN202611_1iusgz4kedq"
  },
  {
+  "id": "crawl_zpfbo4",
+  "title": "World marathon champion Jepchirchir gets three-year doping ban",
+  "summary": "Reigning world marathon champion Peres Jepchirchir is banned for three years for a doping violation.",
+  "link": "https://www.bbc.co.uk/sport/athletics/articles/cv5y1e1zle88o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/athletics/articles/cv5y1e1zle88o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-19T08:20:47.000Z",
+  "source": "BBC Sport Africa",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Sport Africa",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c292/live/4a3d4a90-ced6-11f1-b2b0-07f43a3ad2d3.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c292/live/4a3d4a90-ced6-11f1-b2b0-07f43a3ad2d3.jpg",
+  "title_en": "World marathon champion Jepchirchir gets three-year doping ban",
+  "summary_en": "Reigning world marathon champion Peres Jepchirchir is banned for three years for a doping violation.",
+  "share_id": "MN202611_zpfbo4xdv6"
+ },
+ {
   "id": "crawl_4q1s9i",
   "title": "How Premier League's big six keep getting richer",
   "summary": "Ten games into the Premier League season, and the top five places are dominated by big six clubs. It should come as no surprise as they have a growing advantage of hundreds of millions of pounds.",
@@ -66,12 +86,12 @@
   "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-19T07:27:26.000Z",
-  "source": "BBC Africa",
-  "category": "news",
+  "source": "BBC World",
+  "category": "world",
   "lang": "en",
   "keywords": [
-   "BBC Africa",
-   "news"
+   "BBC World",
+   "world"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f4/live/ce62ad80-e3e7-11f1-a16c-7de3762c094b.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f4/live/ce62ad80-e3e7-11f1-a16c-7de3762c094b.jpg",
@@ -213,7 +233,7 @@
  },
  {
   "id": "crawl_1wt77dt",
-  "title": "Who decides if a game is for adults only?",
+  "title": "Who decides that Grand Theft Auto is for adults only?",
   "summary": "Examiners based in Stevenage spend days playing unreleased games before issuing age rating.",
   "link": "https://www.bbc.co.uk/news/articles/c6m25ver32rpo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/c6m25ver32rpo?at_medium=RSS&at_campaign=rss",
@@ -227,7 +247,7 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69a0/live/a96b9210-e1dc-11f1-b8c8-67fa35f5afdb.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69a0/live/a96b9210-e1dc-11f1-b8c8-67fa35f5afdb.jpg",
-  "title_en": "Who decides if a game is for adults only?",
+  "title_en": "Who decides that Grand Theft Auto is for adults only?",
   "summary_en": "Examiners based in Stevenage spend days playing unreleased games before issuing age rating.",
   "share_id": "MN202611_1wt77dt03un"
  },
@@ -265,8 +285,8 @@
    "BBC World",
    "world"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ac/live/bcaff6a0-e3cf-11f1-a266-6b47da5e73cc.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ac/live/bcaff6a0-e3cf-11f1-a266-6b47da5e73cc.jpg",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c722/live/3ea490d0-e3ee-11f1-a094-5fdc692f3e33.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c722/live/3ea490d0-e3ee-11f1-a094-5fdc692f3e33.jpg",
   "title_en": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
   "summary_en": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
   "share_id": "MN202611_macj8b5fp5"
@@ -17192,31 +17212,5 @@
   "title_rw": "#diamondplatnumz #wcb #nigeria #dance",
   "summary_rw": "#diamondplatnumz #wcb #nigeria #dance",
   "share_id": "MN202611_48pvzy5t5o"
- },
- {
-  "id": "crawl_8w6ifn",
-  "title": "#diamondplatnumz #Zuchu #Love",
-  "summary": "#diamondplatnumz #Zuchu #Love",
-  "link": "https://www.youtube.com/shorts/AD-xPnHLHHI",
-  "url": "https://www.youtube.com/shorts/AD-xPnHLHHI",
-  "date": "2026-11-13T07:43:36.000Z",
-  "source": "Diamond Platnumz YouTube",
-  "category": "entertainment",
-  "lang": "rw",
-  "keywords": [
-   "Diamond Platnumz YouTube",
-   "entertainment",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "AD-xPnHLHHI"
-  },
-  "type": "video",
-  "image": "https://i2.ytimg.com/vi/AD-xPnHLHHI/hqdefault.jpg",
-  "thumbnail": "https://i2.ytimg.com/vi/AD-xPnHLHHI/hqdefault.jpg",
-  "title_rw": "#diamondplatnumz #Zuchu #Love",
-  "summary_rw": "#diamondplatnumz #Zuchu #Love",
-  "share_id": "MN202611_8w6ifnmfld"
  }
 ]
