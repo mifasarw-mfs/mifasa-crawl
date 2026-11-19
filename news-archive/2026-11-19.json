@@ -1,7 +1,27 @@
 {
  "day": "2026-11-19",
- "count": 6,
+ "count": 7,
  "articles": [
+  {
+   "id": "crawl_7q8075",
+   "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+   "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+   "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T01:56:28.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3333/live/c9ef87a0-e3b5-11f1-ac8e-bf9cbaf16b78.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3333/live/c9ef87a0-e3b5-11f1-ac8e-bf9cbaf16b78.jpg",
+   "title_en": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+   "summary_en": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+   "share_id": "MN202611_7q80750wnz"
+  },
   {
    "id": "crawl_144arou",
    "title": "Crimean Bridge attacked again, Russian official says",
@@ -125,5 +145,5 @@
    "share_id": "MN202611_492yq9vv73"
   }
  ],
- "updated": "2026-11-19T01:42:24.445Z"
+ "updated": "2026-11-19T02:08:23.962Z"
 }
