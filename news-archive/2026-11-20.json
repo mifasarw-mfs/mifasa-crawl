@@ -1,6 +1,6 @@
 {
  "day": "2026-11-20",
- "count": 22,
+ "count": 26,
  "articles": [
   {
    "id": "crawl_vx2fmn",
@@ -63,6 +63,26 @@
    "share_id": "MN202611_lpe1l16y1v"
   },
   {
+   "id": "crawl_1x657u7",
+   "title": "Actor Owen Cooper stars in new Beatles music video",
+   "summary": "The film follows a family's love of music across generations and features Liverpool landmarks.",
+   "link": "https://www.bbc.co.uk/news/articles/ckx280084z2go?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckx280084z2go?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T06:22:29.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25b2/live/5ce45220-e45b-11f1-9431-9fe383d2f2c7.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25b2/live/5ce45220-e45b-11f1-9431-9fe383d2f2c7.jpg",
+   "title_en": "Actor Owen Cooper stars in new Beatles music video",
+   "summary_en": "The film follows a family's love of music across generations and features Liverpool landmarks.",
+   "share_id": "MN202611_1x657u7y4b1"
+  },
+  {
    "id": "crawl_g4ccdb",
    "title": "Wildlife conservation cash targets ex-colliery sites",
    "summary": "The project aims to create and restore habitats for amphibians and lizards at sites in Yorkshire.",
@@ -81,6 +101,26 @@
    "title_en": "Wildlife conservation cash targets ex-colliery sites",
    "summary_en": "The project aims to create and restore habitats for amphibians and lizards at sites in Yorkshire.",
    "share_id": "MN202611_g4ccdb58u5"
+  },
+  {
+   "id": "crawl_11a49yr",
+   "title": "Remember Monday 'still feel nerves' after Eurovision",
+   "summary": "Life is an adrenaline rush for the trio after their rise to fame through the 2025 Eurovision final.",
+   "link": "https://www.bbc.co.uk/news/articles/cke89vdd77p3o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cke89vdd77p3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T06:13:47.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ccc/live/3baf4d60-e435-11f1-8346-933d3547e297.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ccc/live/3baf4d60-e435-11f1-8346-933d3547e297.png",
+   "title_en": "Remember Monday 'still feel nerves' after Eurovision",
+   "summary_en": "Life is an adrenaline rush for the trio after their rise to fame through the 2025 Eurovision final.",
+   "share_id": "MN202611_11a49yrx6fl"
   },
   {
    "id": "crawl_8f887i",
@@ -311,6 +351,26 @@
    "share_id": "MN202611_u7oztbhwa5"
   },
   {
+   "id": "crawl_160uauq",
+   "title": "New Hunger Games cast say joining the franchise is 'nerve-racking'",
+   "summary": "The prequel, which is set 24 years before the original The Hunger Games film, is released today.",
+   "link": "https://www.bbc.co.uk/news/articles/c8752w5vz2zqo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c8752w5vz2zqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T01:11:57.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/072f/live/f0b3cb40-e3fa-11f1-a1b0-810734adec41.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/072f/live/f0b3cb40-e3fa-11f1-a1b0-810734adec41.jpg",
+   "title_en": "New Hunger Games cast say joining the franchise is 'nerve-racking'",
+   "summary_en": "The prequel, which is set 24 years before the original The Hunger Games film, is released today.",
+   "share_id": "MN202611_160uauqn7bk"
+  },
+  {
    "id": "crawl_17qexxb",
    "title": "More climate money for Africa? Europe says use what's already pledged",
    "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
@@ -329,6 +389,26 @@
    "title_en": "More climate money for Africa? Europe says use what's already pledged",
    "summary_en": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
    "share_id": "MN202611_17qexxb7ue5"
+  },
+  {
+   "id": "crawl_4u2s9p",
+   "title": "Next round of BBC cuts will be more noticeable to audiences, report warns",
+   "summary": "The BBC has already cut jobs, programmes and services but has further to go to reach its £500m target.",
+   "link": "https://www.bbc.co.uk/news/articles/cmpdwev0jgp6o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmpdwev0jgp6o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T00:38:57.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e693/live/c254bab0-e42d-11f1-a630-a951c13e48b7.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e693/live/c254bab0-e42d-11f1-a630-a951c13e48b7.jpg",
+   "title_en": "Next round of BBC cuts will be more noticeable to audiences, report warns",
+   "summary_en": "The BBC has already cut jobs, programmes and services but has further to go to reach its £500m target.",
+   "share_id": "MN202611_4u2s9pvoqj"
   },
   {
    "id": "crawl_gpfmhg",
@@ -451,5 +531,5 @@
    "share_id": "MN202611_kh4czrx9gl"
   }
  ],
- "updated": "2026-11-20T06:53:41.904Z"
+ "updated": "2026-11-20T06:56:56.777Z"
 }
