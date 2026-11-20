@@ -5684,6 +5684,78 @@
    ],
    "auto": true,
    "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_a2495045_q",
+   "label_rw": "Ibiribwa bya Kinyarwanda",
+   "label_en": "Traditional Rwandan Cuisine",
+   "patterns_en": [
+    "What are the most common foods in Rwanda?",
+    "What is traditional Rwandan cuisine based on?",
+    "What are popular drinks in Rwanda?"
+   ],
+   "patterns_rw": [
+    "Ni ibihe biribwa bizwi cyane mu Rwanda?",
+    "Imirire ya Kinyarwanda ishingiye kuri iki?",
+    "Ni iki cyiganje mu byo Abanyarwanda banywa?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubusanzwe imirire ya Kinyarwanda ishingiye ku byera mu Rwanda. Ibiribwa bizwi cyane ni ibishyimbo, ibijumba, amasaka n'ibitoki. Abantu benshi bakunda urwagwa n'amata. Iyi mirire igaragaza umuco w'u Rwanda.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Traditional Rwandan cuisine is usually based on local agriculture. Common foods include beans, sweet potatoes, sorghum, and bananas. Many people enjoy traditional beer and milk. This diet reflects the culture of Rwanda.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_648ca78c_q",
+   "label_rw": "Imigani n'Imigenurano by'Abanyarwanda",
+   "label_en": "Rwandan Folklore and Legends",
+   "patterns_en": [
+    "What is the importance of folklore and proverbs in Rwandan culture?",
+    "Who usually passes down traditional stories in Rwanda?",
+    "What is the main goal of Rwandan proverbs?"
+   ],
+   "patterns_rw": [
+    "Imigani n'imigenurano bifite akahe kamaro mu muco nyarwanda?",
+    "Ni bande batanga ubumenyi bw'imigani mu Rwanda?",
+    "Imigani nyarwanda igamije kwigisha iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imigani n'imigenurano bigize igice gikomeye cy'umuco nyarwanda. Bifashishwa mu kwigisha uburere, kwerekana indangagaciro, no gusobanura amateka y'abakurambere. Ababyeyi n'abakuze bayigeza ku rubyaro binyuze mu migani miremire n'imigani migufi y'imigenurano.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Folklore and proverbs form an important part of Rwandan culture. They are used to teach morals, promote values, and explain ancestral history. Elders usually pass them down to the younger generation through traditional stories and short proverbs.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_f3bdee29_q",
+   "label_rw": "Umuco w'Inka mu Rwanda",
+   "label_en": "Cattle Culture in Rwanda",
+   "patterns_en": [
+    "What did cattle mean in Rwandan culture?",
+    "What was associated with cattle pastoralism?",
+    "What characterized the cattle culture in traditional Rwanda?"
+   ],
+   "patterns_rw": [
+    "Inka zari zivuze iki mu muco w'u Rwanda?",
+    "Ubworozi bw'inka bwari buhuriweho n'iki?",
+    "Ni iki cyarangize umuco w'inka mu Rwanda rwo hambere?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Inka zari zifite akamaro gakomeye mu muco w'u Rwanda rwo hambere. Zagaragarizaga ubutunzi, icyubahiro, n'ubucuti hagati y'Abanyarwanda. Ubworozi bw'inka bwari buhuriweho n'imigenzo n'amateka byihariye.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Cattle held profound cultural significance in traditional Rwanda. They represented wealth, social status, and alliances among people. Pastoralism was deeply intertwined with unique traditions and history.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
   }
  ],
  "knowledge": [
@@ -10361,6 +10433,66 @@
     "rain",
     "kuhira",
     "irrigation"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_a2495045",
+   "category": "culture",
+   "title_rw": "Ibiribwa bya Kinyarwanda",
+   "title_en": "Traditional Rwandan Cuisine",
+   "summary_rw": "Ubusanzwe imirire ya Kinyarwanda ishingiye ku byera mu Rwanda. Ibiribwa bizwi cyane ni ibishyimbo, ibijumba, amasaka n'ibitoki. Abantu benshi bakunda urwagwa n'amata. Iyi mirire igaragaza umuco w'u Rwanda.",
+   "summary_en": "Traditional Rwandan cuisine is usually based on local agriculture. Common foods include beans, sweet potatoes, sorghum, and bananas. Many people enjoy traditional beer and milk. This diet reflects the culture of Rwanda.",
+   "keywords": [
+    "ibiribwa",
+    "umuco",
+    "ubuhinzi",
+    "amateka",
+    "food",
+    "culture",
+    "agriculture",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_648ca78c",
+   "category": "culture",
+   "title_rw": "Imigani n'Imigenurano by'Abanyarwanda",
+   "title_en": "Rwandan Folklore and Legends",
+   "summary_rw": "Imigani n'imigenurano bigize igice gikomeye cy'umuco nyarwanda. Bifashishwa mu kwigisha uburere, kwerekana indangagaciro, no gusobanura amateka y'abakurambere. Ababyeyi n'abakuze bayigeza ku rubyaro binyuze mu migani miremire n'imigani migufi y'imigenurano.",
+   "summary_en": "Folklore and proverbs form an important part of Rwandan culture. They are used to teach morals, promote values, and explain ancestral history. Elders usually pass them down to the younger generation through traditional stories and short proverbs.",
+   "keywords": [
+    "umuco",
+    "culture",
+    "imigani",
+    "folklore",
+    "imigenurano",
+    "proverbs",
+    "u rwanda",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_f3bdee29",
+   "category": "culture",
+   "title_rw": "Umuco w'Inka mu Rwanda",
+   "title_en": "Cattle Culture in Rwanda",
+   "summary_rw": "Inka zari zifite akamaro gakomeye mu muco w'u Rwanda rwo hambere. Zagaragarizaga ubutunzi, icyubahiro, n'ubucuti hagati y'Abanyarwanda. Ubworozi bw'inka bwari buhuriweho n'imigenzo n'amateka byihariye.",
+   "summary_en": "Cattle held profound cultural significance in traditional Rwanda. They represented wealth, social status, and alliances among people. Pastoralism was deeply intertwined with unique traditions and history.",
+   "keywords": [
+    "inka",
+    "cattle",
+    "umuco",
+    "culture",
+    "rwanda",
+    "ubutunzi",
+    "wealth",
+    "ubworozi"
    ],
    "auto": true,
    "taught": "2026-11-20"
