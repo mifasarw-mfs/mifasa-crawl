@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-20T01:42:48.758Z",
+ "updated": "2026-11-20T02:45:05.663Z",
  "letters": {
   "a": {
-   "words": 554,
-   "defined": 58
+   "words": 556,
+   "defined": 80
   },
   "b": {
-   "words": 544,
-   "defined": 41
+   "words": 552,
+   "defined": 42
   },
   "c": {
    "words": 512,
@@ -18,7 +18,7 @@
    "defined": 42
   },
   "e": {
-   "words": 247,
+   "words": 248,
    "defined": 38
   },
   "f": {
@@ -26,15 +26,15 @@
    "defined": 52
   },
   "g": {
-   "words": 232,
+   "words": 234,
    "defined": 30
   },
   "h": {
-   "words": 239,
+   "words": 240,
    "defined": 27
   },
   "i": {
-   "words": 475,
+   "words": 482,
    "defined": 22
   },
   "j": {
@@ -50,11 +50,11 @@
    "defined": 34
   },
   "m": {
-   "words": 349,
+   "words": 351,
    "defined": 38
   },
   "n": {
-   "words": 175,
+   "words": 176,
    "defined": 16
   },
   "o": {
@@ -70,7 +70,7 @@
    "defined": 3
   },
   "r": {
-   "words": 454,
+   "words": 456,
    "defined": 38
   },
   "s": {
@@ -82,30 +82,30 @@
    "defined": 53
   },
   "u": {
-   "words": 287,
+   "words": 290,
    "defined": 7
   },
   "v": {
    "words": 93,
-   "defined": 7
+   "defined": 8
   },
   "w": {
-   "words": 193,
-   "defined": 29
+   "words": 194,
+   "defined": 31
   },
   "x": {
    "words": 3,
    "defined": 0
   },
   "y": {
-   "words": 158,
-   "defined": 7
+   "words": 160,
+   "defined": 8
   },
   "z": {
    "words": 56,
    "defined": 0
   }
  },
- "total": 7077,
- "defined": 804
+ "total": 7109,
+ "defined": 831
 }
