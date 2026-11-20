@@ -1,7 +1,150 @@
 {
  "day": "2026-11-20",
- "count": 26,
+ "count": 33,
  "articles": [
+  {
+   "id": "crawl_gpy6jj",
+   "title": "Tinned goods and long-life milk boost retail sales after 'Be Ready' campaign launch",
+   "summary": "People stocking up on long-life food drove retail sales higher October, according to official data.",
+   "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T07:44:29.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55f3/live/5b4f20a0-e4b2-11f1-a1dc-9f4190df3aa7.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55f3/live/5b4f20a0-e4b2-11f1-a1dc-9f4190df3aa7.jpg",
+   "title_en": "Tinned goods and long-life milk boost retail sales after 'Be Ready' campaign launch",
+   "summary_en": "People stocking up on long-life food drove retail sales higher October, according to official data.",
+   "share_id": "MN202611_gpy6jjr30d"
+  },
+  {
+   "id": "crawl_nepa0v",
+   "title": "Inside the rise of 'humble' Nyoni and why Iraola trusts him",
+   "summary": "Teenage midfielder Trey Nyoni backed himself in the summer to play regular football for Liverpool. He is doing exactly that and thriving under Andoni Iraola.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck24enjqvlyeo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ck24enjqvlyeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T07:42:04.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7f5/live/610e5c60-e361-11f1-a898-e7da1c1ebbf0.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7f5/live/610e5c60-e361-11f1-a898-e7da1c1ebbf0.jpg",
+   "title_en": "Inside the rise of 'humble' Nyoni and why Iraola trusts him",
+   "summary_en": "Teenage midfielder Trey Nyoni backed himself in the summer to play regular football for Liverpool. He is doing exactly that and thriving under Andoni Iraola.",
+   "share_id": "MN202611_nepa0vh7fh"
+  },
+  {
+   "id": "crawl_fbfgx0",
+   "title": "Twari tuzi ko dutsindwa bine - Bwa mbere Emery Bayisenge akina umukino wa APR FC na Rayon Sports",
+   "summary": "Myugariro Emery Bayisenge wakiniye APR FC na Rayon Sports avuga ko ku mukino we wa mbere uhuza aya makipe yakinnye mu 2012 ari muri APR FC atigeze asinzira na gato kubera kuwutekerezaho mu gihe (…)",
+   "link": "https://www.kigalitoday.com/imikino/football/article/twari-tuzi-ko-dutsindwa-bine-bwa-mbere-emery-bayisenge-akina-umukino-wa-apr-fc-na-rayon-sports",
+   "url": "https://www.kigalitoday.com/imikino/football/article/twari-tuzi-ko-dutsindwa-bine-bwa-mbere-emery-bayisenge-akina-umukino-wa-apr-fc-na-rayon-sports",
+   "date": "2026-11-20T07:38:25.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Football",
+    "MobileBigStory",
+    "Jean Jules Uwimana"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/fotogrid_20261118_233919606.jpg.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/fotogrid_20261118_233919606.jpg.jpg",
+   "title_rw": "Twari tuzi ko dutsindwa bine - Bwa mbere Emery Bayisenge akina umukino wa APR FC na Rayon Sports",
+   "summary_rw": "Myugariro Emery Bayisenge wakiniye APR FC na Rayon Sports avuga ko ku mukino we wa mbere uhuza aya makipe yakinnye mu 2012 ari muri APR FC atigeze asinzira na gato kubera kuwutekerezaho mu gihe (…)",
+   "share_id": "MN202611_fbfgx01uwy"
+  },
+  {
+   "id": "crawl_1alvmtb",
+   "title": "Should AI be judging our credit worthiness?",
+   "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+   "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T07:32:19.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5352/live/663fec10-d765-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5352/live/663fec10-d765-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "Should AI be judging our credit worthiness?",
+   "summary_en": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+   "share_id": "MN202611_1alvmtboja5"
+  },
+  {
+   "id": "crawl_1w6x91g",
+   "title": "Moore eyes Kane shirt as Spurs' past and future stars meet",
+   "summary": "Cologne loanee Mikey Moore says he hopes to exchange shirts with former Spurs team-mate Harry Kane when they face Bayern Munich on Friday.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq0k65pyp4jvo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cq0k65pyp4jvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T07:26:36.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726c/live/32741560-c8aa-11f1-9c75-6ff1271de385.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726c/live/32741560-c8aa-11f1-9c75-6ff1271de385.jpg",
+   "title_en": "Moore eyes Kane shirt as Spurs' past and future stars meet",
+   "summary_en": "Cologne loanee Mikey Moore says he hopes to exchange shirts with former Spurs team-mate Harry Kane when they face Bayern Munich on Friday.",
+   "share_id": "MN202611_1w6x91gp6g2"
+  },
+  {
+   "id": "crawl_nd8vgc",
+   "title": "'Better results for patients' since SWAH surgery suspended, says health chief",
+   "summary": "Emergency general surgery was temporarily suspended at SWAH in December 2022.",
+   "link": "https://www.bbc.co.uk/news/articles/cq2d944g077lo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq2d944g077lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T07:11:13.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ad/live/c4c548e0-e456-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ad/live/c4c548e0-e456-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "'Better results for patients' since SWAH surgery suspended, says health chief",
+   "summary_en": "Emergency general surgery was temporarily suspended at SWAH in December 2022.",
+   "share_id": "MN202611_nd8vgc1rx6"
+  },
+  {
+   "id": "crawl_1vb8uxk",
+   "title": "Too late for Jackson? - FPL gameweek 11 dilemmas",
+   "summary": "BBC Sport's Fantasy Premier League expert Gianni Buttice gives his answers to some of the biggest dilemmas facing managers in gameweek 11.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckp80q8p4yvyo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ckp80q8p4yvyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T07:08:51.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ccb/live/578a67d0-e3ff-11f1-99b6-a35a62fa4264.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ccb/live/578a67d0-e3ff-11f1-99b6-a35a62fa4264.png",
+   "title_en": "Too late for Jackson? - FPL gameweek 11 dilemmas",
+   "summary_en": "BBC Sport's Fantasy Premier League expert Gianni Buttice gives his answers to some of the biggest dilemmas facing managers in gameweek 11.",
+   "share_id": "MN202611_1vb8uxk0sc6"
+  },
   {
    "id": "crawl_vx2fmn",
    "title": "Who am I? Plus today's other quizzes",
@@ -531,5 +674,5 @@
    "share_id": "MN202611_kh4czrx9gl"
   }
  ],
- "updated": "2026-11-20T06:56:56.777Z"
+ "updated": "2026-11-20T08:05:47.957Z"
 }
