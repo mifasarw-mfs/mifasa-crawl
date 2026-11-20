@@ -5492,6 +5492,78 @@
    ],
    "auto": true,
    "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_07096ffb_q",
+   "label_rw": "Intangiriro y'ibarurishamibare",
+   "label_en": "Introduction to Statistics",
+   "patterns_en": [
+    "What is statistics?",
+    "How is statistics used in daily life?",
+    "What are the main tasks in statistics?"
+   ],
+   "patterns_rw": [
+    "Ibarurishamibare ni iki?",
+    "Ese ibarurishamibare rimaze iki mu buzima?",
+    "Ni iki gikorerwa muibarurishamibare?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ibarurishamibare ni ishami ry'imibare ryita ku gukusanya, gusesengura, no gutanga ubusobanuro ku makuru y'imibare. Rifasha abantu gufata ibyemezo bushingiye ku bimenyetso bifatika mu buzima bwa buri munsi no mu bushakashatsi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Statistics is a branch of mathematics concerned with collecting, analyzing, and interpreting numerical data. It helps people make evidence-based decisions in daily life and research.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_30601d41_q",
+   "label_rw": "Gushushanya ku rubuga rw'imiburano",
+   "label_en": "Graphing on a Coordinate Plane",
+   "patterns_en": [
+    "What is a coordinate plane made of?",
+    "What is the horizontal line called?",
+    "What is the intersection point called?"
+   ],
+   "patterns_rw": [
+    "Rubuga rw'imiburano rugizwe n'iki?",
+    "Umwitambiko w'iburyo n'ibumoso witwa ute?",
+    "Ingingo yo guhurira kw'imitambiko yitwa iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Rubuga rw'imiburano ruzwi nka Cartesian plane rugizwe n'imitambiko ibiri yitwa x-axis na y-axis. Iyi mitambiko ihurira ku ngingo yitwa zero cyangwa origin. Iyi ngano ifasha mu gutanga imibare ibiri yerekana aho ikintu kiri.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "A coordinate plane, also known as a Cartesian plane, consists of two perpendicular number lines called the x-axis and y-axis. These axes intersect at a point called the origin. This system allows every point to be located using an ordered pair of numbers.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_8ede74c0_q",
+   "label_rw": "Inguni n'imirongo",
+   "label_en": "Angles and Lines",
+   "patterns_en": [
+    "What is an angle in geometry?",
+    "How are perpendicular lines defined?",
+    "What is the sum of angles in a straight line?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma inguni yitwa iy'uburinganire?",
+    "Imirongo ihagaritse igira inguni ingana iki?",
+    "Dogere ziba zingane iki muri ccle yose?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Umurongo utarangira ni umurongo ugororotse utagira iherezo. Inguni igizwe n'imirasire ibiri ihurira ku ngingo imwe yitwa ihuriro. Inguni zigereranywa mu mperi cyangwa dogere. Iyo imirongo ibiri ihura igakora inguni ya dogere mirongo icyenda, iba ihagaritse.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "A line is a straight path that extends infinitely in both directions. An angle is formed by two rays sharing a common endpoint called a vertex. Angles are usually measured in degrees. When two lines intersect at a ninety-degree angle, they are perpendicular.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
   }
  ],
  "knowledge": [
@@ -10011,6 +10083,65 @@
     "location",
     "ururimi",
     "language"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_07096ffb",
+   "category": "math",
+   "title_rw": "Intangiriro y'ibarurishamibare",
+   "title_en": "Introduction to Statistics",
+   "summary_rw": "Ibarurishamibare ni ishami ry'imibare ryita ku gukusanya, gusesengura, no gutanga ubusobanuro ku makuru y'imibare. Rifasha abantu gufata ibyemezo bushingiye ku bimenyetso bifatika mu buzima bwa buri munsi no mu bushakashatsi.",
+   "summary_en": "Statistics is a branch of mathematics concerned with collecting, analyzing, and interpreting numerical data. It helps people make evidence-based decisions in daily life and research.",
+   "keywords": [
+    "ibarurishamibare",
+    "statistics",
+    "amakuru",
+    "data",
+    "imibare",
+    "mathematics",
+    "ubushakashatsi",
+    "research"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_30601d41",
+   "category": "math",
+   "title_rw": "Gushushanya ku rubuga rw'imiburano",
+   "title_en": "Graphing on a Coordinate Plane",
+   "summary_rw": "Rubuga rw'imiburano ruzwi nka Cartesian plane rugizwe n'imitambiko ibiri yitwa x-axis na y-axis. Iyi mitambiko ihurira ku ngingo yitwa zero cyangwa origin. Iyi ngano ifasha mu gutanga imibare ibiri yerekana aho ikintu kiri.",
+   "summary_en": "A coordinate plane, also known as a Cartesian plane, consists of two perpendicular number lines called the x-axis and y-axis. These axes intersect at a point called the origin. This system allows every point to be located using an ordered pair of numbers.",
+   "keywords": [
+    "rubuga",
+    "plane",
+    "axis",
+    "origin",
+    "graph",
+    "imiburano",
+    "coordinates"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_8ede74c0",
+   "category": "math",
+   "title_rw": "Inguni n'imirongo",
+   "title_en": "Angles and Lines",
+   "summary_rw": "Umurongo utarangira ni umurongo ugororotse utagira iherezo. Inguni igizwe n'imirasire ibiri ihurira ku ngingo imwe yitwa ihuriro. Inguni zigereranywa mu mperi cyangwa dogere. Iyo imirongo ibiri ihura igakora inguni ya dogere mirongo icyenda, iba ihagaritse.",
+   "summary_en": "A line is a straight path that extends infinitely in both directions. An angle is formed by two rays sharing a common endpoint called a vertex. Angles are usually measured in degrees. When two lines intersect at a ninety-degree angle, they are perpendicular.",
+   "keywords": [
+    "inguni",
+    "angles",
+    "imirongo",
+    "lines",
+    "dogere",
+    "degrees",
+    "imirasire",
+    "rays"
    ],
    "auto": true,
    "taught": "2026-11-20"
