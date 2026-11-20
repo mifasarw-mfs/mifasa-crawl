@@ -5756,6 +5756,54 @@
    ],
    "auto": true,
    "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_2b2f404c_q",
+   "label_rw": "Kwihaza mu By'Imari no Guhagarika Akazi Hakiri Kare",
+   "label_en": "Financial Independence and Retire Early Movement",
+   "patterns_en": [
+    "What is financial independence?",
+    "How does the early retirement movement work?",
+    "Why do people aim to save a large portion of their income?"
+   ],
+   "patterns_rw": [
+    "Ni iki bisobanura kwihaza mu by'imari?",
+    "Washinga ute ejo hazaza hawe ukoresheje kuzigama?",
+    "Ni gute umuntu ahagarika akazi hakiri kare?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Urugo cyangwa umuntu wese ashobora gushaka kwihaza mu by'imari no guhagarika akazi hakiri kare binyuze mu kuzigama no gushora imari mu buryo buhoraho. Abitabira ubu buryo bakunze gukoresha hagati ya 50 na 70 ku ijana by'amafaranga binjira kugira ngo bazabeho batongeye gukora mbere y'igihe cyagenwe.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Financial Independence and Retire Early is a lifestyle movement focused on extreme savings and smart investing to stop working traditional jobs long before standard retirement age. Participants usually save a significant portion of their income, often between 50 and 70 percent, to build investment portfolios that cover their living expenses indefinitely.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_9f81550a_q",
+   "label_rw": "Kwimura Ubutunzi kuva ku Gisekuru kimwe kugera ku Kindi",
+   "label_en": "Wealth Transfer and Generational Wealth",
+   "patterns_en": [
+    "What is the meaning of wealth transfer?",
+    "How can people plan for estate inheritance?",
+    "Why is financial literacy important for generational wealth?"
+   ],
+   "patterns_rw": [
+    "Ni iki gisobanuro cyo kwimura ubutunzi ku gisekuru?",
+    "Ni gute abantu bashobora gutegura izungura ry'imitungo yabo?",
+    "Kuki ubumenyi bw'imari ari ngombwa mu guhererekanya ubutunzi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kwimura ubutunzi bisobanura guhererekanya imitungo n'amafaranga kuva ku babyeyi kugera ku bana babo. Ibi bikubiyemo gutegura uburyo imitungo izagabanywa, kwishyura imisoro, no gusigariza abana ubumenyi bwo gucunga neza ibyo basigiwe kugira ngo ubutunzi budashira.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Wealth transfer refers to passing assets and financial resources from parents to their children. This usually involves estate planning, managing tax obligations, and educating heirs on financial literacy to ensure generational wealth is preserved over time.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
   }
  ],
  "knowledge": [
@@ -10493,6 +10541,46 @@
     "ubutunzi",
     "wealth",
     "ubworozi"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_2b2f404c",
+   "category": "finance",
+   "title_rw": "Kwihaza mu By'Imari no Guhagarika Akazi Hakiri Kare",
+   "title_en": "Financial Independence and Retire Early Movement",
+   "summary_rw": "Urugo cyangwa umuntu wese ashobora gushaka kwihaza mu by'imari no guhagarika akazi hakiri kare binyuze mu kuzigama no gushora imari mu buryo buhoraho. Abitabira ubu buryo bakunze gukoresha hagati ya 50 na 70 ku ijana by'amafaranga binjira kugira ngo bazabeho batongeye gukora mbere y'igihe cyagenwe.",
+   "summary_en": "Financial Independence and Retire Early is a lifestyle movement focused on extreme savings and smart investing to stop working traditional jobs long before standard retirement age. Participants usually save a significant portion of their income, often between 50 and 70 percent, to build investment portfolios that cover their living expenses indefinitely.",
+   "keywords": [
+    "imari",
+    "kuzigama",
+    "akazi",
+    "ishoramari",
+    "finance",
+    "savings",
+    "retirement",
+    "investing"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_9f81550a",
+   "category": "finance",
+   "title_rw": "Kwimura Ubutunzi kuva ku Gisekuru kimwe kugera ku Kindi",
+   "title_en": "Wealth Transfer and Generational Wealth",
+   "summary_rw": "Kwimura ubutunzi bisobanura guhererekanya imitungo n'amafaranga kuva ku babyeyi kugera ku bana babo. Ibi bikubiyemo gutegura uburyo imitungo izagabanywa, kwishyura imisoro, no gusigariza abana ubumenyi bwo gucunga neza ibyo basigiwe kugira ngo ubutunzi budashira.",
+   "summary_en": "Wealth transfer refers to passing assets and financial resources from parents to their children. This usually involves estate planning, managing tax obligations, and educating heirs on financial literacy to ensure generational wealth is preserved over time.",
+   "keywords": [
+    "ubutunzi",
+    "igisekuru",
+    "imitungo",
+    "amategeko",
+    "wealth",
+    "transfer",
+    "generation",
+    "assets"
    ],
    "auto": true,
    "taught": "2026-11-20"
