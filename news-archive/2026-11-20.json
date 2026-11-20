@@ -1,7 +1,27 @@
 {
  "day": "2026-11-20",
- "count": 12,
+ "count": 13,
  "articles": [
+  {
+   "id": "crawl_24whlj",
+   "title": "Uburaya buvuga ko bwiteguriye kuganira n'Uburusiya ku kurangiza intambara muri Ukraine",
+   "summary": "Ibihugu vy’i Buraya bivuga ko bifise aho bihagaze hatomoye kandi hadahindagurika ku bijanye n’ibiganiro.",
+   "link": "https://www.bbc.co.uk/gahuza/live/c620517yy0lpt?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/gahuza/live/c620517yy0lpt?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T04:00:16.972Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dd5/live/666708f0-e493-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dd5/live/666708f0-e493-11f1-99a1-253766e7ad8b.jpg",
+   "title_rw": "Uburaya buvuga ko bwiteguriye kuganira n'Uburusiya ku kurangiza intambara muri Ukraine",
+   "summary_rw": "Ibihugu vy’i Buraya bivuga ko bifise aho bihagaze hatomoye kandi hadahindagurika ku bijanye n’ibiganiro.",
+   "share_id": "MN202611_24whljt4ol"
+  },
   {
    "id": "crawl_1aw79hr",
    "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
@@ -251,5 +271,5 @@
    "share_id": "MN202611_kh4czrx9gl"
   }
  ],
- "updated": "2026-11-20T02:26:48.033Z"
+ "updated": "2026-11-20T04:01:41.721Z"
 }
