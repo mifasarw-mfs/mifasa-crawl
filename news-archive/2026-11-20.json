@@ -1,7 +1,47 @@
 {
  "day": "2026-11-20",
- "count": 43,
+ "count": 47,
  "articles": [
+  {
+   "id": "crawl_138lvnl",
+   "title": "Fan found not guilty of racially abusing Semenyo",
+   "summary": "Mark Mogan was accused of shouting abuse at Antoine Semenyo at a match at Anfield in August 2025.",
+   "link": "https://www.bbc.co.uk/news/articles/c5y4jvg27j2po?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c5y4jvg27j2po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T11:12:35.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cd7/live/e16f7470-c7d7-11f1-9671-5b70c6e774ea.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cd7/live/e16f7470-c7d7-11f1-9671-5b70c6e774ea.jpg",
+   "title_en": "Fan found not guilty of racially abusing Semenyo",
+   "summary_en": "Mark Mogan was accused of shouting abuse at Antoine Semenyo at a match at Anfield in August 2025.",
+   "share_id": "MN202611_138lvnles4f"
+  },
+  {
+   "id": "crawl_1ai2145",
+   "title": "Some doctors in Northern Ireland go on strike over pay",
+   "summary": "Resident doctors won’t work in hospitals or GP surgeries for 24 hours.",
+   "link": "https://www.bbc.co.uk/news/videos/cjr4g2kyn040o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cjr4g2kyn040o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T11:11:36.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b58/live/edc6c2c0-e4d1-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b58/live/edc6c2c0-e4d1-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Some doctors in Northern Ireland go on strike over pay",
+   "summary_en": "Resident doctors won’t work in hospitals or GP surgeries for 24 hours.",
+   "share_id": "MN202611_1ai2145um83"
+  },
   {
    "id": "crawl_1w4agzz",
    "title": "Amerika: Yangiwe gufungurwa by'agateganyo nyuma y'imyaka 32 yishe abana be babiri",
@@ -41,6 +81,46 @@
    "title_en": "Nearly 600 women killed in South Africa within three months",
    "summary_en": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
    "share_id": "MN202611_1x2v6jlo30f"
+  },
+  {
+   "id": "crawl_17rc9gy",
+   "title": "Percy Jackson returns as teen stars adapt to life in the limelight",
+   "summary": "Percy Jackson's lead Walker Scobell admits there are ups and downs to fame as the series returns.",
+   "link": "https://www.bbc.co.uk/news/articles/ckge37rdrp1eo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckge37rdrp1eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T10:43:35.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d5/live/578c52c0-e332-11f1-9c56-6ffaf0e1e706.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d5/live/578c52c0-e332-11f1-9c56-6ffaf0e1e706.jpg",
+   "title_en": "Percy Jackson returns as teen stars adapt to life in the limelight",
+   "summary_en": "Percy Jackson's lead Walker Scobell admits there are ups and downs to fame as the series returns.",
+   "share_id": "MN202611_17rc9gy55xs"
+  },
+  {
+   "id": "crawl_1lmqp9c",
+   "title": "Babydoll singer Jamie Miller covers Christmas classic",
+   "summary": "It's Beginning To Look A Lot Like Christmas for the number one hitmaker from Cardiff.",
+   "link": "https://www.bbc.co.uk/news/articles/cq62pe2jdg08o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq62pe2jdg08o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T10:33:50.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe6a/live/bb5478e0-e4cd-11f1-8ebd-0fa6091698b5.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe6a/live/bb5478e0-e4cd-11f1-8ebd-0fa6091698b5.jpg",
+   "title_en": "Babydoll singer Jamie Miller covers Christmas classic",
+   "summary_en": "It's Beginning To Look A Lot Like Christmas for the number one hitmaker from Cardiff.",
+   "share_id": "MN202611_1lmqp9cjlq6"
   },
   {
    "id": "crawl_6p4okp",
@@ -879,5 +959,5 @@
    "share_id": "MN202611_kh4czrx9gl"
   }
  ],
- "updated": "2026-11-20T10:57:13.831Z"
+ "updated": "2026-11-20T11:27:32.552Z"
 }
