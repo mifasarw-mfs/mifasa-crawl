@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-20T20:41:33.022Z",
+ "updated": "2026-11-20T21:38:57.530Z",
  "letters": {
   "a": {
    "words": 590,
    "defined": 80
   },
   "b": {
-   "words": 595,
+   "words": 596,
    "defined": 58
   },
   "c": {
@@ -42,7 +42,7 @@
    "defined": 6
   },
   "k": {
-   "words": 210,
+   "words": 211,
    "defined": 9
   },
   "l": {
@@ -106,6 +106,6 @@
    "defined": 0
   }
  },
- "total": 7503,
+ "total": 7505,
  "defined": 900
 }
