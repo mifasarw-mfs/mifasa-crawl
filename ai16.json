@@ -5564,6 +5564,126 @@
    ],
    "auto": true,
    "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_da2dfc20_q",
+   "label_rw": "Uburyo bwo Guhinga mu Mazu y'Ikirahure",
+   "label_en": "Greenhouse Farming Techniques",
+   "patterns_en": [
+    "What makes greenhouse farming beneficial?",
+    "Does this method increase agricultural yield?",
+    "How is temperature controlled inside greenhouses?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma guhinga mu mazu y'ikirahurebyiza?",
+    "Ese ubu buryo bwongera umusaruro w'ubuhinzi?",
+    "Ni gute ubushyuhe bugenzurwa muri ayo mazu?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Guhinga mu mazu y'ikirahure bifasha abahinzi kugenzura ubushyuhe n'amazi y'ibihingwa. Ibyo bituma imyaka ikura neza mu bihe byose no mu turere dufite ikirere kidasanzwe. Iyi tekinike yongera umusaruro w'ubuhinzi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Greenhouse farming allows growers to control temperature and water for crops. This helps plants grow well in all seasons and regions with difficult climates. The technique generally increases agricultural productivity.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_07bedc20_q",
+   "label_rw": "Ubworozi bw'Inzuki mu Rwanda",
+   "label_en": "Beekeeping in Rwanda",
+   "patterns_en": [
+    "Why is beekeeping important in Rwanda?",
+    "What modern methods are used in beekeeping?",
+    "What products come from bees besides honey?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma ubworozi bw'inzuki bufite akamaro mu Rwanda?",
+    "Ni ubuhe buryo bukoreshwa mu bworozi bw'inzuki bugaragara nk'ubugezweho?",
+    "Ni ibiki bikomoka ku nzuki uretse ubuki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubworozi bw'inzuki ni igikorwa cy'ingenzi mu Rwanda gifasha abaturage kubona ubuki n'ibindi bikomoka ku nzuki bifite akamaro mu buzima no mu bukungu. Leta n'abafatanyabikorwa bashishikariza abaturage gukoresha ubuvumbyi bugezweho kugira ngo bongere umusaruro w'ubuki.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Beekeeping is an important activity in Rwanda that helps citizens obtain honey and other hive products useful for daily life and the economy. The government and partners encourage farmers to use modern beehives to increase honey production.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_d5d06f6a_q",
+   "label_rw": "Ubuhinzi bw'Umujyi no guhinga hejuru y'ibindi",
+   "label_en": "Urban and Vertical Agriculture",
+   "patterns_en": [
+    "What is urban agriculture?",
+    "How does vertical farming work?",
+    "What are the benefits of urban farming?"
+   ],
+   "patterns_rw": [
+    "Ubuhinzi bw'umujyi ni iki?",
+    "Guhinga hejuru y'ibindi bikorwa gute?",
+    "Ni izihe nyungu z'ubuhinzi bw'umujyi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubuhinzi bw'umujyi ni uguhinga ibihingwa mu mijyi cyangwa hafi yayo. Guhinga hejuru y'ibindi bikoresha ubutaka buto cyane binyuze mu gukurikiranya imirongo y'imyaka mu burebure. Ibi bifasha kubona ibiribwa hafi y'abantu kandi bikagabanya ingendo z'ibiribwa.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Urban agriculture involves growing food within or near cities. Vertical farming uses very small land footprints by stacking crops vertically. These methods help provide food close to consumers and reduce food transport distances.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_18252dd5_q",
+   "label_rw": "Imicungire y'Uburihe n'Ubwatsi bw'Amatungo",
+   "label_en": "Pasture Management and Forage Production",
+   "patterns_en": [
+    "What are the benefits of good pasture management?",
+    "How can farmers preserve forage for the dry season?",
+    "How does quality forage improve livestock production in Rwanda?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyiza cyo gucunga uburihe neza?",
+    "Twabika dute ubwatsi bw'amatungo mu gihe cy'izuba?",
+    "Ni gute ubwatsi bwiza bufasha ubworozi mu Rwanda?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imicungire y'uburihe n'ubwatsi bw'amatungo ni uburyo bwo guhinga no gucunga neza ibyatsi by'amatungo kugira ngo abone ubwatsi buhagije kandi bufite intungamubiri mu gihe cyose. Ibi bifasha mu kongera umusaruro w'amata n'inyama mu Rwanda. Abarorozi basabwe gukoresha uburyo bwo kuzengurutsa amatungo mu rwuri no kubika ubwatsi bwumye bw'igihe cy'izuba.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Pasture management and forage production involve growing and maintaining quality grasses to ensure livestock have sufficient nutrition year-round. This practice helps increase milk and meat production in Rwanda. Farmers are encouraged to use rotational grazing and preserve forage for the dry season.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_b0632306_q",
+   "label_rw": "Gufata Amazi y'Imvura agenewe Ubuhinzi",
+   "label_en": "Water Harvesting for Agricultural Use",
+   "patterns_en": [
+    "Why is water harvesting important for agriculture?",
+    "How do farmers in Rwanda collect rainwater?",
+    "How does water harvesting help combat dry seasons?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma gufata amazi y'imvura ariingenzi mu buhinzi?",
+    "Ese abahinzi bo mu Rwanda bafata bate amazi y'imvura?",
+    "Gufata amazi y'imvura bifasha bite mu guhangana n'izuba?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gufata amazi y'imvura ni uburyo bwo gusatura no kubika amazi kugira ngo akoreshwe mu kuhira imyaka mu gihe cy'izuba. Mu Rwanda, ubu buryo bufasha abahinzi kongera umusaruro no guhangana n'imihindagurikire y'ikirere.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Water harvesting is the practice of capturing and storing rainwater for agricultural irrigation during dry periods. In Rwanda, this technique helps farmers increase crop yields and adapt to climate change.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
   }
  ],
  "knowledge": [
@@ -10142,6 +10262,105 @@
     "degrees",
     "imirasire",
     "rays"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_da2dfc20",
+   "category": "agriculture",
+   "title_rw": "Uburyo bwo Guhinga mu Mazu y'Ikirahure",
+   "title_en": "Greenhouse Farming Techniques",
+   "summary_rw": "Guhinga mu mazu y'ikirahure bifasha abahinzi kugenzura ubushyuhe n'amazi y'ibihingwa. Ibyo bituma imyaka ikura neza mu bihe byose no mu turere dufite ikirere kidasanzwe. Iyi tekinike yongera umusaruro w'ubuhinzi.",
+   "summary_en": "Greenhouse farming allows growers to control temperature and water for crops. This helps plants grow well in all seasons and regions with difficult climates. The technique generally increases agricultural productivity.",
+   "keywords": [
+    "ubuhinzi",
+    "agriculture",
+    "ikirahure",
+    "greenhouse",
+    "umusaruro",
+    "productivity",
+    "ibihe",
+    "seasons"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_07bedc20",
+   "category": "agriculture",
+   "title_rw": "Ubworozi bw'Inzuki mu Rwanda",
+   "title_en": "Beekeeping in Rwanda",
+   "summary_rw": "Ubworozi bw'inzuki ni igikorwa cy'ingenzi mu Rwanda gifasha abaturage kubona ubuki n'ibindi bikomoka ku nzuki bifite akamaro mu buzima no mu bukungu. Leta n'abafatanyabikorwa bashishikariza abaturage gukoresha ubuvumbyi bugezweho kugira ngo bongere umusaruro w'ubuki.",
+   "summary_en": "Beekeeping is an important activity in Rwanda that helps citizens obtain honey and other hive products useful for daily life and the economy. The government and partners encourage farmers to use modern beehives to increase honey production.",
+   "keywords": [
+    "ubworozi",
+    "inzuki",
+    "ubuki",
+    "ubuvumbyi",
+    "beekeeping",
+    "honey",
+    "bees",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_d5d06f6a",
+   "category": "agriculture",
+   "title_rw": "Ubuhinzi bw'Umujyi no guhinga hejuru y'ibindi",
+   "title_en": "Urban and Vertical Agriculture",
+   "summary_rw": "Ubuhinzi bw'umujyi ni uguhinga ibihingwa mu mijyi cyangwa hafi yayo. Guhinga hejuru y'ibindi bikoresha ubutaka buto cyane binyuze mu gukurikiranya imirongo y'imyaka mu burebure. Ibi bifasha kubona ibiribwa hafi y'abantu kandi bikagabanya ingendo z'ibiribwa.",
+   "summary_en": "Urban agriculture involves growing food within or near cities. Vertical farming uses very small land footprints by stacking crops vertically. These methods help provide food close to consumers and reduce food transport distances.",
+   "keywords": [
+    "ubuhinzi",
+    "umujyi",
+    "agriculture",
+    "urban",
+    "vertical",
+    "ibiribwa",
+    "food",
+    "ubutaka"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_18252dd5",
+   "category": "agriculture",
+   "title_rw": "Imicungire y'Uburihe n'Ubwatsi bw'Amatungo",
+   "title_en": "Pasture Management and Forage Production",
+   "summary_rw": "Imicungire y'uburihe n'ubwatsi bw'amatungo ni uburyo bwo guhinga no gucunga neza ibyatsi by'amatungo kugira ngo abone ubwatsi buhagije kandi bufite intungamubiri mu gihe cyose. Ibi bifasha mu kongera umusaruro w'amata n'inyama mu Rwanda. Abarorozi basabwe gukoresha uburyo bwo kuzengurutsa amatungo mu rwuri no kubika ubwatsi bwumye bw'igihe cy'izuba.",
+   "summary_en": "Pasture management and forage production involve growing and maintaining quality grasses to ensure livestock have sufficient nutrition year-round. This practice helps increase milk and meat production in Rwanda. Farmers are encouraged to use rotational grazing and preserve forage for the dry season.",
+   "keywords": [
+    "ubwatsi",
+    "amatungo",
+    "uburihe",
+    "ubworozi",
+    "forage",
+    "pasture",
+    "livestock"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_b0632306",
+   "category": "agriculture",
+   "title_rw": "Gufata Amazi y'Imvura agenewe Ubuhinzi",
+   "title_en": "Water Harvesting for Agricultural Use",
+   "summary_rw": "Gufata amazi y'imvura ni uburyo bwo gusatura no kubika amazi kugira ngo akoreshwe mu kuhira imyaka mu gihe cy'izuba. Mu Rwanda, ubu buryo bufasha abahinzi kongera umusaruro no guhangana n'imihindagurikire y'ikirere.",
+   "summary_en": "Water harvesting is the practice of capturing and storing rainwater for agricultural irrigation during dry periods. In Rwanda, this technique helps farmers increase crop yields and adapt to climate change.",
+   "keywords": [
+    "ubuhinzi",
+    "agriculture",
+    "amazi",
+    "water",
+    "imvura",
+    "rain",
+    "kuhira",
+    "irrigation"
    ],
    "auto": true,
    "taught": "2026-11-20"
