@@ -1,7 +1,30 @@
 {
  "day": "2026-11-20",
- "count": 36,
+ "count": 38,
  "articles": [
+  {
+   "id": "crawl_msnznq",
+   "title": "China - Rwanda: Kaminuza y'u Rwanda n'iya Xiangtan zasinyanye amasezerano yo guhanahana ubumenyi",
+   "summary": "Kaminuza y’u Rwanda na Xiangtan University yo mu Bushinwa byasinyanye amasezerano y’ubufatanye agamije guteza imbere imikoranire mu burezi n’ubumenyi, mu rwego rwo kurushaho gushimangira umubano (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/china-rwanda-kaminuza-y-u-rwanda-n-iya-xiangtan-zasinyanye-amasezerano-yo-guhanahana-ubumenyi",
+   "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/china-rwanda-kaminuza-y-u-rwanda-n-iya-xiangtan-zasinyanye-amasezerano-yo-guhanahana-ubumenyi",
+   "date": "2026-11-20T09:17:20.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu Rwanda",
+    "MobileBigStory",
+    "Ruzindana Janvier"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_05.03_40.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_05.03_40.jpg",
+   "title_rw": "China - Rwanda: Kaminuza y'u Rwanda n'iya Xiangtan zasinyanye amasezerano yo guhanahana ubumenyi",
+   "summary_rw": "Kaminuza y’u Rwanda na Xiangtan University yo mu Bushinwa byasinyanye amasezerano y’ubufatanye agamije guteza imbere imikoranire mu burezi n’ubumenyi, mu rwego rwo kurushaho gushimangira umubano (…)",
+   "share_id": "MN202611_msnznqadno"
+  },
   {
    "id": "crawl_1u9c9s",
    "title": "Three Kyiv bridges hit during major Russian missile attack",
@@ -553,6 +576,26 @@
    "share_id": "MN202611_u7oztbhwa5"
   },
   {
+   "id": "crawl_1pfiuiq",
+   "title": "US army warns detonation of unstable explosives will create toxic plume",
+   "summary": "The Army has delayed the controlled explosion of unstable lead azide in eastern Iowa to Monday after concerns from residents and lawmakers.",
+   "link": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T01:27:27.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcee/live/c0069740-e475-11f1-9a84-5bed4823e5ff.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcee/live/c0069740-e475-11f1-9a84-5bed4823e5ff.jpg",
+   "title_en": "US army warns detonation of unstable explosives will create toxic plume",
+   "summary_en": "The Army has delayed the controlled explosion of unstable lead azide in eastern Iowa to Monday after concerns from residents and lawmakers.",
+   "share_id": "MN202611_1pfiuiqbqzk"
+  },
+  {
    "id": "crawl_160uauq",
    "title": "New Hunger Games cast say joining the franchise is 'nerve-racking'",
    "summary": "The prequel, which is set 24 years before the original The Hunger Games film, is released today.",
@@ -733,5 +776,5 @@
    "share_id": "MN202611_kh4czrx9gl"
   }
  ],
- "updated": "2026-11-20T09:03:56.255Z"
+ "updated": "2026-11-20T09:29:48.116Z"
 }
