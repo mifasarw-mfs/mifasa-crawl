@@ -1,7 +1,27 @@
 {
  "day": "2026-11-20",
- "count": 40,
+ "count": 41,
  "articles": [
+  {
+   "id": "crawl_6p4okp",
+   "title": "What are heat pumps and how much do they cost?",
+   "summary": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills.",
+   "link": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T10:24:52.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3050/live/eba8d700-de8a-11f1-b88b-3f1671ea859d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3050/live/eba8d700-de8a-11f1-b88b-3f1671ea859d.jpg",
+   "title_en": "What are heat pumps and how much do they cost?",
+   "summary_en": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills.",
+   "share_id": "MN202611_6p4okp0utj"
+  },
   {
    "id": "crawl_19fom4l",
    "title": "White House removes cyber-security chief after series of tech outages",
@@ -819,5 +839,5 @@
    "share_id": "MN202611_kh4czrx9gl"
   }
  ],
- "updated": "2026-11-20T10:01:14.805Z"
+ "updated": "2026-11-20T10:30:39.622Z"
 }
