@@ -1,7 +1,50 @@
 {
  "day": "2026-11-20",
- "count": 38,
+ "count": 40,
  "articles": [
+  {
+   "id": "crawl_19fom4l",
+   "title": "White House removes cyber-security chief after series of tech outages",
+   "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
+   "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T09:37:59.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg",
+   "title_en": "White House removes cyber-security chief after series of tech outages",
+   "summary_en": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
+   "share_id": "MN202611_19fom4lhilf"
+  },
+  {
+   "id": "crawl_10pmnmn",
+   "title": "Itorero Inganzo Ngari rije gutaramira abanya Kigali",
+   "summary": "Itorero Inganzo Ngari ryiyemeje gukomeza kugira uruhare mu kubungabunga no gusigasira umuco Nyarwanda, binyuze mu kuwutoza no kuwusangiza abakiri bato n’abakuze. Ibi ni bimwe mu bizamurikirwa (…)",
+   "link": "https://www.kigalitoday.com/imyidagaduro/muzika/article/itorero-inganzo-ngari-rije-gutaramira-abanya-kigali",
+   "url": "https://www.kigalitoday.com/imyidagaduro/muzika/article/itorero-inganzo-ngari-rije-gutaramira-abanya-kigali",
+   "date": "2026-11-20T09:31:19.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Muzika",
+    "MobileBigStory",
+    "Ruzindana Janvier"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/657a5928_jpg_1_.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/657a5928_jpg_1_.jpg",
+   "title_rw": "Itorero Inganzo Ngari rije gutaramira abanya Kigali",
+   "summary_rw": "Itorero Inganzo Ngari ryiyemeje gukomeza kugira uruhare mu kubungabunga no gusigasira umuco Nyarwanda, binyuze mu kuwutoza no kuwusangiza abakiri bato n’abakuze. Ibi ni bimwe mu bizamurikirwa (…)",
+   "share_id": "MN202611_10pmnmn3b0d"
+  },
   {
    "id": "crawl_msnznq",
    "title": "China - Rwanda: Kaminuza y'u Rwanda n'iya Xiangtan zasinyanye amasezerano yo guhanahana ubumenyi",
@@ -776,5 +819,5 @@
    "share_id": "MN202611_kh4czrx9gl"
   }
  ],
- "updated": "2026-11-20T09:29:48.116Z"
+ "updated": "2026-11-20T10:01:14.805Z"
 }
