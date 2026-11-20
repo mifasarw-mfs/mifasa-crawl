@@ -1,7 +1,27 @@
 {
  "day": "2026-11-19",
- "count": 97,
+ "count": 98,
  "articles": [
+  {
+   "id": "crawl_178qhsz",
+   "title": "Arsenal 'have ingredients' but Europe's elite on another level",
+   "summary": "In a difficult defeat by French giants Lyon, Arsenal were shown the gap they need to bridge to challenge for the Champions League.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T23:57:54.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f42a/live/723c9160-e473-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f42a/live/723c9160-e473-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "Arsenal 'have ingredients' but Europe's elite on another level",
+   "summary_en": "In a difficult defeat by French giants Lyon, Arsenal were shown the gap they need to bridge to challenge for the Champions League.",
+   "share_id": "MN202611_178qhszif7l"
+  },
   {
    "id": "crawl_13q2j3g",
    "title": "Kingdom Night yagiye gushaka 'abakomerekeye' mu matorero kandi yarababonye",
@@ -1975,5 +1995,5 @@
    "share_id": "MN202611_492yq9vv73"
   }
  ],
- "updated": "2026-11-19T23:30:52.130Z"
+ "updated": "2026-11-20T00:10:07.712Z"
 }
