@@ -2692,6 +2692,22 @@
    "license": "YouTube (embed)",
    "handle": "akabariro",
    "source": "crawl"
+  },
+  {
+   "duration_estimate": "unknown",
+   "category": "Amashusho",
+   "tags": [
+    "urukundo"
+   ],
+   "url": "https://youtu.be/d3pv98r3p6Q",
+   "title": "🤔🔥😭Ntuyirebere hafi y'abana😭",
+   "description": "",
+   "date": "2026-11-20",
+   "channel": "Ibanga ry'urukundo",
+   "channel_url": "https://www.youtube.com/channel/UCoHW_xXfJD5fVbvh19xEHPA",
+   "license": "YouTube (embed)",
+   "handle": "ibangaryurukundo",
+   "source": "crawl"
   }
  ]
 }
