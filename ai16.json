@@ -5157,6 +5157,126 @@
    ],
    "auto": true,
    "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_4442befa_q",
+   "label_rw": "Ibanze ya Ragby n'uburyo bwo gutsinda",
+   "label_en": "Rugby basics and scoring",
+   "patterns_en": [
+    "How is rugby played?",
+    "How are points scored in rugby?",
+    "What shape is a rugby ball?"
+   ],
+   "patterns_rw": [
+    "Ragby ikinishwa mute?",
+    "Amanota aboneka ate muri ragby?",
+    "Umupira wa ragby uteye ute?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ragby ni umukino w'amakipe abiri akinishwa umupira w'umuringoti. Intego ni ugutsinda amanota menshi kuruta andi. Gutsinda bitera ku buryo butandukanye nko gushyira umupira hasi mu rubuga rw'abakeba cyangwa gutera umupira hagati y'inkingi z'izamu.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Rugby is a team sport played with an oval ball. The objective is to score more points than the opponent. Points are typically scored by touching the ball down in the opponent's try zone or kicking it through the goalposts.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_9bd27f71_q",
+   "label_rw": "Uburyo bwa Taekwondo n'imigeri",
+   "label_en": "Taekwondo forms and kicking techniques",
+   "patterns_en": [
+    "Where does taekwondo originate from?",
+    "What is poomsae in taekwondo?",
+    "What characterizes taekwondo techniques?"
+   ],
+   "patterns_rw": [
+    "Taekwondo ikomoka he?",
+    "Ese poomsae ni iki muri taekwondo?",
+    "Ni iki kiranga imikino ya taekwondo?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Taekwondo ni umukino w'irwanishwa ukomoka muri Korea. Ukoresha cyane imigeri itandukanye n'imibare y'imyitozo yitwa poomsae. Uyu mukino ufasha mu kwirwanaho no mu buzima bwiza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Taekwondo is a martial art originating from Korea. It heavily utilizes various kicking techniques and formalized practice patterns called poomsae. The sport aids in self-defense and physical fitness.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_e476ac6c_q",
+   "label_rw": "Imyitozo ngororamubiri n'uborozi bw'umubiri",
+   "label_en": "Gymnastics fundamentals and flexibility",
+   "patterns_en": [
+    "Why is flexibility important in gymnastics?",
+    "How do athletes prevent injuries during training?",
+    "Why are strength and balance essential in this sport?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma imyitozo ngororamubiri ikenera ubwoorozi bw'umubiri?",
+    "Ni gute abakinnyi birinda imvune mu myitozo?",
+    "Kuki imbaraga n'uburinganire ari ingenzi muri iyi myitozo?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imyitozo ngororamubiri ishingiye ku bushobozi bwo kugenzura umubiri, imbaraga, no kuba umubiri woroheje. Abakinnyi bakora imyitozo yo kurambura kugira ngo boroheze ingingo zabo kandi birinde imvune. Iyi myitozo ifasha mu kuzamura uburinganire bw'umubiri n'ubushobozi bwo gukora ibikorwa bisaba ingufu nyinshi mu mikino itandukanye.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Gymnastics fundamentals focus on body control, strength, and flexibility. Athletes perform stretching exercises to keep their joints flexible and prevent injuries. These practices help improve overall physical balance and the ability to perform high-energy movements across various sports.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_552d0a46_q",
+   "label_rw": "Uburyo bwo guterura ibiremereye",
+   "label_en": "Weightlifting techniques and safety",
+   "patterns_en": [
+    "What is the proper technique for weightlifting?",
+    "How can you prevent injuries while lifting weights?",
+    "Why is warming up important before lifting?"
+   ],
+   "patterns_rw": [
+    "Ni ubuhe buryo bwiza bwo guterura ibiremereye?",
+    "Wakora iki kugira ngo wirinde imvune mu guterura?",
+    "Kuki gutegura umubiri ari ngombwa mbere yo guterura?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Guterura ibiremereye bisaba uburyo bwiza n'umutekano kugira ngo wirinde imvune. Ugomba guhagarara neza, ugakoresha imitsi yo mu nda, kandi ukirinda kunama umugongo igihe uterura. Gutegura umubiri mbere bifasha imitsi ikomerera neza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Weightlifting requires proper techniques and safety to prevent injuries. You should maintain a stable stance, engage your core muscles, and avoid rounding your back while lifting. Warming up before exercising helps your muscles prepare safely.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_eeb4879d_q",
+   "label_rw": "Ibikoresho by'umuheto n'uburyo bwo gufata intego",
+   "label_en": "Archery equipment and aiming",
+   "patterns_en": [
+    "What equipment is needed for archery?",
+    "How does an archer aim properly?",
+    "How is an arrow released to hit the target?"
+   ],
+   "patterns_rw": [
+    "Ni ibikoresho iki bikenerwa mu mukino wo kurasa n'umuheto?",
+    "Ni gute umukinnyi afata intego neza?",
+    "Umwambi uterwa ute kugira ngo ugere ku ntego?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Umuheto n'imyambi ni byo bikoresho fatizo mu mukino wo kurasa n'umuheto. Umukinnyi akoresha imigozi, ibimenyetso bifasha gufata intego, n'imyambaro yabugenewe. Kugira ngo umukinnyi atsinde, agomba guhagarara neza, akabanza kwerekana intego neza, akoresha ijisho rimwe mu kureba, hanyuma akarekura umugozi w'umuheto buhoro buhoro.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "A bow and arrows are the primary equipment in archery. Anarcher typically uses a string, a sight to help with aiming, and protective gear. To succeed, an archer must maintain a proper stance, align with the target, use dominant eye sighting, and release the bowstring smoothly.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
   }
  ],
  "knowledge": [
@@ -9403,6 +9523,105 @@
    ],
    "auto": true,
    "taught": "2026-11-19"
+  },
+  {
+   "id": "ai16_4442befa",
+   "category": "sports",
+   "title_rw": "Ibanze ya Ragby n'uburyo bwo gutsinda",
+   "title_en": "Rugby basics and scoring",
+   "summary_rw": "Ragby ni umukino w'amakipe abiri akinishwa umupira w'umuringoti. Intego ni ugutsinda amanota menshi kuruta andi. Gutsinda bitera ku buryo butandukanye nko gushyira umupira hasi mu rubuga rw'abakeba cyangwa gutera umupira hagati y'inkingi z'izamu.",
+   "summary_en": "Rugby is a team sport played with an oval ball. The objective is to score more points than the opponent. Points are typically scored by touching the ball down in the opponent's try zone or kicking it through the goalposts.",
+   "keywords": [
+    "ragby",
+    "umupira",
+    "amanota",
+    "amakipe",
+    "rugby",
+    "team",
+    "ball",
+    "scoring"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_9bd27f71",
+   "category": "sports",
+   "title_rw": "Uburyo bwa Taekwondo n'imigeri",
+   "title_en": "Taekwondo forms and kicking techniques",
+   "summary_rw": "Taekwondo ni umukino w'irwanishwa ukomoka muri Korea. Ukoresha cyane imigeri itandukanye n'imibare y'imyitozo yitwa poomsae. Uyu mukino ufasha mu kwirwanaho no mu buzima bwiza.",
+   "summary_en": "Taekwondo is a martial art originating from Korea. It heavily utilizes various kicking techniques and formalized practice patterns called poomsae. The sport aids in self-defense and physical fitness.",
+   "keywords": [
+    "taekwondo",
+    "imigeri",
+    "kicking",
+    "poomsae",
+    "korea",
+    "sports",
+    "imikino"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_e476ac6c",
+   "category": "sports",
+   "title_rw": "Imyitozo ngororamubiri n'uborozi bw'umubiri",
+   "title_en": "Gymnastics fundamentals and flexibility",
+   "summary_rw": "Imyitozo ngororamubiri ishingiye ku bushobozi bwo kugenzura umubiri, imbaraga, no kuba umubiri woroheje. Abakinnyi bakora imyitozo yo kurambura kugira ngo boroheze ingingo zabo kandi birinde imvune. Iyi myitozo ifasha mu kuzamura uburinganire bw'umubiri n'ubushobozi bwo gukora ibikorwa bisaba ingufu nyinshi mu mikino itandukanye.",
+   "summary_en": "Gymnastics fundamentals focus on body control, strength, and flexibility. Athletes perform stretching exercises to keep their joints flexible and prevent injuries. These practices help improve overall physical balance and the ability to perform high-energy movements across various sports.",
+   "keywords": [
+    "gymnastics",
+    "imyitozo",
+    "flexibility",
+    "uborozi",
+    "strength",
+    "imbaraga",
+    "sports",
+    "imikino"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_552d0a46",
+   "category": "sports",
+   "title_rw": "Uburyo bwo guterura ibiremereye",
+   "title_en": "Weightlifting techniques and safety",
+   "summary_rw": "Guterura ibiremereye bisaba uburyo bwiza n'umutekano kugira ngo wirinde imvune. Ugomba guhagarara neza, ugakoresha imitsi yo mu nda, kandi ukirinda kunama umugongo igihe uterura. Gutegura umubiri mbere bifasha imitsi ikomerera neza.",
+   "summary_en": "Weightlifting requires proper techniques and safety to prevent injuries. You should maintain a stable stance, engage your core muscles, and avoid rounding your back while lifting. Warming up before exercising helps your muscles prepare safely.",
+   "keywords": [
+    "weightlifting",
+    "guterura",
+    "safety",
+    "umutekano",
+    "technique",
+    "uburyo",
+    "injury",
+    "imvune"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_eeb4879d",
+   "category": "sports",
+   "title_rw": "Ibikoresho by'umuheto n'uburyo bwo gufata intego",
+   "title_en": "Archery equipment and aiming",
+   "summary_rw": "Umuheto n'imyambi ni byo bikoresho fatizo mu mukino wo kurasa n'umuheto. Umukinnyi akoresha imigozi, ibimenyetso bifasha gufata intego, n'imyambaro yabugenewe. Kugira ngo umukinnyi atsinde, agomba guhagarara neza, akabanza kwerekana intego neza, akoresha ijisho rimwe mu kureba, hanyuma akarekura umugozi w'umuheto buhoro buhoro.",
+   "summary_en": "A bow and arrows are the primary equipment in archery. Anarcher typically uses a string, a sight to help with aiming, and protective gear. To succeed, an archer must maintain a proper stance, align with the target, use dominant eye sighting, and release the bowstring smoothly.",
+   "keywords": [
+    "umuheto",
+    "umwambi",
+    "intego",
+    "kurasa",
+    "archery",
+    "bow",
+    "arrow",
+    "target"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
   }
  ]
 }
