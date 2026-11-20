@@ -5277,6 +5277,101 @@
    ],
    "auto": true,
    "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_9bfbc8cb_q",
+   "label_rw": "Uburyo bwo kwirinda inkuba",
+   "label_en": "Lightning Safety",
+   "patterns_en": [
+    "What should you do during a lightning storm?",
+    "How can you stay safe from lightning?",
+    "Where is the best place to seek shelter from lightning?"
+   ],
+   "patterns_rw": [
+    "Wakora iki inkuba iguye?",
+    "Wakirinda ute inkuba mu gihe cy'imvura?",
+    "Ni he hantu heza ho kwihisha inkuba?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Igihe imiyaga n'inkuba bihari, shaka aho wihisha mu nzu ifite amashanyarazi n'amazi meza. Irinde guhagarara munsi y'ibiti birebire cyangwa mu mirima ifunguye. Koresha ibikoresho bikingira inkuba mu nzu.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "During thunderstorms, seek shelter inside a fully enclosed building with plumbing and electrical wiring. Avoid standing under tall trees or in open fields. Use lightning protection systems in buildings.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_b71d0740_q",
+   "label_rw": "Ubumenyi bw'ibanze bwo koga no gutabara mu mazi",
+   "label_en": "Basic swimming and water rescue awareness",
+   "patterns_en": [
+    "How can you help someone who is drowning?",
+    "Why is it not advisable to swim alone?"
+   ],
+   "patterns_rw": [
+    "Ni iki wakora ngo wirinde kurohama?",
+    "Wafasha ute umuntu ugiye kurohama?",
+    "Kuki bitari byiza koga wenyine?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kwiga koga no kumenya ubwirinzi bw'ibanze mu mazi bifasha kwirinda kurohama. Ntukajye mu mazi wenyine kandi wirinde kujya ahanini utazi uburebure bwaho. Mu gihe umuntu arohamye, utabara ntagomba kujya mu mazi niba bishobora gushyira ubuzima bwe mu kaga; ahubwo akoresha inkoni cyangwa ikintu kirekire kugira ngo amufashe.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Learning to swim and knowing basic water safety helps prevent drowning. You should usually avoid swimming alone and stay away from deep water with unknown depths. During a rescue, a rescuer should generally avoid entering the water if it puts their own life at risk, and instead use a pole or a long object to help.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_202b3ac7_q",
+   "label_rw": "Umutekano w'ibikoresho by'imikino",
+   "label_en": "Playground and sports equipment safety",
+   "patterns_en": [
+    "How can we maintain playground equipment safety?",
+    "What surfaces help reduce injuries from falls?",
+    "Why is regular equipment inspection important?"
+   ],
+   "patterns_rw": [
+    "Ni gute twacunga umutekano w'ibikoresho by'imikino?",
+    "Ni iki cyatuma abana batagwa nabi mu kibuga?",
+    "Ese kugenzura ibikoresho by'imikino bifite akahe kamaro?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gusuzuma ibikoresho by'imikino buri gihe bifasha mu kwirindaimpanuka. Ibikoresho bigomba kuba bifite ishingiro rikomeye kandi bitangiritse. Gutera umusenyi cyangwa ibikoresho byoroshye munsi y'ibikoresho byo gukina bigabanya ingaruka zo kugwa.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Regular inspection of sports and playground equipment helps prevent accidents. Equipment must be structurally sound and free from damage. Installing soft surfaces like wood mulch or rubber mats underneath play structures reduces the severity of falls.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_1b00f196_q",
+   "label_rw": "Kurwanya iterabwoba rya bagenzi no gushyiraho imbibi",
+   "label_en": "Peer pressure and personal boundary setting",
+   "patterns_en": [
+    "Why is it important to set personal boundaries?",
+    "How can someone resist negative peer pressure?",
+    "What does it mean to say no to peers?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyatuma umuntu yanga gukurikira abagenzi be?",
+    "Washinga ute imbibi mu mibanire yawe?",
+    "Ni gute wakwirinda iterabwoba rya bagenzi bawe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gushyiraho imbibi bifasha abantu kwanga ibikorwa bibi bikomoka kuri bagenzi babo. Buri muntu afite uburenganzira bwo kuvuga oya ku bintu bitamunyuze. Ibi birinda umutekano we n'icyubahiro cye.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Setting personal boundaries helps individuals resist negative peer pressure. Everyone has the right to say no to things they are uncomfortable with. This protects their safety and personal dignity.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
   }
  ],
  "knowledge": [
@@ -9619,6 +9714,86 @@
     "bow",
     "arrow",
     "target"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_9bfbc8cb",
+   "category": "safety",
+   "title_rw": "Uburyo bwo kwirinda inkuba",
+   "title_en": "Lightning Safety",
+   "summary_rw": "Igihe imiyaga n'inkuba bihari, shaka aho wihisha mu nzu ifite amashanyarazi n'amazi meza. Irinde guhagarara munsi y'ibiti birebire cyangwa mu mirima ifunguye. Koresha ibikoresho bikingira inkuba mu nzu.",
+   "summary_en": "During thunderstorms, seek shelter inside a fully enclosed building with plumbing and electrical wiring. Avoid standing under tall trees or in open fields. Use lightning protection systems in buildings.",
+   "keywords": [
+    "inkuba",
+    "lightning",
+    "umutekano",
+    "safety",
+    "imiyaga",
+    "storm",
+    "ubwugamo",
+    "shelter"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_b71d0740",
+   "category": "safety",
+   "title_rw": "Ubumenyi bw'ibanze bwo koga no gutabara mu mazi",
+   "title_en": "Basic swimming and water rescue awareness",
+   "summary_rw": "Kwiga koga no kumenya ubwirinzi bw'ibanze mu mazi bifasha kwirinda kurohama. Ntukajye mu mazi wenyine kandi wirinde kujya ahanini utazi uburebure bwaho. Mu gihe umuntu arohamye, utabara ntagomba kujya mu mazi niba bishobora gushyira ubuzima bwe mu kaga; ahubwo akoresha inkoni cyangwa ikintu kirekire kugira ngo amufashe.",
+   "summary_en": "Learning to swim and knowing basic water safety helps prevent drowning. You should usually avoid swimming alone and stay away from deep water with unknown depths. During a rescue, a rescuer should generally avoid entering the water if it puts their own life at risk, and instead use a pole or a long object to help.",
+   "keywords": [
+    "koga",
+    "swimming",
+    "amazi",
+    "water",
+    "kurohama",
+    "drowning",
+    "gutabara",
+    "rescue"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_202b3ac7",
+   "category": "safety",
+   "title_rw": "Umutekano w'ibikoresho by'imikino",
+   "title_en": "Playground and sports equipment safety",
+   "summary_rw": "Gusuzuma ibikoresho by'imikino buri gihe bifasha mu kwirindaimpanuka. Ibikoresho bigomba kuba bifite ishingiro rikomeye kandi bitangiritse. Gutera umusenyi cyangwa ibikoresho byoroshye munsi y'ibikoresho byo gukina bigabanya ingaruka zo kugwa.",
+   "summary_en": "Regular inspection of sports and playground equipment helps prevent accidents. Equipment must be structurally sound and free from damage. Installing soft surfaces like wood mulch or rubber mats underneath play structures reduces the severity of falls.",
+   "keywords": [
+    "umutekano",
+    "safety",
+    "ibikoresho",
+    "equipment",
+    "imikino",
+    "playgrounds",
+    "impanuka",
+    "accidents"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_1b00f196",
+   "category": "safety",
+   "title_rw": "Kurwanya iterabwoba rya bagenzi no gushyiraho imbibi",
+   "title_en": "Peer pressure and personal boundary setting",
+   "summary_rw": "Gushyiraho imbibi bifasha abantu kwanga ibikorwa bibi bikomoka kuri bagenzi babo. Buri muntu afite uburenganzira bwo kuvuga oya ku bintu bitamunyuze. Ibi birinda umutekano we n'icyubahiro cye.",
+   "summary_en": "Setting personal boundaries helps individuals resist negative peer pressure. Everyone has the right to say no to things they are uncomfortable with. This protects their safety and personal dignity.",
+   "keywords": [
+    "imbibi",
+    "boundaries",
+    "iterabwoba",
+    "pressure",
+    "umutekano",
+    "safety",
+    "kurengera",
+    "protect"
    ],
    "auto": true,
    "taught": "2026-11-20"
