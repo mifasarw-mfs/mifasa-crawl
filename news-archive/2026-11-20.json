@@ -1,7 +1,47 @@
 {
  "day": "2026-11-20",
- "count": 41,
+ "count": 43,
  "articles": [
+  {
+   "id": "crawl_1w4agzz",
+   "title": "Amerika: Yangiwe gufungurwa by'agateganyo nyuma y'imyaka 32 yishe abana be babiri",
+   "summary": "Mu iburanisha, Susan Smith yavuze ko yicuza cyane ibyo yakoze kandi ko iyo aza kugira amahirwe yari guhindura ibyabaye.",
+   "link": "https://www.bbc.com/gahuza/articles/c3vg21n9wnw4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/c3vg21n9wnw4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T10:50:23.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d76c/live/0d6d9ab0-a76f-11ef-a215-2b35ff609397.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d76c/live/0d6d9ab0-a76f-11ef-a215-2b35ff609397.jpg",
+   "title_rw": "Amerika: Yangiwe gufungurwa by'agateganyo nyuma y'imyaka 32 yishe abana be babiri",
+   "summary_rw": "Mu iburanisha, Susan Smith yavuze ko yicuza cyane ibyo yakoze kandi ko iyo aza kugira amahirwe yari guhindura ibyabaye.",
+   "share_id": "MN202611_1w4agzz3dgt"
+  },
+  {
+   "id": "crawl_1x2v6jl",
+   "title": "Nearly 600 women killed in South Africa within three months",
+   "summary": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
+   "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T10:47:07.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1a9/live/1f7166f0-e4c2-11f1-87df-79d8910e0f29.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1a9/live/1f7166f0-e4c2-11f1-87df-79d8910e0f29.jpg",
+   "title_en": "Nearly 600 women killed in South Africa within three months",
+   "summary_en": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
+   "share_id": "MN202611_1x2v6jlo30f"
+  },
   {
    "id": "crawl_6p4okp",
    "title": "What are heat pumps and how much do they cost?",
@@ -839,5 +879,5 @@
    "share_id": "MN202611_kh4czrx9gl"
   }
  ],
- "updated": "2026-11-20T10:30:39.622Z"
+ "updated": "2026-11-20T10:57:13.831Z"
 }
