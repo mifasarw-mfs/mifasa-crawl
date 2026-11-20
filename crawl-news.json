@@ -1,7 +1,27 @@
 [
  {
+  "id": "crawl_1kps9ch",
+  "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
+  "summary": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
+  "link": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-20T23:28:17.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ce4/live/0cd0ed60-e3e9-11f1-a16c-7de3762c094b.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ce4/live/0cd0ed60-e3e9-11f1-a16c-7de3762c094b.jpg",
+  "title_en": "A new Nepal, an old neighbour - Balendra Shah's India test",
+  "summary_en": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
+  "share_id": "MN202611_1kps9chl5tb"
+ },
+ {
   "id": "crawl_4mz7do",
-  "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
+  "title": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
   "summary": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
   "link": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
@@ -15,7 +35,7 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4bc/live/7ab356d0-e4f5-11f1-a094-5fdc692f3e33.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4bc/live/7ab356d0-e4f5-11f1-a094-5fdc692f3e33.jpg",
-  "title_en": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
+  "title_en": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
   "summary_en": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
   "share_id": "MN202611_4mz7dos3ui"
  },
@@ -2711,12 +2731,12 @@
   "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-20T00:54:50.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Science",
+  "category": "science",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Science",
+   "science"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/bd211170-e49f-11f1-a01e-f1ba573bc781.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/bd211170-e49f-11f1-a01e-f1ba573bc781.jpg",
@@ -17101,25 +17121,5 @@
   "title_en": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
   "summary_en": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
   "share_id": "MN202611_14dayyw3vfq"
- },
- {
-  "id": "crawl_1b7bsqm",
-  "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-  "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
-  "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-15T02:49:45.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg",
-  "title_en": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-  "summary_en": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
-  "share_id": "MN202611_1b7bsqm4p7g"
  }
 ]

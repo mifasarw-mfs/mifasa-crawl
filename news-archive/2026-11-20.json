@@ -1,7 +1,27 @@
 {
  "day": "2026-11-20",
- "count": 120,
+ "count": 121,
  "articles": [
+  {
+   "id": "crawl_1kps9ch",
+   "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
+   "summary": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
+   "link": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T23:28:17.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ce4/live/0cd0ed60-e3e9-11f1-a16c-7de3762c094b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ce4/live/0cd0ed60-e3e9-11f1-a16c-7de3762c094b.jpg",
+   "title_en": "A new Nepal, an old neighbour - Balendra Shah's India test",
+   "summary_en": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
+   "share_id": "MN202611_1kps9chl5tb"
+  },
   {
    "id": "crawl_4mz7do",
    "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
@@ -2468,5 +2488,5 @@
    "share_id": "MN202611_kh4czrx9gl"
   }
  ],
- "updated": "2026-11-20T23:29:48.067Z"
+ "updated": "2026-11-20T23:38:36.760Z"
 }
