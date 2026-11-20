@@ -5372,6 +5372,126 @@
    ],
    "auto": true,
    "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_544b1c31_q",
+   "label_rw": "Imibare mu Kinyarwanda",
+   "label_en": "Numbers in Kinyarwanda",
+   "patterns_en": [
+    "How are numbers counted in Kinyarwanda?",
+    "What is the number ten called in Kinyarwanda?",
+    "What characterizes Kinyarwanda numbers?"
+   ],
+   "patterns_rw": [
+    "Imibare mu Kinyarwanda ibarwa gute?",
+    "Umubare icumi witwa iki mu Kinyarwanda?",
+    "Ni iki kiranga imibare yo mu Kinyarwanda?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ikinyarwanda gifite uburyo bwo kubara bushingiye ku mubare icumi. Imibare kuva kuri rimwe kugera kuri icyenda igira utugereka twihariye. Mu kubara, amazina y'imibare akurikiza amateka y'ururimi n'imiterere y'amazina.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Kinyarwanda uses a decimal-based counting system. Numbers from one to nine have specific roots. When counting, the names of the numbers follow the grammatical rules and noun classes of the language.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_ba2044fd_q",
+   "label_rw": "Imyenda n'imitako mu Kinyarwanda",
+   "label_en": "Clothing and accessories in Kinyarwanda",
+   "patterns_en": [
+    "What does the word umwenda mean in Kinyarwanda?",
+    "What are accessories used for in Rwandan culture?",
+    "What is the difference between clothing and accessories?"
+   ],
+   "patterns_rw": [
+    "Ijambo umwenda risobanura iki mu Kinyarwanda?",
+    "Imitako ikoreshwa mu ki mu muco w'u Rwanda?",
+    "Ni iki gitandukanya imyenda n'imitako?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mu Kinyarwanda, ijambo umwenda risobanura icyambarwa cyose cyo kwambara ku mubiri. Imitako ni ibintu byose bikoreshwa mu kwiyandabika cyangwa se mu gushaka ubwiza. Hari amagambo menshi yihariye agaragaza amoko atandukanye y'imyenda n'imitako mu muco w'u Rwanda.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "In Kinyarwanda, the word umwenda refers to any clothing worn on the body. Accessories are items used for adornment or to enhance beauty. There are many specific words that describe different types of clothing and accessories in Rwandan culture.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_8704bb91_q",
+   "label_rw": "Inzu n'ibikoresho byo mu rugo",
+   "label_en": "House and household items",
+   "patterns_en": [
+    "What is a house?",
+    "What items are found in a house?",
+    "What are chairs used for at home?"
+   ],
+   "patterns_rw": [
+    "Inzu ni iki?",
+    "Ni ibihe bikoresho biboneka mu nzu?",
+    "Intebe zikoreshwa iki mu rugo?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Inzu ni aho abantu baba. Mu nzu habamo ibikoresho bitandukanye bifasha mu buzima bwa buri munsi. Bimwe muri ibyo bikoresho ni intebe zicarwaho, ameza akoreshwa mu kurya cyangwa kwandika, uburiri bwagenewe kuryamamo, n'ibindi byose bifasha mu isuku no guteka mu rugo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "A house is a place where people live. Inside a house, there are various items that help with daily life. Some of these items include chairs for sitting, tables used for eating or writing, beds meant for sleeping, and everything else that helps with cleanliness and cooking at home.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_ddd15c7e_q",
+   "label_rw": "Imirimo n'imyuga mu Kinyarwanda",
+   "label_en": "Professions and occupations in Kinyarwanda",
+   "patterns_en": [
+    "What causes profession names in Kinyarwanda to have human prefixes?",
+    "Can you give examples of three professions in Kinyarwanda?",
+    "What do professions and occupations derive from in Kinyarwanda?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma amazina y'imirimo mu Kinyarwanda agira umugereka w'abantu?",
+    "Ese waha ingero z'imirimo itatu mu Kinyarwanda?",
+    "Imirimo n'imyuga bikomoka ku ki mu Kinyarwanda?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mu Kinyarwanda, amazina y'imirimo n'imyuga akomoka ku nshinga cyangwa ku mazina y'ibintu. Umunyamakuru, umwarimu, n'umuganga ni ingero z'imirimo izwi. Izina ry'umuntu ukora umurimo uwo ari wo wose ritangira n'umugereka w'abantu nka umu- cyangwa aba-.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "In Kinyarwanda, names of professions and occupations usually derive from verbs or nouns. Journalist, teacher, and doctor are examples of known professions. The name of a person performing any occupation typically starts with a noun class prefix such as umu- or aba-.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_5976b1e6_q",
+   "label_rw": "Icyerekezo mu Kinyarwanda",
+   "label_en": "Directions in Kinyarwanda",
+   "patterns_en": [
+    "Why are directions important in Kinyarwanda?",
+    "What are the basic directional words in Kinyarwanda?",
+    "What do ruguru and hepfo mean?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma icyerekezo ari ngombwa mu Kinyarwanda?",
+    "Amagambo y'ibanze y'icyerekezo mu Kinyarwanda ni ayahe?",
+    "Ese ruguru na hepfo bisobanura iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mu Kinyarwanda, icyerekezo n'aho ibintu biherereye bikoresha amagambo yihariye y'aho umuntu ahagaze cyangwa aho ikintu kiri. Amagambo nka ruguru, hepfo, imbere, n'inyuma akoreshwa kugira ngo agaragaze aho ikintu kiri ugereranyije n'ikindi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "In Kinyarwanda, directions and spatial locations use specific terms relative to a speaker or object's position. Words like ruguru (up/north), hepfo (down/south), imbere (front), and inyuma (behind) are commonly used to indicate relative locations.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
   }
  ],
  "knowledge": [
@@ -9794,6 +9914,103 @@
     "safety",
     "kurengera",
     "protect"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_544b1c31",
+   "category": "language",
+   "title_rw": "Imibare mu Kinyarwanda",
+   "title_en": "Numbers in Kinyarwanda",
+   "summary_rw": "Ikinyarwanda gifite uburyo bwo kubara bushingiye ku mubare icumi. Imibare kuva kuri rimwe kugera kuri icyenda igira utugereka twihariye. Mu kubara, amazina y'imibare akurikiza amateka y'ururimi n'imiterere y'amazina.",
+   "summary_en": "Kinyarwanda uses a decimal-based counting system. Numbers from one to nine have specific roots. When counting, the names of the numbers follow the grammatical rules and noun classes of the language.",
+   "keywords": [
+    "imibare",
+    "kubara",
+    "ikinyarwanda",
+    "ururimi",
+    "numbers",
+    "counting",
+    "language"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_ba2044fd",
+   "category": "language",
+   "title_rw": "Imyenda n'imitako mu Kinyarwanda",
+   "title_en": "Clothing and accessories in Kinyarwanda",
+   "summary_rw": "Mu Kinyarwanda, ijambo umwenda risobanura icyambarwa cyose cyo kwambara ku mubiri. Imitako ni ibintu byose bikoreshwa mu kwiyandabika cyangwa se mu gushaka ubwiza. Hari amagambo menshi yihariye agaragaza amoko atandukanye y'imyenda n'imitako mu muco w'u Rwanda.",
+   "summary_en": "In Kinyarwanda, the word umwenda refers to any clothing worn on the body. Accessories are items used for adornment or to enhance beauty. There are many specific words that describe different types of clothing and accessories in Rwandan culture.",
+   "keywords": [
+    "imyenda",
+    "imitako",
+    "clothing",
+    "accessories",
+    "umuco",
+    "culture",
+    "kinyarwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_8704bb91",
+   "category": "language",
+   "title_rw": "Inzu n'ibikoresho byo mu rugo",
+   "title_en": "House and household items",
+   "summary_rw": "Inzu ni aho abantu baba. Mu nzu habamo ibikoresho bitandukanye bifasha mu buzima bwa buri munsi. Bimwe muri ibyo bikoresho ni intebe zicarwaho, ameza akoreshwa mu kurya cyangwa kwandika, uburiri bwagenewe kuryamamo, n'ibindi byose bifasha mu isuku no guteka mu rugo.",
+   "summary_en": "A house is a place where people live. Inside a house, there are various items that help with daily life. Some of these items include chairs for sitting, tables used for eating or writing, beds meant for sleeping, and everything else that helps with cleanliness and cooking at home.",
+   "keywords": [
+    "inzu",
+    "house",
+    "ibikoresho",
+    "items",
+    "urugo",
+    "home",
+    "ubuzima",
+    "life"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_ddd15c7e",
+   "category": "language",
+   "title_rw": "Imirimo n'imyuga mu Kinyarwanda",
+   "title_en": "Professions and occupations in Kinyarwanda",
+   "summary_rw": "Mu Kinyarwanda, amazina y'imirimo n'imyuga akomoka ku nshinga cyangwa ku mazina y'ibintu. Umunyamakuru, umwarimu, n'umuganga ni ingero z'imirimo izwi. Izina ry'umuntu ukora umurimo uwo ari wo wose ritangira n'umugereka w'abantu nka umu- cyangwa aba-.",
+   "summary_en": "In Kinyarwanda, names of professions and occupations usually derive from verbs or nouns. Journalist, teacher, and doctor are examples of known professions. The name of a person performing any occupation typically starts with a noun class prefix such as umu- or aba-.",
+   "keywords": [
+    "imirimo",
+    "imyuga",
+    "kinyarwanda",
+    "umwarimu",
+    "umuganga",
+    "professions",
+    "occupations",
+    "language"
+   ],
+   "auto": true,
+   "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_5976b1e6",
+   "category": "language",
+   "title_rw": "Icyerekezo mu Kinyarwanda",
+   "title_en": "Directions in Kinyarwanda",
+   "summary_rw": "Mu Kinyarwanda, icyerekezo n'aho ibintu biherereye bikoresha amagambo yihariye y'aho umuntu ahagaze cyangwa aho ikintu kiri. Amagambo nka ruguru, hepfo, imbere, n'inyuma akoreshwa kugira ngo agaragaze aho ikintu kiri ugereranyije n'ikindi.",
+   "summary_en": "In Kinyarwanda, directions and spatial locations use specific terms relative to a speaker or object's position. Words like ruguru (up/north), hepfo (down/south), imbere (front), and inyuma (behind) are commonly used to indicate relative locations.",
+   "keywords": [
+    "icyerekezo",
+    "directions",
+    "kinyarwanda",
+    "ahantu",
+    "location",
+    "ururimi",
+    "language"
    ],
    "auto": true,
    "taught": "2026-11-20"
