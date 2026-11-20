@@ -1,7 +1,27 @@
 {
  "day": "2026-11-20",
- "count": 112,
+ "count": 113,
  "articles": [
+  {
+   "id": "crawl_1tjlomr",
+   "title": "NFL great Brady could buy Chelsea stake",
+   "summary": "American football great Tom Brady is looking to invest in Chelsea through ownership group Clearlake Capital.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T22:36:35.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb77/live/3264bae0-e52c-11f1-964d-a1d5fe40573e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb77/live/3264bae0-e52c-11f1-964d-a1d5fe40573e.jpg",
+   "title_en": "NFL great Brady could buy Chelsea stake",
+   "summary_en": "American football great Tom Brady is looking to invest in Chelsea through ownership group Clearlake Capital.",
+   "share_id": "MN202611_1tjlomrdm1d"
+  },
   {
    "id": "crawl_1qj51ka",
    "title": "Amasiganwa abiri y'umunsi umwe muri Tour du Rwanda 2027 izatangirira i Gicumbi",
@@ -2308,5 +2328,5 @@
    "share_id": "MN202611_kh4czrx9gl"
   }
  ],
- "updated": "2026-11-20T22:38:17.453Z"
+ "updated": "2026-11-20T22:43:08.513Z"
 }
