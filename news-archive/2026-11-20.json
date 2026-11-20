@@ -1,7 +1,67 @@
 {
  "day": "2026-11-20",
- "count": 106,
+ "count": 109,
  "articles": [
+  {
+   "id": "crawl_9b1cwx",
+   "title": "Shevchenko lying about drugs test claims - Mudryk",
+   "summary": "Mykhailo Mudryk accuseds Ukraine legend Andriy Shevchenko of lying about the circumstances surrounding the winger's positive drugs test as his dispute with the country's football federation continues.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cjn502n9vqp4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cjn502n9vqp4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T21:54:17.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2404/live/380cedc0-e43f-11f1-9192-3924a59e54c7.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2404/live/380cedc0-e43f-11f1-9192-3924a59e54c7.jpg",
+   "title_en": "Shevchenko lying about drugs test claims - Mudryk",
+   "summary_en": "Mykhailo Mudryk accuseds Ukraine legend Andriy Shevchenko of lying about the circumstances surrounding the winger's positive drugs test as his dispute with the country's football federation continues.",
+   "share_id": "MN202611_9b1cwxxcan"
+  },
+  {
+   "id": "crawl_dgcet4",
+   "title": "Watch: Inverness and Ayr play out goalless draw",
+   "summary": "Inverness Caledonian Thistle and Ayr United play out a goalless draw in the chilly Highlands.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6zxvnzjnne4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c6zxvnzjnne4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T21:47:58.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/182c/live/c20332e0-e52b-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/182c/live/c20332e0-e52b-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Watch: Inverness and Ayr play out goalless draw",
+   "summary_en": "Inverness Caledonian Thistle and Ayr United play out a goalless draw in the chilly Highlands.",
+   "share_id": "MN202611_dgcet4pqae"
+  },
+  {
+   "id": "crawl_1wq11jc",
+   "title": "What the new UK-EU deal could mean for future post-Brexit relations",
+   "summary": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
+   "link": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T21:43:22.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff0d/live/4b4a48f0-e52b-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff0d/live/4b4a48f0-e52b-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "What the new UK-EU deal could mean for future post-Brexit relations",
+   "summary_en": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
+   "share_id": "MN202611_1wq11jctmna"
+  },
   {
    "id": "crawl_1r9cfgm",
    "title": "Osimhen keen on Man Utd move - Saturday's gossip",
@@ -2187,5 +2247,5 @@
    "share_id": "MN202611_kh4czrx9gl"
   }
  ],
- "updated": "2026-11-20T20:41:31.707Z"
+ "updated": "2026-11-20T22:00:37.576Z"
 }
