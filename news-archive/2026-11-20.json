@@ -1,7 +1,30 @@
 {
  "day": "2026-11-20",
- "count": 100,
+ "count": 101,
  "articles": [
+  {
+   "id": "crawl_18mubeg",
+   "title": "Urwego rw'ubuhinzi rwungutse abahanga mu butubuzi bw'imbuto",
+   "summary": "Minisiteri y’Ubuhinzi n’Ubworozi (MINAGRI), yagaragaje ko yiteze ibisubizo ku bibazo bikigaragara mu buziranenge bw’imbuto z’indobanure ku banyeshuri barangije icyiciro cya gatatu cy’amahugurwa (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/urwego-rw-ubuhinzi-rwungutse-abahanga-mu-butubuzi-bw-imbuto",
+   "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/urwego-rw-ubuhinzi-rwungutse-abahanga-mu-butubuzi-bw-imbuto",
+   "date": "2026-11-20T19:39:32.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu Rwanda",
+    "MobileBigStory",
+    "Tarib Abdul"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_16.12_33_1_.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_16.12_33_1_.jpg",
+   "title_rw": "Urwego rw'ubuhinzi rwungutse abahanga mu butubuzi bw'imbuto",
+   "summary_rw": "Minisiteri y’Ubuhinzi n’Ubworozi (MINAGRI), yagaragaje ko yiteze ibisubizo ku bibazo bikigaragara mu buziranenge bw’imbuto z’indobanure ku banyeshuri barangije icyiciro cya gatatu cy’amahugurwa (…)",
+   "share_id": "MN202611_18mubegxceu"
+  },
   {
    "id": "crawl_1uy36z",
    "title": "Sarr focused on Palace return after Liverpool interest",
@@ -2061,5 +2084,5 @@
    "share_id": "MN202611_kh4czrx9gl"
   }
  ],
- "updated": "2026-11-20T19:37:10.316Z"
+ "updated": "2026-11-20T19:52:37.781Z"
 }
