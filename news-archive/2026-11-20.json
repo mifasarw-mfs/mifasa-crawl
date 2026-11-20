@@ -1,7 +1,47 @@
 {
  "day": "2026-11-20",
- "count": 13,
+ "count": 15,
  "articles": [
+  {
+   "id": "crawl_1dewsqa",
+   "title": "UK and EU to agree youth mobility scheme, BBC understands",
+   "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+   "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T04:35:51.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
+   "title_en": "UK and EU to agree youth mobility scheme, BBC understands",
+   "summary_en": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+   "share_id": "MN202611_1dewsqapp74"
+  },
+  {
+   "id": "crawl_1j9qc0v",
+   "title": "China issues Mount Fuji warning as family of missing climber offers reward",
+   "summary": "The $75,000 reward offered by Chen Jie's family has sparked fears of more reckless climbing attempts.",
+   "link": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T04:13:22.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7477/live/03075bf0-e495-11f1-aa9a-13606df278ac.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7477/live/03075bf0-e495-11f1-aa9a-13606df278ac.jpg",
+   "title_en": "China issues Mount Fuji warning as family of missing climber offers reward",
+   "summary_en": "The $75,000 reward offered by Chen Jie's family has sparked fears of more reckless climbing attempts.",
+   "share_id": "MN202611_1j9qc0vj8hp"
+  },
   {
    "id": "crawl_24whlj",
    "title": "Uburaya buvuga ko bwiteguriye kuganira n'Uburusiya ku kurangiza intambara muri Ukraine",
@@ -271,5 +311,5 @@
    "share_id": "MN202611_kh4czrx9gl"
   }
  ],
- "updated": "2026-11-20T04:01:41.721Z"
+ "updated": "2026-11-20T04:51:07.900Z"
 }

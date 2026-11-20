@@ -1,5 +1,45 @@
 [
  {
+  "id": "crawl_1dewsqa",
+  "title": "UK and EU to agree youth mobility scheme, BBC understands",
+  "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+  "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-20T04:35:51.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
+  "title_en": "UK and EU to agree youth mobility scheme, BBC understands",
+  "summary_en": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+  "share_id": "MN202611_1dewsqapp74"
+ },
+ {
+  "id": "crawl_1j9qc0v",
+  "title": "China issues Mount Fuji warning as family of missing climber offers reward",
+  "summary": "The $75,000 reward offered by Chen Jie's family has sparked fears of more reckless climbing attempts.",
+  "link": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-20T04:13:22.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7477/live/03075bf0-e495-11f1-aa9a-13606df278ac.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7477/live/03075bf0-e495-11f1-aa9a-13606df278ac.jpg",
+  "title_en": "China issues Mount Fuji warning as family of missing climber offers reward",
+  "summary_en": "The $75,000 reward offered by Chen Jie's family has sparked fears of more reckless climbing attempts.",
+  "share_id": "MN202611_1j9qc0vj8hp"
+ },
+ {
   "id": "crawl_24whlj",
   "title": "Uburaya buvuga ko bwiteguriye kuganira n'Uburusiya ku kurangiza intambara muri Ukraine",
   "summary": "Ibihugu vy’i Buraya bivuga ko bifise aho bihagaze hatomoye kandi hadahindagurika ku bijanye n’ibiganiro.",
@@ -47,7 +87,7 @@
  },
  {
   "id": "crawl_1aw79hr",
-  "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+  "title": "GTA 6 breaks records as sales top $2.3bn - industry estimate",
   "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
   "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
@@ -61,7 +101,7 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ccb/live/0f9f2750-e493-11f1-a094-5fdc692f3e33.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ccb/live/0f9f2750-e493-11f1-a094-5fdc692f3e33.jpg",
-  "title_en": "GTA 6 breaks records as sales top $2bn - industry estimate",
+  "title_en": "GTA 6 breaks records as sales top $2.3bn - industry estimate",
   "summary_en": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
   "share_id": "MN202611_1aw79hr05yl"
  },
@@ -5300,12 +5340,12 @@
   "link": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-18T08:08:20.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Africa",
+  "category": "news",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Africa",
+   "news"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/377e/live/9eb7bde0-e31b-11f1-81d5-99b8785f3e51.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/377e/live/9eb7bde0-e31b-11f1-81d5-99b8785f3e51.jpg",
@@ -17164,45 +17204,5 @@
   "title_en": "France hold nerve to edge past South Africa in thriller",
   "summary_en": "France hold on to end their five-match losing run against South Africa at Stade de France with an enthralling 21-19 victory in Paris.",
   "share_id": "MN202611_1umgww25j8g"
- },
- {
-  "id": "crawl_t9pns0",
-  "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-  "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-  "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-13T23:00:31.000Z",
-  "source": "BBC Business",
-  "category": "business",
-  "lang": "en",
-  "keywords": [
-   "BBC Business",
-   "business"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d29/live/445059b0-e02e-11f1-9ca9-b3b288fceb81.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d29/live/445059b0-e02e-11f1-9ca9-b3b288fceb81.jpg",
-  "title_en": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-  "summary_en": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-  "share_id": "MN202611_t9pns0ik8u"
- },
- {
-  "id": "crawl_j2h9q2",
-  "title": "Woman with terminal cancer gets dream wedding on hospital ward",
-  "summary": "Maggie Heginbothom thanked the staff after a \"dream\" ceremony was arranged two days after her partner proposed.",
-  "link": "https://www.bbc.co.uk/news/articles/cm702wjg48k2o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cm702wjg48k2o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-13T22:55:00.000Z",
-  "source": "BBC Health",
-  "category": "health",
-  "lang": "en",
-  "keywords": [
-   "BBC Health",
-   "health"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50fc/live/230fb2a0-dffc-11f1-8fbd-b30dd6132269.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50fc/live/230fb2a0-dffc-11f1-8fbd-b30dd6132269.jpg",
-  "title_en": "Woman with terminal cancer gets dream wedding on hospital ward",
-  "summary_en": "Maggie Heginbothom thanked the staff after a \"dream\" ceremony was arranged two days after her partner proposed.",
-  "share_id": "MN202611_j2h9q2a66w"
  }
 ]
