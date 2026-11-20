@@ -1,7 +1,27 @@
 {
  "day": "2026-11-20",
- "count": 47,
+ "count": 49,
  "articles": [
+  {
+   "id": "crawl_5t6i1y",
+   "title": "Patient safety chief concerned about NHS Grampian",
+   "summary": "Karen Titchener said she is seeking \"independent assurance\" that change is being implemented at NHS Grampian.",
+   "link": "https://www.bbc.co.uk/news/articles/cr894yq07v23o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cr894yq07v23o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T11:39:25.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bab/live/4baa29d0-2cd3-11f0-8f57-b7237f6a66e6.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bab/live/4baa29d0-2cd3-11f0-8f57-b7237f6a66e6.jpg",
+   "title_en": "Patient safety chief concerned about NHS Grampian",
+   "summary_en": "Karen Titchener said she is seeking \"independent assurance\" that change is being implemented at NHS Grampian.",
+   "share_id": "MN202611_5t6i1yzeis"
+  },
   {
    "id": "crawl_138lvnl",
    "title": "Fan found not guilty of racially abusing Semenyo",
@@ -141,6 +161,26 @@
    "title_en": "What are heat pumps and how much do they cost?",
    "summary_en": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills.",
    "share_id": "MN202611_6p4okp0utj"
+  },
+  {
+   "id": "crawl_96xyvc",
+   "title": "South Korea catches 111 students with new measures against exam cheating",
+   "summary": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
+   "link": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T10:16:19.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f32a/live/51464610-e4cb-11f1-8ebd-0fa6091698b5.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f32a/live/51464610-e4cb-11f1-8ebd-0fa6091698b5.jpg",
+   "title_en": "South Korea catches 111 students with new measures against exam cheating",
+   "summary_en": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
+   "share_id": "MN202611_96xyvcqvc6"
   },
   {
    "id": "crawl_19fom4l",
@@ -959,5 +999,5 @@
    "share_id": "MN202611_kh4czrx9gl"
   }
  ],
- "updated": "2026-11-20T11:27:32.552Z"
+ "updated": "2026-11-20T11:48:02.963Z"
 }
