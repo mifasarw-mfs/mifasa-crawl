@@ -1,7 +1,27 @@
 {
  "day": "2026-11-20",
- "count": 84,
+ "count": 85,
  "articles": [
+  {
+   "id": "crawl_8dkrdr",
+   "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+   "summary": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+   "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T16:41:52.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd6d/live/fa851d90-e4fe-11f1-a8e4-b1e12a49db15.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd6d/live/fa851d90-e4fe-11f1-a8e4-b1e12a49db15.jpg",
+   "title_en": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+   "summary_en": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+   "share_id": "MN202611_8dkrdrdnul"
+  },
   {
    "id": "crawl_1lb013y",
    "title": "Kingdom Night: Abagore babiri bagiye gushaka intama zazimiye",
@@ -1732,5 +1752,5 @@
    "share_id": "MN202611_kh4czrx9gl"
   }
  ],
- "updated": "2026-11-20T16:40:04.749Z"
+ "updated": "2026-11-20T16:51:30.627Z"
 }
