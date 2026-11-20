@@ -1,7 +1,66 @@
 {
  "day": "2026-11-20",
- "count": 33,
+ "count": 36,
  "articles": [
+  {
+   "id": "crawl_1u9c9s",
+   "title": "Three Kyiv bridges hit during major Russian missile attack",
+   "summary": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
+   "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T09:01:06.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b1/live/a02c1e30-e4b7-11f1-808e-7d48dd17194a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b1/live/a02c1e30-e4b7-11f1-808e-7d48dd17194a.jpg",
+   "title_en": "Three Kyiv bridges hit during major Russian missile attack",
+   "summary_en": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
+   "share_id": "MN202611_1u9c9s6apq"
+  },
+  {
+   "id": "crawl_o0sztr",
+   "title": "The OIF is Not Françafrique”: When Rwanda Reminds the World of the Rules of Dignity",
+   "summary": "In Rwanda, dignity is not a word of convenience, much less a formula reserved for official speeches. It has a name: Agaciro. And behind that word lies a political philosophy… The post The OIF is Not Françafrique”: When Rwanda Reminds the World of the Rules of Dignity appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/the-oif-is-not-francafrique-when-rwanda-reminds-the-world-of-the-rules-of-dignity/",
+   "url": "https://www.ktpress.rw/2026/11/the-oif-is-not-francafrique-when-rwanda-reminds-the-world-of-the-rules-of-dignity/",
+   "date": "2026-11-20T08:38:42.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "Voices"
+   ],
+   "title_en": "The OIF is Not Françafrique”: When Rwanda Reminds the World of the Rules of Dignity",
+   "summary_en": "In Rwanda, dignity is not a word of convenience, much less a formula reserved for official speeches. It has a name: Agaciro. And behind that word lies a political philosophy… The post The OIF is Not Françafrique”: When Rwanda Reminds the World of the Rules of Dignity appeared first on KT PRESS .",
+   "share_id": "MN202611_o0sztrw0u5"
+  },
+  {
+   "id": "crawl_1gmzlbf",
+   "title": "EFL preview: Evans' gripes & unexpected departures",
+   "summary": "BBC Sport explores five things to capture your attention this EFL weekend.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crwy4wl1n0q2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/crwy4wl1n0q2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T08:24:38.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b61b/live/371b89f0-e370-11f1-a094-5fdc692f3e33.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b61b/live/371b89f0-e370-11f1-a094-5fdc692f3e33.png",
+   "title_en": "EFL preview: Evans' gripes & unexpected departures",
+   "summary_en": "BBC Sport explores five things to capture your attention this EFL weekend.",
+   "share_id": "MN202611_1gmzlbfriq1"
+  },
   {
    "id": "crawl_gpy6jj",
    "title": "Tinned goods and long-life milk boost retail sales after 'Be Ready' campaign launch",
@@ -674,5 +733,5 @@
    "share_id": "MN202611_kh4czrx9gl"
   }
  ],
- "updated": "2026-11-20T08:05:47.957Z"
+ "updated": "2026-11-20T09:03:56.255Z"
 }
