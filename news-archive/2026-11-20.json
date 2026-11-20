@@ -1,7 +1,30 @@
 {
  "day": "2026-11-20",
- "count": 53,
+ "count": 54,
  "articles": [
+  {
+   "id": "crawl_1mq90oq",
+   "title": "Afurika igomba kugira ubwigenge mu gufata ibyemezo mpuzamahanga - Minisitiri Nduhungirehe",
+   "summary": "Minisitiri w’Ububanyi n’Amahanga n’Ubutwererane, Olivier Nduhungirehe, yagaragaje ko Afurika ikwiye kugira uruhare rukomeye mu gufata ibyemezo ku rwego mpuzamahanga, ubufatanye hagati y’ibihugu (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/afurika-igomba-kugira-ubwigenge-mu-gufata-ibyemezo-mpuzamahanga-minisitiri-nduhungirehe",
+   "url": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/afurika-igomba-kugira-ubwigenge-mu-gufata-ibyemezo-mpuzamahanga-minisitiri-nduhungirehe",
+   "date": "2026-11-20T13:18:07.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu mahanga",
+    "MobileBigStory",
+    "Ruzindana Janvier"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_15.00_46_1_.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_15.00_46_1_.jpg",
+   "title_rw": "Afurika igomba kugira ubwigenge mu gufata ibyemezo mpuzamahanga - Minisitiri Nduhungirehe",
+   "summary_rw": "Minisitiri w’Ububanyi n’Amahanga n’Ubutwererane, Olivier Nduhungirehe, yagaragaje ko Afurika ikwiye kugira uruhare rukomeye mu gufata ibyemezo ku rwego mpuzamahanga, ubufatanye hagati y’ibihugu (…)",
+   "share_id": "MN202611_1mq90oqqlw8"
+  },
   {
    "id": "crawl_j6ywoy",
    "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
@@ -1079,5 +1102,5 @@
    "share_id": "MN202611_kh4czrx9gl"
   }
  ],
- "updated": "2026-11-20T12:45:51.367Z"
+ "updated": "2026-11-20T13:44:11.127Z"
 }

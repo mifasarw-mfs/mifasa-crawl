@@ -1,8 +1,31 @@
 [
  {
+  "id": "crawl_1mq90oq",
+  "title": "Afurika igomba kugira ubwigenge mu gufata ibyemezo mpuzamahanga - Minisitiri Nduhungirehe",
+  "summary": "Minisitiri w’Ububanyi n’Amahanga n’Ubutwererane, Olivier Nduhungirehe, yagaragaje ko Afurika ikwiye kugira uruhare rukomeye mu gufata ibyemezo ku rwego mpuzamahanga, ubufatanye hagati y’ibihugu (…)",
+  "link": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/afurika-igomba-kugira-ubwigenge-mu-gufata-ibyemezo-mpuzamahanga-minisitiri-nduhungirehe",
+  "url": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/afurika-igomba-kugira-ubwigenge-mu-gufata-ibyemezo-mpuzamahanga-minisitiri-nduhungirehe",
+  "date": "2026-11-20T13:18:07.000Z",
+  "source": "Kigali Today",
+  "category": "news",
+  "lang": "rw",
+  "keywords": [
+   "Kigali Today",
+   "news",
+   "Mu mahanga",
+   "MobileBigStory",
+   "Ruzindana Janvier"
+  ],
+  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_15.00_46_1_.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_15.00_46_1_.jpg",
+  "title_rw": "Afurika igomba kugira ubwigenge mu gufata ibyemezo mpuzamahanga - Minisitiri Nduhungirehe",
+  "summary_rw": "Minisitiri w’Ububanyi n’Amahanga n’Ubutwererane, Olivier Nduhungirehe, yagaragaje ko Afurika ikwiye kugira uruhare rukomeye mu gufata ibyemezo ku rwego mpuzamahanga, ubufatanye hagati y’ibihugu (…)",
+  "share_id": "MN202611_1mq90oqqlw8"
+ },
+ {
   "id": "crawl_j6ywoy",
   "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-  "summary": "Prime Minister Donald Tusk said it did not appear to be an accident when Western military exercises were taking place in the region.",
+  "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
   "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-20T12:41:52.000Z",
@@ -13,10 +36,10 @@
    "BBC World",
    "world"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60d1/live/638e94f0-e4dd-11f1-9cc5-e9713e77fd78.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60d1/live/638e94f0-e4dd-11f1-9cc5-e9713e77fd78.jpg",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f9c/live/c3767190-e4e1-11f1-a094-5fdc692f3e33.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f9c/live/c3767190-e4e1-11f1-a094-5fdc692f3e33.jpg",
   "title_en": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-  "summary_en": "Prime Minister Donald Tusk said it did not appear to be an accident when Western military exercises were taking place in the region.",
+  "summary_en": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
   "share_id": "MN202611_j6ywoyrt5s"
  },
  {
@@ -33,8 +56,8 @@
    "BBC Football",
    "sports"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd8/live/b6cc2940-e4db-11f1-9cc5-e9713e77fd78.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd8/live/b6cc2940-e4db-11f1-9cc5-e9713e77fd78.jpg",
   "title_en": "Southampton give head coach Eckert new deal",
   "summary_en": "Southampton head coach Tonda Eckert signs a new contract at the club through until 2029.",
   "share_id": "MN202611_uvik9xahoj"
@@ -925,7 +948,7 @@
  },
  {
   "id": "crawl_1aw79hr",
-  "title": "GTA 6 breaks records as estimated sales top $2.3bn",
+  "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
   "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
   "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
@@ -939,7 +962,7 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
-  "title_en": "GTA 6 breaks records as estimated sales top $2.3bn",
+  "title_en": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
   "summary_en": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
   "share_id": "MN202611_1aw79hr05yl"
  },
@@ -17146,31 +17169,5 @@
   "title_en": "NI target challenge of Nations League promotion",
   "summary_en": "A win against Ukraine on Saturday night would leave Northern Ireland needing only a point away to Hungary next week to secure promotion to Nations League A for the first time.",
   "share_id": "MN202611_47ethlasvb"
- },
- {
-  "id": "crawl_1cr9u95",
-  "title": "#diamondplatnumz #Simba #Obo #Davido #wcb #nigeria",
-  "summary": "#diamondplatnumz #Simba #Obo #Davido #wcb #nigeria",
-  "link": "https://www.youtube.com/shorts/8pr54-T2ksw",
-  "url": "https://www.youtube.com/shorts/8pr54-T2ksw",
-  "date": "2026-11-14T09:53:27.000Z",
-  "source": "Diamond Platnumz YouTube",
-  "category": "entertainment",
-  "lang": "rw",
-  "keywords": [
-   "Diamond Platnumz YouTube",
-   "entertainment",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "8pr54-T2ksw"
-  },
-  "type": "video",
-  "image": "https://i1.ytimg.com/vi/8pr54-T2ksw/hqdefault.jpg",
-  "thumbnail": "https://i1.ytimg.com/vi/8pr54-T2ksw/hqdefault.jpg",
-  "title_rw": "#diamondplatnumz #Simba #Obo #Davido #wcb #nigeria",
-  "summary_rw": "#diamondplatnumz #Simba #Obo #Davido #wcb #nigeria",
-  "share_id": "MN202611_1cr9u95lpfr"
  }
 ]
