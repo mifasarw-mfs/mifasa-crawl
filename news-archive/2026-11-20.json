@@ -1,7 +1,95 @@
 {
  "day": "2026-11-20",
- "count": 8,
+ "count": 12,
  "articles": [
+  {
+   "id": "crawl_1aw79hr",
+   "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+   "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+   "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T02:13:05.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b54e/live/d83db150-e47e-11f1-99a4-65a971d3bd23.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b54e/live/d83db150-e47e-11f1-99a4-65a971d3bd23.jpg",
+   "title_en": "GTA 6 breaks records as sales top $2bn - industry estimate",
+   "summary_en": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+   "share_id": "MN202611_1aw79hr05yl"
+  },
+  {
+   "id": "crawl_glcidw",
+   "title": "Ku musozo w'iperereza: Abanyeshuri basaga 500 ni bo bakopeye mu bizamini bya Leta bisoza umwaka w'amashuri 2025/26",
+   "summary": "Minisiteri y’Uburezi yatangaje ko abanyeshuri 563 basanze barakopeye mu bizamini bya Leta bisoza amashuri yisumbuye by’umwaka w’amashuri wa 2025-2026, nyuma y’iperereza ryakozwe ku banyeshuri (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/ku-musozo-w-iperereza-abanyeshuri-basaga-500-ni-bo-bakopeye-mu-bizamini-bya-leta-bisoza-umwaka-w-amashuri-2025-26",
+   "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/ku-musozo-w-iperereza-abanyeshuri-basaga-500-ni-bo-bakopeye-mu-bizamini-bya-leta-bisoza-umwaka-w-amashuri-2025-26",
+   "date": "2026-11-20T02:03:42.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu Rwanda",
+    "MobileBigStory",
+    "Ruzindana Janvier"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/focused_classroom_examination.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/focused_classroom_examination.png",
+   "title_rw": "Ku musozo w'iperereza: Abanyeshuri basaga 500 ni bo bakopeye mu bizamini bya Leta bisoza umwaka w'amashuri 2025/26",
+   "summary_rw": "Minisiteri y’Uburezi yatangaje ko abanyeshuri 563 basanze barakopeye mu bizamini bya Leta bisoza amashuri yisumbuye by’umwaka w’amashuri wa 2025-2026, nyuma y’iperereza ryakozwe ku banyeshuri (…)",
+   "share_id": "MN202611_glcidwn62a"
+  },
+  {
+   "id": "crawl_1mlv973",
+   "title": "Mudufashe itike y'indege Kigali - Kampala ishyirwe ku Madolari 90 - Umushoramari Dennis Karera",
+   "summary": "Umushoramari Dennis Karera yasabye abanyapolitiki b’u Rwanda na Uganda gukoresha ububasha bafite none bakagabanya ibiciro by’ingendo z’indege, ku buryo umuntu yava Kigali akajya Kampala ndetse (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/mudufashe-itike-y-indege-kigali-kampala-ishyirwe-ku-madolari-90-umushoramari-dennis-karera",
+   "url": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/mudufashe-itike-y-indege-kigali-kampala-ishyirwe-ku-madolari-90-umushoramari-dennis-karera",
+   "date": "2026-11-20T01:49:59.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu mahanga",
+    "MobileBigStory",
+    "Jean de la Croix Tabaro"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/2026-11-20_03_43_46-ea747c87-65b2-4664-8057-42d8a554315a-1024x683_jpeg_1024_683_.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-20_03_43_46-ea747c87-65b2-4664-8057-42d8a554315a-1024x683_jpeg_1024_683_.png",
+   "title_rw": "Mudufashe itike y'indege Kigali - Kampala ishyirwe ku Madolari 90 - Umushoramari Dennis Karera",
+   "summary_rw": "Umushoramari Dennis Karera yasabye abanyapolitiki b’u Rwanda na Uganda gukoresha ububasha bafite none bakagabanya ibiciro by’ingendo z’indege, ku buryo umuntu yava Kigali akajya Kampala ndetse (…)",
+   "share_id": "MN202611_1mlv973z965"
+  },
+  {
+   "id": "crawl_ecusw7",
+   "title": "FRN igiye kubaka 'Ngabo City', umushinga w'inzu 3,300 zo guturamo i Goma",
+   "summary": "Mu myaka ibiri ishize, Umuryango AFC/M23 imaze iyobora umujyi wa Goma nta nkomyi, hagaragaye ibikorwa bitandukanye bigaragaza ubushobozi bwayo mu gucunga umujyi. Imihanda ya Goma irasukurwa, (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/frn-igiye-kubaka-ngabo-city-umushinga-w-inzu-3-300-zo-guturamo-i-goma",
+   "url": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/frn-igiye-kubaka-ngabo-city-umushinga-w-inzu-3-300-zo-guturamo-i-goma",
+   "date": "2026-11-20T01:49:45.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu mahanga",
+    "MobileBigStory"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/2026-11-20_01_56_20-.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-20_01_56_20-.png",
+   "title_rw": "FRN igiye kubaka 'Ngabo City', umushinga w'inzu 3,300 zo guturamo i Goma",
+   "summary_rw": "Mu myaka ibiri ishize, Umuryango AFC/M23 imaze iyobora umujyi wa Goma nta nkomyi, hagaragaye ibikorwa bitandukanye bigaragaza ubushobozi bwayo mu gucunga umujyi. Imihanda ya Goma irasukurwa, (…)",
+   "share_id": "MN202611_ecusw7d0x1"
+  },
   {
    "id": "crawl_u7oztb",
    "title": "Does our ethnicity change how we experience dying?",
@@ -163,5 +251,5 @@
    "share_id": "MN202611_kh4czrx9gl"
   }
  ],
- "updated": "2026-11-20T01:42:11.038Z"
+ "updated": "2026-11-20T02:26:48.033Z"
 }
