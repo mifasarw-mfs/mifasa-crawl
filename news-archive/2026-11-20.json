@@ -1,6 +1,6 @@
 {
  "day": "2026-11-20",
- "count": 98,
+ "count": 100,
  "articles": [
   {
    "id": "crawl_1uy36z",
@@ -42,6 +42,28 @@
    "title_rw": "2027 hazatangira Tour du Rwanda y'Abagore",
    "summary_rw": "Kuri uyu wa Gatanu hatangajwe ko kuva mu 2027 hazatangira gukinwa Isiganwa ry’Amagare rizenguruka u Rwanda mu Bagore. Ibi byatangarijwe mu imurikwa rya Tour du Rwanda 2027 izaba iri kuba ku (…)",
    "share_id": "MN202611_1dedj4szr0a"
+  },
+  {
+   "id": "crawl_ztsnv1",
+   "title": "2027 hazatangira Tour du Rwanda y'Abagore",
+   "summary": "Kuri uyu wa Gatanu hatangajwe ko kuva muri Nzeri 2027 hazatangira gukinwa Isiganwa ry’Amagare rizenguruka u Rwanda mu Bagore. Ibi byatangarijwe mu imurikwa rya Tour du Rwanda 2027 izaba iri (…)",
+   "link": "https://www.kigalitoday.com/imikino/amagare/article/2027-hazatangira-tour-du-rwanda-y-abagore",
+   "url": "https://www.kigalitoday.com/imikino/amagare/article/2027-hazatangira-tour-du-rwanda-y-abagore",
+   "date": "2026-11-20T18:38:15.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Amagare",
+    "Jean Jules Uwimana"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/054a0267-2-32649-2.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/054a0267-2-32649-2.jpg",
+   "title_rw": "2027 hazatangira Tour du Rwanda y'Abagore",
+   "summary_rw": "Kuri uyu wa Gatanu hatangajwe ko kuva muri Nzeri 2027 hazatangira gukinwa Isiganwa ry’Amagare rizenguruka u Rwanda mu Bagore. Ibi byatangarijwe mu imurikwa rya Tour du Rwanda 2027 izaba iri (…)",
+   "share_id": "MN202611_ztsnv1l963"
   },
   {
    "id": "crawl_1ew219h",
@@ -228,6 +250,26 @@
    "title_rw": "Kigali Fight Night ku nshuro ya gatatu igiye kubera mu Rwanda",
    "summary_rw": "Kigali igiye kwakira ku nshuro ya gatatu irushanwa ry’umukino w’iteramakofe rizwi nka Kigali Fight Night, riteganyijwe ku wa 10 Ukuboza 2026 muri BK Arena, aho ryitezwe kuzitabirwa n’abasaga (…)",
    "share_id": "MN202611_15ldlzqufec"
+  },
+  {
+   "id": "crawl_18yz921",
+   "title": "Football Daily",
+   "summary": "The team look at Mauricio Pochettino's opening match as Manchester United head coach",
+   "link": "https://www.bbc.co.uk/sounds/play/m003471n?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/m003471n?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T16:53:00.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg",
+   "title_en": "Football Daily",
+   "summary_en": "The team look at Mauricio Pochettino's opening match as Manchester United head coach",
+   "share_id": "MN202611_18yz921sdkn"
   },
   {
    "id": "crawl_1m8qsmb",
@@ -2019,5 +2061,5 @@
    "share_id": "MN202611_kh4czrx9gl"
   }
  ],
- "updated": "2026-11-20T18:48:57.278Z"
+ "updated": "2026-11-20T19:37:10.316Z"
 }
