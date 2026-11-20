@@ -1,7 +1,68 @@
 {
  "day": "2026-11-20",
- "count": 109,
+ "count": 112,
  "articles": [
+  {
+   "id": "crawl_1qj51ka",
+   "title": "Amasiganwa abiri y'umunsi umwe muri Tour du Rwanda 2027 izatangirira i Gicumbi",
+   "summary": "Kuri uyu wa Gatanu, hatangajwe inzira, amakipe ndetse n’amatariki y’Isiganwa ry’Amagare rizenguruka u Rwanda ’Tour du Rwanda 2027’ aho rizatangirira mu Karere ka Gicumbi ikongerwamo n’amarushanwa (…)",
+   "link": "https://www.kigalitoday.com/imikino/amagare/article/amasiganwa-abiri-y-umunsi-umwe-muri-tour-du-rwanda-2027-izatangirira-i-gicumbi",
+   "url": "https://www.kigalitoday.com/imikino/amagare/article/amasiganwa-abiri-y-umunsi-umwe-muri-tour-du-rwanda-2027-izatangirira-i-gicumbi",
+   "date": "2026-11-20T22:21:37.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Amagare"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/pwa.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/pwa.jpg",
+   "title_rw": "Amasiganwa abiri y'umunsi umwe muri Tour du Rwanda 2027 izatangirira i Gicumbi",
+   "summary_rw": "Kuri uyu wa Gatanu, hatangajwe inzira, amakipe ndetse n’amatariki y’Isiganwa ry’Amagare rizenguruka u Rwanda ’Tour du Rwanda 2027’ aho rizatangirira mu Karere ka Gicumbi ikongerwamo n’amarushanwa (…)",
+   "share_id": "MN202611_1qj51kahcco"
+  },
+  {
+   "id": "crawl_bl04jl",
+   "title": "Lampard calls for fairness after Coventry penalty row",
+   "summary": "Coventry boss Frank Lampard wants officials to spend time ensuring they get decisions correct in the wake of his side being denied a penalty at Everton.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c678299n1018o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c678299n1018o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T22:04:19.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d704/live/01ee3ee0-e455-11f1-80a9-5325c842329b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d704/live/01ee3ee0-e455-11f1-80a9-5325c842329b.jpg",
+   "title_en": "Lampard calls for fairness after Coventry penalty row",
+   "summary_en": "Coventry boss Frank Lampard wants officials to spend time ensuring they get decisions correct in the wake of his side being denied a penalty at Everton.",
+   "share_id": "MN202611_bl04jlw3xb"
+  },
+  {
+   "id": "crawl_t1kwl9",
+   "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+   "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+   "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T21:57:07.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9834/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9834/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg",
+   "title_en": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+   "summary_en": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+   "share_id": "MN202611_t1kwl9dt23"
+  },
   {
    "id": "crawl_9b1cwx",
    "title": "Shevchenko lying about drugs test claims - Mudryk",
@@ -2247,5 +2308,5 @@
    "share_id": "MN202611_kh4czrx9gl"
   }
  ],
- "updated": "2026-11-20T22:00:37.576Z"
+ "updated": "2026-11-20T22:38:17.453Z"
 }
