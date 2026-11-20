@@ -1,7 +1,27 @@
 {
  "day": "2026-11-20",
- "count": 49,
+ "count": 51,
  "articles": [
+  {
+   "id": "crawl_16lje3c",
+   "title": "A DJ, a Barbecue and a Bigger Purpose: The Unusual Vision Behind Kingdom Nights",
+   "summary": "KIGALI – When Rachel Uwineza first imagined a place where Christians could meet, worship and enjoy themselves, the picture in her mind was not that of a conventional church service.… The post A DJ, a Barbecue and a Bigger Purpose: The Unusual Vision Behind Kingdom Nights appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/a-dj-a-barbecue-and-a-bigger-purpose-the-unusual-vision-behind-kingdom-nights/",
+   "url": "https://www.ktpress.rw/2026/11/a-dj-a-barbecue-and-a-bigger-purpose-the-unusual-vision-behind-kingdom-nights/",
+   "date": "2026-11-20T12:07:15.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "Society",
+    "big-story"
+   ],
+   "title_en": "A DJ, a Barbecue and a Bigger Purpose: The Unusual Vision Behind Kingdom Nights",
+   "summary_en": "KIGALI – When Rachel Uwineza first imagined a place where Christians could meet, worship and enjoy themselves, the picture in her mind was not that of a conventional church service.… The post A DJ, a Barbecue and a Bigger Purpose: The Unusual Vision Behind Kingdom Nights appeared first on KT PRESS .",
+   "share_id": "MN202611_16lje3ckkqe"
+  },
   {
    "id": "crawl_5t6i1y",
    "title": "Patient safety chief concerned about NHS Grampian",
@@ -21,6 +41,26 @@
    "title_en": "Patient safety chief concerned about NHS Grampian",
    "summary_en": "Karen Titchener said she is seeking \"independent assurance\" that change is being implemented at NHS Grampian.",
    "share_id": "MN202611_5t6i1yzeis"
+  },
+  {
+   "id": "crawl_1jdtgy7",
+   "title": "Stoke and Birmingham proving you shouldn't judge a book by its cover",
+   "summary": "Stoke host Birmingham in a Championship game of two teams both bang in form going into the latest international break. How will they re-emerge?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmy8670vjlx0o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmy8670vjlx0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T11:35:16.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/390b/live/ce0a76c0-e468-11f1-99b6-a35a62fa4264.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/390b/live/ce0a76c0-e468-11f1-99b6-a35a62fa4264.png",
+   "title_en": "Stoke and Birmingham proving you shouldn't judge a book by its cover",
+   "summary_en": "Stoke host Birmingham in a Championship game of two teams both bang in form going into the latest international break. How will they re-emerge?",
+   "share_id": "MN202611_1jdtgy7lect"
   },
   {
    "id": "crawl_138lvnl",
@@ -999,5 +1039,5 @@
    "share_id": "MN202611_kh4czrx9gl"
   }
  ],
- "updated": "2026-11-20T11:48:02.963Z"
+ "updated": "2026-11-20T12:23:50.159Z"
 }
