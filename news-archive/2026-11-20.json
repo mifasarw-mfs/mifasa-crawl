@@ -1,7 +1,47 @@
 {
  "day": "2026-11-20",
- "count": 51,
+ "count": 53,
  "articles": [
+  {
+   "id": "crawl_j6ywoy",
+   "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+   "summary": "Prime Minister Donald Tusk said it did not appear to be an accident when Western military exercises were taking place in the region.",
+   "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T12:41:52.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60d1/live/638e94f0-e4dd-11f1-9cc5-e9713e77fd78.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60d1/live/638e94f0-e4dd-11f1-9cc5-e9713e77fd78.jpg",
+   "title_en": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+   "summary_en": "Prime Minister Donald Tusk said it did not appear to be an accident when Western military exercises were taking place in the region.",
+   "share_id": "MN202611_j6ywoyrt5s"
+  },
+  {
+   "id": "crawl_uvik9x",
+   "title": "Southampton give head coach Eckert new deal",
+   "summary": "Southampton head coach Tonda Eckert signs a new contract at the club through until 2029.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwm25yx3kj5lo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwm25yx3kj5lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T12:33:39.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+   "title_en": "Southampton give head coach Eckert new deal",
+   "summary_en": "Southampton head coach Tonda Eckert signs a new contract at the club through until 2029.",
+   "share_id": "MN202611_uvik9xahoj"
+  },
   {
    "id": "crawl_16lje3c",
    "title": "A DJ, a Barbecue and a Bigger Purpose: The Unusual Vision Behind Kingdom Nights",
@@ -1039,5 +1079,5 @@
    "share_id": "MN202611_kh4czrx9gl"
   }
  ],
- "updated": "2026-11-20T12:23:50.159Z"
+ "updated": "2026-11-20T12:45:51.367Z"
 }
