@@ -1,7 +1,112 @@
 {
  "day": "2026-11-21",
- "count": 55,
+ "count": 60,
  "articles": [
+  {
+   "id": "crawl_99i8bt",
+   "title": "Spitting Image co-creator Peter Fluck dies aged 85",
+   "summary": "The 85-year-old he died in the early hours of Saturday at home in Cornwall, following a recent illness.",
+   "link": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T19:43:19.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5613/live/accb12d0-e5e4-11f1-9ab8-8737221634d6.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5613/live/accb12d0-e5e4-11f1-9ab8-8737221634d6.jpg",
+   "title_en": "Spitting Image co-creator Peter Fluck dies aged 85",
+   "summary_en": "The 85-year-old he died in the early hours of Saturday at home in Cornwall, following a recent illness.",
+   "share_id": "MN202611_99i8btb4sn"
+  },
+  {
+   "id": "crawl_14k4v6g",
+   "title": "Rayon Sports inganyije na APR FC yinjira mu mwaka wa kane itayitsinda(Amafoto)",
+   "summary": "Kuri uyu wa Gatandatu, ikipe ya Rayon Sports yanganyirije na APR FC kuri Stade Amahoro igitego 1-1 mu mukino w’umunsi wa cyenda wa BK Pro League, yinjira mu mwaka wa kane idatsinda uyu mucyeba. (…)",
+   "link": "https://www.kigalitoday.com/imikino/football/article/rayon-sports-inganyije-na-apr-fc-yinjira-mu-mwaka-wa-kane-itayitsinda-amafoto",
+   "url": "https://www.kigalitoday.com/imikino/football/article/rayon-sports-inganyije-na-apr-fc-yinjira-mu-mwaka-wa-kane-itayitsinda-amafoto",
+   "date": "2026-11-21T19:30:12.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Football"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/hxqwnhawoaemvfg.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/hxqwnhawoaemvfg.jpg",
+   "title_rw": "Rayon Sports inganyije na APR FC yinjira mu mwaka wa kane itayitsinda(Amafoto)",
+   "summary_rw": "Kuri uyu wa Gatandatu, ikipe ya Rayon Sports yanganyirije na APR FC kuri Stade Amahoro igitego 1-1 mu mukino w’umunsi wa cyenda wa BK Pro League, yinjira mu mwaka wa kane idatsinda uyu mucyeba. (…)",
+   "share_id": "MN202611_14k4v6gl7xy"
+  },
+  {
+   "id": "crawl_q0tpmt",
+   "title": "Who was 'a consistent threat'? Newcastle v Arsenal player ratings",
+   "summary": "BBC Sport's Alex Howell shares his player ratings for Newcastle and Arsenal's 2-2 draw in the Premier League - and you can rate the players too.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq4gn97e8ee4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn97e8ee4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T19:29:48.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6f4/live/7fb616a0-e5e4-11f1-9ab8-8737221634d6.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6f4/live/7fb616a0-e5e4-11f1-9ab8-8737221634d6.jpg",
+   "title_en": "Who was 'a consistent threat'? Newcastle v Arsenal player ratings",
+   "summary_en": "BBC Sport's Alex Howell shares his player ratings for Newcastle and Arsenal's 2-2 draw in the Premier League - and you can rate the players too.",
+   "share_id": "MN202611_q0tpmtln1f"
+  },
+  {
+   "id": "crawl_1sq3t1v",
+   "title": "Abakirisitu Gatolika b'ibyamamare ku mbuga nkoranyambaga bakoze urugendo nyobokamana i Kibeho",
+   "summary": "Bamwe mu byamamare by’Abanyarwanda bakoresha imbuga nkoranyambaga kandi bakaba ari Abakirisitu Gatolika, bakoze urugendo nyobokamana rugana i Kibeho, kuri uyu wa Gatandatu, tariki ya 21 Ugushyingo (…)",
+   "link": "https://www.kigalitoday.com/agaseke-ka-weekend/mbakumbuze/article/abakirisitu-gatolika-b-ibyamamare-ku-mbuga-nkoranyambaga-bakoze-urugendo-nyobokamana-i-kibeho",
+   "url": "https://www.kigalitoday.com/agaseke-ka-weekend/mbakumbuze/article/abakirisitu-gatolika-b-ibyamamare-ku-mbuga-nkoranyambaga-bakoze-urugendo-nyobokamana-i-kibeho",
+   "date": "2026-11-21T19:28:52.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mbakumbuze",
+    "Ruzindana Janvier",
+    "AKW-041",
+    "AKW-041-MAIN"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/2026-11-21_21_15_55-_14_kigali_today_kigalitoday___x.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-21_21_15_55-_14_kigali_today_kigalitoday___x.png",
+   "title_rw": "Abakirisitu Gatolika b'ibyamamare ku mbuga nkoranyambaga bakoze urugendo nyobokamana i Kibeho",
+   "summary_rw": "Bamwe mu byamamare by’Abanyarwanda bakoresha imbuga nkoranyambaga kandi bakaba ari Abakirisitu Gatolika, bakoze urugendo nyobokamana rugana i Kibeho, kuri uyu wa Gatandatu, tariki ya 21 Ugushyingo (…)",
+   "share_id": "MN202611_1sq3t1v652p"
+  },
+  {
+   "id": "crawl_1avx1rz",
+   "title": "'The world got to see today' - who is new Spurs star Williams-Barnett?",
+   "summary": "BBC Sport looks at Tottenham's new teenage star after Luca Williams-Barnett makes a superb full Premier League debut for Spurs",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T19:21:01.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fccd/live/a1406b50-e5de-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fccd/live/a1406b50-e5de-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "'The world got to see today' - who is new Spurs star Williams-Barnett?",
+   "summary_en": "BBC Sport looks at Tottenham's new teenage star after Luca Williams-Barnett makes a superb full Premier League debut for Spurs",
+   "share_id": "MN202611_1avx1rzoz6l"
+  },
   {
    "id": "crawl_1q4pxs6",
    "title": "'Fragile' and 'miles off it' - Alonso's Chelsea honeymoon is over",
@@ -1121,5 +1226,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T19:19:08.830Z"
+ "updated": "2026-11-21T20:01:48.293Z"
 }
