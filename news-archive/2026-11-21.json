@@ -1,6 +1,6 @@
 {
  "day": "2026-11-21",
- "count": 27,
+ "count": 28,
  "articles": [
   {
    "id": "crawl_14tkx1t",
@@ -44,6 +44,26 @@
    "title_rw": "François Régis Uwayezu yagizwe Umuyobozi mushya wa BK Arena",
    "summary_rw": "François Régis Uwayezu yagizwe Umuyobozi mushya wa BK Arena, mu rwego rwo gukomeza kunoza imikorere y’iyi nzu yakira ibikorwa bitandukanye bya Siporo n’imyidagaduro. Itangazo ryashyizwe hanze (…)",
    "share_id": "MN202611_1yj12j0wwmi"
+  },
+  {
+   "id": "crawl_1havi2f",
+   "title": "Football Daily",
+   "summary": "Why did Leon choose Aston Villa, & how does the Premier League compare to the Bundesliga?",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pp3b1b?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/p0pp3b1b?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T10:00:00.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp3b6t.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp3b6t.jpg",
+   "title_en": "Football Daily",
+   "summary_en": "Why did Leon choose Aston Villa, & how does the Premier League compare to the Bundesliga?",
+   "share_id": "MN202611_1havi2fkklx"
   },
   {
    "id": "crawl_muqkk4",
@@ -546,5 +566,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T11:13:40.583Z"
+ "updated": "2026-11-21T11:35:16.568Z"
 }

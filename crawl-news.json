@@ -121,6 +121,26 @@
   "share_id": "MN202611_1t8usokqviq"
  },
  {
+  "id": "crawl_1havi2f",
+  "title": "Football Daily",
+  "summary": "Why did Leon choose Aston Villa, & how does the Premier League compare to the Bundesliga?",
+  "link": "https://www.bbc.co.uk/sounds/play/p0pp3b1b?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sounds/play/p0pp3b1b?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-21T10:00:00.000Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp3b6t.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp3b6t.jpg",
+  "title_en": "Football Daily",
+  "summary_en": "Why did Leon choose Aston Villa, & how does the Premier League compare to the Bundesliga?",
+  "share_id": "MN202611_1havi2fkklx"
+ },
+ {
   "id": "crawl_muqkk4",
   "title": "FBI reportedly investigating apparent hack of its criminal database",
   "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
@@ -1250,11 +1270,11 @@
   "link": "https://www.bbc.co.uk/sport/football/articles/cvj6l7pd1yd0o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/sport/football/articles/cvj6l7pd1yd0o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-20T18:41:33.000Z",
-  "source": "BBC Football",
+  "source": "BBC Sport Africa",
   "category": "sports",
   "lang": "en",
   "keywords": [
-   "BBC Football",
+   "BBC Sport Africa",
    "sports"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0985/live/d8838190-e4fa-11f1-a8e4-b1e12a49db15.jpg",
@@ -7133,11 +7153,11 @@
   "link": "https://www.youtube.com/watch?v=YDNs_sPEcJc",
   "url": "https://www.youtube.com/watch?v=YDNs_sPEcJc",
   "date": "2026-11-18T18:23:40.000Z",
-  "source": "YouTube Trending Kenya",
+  "source": "YouTube Trending Uganda",
   "category": "entertainment",
   "lang": "en",
   "keywords": [
-   "YouTube Trending Kenya",
+   "YouTube Trending Uganda",
    "entertainment",
    "trending",
    "GTA 6",
@@ -17080,26 +17100,5 @@
   "title_en": "Wenger decides not to challenge Fifa chief Infantino",
   "summary_en": "Arsene Wenger decides against running for the Fifa presidency, in a boost to Gianni Infantino's hopes of a fourth term.",
   "share_id": "MN202611_yvq49yi1ok"
- },
- {
-  "id": "crawl_o4fqys",
-  "title": "President Macron Kissed Cambodian Boy, Guesture Triggers Backlash",
-  "summary": "In Cambodia kissing in Public, female and male hugging and also holding hands are guestures considered inappropriate. However, President Emmanuel Macron of France caused a near cultural crash when he kissed a young Cambodian boy. During his walk along Phnom Penh’s riverside last night, President Macron greeted a young Cambodian boy with a kiss on […] The post President Macron Kissed Cambodian…",
-  "link": "https://taarifa.rw/2026/11/15/president-macron-kissed-cambodian-boy-guesture-triggers-backlash/",
-  "url": "https://taarifa.rw/2026/11/15/president-macron-kissed-cambodian-boy-guesture-triggers-backlash/",
-  "date": "2026-11-15T11:23:30.000Z",
-  "source": "Taarifa Rwanda",
-  "category": "news",
-  "lang": "en",
-  "keywords": [
-   "Taarifa Rwanda",
-   "news",
-   "La Francophonie Cambodia Special Report"
-  ],
-  "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261115-132136.jpg?fit=720%2C628&ssl=1",
-  "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261115-132136.jpg?fit=720%2C628&ssl=1",
-  "title_en": "President Macron Kissed Cambodian Boy, Guesture Triggers Backlash",
-  "summary_en": "In Cambodia kissing in Public, female and male hugging and also holding hands are guestures considered inappropriate. However, President Emmanuel Macron of France caused a near cultural crash when he kissed a young Cambodian boy. During his walk along Phnom Penh’s riverside last night, President Macron greeted a young Cambodian boy with a kiss on […] The post President Macron Kissed Cambodian…",
-  "share_id": "MN202611_o4fqys60te"
  }
 ]
