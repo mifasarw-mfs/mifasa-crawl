@@ -1,7 +1,27 @@
 {
  "day": "2026-11-21",
- "count": 28,
+ "count": 29,
  "articles": [
+  {
+   "id": "crawl_pob5o5",
+   "title": "Umuhungu w'Umunya-Ghana wiciwe muri Amerika 'yari akwiriye ibyiza cyane' – 'Mayor' Mamdani wa New York",
+   "summary": "Mu muhango wo gushyingura uwo muhungu wari ufite imyaka 15 wishwe arashwe mu kwezi gushize, umukuru w'umujyi wa New York, Mamdani, yavuze ijambo ari kumwe na se w'uwo mwana n'abayobozi bakuriye imiryango iharanira uburenganzira.",
+   "link": "https://www.bbc.com/gahuza/articles/cqrkgxe4z1n1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/cqrkgxe4z1n1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T11:36:38.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/452c/live/6ef65d70-e52b-11f1-964d-a1d5fe40573e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/452c/live/6ef65d70-e52b-11f1-964d-a1d5fe40573e.jpg",
+   "title_rw": "Umuhungu w'Umunya-Ghana wiciwe muri Amerika 'yari akwiriye ibyiza cyane' – 'Mayor' Mamdani wa New York",
+   "summary_rw": "Mu muhango wo gushyingura uwo muhungu wari ufite imyaka 15 wishwe arashwe mu kwezi gushize, umukuru w'umujyi wa New York, Mamdani, yavuze ijambo ari kumwe na se w'uwo mwana n'abayobozi bakuriye imiryango iharanira uburenganzira.",
+   "share_id": "MN202611_pob5o5424z"
+  },
   {
    "id": "crawl_14tkx1t",
    "title": "Rwanda Explores Strategic Maritime Opportunities During Suez Canal Visit",
@@ -566,5 +586,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T11:35:16.568Z"
+ "updated": "2026-11-21T12:10:05.457Z"
 }
