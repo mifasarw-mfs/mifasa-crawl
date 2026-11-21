@@ -1,7 +1,27 @@
 {
  "day": "2026-11-21",
- "count": 43,
+ "count": 44,
  "articles": [
+  {
+   "id": "crawl_1gwqmey",
+   "title": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
+   "summary": "Manchester City spent £327m overhauling their midfield in the summer - but how does Enzo Maresca find the right balance?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cxe8944j188yo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cxe8944j188yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T16:07:19.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2997/live/fc265c50-e5c0-11f1-a188-ff49e70cc466.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2997/live/fc265c50-e5c0-11f1-a188-ff49e70cc466.jpg",
+   "title_en": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
+   "summary_en": "Manchester City spent £327m overhauling their midfield in the summer - but how does Enzo Maresca find the right balance?",
+   "share_id": "MN202611_1gwqmeyijtk"
+  },
   {
    "id": "crawl_1c3pr9h",
    "title": "'It's quite clear' - Maresca believes Haaland goal should have stood",
@@ -877,5 +897,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T15:46:24.204Z"
+ "updated": "2026-11-21T16:13:38.865Z"
 }
