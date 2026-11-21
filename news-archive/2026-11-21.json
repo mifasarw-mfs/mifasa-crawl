@@ -1,7 +1,27 @@
 {
  "day": "2026-11-21",
- "count": 41,
+ "count": 43,
  "articles": [
+  {
+   "id": "crawl_1c3pr9h",
+   "title": "'It's quite clear' - Maresca believes Haaland goal should have stood",
+   "summary": "Manchester City manager Enzo Maresca says Erling Haaland's first-half goal against Fulham should have stood.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c9e85mmr3z8vo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c9e85mmr3z8vo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T15:34:35.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4933/live/61e22920-e5bc-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4933/live/61e22920-e5bc-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "'It's quite clear' - Maresca believes Haaland goal should have stood",
+   "summary_en": "Manchester City manager Enzo Maresca says Erling Haaland's first-half goal against Fulham should have stood.",
+   "share_id": "MN202611_1c3pr9h32qr"
+  },
   {
    "id": "crawl_1e8metu",
    "title": "Uganda Guides Rwandan Tour Operators Across Touristic Sites",
@@ -232,6 +252,26 @@
    "title_en": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
    "summary_en": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
    "share_id": "MN202611_j7r7fmk3wg"
+  },
+  {
+   "id": "crawl_j54ggo",
+   "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+   "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+   "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T13:15:21.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+   "summary_en": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+   "share_id": "MN202611_j54ggoxcxi"
   },
   {
    "id": "crawl_1rywvor",
@@ -837,5 +877,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T15:04:32.271Z"
+ "updated": "2026-11-21T15:46:24.204Z"
 }
