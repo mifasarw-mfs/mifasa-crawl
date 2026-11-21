@@ -5804,6 +5804,102 @@
    ],
    "auto": true,
    "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_6d0f59cc_q",
+   "label_rw": "Umuziki gakondo w'u Rwanda n'ibikoresho bya muzika",
+   "label_en": "Rwandan traditional music and string instruments",
+   "patterns_en": [
+    "What is the inanga in Rwandan music?",
+    "What are some traditional musical instruments in Rwanda?",
+    "What is the purpose of traditional Rwandan music?"
+   ],
+   "patterns_rw": [
+    "Inanga ni iki mu muziki w'u Rwanda?",
+    "Ni ibihe bikoresho gakondo by'umuziki bizwi mu Rwanda?",
+    "Umuziki gakondo w'u Rwanda ukoreshwa iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Umuziki gakondo w'u Rwanda ufite amateka akomeye. Ukoresha ibikoresho bitandukanye. Inanga ni ryo shyiga rya mbere ry'umuziki w'u Rwanda. Hari n'umuduri n'inanga y'umuzirandazi. Ibi bikoresho bifasha mu kuririmba ibisingizo n'amateka.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Rwandan traditional music has a rich history and utilizes various unique instruments. The inanga, a traditional trough zither, is one of the most prominent string instruments. Other instruments include the umuduri. These traditional instruments are typically used to perform historical narratives and praise poetry.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_4edd6a54_q",
+   "label_rw": "Uburyo gakondo bwo kubungabunga imyaka mu Rwanda",
+   "label_en": "Traditional crop preservation methods in Rwanda",
+   "patterns_en": [
+    "What were the traditional crop storage methods in Rwanda?",
+    "How did early Rwandans control pests in their granaries?",
+    "What were the benefits of using traditional crop storage systems?"
+   ],
+   "patterns_rw": [
+    "Ni ubuhe buryo gakondo bwo kubika imyaka bwari buzwi mu Rwanda?",
+    "Ese abanyarwanda bo hambere barwanyaga bate udukoko mu bagega?",
+    "Ni izihe nyungu zari ziri mu kubika imyaka mu bigega bya gakondo?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Abanyarwanda bo hambere bakoreshaga uburyo butandukanye bwo kubika imyaka kugira ngo idapfa ubusa. Bakoreshaga inkangara, ibigega by'ibyondo cyangwa by'ibiti, no kwica udukoko hakoreshejwe umunyinya n'ivu. Ibi byafashaga imyaka kuramba igihe kirekire mu gihe cy'amapfa cyangwa ubukene.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Historically, Rwandans used various methods to store crops to prevent spoilage. They used woven granaries, traditional storage structures made of clay or wood, and natural pest control methods like ash and specific plant leaves. These practices helped crops last longer during periods of food scarcity.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_37c10b6c_q",
+   "label_rw": "Umuco wo guhiga mu Rwanda",
+   "label_en": "Traditional Hunting in Rwanda",
+   "patterns_en": [
+    "What was the main purpose of traditional hunting in Rwanda?",
+    "How did historical hunters track animals?",
+    "What role did hunting play in early Rwandan society?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyari icyingenzi mu muco wo guhiga mu Rwanda?",
+    "Abahigi bo hambere bakoreshaga ubuhe bwenge?",
+    "Ese guhigi byari bifite izihe ntego mu Rwanda rwo hambere?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mu Rwanda rwo hambere, guhiga no gukurikirana inyamaswa byari ibikorwa by'ingenzi byo kubona inyama n'impu. Abahigi bakoreshaga ubumenyi bwabo bw'ibidukikije, inzira z'inyamaswa, n'utuganzo tw'amajwi kugira ngo babone ibyo bakeneye. Ibi bikorwa byakorwaga bitandukanye n'ubuhigi bw'ubu kuko byubahaga ibidukikije.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "In traditional Rwanda, hunting and tracking were important activities used to obtain meat and skins. Hunters relied on their deep knowledge of the environment, animal trails, and tracking skills to succeed. These historical practices were generally managed in ways that respected local ecosystems, unlike modern poaching.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_d7359c2e_q",
+   "label_rw": "Gutunganya Impu Gakondo mu Rwanda",
+   "label_en": "Traditional Leather Tanning in Rwanda",
+   "patterns_en": [
+    "What was used to treat traditional leather in Rwanda?",
+    "What were animal skins used for?",
+    "How were hides softened in ancient Rwanda?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyakoreshwaga mu gutunganya impu gakondo mu Rwanda?",
+    "Impu z'inyamaswa zakoreshwaga mu ki?",
+    "Ni gute impu zoroshywaga mu Rwanda rwo hambere?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mu Rwanda rwo hambere, abantu bakoreshaga impu z'inka n'iz'inyamaswa kugira ngo bakore imyenda n'ibindi bikoresho. Impu bazifashishaga ibiti n'amavuta kugira ngo zororoke kandi zirambe igihe kirekire. Ibi bikoresho byari ingenzi cyane mu mibereho n'imico y'Abanyarwanda.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "In traditional Rwanda, people used cattle and wild animal skins to make clothing and other items. They treated the hides using natural tree extracts and oils to soften them and ensure durability. These leather items played an essential role in Rwandan culture and daily life.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
   }
  ],
  "knowledge": [
@@ -10584,6 +10680,86 @@
    ],
    "auto": true,
    "taught": "2026-11-20"
+  },
+  {
+   "id": "ai16_6d0f59cc",
+   "category": "rwanda",
+   "title_rw": "Umuziki gakondo w'u Rwanda n'ibikoresho bya muzika",
+   "title_en": "Rwandan traditional music and string instruments",
+   "summary_rw": "Umuziki gakondo w'u Rwanda ufite amateka akomeye. Ukoresha ibikoresho bitandukanye. Inanga ni ryo shyiga rya mbere ry'umuziki w'u Rwanda. Hari n'umuduri n'inanga y'umuzirandazi. Ibi bikoresho bifasha mu kuririmba ibisingizo n'amateka.",
+   "summary_en": "Rwandan traditional music has a rich history and utilizes various unique instruments. The inanga, a traditional trough zither, is one of the most prominent string instruments. Other instruments include the umuduri. These traditional instruments are typically used to perform historical narratives and praise poetry.",
+   "keywords": [
+    "umuziki",
+    "music",
+    "inanga",
+    "gakondo",
+    "traditional",
+    "urwanda",
+    "rwanda",
+    "ibikoresho"
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_4edd6a54",
+   "category": "rwanda",
+   "title_rw": "Uburyo gakondo bwo kubungabunga imyaka mu Rwanda",
+   "title_en": "Traditional crop preservation methods in Rwanda",
+   "summary_rw": "Abanyarwanda bo hambere bakoreshaga uburyo butandukanye bwo kubika imyaka kugira ngo idapfa ubusa. Bakoreshaga inkangara, ibigega by'ibyondo cyangwa by'ibiti, no kwica udukoko hakoreshejwe umunyinya n'ivu. Ibi byafashaga imyaka kuramba igihe kirekire mu gihe cy'amapfa cyangwa ubukene.",
+   "summary_en": "Historically, Rwandans used various methods to store crops to prevent spoilage. They used woven granaries, traditional storage structures made of clay or wood, and natural pest control methods like ash and specific plant leaves. These practices helped crops last longer during periods of food scarcity.",
+   "keywords": [
+    "imyaka",
+    "uburyo",
+    "gakondo",
+    "kubika",
+    "crops",
+    "storage",
+    "traditional",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_37c10b6c",
+   "category": "rwanda",
+   "title_rw": "Umuco wo guhiga mu Rwanda",
+   "title_en": "Traditional Hunting in Rwanda",
+   "summary_rw": "Mu Rwanda rwo hambere, guhiga no gukurikirana inyamaswa byari ibikorwa by'ingenzi byo kubona inyama n'impu. Abahigi bakoreshaga ubumenyi bwabo bw'ibidukikije, inzira z'inyamaswa, n'utuganzo tw'amajwi kugira ngo babone ibyo bakeneye. Ibi bikorwa byakorwaga bitandukanye n'ubuhigi bw'ubu kuko byubahaga ibidukikije.",
+   "summary_en": "In traditional Rwanda, hunting and tracking were important activities used to obtain meat and skins. Hunters relied on their deep knowledge of the environment, animal trails, and tracking skills to succeed. These historical practices were generally managed in ways that respected local ecosystems, unlike modern poaching.",
+   "keywords": [
+    "guhiga",
+    "hunting",
+    "umuco",
+    "culture",
+    "rwanda",
+    "ibikorwa",
+    "amateka",
+    "history"
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_d7359c2e",
+   "category": "rwanda",
+   "title_rw": "Gutunganya Impu Gakondo mu Rwanda",
+   "title_en": "Traditional Leather Tanning in Rwanda",
+   "summary_rw": "Mu Rwanda rwo hambere, abantu bakoreshaga impu z'inka n'iz'inyamaswa kugira ngo bakore imyenda n'ibindi bikoresho. Impu bazifashishaga ibiti n'amavuta kugira ngo zororoke kandi zirambe igihe kirekire. Ibi bikoresho byari ingenzi cyane mu mibereho n'imico y'Abanyarwanda.",
+   "summary_en": "In traditional Rwanda, people used cattle and wild animal skins to make clothing and other items. They treated the hides using natural tree extracts and oils to soften them and ensure durability. These leather items played an essential role in Rwandan culture and daily life.",
+   "keywords": [
+    "impu",
+    "leather",
+    "gakondo",
+    "traditional",
+    "ubugeni",
+    "crafts",
+    "u rwanda",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
   }
  ]
 }
