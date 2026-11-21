@@ -1,7 +1,27 @@
 {
  "day": "2026-11-21",
- "count": 21,
+ "count": 22,
  "articles": [
+  {
+   "id": "crawl_1nag3aq",
+   "title": "The Chelsea loanee turning heads and Championship defenders at 17",
+   "summary": "Ryan Kavuma-McQueen has been \"unplayable\" at times since joining Portsmouth from Chelsea, says boss John Mousinho.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6d91xj9vee3o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6d91xj9vee3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T08:05:46.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f88b/live/a0afcec0-e1e6-11f1-9f14-b33806cfd783.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f88b/live/a0afcec0-e1e6-11f1-9f14-b33806cfd783.jpg",
+   "title_en": "The Chelsea loanee turning heads and Championship defenders at 17",
+   "summary_en": "Ryan Kavuma-McQueen has been \"unplayable\" at times since joining Portsmouth from Chelsea, says boss John Mousinho.",
+   "share_id": "MN202611_1nag3aq80pc"
+  },
   {
    "id": "crawl_ynl57l",
    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
@@ -423,5 +443,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T07:52:02.096Z"
+ "updated": "2026-11-21T08:38:24.087Z"
 }
