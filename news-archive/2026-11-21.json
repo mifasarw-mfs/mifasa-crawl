@@ -1,7 +1,30 @@
 {
  "day": "2026-11-21",
- "count": 73,
+ "count": 74,
  "articles": [
+  {
+   "id": "crawl_pog5i6",
+   "title": "Indege ya FARDC yarashe na Radiyo y'abaturage",
+   "summary": "Ibitero by’indege z’ingabo za Leta ya Repubulika ya Demokarasi ya Congo ndetse n’abo bafatanyije bikomeje kwibasira uduce turimo abasivili gusa, zikabikora zirenze ku masezerano y’agahenge, aho (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/indege-ya-fardc-yarashe-na-radiyo-y-abaturage",
+   "url": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/indege-ya-fardc-yarashe-na-radiyo-y-abaturage",
+   "date": "2026-11-21T22:05:55.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu mahanga",
+    "MobileBigStory",
+    "Mediatrice Uwingabire"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/2026-11-21_22_31_30-h4px2ycialwisahy7zbglw3mki_jpg_750_500_.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-21_22_31_30-h4px2ycialwisahy7zbglw3mki_jpg_750_500_.png",
+   "title_rw": "Indege ya FARDC yarashe na Radiyo y'abaturage",
+   "summary_rw": "Ibitero by’indege z’ingabo za Leta ya Repubulika ya Demokarasi ya Congo ndetse n’abo bafatanyije bikomeje kwibasira uduce turimo abasivili gusa, zikabikora zirenze ku masezerano y’agahenge, aho (…)",
+   "share_id": "MN202611_pog5i6kav0"
+  },
   {
    "id": "crawl_8kvobi",
    "title": "'It gives me the ick': Can you cheat on someone with a video game?",
@@ -1486,5 +1509,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T21:59:51.279Z"
+ "updated": "2026-11-21T22:08:42.682Z"
 }
