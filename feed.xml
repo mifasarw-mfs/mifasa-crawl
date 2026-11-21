@@ -5,8 +5,17 @@
     <link>https://mifasarw.neocities.org/</link>
     <description>Inkuru zigezweho mu Rwanda no ku Isi, na Video za MIFASARW.</description>
     <language>rw</language>
-    <lastBuildDate>Sat, 21 Nov 2026 00:34:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 01:00:00 GMT</lastBuildDate>
     <atom:link href="https://mifasarw.neocities.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tech Now</title>
+      <link>https://mifasarw.neocities.org/s/MN202611_ewb1ipdn67.html</link>
+      <guid isPermaLink="true">https://mifasarw.neocities.org/s/MN202611_ewb1ipdn67.html</guid>
+      <pubDate>Sat, 21 Nov 2026 01:00:00 GMT</pubDate>
+      <category>tech</category>
+      <description>Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race. (Source: BBC Technology)</description>
+      <media:thumbnail url="https://ichef.bbci.co.uk/images/ic/240x135/p0pp14ps.jpg"/>
+    </item>
     <item>
       <title>ANC fights to keep control of South Africa's key cities after election setback</title>
       <link>https://mifasarw.neocities.org/s/MN202611_1ake0rp6x8j.html</link>
@@ -534,15 +543,6 @@
       <category>sports</category>
       <description>With Joao Pedro missing again for Chelsea on Saturday, BBC Sport looks at the importance of the Brazilian to the Blues. (Source: BBC Football)</description>
       <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eddb/live/bbd39d90-e415-11f1-b37c-b3a71d7200af.jpg"/>
-    </item>
-    <item>
-      <title>Kagame and MTN Group CEO Discuss Rwanda’s Digital Future</title>
-      <link>https://mifasarw.neocities.org/s/MN202611_14qi6xf0zld.html</link>
-      <guid isPermaLink="true">https://mifasarw.neocities.org/s/MN202611_14qi6xf0zld.html</guid>
-      <pubDate>Fri, 20 Nov 2026 15:14:37 GMT</pubDate>
-      <category>news</category>
-      <description>President Paul Kagame met MTN Group President and Chief Executive Officer Ralph Mupita at Urugwiro Village this afternoon to discuss MTN Rwanda’s operations and the country’s expanding digital economy. Their discussions also covered opportunities in artificial intelligence and ways to support and… (Source: Taarifa Rwanda)</description>
-      <media:thumbnail url="https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/AA75302D-0ED3-43FC-A027-8B5274DBBFC3.jpeg?fit=2048%2C1677&amp;ssl=1"/>
     </item>
   </channel>
 </rss>

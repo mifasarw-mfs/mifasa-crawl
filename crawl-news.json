@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_ewb1ip",
+  "title": "Tech Now",
+  "summary": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
+  "link": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-21T01:00:00.000Z",
+  "source": "BBC Technology",
+  "category": "tech",
+  "lang": "en",
+  "keywords": [
+   "BBC Technology",
+   "tech"
+  ],
+  "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp14ps.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp14ps.jpg",
+  "title_en": "Tech Now",
+  "summary_en": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
+  "share_id": "MN202611_ewb1ipdn67"
+ },
+ {
   "id": "crawl_1ake0rp",
   "title": "ANC fights to keep control of South Africa's key cities after election setback",
   "summary": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
@@ -17088,25 +17108,5 @@
   "title_rw": "AKAMARO K'URUVANGE RWA TANGAWIZI N'UBUKI NK'UMUTI W'INDWARA ZIRENGA 10",
   "summary_rw": "#dashdashyogacenter SOBANUKIRWA AKAMARO KA TANGAWIZI N'UBUKI BIVANZE MU GUSIGASIRA AMAGARA YA MWENEMUNTU N'UBURYO ARI UMUTI UKOMEYE CYANE WO KURWANYA INDWARA YA ASIMA.",
   "share_id": "MN202611_1ihtipwplk2"
- },
- {
-  "id": "crawl_1a0a8pe",
-  "title": "Amerika yazanye iciyumviro c'uko Ukraine yoheba Donbas ikinjira muri OTAN- bivugwa na Zelensky",
-  "summary": "Amerika ntiremeza aya majambo yavuzwe na Perezida Zelensky wa Ukraine, umwe mu bategetsi yabwiye BBC ati: \"Ivyiyumviro vyinshi biracaganirwako\".",
-  "link": "https://www.bbc.com/gahuza/articles/c6x29lppvln8o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.com/gahuza/articles/c6x29lppvln8o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-15T06:36:09.000Z",
-  "source": "BBC Gahuza",
-  "category": "news",
-  "lang": "rw",
-  "keywords": [
-   "BBC Gahuza",
-   "news"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg",
-  "title_rw": "Amerika yazanye iciyumviro c'uko Ukraine yoheba Donbas ikinjira muri OTAN- bivugwa na Zelensky",
-  "summary_rw": "Amerika ntiremeza aya majambo yavuzwe na Perezida Zelensky wa Ukraine, umwe mu bategetsi yabwiye BBC ati: \"Ivyiyumviro vyinshi biracaganirwako\".",
-  "share_id": "MN202611_1a0a8pe3568"
  }
 ]
