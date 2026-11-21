@@ -1,6 +1,6 @@
 {
  "day": "2026-11-21",
- "count": 7,
+ "count": 8,
  "articles": [
   {
    "id": "crawl_jz869",
@@ -41,6 +41,26 @@
    "title_en": "Tech Now",
    "summary_en": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
    "share_id": "MN202611_ewb1ipdn67"
+  },
+  {
+   "id": "crawl_1062bk7",
+   "title": "Tech Now",
+   "summary": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
+   "link": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T01:00:00.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp14ps.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp14ps.jpg",
+   "title_en": "Tech Now",
+   "summary_en": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
+   "share_id": "MN202611_1062bk7vg2t"
   },
   {
    "id": "crawl_1ake0rp",
@@ -143,5 +163,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T02:01:19.465Z"
+ "updated": "2026-11-21T02:50:21.848Z"
 }
