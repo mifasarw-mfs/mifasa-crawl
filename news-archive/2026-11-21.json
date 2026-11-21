@@ -1,7 +1,27 @@
 {
  "day": "2026-11-21",
- "count": 29,
+ "count": 30,
  "articles": [
+  {
+   "id": "crawl_1rywvor",
+   "title": "How red squirrels made island their home",
+   "summary": "Conservationists say that, with red squirrels dwindling in the UK, Jersey is an \"important refuge\".",
+   "link": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T12:18:55.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebff/live/6e1cd920-cbcb-11f1-aba9-2bb2608f11d9.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebff/live/6e1cd920-cbcb-11f1-aba9-2bb2608f11d9.jpg",
+   "title_en": "How red squirrels made island their home",
+   "summary_en": "Conservationists say that, with red squirrels dwindling in the UK, Jersey is an \"important refuge\".",
+   "share_id": "MN202611_1rywvorps5l"
+  },
   {
    "id": "crawl_pob5o5",
    "title": "Umuhungu w'Umunya-Ghana wiciwe muri Amerika 'yari akwiriye ibyiza cyane' – 'Mayor' Mamdani wa New York",
@@ -586,5 +606,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T12:10:05.457Z"
+ "updated": "2026-11-21T12:21:41.308Z"
 }
