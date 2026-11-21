@@ -1,7 +1,28 @@
 {
  "day": "2026-11-21",
- "count": 26,
+ "count": 27,
  "articles": [
+  {
+   "id": "crawl_14tkx1t",
+   "title": "Rwanda Explores Strategic Maritime Opportunities During Suez Canal Visit",
+   "summary": "Rwanda’s Minister of Internal Security, Dr Vincent Biruta, has visited Egypt’s Suez Canal, one of the world’s most important maritime trade routes, as part of efforts to gain insights into its operations, strategic importance and contribution to international trade and security. Dr Biruta was accompanied by Rwanda’s Ambassador to Egypt, Commissioner General Dan Munyuza. The […] The post Rwanda…",
+   "link": "https://taarifa.rw/2026/11/21/rwanda-explores-strategic-maritime-opportunities-during-suez-canal-visit/",
+   "url": "https://taarifa.rw/2026/11/21/rwanda-explores-strategic-maritime-opportunities-during-suez-canal-visit/",
+   "date": "2026-11-21T11:11:06.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "National"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/IMG-20261121-WA0024.jpg?fit=2560%2C1749&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/IMG-20261121-WA0024.jpg?fit=2560%2C1749&ssl=1",
+   "title_en": "Rwanda Explores Strategic Maritime Opportunities During Suez Canal Visit",
+   "summary_en": "Rwanda’s Minister of Internal Security, Dr Vincent Biruta, has visited Egypt’s Suez Canal, one of the world’s most important maritime trade routes, as part of efforts to gain insights into its operations, strategic importance and contribution to international trade and security. Dr Biruta was accompanied by Rwanda’s Ambassador to Egypt, Commissioner General Dan Munyuza. The […] The post Rwanda…",
+   "share_id": "MN202611_14tkx1t3fe7"
+  },
   {
    "id": "crawl_1yj12j0",
    "title": "François Régis Uwayezu yagizwe Umuyobozi mushya wa BK Arena",
@@ -525,5 +546,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T10:56:03.719Z"
+ "updated": "2026-11-21T11:13:40.583Z"
 }
