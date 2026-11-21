@@ -1,7 +1,107 @@
 {
  "day": "2026-11-21",
- "count": 15,
+ "count": 21,
  "articles": [
+  {
+   "id": "crawl_ynl57l",
+   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+   "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+   "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T07:31:05.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg",
+   "title_en": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+   "summary_en": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+   "share_id": "MN202611_ynl57le1of"
+  },
+  {
+   "id": "crawl_1rv4rb8",
+   "title": "The film about fencing set between two cultures",
+   "summary": "Parvinder Shergill talks about creating art that honours both of her cultural backgrounds.",
+   "link": "https://www.bbc.co.uk/news/articles/ce3r29wdqrno?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ce3r29wdqrno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T07:17:07.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a328/live/b2cab3f0-dfa6-11f1-ab35-8541e0a03fdd.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a328/live/b2cab3f0-dfa6-11f1-ab35-8541e0a03fdd.jpg",
+   "title_en": "The film about fencing set between two cultures",
+   "summary_en": "Parvinder Shergill talks about creating art that honours both of her cultural backgrounds.",
+   "share_id": "MN202611_1rv4rb8wvky"
+  },
+  {
+   "id": "crawl_unxtqd",
+   "title": "Why is Blackpool such a Strictly highlight?",
+   "summary": "Strictly's annual visit to Blackpool has become synonymous with big staging and unforgettable shows.",
+   "link": "https://www.bbc.co.uk/news/articles/cvx2xprxp5ryo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cvx2xprxp5ryo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T07:12:52.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3726/live/69b6ba80-e422-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3726/live/69b6ba80-e422-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Why is Blackpool such a Strictly highlight?",
+   "summary_en": "Strictly's annual visit to Blackpool has become synonymous with big staging and unforgettable shows.",
+   "share_id": "MN202611_unxtqdqq77"
+  },
+  {
+   "id": "crawl_1bor6lr",
+   "title": "Rings of Power filming allows Morfydd Clark to see 'secret bits' of Wales",
+   "summary": "Rings of Power actress Morfydd Clark sees 'secret bits' of Wales in filming",
+   "link": "https://www.bbc.co.uk/news/articles/c615egvdd59xo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c615egvdd59xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T07:11:37.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b2b/live/41c94520-e359-11f1-a8cd-2ff5ed84046e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b2b/live/41c94520-e359-11f1-a8cd-2ff5ed84046e.jpg",
+   "title_en": "Rings of Power filming allows Morfydd Clark to see 'secret bits' of Wales",
+   "summary_en": "Rings of Power actress Morfydd Clark sees 'secret bits' of Wales in filming",
+   "share_id": "MN202611_1bor6lrk32l"
+  },
+  {
+   "id": "crawl_139bmgp",
+   "title": "How Westside Cowboy went from student gigs to rising stars in two years",
+   "summary": "The four-piece band joins a prestigious list that includes Myles Smith, Olivia Dean, Tom Grennan.",
+   "link": "https://www.bbc.co.uk/news/articles/crjeqxedzpnko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/crjeqxedzpnko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T07:04:18.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7598/live/a30e8b60-e4bc-11f1-bd65-4bcf15946188.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7598/live/a30e8b60-e4bc-11f1-bd65-4bcf15946188.jpg",
+   "title_en": "How Westside Cowboy went from student gigs to rising stars in two years",
+   "summary_en": "The four-piece band joins a prestigious list that includes Myles Smith, Olivia Dean, Tom Grennan.",
+   "share_id": "MN202611_139bmgp4ixj"
+  },
   {
    "id": "crawl_1ik51wl",
    "title": "Who am I? Plus today's other quizzes",
@@ -243,6 +343,26 @@
    "share_id": "MN202611_1nyk85kd4me"
   },
   {
+   "id": "crawl_1qcjge3",
+   "title": "Who will be Robert Pattinson's 'Bond girl' - and does the role need to change?",
+   "summary": "Pattinson’s announcement as 007 has completely upped the game, and commentators say his leading lady will need a \"very strong identity\".",
+   "link": "https://www.bbc.co.uk/news/articles/cr4g1l7x52jno?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cr4g1l7x52jno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T00:03:16.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/361f/live/d7808b20-e4e7-11f1-99b6-a35a62fa4264.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/361f/live/d7808b20-e4e7-11f1-99b6-a35a62fa4264.png",
+   "title_en": "Who will be Robert Pattinson's 'Bond girl' - and does the role need to change?",
+   "summary_en": "Pattinson’s announcement as 007 has completely upped the game, and commentators say his leading lady will need a \"very strong identity\".",
+   "share_id": "MN202611_1qcjge3ccux"
+  },
+  {
    "id": "crawl_1af52ee",
    "title": "NI doctors' strike due to end, with separate walkout planned for Monday",
    "summary": "Consultants and specialist doctors will begin a separate 24-hour strike on Monday morning as part of the same pay dispute.",
@@ -303,5 +423,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T06:54:28.591Z"
+ "updated": "2026-11-21T07:52:02.096Z"
 }

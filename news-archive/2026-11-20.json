@@ -1,6 +1,6 @@
 {
  "day": "2026-11-20",
- "count": 122,
+ "count": 123,
  "articles": [
   {
    "id": "crawl_1kps9ch",
@@ -141,6 +141,26 @@
    "title_en": "First defeat and first red for Ferguson as Glentoran falter",
    "summary_en": "BBC Sport Northern Ireland looks at Duncan Ferguson's first red card and defeat as Glentoran manager as they are edged out 3-2 by Cliftonville on Friday.",
    "share_id": "MN202611_u20xctqsqj"
+  },
+  {
+   "id": "crawl_3p6y9t",
+   "title": "TRNSMT: What's the future for Scotland's largest music festival?",
+   "summary": "No dates, ticket sales or acts have yet been announced by DF Concerts for the Glasgow Green festival.",
+   "link": "https://www.bbc.co.uk/news/articles/cv702en03nw4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cv702en03nw4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T22:45:12.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/017e/live/20b4f390-e4fb-11f1-a8e4-b1e12a49db15.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/017e/live/20b4f390-e4fb-11f1-a8e4-b1e12a49db15.jpg",
+   "title_en": "TRNSMT: What's the future for Scotland's largest music festival?",
+   "summary_en": "No dates, ticket sales or acts have yet been announced by DF Concerts for the Glasgow Green festival.",
+   "share_id": "MN202611_3p6y9tzuqn"
   },
   {
    "id": "crawl_umnlnj",
@@ -2508,5 +2528,5 @@
    "share_id": "MN202611_kh4czrx9gl"
   }
  ],
- "updated": "2026-11-21T06:54:28.592Z"
+ "updated": "2026-11-21T07:52:02.098Z"
 }
