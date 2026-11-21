@@ -6235,6 +6235,30 @@
    ],
    "auto": true,
    "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_76cb8c54_q",
+   "label_rw": "Umurongo w'Equator n'Uturere tw'Ubushyuhe",
+   "label_en": "The Equator and Tropical Zones",
+   "patterns_en": [
+    "What does the Equator divide the Earth into?",
+    "Where are the tropical zones located?",
+    "What is the climate like in the tropical zones?"
+   ],
+   "patterns_rw": [
+    "Umurongo w'Equator ugabanya Isi mu bice bingahe?",
+    "Uturere tw'ubushyuhe duherereye he?",
+    "Ikirere cyo mu turere tw'ubushyuhe kimeze gite?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Umurongo w'Equator ni umurongo uca hagati y'isi ugabanya Isi mu duce tubiri tw'Amajyaruguru n'Amajyepfo. Uturere tw'Ubushyuhe twitwa Tropiki, duherereye hagati ya Tropiki ya Cancer na Tropiki ya Capricorn. Aho hantu haba haryoshye cyangwa hashyushye cyane mu gihe cyose cy'umwaka.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The Equator is an imaginary line around the middle of the Earth, dividing it into the Northern and Southern Hemispheres. The tropical zones are located between the Tropic of Cancer and the Tropic of Capricorn. These regions usually experience warm temperatures throughout the year.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
   }
  ],
  "knowledge": [
@@ -11368,6 +11392,25 @@
     "architecture",
     "culture",
     "history"
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_76cb8c54",
+   "category": "world",
+   "title_rw": "Umurongo w'Equator n'Uturere tw'Ubushyuhe",
+   "title_en": "The Equator and Tropical Zones",
+   "summary_rw": "Umurongo w'Equator ni umurongo uca hagati y'isi ugabanya Isi mu duce tubiri tw'Amajyaruguru n'Amajyepfo. Uturere tw'Ubushyuhe twitwa Tropiki, duherereye hagati ya Tropiki ya Cancer na Tropiki ya Capricorn. Aho hantu haba haryoshye cyangwa hashyushye cyane mu gihe cyose cy'umwaka.",
+   "summary_en": "The Equator is an imaginary line around the middle of the Earth, dividing it into the Northern and Southern Hemispheres. The tropical zones are located between the Tropic of Cancer and the Tropic of Capricorn. These regions usually experience warm temperatures throughout the year.",
+   "keywords": [
+    "equator",
+    "tropiki",
+    "isi",
+    "ubushyuhe",
+    "hemisphere",
+    "earth",
+    "climate"
    ],
    "auto": true,
    "taught": "2026-11-21"
