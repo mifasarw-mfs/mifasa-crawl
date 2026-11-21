@@ -1,7 +1,27 @@
 {
  "day": "2026-11-21",
- "count": 30,
+ "count": 31,
  "articles": [
+  {
+   "id": "crawl_j7r7fm",
+   "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+   "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+   "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T13:17:38.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+   "summary_en": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+   "share_id": "MN202611_j7r7fmk3wg"
+  },
   {
    "id": "crawl_1rywvor",
    "title": "How red squirrels made island their home",
@@ -606,5 +626,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T12:21:41.308Z"
+ "updated": "2026-11-21T13:25:13.544Z"
 }
