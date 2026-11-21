@@ -1,6 +1,6 @@
 {
  "day": "2026-11-20",
- "count": 121,
+ "count": 122,
  "articles": [
   {
    "id": "crawl_1kps9ch",
@@ -428,6 +428,26 @@
    "title_en": "Ghanaian boy killed in US 'deserved so much better', says New York Mayor Mamdani",
    "summary_en": "At the funeral for the 15-year-old who was fatally shot last month, Mamdani spoke alongside the boy's father and civil rights leaders.",
    "share_id": "MN202611_7blvshes9b"
+  },
+  {
+   "id": "crawl_1h6iqfm",
+   "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+   "summary": "BBC News Mundo’s Rafael Rojas visits the real-life Miami locations that inspired Vice City, GTA 6’s fictionalised setting.",
+   "link": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T18:48:48.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b70/live/4733dfb0-e512-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b70/live/4733dfb0-e512-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+   "summary_en": "BBC News Mundo’s Rafael Rojas visits the real-life Miami locations that inspired Vice City, GTA 6’s fictionalised setting.",
+   "share_id": "MN202611_1h6iqfmbbjk"
   },
   {
    "id": "crawl_1uy36z",
@@ -2488,5 +2508,5 @@
    "share_id": "MN202611_kh4czrx9gl"
   }
  ],
- "updated": "2026-11-20T23:38:36.760Z"
+ "updated": "2026-11-21T06:54:28.592Z"
 }

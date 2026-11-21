@@ -1,7 +1,27 @@
 {
  "day": "2026-11-21",
- "count": 13,
+ "count": 15,
  "articles": [
+  {
+   "id": "crawl_1ik51wl",
+   "title": "Who am I? Plus today's other quizzes",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cjwy5d3lxvkzo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cjwy5d3lxvkzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T06:50:31.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+   "title_en": "Who am I? Plus today's other quizzes",
+   "summary_en": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "share_id": "MN202611_1ik51wlwzb7"
+  },
   {
    "id": "crawl_uo6yo7",
    "title": "Abagore hafi 600 bishwe muri Afurika y'Epfo mu mezi atatu",
@@ -41,6 +61,26 @@
    "title_en": "Jeers, injuries and doubters - White's journey back to the top",
    "summary_en": "When Ben White wheeled away after scoring England's third goal against world champions Spain, it was more than just a strike which ended up being the winner in a special win.",
    "share_id": "MN202611_493hdlzgrb"
+  },
+  {
+   "id": "crawl_11fk9u9",
+   "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+   "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+   "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T06:00:09.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d218/live/12a1fc40-e531-11f1-a67d-39d55c7178b0.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d218/live/12a1fc40-e531-11f1-a67d-39d55c7178b0.jpg",
+   "title_en": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+   "summary_en": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+   "share_id": "MN202611_11fk9u9d6b3"
   },
   {
    "id": "crawl_1wmetci",
@@ -263,5 +303,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T06:39:56.174Z"
+ "updated": "2026-11-21T06:54:28.591Z"
 }
