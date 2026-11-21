@@ -1,5 +1,48 @@
 [
  {
+  "id": "crawl_1rd0mpb",
+  "title": "Will COP31 end with a new global climate deal?",
+  "summary": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey.",
+  "link": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-21T22:44:52.000Z",
+  "source": "BBC Science",
+  "category": "science",
+  "lang": "en",
+  "keywords": [
+   "BBC Science",
+   "science"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511b/live/004fea80-e5fd-11f1-a094-5fdc692f3e33.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511b/live/004fea80-e5fd-11f1-a094-5fdc692f3e33.jpg",
+  "title_en": "Will COP31 end with a new global climate deal?",
+  "summary_en": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey.",
+  "share_id": "MN202611_1rd0mpbt7t9"
+ },
+ {
+  "id": "crawl_tzis8g",
+  "title": "Minisitiri Uwimana yashimye ubufatanye bwa Unicef bwagaruye icyizere mu miryango",
+  "summary": "Minisitiri w’Uburinganire n’Iterambere ry’Umuryango, Uwimana Consolee, yashimye ubufatanye bw’Ishami ry’Umuryango w’Abibumbye n’u Rwanda, kuko bwagaruye icyizere ku bana ndetse n’imiryango myinshi (…)",
+  "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/minisitiri-uwimana-yashimye-ubufatanye-bwa-unicef-bwagaruye-icyizere-mu-miryango",
+  "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/minisitiri-uwimana-yashimye-ubufatanye-bwa-unicef-bwagaruye-icyizere-mu-miryango",
+  "date": "2026-11-21T22:39:03.000Z",
+  "source": "Kigali Today",
+  "category": "news",
+  "lang": "rw",
+  "keywords": [
+   "Kigali Today",
+   "news",
+   "Mu Rwanda",
+   "MobileBigStory",
+   "Mediatrice Uwingabire"
+  ],
+  "image": "https://www.kigalitoday.com/IMG/jpg/55664193234_0c5ec99d96_c.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/55664193234_0c5ec99d96_c.jpg",
+  "title_rw": "Minisitiri Uwimana yashimye ubufatanye bwa Unicef bwagaruye icyizere mu miryango",
+  "summary_rw": "Minisitiri w’Uburinganire n’Iterambere ry’Umuryango, Uwimana Consolee, yashimye ubufatanye bw’Ishami ry’Umuryango w’Abibumbye n’u Rwanda, kuko bwagaruye icyizere ku bana ndetse n’imiryango myinshi (…)",
+  "share_id": "MN202611_tzis8gh0y6"
+ },
+ {
   "id": "crawl_5mizak",
   "title": "Match of the Day",
   "summary": "Highlights from seven Premier League games, including leaders Arsenal at Newcastle.",
@@ -383,8 +426,8 @@
    "news",
    "Football"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/hxqwnhawoaemvfg.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/hxqwnhawoaemvfg.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/hxq5u0axiaavcuz.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/hxq5u0axiaavcuz.jpg",
   "title_rw": "Rayon Sports inganyije na APR FC yinjira mu mwaka wa kane itayitsinda(Amafoto)",
   "summary_rw": "Kuri uyu wa Gatandatu, ikipe ya Rayon Sports yanganyirije na APR FC kuri Stade Amahoro igitego 1-1 mu mukino w’umunsi wa cyenda wa BK Pro League, yinjira mu mwaka wa kane idatsinda uyu mucyeba. (…)",
   "share_id": "MN202611_14k4v6gl7xy"
@@ -427,8 +470,8 @@
    "AKW-041",
    "AKW-041-MAIN"
   ],
-  "image": "https://www.kigalitoday.com/IMG/png/2026-11-21_21_15_55-_14_kigali_today_kigalitoday___x.png",
-  "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-21_21_15_55-_14_kigali_today_kigalitoday___x.png",
+  "image": "https://www.kigalitoday.com/IMG/png/2026-11-21_21_16_33-_14_kigali_today_kigalitoday___x.png",
+  "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-21_21_16_33-_14_kigali_today_kigalitoday___x.png",
   "title_rw": "Abakirisitu Gatolika b'ibyamamare ku mbuga nkoranyambaga bakoze urugendo nyobokamana i Kibeho",
   "summary_rw": "Bamwe mu byamamare by’Abanyarwanda bakoresha imbuga nkoranyambaga kandi bakaba ari Abakirisitu Gatolika, bakoze urugendo nyobokamana rugana i Kibeho, kuri uyu wa Gatandatu, tariki ya 21 Ugushyingo (…)",
   "share_id": "MN202611_1sq3t1v652p"
@@ -542,8 +585,8 @@
    "MobileBigStory",
    "Marie Claire Joyeuse"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-21_at_18.24_19.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-21_at_18.24_19.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/img_3760.jpg.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/img_3760.jpg.jpg",
   "title_rw": "Huye: Abagore bagize 58.8% by'abagize inama njyanama",
   "summary_rw": "Amatora y’abajyanama rusange b’Akarere ka Huye yabaye kuri uyu wa 21 Ugushyingo 2026, asize inama njyanama yo muri aka Karere igizwe ahanini n’abagore kuko ubwabo ari 58.8% (abajyanama b’abagore (…)",
   "share_id": "MN202611_ew79uaiqwg"
@@ -1090,8 +1133,8 @@
    "MobileBigStory",
    "Jean de la Croix Tabaro"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-21_at_14.27_59.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-21_at_14.27_59.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-21_at_10.18_27.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-21_at_10.18_27.jpg",
   "title_rw": "Cumi na barindwi bashaka kuyobora akarere kawe baramenyekana uyu munsi",
   "summary_rw": "Kuri uyu wa 21 Ugushyingo, inzego z’ibanze zazindukiye mu matora yo kuzuza abagize njyanama y’Akarere, ahatowe Abajyanama rusange umunani, buzuza umubare ukenewe mu Karere. Itegeko rigena (…)",
   "share_id": "MN202611_19zi6ke0el8"
@@ -2301,8 +2344,8 @@
    "news",
    "Amagare"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/pwa.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/pwa.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/hubert.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/hubert.jpg",
   "title_rw": "Amasiganwa abiri y'umunsi umwe muri Tour du Rwanda 2027 izatangirira i Gicumbi",
   "summary_rw": "Kuri uyu wa Gatanu, hatangajwe inzira, amakipe ndetse n’amatariki y’Isiganwa ry’Amagare rizenguruka u Rwanda ’Tour du Rwanda 2027’ aho rizatangirira mu Karere ka Gicumbi ikongerwamo n’amarushanwa (…)",
   "share_id": "MN202611_1qj51kahcco"
@@ -2444,8 +2487,8 @@
    "MobileBigStory",
    "Jean de la Croix Tabaro"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_20.36_05.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_20.36_05.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_20.36_04_2_.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_20.36_04_2_.jpg",
   "title_rw": "Abashoamari 10 bahize abandi muri Afurika bagiye guhurira i Kigali mu irushanwa rya Africa's Business Heroes 2026",
   "summary_rw": "Abashoramari 10 baturuka mu bihugu umunani bya Afurika bazahatanira inkunga ingana na miliyoni 1.5 z’amadolari ya Amerika mu irushanwa rizasorezwa i Kigali tariki ya 1 n’iya 2 Ukuboza 2026. (…)",
   "share_id": "MN202611_1ytqidm10a0"
@@ -2507,8 +2550,8 @@
    "MobileBigStory",
    "Tarib Abdul"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_16.12_30_2_.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_16.12_30_2_.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_16.12_31_1_.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_16.12_31_1_.jpg",
   "title_rw": "Urwego rw'ubuhinzi rwungutse abahanga mu butubuzi bw'imbuto",
   "summary_rw": "Minisiteri y’Ubuhinzi n’Ubworozi (MINAGRI), yagaragaje ko yiteze ibisubizo ku bibazo bikigaragara mu buziranenge bw’imbuto z’indobanure ku banyeshuri barangije icyiciro cya gatatu cy’amahugurwa (…)",
   "share_id": "MN202611_18mubegxceu"
@@ -2725,8 +2768,8 @@
    "MobileBigStory",
    "Ernestine Musanabera"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_19.43_19.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_19.43_19.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/55664090261_9948bb24f4_c.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/55664090261_9948bb24f4_c.jpg",
   "title_rw": "Madamu Jeannette Kagame yagaragaje uko UNICEF yahinduye ubuzima bw'abana mu Rwanda",
   "summary_rw": "Madamu Jeannette Kagame yashimye Ishami ry’Umuryango w’Abibumbye ryita ku Bana (UNICEF) ku bufatanye n’u Rwanda mu myaka 40 ishize, avuga ko muri icyo gihe hari byinshi byagezweho mu kurengera (…)",
   "share_id": "MN202611_1wnydtl69p3"
@@ -2848,8 +2891,8 @@
    "AKW-041",
    "AKW-041-MAIN"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_10.25_25.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_10.25_25.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_10.25_25_1_.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_10.25_25_1_.jpg",
   "title_rw": "Kigali Fight Night ku nshuro ya gatatu igiye kubera mu Rwanda",
   "summary_rw": "Kigali igiye kwakira ku nshuro ya gatatu irushanwa ry’umukino w’iteramakofe rizwi nka Kigali Fight Night, riteganyijwe ku wa 10 Ukuboza 2026 muri BK Arena, aho ryitezwe kuzitabirwa n’abasaga (…)",
   "share_id": "MN202611_15ldlzqufec"
@@ -2956,8 +2999,8 @@
    "AKW-041",
    "AKW-041-MAIN"
   ],
-  "image": "https://www.kigalitoday.com/IMG/png/2026-11-20_14_23_17-.png",
-  "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-20_14_23_17-.png",
+  "image": "https://www.kigalitoday.com/IMG/png/2026-11-20_14_27_47-.png",
+  "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-20_14_27_47-.png",
   "title_rw": "Isabukuru nziza Inganzo ngari mwe!",
   "summary_rw": "Itorero Inganzongari rirategura igitaramo ku itariki 21 Ugishyingo, aho bateganya kumurikira abakunzi babo u Rwanda rwose binyuze mu mbyino. Igiraneza Nice, umwe mu Baterambabazi (…)",
   "share_id": "MN202611_w4f26nt9m5"
@@ -3004,8 +3047,8 @@
    "AKW-041",
    "AKW-041-MAIN"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-19_at_12.26_39.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-19_at_12.26_39.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-19_at_12.27_12.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-19_at_12.27_12.jpg",
   "title_rw": "Mugabo wanjye jya kurwanirira igihugu - Dore icuruzwa ry'abasirikare mu Burusiya",
   "summary_rw": "Mu Burusiya, hari abagore bahawe inyito ya “Black Widows” cyangwa se (abagore b’abagambanyi) bashakana n’abagabo basanzwe ari abanyantege nke, nyuma bakabohereza ku rugamba muri Ukraine, kugira (…)",
   "share_id": "MN202611_nd74s5ewsz"
@@ -3048,8 +3091,8 @@
    "AKW-041",
    "AKW-041-MAIN"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_15.42_52.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_15.42_52.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_15.42_53_1_.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_15.42_53_1_.jpg",
   "title_rw": "Umunyarwenya Doctall Kingsley (Ntakirutumana) yababajwe n'ubugome bwaranze Jenoside yakorewe Abatutsi",
   "summary_rw": "Umunyarwenya w’Umunya-Nigeria Kingsley Ogbonna, uzwi cyane nka Doctall Kingsley cyangwa Ntakirutimana, yababajwe n’ubuzima bw’inzirakarangane bwatikiriye muri Jenoside yakorewe Abatutsi mu 1994 (…)",
   "share_id": "MN202611_30e3wgsl0e"
@@ -3434,8 +3477,8 @@
    "MobileBigStory",
    "Ruzindana Janvier"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_16.37_15.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_16.37_15.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_16.37_19.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_16.37_19.jpg",
   "title_rw": "Perezida Kagame yakiriye Umuyobozi wa MTN Group baganira kuri MTN Rwanda",
   "summary_rw": "Perezida Paul Kagame yagiranye ibiganiro na Ralph Mupita, Umuyobozi Mukuru wa MTN Group, byibanze ku mikorere ya MTN Rwanda, iterambere ry’ubukungu bushingiye ku ikoranabuhanga mu Rwanda (…)",
   "share_id": "MN202611_r1pviioew8"
@@ -3626,8 +3669,8 @@
    "MobileBigStory",
    "Ruzindana Janvier"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_15.00_46.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_15.00_46.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_15.00_45.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_15.00_45.jpg",
   "title_rw": "Afurika igomba kugira ubwigenge mu gufata ibyemezo mpuzamahanga - Minisitiri Nduhungirehe",
   "summary_rw": "Minisitiri w’Ububanyi n’Amahanga n’Ubutwererane, Olivier Nduhungirehe, yagaragaje ko Afurika ikwiye kugira uruhare rukomeye mu gufata ibyemezo ku rwego mpuzamahanga, ubufatanye hagati y’ibihugu (…)",
   "share_id": "MN202611_1mq90oqqlw8"
@@ -4074,8 +4117,8 @@
    "MobileBigStory",
    "Ruzindana Janvier"
   ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/657a5928.jpg.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/657a5928.jpg.jpg",
+  "image": "https://www.kigalitoday.com/IMG/jpg/657a5928_jpg_1_.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/657a5928_jpg_1_.jpg",
   "title_rw": "Itorero Inganzo Ngari rije gutaramira abanya Kigali",
   "summary_rw": "Itorero Inganzo Ngari ryiyemeje gukomeza kugira uruhare mu kubungabunga no gusigasira umuco Nyarwanda, binyuze mu kuwutoza no kuwusangiza abakiri bato n’abakuze. Ibi ni bimwe mu bizamurikirwa (…)",
   "share_id": "MN202611_10pmnmn3b0d"
@@ -17055,45 +17098,5 @@
   "title_en": "Teenager Andreeva caps stunning week with WTA Finals title",
   "summary_en": "French Open champion Mirra Andreeva caps her stellar season with a hard-fought victory over Elina Svitolina to win the WTA Finals.",
   "share_id": "MN202611_1w818shaian"
- },
- {
-  "id": "crawl_caqqhv",
-  "title": "Football Daily",
-  "summary": "Reaction to England’s 3-2 win over Spain in the Nations League.",
-  "link": "https://www.bbc.co.uk/sounds/play/p0pn5rdk?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sounds/play/p0pn5rdk?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-15T23:16:00.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg",
-  "title_en": "Football Daily",
-  "summary_en": "Reaction to England’s 3-2 win over Spain in the Nations League.",
-  "share_id": "MN202611_caqqhvjv0h"
- },
- {
-  "id": "crawl_qjhq68",
-  "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
-  "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
-  "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-15T22:57:27.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f55e/live/4bc0f750-e140-11f1-859a-418a418deb7d.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f55e/live/4bc0f750-e140-11f1-859a-418a418deb7d.jpg",
-  "title_en": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
-  "summary_en": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
-  "share_id": "MN202611_qjhq68amn2"
  }
 ]

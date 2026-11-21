@@ -1,7 +1,50 @@
 {
  "day": "2026-11-21",
- "count": 77,
+ "count": 79,
  "articles": [
+  {
+   "id": "crawl_1rd0mpb",
+   "title": "Will COP31 end with a new global climate deal?",
+   "summary": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey.",
+   "link": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T22:44:52.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511b/live/004fea80-e5fd-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511b/live/004fea80-e5fd-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Will COP31 end with a new global climate deal?",
+   "summary_en": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey.",
+   "share_id": "MN202611_1rd0mpbt7t9"
+  },
+  {
+   "id": "crawl_tzis8g",
+   "title": "Minisitiri Uwimana yashimye ubufatanye bwa Unicef bwagaruye icyizere mu miryango",
+   "summary": "Minisitiri w’Uburinganire n’Iterambere ry’Umuryango, Uwimana Consolee, yashimye ubufatanye bw’Ishami ry’Umuryango w’Abibumbye n’u Rwanda, kuko bwagaruye icyizere ku bana ndetse n’imiryango myinshi (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/minisitiri-uwimana-yashimye-ubufatanye-bwa-unicef-bwagaruye-icyizere-mu-miryango",
+   "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/minisitiri-uwimana-yashimye-ubufatanye-bwa-unicef-bwagaruye-icyizere-mu-miryango",
+   "date": "2026-11-21T22:39:03.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu Rwanda",
+    "MobileBigStory",
+    "Mediatrice Uwingabire"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/55664193234_0c5ec99d96_c.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/55664193234_0c5ec99d96_c.jpg",
+   "title_rw": "Minisitiri Uwimana yashimye ubufatanye bwa Unicef bwagaruye icyizere mu miryango",
+   "summary_rw": "Minisitiri w’Uburinganire n’Iterambere ry’Umuryango, Uwimana Consolee, yashimye ubufatanye bw’Ishami ry’Umuryango w’Abibumbye n’u Rwanda, kuko bwagaruye icyizere ku bana ndetse n’imiryango myinshi (…)",
+   "share_id": "MN202611_tzis8gh0y6"
+  },
   {
    "id": "crawl_5mizak",
    "title": "Match of the Day",
@@ -1569,5 +1612,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T22:33:20.089Z"
+ "updated": "2026-11-21T23:07:31.227Z"
 }
