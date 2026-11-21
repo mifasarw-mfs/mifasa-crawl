@@ -1,7 +1,47 @@
 {
  "day": "2026-11-21",
- "count": 11,
+ "count": 13,
  "articles": [
+  {
+   "id": "crawl_uo6yo7",
+   "title": "Abagore hafi 600 bishwe muri Afurika y'Epfo mu mezi atatu",
+   "summary": "Abakuriye polisi basabye ko habaho ibikorwa byinshi cyane byo kwirinda ihohoterwa rikorerwa abagore n'abana.",
+   "link": "https://www.bbc.com/gahuza/articles/ckdd1e47n9zmo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/ckdd1e47n9zmo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T06:24:29.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b54a/live/170dbfd0-e4fa-11f1-a8e4-b1e12a49db15.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b54a/live/170dbfd0-e4fa-11f1-a8e4-b1e12a49db15.jpg",
+   "title_rw": "Abagore hafi 600 bishwe muri Afurika y'Epfo mu mezi atatu",
+   "summary_rw": "Abakuriye polisi basabye ko habaho ibikorwa byinshi cyane byo kwirinda ihohoterwa rikorerwa abagore n'abana.",
+   "share_id": "MN202611_uo6yo7zv51"
+  },
+  {
+   "id": "crawl_493hdl",
+   "title": "Jeers, injuries and doubters - White's journey back to the top",
+   "summary": "When Ben White wheeled away after scoring England's third goal against world champions Spain, it was more than just a strike which ended up being the winner in a special win.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cv7028xeler2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cv7028xeler2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T06:17:32.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06d5/live/855e6740-e1db-11f1-b8c8-67fa35f5afdb.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06d5/live/855e6740-e1db-11f1-b8c8-67fa35f5afdb.jpg",
+   "title_en": "Jeers, injuries and doubters - White's journey back to the top",
+   "summary_en": "When Ben White wheeled away after scoring England's third goal against world champions Spain, it was more than just a strike which ended up being the winner in a special win.",
+   "share_id": "MN202611_493hdlzgrb"
+  },
   {
    "id": "crawl_1wmetci",
    "title": "Imvo n'Imvano: Inyuma y'imyaka 25 sentare ya Afrika y'ubuseruko ishinzwe, yashitse ku ki?",
@@ -223,5 +263,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T04:49:40.768Z"
+ "updated": "2026-11-21T06:39:56.174Z"
 }
