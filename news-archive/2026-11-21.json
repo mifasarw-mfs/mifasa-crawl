@@ -1,7 +1,50 @@
 {
  "day": "2026-11-21",
- "count": 79,
+ "count": 81,
  "articles": [
+  {
+   "id": "crawl_1gkeh4u",
+   "title": "Suwedi: Gushyiraho urwibutso rwa Jenoside byongeye gushimangira ko ayo mateka atazibagirana",
+   "summary": "Minisitiri w’Ubumwe bw’Abanyarwanda n’Inshingano Mboneragihugu, Dr. Jean Damascène Bizimana, yashimye Abanyarwanda batuye muri Suwedi n’inshuti z’u Rwanda bagize uruhare mu gushyiraho urwibutso (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/suwedi-gushyiraho-urwibutso-rwa-jenoside-byongeye-gushimangira-ko-ayo-mateka-atazibagirana",
+   "url": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/suwedi-gushyiraho-urwibutso-rwa-jenoside-byongeye-gushimangira-ko-ayo-mateka-atazibagirana",
+   "date": "2026-11-21T23:23:44.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu mahanga",
+    "MobileBigStory",
+    "Tarib Abdul"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-21_at_20.41_58.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-21_at_20.41_58.jpg",
+   "title_rw": "Suwedi: Gushyiraho urwibutso rwa Jenoside byongeye gushimangira ko ayo mateka atazibagirana",
+   "summary_rw": "Minisitiri w’Ubumwe bw’Abanyarwanda n’Inshingano Mboneragihugu, Dr. Jean Damascène Bizimana, yashimye Abanyarwanda batuye muri Suwedi n’inshuti z’u Rwanda bagize uruhare mu gushyiraho urwibutso (…)",
+   "share_id": "MN202611_1gkeh4uih3w"
+  },
+  {
+   "id": "crawl_1onsma5",
+   "title": "London City keep up title hunt with emphatic win over Crystal Palace",
+   "summary": "London City Lionesses stay in the hunt for the Women's Super League title, with a statement second-half performance to give them a 6-2 win over Crystal Palace.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6n83rrknrj2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c6n83rrknrj2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T23:14:10.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6419/live/3883b000-e5e2-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6419/live/3883b000-e5e2-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "London City keep up title hunt with emphatic win over Crystal Palace",
+   "summary_en": "London City Lionesses stay in the hunt for the Women's Super League title, with a statement second-half performance to give them a 6-2 win over Crystal Palace.",
+   "share_id": "MN202611_1onsma55xrf"
+  },
   {
    "id": "crawl_1rd0mpb",
    "title": "Will COP31 end with a new global climate deal?",
@@ -1612,5 +1655,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T23:07:31.227Z"
+ "updated": "2026-11-21T23:50:21.960Z"
 }
