@@ -1,7 +1,27 @@
 {
  "day": "2026-11-21",
- "count": 24,
+ "count": 25,
  "articles": [
+  {
+   "id": "crawl_muqkk4",
+   "title": "FBI reportedly investigating apparent hack of its criminal database",
+   "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+   "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T09:34:20.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "FBI reportedly investigating apparent hack of its criminal database",
+   "summary_en": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+   "share_id": "MN202611_muqkk4jh0y"
+  },
   {
    "id": "crawl_9wvy17",
    "title": "Zelensky avuga ko Putin ari 'umwicanyi' nyuma yuko Trump yise Perezida w'Uburusiya inshuti",
@@ -483,5 +503,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T09:13:23.954Z"
+ "updated": "2026-11-21T10:13:36.007Z"
 }
