@@ -1,7 +1,27 @@
 {
  "day": "2026-11-21",
- "count": 70,
+ "count": 71,
  "articles": [
+  {
+   "id": "crawl_8sqo09",
+   "title": "Hirst key for Stoke, injuries derail Millwall - Sam Parkin's EFL takeaways",
+   "summary": "After the last international break of the year, Final score pundit and former Swindon Town, Luton Town and Northampton Town striker selects his takeaways from the Championship, League One and League Two.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6r7g8253e3yo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6r7g8253e3yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T20:36:43.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93db/live/2d4a1790-801e-11f0-ab3e-bd52082cd0ae.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93db/live/2d4a1790-801e-11f0-ab3e-bd52082cd0ae.png",
+   "title_en": "Hirst key for Stoke, injuries derail Millwall - Sam Parkin's EFL takeaways",
+   "summary_en": "After the last international break of the year, Final score pundit and former Swindon Town, Luton Town and Northampton Town striker selects his takeaways from the Championship, League One and League Two.",
+   "share_id": "MN202611_8sqo09mndz"
+  },
   {
    "id": "crawl_1z0v2aa",
    "title": "AC Milan monitoring Man Utd's Fernandes - Sunday's gossip",
@@ -1426,5 +1446,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T20:38:10.521Z"
+ "updated": "2026-11-21T21:10:45.276Z"
 }
