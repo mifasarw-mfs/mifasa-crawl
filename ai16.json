@@ -6092,6 +6092,101 @@
    ],
    "auto": true,
    "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_a77bf57a_q",
+   "label_rw": "Ibanziriza ry'igenzura rya porogaramu",
+   "label_en": "Software testing fundamentals",
+   "patterns_en": [
+    "What is software testing?",
+    "What are the main types of software testing?"
+   ],
+   "patterns_rw": [
+    "Igenzura rya porogaramu ni iki?",
+    "Ni iki gituma igenzura rya porogaramu ari ingenzi?",
+    "Ni ayahe bwoko bw'ingenzi bw'igenzura rya porogaramu?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Igenzura rya porogaramu ni igikorwa cyo kugenzura niba porogaramu ikora neza nk'uko byitezwe. Rifasha kuvumbura amakosa mbere yuko porogaramu ishyirwa ku mugaragaro. Hari ubwoko bubiri bw'ingenzi: igenzura ry'imbere aho bareba imiterere y'imbere, n'igenzura ry'inyuma aho bareba uko ibyo umukoresha abona bikora.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Software testing is the process of verifying that a software application works as expected. It helps detect errors before the software is released to the public. There are two main types: white-box testing which examines the internal code structure, and black-box testing which evaluates the functional behavior from the user's perspective.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_a1b7253a_q",
+   "label_rw": "Itumanaho ry'insinga za fiber optics",
+   "label_en": "Fiber optic communication basics",
+   "patterns_en": [
+    "Why is fiber optic communication fast?",
+    "What materials are fiber optic cables made of?",
+    "How does data travel through fiber optics?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma fiber optics yihuta?",
+    "Insinga za fiber optics zikorwa mu ki?",
+    "Ni gute amakuru atambuka muri fiber optics?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Itumanaho ry'insinga za fiber optics rikoresha umucyo kugira ngo twoherereze amakuru y'amashusho n'amajwi ku muvini mwinshi cyane. Izi nsinga zikorwa mu kirahure cyiza cyane cyangwa se pulasitiki.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Fiber optic communication uses light to transmit data, voice, and video at very high speeds. These cables are typically made of high-purity glass or plastic.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_5abae868_q",
+   "label_rw": "Gucunga imishinga mu buryo bwa Agile",
+   "label_en": "Agile project management",
+   "patterns_en": [
+    "What is Agile?",
+    "How does Agile help teams?",
+    "What characterizes Agile project management?"
+   ],
+   "patterns_rw": [
+    "Agile ni iki?",
+    "Agile ifasha gute amatsinda?",
+    "Ni iki kiranga gucunga imishinga muri Agile?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Agile ni uburyo bwo gucunga imishinga bwibanda ku gukorera hamwe, kwakira impinduka, no gutanga umusaruro mu byiciro bigufi. Ubu buryo bufasha amatsinda kumenya ibibazo vuba no kubikemura.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Agile is a project management method that focuses on collaboration, welcoming changes, and delivering working results in short cycles. This approach helps teams identify issues quickly and resolve them.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_9bb28099_q",
+   "label_rw": "Ubwoko bw'ububiko bwa mudasobwa: RAM na ROM",
+   "label_en": "Computer memory types: RAM and ROM",
+   "patterns_en": [
+    "How does RAM work in a computer?",
+    "What is the difference between RAM and ROM?",
+    "What does ROM store?"
+   ],
+   "patterns_rw": [
+    "RAM ikora ite muri mudasobwa?",
+    "Ni iki gitandukanya RAM na ROM?",
+    "Ububiko bwa ROM bubika iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mudasobwa ikoresha ububiko bwa RAM na ROM. RAM ibika amakuru by'agateganyo igihe mudasobwa iri gukora kandi irazimira iyo mudasobwa izimye. ROM yo ibika amakuru y'ingenzi mu buryo buhoraho adashobora gusibwa n'ubonetse wese. Ububiko bwombi bufasha mudasobwa gukora neza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Computers use RAM and ROM memory types. RAM temporarily stores data while the computer is running and is cleared when power is turned off. ROM permanently stores essential system instructions that are not easily modified. Both types work together for computer operation.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
   }
  ],
  "knowledge": [
@@ -11107,6 +11202,85 @@
     "disease",
     "abaganga",
     "doctors"
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_a77bf57a",
+   "category": "technology",
+   "title_rw": "Ibanziriza ry'igenzura rya porogaramu",
+   "title_en": "Software testing fundamentals",
+   "summary_rw": "Igenzura rya porogaramu ni igikorwa cyo kugenzura niba porogaramu ikora neza nk'uko byitezwe. Rifasha kuvumbura amakosa mbere yuko porogaramu ishyirwa ku mugaragaro. Hari ubwoko bubiri bw'ingenzi: igenzura ry'imbere aho bareba imiterere y'imbere, n'igenzura ry'inyuma aho bareba uko ibyo umukoresha abona bikora.",
+   "summary_en": "Software testing is the process of verifying that a software application works as expected. It helps detect errors before the software is released to the public. There are two main types: white-box testing which examines the internal code structure, and black-box testing which evaluates the functional behavior from the user's perspective.",
+   "keywords": [
+    "porogaramu",
+    "software",
+    "igenzura",
+    "testing",
+    "amakosa",
+    "bugs",
+    "ubwoko",
+    "types"
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_a1b7253a",
+   "category": "technology",
+   "title_rw": "Itumanaho ry'insinga za fiber optics",
+   "title_en": "Fiber optic communication basics",
+   "summary_rw": "Itumanaho ry'insinga za fiber optics rikoresha umucyo kugira ngo twoherereze amakuru y'amashusho n'amajwi ku muvini mwinshi cyane. Izi nsinga zikorwa mu kirahure cyiza cyane cyangwa se pulasitiki.",
+   "summary_en": "Fiber optic communication uses light to transmit data, voice, and video at very high speeds. These cables are typically made of high-purity glass or plastic.",
+   "keywords": [
+    "fiber",
+    "optics",
+    "umucyo",
+    "light",
+    "itumanaho",
+    "communication",
+    "amakuru",
+    "data"
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_5abae868",
+   "category": "technology",
+   "title_rw": "Gucunga imishinga mu buryo bwa Agile",
+   "title_en": "Agile project management",
+   "summary_rw": "Agile ni uburyo bwo gucunga imishinga bwibanda ku gukorera hamwe, kwakira impinduka, no gutanga umusaruro mu byiciro bigufi. Ubu buryo bufasha amatsinda kumenya ibibazo vuba no kubikemura.",
+   "summary_en": "Agile is a project management method that focuses on collaboration, welcoming changes, and delivering working results in short cycles. This approach helps teams identify issues quickly and resolve them.",
+   "keywords": [
+    "agile",
+    "imishinga",
+    "project",
+    "management",
+    "uburyo",
+    "teams",
+    "technology"
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_9bb28099",
+   "category": "technology",
+   "title_rw": "Ubwoko bw'ububiko bwa mudasobwa: RAM na ROM",
+   "title_en": "Computer memory types: RAM and ROM",
+   "summary_rw": "Mudasobwa ikoresha ububiko bwa RAM na ROM. RAM ibika amakuru by'agateganyo igihe mudasobwa iri gukora kandi irazimira iyo mudasobwa izimye. ROM yo ibika amakuru y'ingenzi mu buryo buhoraho adashobora gusibwa n'ubonetse wese. Ububiko bwombi bufasha mudasobwa gukora neza.",
+   "summary_en": "Computers use RAM and ROM memory types. RAM temporarily stores data while the computer is running and is cleared when power is turned off. ROM permanently stores essential system instructions that are not easily modified. Both types work together for computer operation.",
+   "keywords": [
+    "mudasobwa",
+    "computer",
+    "ububiko",
+    "memory",
+    "ram",
+    "rom",
+    "ikoranabuhanga",
+    "technology"
    ],
    "auto": true,
    "taught": "2026-11-21"
