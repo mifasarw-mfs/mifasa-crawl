@@ -1,7 +1,68 @@
 {
  "day": "2026-11-21",
- "count": 45,
+ "count": 48,
  "articles": [
+  {
+   "id": "crawl_vjkwqv",
+   "title": "Fifpro criticises Bayern Munich for Musiala comments",
+   "summary": "Football players' union Fifpro says it is concerned by German club Bayern Munich's comments about Jamal Musiala's contract.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c9x2evr1rg85o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c9x2evr1rg85o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T17:43:44.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4348/live/f6872900-e5cf-11f1-a738-4787e1a18cce.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4348/live/f6872900-e5cf-11f1-a738-4787e1a18cce.jpg",
+   "title_en": "Fifpro criticises Bayern Munich for Musiala comments",
+   "summary_en": "Football players' union Fifpro says it is concerned by German club Bayern Munich's comments about Jamal Musiala's contract.",
+   "share_id": "MN202611_vjkwqvcu5h"
+  },
+  {
+   "id": "crawl_158rczn",
+   "title": "Leeds 'created piece of history' in Chelsea win - Farke",
+   "summary": "Leeds United manager Daniel Farke is delighted his side \"created a piece of history\" following their 4-1 win against Chelsea, their first at Stamford Bridge since 1999.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmwy5ddwnygqo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cmwy5ddwnygqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T17:42:14.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c186/live/18b230e0-e5d2-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c186/live/18b230e0-e5d2-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Leeds 'created piece of history' in Chelsea win - Farke",
+   "summary_en": "Leeds United manager Daniel Farke is delighted his side \"created a piece of history\" following their 4-1 win against Chelsea, their first at Stamford Bridge since 1999.",
+   "share_id": "MN202611_158rczn4ogx"
+  },
+  {
+   "id": "crawl_1e15tsi",
+   "title": "Angola Opens U$20M Gold Refinery",
+   "summary": "Taarifa Business Desk has established that the Republic of Angola has opened its first gold refinery estimated at a cost of U$20.7 million. Reports also indicate that the facility is built and fully funded by the state-owned company ENDIAMA, at the Viana Industrial Hub in Luanda. The refinery can process up to 25 kilograms of […] The post Angola Opens U$20M Gold Refinery appeared first on Taarifa…",
+   "link": "https://taarifa.rw/2026/11/21/angola-opens-u20m-gold-refinery/",
+   "url": "https://taarifa.rw/2026/11/21/angola-opens-u20m-gold-refinery/",
+   "date": "2026-11-21T17:11:53.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "Business"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Angola-Opens-First-Gold-Refinery-With-25kg-Daily-Capaci.jpg?fit=1280%2C853&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Angola-Opens-First-Gold-Refinery-With-25kg-Daily-Capaci.jpg?fit=1280%2C853&ssl=1",
+   "title_en": "Angola Opens U$20M Gold Refinery",
+   "summary_en": "Taarifa Business Desk has established that the Republic of Angola has opened its first gold refinery estimated at a cost of U$20.7 million. Reports also indicate that the facility is built and fully funded by the state-owned company ENDIAMA, at the Viana Industrial Hub in Luanda. The refinery can process up to 25 kilograms of […] The post Angola Opens U$20M Gold Refinery appeared first on Taarifa…",
+   "share_id": "MN202611_1e15tsitrjk"
+  },
   {
    "id": "crawl_6r6nm9",
    "title": "Hormuz swim highlights environmental cost of war",
@@ -917,5 +978,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T16:28:10.349Z"
+ "updated": "2026-11-21T17:52:04.329Z"
 }
