@@ -1,7 +1,27 @@
 {
  "day": "2026-11-21",
- "count": 44,
+ "count": 45,
  "articles": [
+  {
+   "id": "crawl_6r6nm9",
+   "title": "Hormuz swim highlights environmental cost of war",
+   "summary": "Ocean campaigner Lewis Pugh completes Hormuz challenge and warns of lasting environmental damage.",
+   "link": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T16:12:31.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af51/live/b6455810-e5c2-11f1-a188-ff49e70cc466.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af51/live/b6455810-e5c2-11f1-a188-ff49e70cc466.jpg",
+   "title_en": "Hormuz swim highlights environmental cost of war",
+   "summary_en": "Ocean campaigner Lewis Pugh completes Hormuz challenge and warns of lasting environmental damage.",
+   "share_id": "MN202611_6r6nm9zk33"
+  },
   {
    "id": "crawl_1gwqmey",
    "title": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
@@ -897,5 +917,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T16:13:38.865Z"
+ "updated": "2026-11-21T16:28:10.349Z"
 }
