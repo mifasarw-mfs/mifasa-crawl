@@ -1,7 +1,47 @@
 {
  "day": "2026-11-21",
- "count": 22,
+ "count": 24,
  "articles": [
+  {
+   "id": "crawl_9wvy17",
+   "title": "Zelensky avuga ko Putin ari 'umwicanyi' nyuma yuko Trump yise Perezida w'Uburusiya inshuti",
+   "summary": "Muri iki cyumweru, Trump yasuhuje Putin mbere y'inama yabereye mu Bushinwa ndetse avuga ko bombi bafitanye \"umubano mwiza cyane\".",
+   "link": "https://www.bbc.com/gahuza/articles/cwe894y4le5ro?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/cwe894y4le5ro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T08:39:29.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eb4b/live/a3de3ec0-e57d-11f1-81d8-f55c801923bb.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eb4b/live/a3de3ec0-e57d-11f1-81d8-f55c801923bb.jpg",
+   "title_rw": "Zelensky avuga ko Putin ari 'umwicanyi' nyuma yuko Trump yise Perezida w'Uburusiya inshuti",
+   "summary_rw": "Muri iki cyumweru, Trump yasuhuje Putin mbere y'inama yabereye mu Bushinwa ndetse avuga ko bombi bafitanye \"umubano mwiza cyane\".",
+   "share_id": "MN202611_9wvy17oui1"
+  },
+  {
+   "id": "crawl_tbarj3",
+   "title": "Trafalgar Square Christmas tree felled in Norway",
+   "summary": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
+   "link": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T08:10:03.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6390/live/3985e760-e52a-11f1-964d-a1d5fe40573e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6390/live/3985e760-e52a-11f1-964d-a1d5fe40573e.jpg",
+   "title_en": "Trafalgar Square Christmas tree felled in Norway",
+   "summary_en": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
+   "share_id": "MN202611_tbarj33nzx"
+  },
   {
    "id": "crawl_1nag3aq",
    "title": "The Chelsea loanee turning heads and Championship defenders at 17",
@@ -443,5 +483,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T08:38:24.087Z"
+ "updated": "2026-11-21T09:13:23.954Z"
 }
