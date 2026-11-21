@@ -5948,6 +5948,150 @@
    ],
    "auto": true,
    "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_52e88985_q",
+   "label_rw": "Kwitaho ibikomere byoroheje",
+   "label_en": "Basic wound care",
+   "patterns_en": [
+    "How do you clean a minor wound?",
+    "What should you do before treating a wound?",
+    "Why is it important to change a wound bandage?"
+   ],
+   "patterns_rw": [
+    "Nigute wakura igikomere cyoroheje?",
+    "Ese wakora iki mbere yo kuvura igikomere?",
+    "Kuki ari ngombwa guhindura igitambaro gipfutse igikomere?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kwitaho igikomere cyoroheje bifasha mu gukira vuba no kwirinda ubwandu. Oza intoki mbere yo gukora ku gikomere. Sukura igikomere ukoresha amazi n'isabune. Shyiraho umuti wica mikorobe niba uhari. Pfukira igikomere n'igitambaro gisukuye. Hindura icyo gitambaro buri munsi cyangwa iyo gitose.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Basic wound care helps ensure quick healing and prevents infection. Wash your hands before touching the wound. Clean the wound using clean water and soap. Apply an antiseptic ointment if available. Cover the wound with a clean bandage. Change the bandage daily or whenever it becomes wet.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_86a16f53_q",
+   "label_rw": "Kumenya ibimenyetso by'asima",
+   "label_en": "Recognizing signs of asthma",
+   "patterns_en": [
+    "What are the signs of asthma?",
+    "What triggers asthma?",
+    "How do you know you have asthma?"
+   ],
+   "patterns_rw": [
+    "Ni ibihe bimenyetso by'asima?",
+    "Ni iki gitera asima?",
+    "Wamenya ute ko ufite asima?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Asima ni indwara y'ubuhumekero iterwa no gufata kw'inzira z'umwuka. Ibimenyetso bisanzwe birimo inkorora, guhumeka nabi, kumva uburemere mu gatuza, no guhumeka havuga urusaku. Ibi bimenyetso bishobora guterwa n'ubakonje, ivumbi, cyangwa imyitozo ngororamubiri.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Asthma is a respiratory condition caused by airway constriction. Common signs usually include coughing, shortness of breath, chest tightness, and wheezing. These symptoms can be triggered by cold air, dust, or physical exercise.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_d8501bbc_q",
+   "label_rw": "Kurinda uruhu izuba",
+   "label_en": "Sun protection for skin health",
+   "patterns_en": [
+    "How can I protect my skin from the sun?",
+    "How does sunscreen work?",
+    "What are the risks of excessive sun exposure?"
+   ],
+   "patterns_rw": [
+    "Ni gute nakwirinda izuba?",
+    "Amavuta arinda izuba akora ate?",
+    "Ese izuba ryinshi ryateza iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gukoresha amavuta arinda izuba no kwambara imyenda ikinga bifasha kurinda uruhu ingaruka mbi ziterwa na UV. Izuba ryinshi rishobora gutera kanseri y'uruhu no gusaza vuba. Ni byiza kwirinda izuba rishyushye cyane hagati ya saa sita n'isasu.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Using sunscreen and wearing protective clothing helps shield the skin from harmful UV rays. Excessive sun exposure can cause skin cancer and premature aging. It is best to avoid intense sunlight, usually between midday and mid-afternoon.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_d9f8892b_q",
+   "label_rw": "Ubwivumbure bw'umubiri ku biribwa",
+   "label_en": "Food allergies",
+   "patterns_en": [
+    "What causes food allergies?",
+    "What are common foods that cause allergies?",
+    "How can food allergies be managed?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera ubwivumbure bw'umubiri ku biribwa?",
+    "Ni ibihe biribwa bisanzwe bitera ubwivumbure?",
+    "Twirinda dute ubwivumbure bw'umubiri ku biribwa?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubwivumbure bw'umubiri ku biribwa biterwa n'uko ubwirinzi bw'umubiri bufata bimwe mu biryo nk'ibibi. Ibi bishobora gutera ibimenyetso nko kubyimba, kurwara munda cyangwa guhumeka nabi. Bimwe mu biribwa bisanzwe bitera ubu bwivumbure ni amata, amagi n'ubunyobwa. Uburyo bwiza bwo kubyirinda ni ukwirinda ibyo biribwa.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Food allergies occur when the body's immune system mistakenly treats certain food proteins as harmful. This can trigger symptoms such as swelling, digestive issues, or breathing difficulties. Common triggers include milk, eggs, and peanuts. The primary way to manage a food allergy is strict avoidance of the allergen.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_a254ffaa_q",
+   "label_rw": "Kubika imiti neza mu rugo",
+   "label_en": "Safe storage of medicines at home",
+   "patterns_en": [
+    "Where is the best place to store medicines at home?",
+    "How can we prevent children from accessing medicines?",
+    "What should be checked before using any medication?"
+   ],
+   "patterns_rw": [
+    "Ni hehe hiza ho kubika imiti mu rugo?",
+    "Twakumira gute ko abana bafata imiti?",
+    "Ni iki cyitonderwa mbere yo gukoresha umuti?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imiti igomba kubikwa ahantu humye kandi hakonje. Ntuzayibike mu bwiherero cyangwa aho izuba ryica. Shyira imiti kure y'abana n'amatungo. Reba igihe cy'uko imiti yarangije igihe mbere yo kuyikoresha.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Medicines should be stored in a cool and dry place. Do not store them in bathrooms or direct sunlight. Keep all medications out of reach of children and pets. Always check expiration dates before use.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_4766325f_q",
+   "label_rw": "Akamaro ko kwisuzumisha ubuzima buri gihe",
+   "label_en": "Importance of regular health check-ups",
+   "patterns_en": [
+    "Why are regular health check-ups important?",
+    "How do health check-ups help?",
+    "When should someone get a check-up?"
+   ],
+   "patterns_rw": [
+    "Kuki kwisuzumisha ubuzima buri gihe ari ingenzi?",
+    "Ese kwisuzumisha bifasha mu ki?",
+    "Ni ryiza kwisuzumisha ubuzima?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kwisuzumisha ubuzima buri gihe bifasha mu kumenya indwara hakiri kare. Bituma abaganga batanga ubuvuzi bwihuse. Ibi bigabanya ibyago byo kuremba kandi bituma abantu bagira ubuzima bwiza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Regular health check-ups help detect diseases early. They allow doctors to provide timely treatment. This reduces the risk of severe illness and helps people maintain good health.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
   }
  ],
  "knowledge": [
@@ -10843,6 +10987,126 @@
     "body",
     "ubuzima",
     "health"
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_52e88985",
+   "category": "health",
+   "title_rw": "Kwitaho ibikomere byoroheje",
+   "title_en": "Basic wound care",
+   "summary_rw": "Kwitaho igikomere cyoroheje bifasha mu gukira vuba no kwirinda ubwandu. Oza intoki mbere yo gukora ku gikomere. Sukura igikomere ukoresha amazi n'isabune. Shyiraho umuti wica mikorobe niba uhari. Pfukira igikomere n'igitambaro gisukuye. Hindura icyo gitambaro buri munsi cyangwa iyo gitose.",
+   "summary_en": "Basic wound care helps ensure quick healing and prevents infection. Wash your hands before touching the wound. Clean the wound using clean water and soap. Apply an antiseptic ointment if available. Cover the wound with a clean bandage. Change the bandage daily or whenever it becomes wet.",
+   "keywords": [
+    "igikomere",
+    "wounds",
+    "isuku",
+    "hygiene",
+    "ubwandu",
+    "infection",
+    "amazi",
+    "water"
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_86a16f53",
+   "category": "health",
+   "title_rw": "Kumenya ibimenyetso by'asima",
+   "title_en": "Recognizing signs of asthma",
+   "summary_rw": "Asima ni indwara y'ubuhumekero iterwa no gufata kw'inzira z'umwuka. Ibimenyetso bisanzwe birimo inkorora, guhumeka nabi, kumva uburemere mu gatuza, no guhumeka havuga urusaku. Ibi bimenyetso bishobora guterwa n'ubakonje, ivumbi, cyangwa imyitozo ngororamubiri.",
+   "summary_en": "Asthma is a respiratory condition caused by airway constriction. Common signs usually include coughing, shortness of breath, chest tightness, and wheezing. These symptoms can be triggered by cold air, dust, or physical exercise.",
+   "keywords": [
+    "asima",
+    "asthma",
+    "ubuhumekero",
+    "respiratory",
+    "inkorora",
+    "cough",
+    "uburemere",
+    "chest"
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_d8501bbc",
+   "category": "health",
+   "title_rw": "Kurinda uruhu izuba",
+   "title_en": "Sun protection for skin health",
+   "summary_rw": "Gukoresha amavuta arinda izuba no kwambara imyenda ikinga bifasha kurinda uruhu ingaruka mbi ziterwa na UV. Izuba ryinshi rishobora gutera kanseri y'uruhu no gusaza vuba. Ni byiza kwirinda izuba rishyushye cyane hagati ya saa sita n'isasu.",
+   "summary_en": "Using sunscreen and wearing protective clothing helps shield the skin from harmful UV rays. Excessive sun exposure can cause skin cancer and premature aging. It is best to avoid intense sunlight, usually between midday and mid-afternoon.",
+   "keywords": [
+    "uruhu",
+    "skin",
+    "izuba",
+    "sun",
+    "amavuta",
+    "sunscreen",
+    "ubuzima",
+    "health"
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_d9f8892b",
+   "category": "health",
+   "title_rw": "Ubwivumbure bw'umubiri ku biribwa",
+   "title_en": "Food allergies",
+   "summary_rw": "Ubwivumbure bw'umubiri ku biribwa biterwa n'uko ubwirinzi bw'umubiri bufata bimwe mu biryo nk'ibibi. Ibi bishobora gutera ibimenyetso nko kubyimba, kurwara munda cyangwa guhumeka nabi. Bimwe mu biribwa bisanzwe bitera ubu bwivumbure ni amata, amagi n'ubunyobwa. Uburyo bwiza bwo kubyirinda ni ukwirinda ibyo biribwa.",
+   "summary_en": "Food allergies occur when the body's immune system mistakenly treats certain food proteins as harmful. This can trigger symptoms such as swelling, digestive issues, or breathing difficulties. Common triggers include milk, eggs, and peanuts. The primary way to manage a food allergy is strict avoidance of the allergen.",
+   "keywords": [
+    "ubwivumbure",
+    "ibiribwa",
+    "ubwirinzi",
+    "ubuzima",
+    "allergy",
+    "food",
+    "immune",
+    "health"
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_a254ffaa",
+   "category": "health",
+   "title_rw": "Kubika imiti neza mu rugo",
+   "title_en": "Safe storage of medicines at home",
+   "summary_rw": "Imiti igomba kubikwa ahantu humye kandi hakonje. Ntuzayibike mu bwiherero cyangwa aho izuba ryica. Shyira imiti kure y'abana n'amatungo. Reba igihe cy'uko imiti yarangije igihe mbere yo kuyikoresha.",
+   "summary_en": "Medicines should be stored in a cool and dry place. Do not store them in bathrooms or direct sunlight. Keep all medications out of reach of children and pets. Always check expiration dates before use.",
+   "keywords": [
+    "imiti",
+    "medicine",
+    "ubuzima",
+    "health",
+    "umutekano",
+    "safety",
+    "urugo",
+    "home"
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_4766325f",
+   "category": "health",
+   "title_rw": "Akamaro ko kwisuzumisha ubuzima buri gihe",
+   "title_en": "Importance of regular health check-ups",
+   "summary_rw": "Kwisuzumisha ubuzima buri gihe bifasha mu kumenya indwara hakiri kare. Bituma abaganga batanga ubuvuzi bwihuse. Ibi bigabanya ibyago byo kuremba kandi bituma abantu bagira ubuzima bwiza.",
+   "summary_en": "Regular health check-ups help detect diseases early. They allow doctors to provide timely treatment. This reduces the risk of severe illness and helps people maintain good health.",
+   "keywords": [
+    "ubuzima",
+    "health",
+    "kwisuzumisha",
+    "check-up",
+    "indwara",
+    "disease",
+    "abaganga",
+    "doctors"
    ],
    "auto": true,
    "taught": "2026-11-21"
