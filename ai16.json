@@ -6187,6 +6187,54 @@
    ],
    "auto": true,
    "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_26c28a52_q",
+   "label_rw": "Imitegekere ya Kera mu Rwanda",
+   "label_en": "Traditional Governance in Rwanda",
+   "patterns_en": [
+    "How was traditional governance structured in Rwanda?",
+    "What role did clans play in ancient Rwanda?",
+    "What was the basis of daily life in early Rwanda?"
+   ],
+   "patterns_rw": [
+    "Ubutegetsi bwa kera mu Rwanda bwari bwifashe gute?",
+    "Uruhare rw'imiryango rwari uruhe mu Rwanda rwo hambere?",
+    "Imibereho y'abanyarwanda ba kera yari ishingiye kuki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mu Rwanda rwo hambere, ubutegetsi bwari bushingiye kuwami n'abanyacyubahiro. Imiryango yari ifite uruhare runini mu mibereho no mu bukungu, cyane cyane mu bworozi n'ubuhinzi. Umuryango wari inzego z'ibanze zifatika mu guhuza abaturage.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "In traditional Rwanda, governance was centered around the king and nobles. Clans played a significant role in social life and the economy, particularly in cattle herding and agriculture. The family served as the foundational unit connecting citizens.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_b0bcda02_q",
+   "label_rw": "Imiturire mu Rwanda rwa Kera",
+   "label_en": "Traditional Rwandan Settlement Patterns",
+   "patterns_en": [
+    "What did traditional Rwandan houses look like?",
+    "How were settlements organized in ancient Rwanda?",
+    "What materials were used to build traditional houses?"
+   ],
+   "patterns_rw": [
+    "Amzu ya kera mu Rwanda yari yubatse ate?",
+    "Abaturage batuye bate mu Rwanda rwa kera?",
+    "Ni izihematerwa zakoreshwaga mu kubaka kera?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mu Rwanda rwa kera, abaturage batuye mu ngo zari zubatse mu bice bitandukanye by’icyaro. Amazu yari afite ishusho y’umuzingi kandi yubatswe mu bimera n’ibyatsi. Insisiro zategurwaga mu buryo buhuza imiryango. Ibi byagaragarizaga ubuzima bwiza n'ubumwe mu baturage.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "In traditional Rwanda, people lived in homesteads scattered across rural areas. Houses were typically circular and constructed using organic materials like grass and wooden poles. Settlements were organized to accommodate extended families, reflecting strong community ties and social unity.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
   }
  ],
  "knowledge": [
@@ -11281,6 +11329,45 @@
     "rom",
     "ikoranabuhanga",
     "technology"
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_26c28a52",
+   "category": "history",
+   "title_rw": "Imitegekere ya Kera mu Rwanda",
+   "title_en": "Traditional Governance in Rwanda",
+   "summary_rw": "Mu Rwanda rwo hambere, ubutegetsi bwari bushingiye kuwami n'abanyacyubahiro. Imiryango yari ifite uruhare runini mu mibereho no mu bukungu, cyane cyane mu bworozi n'ubuhinzi. Umuryango wari inzego z'ibanze zifatika mu guhuza abaturage.",
+   "summary_en": "In traditional Rwanda, governance was centered around the king and nobles. Clans played a significant role in social life and the economy, particularly in cattle herding and agriculture. The family served as the foundational unit connecting citizens.",
+   "keywords": [
+    "rwanda",
+    "amateka",
+    "history",
+    "umuco",
+    "culture",
+    "ubutegetsi",
+    "governance"
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_b0bcda02",
+   "category": "history",
+   "title_rw": "Imiturire mu Rwanda rwa Kera",
+   "title_en": "Traditional Rwandan Settlement Patterns",
+   "summary_rw": "Mu Rwanda rwa kera, abaturage batuye mu ngo zari zubatse mu bice bitandukanye by’icyaro. Amazu yari afite ishusho y’umuzingi kandi yubatswe mu bimera n’ibyatsi. Insisiro zategurwaga mu buryo buhuza imiryango. Ibi byagaragarizaga ubuzima bwiza n'ubumwe mu baturage.",
+   "summary_en": "In traditional Rwanda, people lived in homesteads scattered across rural areas. Houses were typically circular and constructed using organic materials like grass and wooden poles. Settlements were organized to accommodate extended families, reflecting strong community ties and social unity.",
+   "keywords": [
+    "imiturire",
+    "amazu",
+    "umuco",
+    "amateka",
+    "settlement",
+    "architecture",
+    "culture",
+    "history"
    ],
    "auto": true,
    "taught": "2026-11-21"
