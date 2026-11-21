@@ -6259,6 +6259,126 @@
    ],
    "auto": true,
    "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_15f02b17_q",
+   "label_rw": "Ubumenyi bw'isi n'amakarita",
+   "label_en": "Geography and map-reading skills",
+   "patterns_en": [
+    "What is taught in geography lessons?",
+    "Why do students learn to read maps?",
+    "What features on a map are interpreted?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyigishwa mu isomo ry'ubumenyi bw'isi?",
+    "Kuki abanyeshuri bigishwa gusoma amakarita?",
+    "Ni ibiki biba ku ikarita bisobanurwa?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubumenyi bw'isi n'amakarita byigishwa mu mashuri kugira ngo abanyeshuri bamenye aho ibintu biherereye ku isi. Ibyo birimo kwiga ibihugu, imisozi n'inzuzi. Abanyeshuri bigishwa uko basobanura ibimenyetso biri ku makarita no gukoresha icyerekezo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Geography and map-reading skills are taught in schools to help students understand the location of places on Earth. This includes learning about countries, mountains, and rivers. Students learn how to interpret map symbols and use direction.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_54c33134_q",
+   "label_rw": "Gukemura ibibazo by'imibare",
+   "label_en": "Mathematical problem solving",
+   "patterns_en": [
+    "Why is logical reasoning important in mathematics?",
+    "How can a person solve a math problem correctly?",
+    "How does mathematics help in daily life?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma imitekerereze ishingiye kuri gahuza ari ingenzi mu mibare?",
+    "Ni gute umuntu yakemura ikibazo cy'imibare neza?",
+    "Ese imibare ifasha ute mu buzima bwa buri munsi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gukemura ibibazo by'imibare bisaba imitekerereze ishingiye kuri gahuza n'ubushishozi. Bituma umuntu abasha gutahura inzira ikwiye yo kugera ku gisubizo nyacyo akoresheje amategeko n'ibimenyetso by'imibare.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Mathematical problem solving requires logical reasoning and analytical thinking. It enables a person to identify the appropriate path to reach the correct solution using mathematical rules and symbols.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_31e15a0d_q",
+   "label_rw": "Ubunyangamugayo mu Buzima bw'Umunyeshuri",
+   "label_en": "Moral Values and Integrity in Student Life",
+   "patterns_en": [
+    "What are moral values for a student?",
+    "Why is integrity important at school?",
+    "How does good behavior help in school?"
+   ],
+   "patterns_rw": [
+    "Ni izihe ndangagaciro zihari ku munyeshuri?",
+    "Kuki ubunyangamugayo ari bwo bwiza ku ishuri?",
+    "Ese kwitwara neza bifasha bite mu ishuri?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubunyangamugayo n'indangagaciro ni ngombwa mu buzima bw'umunyeshuri. Bituma umunyeshuri agira imyitwarire myiza ku ishuri no mu muryango. Kwitwara neza bifasha abanyeshuri gutsinda amasomo yabo no kubaka ejo hazaza heza. Amashuri yigisha abana kwirinda ibikorwa bibi nko gukopera.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Integrity and moral values are essential in student life. They help students develop good behavior at school and in the community. Good conduct helps students succeed in their studies and build a better future. Schools teach children to avoid bad practices such as cheating.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_a1679bb4_q",
+   "label_rw": "Ubusitani bw'ishuri",
+   "label_en": "School gardens",
+   "patterns_en": [
+    "How do school gardens help students?",
+    "What kind of produce can school gardens provide?",
+    "How is agricultural knowledge taught at school?"
+   ],
+   "patterns_rw": [
+    "Ubusitani bw'ishuri bufasha iki abanyeshuri?",
+    "Ese ubusitani bw'ishuri bushobora gutanga umusaruro ki?",
+    "Ni gute ubumenyi bw'ubuhinzi bwungikwa ku ishuri?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubusitani bw'ishuri bufasha abanyeshuri kwiga ubuhinzi binyuze mu bikorwa bifatika. Ibi bituma bamenya uburyo ibihingwa bikura n'akamaro kabyo. Byongeye kandi, bishobora gutanga umusaruro ufashe mu mirire y'abanyeshuri ku kigo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "School gardens help students learn agriculture through practical activities. This allows them to understand how crops grow and their importance. Furthermore, they can provide produce that helps improve student nutrition at the school.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_03047fd5_q",
+   "label_rw": "Inshingano z'abayobozi b'abanyeshuri",
+   "label_en": "Student Council Leadership Roles",
+   "patterns_en": [
+    "What are the roles of student leaders?",
+    "How do student councils help other students?",
+    "Why is student leadership important in schools?"
+   ],
+   "patterns_rw": [
+    "Ni izihe nshingano z'abayobozi b'abanyeshuri?",
+    "Ese abayobozi b'abanyeshuri bafasha bate abandi?",
+    "Kuki ubuyobozi bw'abanyeshuri ari bwiza ku ishuri?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Abayobozi b'abanyeshuri bafasha mu gutegura ibikorwa by'ishuri no kuvugira abandi. Bahuza abanyeshuri n'ubuyobozi bw'ikigo. Bigisha abanyeshuri kuyobora no gukorera hamwe.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Student leaders help organize school activities and advocate for their peers. They act as a bridge between students and school administration. These roles teach students leadership and teamwork skills.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
   }
  ],
  "knowledge": [
@@ -11411,6 +11531,106 @@
     "hemisphere",
     "earth",
     "climate"
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_15f02b17",
+   "category": "education",
+   "title_rw": "Ubumenyi bw'isi n'amakarita",
+   "title_en": "Geography and map-reading skills",
+   "summary_rw": "Ubumenyi bw'isi n'amakarita byigishwa mu mashuri kugira ngo abanyeshuri bamenye aho ibintu biherereye ku isi. Ibyo birimo kwiga ibihugu, imisozi n'inzuzi. Abanyeshuri bigishwa uko basobanura ibimenyetso biri ku makarita no gukoresha icyerekezo.",
+   "summary_en": "Geography and map-reading skills are taught in schools to help students understand the location of places on Earth. This includes learning about countries, mountains, and rivers. Students learn how to interpret map symbols and use direction.",
+   "keywords": [
+    "ubumenyi bw'isi",
+    "amakarita",
+    "amashuri",
+    "ibyerekezo",
+    "geography",
+    "maps",
+    "schools",
+    "directions"
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_54c33134",
+   "category": "education",
+   "title_rw": "Gukemura ibibazo by'imibare",
+   "title_en": "Mathematical problem solving",
+   "summary_rw": "Gukemura ibibazo by'imibare bisaba imitekerereze ishingiye kuri gahuza n'ubushishozi. Bituma umuntu abasha gutahura inzira ikwiye yo kugera ku gisubizo nyacyo akoresheje amategeko n'ibimenyetso by'imibare.",
+   "summary_en": "Mathematical problem solving requires logical reasoning and analytical thinking. It enables a person to identify the appropriate path to reach the correct solution using mathematical rules and symbols.",
+   "keywords": [
+    "imibare",
+    "gahuza",
+    "ubushishozi",
+    "igisubizo",
+    "mathematics",
+    "logic",
+    "reasoning",
+    "problem"
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_31e15a0d",
+   "category": "education",
+   "title_rw": "Ubunyangamugayo mu Buzima bw'Umunyeshuri",
+   "title_en": "Moral Values and Integrity in Student Life",
+   "summary_rw": "Ubunyangamugayo n'indangagaciro ni ngombwa mu buzima bw'umunyeshuri. Bituma umunyeshuri agira imyitwarire myiza ku ishuri no mu muryango. Kwitwara neza bifasha abanyeshuri gutsinda amasomo yabo no kubaka ejo hazaza heza. Amashuri yigisha abana kwirinda ibikorwa bibi nko gukopera.",
+   "summary_en": "Integrity and moral values are essential in student life. They help students develop good behavior at school and in the community. Good conduct helps students succeed in their studies and build a better future. Schools teach children to avoid bad practices such as cheating.",
+   "keywords": [
+    "ubunyangamugayo",
+    "integrity",
+    "umunyeshuri",
+    "student",
+    "indangagaciro",
+    "values",
+    "imyitwarire",
+    "behavior"
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_a1679bb4",
+   "category": "education",
+   "title_rw": "Ubusitani bw'ishuri",
+   "title_en": "School gardens",
+   "summary_rw": "Ubusitani bw'ishuri bufasha abanyeshuri kwiga ubuhinzi binyuze mu bikorwa bifatika. Ibi bituma bamenya uburyo ibihingwa bikura n'akamaro kabyo. Byongeye kandi, bishobora gutanga umusaruro ufashe mu mirire y'abanyeshuri ku kigo.",
+   "summary_en": "School gardens help students learn agriculture through practical activities. This allows them to understand how crops grow and their importance. Furthermore, they can provide produce that helps improve student nutrition at the school.",
+   "keywords": [
+    "ubusitani",
+    "ishuri",
+    "ubuhinzi",
+    "uburezi",
+    "school",
+    "garden",
+    "agriculture",
+    "education"
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_03047fd5",
+   "category": "education",
+   "title_rw": "Inshingano z'abayobozi b'abanyeshuri",
+   "title_en": "Student Council Leadership Roles",
+   "summary_rw": "Abayobozi b'abanyeshuri bafasha mu gutegura ibikorwa by'ishuri no kuvugira abandi. Bahuza abanyeshuri n'ubuyobozi bw'ikigo. Bigisha abanyeshuri kuyobora no gukorera hamwe.",
+   "summary_en": "Student leaders help organize school activities and advocate for their peers. They act as a bridge between students and school administration. These roles teach students leadership and teamwork skills.",
+   "keywords": [
+    "abayobozi",
+    "abanyeshuri",
+    "ubuyobozi",
+    "ishuri",
+    "leaders",
+    "student",
+    "council",
+    "school"
    ],
    "auto": true,
    "taught": "2026-11-21"
