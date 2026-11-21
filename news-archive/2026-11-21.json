@@ -1,7 +1,27 @@
 {
  "day": "2026-11-21",
- "count": 74,
+ "count": 77,
  "articles": [
+  {
+   "id": "crawl_5mizak",
+   "title": "Match of the Day",
+   "summary": "Highlights from seven Premier League games, including leaders Arsenal at Newcastle.",
+   "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T22:32:25.703Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp2xtf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp2xtf.jpg",
+   "title_en": "Match of the Day",
+   "summary_en": "Highlights from seven Premier League games, including leaders Arsenal at Newcastle.",
+   "share_id": "MN202611_5mizakt7d6"
+  },
   {
    "id": "crawl_pog5i6",
    "title": "Indege ya FARDC yarashe na Radiyo y'abaturage",
@@ -24,6 +44,26 @@
    "title_rw": "Indege ya FARDC yarashe na Radiyo y'abaturage",
    "summary_rw": "Ibitero by’indege z’ingabo za Leta ya Repubulika ya Demokarasi ya Congo ndetse n’abo bafatanyije bikomeje kwibasira uduce turimo abasivili gusa, zikabikora zirenze ku masezerano y’agahenge, aho (…)",
    "share_id": "MN202611_pog5i6kav0"
+  },
+  {
+   "id": "crawl_u3jcwa",
+   "title": "Lock of former US President George Washington's hair sells for $4,000",
+   "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+   "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T22:01:19.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5138/live/c4d4d0c0-e5ec-11f1-ad4d-5dd9d517a6dd.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5138/live/c4d4d0c0-e5ec-11f1-ad4d-5dd9d517a6dd.jpg",
+   "title_en": "Lock of former US President George Washington's hair sells for $4,000",
+   "summary_en": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+   "share_id": "MN202611_u3jcwac9d4"
   },
   {
    "id": "crawl_8kvobi",
@@ -432,6 +472,26 @@
    "title_rw": "Huye: Abagore bagize 58.8% by'abagize inama njyanama",
    "summary_rw": "Amatora y’abajyanama rusange b’Akarere ka Huye yabaye kuri uyu wa 21 Ugushyingo 2026, asize inama njyanama yo muri aka Karere igizwe ahanini n’abagore kuko ubwabo ari 58.8% (abajyanama b’abagore (…)",
    "share_id": "MN202611_ew79uaiqwg"
+  },
+  {
+   "id": "crawl_10qyylw",
+   "title": "Ireland beat world champions South Africa in thriller",
+   "summary": "Ireland exact revenge on world champions South Africa with a thrilling win in Dublin after England's victory over New Zealand dashes Andy Farrell's side's hopes of reaching next weekend's Nations Championship final.",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqe9k2v4xjeko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqe9k2v4xjeko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T18:46:29.000Z",
+   "source": "BBC Sport Africa",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Sport Africa",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8675/live/10c6f970-e5db-11f1-9ab8-8737221634d6.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8675/live/10c6f970-e5db-11f1-9ab8-8737221634d6.jpg",
+   "title_en": "Ireland beat world champions South Africa in thriller",
+   "summary_en": "Ireland exact revenge on world champions South Africa with a thrilling win in Dublin after England's victory over New Zealand dashes Andy Farrell's side's hopes of reaching next weekend's Nations Championship final.",
+   "share_id": "MN202611_10qyylwnkya"
   },
   {
    "id": "crawl_uohpto",
@@ -1509,5 +1569,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T22:08:42.682Z"
+ "updated": "2026-11-21T22:33:20.089Z"
 }

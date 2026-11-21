@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_5mizak",
+  "title": "Match of the Day",
+  "summary": "Highlights from seven Premier League games, including leaders Arsenal at Newcastle.",
+  "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-21T22:32:25.703Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp2xtf.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp2xtf.jpg",
+  "title_en": "Match of the Day",
+  "summary_en": "Highlights from seven Premier League games, including leaders Arsenal at Newcastle.",
+  "share_id": "MN202611_5mizakt7d6"
+ },
+ {
   "id": "crawl_pog5i6",
   "title": "Indege ya FARDC yarashe na Radiyo y'abaturage",
   "summary": "Ibitero by’indege z’ingabo za Leta ya Repubulika ya Demokarasi ya Congo ndetse n’abo bafatanyije bikomeje kwibasira uduce turimo abasivili gusa, zikabikora zirenze ku masezerano y’agahenge, aho (…)",
@@ -21,6 +41,26 @@
   "title_rw": "Indege ya FARDC yarashe na Radiyo y'abaturage",
   "summary_rw": "Ibitero by’indege z’ingabo za Leta ya Repubulika ya Demokarasi ya Congo ndetse n’abo bafatanyije bikomeje kwibasira uduce turimo abasivili gusa, zikabikora zirenze ku masezerano y’agahenge, aho (…)",
   "share_id": "MN202611_pog5i6kav0"
+ },
+ {
+  "id": "crawl_u3jcwa",
+  "title": "Lock of former US President George Washington's hair sells for $4,000",
+  "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+  "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-21T22:01:19.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5138/live/c4d4d0c0-e5ec-11f1-ad4d-5dd9d517a6dd.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5138/live/c4d4d0c0-e5ec-11f1-ad4d-5dd9d517a6dd.jpg",
+  "title_en": "Lock of former US President George Washington's hair sells for $4,000",
+  "summary_en": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+  "share_id": "MN202611_u3jcwac9d4"
  },
  {
   "id": "crawl_8kvobi",
@@ -507,6 +547,26 @@
   "title_rw": "Huye: Abagore bagize 58.8% by'abagize inama njyanama",
   "summary_rw": "Amatora y’abajyanama rusange b’Akarere ka Huye yabaye kuri uyu wa 21 Ugushyingo 2026, asize inama njyanama yo muri aka Karere igizwe ahanini n’abagore kuko ubwabo ari 58.8% (abajyanama b’abagore (…)",
   "share_id": "MN202611_ew79uaiqwg"
+ },
+ {
+  "id": "crawl_10qyylw",
+  "title": "Ireland beat world champions South Africa in thriller",
+  "summary": "Ireland exact revenge on world champions South Africa with a thrilling win in Dublin after England's victory over New Zealand dashes Andy Farrell's side's hopes of reaching next weekend's Nations Championship final.",
+  "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqe9k2v4xjeko?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqe9k2v4xjeko?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-21T18:46:29.000Z",
+  "source": "BBC Sport Africa",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Sport Africa",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8675/live/10c6f970-e5db-11f1-9ab8-8737221634d6.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8675/live/10c6f970-e5db-11f1-9ab8-8737221634d6.jpg",
+  "title_en": "Ireland beat world champions South Africa in thriller",
+  "summary_en": "Ireland exact revenge on world champions South Africa with a thrilling win in Dublin after England's victory over New Zealand dashes Andy Farrell's side's hopes of reaching next weekend's Nations Championship final.",
+  "share_id": "MN202611_10qyylwnkya"
  },
  {
   "id": "crawl_uohpto",
@@ -2952,21 +3012,21 @@
  },
  {
   "id": "crawl_1y30car",
-  "title": "'No-one is going to break us' - Kolisi defiant as Boks face Ireland without Erasmus",
+  "title": "'No-one is going to break us' - defiant Boks face Ireland without Erasmus",
   "summary": "South Africa prepare to face Ireland in a much-anticipated Nations Championship Test in Dublin without banned head coach Rassie Erasmus.",
   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm930nj435dvo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm930nj435dvo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-20T16:28:47.000Z",
-  "source": "BBC Sport Africa",
-  "category": "sports",
+  "source": "BBC Africa",
+  "category": "news",
   "lang": "en",
   "keywords": [
-   "BBC Sport Africa",
-   "sports"
+   "BBC Africa",
+   "news"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c16/live/39a07c70-e4f7-11f1-a8e4-b1e12a49db15.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c16/live/39a07c70-e4f7-11f1-a8e4-b1e12a49db15.jpg",
-  "title_en": "'No-one is going to break us' - Kolisi defiant as Boks face Ireland without Erasmus",
+  "title_en": "'No-one is going to break us' - defiant Boks face Ireland without Erasmus",
   "summary_en": "South Africa prepare to face Ireland in a much-anticipated Nations Championship Test in Dublin without banned head coach Rassie Erasmus.",
   "share_id": "MN202611_1y30caroyn5"
  },
@@ -17035,75 +17095,5 @@
   "title_en": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
   "summary_en": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
   "share_id": "MN202611_qjhq68amn2"
- },
- {
-  "id": "crawl_1it7s3g",
-  "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-  "summary": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
-  "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-15T22:30:03.000Z",
-  "source": "BBC Business",
-  "category": "business",
-  "lang": "en",
-  "keywords": [
-   "BBC Business",
-   "business"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/283e/live/4753f640-e1ae-11f1-b0a4-450a350911f4.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/283e/live/4753f640-e1ae-11f1-b0a4-450a350911f4.jpg",
-  "title_en": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-  "summary_en": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
-  "share_id": "MN202611_1it7s3g0oka"
- },
- {
-  "id": "crawl_xtb3v",
-  "title": "Police ban protests near 10 schools and five universities in Paris",
-  "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
-  "link": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-15T22:28:54.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff1f/live/556dd490-e13a-11f1-9d9b-d15c0ae9fc2e.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff1f/live/556dd490-e13a-11f1-9d9b-d15c0ae9fc2e.jpg",
-  "title_en": "Police ban protests near 10 schools and five universities in Paris",
-  "summary_en": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
-  "share_id": "MN202611_xtb3vq9jt"
- },
- {
-  "id": "crawl_cw5j7d",
-  "title": "I Downloaded GTA 6!",
-  "summary": "Today I finally downloaded GTA 6. Make sure you watch the whole video to find out what happens. Mini Figures: https://www.target.com/p/caylus-vs-foltyn-mystery-figures/-/A-95041893 6\" Plush: https://www.target.com/p/caylus-vs-foltyn-12-34-mystery-plush-toy/-/A-95041894 Merch: https://foltyn.shop/ Join this channel to get access to perks: https://www.youtube.com/channel/UCRkuUgtDAL4XSU5jB40J_wA/joi",
-  "link": "https://www.youtube.com/watch?v=aJMoKGmLos0",
-  "url": "https://www.youtube.com/watch?v=aJMoKGmLos0",
-  "date": "2026-11-15T22:27:59.000Z",
-  "source": "YouTube Trending Kenya",
-  "category": "entertainment",
-  "lang": "en",
-  "keywords": [
-   "YouTube Trending Kenya",
-   "entertainment",
-   "trending",
-   "opening 1000 lucky blocks in gta 5",
-   "foltyn",
-   "foltyn roblox",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "aJMoKGmLos0"
-  },
-  "type": "video",
-  "image": "https://i.ytimg.com/vi/aJMoKGmLos0/hqdefault.jpg",
-  "thumbnail": "https://i.ytimg.com/vi/aJMoKGmLos0/hqdefault.jpg",
-  "title_en": "I Downloaded GTA 6!",
-  "summary_en": "Today I finally downloaded GTA 6. Make sure you watch the whole video to find out what happens. Mini Figures: https://www.target.com/p/caylus-vs-foltyn-mystery-figures/-/A-95041893 6\" Plush: https://www.target.com/p/caylus-vs-foltyn-12-34-mystery-plush-toy/-/A-95041894 Merch: https://foltyn.shop/ Join this channel to get access to perks: https://www.youtube.com/channel/UCRkuUgtDAL4XSU5jB40J_wA/joi",
-  "share_id": "MN202611_cw5j7d5o0n"
  }
 ]
