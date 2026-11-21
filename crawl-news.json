@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_jz869",
+  "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+  "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
+  "link": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-21T01:02:39.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b187/live/6d4c58d0-e42c-11f1-a630-a951c13e48b7.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b187/live/6d4c58d0-e42c-11f1-a630-a951c13e48b7.jpg",
+  "title_en": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+  "summary_en": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
+  "share_id": "MN202611_jz869w6m7"
+ },
+ {
   "id": "crawl_ewb1ip",
   "title": "Tech Now",
   "summary": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
@@ -2571,12 +2591,12 @@
   "link": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-20T05:59:56.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Science",
+  "category": "science",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Science",
+   "science"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca5/live/034a6cb0-e4c7-11f1-a094-5fdc692f3e33.png",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca5/live/034a6cb0-e4c7-11f1-a094-5fdc692f3e33.png",
@@ -17082,31 +17102,5 @@
   "title_en": "Mental health is no joke - but I've turned it into a stand-up routine",
   "summary_en": "People who have struggled with mental ill-health are giving stand-up a go to tell their stories.",
   "share_id": "MN202611_rr3o8gwkpa"
- },
- {
-  "id": "crawl_1ihtipw",
-  "title": "AKAMARO K'URUVANGE RWA TANGAWIZI N'UBUKI NK'UMUTI W'INDWARA ZIRENGA 10",
-  "summary": "#dashdashyogacenter SOBANUKIRWA AKAMARO KA TANGAWIZI N'UBUKI BIVANZE MU GUSIGASIRA AMAGARA YA MWENEMUNTU N'UBURYO ARI UMUTI UKOMEYE CYANE WO KURWANYA INDWARA YA ASIMA.",
-  "link": "https://www.youtube.com/watch?v=8nn8htCf8_g",
-  "url": "https://www.youtube.com/watch?v=8nn8htCf8_g",
-  "date": "2026-11-15T06:38:09.000Z",
-  "source": "Dash Dash TV YouTube",
-  "category": "entertainment",
-  "lang": "rw",
-  "keywords": [
-   "Dash Dash TV YouTube",
-   "entertainment",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "8nn8htCf8_g"
-  },
-  "type": "video",
-  "image": "https://i1.ytimg.com/vi/8nn8htCf8_g/hqdefault.jpg",
-  "thumbnail": "https://i1.ytimg.com/vi/8nn8htCf8_g/hqdefault.jpg",
-  "title_rw": "AKAMARO K'URUVANGE RWA TANGAWIZI N'UBUKI NK'UMUTI W'INDWARA ZIRENGA 10",
-  "summary_rw": "#dashdashyogacenter SOBANUKIRWA AKAMARO KA TANGAWIZI N'UBUKI BIVANZE MU GUSIGASIRA AMAGARA YA MWENEMUNTU N'UBURYO ARI UMUTI UKOMEYE CYANE WO KURWANYA INDWARA YA ASIMA.",
-  "share_id": "MN202611_1ihtipwplk2"
  }
 ]

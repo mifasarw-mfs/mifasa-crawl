@@ -1,7 +1,27 @@
 {
  "day": "2026-11-21",
- "count": 6,
+ "count": 7,
  "articles": [
+  {
+   "id": "crawl_jz869",
+   "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+   "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
+   "link": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T01:02:39.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b187/live/6d4c58d0-e42c-11f1-a630-a951c13e48b7.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b187/live/6d4c58d0-e42c-11f1-a630-a951c13e48b7.jpg",
+   "title_en": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+   "summary_en": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
+   "share_id": "MN202611_jz869w6m7"
+  },
   {
    "id": "crawl_ewb1ip",
    "title": "Tech Now",
@@ -123,5 +143,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T01:25:52.325Z"
+ "updated": "2026-11-21T02:01:19.465Z"
 }
