@@ -1,7 +1,67 @@
 {
  "day": "2026-11-21",
- "count": 67,
+ "count": 70,
  "articles": [
+  {
+   "id": "crawl_1z0v2aa",
+   "title": "AC Milan monitoring Man Utd's Fernandes - Sunday's gossip",
+   "summary": "AC Milan monitoring Manchester United midfielder Bruno Fernandes, Arsenal pair yet to start talks on new deals and Trabzonspor renew interest in Tottenham forward Richarlison, plus more.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq8j4e8nlvm1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cq8j4e8nlvm1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T20:35:12.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a72/live/543c3860-e5da-11f1-99a1-253766e7ad8b.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a72/live/543c3860-e5da-11f1-99a1-253766e7ad8b.png",
+   "title_en": "AC Milan monitoring Man Utd's Fernandes - Sunday's gossip",
+   "summary_en": "AC Milan monitoring Manchester United midfielder Bruno Fernandes, Arsenal pair yet to start talks on new deals and Trabzonspor renew interest in Tottenham forward Richarlison, plus more.",
+   "share_id": "MN202611_1z0v2aamzow"
+  },
+  {
+   "id": "crawl_1d7iwfr",
+   "title": "'We lost two points' - Arteta on 'unacceptable' Newcastle draw",
+   "summary": "Arsenal manager Mikel Arteta says his side squandered the chance to take all three points after their 2-2 draw against Newcastle United at St James' Park. The result sees the reigning Premier League champions go six points clear at the top of the table.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ck1wrdd9ew11o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/ck1wrdd9ew11o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T20:30:50.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd03/live/b44acb50-e5e8-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd03/live/b44acb50-e5e8-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "'We lost two points' - Arteta on 'unacceptable' Newcastle draw",
+   "summary_en": "Arsenal manager Mikel Arteta says his side squandered the chance to take all three points after their 2-2 draw against Newcastle United at St James' Park. The result sees the reigning Premier League champions go six points clear at the top of the table.",
+   "share_id": "MN202611_1d7iwfrw7x1"
+  },
+  {
+   "id": "crawl_m0mizq",
+   "title": "Nine wins in a row - Bournemouth & Evanilson continue to make history",
+   "summary": "With a ninth successive win, Bournemouth continue to make history under new manager Marco Rose.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6p9d102k4mdo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6p9d102k4mdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T20:07:56.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab8/live/8d13ad90-e5e3-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab8/live/8d13ad90-e5e3-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Nine wins in a row - Bournemouth & Evanilson continue to make history",
+   "summary_en": "With a ninth successive win, Bournemouth continue to make history under new manager Marco Rose.",
+   "share_id": "MN202611_m0mizqegec"
+  },
   {
    "id": "crawl_1cze7l3",
    "title": "Arsenal go six points clear after lively draw at Newcastle",
@@ -1366,5 +1426,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T20:10:40.170Z"
+ "updated": "2026-11-21T20:38:10.521Z"
 }
