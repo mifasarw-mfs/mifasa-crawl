@@ -1,7 +1,29 @@
 {
  "day": "2026-11-21",
- "count": 25,
+ "count": 26,
  "articles": [
+  {
+   "id": "crawl_1yj12j0",
+   "title": "François Régis Uwayezu yagizwe Umuyobozi mushya wa BK Arena",
+   "summary": "François Régis Uwayezu yagizwe Umuyobozi mushya wa BK Arena, mu rwego rwo gukomeza kunoza imikorere y’iyi nzu yakira ibikorwa bitandukanye bya Siporo n’imyidagaduro. Itangazo ryashyizwe hanze (…)",
+   "link": "https://www.kigalitoday.com/imikino/football/article/francois-regis-uwayezu-yagizwe-umuyobozi-mushya-wa-bk-arena",
+   "url": "https://www.kigalitoday.com/imikino/football/article/francois-regis-uwayezu-yagizwe-umuyobozi-mushya-wa-bk-arena",
+   "date": "2026-11-21T10:51:28.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Football",
+    "Ruzindana Janvier"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/img-20261121-wa0023.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/img-20261121-wa0023.jpg",
+   "title_rw": "François Régis Uwayezu yagizwe Umuyobozi mushya wa BK Arena",
+   "summary_rw": "François Régis Uwayezu yagizwe Umuyobozi mushya wa BK Arena, mu rwego rwo gukomeza kunoza imikorere y’iyi nzu yakira ibikorwa bitandukanye bya Siporo n’imyidagaduro. Itangazo ryashyizwe hanze (…)",
+   "share_id": "MN202611_1yj12j0wwmi"
+  },
   {
    "id": "crawl_muqkk4",
    "title": "FBI reportedly investigating apparent hack of its criminal database",
@@ -503,5 +525,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T10:13:36.007Z"
+ "updated": "2026-11-21T10:56:03.719Z"
 }
