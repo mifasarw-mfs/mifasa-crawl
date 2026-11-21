@@ -1,7 +1,27 @@
 {
  "day": "2026-11-21",
- "count": 48,
+ "count": 49,
  "articles": [
+  {
+   "id": "crawl_1lyys5u",
+   "title": "'It's a deserved defeat' - Glasner on Bournemouth loss",
+   "summary": "Nottingham Forest manager Oliver Glasner believes his side \"deserved\" to lose against Bournemouth as a 2-0 defeat leaves them above the drop zone on goal difference only.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c63dg88zdzxko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c63dg88zdzxko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T18:16:48.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13d5/live/c31d7b40-e5d5-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13d5/live/c31d7b40-e5d5-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "'It's a deserved defeat' - Glasner on Bournemouth loss",
+   "summary_en": "Nottingham Forest manager Oliver Glasner believes his side \"deserved\" to lose against Bournemouth as a 2-0 defeat leaves them above the drop zone on goal difference only.",
+   "share_id": "MN202611_1lyys5uc3n4"
+  },
   {
    "id": "crawl_vjkwqv",
    "title": "Fifpro criticises Bayern Munich for Musiala comments",
@@ -978,5 +998,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T17:52:04.329Z"
+ "updated": "2026-11-21T18:26:31.684Z"
 }
