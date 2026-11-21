@@ -5900,6 +5900,54 @@
    ],
    "auto": true,
    "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_9f6a9d92_q",
+   "label_rw": "Ubutare n'Imbaraga zabwo",
+   "label_en": "Magnetism and Magnetic Fields",
+   "patterns_en": [
+    "What causes magnetism?",
+    "Where do magnetic forces act?",
+    "How many poles do magnets have?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera ubutare?",
+    "Imbaraga z'ubutare zikorera he?",
+    "Ubutare bugira impande zingahe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubutare ni umutungo w'ibikoresho bituma bikururana cyangwa bikirukana. Aho izo mbaraga zikorera hitwa mu mwanya w'ubutare cyangwa magnetic field. Isanzwe ifite impande ebyiri z'ingenzi ari zo amajyaruguru n'amajyepfo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Magnetism is a physical property where materials attract or repel each other. The region where these forces act is called a magnetic field. Magnets typically have two main poles known as north and south.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_546b2949_q",
+   "label_rw": "Amagufa y'Umuntu",
+   "label_en": "Human Bones",
+   "patterns_en": [
+    "How many bones does an adult have?",
+    "What is the function of bones in the body?",
+    "How do bones and muscles work together?"
+   ],
+   "patterns_rw": [
+    "Amagufa y'umuntu mukuru aba angana iki?",
+    "Ni iki gikorwa n'amagufa mu mubiri?",
+    "Umubiri w'umuntu ugira amagufa angahe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Umuntu mukuru afite amagufa agera kuri 206 mu mubiri we. Amagufa afasha umubiri guhagarara, akarinda ingingo z'imbere, kandi agakorana n'imitsi kugira ngo umuntu ashobore kwishyira no kugenda.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "An adult human usually has about 206 bones in the body. Bones provide structural support, protect internal organs, and work with muscles to enable movement.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
   }
  ],
  "knowledge": [
@@ -10757,6 +10805,44 @@
     "crafts",
     "u rwanda",
     "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_9f6a9d92",
+   "category": "science",
+   "title_rw": "Ubutare n'Imbaraga zabwo",
+   "title_en": "Magnetism and Magnetic Fields",
+   "summary_rw": "Ubutare ni umutungo w'ibikoresho bituma bikururana cyangwa bikirukana. Aho izo mbaraga zikorera hitwa mu mwanya w'ubutare cyangwa magnetic field. Isanzwe ifite impande ebyiri z'ingenzi ari zo amajyaruguru n'amajyepfo.",
+   "summary_en": "Magnetism is a physical property where materials attract or repel each other. The region where these forces act is called a magnetic field. Magnets typically have two main poles known as north and south.",
+   "keywords": [
+    "ubutare",
+    "magnetism",
+    "imbaraga",
+    "field",
+    "poles",
+    "science",
+    "physics"
+   ],
+   "auto": true,
+   "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_546b2949",
+   "category": "science",
+   "title_rw": "Amagufa y'Umuntu",
+   "title_en": "Human Bones",
+   "summary_rw": "Umuntu mukuru afite amagufa agera kuri 206 mu mubiri we. Amagufa afasha umubiri guhagarara, akarinda ingingo z'imbere, kandi agakorana n'imitsi kugira ngo umuntu ashobore kwishyira no kugenda.",
+   "summary_en": "An adult human usually has about 206 bones in the body. Bones provide structural support, protect internal organs, and work with muscles to enable movement.",
+   "keywords": [
+    "amagufa",
+    "bones",
+    "skeleton",
+    "umubiri",
+    "body",
+    "ubuzima",
+    "health"
    ],
    "auto": true,
    "taught": "2026-11-21"
