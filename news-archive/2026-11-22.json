@@ -1,7 +1,27 @@
 {
  "day": "2026-11-22",
- "count": 5,
+ "count": 6,
  "articles": [
+  {
+   "id": "crawl_10h7mtr",
+   "title": "Fossil fuel dispute threatens to derail COP31 climate deal",
+   "summary": "The UN summit in Turkey enters second day of overtime as countries struggle to reach an agreement.",
+   "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T03:58:31.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg",
+   "title_en": "Fossil fuel dispute threatens to derail COP31 climate deal",
+   "summary_en": "The UN summit in Turkey enters second day of overtime as countries struggle to reach an agreement.",
+   "share_id": "MN202611_10h7mtr0jal"
+  },
   {
    "id": "crawl_ltv3td",
    "title": "Mu Twicarabami twa Nyaruteja",
@@ -107,5 +127,5 @@
    "share_id": "MN202611_1nhls0bz3hl"
   }
  ],
- "updated": "2026-11-22T00:26:30.175Z"
+ "updated": "2026-11-22T04:23:45.338Z"
 }
