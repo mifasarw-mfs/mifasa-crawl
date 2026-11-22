@@ -1,7 +1,127 @@
 {
  "day": "2026-11-22",
- "count": 12,
+ "count": 18,
  "articles": [
+  {
+   "id": "crawl_1x4q4gt",
+   "title": "MP criticises Guernsey and Jersey company ownership register plans",
+   "summary": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
+   "link": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T07:22:05.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2875/live/5aa002d0-e4dc-11f1-9cc5-e9713e77fd78.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2875/live/5aa002d0-e4dc-11f1-9cc5-e9713e77fd78.jpg",
+   "title_en": "MP criticises Guernsey and Jersey company ownership register plans",
+   "summary_en": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
+   "share_id": "MN202611_1x4q4gtj0xn"
+  },
+  {
+   "id": "crawl_126o1cb",
+   "title": "Why Arsenal are behind in race for Champions League spots",
+   "summary": "Arsenal were open about their aim to win the WSL this season but they find themselves well adrift - where have things gone wrong?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c8752llr1ed1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c8752llr1ed1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T07:17:10.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf84/live/b3a1cf10-e01f-11f1-ad34-45f8f10f7c55.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf84/live/b3a1cf10-e01f-11f1-ad34-45f8f10f7c55.jpg",
+   "title_en": "Why Arsenal are behind in race for Champions League spots",
+   "summary_en": "Arsenal were open about their aim to win the WSL this season but they find themselves well adrift - where have things gone wrong?",
+   "share_id": "MN202611_126o1cbfyqx"
+  },
+  {
+   "id": "crawl_14nf0ls",
+   "title": "From a village bakery to headlining Glastonbury: How Harry Styles became a star",
+   "summary": "The singer will make his debut at the festival next year as one of the event's curtain-raising artists.",
+   "link": "https://www.bbc.co.uk/news/articles/cq782xz5nkg4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq782xz5nkg4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T07:14:24.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6d0/live/3b547540-e40b-11f1-ab35-e1af93fa5cce.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6d0/live/3b547540-e40b-11f1-ab35-e1af93fa5cce.jpg",
+   "title_en": "From a village bakery to headlining Glastonbury: How Harry Styles became a star",
+   "summary_en": "The singer will make his debut at the festival next year as one of the event's curtain-raising artists.",
+   "share_id": "MN202611_14nf0ls7x2m"
+  },
+  {
+   "id": "crawl_8zj0rx",
+   "title": "Argentina midfielder Paredes collapses during TV interview",
+   "summary": "World Cup winning midfielder Leandro Paredes collapses while giving a post-match interview minutes after winning a trophy with Boca Juniors.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwnv45818z59o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwnv45818z59o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T07:13:34.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c81e/live/26d6d700-e642-11f1-acea-8b4bc3bc92cd.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c81e/live/26d6d700-e642-11f1-acea-8b4bc3bc92cd.jpg",
+   "title_en": "Argentina midfielder Paredes collapses during TV interview",
+   "summary_en": "World Cup winning midfielder Leandro Paredes collapses while giving a post-match interview minutes after winning a trophy with Boca Juniors.",
+   "share_id": "MN202611_8zj0rxf05n"
+  },
+  {
+   "id": "crawl_xece4h",
+   "title": "Who am I? Plus today's other quizzes",
+   "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq0l31gw1809o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cq0l31gw1809o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T07:12:55.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+   "title_en": "Who am I? Plus today's other quizzes",
+   "summary_en": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "share_id": "MN202611_xece4h4bj3"
+  },
+  {
+   "id": "crawl_zqv73t",
+   "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+   "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+   "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T07:12:41.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg",
+   "title_en": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+   "summary_en": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+   "share_id": "MN202611_zqv73to3kn"
+  },
   {
    "id": "crawl_18rkwxv",
    "title": "Record-breaking sightings of rare moth in Essex",
@@ -247,5 +367,5 @@
    "share_id": "MN202611_1n53iebwev5"
   }
  ],
- "updated": "2026-11-22T06:52:56.333Z"
+ "updated": "2026-11-22T07:30:40.250Z"
 }
