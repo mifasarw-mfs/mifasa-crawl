@@ -1,6 +1,6 @@
 {
  "day": "2026-11-21",
- "count": 83,
+ "count": 84,
  "articles": [
   {
    "id": "crawl_1kb1sjv",
@@ -1199,6 +1199,26 @@
    "share_id": "MN202611_1havi2fkklx"
   },
   {
+   "id": "crawl_a75erl",
+   "title": "I lost my dad, mum and sister to the same aggressive brain cancer",
+   "summary": "A charity says it's \"highly unusual\" to have three members of the same family die of the disease.",
+   "link": "https://www.bbc.co.uk/news/articles/cm4gn0313098o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm4gn0313098o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T09:50:49.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f88/live/08dfaa90-e4dc-11f1-9cc5-e9713e77fd78.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f88/live/08dfaa90-e4dc-11f1-9cc5-e9713e77fd78.jpg",
+   "title_en": "I lost my dad, mum and sister to the same aggressive brain cancer",
+   "summary_en": "A charity says it's \"highly unusual\" to have three members of the same family die of the disease.",
+   "share_id": "MN202611_a75erlyb8f"
+  },
+  {
    "id": "crawl_muqkk4",
    "title": "FBI reportedly investigating apparent hack of its criminal database",
    "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
@@ -1699,5 +1719,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-22T06:52:56.333Z"
+ "updated": "2026-11-22T13:28:14.111Z"
 }
