@@ -1,7 +1,47 @@
 {
  "day": "2026-11-22",
- "count": 69,
+ "count": 71,
  "articles": [
+  {
+   "id": "crawl_dyi3o6",
+   "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
+   "summary": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T23:20:16.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81a2/live/669edd40-e6c1-11f1-99a1-253766e7ad8b.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81a2/live/669edd40-e6c1-11f1-99a1-253766e7ad8b.png",
+   "title_en": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
+   "summary_en": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
+   "share_id": "MN202611_dyi3o6e31w"
+  },
+  {
+   "id": "crawl_6ihdgx",
+   "title": "Football Daily",
+   "summary": "Dale Johnson & Umir Irfan join Rick & Lloyd after Man Utd’s 4-0 defeat at Liverpool.",
+   "link": "https://www.bbc.co.uk/sounds/play/p0ppcw2v?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/p0ppcw2v?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T23:14:00.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pntn4g.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pntn4g.jpg",
+   "title_en": "Football Daily",
+   "summary_en": "Dale Johnson & Umir Irfan join Rick & Lloyd after Man Utd’s 4-0 defeat at Liverpool.",
+   "share_id": "MN202611_6ihdgxahzj"
+  },
   {
    "id": "crawl_3ij0mp",
    "title": "Fifa to confirm UK bid to host 2035 Women's World Cup",
@@ -1395,5 +1435,5 @@
    "share_id": "MN202611_1n53iebwev5"
   }
  ],
- "updated": "2026-11-22T21:51:11.763Z"
+ "updated": "2026-11-22T23:54:09.621Z"
 }
