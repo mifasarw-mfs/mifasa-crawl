@@ -1,7 +1,31 @@
 {
  "day": "2026-11-21",
- "count": 81,
+ "count": 82,
  "articles": [
+  {
+   "id": "crawl_1kb1sjv",
+   "title": "Mariya Yohana arashaka kwishimana n'abakunzi be",
+   "summary": "Umuhanzi Mariya Yohana wamamaye mu ndirimbo nyarwanda za gakondo, arategura igitamo cyo gusangira n’abamukunda, kugira ngo bagire umwanya wo kwishimira ibikorwa byiza byaranze urugendo rwe (…)",
+   "link": "https://www.kigalitoday.com/agaseke-ka-weekend/weekend-iryoshye/article/mariya-yohana-arashaka-kwishimana-n-abakunzi-be",
+   "url": "https://www.kigalitoday.com/agaseke-ka-weekend/weekend-iryoshye/article/mariya-yohana-arashaka-kwishimana-n-abakunzi-be",
+   "date": "2026-11-21T23:56:22.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Weekend Iryoshye",
+    "Mediatrice Uwingabire",
+    "AKW-041",
+    "AKW-041-MAIN"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/webp/my-14_1_.webp",
+   "thumbnail": "https://www.kigalitoday.com/IMG/webp/my-14_1_.webp",
+   "title_rw": "Mariya Yohana arashaka kwishimana n'abakunzi be",
+   "summary_rw": "Umuhanzi Mariya Yohana wamamaye mu ndirimbo nyarwanda za gakondo, arategura igitamo cyo gusangira n’abamukunda, kugira ngo bagire umwanya wo kwishimira ibikorwa byiza byaranze urugendo rwe (…)",
+   "share_id": "MN202611_1kb1sjv252h"
+  },
   {
    "id": "crawl_1gkeh4u",
    "title": "Suwedi: Gushyiraho urwibutso rwa Jenoside byongeye gushimangira ko ayo mateka atazibagirana",
@@ -1655,5 +1679,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-21T23:50:21.960Z"
+ "updated": "2026-11-22T00:01:49.043Z"
 }
