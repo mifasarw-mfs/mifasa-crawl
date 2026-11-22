@@ -1,7 +1,27 @@
 {
  "day": "2026-11-22",
- "count": 28,
+ "count": 29,
  "articles": [
+  {
+   "id": "crawl_115pajz",
+   "title": "Rochdale sack boss Watson after Northampton defeat",
+   "summary": "Rochdale sack head coach Ian Watson after only five months at the League Two club",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj62pz1v7zdwo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cj62pz1v7zdwo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T10:55:05.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f89/live/28d78d60-e660-11f1-8ebd-1d2173202734.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f89/live/28d78d60-e660-11f1-8ebd-1d2173202734.jpg",
+   "title_en": "Rochdale sack boss Watson after Northampton defeat",
+   "summary_en": "Rochdale sack head coach Ian Watson after only five months at the League Two club",
+   "share_id": "MN202611_115pajzh7yl"
+  },
   {
    "id": "crawl_y458aa",
    "title": "Why are so many more young Scots claiming disability benefits?",
@@ -567,5 +587,5 @@
    "share_id": "MN202611_1n53iebwev5"
   }
  ],
- "updated": "2026-11-22T09:56:22.970Z"
+ "updated": "2026-11-22T11:11:12.611Z"
 }
