@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_1k79i2p",
+  "title": "Dozens missing after fire at Indonesian factory",
+  "summary": "At least three people were killed and four injured in a fire at a confectionary factory over the weekend.",
+  "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-22T06:05:00.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0675/live/85d2f2e0-e62c-11f1-b2ea-350d14ed1ad7.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0675/live/85d2f2e0-e62c-11f1-b2ea-350d14ed1ad7.jpg",
+  "title_en": "Dozens missing after fire at Indonesian factory",
+  "summary_en": "At least three people were killed and four injured in a fire at a confectionary factory over the weekend.",
+  "share_id": "MN202611_1k79i2p2ejj"
+ },
+ {
   "id": "crawl_1jadr98",
   "title": "Nanone arongeye,President ndayishimiye akoze amahano,byumve,Muyaya agarutse kumubano wabo na USA",
   "summary": "Nanone arongeye,President ndayishimiye akoze amahano,byumve,Muyaya agarutse kumubano wabo na USA",
@@ -17100,25 +17120,5 @@
   "title_en": "Yemeni forces retreat to defend port city from Houthis",
   "summary_en": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
   "share_id": "MN202611_pbos6xhonr"
- },
- {
-  "id": "crawl_xi87m6",
-  "title": "Intel sued by investors after PC sales slump hits share price",
-  "summary": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
-  "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-16T03:04:01.000Z",
-  "source": "BBC Business",
-  "category": "business",
-  "lang": "en",
-  "keywords": [
-   "BBC Business",
-   "business"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b3/live/33bc54f0-e1a5-11f1-8433-4325183b3814.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b3/live/33bc54f0-e1a5-11f1-8433-4325183b3814.jpg",
-  "title_en": "Intel sued by investors after PC sales slump hits share price",
-  "summary_en": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
-  "share_id": "MN202611_xi87m61430"
  }
 ]

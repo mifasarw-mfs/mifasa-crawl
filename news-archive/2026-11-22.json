@@ -1,7 +1,27 @@
 {
  "day": "2026-11-22",
- "count": 7,
+ "count": 8,
  "articles": [
+  {
+   "id": "crawl_1k79i2p",
+   "title": "Dozens missing after fire at Indonesian factory",
+   "summary": "At least three people were killed and four injured in a fire at a confectionary factory over the weekend.",
+   "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T06:05:00.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0675/live/85d2f2e0-e62c-11f1-b2ea-350d14ed1ad7.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0675/live/85d2f2e0-e62c-11f1-b2ea-350d14ed1ad7.jpg",
+   "title_en": "Dozens missing after fire at Indonesian factory",
+   "summary_en": "At least three people were killed and four injured in a fire at a confectionary factory over the weekend.",
+   "share_id": "MN202611_1k79i2p2ejj"
+  },
   {
    "id": "crawl_k9s51y",
    "title": "Zelensky avuga ko kurasa iteme rya Crimea byari 'igisubizo kiboneye', mu gihe yahuraga na Minisitiri w'ingabo w'Ubwongereza",
@@ -147,5 +167,5 @@
    "share_id": "MN202611_1nhls0bz3hl"
   }
  ],
- "updated": "2026-11-22T04:49:33.276Z"
+ "updated": "2026-11-22T06:17:31.493Z"
 }

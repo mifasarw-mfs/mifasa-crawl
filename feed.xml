@@ -5,8 +5,17 @@
     <link>https://mifasarw.neocities.org/</link>
     <description>Inkuru zigezweho mu Rwanda no ku Isi, na Video za MIFASARW.</description>
     <language>rw</language>
-    <lastBuildDate>Sun, 22 Nov 2026 04:50:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 06:05:00 GMT</lastBuildDate>
     <atom:link href="https://mifasarw.neocities.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dozens missing after fire at Indonesian factory</title>
+      <link>https://mifasarw.neocities.org/s/MN202611_1k79i2p2ejj.html</link>
+      <guid isPermaLink="true">https://mifasarw.neocities.org/s/MN202611_1k79i2p2ejj.html</guid>
+      <pubDate>Sun, 22 Nov 2026 06:05:00 GMT</pubDate>
+      <category>world</category>
+      <description>At least three people were killed and four injured in a fire at a confectionary factory over the weekend. (Source: BBC World)</description>
+      <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0675/live/85d2f2e0-e62c-11f1-b2ea-350d14ed1ad7.jpg"/>
+    </item>
     <item>
       <title>Nanone arongeye,President ndayishimiye akoze amahano,byumve,Muyaya agarutse kumubano wabo na USA</title>
       <link>https://mifasarw.neocities.org/s/MN202611_1jadr989u3e.html</link>
@@ -537,15 +546,6 @@
       <category>sports</category>
       <description>Manchester City manager Enzo Maresca says Erling Haaland's first-half goal against Fulham should have stood. (Source: BBC Football)</description>
       <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4933/live/61e22920-e5bc-11f1-99a1-253766e7ad8b.jpg"/>
-    </item>
-    <item>
-      <title>Uganda Guides Rwandan Tour Operators Across Touristic Sites</title>
-      <link>https://mifasarw.neocities.org/s/MN202611_1e8metu0f1s.html</link>
-      <guid isPermaLink="true">https://mifasarw.neocities.org/s/MN202611_1e8metu0f1s.html</guid>
-      <pubDate>Sat, 21 Nov 2026 15:01:30 GMT</pubDate>
-      <category>news</category>
-      <description>A group of 12 Rwandan Tour Operators are on a marathon tour of Uganda’s major touristic sites under a program organised by the east African nation. Taarifa Investigative Desk has reliably learned that this ambitious 9-day Tourism Familiarisation (FAM) Trip is organised by the Uganda High… (Source: Taarifa Rwanda)</description>
-      <media:thumbnail url="https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261121-180006.jpg?fit=720%2C447&amp;ssl=1"/>
     </item>
   </channel>
 </rss>
