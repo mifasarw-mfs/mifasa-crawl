@@ -6595,6 +6595,30 @@
    ],
    "auto": true,
    "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_c3be4e03_q",
+   "label_rw": "Imibare ifite ibipimo n'Imizi ya kare",
+   "label_en": "Exponents and Square Roots",
+   "patterns_en": [
+    "What is an exponent in mathematics?",
+    "What is the square root of 16?",
+    "How do you calculate powers of a number?"
+   ],
+   "patterns_rw": [
+    "Igipimo ni iki muri matematika?",
+    "Umizi ya kare wa 16 ni ubuhe?",
+    "Ni gute wakura igipimo ku mubare?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Igipimo cyerekana ubwinshi bw'igihe umubare wikuba ubwawo. Urugero, 2 kuri 3 ni 8. Umizi ya kare ni umubare iyo wikubye ubwawo utanga umubare wahawe. Urugero, umizi ya kare ya 9 ni 3.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "An exponent shows how many times a number is multiplied by itself. For example, 2 to the power of 3 is 8. A square root is a value that, when multiplied by itself, gives the original number. For example, the square root of 9 is 3.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
   }
  ],
  "knowledge": [
@@ -12025,6 +12049,26 @@
     "hills",
     "ibibaya",
     "valleys"
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_c3be4e03",
+   "category": "math",
+   "title_rw": "Imibare ifite ibipimo n'Imizi ya kare",
+   "title_en": "Exponents and Square Roots",
+   "summary_rw": "Igipimo cyerekana ubwinshi bw'igihe umubare wikuba ubwawo. Urugero, 2 kuri 3 ni 8. Umizi ya kare ni umubare iyo wikubye ubwawo utanga umubare wahawe. Urugero, umizi ya kare ya 9 ni 3.",
+   "summary_en": "An exponent shows how many times a number is multiplied by itself. For example, 2 to the power of 3 is 8. A square root is a value that, when multiplied by itself, gives the original number. For example, the square root of 9 is 3.",
+   "keywords": [
+    "imibare",
+    "igipimo",
+    "imizi",
+    "kare",
+    "math",
+    "exponents",
+    "square",
+    "roots"
    ],
    "auto": true,
    "taught": "2026-11-22"
