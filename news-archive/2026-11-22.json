@@ -1,7 +1,67 @@
 {
  "day": "2026-11-22",
- "count": 50,
+ "count": 53,
  "articles": [
+  {
+   "id": "crawl_14zuo69",
+   "title": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
+   "summary": "How Liverpool and Manchester United's players rated following their Premier League match.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T18:28:51.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f96/live/26ee3650-e694-11f1-936e-1fd1d31671db.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f96/live/26ee3650-e694-11f1-936e-1fd1d31671db.jpg",
+   "title_en": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
+   "summary_en": "How Liverpool and Manchester United's players rated following their Premier League match.",
+   "share_id": "MN202611_14zuo69mlkv"
+  },
+  {
+   "id": "crawl_y8a6li",
+   "title": "What's next after no deal at COP31 climate summit?",
+   "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+   "link": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T18:28:48.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0084/live/3dd7fdf0-e69f-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0084/live/3dd7fdf0-e69f-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "What's next after no deal at COP31 climate summit?",
+   "summary_en": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+   "share_id": "MN202611_y8a6li2rpg"
+  },
+  {
+   "id": "crawl_1dpqtf2",
+   "title": "COP31 climate talks fail to reach major deal amid deep divisions",
+   "summary": "COP31 climate talks fail to make breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+   "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T18:17:59.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
+   "title_en": "COP31 climate talks fail to reach major deal amid deep divisions",
+   "summary_en": "COP31 climate talks fail to make breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+   "share_id": "MN202611_1dpqtf2jpvw"
+  },
   {
    "id": "crawl_1xvd119",
    "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
@@ -1015,5 +1075,5 @@
    "share_id": "MN202611_1n53iebwev5"
   }
  ],
- "updated": "2026-11-22T18:06:17.285Z"
+ "updated": "2026-11-22T18:52:48.220Z"
 }
