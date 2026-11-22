@@ -1,6 +1,6 @@
 {
  "day": "2026-11-22",
- "count": 29,
+ "count": 30,
  "articles": [
   {
    "id": "crawl_115pajz",
@@ -21,6 +21,26 @@
    "title_en": "Rochdale sack boss Watson after Northampton defeat",
    "summary_en": "Rochdale sack head coach Ian Watson after only five months at the League Two club",
    "share_id": "MN202611_115pajzh7yl"
+  },
+  {
+   "id": "crawl_1cg58r5",
+   "title": "How an Iraqi Refugee’s Search for Belonging Found New Meaning in Rwanda",
+   "summary": "KIGALI – Othman Aland Koran was about 5 years old when his family left Iraq for Switzerland, beginning a childhood shaped by displacement, unfamiliar languages and the challenge of finding… The post How an Iraqi Refugee’s Search for Belonging Found New Meaning in Rwanda appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/how-an-iraqi-refugees-search-for-belonging-found-new-meaning-in-rwanda/",
+   "url": "https://www.ktpress.rw/2026/11/how-an-iraqi-refugees-search-for-belonging-found-new-meaning-in-rwanda/",
+   "date": "2026-11-22T10:12:54.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "Society",
+    "big-story"
+   ],
+   "title_en": "How an Iraqi Refugee’s Search for Belonging Found New Meaning in Rwanda",
+   "summary_en": "KIGALI – Othman Aland Koran was about 5 years old when his family left Iraq for Switzerland, beginning a childhood shaped by displacement, unfamiliar languages and the challenge of finding… The post How an Iraqi Refugee’s Search for Belonging Found New Meaning in Rwanda appeared first on KT PRESS .",
+   "share_id": "MN202611_1cg58r5mmnj"
   },
   {
    "id": "crawl_y458aa",
@@ -587,5 +607,5 @@
    "share_id": "MN202611_1n53iebwev5"
   }
  ],
- "updated": "2026-11-22T11:11:12.611Z"
+ "updated": "2026-11-22T11:25:20.695Z"
 }
