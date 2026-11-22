@@ -1,7 +1,47 @@
 {
  "day": "2026-11-22",
- "count": 8,
+ "count": 12,
  "articles": [
+  {
+   "id": "crawl_18rkwxv",
+   "title": "Record-breaking sightings of rare moth in Essex",
+   "summary": "There is now a self-sustaining population of the moth at a nature reserve in Essex, a charity says.",
+   "link": "https://www.bbc.co.uk/news/articles/c6jrey28gvqxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6jrey28gvqxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T06:38:26.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a5/live/873e73e0-e436-11f1-8346-933d3547e297.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a5/live/873e73e0-e436-11f1-8346-933d3547e297.jpg",
+   "title_en": "Record-breaking sightings of rare moth in Essex",
+   "summary_en": "There is now a self-sustaining population of the moth at a nature reserve in Essex, a charity says.",
+   "share_id": "MN202611_18rkwxvdtep"
+  },
+  {
+   "id": "crawl_6h2but",
+   "title": "'He will see what Man Utd are made of' - Pulis on Pochettino's first game",
+   "summary": "BBC Sport columnist Tony Pulis explains how new Manchester United boss Mauricio Pochettino will prepare for Sunday's game against Liverpool after only a few days with his squad.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckqx5w58dgv7o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ckqx5w58dgv7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T06:21:55.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b56b/live/6a92bb70-e44a-11f1-9192-3924a59e54c7.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b56b/live/6a92bb70-e44a-11f1-9192-3924a59e54c7.jpg",
+   "title_en": "'He will see what Man Utd are made of' - Pulis on Pochettino's first game",
+   "summary_en": "BBC Sport columnist Tony Pulis explains how new Manchester United boss Mauricio Pochettino will prepare for Sunday's game against Liverpool after only a few days with his squad.",
+   "share_id": "MN202611_6h2butyb8j"
+  },
   {
    "id": "crawl_1k79i2p",
    "title": "Dozens missing after fire at Indonesian factory",
@@ -41,6 +81,26 @@
    "title_rw": "Zelensky avuga ko kurasa iteme rya Crimea byari 'igisubizo kiboneye', mu gihe yahuraga na Minisitiri w'ingabo w'Ubwongereza",
    "summary_rw": "Perezida wa Ukraine avuga ko igihugu cye cyagize icyo gikora nyuma yuko Uburusiya bugabye ibitero 109 binyuranye byo mu kirere ku mateme yo muri Ukraine.",
    "share_id": "MN202611_k9s51yl1is"
+  },
+  {
+   "id": "crawl_186o8lu",
+   "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
+   "summary": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place.",
+   "link": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T04:39:13.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a1/live/9ea5a0c0-e621-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a1/live/9ea5a0c0-e621-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "BBC apologises for 'any offence caused' by Strictly noise disruption",
+   "summary_en": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place.",
+   "share_id": "MN202611_186o8luh52o"
   },
   {
    "id": "crawl_10h7mtr",
@@ -165,7 +225,27 @@
    "title_en": "I wish referee had opportunity to see 'handball' again - Hart",
    "summary_en": "Match of the Day pundits Joe Hart and Alan Shearer disagree with Morgan Rogers being penalised for handball, as the Chelsea forward \"didn't make himself bigger\" with the use of his arms in his side's 4-1 defeat to Leeds United in the Premier League.",
    "share_id": "MN202611_1nhls0bz3hl"
+  },
+  {
+   "id": "crawl_1n53ieb",
+   "title": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
+   "summary": "I Am Helen is a must-watch according to critics, but the cast don't want viewers sitting comfortably.",
+   "link": "https://www.bbc.co.uk/news/articles/cj4gn7x05yygo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cj4gn7x05yygo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T00:01:27.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2a9/live/aa5abbb0-e50b-11f1-b40b-5f46e8cf687c.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2a9/live/aa5abbb0-e50b-11f1-b40b-5f46e8cf687c.jpg",
+   "title_en": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
+   "summary_en": "I Am Helen is a must-watch according to critics, but the cast don't want viewers sitting comfortably.",
+   "share_id": "MN202611_1n53iebwev5"
   }
  ],
- "updated": "2026-11-22T06:17:31.493Z"
+ "updated": "2026-11-22T06:52:56.333Z"
 }

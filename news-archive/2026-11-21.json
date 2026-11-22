@@ -1,6 +1,6 @@
 {
  "day": "2026-11-21",
- "count": 82,
+ "count": 83,
  "articles": [
   {
    "id": "crawl_1kb1sjv",
@@ -1096,6 +1096,26 @@
    "share_id": "MN202611_1rywvorps5l"
   },
   {
+   "id": "crawl_aomgxh",
+   "title": "Bad Girls star Helen Fraser dies aged 84",
+   "summary": "Actress Helen Fraser dies at 84 in an Eye care home after a successful career in TV, theatre and film.",
+   "link": "https://www.bbc.co.uk/news/articles/cqlyjwng3xdwo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqlyjwng3xdwo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T12:17:46.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d51b/live/3ee67480-e59e-11f1-9ccc-ff5a88abcfc6.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d51b/live/3ee67480-e59e-11f1-9ccc-ff5a88abcfc6.jpg",
+   "title_en": "Bad Girls star Helen Fraser dies aged 84",
+   "summary_en": "Actress Helen Fraser dies at 84 in an Eye care home after a successful career in TV, theatre and film.",
+   "share_id": "MN202611_aomgxhfdeb"
+  },
+  {
    "id": "crawl_pob5o5",
    "title": "Umuhungu w'Umunya-Ghana wiciwe muri Amerika 'yari akwiriye ibyiza cyane' – 'Mayor' Mamdani wa New York",
    "summary": "Mu muhango wo gushyingura uwo muhungu wari ufite imyaka 15 wishwe arashwe mu kwezi gushize, umukuru w'umujyi wa New York, Mamdani, yavuze ijambo ari kumwe na se w'uwo mwana n'abayobozi bakuriye imiryango iharanira uburenganzira.",
@@ -1679,5 +1699,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-22T00:01:49.043Z"
+ "updated": "2026-11-22T06:52:56.333Z"
 }
