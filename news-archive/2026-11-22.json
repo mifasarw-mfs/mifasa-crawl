@@ -1,7 +1,67 @@
 {
  "day": "2026-11-22",
- "count": 18,
+ "count": 23,
  "articles": [
+  {
+   "id": "crawl_fpbi2y",
+   "title": "Mexique: Umukuru w'abacuruza ibiyobyabwenge wari uri ku rutonde rw'abantu 10 bashakishwa cyane na FBI yatawe muri yombi",
+   "summary": "Fausto Isidro \"Chapo Isidro\" Meza Flores, ushinjwa gucuruza ibiyobyabwenge no gukora iyicarubozo, yafashwe nyuma yo kurasana n'abasirikare ba Mexique.",
+   "link": "https://www.bbc.com/gahuza/articles/cmx2r5vev411o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/cmx2r5vev411o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T08:00:08.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
+   "title_rw": "Mexique: Umukuru w'abacuruza ibiyobyabwenge wari uri ku rutonde rw'abantu 10 bashakishwa cyane na FBI yatawe muri yombi",
+   "summary_rw": "Fausto Isidro \"Chapo Isidro\" Meza Flores, ushinjwa gucuruza ibiyobyabwenge no gukora iyicarubozo, yafashwe nyuma yo kurasana n'abasirikare ba Mexique.",
+   "share_id": "MN202611_fpbi2y4ejs"
+  },
+  {
+   "id": "crawl_hyr58i",
+   "title": "Midwives told to expect fewer jobs as recruitment drive is paused",
+   "summary": "One graduate said she would take minimum wage to get her first job in widwifery.",
+   "link": "https://www.bbc.co.uk/news/articles/ck24e1j762y6o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ck24e1j762y6o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T07:46:28.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b074/live/e23d5220-e52b-11f1-964d-a1d5fe40573e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b074/live/e23d5220-e52b-11f1-964d-a1d5fe40573e.jpg",
+   "title_en": "Midwives told to expect fewer jobs as recruitment drive is paused",
+   "summary_en": "One graduate said she would take minimum wage to get her first job in widwifery.",
+   "share_id": "MN202611_hyr58ik1pc"
+  },
+  {
+   "id": "crawl_1aqihlq",
+   "title": "Man who studied drama in young offenders' institute now a West End actor",
+   "summary": "Joseph Langdon, who stars in the Bristol Old Vic's production of Cinderella, learned to act while detained.",
+   "link": "https://www.bbc.co.uk/news/articles/cry869dq271zo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cry869dq271zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T07:32:21.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c2e/live/f6f8a710-e1bf-11f1-a339-49d4d3ed4c86.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c2e/live/f6f8a710-e1bf-11f1-a339-49d4d3ed4c86.jpg",
+   "title_en": "Man who studied drama in young offenders' institute now a West End actor",
+   "summary_en": "Joseph Langdon, who stars in the Bristol Old Vic's production of Cinderella, learned to act while detained.",
+   "share_id": "MN202611_1aqihlqbe2k"
+  },
   {
    "id": "crawl_1x4q4gt",
    "title": "MP criticises Guernsey and Jersey company ownership register plans",
@@ -21,6 +81,26 @@
    "title_en": "MP criticises Guernsey and Jersey company ownership register plans",
    "summary_en": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
    "share_id": "MN202611_1x4q4gtj0xn"
+  },
+  {
+   "id": "crawl_w2upde",
+   "title": "Du Maurier family photos shared for first time",
+   "summary": "Photos showing the author and her family have been shared for the first time by her grandson.",
+   "link": "https://www.bbc.co.uk/news/articles/c6jrwxnl9v14o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6jrwxnl9v14o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T07:20:17.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76e4/live/873d7560-e429-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76e4/live/873d7560-e429-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Du Maurier family photos shared for first time",
+   "summary_en": "Photos showing the author and her family have been shared for the first time by her grandson.",
+   "share_id": "MN202611_w2updenlu8"
   },
   {
    "id": "crawl_126o1cb",
@@ -347,6 +427,26 @@
    "share_id": "MN202611_1nhls0bz3hl"
   },
   {
+   "id": "crawl_1sbxpsq",
+   "title": "Employers are being asked to give interview feedback - here's what applicants want",
+   "summary": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+   "link": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T00:04:07.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb80/live/784ad260-e4e1-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb80/live/784ad260-e4e1-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "Employers are being asked to give interview feedback - here's what applicants want",
+   "summary_en": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+   "share_id": "MN202611_1sbxpsqqm9k"
+  },
+  {
    "id": "crawl_1n53ieb",
    "title": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
    "summary": "I Am Helen is a must-watch according to critics, but the cast don't want viewers sitting comfortably.",
@@ -367,5 +467,5 @@
    "share_id": "MN202611_1n53iebwev5"
   }
  ],
- "updated": "2026-11-22T07:30:40.250Z"
+ "updated": "2026-11-22T08:03:29.685Z"
 }
