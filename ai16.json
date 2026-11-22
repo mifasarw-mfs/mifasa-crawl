@@ -6619,6 +6619,125 @@
    ],
    "auto": true,
    "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_15291a6e_q",
+   "label_rw": "Amafaranga ya Telefoni n'Imari y'Ikoranabuhanga",
+   "label_en": "Mobile Money and Digital Finance",
+   "patterns_en": [
+    "What is mobile money?",
+    "How has mobile money developed Rwanda?",
+    "How do people pay using phones?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyo kohereza amafaranga kuri telefoni?",
+    "Ese Mobile Money yateje gute imbere u Rwanda?",
+    "Ni gute abantu bishyura hakoreshejwe telefoni?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Amafaranga ya telefoni ni serivisi yemerera abantu kubika, kohereza no kwakira amafaranga bakoresheje telefoni ngendanwa. Mu Rwanda, iyi serivisi yateje imbere ubukungu kuko yorohereza abaturage kwishyura ibicuruzwa na serivisi zitandukanye nta nkomyi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Mobile money is a service that allows people to store, send, and receive money using mobile phones. In Rwanda, this service has advanced the economy by enabling citizens to easily pay for goods and various services without difficulty.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_db3b7aa4_q",
+   "label_rw": "Gucunga Ibyago mu By'Imari",
+   "label_en": "Financial Risk Management",
+   "patterns_en": [
+    "What is financial risk management?",
+    "How can someone reduce investment risks?",
+    "Why is financial risk management important for businesses?"
+   ],
+   "patterns_rw": [
+    "Gucunga ibyago mu by'imari bisobanura iki?",
+    "Ni gute umuntu yagabanya ibyago mu ishoramari?",
+    "Kuki gucunga ibyago by'imari ari ingenzi ku bigo?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gucunga ibyago mu by'imari ni uburyo bwo kumenya, gusesengura no kugabanya ingaruka zishobora gutera igihombo mu bikorwa by'ubucuruzi cyangwa imari. Bifasha abantu n'ibigo kurinda umutungo wabo no gufata ibyemezo byiza by'ishoramari hagamijwe kunguka.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Financial risk management is the process of identifying, analyzing, and mitigating potential losses in business or investment activities. It helps individuals and institutions protect their assets and make informed investment decisions to achieve profitability.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_73f36f6a_q",
+   "label_rw": "Imari n'Inguzanyo mu Buhinzi",
+   "label_en": "Agricultural Finance and Farming Loans",
+   "patterns_en": [
+    "Who provides agricultural loans?",
+    "How do farming loans help farmers?",
+    "Why do farmers need financial services?"
+   ],
+   "patterns_rw": [
+    "Ni bande batanga inguzanyo z'ubuhinzi?",
+    "Ese inguzanyo y'ubuhinzi ifasha iki umuhinzi?",
+    "Ni iki gituma abahinzi bakeneye imari?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imari y'ubuhinzi ni uburyo bufasha abahinzi kubona amafaranga yo gushora mu bikorwa byabo. Inguzanyo z'abahinzi zitangwa na banki ndetse n'ibigo by'imari iciriritse. Zifasha abahinzi kugura imbuto, ifumbire, n'ibikoresho. Ibi bituma umusaruro wiyongera.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Agricultural finance helps farmers access capital for their farming activities. Farming loans are usually provided by banks and microfinance institutions. These funds enable farmers to buy seeds, fertilizers, and equipment, which generally helps increase agricultural productivity.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_7f3a1be0_q",
+   "label_rw": "Amakoperative n'Iterambere ry'Imari",
+   "label_en": "Cooperative Societies and Financial Growth",
+   "patterns_en": [
+    "How do cooperative societies help citizens?",
+    "Why are cooperatives important for financial development?",
+    "What role do cooperatives play in reducing poverty?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma amakoperative aba ingenzi mu iterambere ry'imari?",
+    "Ese amakoperative agira uruhare ki mu kugabanya ubukene?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Amakoperative afasha abaturage kwizigama no kubona inguzanyo zoroshye. Mu Rwanda, amakoperative y'ubukungu n'ibigo by'imari iciriritse zigira uruhare runini mu iterambere ry'abaturage no kugabanya ubukene.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Cooperative societies help members save money and access affordable credit. In Rwanda, financial cooperatives and savings groups play a major role in community development and poverty reduction.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_d5978980_q",
+   "label_rw": "Kohereza n'Kwakira Amafaranga aturutse hanze y'Igihugu",
+   "label_en": "Remittances and International Money Transfers",
+   "patterns_en": [
+    "What are the methods for international money transfers?",
+    "Can mobile money be used to receive funds from abroad?",
+    "Which services are commonly used for remittances in Rwanda?"
+   ],
+   "patterns_rw": [
+    "Ni ubuhe buryo bwo kohereza amafaranga hanze y'igihugu?",
+    "Ese Mobile Money ikoreshwa mu kwakira amafaranga yaturutse hanze?",
+    "Ni izihe serivisi zizwi mu kohereza amafaranga mu Rwanda?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kohereza n'kwakira amafaranga aturutse hanze ni uburyo abantu bohereza ubufasha cyangwa imari kumiryango yabo. Mu Rwanda, serivisi nka Western Union, MoneyGram, na Mobile Money zituma ibi bikorwa byihuta kandi bigakorwa mu mutekano. Abaturage benshi bakoresha izi nzira kugira ngo bishyure ibikorwa bitandukanye cyangwa bafashe ababo mu buzima bwa buri munsi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Remittances are funds transferred by workers to people in their home countries. In Rwanda, services such as Western Union, MoneyGram, and mobile money platforms facilitate fast and secure transactions. Many citizens rely on these channels to support their families, invest, or pay for various services from abroad.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
   }
  ],
  "knowledge": [
@@ -12069,6 +12188,105 @@
     "exponents",
     "square",
     "roots"
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_15291a6e",
+   "category": "finance",
+   "title_rw": "Amafaranga ya Telefoni n'Imari y'Ikoranabuhanga",
+   "title_en": "Mobile Money and Digital Finance",
+   "summary_rw": "Amafaranga ya telefoni ni serivisi yemerera abantu kubika, kohereza no kwakira amafaranga bakoresheje telefoni ngendanwa. Mu Rwanda, iyi serivisi yateje imbere ubukungu kuko yorohereza abaturage kwishyura ibicuruzwa na serivisi zitandukanye nta nkomyi.",
+   "summary_en": "Mobile money is a service that allows people to store, send, and receive money using mobile phones. In Rwanda, this service has advanced the economy by enabling citizens to easily pay for goods and various services without difficulty.",
+   "keywords": [
+    "amafaranga",
+    "telefoni",
+    "ikoranabuhanga",
+    "ubukungu",
+    "u rwanda",
+    "mobile money",
+    "digital finance"
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_db3b7aa4",
+   "category": "finance",
+   "title_rw": "Gucunga Ibyago mu By'Imari",
+   "title_en": "Financial Risk Management",
+   "summary_rw": "Gucunga ibyago mu by'imari ni uburyo bwo kumenya, gusesengura no kugabanya ingaruka zishobora gutera igihombo mu bikorwa by'ubucuruzi cyangwa imari. Bifasha abantu n'ibigo kurinda umutungo wabo no gufata ibyemezo byiza by'ishoramari hagamijwe kunguka.",
+   "summary_en": "Financial risk management is the process of identifying, analyzing, and mitigating potential losses in business or investment activities. It helps individuals and institutions protect their assets and make informed investment decisions to achieve profitability.",
+   "keywords": [
+    "ibyago",
+    "imari",
+    "ubucuruzi",
+    "ishoramari",
+    "risk",
+    "finance",
+    "business",
+    "investment"
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_73f36f6a",
+   "category": "finance",
+   "title_rw": "Imari n'Inguzanyo mu Buhinzi",
+   "title_en": "Agricultural Finance and Farming Loans",
+   "summary_rw": "Imari y'ubuhinzi ni uburyo bufasha abahinzi kubona amafaranga yo gushora mu bikorwa byabo. Inguzanyo z'abahinzi zitangwa na banki ndetse n'ibigo by'imari iciriritse. Zifasha abahinzi kugura imbuto, ifumbire, n'ibikoresho. Ibi bituma umusaruro wiyongera.",
+   "summary_en": "Agricultural finance helps farmers access capital for their farming activities. Farming loans are usually provided by banks and microfinance institutions. These funds enable farmers to buy seeds, fertilizers, and equipment, which generally helps increase agricultural productivity.",
+   "keywords": [
+    "ubuhinzi",
+    "agriculture",
+    "inguzanyo",
+    "loans",
+    "imari",
+    "finance",
+    "umusaruro",
+    "productivity"
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_7f3a1be0",
+   "category": "finance",
+   "title_rw": "Amakoperative n'Iterambere ry'Imari",
+   "title_en": "Cooperative Societies and Financial Growth",
+   "summary_rw": "Amakoperative afasha abaturage kwizigama no kubona inguzanyo zoroshye. Mu Rwanda, amakoperative y'ubukungu n'ibigo by'imari iciriritse zigira uruhare runini mu iterambere ry'abaturage no kugabanya ubukene.",
+   "summary_en": "Cooperative societies help members save money and access affordable credit. In Rwanda, financial cooperatives and savings groups play a major role in community development and poverty reduction.",
+   "keywords": [
+    "amakoperative",
+    "cooperatives",
+    "ubukungu",
+    "finance",
+    "kwizigama",
+    "savings",
+    "iterambere",
+    "development"
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_d5978980",
+   "category": "finance",
+   "title_rw": "Kohereza n'Kwakira Amafaranga aturutse hanze y'Igihugu",
+   "title_en": "Remittances and International Money Transfers",
+   "summary_rw": "Kohereza n'kwakira amafaranga aturutse hanze ni uburyo abantu bohereza ubufasha cyangwa imari kumiryango yabo. Mu Rwanda, serivisi nka Western Union, MoneyGram, na Mobile Money zituma ibi bikorwa byihuta kandi bigakorwa mu mutekano. Abaturage benshi bakoresha izi nzira kugira ngo bishyure ibikorwa bitandukanye cyangwa bafashe ababo mu buzima bwa buri munsi.",
+   "summary_en": "Remittances are funds transferred by workers to people in their home countries. In Rwanda, services such as Western Union, MoneyGram, and mobile money platforms facilitate fast and secure transactions. Many citizens rely on these channels to support their families, invest, or pay for various services from abroad.",
+   "keywords": [
+    "remittances",
+    "amafaranga",
+    "transfer",
+    "rwanda",
+    "mobile money",
+    "western union",
+    "finance",
+    "ubukungu"
    ],
    "auto": true,
    "taught": "2026-11-22"
