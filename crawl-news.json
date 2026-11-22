@@ -1,5 +1,31 @@
 [
  {
+  "id": "crawl_1jadr98",
+  "title": "Nanone arongeye,President ndayishimiye akoze amahano,byumve,Muyaya agarutse kumubano wabo na USA",
+  "summary": "Nanone arongeye,President ndayishimiye akoze amahano,byumve,Muyaya agarutse kumubano wabo na USA",
+  "link": "https://www.youtube.com/watch?v=8CLpnPPNwRk",
+  "url": "https://www.youtube.com/watch?v=8CLpnPPNwRk",
+  "date": "2026-11-22T04:50:11.000Z",
+  "source": "Rocky Entertainment YouTube",
+  "category": "entertainment",
+  "lang": "rw",
+  "keywords": [
+   "Rocky Entertainment YouTube",
+   "entertainment",
+   "video"
+  ],
+  "video": {
+   "provider": "youtube",
+   "id": "8CLpnPPNwRk"
+  },
+  "type": "video",
+  "image": "https://i1.ytimg.com/vi/8CLpnPPNwRk/hqdefault.jpg",
+  "thumbnail": "https://i1.ytimg.com/vi/8CLpnPPNwRk/hqdefault.jpg",
+  "title_rw": "Nanone arongeye,President ndayishimiye akoze amahano,byumve,Muyaya agarutse kumubano wabo na USA",
+  "summary_rw": "Nanone arongeye,President ndayishimiye akoze amahano,byumve,Muyaya agarutse kumubano wabo na USA",
+  "share_id": "MN202611_1jadr989u3e"
+ },
+ {
   "id": "crawl_1e4q3ym",
   "title": "Ahantu 5 Imana igukura niyo waba utabishaka iyo watoranijwe,uhangana n’Imana utabizi,ukabura umugish",
   "summary": "Ahantu 5 Imana igukura niyo waba utabishaka iyo watoranijwe,uhangana n’Imana utabizi,ukabura umugish",
@@ -28,7 +54,7 @@
  {
   "id": "crawl_k9s51y",
   "title": "Zelensky avuga ko kurasa iteme rya Crimea byari 'igisubizo kiboneye', mu gihe yahuraga na Minisitiri w'ingabo w'Ubwongereza",
-  "summary": "Perezida wa Ukraine avuga ko igihugu cye cyagize icyo gikora nyuma yuko Uburusiya bugabye ibitero 109 binyuranye byo mu kirere ku mateme yo muri Ukraine.",
+  "summary": "Perezida wa Ukraine avuga ko igihugu cye cyabikoze nyuma yuko Uburusiya bugabye ibitero 109 binyuranye byo mu kirere ku mateme yo muri Ukraine.",
   "link": "https://www.bbc.com/gahuza/articles/cxe894g3753vo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.com/gahuza/articles/cxe894g3753vo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-22T04:42:07.000Z",
@@ -42,7 +68,7 @@
   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e0f6/live/3d20e360-e625-11f1-b7fc-c706dcc3f79b.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e0f6/live/3d20e360-e625-11f1-b7fc-c706dcc3f79b.jpg",
   "title_rw": "Zelensky avuga ko kurasa iteme rya Crimea byari 'igisubizo kiboneye', mu gihe yahuraga na Minisitiri w'ingabo w'Ubwongereza",
-  "summary_rw": "Perezida wa Ukraine avuga ko igihugu cye cyagize icyo gikora nyuma yuko Uburusiya bugabye ibitero 109 binyuranye byo mu kirere ku mateme yo muri Ukraine.",
+  "summary_rw": "Perezida wa Ukraine avuga ko igihugu cye cyabikoze nyuma yuko Uburusiya bugabye ibitero 109 binyuranye byo mu kirere ku mateme yo muri Ukraine.",
   "share_id": "MN202611_k9s51yl1is"
  },
  {
@@ -17094,31 +17120,5 @@
   "title_en": "Intel sued by investors after PC sales slump hits share price",
   "summary_en": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
   "share_id": "MN202611_xi87m61430"
- },
- {
-  "id": "crawl_194zwt9",
-  "title": "Inkende ibihumbi 7k zirigukorerwaho ubushakashatsi buzatuma Putin azaranba akarenza imyaka 150",
-  "summary": "Inkende ibihumbi 7k zirigukorerwaho ubushakashatsi buzatuma Putin azaranba akarenza imyaka 150",
-  "link": "https://www.youtube.com/watch?v=YUxDT8_L0ds",
-  "url": "https://www.youtube.com/watch?v=YUxDT8_L0ds",
-  "date": "2026-11-16T02:21:23.000Z",
-  "source": "Rocky Entertainment YouTube",
-  "category": "entertainment",
-  "lang": "rw",
-  "keywords": [
-   "Rocky Entertainment YouTube",
-   "entertainment",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "YUxDT8_L0ds"
-  },
-  "type": "video",
-  "image": "https://i2.ytimg.com/vi/YUxDT8_L0ds/hqdefault.jpg",
-  "thumbnail": "https://i2.ytimg.com/vi/YUxDT8_L0ds/hqdefault.jpg",
-  "title_rw": "Inkende ibihumbi 7k zirigukorerwaho ubushakashatsi buzatuma Putin azaranba akarenza imyaka 150",
-  "summary_rw": "Inkende ibihumbi 7k zirigukorerwaho ubushakashatsi buzatuma Putin azaranba akarenza imyaka 150",
-  "share_id": "MN202611_194zwt9vznf"
  }
 ]
