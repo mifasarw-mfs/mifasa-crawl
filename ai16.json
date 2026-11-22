@@ -6403,6 +6403,102 @@
    ],
    "auto": true,
    "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_5793ee42_q",
+   "label_rw": "Umutekano mu gikoni",
+   "label_en": "Kitchen tool safety",
+   "patterns_en": [
+    "How should kitchen knives be stored safely?",
+    "Can children handle sharp kitchen tools?",
+    "How can I prevent cuts while using kitchen knives?"
+   ],
+   "patterns_rw": [
+    "Ni gute twabika ibyuma byo mu gikoni neza?",
+    "Ese abana bashobora gukoresha ibyuma bifite ubugi?",
+    "Twirinda dute gukomereka n'ibyuma byo mu gikoni?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gukoresha ibyuma byo mu gikoni n'ibikoresho bifite ubugi bisaba ubwitonderi bwinshi. Gira isuku, ubike ibyuma ahantu hatagerwa n'abana. Ntuzagakoreshe ibyuma bifite ubugi bwangiritse. Bika ibyuma mu mwanya wabyo wihariye kugira ngo wirinde impanuka.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Using kitchen knives and sharp tools safely requires constant attention. Keep tools clean and store them out of reach of children. Avoid using damaged blades. Always store sharp instruments in a designated block or sheath to prevent accidents.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_bb8bd1a9_q",
+   "label_rw": "Gukoresha imiti mu mutekano",
+   "label_en": "Handling medicine safely",
+   "patterns_en": [
+    "How should medicines be stored safely?",
+    "How can we prevent medicine poisoning in children?",
+    "What should be done before taking medication?"
+   ],
+   "patterns_rw": [
+    "Ni gute twabika imiti mu mutekano?",
+    "Twirinda dute uburozi bw'imiti ku bana?",
+    "Twakora iki mbere yo kunywa umuti?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gukoresha imiti neza bifasha kwirinda uburozi butunguranye. Bika imiti ahatagerwa n'abana bato n'amatungo. Soma amabwiriza ku icupa cyangwa agasanduku mbere yo kuyinywa. Ntugafate imiti yarangiye igihe cyangwa iyo utazi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Handling medicine safely helps prevent accidental poisoning. Store medicines out of reach of young children and pets. Read the instructions on the label before taking any medication. Do not use expired or unknown medicines.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_a61d34ab_q",
+   "label_rw": "Umutekano wa gaze mu nzu",
+   "label_en": "Household gas cylinder safety",
+   "patterns_en": [
+    "What should I do if I smell gas?",
+    "What causes a gas cylinder to leak?",
+    "How do I safely store a gas cylinder?"
+   ],
+   "patterns_rw": [
+    "Wakoriki numva impumuro ya gaze mu nzu?",
+    "Ni iki cyatuma gaze iturika?",
+    "Ni gute wafunga gaze neza?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gukoresha gaze bisaba kwitonda kugira ngo wirinde impanuka. Buri gihe jya ugenzura ko utuyija twa gaze dufunze neza nyuma yo kuyikoresha. Ntugashyire ibintu bikongeza hafi ya gaze. Iyo wumvise umunya cyangwa impumuro ya gaze, funga vuba ifunguzo ryayo, kingura amadirishya, kandi ntugakoreshe umuriro cyangwa telefone. Hamagara ababishinzwe kugira ngo bagufashe.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Using cooking gas requires caution to prevent accidents. Always ensure that gas regulators and valves are tightly closed after use. Keep flammable materials away from the cylinder. If you smell gas, immediately turn off the main valve, open windows for ventilation, and avoid using open flames or electrical switches. Contact qualified technicians for help if a leak persists.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_c9d207fa_q",
+   "label_rw": "Kugenda nijoro mu mutekano",
+   "label_en": "Walking safely at night",
+   "patterns_en": [
+    "What should you do to stay safe when walking at night?",
+    "Which paths are best to use at night?",
+    "Why does avoiding phone use help with night safety?"
+   ],
+   "patterns_rw": [
+    "Ni iki wakora kugira ngo ugende nijoro mu mutekano?",
+    "Ni izihe nzira zikwiye gukoreshwa nijoro?",
+    "Kuki kwirinda telefone bifasha mu mutekano nijoro?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kugenda nijoro bisaba kwitonda kugira ngo wirinde ibyago. Genda mu nzira zibona kandi zifite abantu benshi. Kwirinda gukoresha telefone cyangwa kumva umuziki mu matwi bigufasha kumenya ibiri hafi yawe.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Walking safely at night requires caution to avoid risks. Walk in well-lit and populated areas. Avoiding the use of phones or listening to music with headphones helps you remain aware of your surroundings.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
   }
  ],
  "knowledge": [
@@ -11675,6 +11771,86 @@
     "kwihangana",
     "sports",
     "endurance"
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_5793ee42",
+   "category": "safety",
+   "title_rw": "Umutekano mu gikoni",
+   "title_en": "Kitchen tool safety",
+   "summary_rw": "Gukoresha ibyuma byo mu gikoni n'ibikoresho bifite ubugi bisaba ubwitonderi bwinshi. Gira isuku, ubike ibyuma ahantu hatagerwa n'abana. Ntuzagakoreshe ibyuma bifite ubugi bwangiritse. Bika ibyuma mu mwanya wabyo wihariye kugira ngo wirinde impanuka.",
+   "summary_en": "Using kitchen knives and sharp tools safely requires constant attention. Keep tools clean and store them out of reach of children. Avoid using damaged blades. Always store sharp instruments in a designated block or sheath to prevent accidents.",
+   "keywords": [
+    "ibyuma",
+    "ubugi",
+    "gikoni",
+    "umutekano",
+    "knives",
+    "sharp",
+    "kitchen",
+    "safety"
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_bb8bd1a9",
+   "category": "safety",
+   "title_rw": "Gukoresha imiti mu mutekano",
+   "title_en": "Handling medicine safely",
+   "summary_rw": "Gukoresha imiti neza bifasha kwirinda uburozi butunguranye. Bika imiti ahatagerwa n'abana bato n'amatungo. Soma amabwiriza ku icupa cyangwa agasanduku mbere yo kuyinywa. Ntugafate imiti yarangiye igihe cyangwa iyo utazi.",
+   "summary_en": "Handling medicine safely helps prevent accidental poisoning. Store medicines out of reach of young children and pets. Read the instructions on the label before taking any medication. Do not use expired or unknown medicines.",
+   "keywords": [
+    "imiti",
+    "medicine",
+    "umutekano",
+    "safety",
+    "uburozi",
+    "poisoning",
+    "abana",
+    "children"
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_a61d34ab",
+   "category": "safety",
+   "title_rw": "Umutekano wa gaze mu nzu",
+   "title_en": "Household gas cylinder safety",
+   "summary_rw": "Gukoresha gaze bisaba kwitonda kugira ngo wirinde impanuka. Buri gihe jya ugenzura ko utuyija twa gaze dufunze neza nyuma yo kuyikoresha. Ntugashyire ibintu bikongeza hafi ya gaze. Iyo wumvise umunya cyangwa impumuro ya gaze, funga vuba ifunguzo ryayo, kingura amadirishya, kandi ntugakoreshe umuriro cyangwa telefone. Hamagara ababishinzwe kugira ngo bagufashe.",
+   "summary_en": "Using cooking gas requires caution to prevent accidents. Always ensure that gas regulators and valves are tightly closed after use. Keep flammable materials away from the cylinder. If you smell gas, immediately turn off the main valve, open windows for ventilation, and avoid using open flames or electrical switches. Contact qualified technicians for help if a leak persists.",
+   "keywords": [
+    "gaze",
+    "umutekano",
+    "impanuka",
+    "kwirinda",
+    "gas",
+    "safety",
+    "leak",
+    "prevention"
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_c9d207fa",
+   "category": "safety",
+   "title_rw": "Kugenda nijoro mu mutekano",
+   "title_en": "Walking safely at night",
+   "summary_rw": "Kugenda nijoro bisaba kwitonda kugira ngo wirinde ibyago. Genda mu nzira zibona kandi zifite abantu benshi. Kwirinda gukoresha telefone cyangwa kumva umuziki mu matwi bigufasha kumenya ibiri hafi yawe.",
+   "summary_en": "Walking safely at night requires caution to avoid risks. Walk in well-lit and populated areas. Avoiding the use of phones or listening to music with headphones helps you remain aware of your surroundings.",
+   "keywords": [
+    "umutekano",
+    "nijoro",
+    "genda",
+    "kwitonda",
+    "safety",
+    "night",
+    "walking",
+    "precautions"
    ],
    "auto": true,
    "taught": "2026-11-22"
