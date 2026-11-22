@@ -1,6 +1,6 @@
 {
  "day": "2026-11-22",
- "count": 42,
+ "count": 43,
  "articles": [
   {
    "id": "crawl_1ldpeuc",
@@ -21,6 +21,26 @@
    "title_en": "FRN Rebels Shoot Down DR Congo Military Aircraft in South Kivu",
    "summary_en": "MINEMBWE – Two people have reportedly been killed and two others survived after a military aircraft belonging to the coalition of Congolese and Burundian forces crashed in the Kalongi area,… The post FRN Rebels Shoot Down DR Congo Military Aircraft in South Kivu appeared first on KT PRESS .",
    "share_id": "MN202611_1ldpeuchpmq"
+  },
+  {
+   "id": "crawl_15dlqav",
+   "title": "'Rolls-Royce' Iqbal's 'dream' journey from Old Trafford to Tannadice",
+   "summary": "Zidane Iqbal is starting to live up to his famous name and wowing Scottish Premiership fans after his move to Dundee United.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwj05z6npze4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwj05z6npze4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T17:00:01.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbe7/live/00b578f0-e693-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbe7/live/00b578f0-e693-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "'Rolls-Royce' Iqbal's 'dream' journey from Old Trafford to Tannadice",
+   "summary_en": "Zidane Iqbal is starting to live up to his famous name and wowing Scottish Premiership fans after his move to Dundee United.",
+   "share_id": "MN202611_15dlqavdnph"
   },
   {
    "id": "crawl_1evph8j",
@@ -855,5 +875,5 @@
    "share_id": "MN202611_1n53iebwev5"
   }
  ],
- "updated": "2026-11-22T17:11:49.495Z"
+ "updated": "2026-11-22T17:28:54.217Z"
 }

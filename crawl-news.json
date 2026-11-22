@@ -20,6 +20,26 @@
   "share_id": "MN202611_1ldpeuchpmq"
  },
  {
+  "id": "crawl_15dlqav",
+  "title": "'Rolls-Royce' Iqbal's 'dream' journey from Old Trafford to Tannadice",
+  "summary": "Zidane Iqbal is starting to live up to his famous name and wowing Scottish Premiership fans after his move to Dundee United.",
+  "link": "https://www.bbc.co.uk/sport/football/articles/cwj05z6npze4o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cwj05z6npze4o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-22T17:00:01.000Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbe7/live/00b578f0-e693-11f1-99b6-a35a62fa4264.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbe7/live/00b578f0-e693-11f1-99b6-a35a62fa4264.jpg",
+  "title_en": "'Rolls-Royce' Iqbal's 'dream' journey from Old Trafford to Tannadice",
+  "summary_en": "Zidane Iqbal is starting to live up to his famous name and wowing Scottish Premiership fans after his move to Dundee United.",
+  "share_id": "MN202611_15dlqavdnph"
+ },
+ {
   "id": "crawl_1evph8j",
   "title": "Kabila Rebels Shoot Down Fighter Jet, Capture Pilot",
   "summary": "A pilot of a Congolese Fighter jet has been captured alive after FRN Rebels shot down the aircraft, Taarifa Investigative Desk has established. According to FRN forces, the pilot only identified as Andre, a South African citizen had been supporting Congolese and Burundi coalition forces alongside FDLR and Wazalendo militias, in air operations targeting civilians […] The post Kabila Rebels Shoot…",
@@ -141,7 +161,7 @@
  {
   "id": "crawl_1gyy9mw",
   "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-  "summary": "Libya's eastern government says it is working with Russia to investigate the incident.",
+  "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
   "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-22T15:50:13.000Z",
@@ -152,10 +172,10 @@
    "BBC World",
    "world"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a8/live/15e18c00-e693-11f1-99a1-253766e7ad8b.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a8/live/15e18c00-e693-11f1-99a1-253766e7ad8b.jpg",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0559/live/3e9dd1e0-e692-11f1-936e-1fd1d31671db.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0559/live/3e9dd1e0-e692-11f1-936e-1fd1d31671db.jpg",
   "title_en": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-  "summary_en": "Libya's eastern government says it is working with Russia to investigate the incident.",
+  "summary_en": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
   "share_id": "MN202611_1gyy9mwr63q"
  },
  {
@@ -411,7 +431,8 @@
    "KT Press",
    "news",
    "Society",
-   "big-story"
+   "big-story",
+   "latestnews"
   ],
   "title_en": "How an Iraqi Refugee’s Search for Belonging Found New Meaning in Rwanda",
   "summary_en": "KIGALI – Othman Aland Koran was about 5 years old when his family left Iraq for Switzerland, beginning a childhood shaped by displacement, unfamiliar languages and the challenge of finding… The post How an Iraqi Refugee’s Search for Belonging Found New Meaning in Rwanda appeared first on KT PRESS .",
@@ -1878,8 +1899,8 @@
  },
  {
   "id": "crawl_1hxln7m",
-  "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
-  "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+  "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+  "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
   "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-21T18:22:09.000Z",
@@ -1892,8 +1913,8 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f9/live/a55b16b0-e66d-11f1-9e24-791c5321ff0f.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f9/live/a55b16b0-e66d-11f1-9e24-791c5321ff0f.jpg",
-  "title_en": "Russia-bound ship still on fire after attack in Gulf of Finland",
-  "summary_en": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+  "title_en": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+  "summary_en": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
   "share_id": "MN202611_1hxln7mejog"
  },
  {
@@ -17087,25 +17108,5 @@
   "title_rw": "Mugire Umunsi Mpuzamahanga mwiza w'ubworoherane",
   "summary_rw": "Buri mwaka tariki ya 16 Ugushyingo, isi yizihiza Umunsi Mpuzamahanga wo Koroherana (International Day for Tolerance), ugamije gushishikariza abantu kubahana, kwemera ko batandukanye no kubana mu (…)",
   "share_id": "MN202611_hdevyo0bu6"
- },
- {
-  "id": "crawl_k31rzb",
-  "title": "Klopp says Infantino worse than Blatter",
-  "summary": "Germany manager Jurgen Klopp says he \"didn't think things could get worse after Sepp Blatter, but someone has managed to do just that\" as he calls for Fifa president Gianni Infantino to be replaced.",
-  "link": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-16T11:27:08.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/217d/live/86082020-e1ac-11f1-8ee3-23d0d09d2796.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/217d/live/86082020-e1ac-11f1-8ee3-23d0d09d2796.jpg",
-  "title_en": "Klopp says Infantino worse than Blatter",
-  "summary_en": "Germany manager Jurgen Klopp says he \"didn't think things could get worse after Sepp Blatter, but someone has managed to do just that\" as he calls for Fifa president Gianni Infantino to be replaced.",
-  "share_id": "MN202611_k31rzbtpdx"
  }
 ]
