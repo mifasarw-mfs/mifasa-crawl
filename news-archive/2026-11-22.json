@@ -1,7 +1,47 @@
 {
  "day": "2026-11-22",
- "count": 37,
+ "count": 39,
  "articles": [
+  {
+   "id": "crawl_1gyy9mw",
+   "title": "Explosion on Russian ship at Libya port likely caused by drone attack, officials say",
+   "summary": "Libya's eastern rival government says it is working with Russia to investigate the incident.",
+   "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T15:50:13.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/577b/live/c0d843f0-e68a-11f1-936e-1fd1d31671db.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/577b/live/c0d843f0-e68a-11f1-936e-1fd1d31671db.jpg",
+   "title_en": "Explosion on Russian ship at Libya port likely caused by drone attack, officials say",
+   "summary_en": "Libya's eastern rival government says it is working with Russia to investigate the incident.",
+   "share_id": "MN202611_1gyy9mwr63q"
+  },
+  {
+   "id": "crawl_1dax4ko",
+   "title": "PSG's Doue to have surgery on ruptured ACL",
+   "summary": "Paris St-Germain forward Desire Doue will have surgery later this month after rupturing the anterior cruciate ligament in his right knee.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw0k6x0764ero?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cw0k6x0764ero?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T15:50:05.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb0e/live/e990a750-e68b-11f1-936e-1fd1d31671db.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb0e/live/e990a750-e68b-11f1-936e-1fd1d31671db.jpg",
+   "title_en": "PSG's Doue to have surgery on ruptured ACL",
+   "summary_en": "Paris St-Germain forward Desire Doue will have surgery later this month after rupturing the anterior cruciate ligament in his right knee.",
+   "share_id": "MN202611_1dax4kop1za"
+  },
   {
    "id": "crawl_p597w3",
    "title": "Banyamuhanga Meya wanyu ari hafi kuboneka - Umuyobozi w'agateganyo",
@@ -754,5 +794,5 @@
    "share_id": "MN202611_1n53iebwev5"
   }
  ],
- "updated": "2026-11-22T14:21:09.371Z"
+ "updated": "2026-11-22T16:04:47.466Z"
 }
