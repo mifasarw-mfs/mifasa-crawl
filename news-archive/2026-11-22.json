@@ -1,7 +1,27 @@
 {
  "day": "2026-11-22",
- "count": 23,
+ "count": 24,
  "articles": [
+  {
+   "id": "crawl_go57qg",
+   "title": "'Not the right time' - Fernandes pauses Man Utd contract talks",
+   "summary": "Manchester United captain Bruno Fernandes says he has been offered a new contract by the club but feels it \"is not the right time\" for discussions about his future.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6x2e8devk1po?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6x2e8devk1po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T08:41:20.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/104e/live/c689eea0-e64b-11f1-a563-e14cd8b02601.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/104e/live/c689eea0-e64b-11f1-a563-e14cd8b02601.jpg",
+   "title_en": "'Not the right time' - Fernandes pauses Man Utd contract talks",
+   "summary_en": "Manchester United captain Bruno Fernandes says he has been offered a new contract by the club but feels it \"is not the right time\" for discussions about his future.",
+   "share_id": "MN202611_go57qgx552"
+  },
   {
    "id": "crawl_fpbi2y",
    "title": "Mexique: Umukuru w'abacuruza ibiyobyabwenge wari uri ku rutonde rw'abantu 10 bashakishwa cyane na FBI yatawe muri yombi",
@@ -467,5 +487,5 @@
    "share_id": "MN202611_1n53iebwev5"
   }
  ],
- "updated": "2026-11-22T08:03:29.685Z"
+ "updated": "2026-11-22T09:13:02.783Z"
 }
