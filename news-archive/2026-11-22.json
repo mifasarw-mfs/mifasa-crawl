@@ -1,7 +1,67 @@
 {
  "day": "2026-11-22",
- "count": 66,
+ "count": 69,
  "articles": [
+  {
+   "id": "crawl_3ij0mp",
+   "title": "Fifa to confirm UK bid to host 2035 Women's World Cup",
+   "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T21:44:37.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/557b/live/9cccbb70-e6b8-11f1-bb92-6d8a0512bfb0.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/557b/live/9cccbb70-e6b8-11f1-bb92-6d8a0512bfb0.jpg",
+   "title_en": "Fifa to confirm UK bid to host 2035 Women's World Cup",
+   "summary_en": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
+   "share_id": "MN202611_3ij0mpf00f"
+  },
+  {
+   "id": "crawl_1xo22ih",
+   "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+   "summary": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T21:36:00.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e813/live/77008940-e6bc-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e813/live/77008940-e6bc-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+   "summary_en": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
+   "share_id": "MN202611_1xo22ihtzx3"
+  },
+  {
+   "id": "crawl_1kv5l76",
+   "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
+   "summary": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T21:22:10.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de6c/live/aa7667d0-e6bd-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de6c/live/aa7667d0-e6bd-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Chaotic week, nightmare start and huge reality check for Pochettino",
+   "summary_en": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
+   "share_id": "MN202611_1kv5l76xils"
+  },
   {
    "id": "crawl_db1hw0",
    "title": "Pepe did not injure eyes staring at sun, say Villarreal",
@@ -1335,5 +1395,5 @@
    "share_id": "MN202611_1n53iebwev5"
   }
  ],
- "updated": "2026-11-22T21:11:25.112Z"
+ "updated": "2026-11-22T21:51:11.763Z"
 }
