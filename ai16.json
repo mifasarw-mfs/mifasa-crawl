@@ -6379,6 +6379,30 @@
    ],
    "auto": true,
    "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_c282ef7a_q",
+   "label_rw": "Ibyiciro bya Triathlon n'uburemere bwabyo",
+   "label_en": "Triathlon Stages and Endurance",
+   "patterns_en": [
+    "What is a triathlon?",
+    "What sports are included?",
+    "How do athletes train?"
+   ],
+   "patterns_rw": [
+    "Ni iki kigize triathlon?",
+    "Ni izihe siporo ziyigize?",
+    "Ni gute abakinnyi bategurwa?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Triathlon ni umukino ngororamubiriuhuza koga, gusiganwa ku igare no kwiruka mu cyiciro kimwe nta kuruhuka. Abakinnyi basabwa kwihangana cyane kugira ngo barangize intera ndende. Uyu mukino usaba imyitozo ikomeye y'umubiri n'ubushobozi bwo gucunga imbaraga neza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Triathlon is a multisport race combining swimming, cycling, and running in immediate succession without a break. Athletes require high endurance to complete the long distances. The sport demands intensive physical training and proper energy management.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
   }
  ],
  "knowledge": [
@@ -11634,6 +11658,26 @@
    ],
    "auto": true,
    "taught": "2026-11-21"
+  },
+  {
+   "id": "ai16_c282ef7a",
+   "category": "sports",
+   "title_rw": "Ibyiciro bya Triathlon n'uburemere bwabyo",
+   "title_en": "Triathlon Stages and Endurance",
+   "summary_rw": "Triathlon ni umukino ngororamubiriuhuza koga, gusiganwa ku igare no kwiruka mu cyiciro kimwe nta kuruhuka. Abakinnyi basabwa kwihangana cyane kugira ngo barangize intera ndende. Uyu mukino usaba imyitozo ikomeye y'umubiri n'ubushobozi bwo gucunga imbaraga neza.",
+   "summary_en": "Triathlon is a multisport race combining swimming, cycling, and running in immediate succession without a break. Athletes require high endurance to complete the long distances. The sport demands intensive physical training and proper energy management.",
+   "keywords": [
+    "triathlon",
+    "siporo",
+    "koga",
+    "igare",
+    "kwiruka",
+    "kwihangana",
+    "sports",
+    "endurance"
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
   }
  ]
 }
