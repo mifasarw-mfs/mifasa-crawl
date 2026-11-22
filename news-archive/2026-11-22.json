@@ -1,7 +1,27 @@
 {
  "day": "2026-11-22",
- "count": 39,
+ "count": 40,
  "articles": [
+  {
+   "id": "crawl_r2siej",
+   "title": "Spurs 'a match for anyone' as win at Man City boosts European hopes",
+   "summary": "With the Women's Super League big four firmly established, and London City Lionesses spending their way into European contention, Champions League dreams could have seemed more fanciful than ever for Tottenham Hotspur. But they are firmly in the mix.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6n901w453nlo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6n901w453nlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T16:25:35.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8bf/live/e5be34d0-e686-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8bf/live/e5be34d0-e686-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "Spurs 'a match for anyone' as win at Man City boosts European hopes",
+   "summary_en": "With the Women's Super League big four firmly established, and London City Lionesses spending their way into European contention, Champions League dreams could have seemed more fanciful than ever for Tottenham Hotspur. But they are firmly in the mix.",
+   "share_id": "MN202611_r2siejkft5"
+  },
   {
    "id": "crawl_1gyy9mw",
    "title": "Explosion on Russian ship at Libya port likely caused by drone attack, officials say",
@@ -794,5 +814,5 @@
    "share_id": "MN202611_1n53iebwev5"
   }
  ],
- "updated": "2026-11-22T16:04:47.466Z"
+ "updated": "2026-11-22T16:47:18.055Z"
 }
