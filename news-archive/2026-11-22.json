@@ -1,7 +1,27 @@
 {
  "day": "2026-11-22",
- "count": 6,
+ "count": 7,
  "articles": [
+  {
+   "id": "crawl_k9s51y",
+   "title": "Zelensky avuga ko kurasa iteme rya Crimea byari 'igisubizo kiboneye', mu gihe yahuraga na Minisitiri w'ingabo w'Ubwongereza",
+   "summary": "Perezida wa Ukraine avuga ko igihugu cye cyagize icyo gikora nyuma yuko Uburusiya bugabye ibitero 109 binyuranye byo mu kirere ku mateme yo muri Ukraine.",
+   "link": "https://www.bbc.com/gahuza/articles/cxe894g3753vo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/cxe894g3753vo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T04:42:07.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e0f6/live/3d20e360-e625-11f1-b7fc-c706dcc3f79b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e0f6/live/3d20e360-e625-11f1-b7fc-c706dcc3f79b.jpg",
+   "title_rw": "Zelensky avuga ko kurasa iteme rya Crimea byari 'igisubizo kiboneye', mu gihe yahuraga na Minisitiri w'ingabo w'Ubwongereza",
+   "summary_rw": "Perezida wa Ukraine avuga ko igihugu cye cyagize icyo gikora nyuma yuko Uburusiya bugabye ibitero 109 binyuranye byo mu kirere ku mateme yo muri Ukraine.",
+   "share_id": "MN202611_k9s51yl1is"
+  },
   {
    "id": "crawl_10h7mtr",
    "title": "Fossil fuel dispute threatens to derail COP31 climate deal",
@@ -127,5 +147,5 @@
    "share_id": "MN202611_1nhls0bz3hl"
   }
  ],
- "updated": "2026-11-22T04:23:45.338Z"
+ "updated": "2026-11-22T04:49:33.276Z"
 }
