@@ -6499,6 +6499,102 @@
    ],
    "auto": true,
    "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_fd16c339_q",
+   "label_rw": "Amagambo y'ikirere mu Kinyarwanda",
+   "label_en": "Weather terms in Kinyarwanda",
+   "patterns_en": [
+    "What does imvura mean in Kinyarwanda?",
+    "What does the sun provide to the atmosphere?",
+    "What is umuyaga in daily life?"
+   ],
+   "patterns_rw": [
+    "Imvura bisobanura iki mu Kinyarwanda?",
+    "Izuba niryo ritanga iki mu kirere?",
+    "Umuyaga ni iki mu buzima bwa buri munsi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ikinyarwanda gifite amagambo menshi yo gusobanura ibyerekeye ikirere. Imvura isobanura amazi agwa mu ijuru. Izuba risobanura umucyo n'ubushyuhe bitangwa n'izuba. Umuyaga ni umuvuduko w'umwuka utembera mu kirere. Iyi migemo yafasha abantu gusobanukirwa uko ikirere gihindagurika buri munsi mu Rwanda.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Kinyarwanda has many terms to describe weather conditions. Imvura refers to rain falling from the sky. Izuba refers to the light and heat provided by the sun. Umuyaga is the movement of air in the atmosphere. These terms help people understand daily weather changes in Rwanda.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_98b0a985_q",
+   "label_rw": "Amarangamutima mu Kinyarwanda",
+   "label_en": "Emotions in Kinyarwanda",
+   "patterns_en": [
+    "What is said about emotions in Kinyarwanda?",
+    "What are the main words for feelings?",
+    "Does the Kinyarwanda language have emotion words?"
+   ],
+   "patterns_rw": [
+    "Ni iki kivugwa ku marangamutima mu Kinyarwanda?",
+    "Amagambo y'ingenzi y'ibyiyumvo ni ayahe?",
+    "Ese ururimi rw'Ikinyarwanda rufite amagambo y'amarangamutima?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ururimi rw'Ikinyarwanda rufite amagambo menshi yo kugaragaza amarangamutima n'ibyiyumvo bitandukanye. Amagambo nka 'ibyishimo', 'uburakari', na 'agahinda' akoreshwa mu buzima bwa buri munsi kugira ngo abantu basobanure uko bameze mu ntekerezo no mu mitima yabo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The Kinyarwanda language has many words to express various emotions and feelings. Words such as 'happiness', 'anger', and 'sadness' are used in daily life to help people describe their state of mind and heart.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_45716713_q",
+   "label_rw": "Ibinyazina mu Kinyarwanda",
+   "label_en": "Kinyarwanda Pronouns",
+   "patterns_en": [
+    "What are pronouns in Kinyarwanda?",
+    "What is their purpose in conversation?",
+    "What types of pronouns exist?"
+   ],
+   "patterns_rw": [
+    "Ibinyazina ni iki mu Kinyarwanda?",
+    "Bifasha iki mu kiganiro?",
+    "Ni ayahe moko y'ibinyazina aboneka?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mu Kinyarwanda, ibinyazina ni amagambo asimbura izina. Bifasha mu kwirinda gusubiramo izina rimwe inshuro nyinshi mu kiganiro. Hari ubwoko bw'ibinyazina bitandukanye birimo iby'ubumwe n'ubwinshi. Bigira uruhare rukomeye mu mikoreshereze y'ururimi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "In Kinyarwanda, pronouns are words that replace nouns. They help avoid repeating the same noun too many times in a conversation. There are different types of pronouns including singular and plural forms. They play an important role in language usage.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_0eed7d17_q",
+   "label_rw": "Kamere n'imiterere y'isi mu Kinyarwanda",
+   "label_en": "Nature and landscape in Kinyarwanda",
+   "patterns_en": [
+    "What Kinyarwanda words are used for nature?",
+    "How are hills and valleys described in Kinyarwanda?",
+    "Why are landscape words important?"
+   ],
+   "patterns_rw": [
+    "Ni ayahe magambo y'Ikinyarwanda akoreshwa kuri kamere?",
+    "Imisozi n'ibibaya bivugwa gute mu Kinyarwanda?",
+    "Kuki amagambo y'imiterere y'isi ari ingenzi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ururimi rw'Ikinyarwanda rufite amagambo menshi yo gusobanura kamere n'imiterere y'isi. Aya magambo agaragaza imisozi, ibibaya, inzuzi, n'amashyamba biri mu Rwanda. Ibi bifasha abaturage kuvuga ku bidukikijije mu buzima bw'iminsi yose.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The Kinyarwanda language has many words to describe nature and landscape. These words refer to the hills, valleys, rivers, and forests found in Rwanda. This helps people talk about their surrounding environment in daily life.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
   }
  ],
  "knowledge": [
@@ -11851,6 +11947,84 @@
     "night",
     "walking",
     "precautions"
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_fd16c339",
+   "category": "language",
+   "title_rw": "Amagambo y'ikirere mu Kinyarwanda",
+   "title_en": "Weather terms in Kinyarwanda",
+   "summary_rw": "Ikinyarwanda gifite amagambo menshi yo gusobanura ibyerekeye ikirere. Imvura isobanura amazi agwa mu ijuru. Izuba risobanura umucyo n'ubushyuhe bitangwa n'izuba. Umuyaga ni umuvuduko w'umwuka utembera mu kirere. Iyi migemo yafasha abantu gusobanukirwa uko ikirere gihindagurika buri munsi mu Rwanda.",
+   "summary_en": "Kinyarwanda has many terms to describe weather conditions. Imvura refers to rain falling from the sky. Izuba refers to the light and heat provided by the sun. Umuyaga is the movement of air in the atmosphere. These terms help people understand daily weather changes in Rwanda.",
+   "keywords": [
+    "ikirere",
+    "weather",
+    "imvura",
+    "rain",
+    "izuba",
+    "sun",
+    "umuyaga",
+    "wind"
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_98b0a985",
+   "category": "language",
+   "title_rw": "Amarangamutima mu Kinyarwanda",
+   "title_en": "Emotions in Kinyarwanda",
+   "summary_rw": "Ururimi rw'Ikinyarwanda rufite amagambo menshi yo kugaragaza amarangamutima n'ibyiyumvo bitandukanye. Amagambo nka 'ibyishimo', 'uburakari', na 'agahinda' akoreshwa mu buzima bwa buri munsi kugira ngo abantu basobanure uko bameze mu ntekerezo no mu mitima yabo.",
+   "summary_en": "The Kinyarwanda language has many words to express various emotions and feelings. Words such as 'happiness', 'anger', and 'sadness' are used in daily life to help people describe their state of mind and heart.",
+   "keywords": [
+    "amarangamutima",
+    "ibyiyumvo",
+    "ururimi",
+    "ikinyarwanda",
+    "emotions",
+    "feelings",
+    "language"
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_45716713",
+   "category": "language",
+   "title_rw": "Ibinyazina mu Kinyarwanda",
+   "title_en": "Kinyarwanda Pronouns",
+   "summary_rw": "Mu Kinyarwanda, ibinyazina ni amagambo asimbura izina. Bifasha mu kwirinda gusubiramo izina rimwe inshuro nyinshi mu kiganiro. Hari ubwoko bw'ibinyazina bitandukanye birimo iby'ubumwe n'ubwinshi. Bigira uruhare rukomeye mu mikoreshereze y'ururimi.",
+   "summary_en": "In Kinyarwanda, pronouns are words that replace nouns. They help avoid repeating the same noun too many times in a conversation. There are different types of pronouns including singular and plural forms. They play an important role in language usage.",
+   "keywords": [
+    "ibinyazina",
+    "pronouns",
+    "ururimi",
+    "language",
+    "inyito",
+    "grammar",
+    "kinyarwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_0eed7d17",
+   "category": "language",
+   "title_rw": "Kamere n'imiterere y'isi mu Kinyarwanda",
+   "title_en": "Nature and landscape in Kinyarwanda",
+   "summary_rw": "Ururimi rw'Ikinyarwanda rufite amagambo menshi yo gusobanura kamere n'imiterere y'isi. Aya magambo agaragaza imisozi, ibibaya, inzuzi, n'amashyamba biri mu Rwanda. Ibi bifasha abaturage kuvuga ku bidukikijije mu buzima bw'iminsi yose.",
+   "summary_en": "The Kinyarwanda language has many words to describe nature and landscape. These words refer to the hills, valleys, rivers, and forests found in Rwanda. This helps people talk about their surrounding environment in daily life.",
+   "keywords": [
+    "kamere",
+    "nature",
+    "imiterere",
+    "landscape",
+    "imisozi",
+    "hills",
+    "ibibaya",
+    "valleys"
    ],
    "auto": true,
    "taught": "2026-11-22"
