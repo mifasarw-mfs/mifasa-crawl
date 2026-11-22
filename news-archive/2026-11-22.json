@@ -1,7 +1,48 @@
 {
  "day": "2026-11-22",
- "count": 40,
+ "count": 42,
  "articles": [
+  {
+   "id": "crawl_1ldpeuc",
+   "title": "FRN Rebels Shoot Down DR Congo Military Aircraft in South Kivu",
+   "summary": "MINEMBWE – Two people have reportedly been killed and two others survived after a military aircraft belonging to the coalition of Congolese and Burundian forces crashed in the Kalongi area,… The post FRN Rebels Shoot Down DR Congo Military Aircraft in South Kivu appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/frn-rebels-shoot-down-dr-congo-military-aircraft-in-south-kivu/",
+   "url": "https://www.ktpress.rw/2026/11/frn-rebels-shoot-down-dr-congo-military-aircraft-in-south-kivu/",
+   "date": "2026-11-22T17:09:07.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "Regional",
+    "big-story"
+   ],
+   "title_en": "FRN Rebels Shoot Down DR Congo Military Aircraft in South Kivu",
+   "summary_en": "MINEMBWE – Two people have reportedly been killed and two others survived after a military aircraft belonging to the coalition of Congolese and Burundian forces crashed in the Kalongi area,… The post FRN Rebels Shoot Down DR Congo Military Aircraft in South Kivu appeared first on KT PRESS .",
+   "share_id": "MN202611_1ldpeuchpmq"
+  },
+  {
+   "id": "crawl_1evph8j",
+   "title": "Kabila Rebels Shoot Down Fighter Jet, Capture Pilot",
+   "summary": "A pilot of a Congolese Fighter jet has been captured alive after FRN Rebels shot down the aircraft, Taarifa Investigative Desk has established. According to FRN forces, the pilot only identified as Andre, a South African citizen had been supporting Congolese and Burundi coalition forces alongside FDLR and Wazalendo militias, in air operations targeting civilians […] The post Kabila Rebels Shoot…",
+   "link": "https://taarifa.rw/2026/11/22/kabila-rebels-shoot-down-fighter-jet-capture-pilot/",
+   "url": "https://taarifa.rw/2026/11/22/kabila-rebels-shoot-down-fighter-jet-capture-pilot/",
+   "date": "2026-11-22T16:48:23.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "DRC Special Edition"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261122-193020.jpg?fit=720%2C378&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261122-193020.jpg?fit=720%2C378&ssl=1",
+   "title_en": "Kabila Rebels Shoot Down Fighter Jet, Capture Pilot",
+   "summary_en": "A pilot of a Congolese Fighter jet has been captured alive after FRN Rebels shot down the aircraft, Taarifa Investigative Desk has established. According to FRN forces, the pilot only identified as Andre, a South African citizen had been supporting Congolese and Burundi coalition forces alongside FDLR and Wazalendo militias, in air operations targeting civilians […] The post Kabila Rebels Shoot…",
+   "share_id": "MN202611_1evph8je99d"
+  },
   {
    "id": "crawl_r2siej",
    "title": "Spurs 'a match for anyone' as win at Man City boosts European hopes",
@@ -814,5 +855,5 @@
    "share_id": "MN202611_1n53iebwev5"
   }
  ],
- "updated": "2026-11-22T16:47:18.055Z"
+ "updated": "2026-11-22T17:11:49.495Z"
 }
