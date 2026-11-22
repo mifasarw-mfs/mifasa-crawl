@@ -1,5 +1,28 @@
 [
  {
+  "id": "crawl_1j8g7bo",
+  "title": "Dore abajyanama rusange bashoje icyiciro cyo gutora abagize njyanama y'Akarere",
+  "summary": "Abantu cumi na barindwi bazayobora buri Karere k’u Rwanda bamenyekanye nyuma y’amatora yabaye mu gihugu hose kuri uyu wa 21 Ugishyingo. Abajyanama rusange ni bo batowe mu turere twose, bakaba (…)",
+  "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/dore-abajyanama-rusange-bashoje-icyiciro-cyo-gutora-abagize-njyanama-y-akarere",
+  "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/dore-abajyanama-rusange-bashoje-icyiciro-cyo-gutora-abagize-njyanama-y-akarere",
+  "date": "2026-11-22T13:37:29.000Z",
+  "source": "Kigali Today",
+  "category": "news",
+  "lang": "rw",
+  "keywords": [
+   "Kigali Today",
+   "news",
+   "Mu Rwanda",
+   "MobileBigStory",
+   "Jean de la Croix Tabaro"
+  ],
+  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-22_at_06.22_25_1_-2.jpg",
+  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-22_at_06.22_25_1_-2.jpg",
+  "title_rw": "Dore abajyanama rusange bashoje icyiciro cyo gutora abagize njyanama y'Akarere",
+  "summary_rw": "Abantu cumi na barindwi bazayobora buri Karere k’u Rwanda bamenyekanye nyuma y’amatora yabaye mu gihugu hose kuri uyu wa 21 Ugishyingo. Abajyanama rusange ni bo batowe mu turere twose, bakaba (…)",
+  "share_id": "MN202611_1j8g7bo9ovm"
+ },
+ {
   "id": "crawl_2k70ik",
   "title": "Frick delivers on 'heavy metal football' promise",
   "summary": "Mario Frick aimed for \"heavy metal football\" after taking over from Aberdeen and travelling fans were served up quite the concert at Rugby Park.",
@@ -300,7 +323,7 @@
  {
   "id": "crawl_hyr58i",
   "title": "Midwives told to expect fewer jobs as recruitment drive is paused",
-  "summary": "One graduate said she would take minimum wage to get her first job in widwifery.",
+  "summary": "One graduate said she would take minimum wage to get her first job in midwifery.",
   "link": "https://www.bbc.co.uk/news/articles/ck24e1j762y6o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/ck24e1j762y6o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-22T07:46:28.000Z",
@@ -314,7 +337,7 @@
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b074/live/e23d5220-e52b-11f1-964d-a1d5fe40573e.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b074/live/e23d5220-e52b-11f1-964d-a1d5fe40573e.jpg",
   "title_en": "Midwives told to expect fewer jobs as recruitment drive is paused",
-  "summary_en": "One graduate said she would take minimum wage to get her first job in widwifery.",
+  "summary_en": "One graduate said she would take minimum wage to get her first job in midwifery.",
   "share_id": "MN202611_hyr58ik1pc"
  },
  {
@@ -17088,31 +17111,5 @@
   "title_en": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
   "summary_en": "The UK, Australia, Canada and Italy say Israeli authorities are holding back vital supplies at the borders, including 150,00 tents.",
   "share_id": "MN202611_162b8kx451r"
- },
- {
-  "id": "crawl_mo8jaw",
-  "title": "#Chioma #diamondplatnumz #wcb #nigeria #dance #amapiano #davido",
-  "summary": "#Chioma #diamondplatnumz #wcb #nigeria #dance #amapiano #davido",
-  "link": "https://www.youtube.com/shorts/jNDKpzkbJKg",
-  "url": "https://www.youtube.com/shorts/jNDKpzkbJKg",
-  "date": "2026-11-16T08:53:44.000Z",
-  "source": "Diamond Platnumz YouTube",
-  "category": "entertainment",
-  "lang": "rw",
-  "keywords": [
-   "Diamond Platnumz YouTube",
-   "entertainment",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "jNDKpzkbJKg"
-  },
-  "type": "video",
-  "image": "https://i3.ytimg.com/vi/jNDKpzkbJKg/hqdefault.jpg",
-  "thumbnail": "https://i3.ytimg.com/vi/jNDKpzkbJKg/hqdefault.jpg",
-  "title_rw": "#Chioma #diamondplatnumz #wcb #nigeria #dance #amapiano #davido",
-  "summary_rw": "#Chioma #diamondplatnumz #wcb #nigeria #dance #amapiano #davido",
-  "share_id": "MN202611_mo8jawkehi"
  }
 ]

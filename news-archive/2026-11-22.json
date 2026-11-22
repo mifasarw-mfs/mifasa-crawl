@@ -1,7 +1,30 @@
 {
  "day": "2026-11-22",
- "count": 33,
+ "count": 34,
  "articles": [
+  {
+   "id": "crawl_1j8g7bo",
+   "title": "Dore abajyanama rusange bashoje icyiciro cyo gutora abagize njyanama y'Akarere",
+   "summary": "Abantu cumi na barindwi bazayobora buri Karere k’u Rwanda bamenyekanye nyuma y’amatora yabaye mu gihugu hose kuri uyu wa 21 Ugishyingo. Abajyanama rusange ni bo batowe mu turere twose, bakaba (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/dore-abajyanama-rusange-bashoje-icyiciro-cyo-gutora-abagize-njyanama-y-akarere",
+   "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/dore-abajyanama-rusange-bashoje-icyiciro-cyo-gutora-abagize-njyanama-y-akarere",
+   "date": "2026-11-22T13:37:29.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu Rwanda",
+    "MobileBigStory",
+    "Jean de la Croix Tabaro"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-22_at_06.22_25_1_-2.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-22_at_06.22_25_1_-2.jpg",
+   "title_rw": "Dore abajyanama rusange bashoje icyiciro cyo gutora abagize njyanama y'Akarere",
+   "summary_rw": "Abantu cumi na barindwi bazayobora buri Karere k’u Rwanda bamenyekanye nyuma y’amatora yabaye mu gihugu hose kuri uyu wa 21 Ugishyingo. Abajyanama rusange ni bo batowe mu turere twose, bakaba (…)",
+   "share_id": "MN202611_1j8g7bo9ovm"
+  },
   {
    "id": "crawl_2k70ik",
    "title": "Frick delivers on 'heavy metal football' promise",
@@ -667,5 +690,5 @@
    "share_id": "MN202611_1n53iebwev5"
   }
  ],
- "updated": "2026-11-22T13:28:14.110Z"
+ "updated": "2026-11-22T13:46:09.172Z"
 }
