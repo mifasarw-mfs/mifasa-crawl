@@ -1,7 +1,47 @@
 {
  "day": "2026-11-23",
- "count": 86,
+ "count": 88,
  "articles": [
+  {
+   "id": "crawl_1iburid",
+   "title": "De Bruyne's feelings for Man City will 'never change'",
+   "summary": "Kevin de Bruyne says he has \"love\" for Manchester City's owners and his feelings for the club will \"never change\" despite being found guilty of breaching the Premier League's financial rules.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cxq6e9vlp39jo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cxq6e9vlp39jo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T21:05:23.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3392/live/719320d0-e77a-11f1-978f-df545a5c5c20.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3392/live/719320d0-e77a-11f1-978f-df545a5c5c20.jpg",
+   "title_en": "De Bruyne's feelings for Man City will 'never change'",
+   "summary_en": "Kevin de Bruyne says he has \"love\" for Manchester City's owners and his feelings for the club will \"never change\" despite being found guilty of breaching the Premier League's financial rules.",
+   "share_id": "MN202611_1iburidmowz"
+  },
+  {
+   "id": "crawl_hoyp1d",
+   "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+   "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+   "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T20:48:35.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/363b/live/dab0da20-e771-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/363b/live/dab0da20-e771-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "What strike on Russian ship in Libya says about spread of Ukraine war",
+   "summary_en": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+   "share_id": "MN202611_hoyp1drli7"
+  },
   {
    "id": "crawl_gdy4x8",
    "title": "Perezida Kagame yasezeye kuri Ambasaderi wa Zimbabwe ushoje ikivi",
@@ -1770,5 +1810,5 @@
    "share_id": "MN202611_1dt5tu0xy3q"
   }
  ],
- "updated": "2026-11-23T20:29:25.520Z"
+ "updated": "2026-11-23T21:19:22.990Z"
 }
