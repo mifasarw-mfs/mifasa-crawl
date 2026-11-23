@@ -1,7 +1,47 @@
 {
  "day": "2026-11-23",
- "count": 11,
+ "count": 13,
  "articles": [
+  {
+   "id": "crawl_1wuwi3u",
+   "title": "Five takeaways from the failed climate talks COP31",
+   "summary": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
+   "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T06:33:50.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ce9/live/11961550-e704-11f1-8d78-e5a497181e56.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ce9/live/11961550-e704-11f1-8d78-e5a497181e56.jpg",
+   "title_en": "Five takeaways from the failed climate talks COP31",
+   "summary_en": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
+   "share_id": "MN202611_1wuwi3upeko"
+  },
+  {
+   "id": "crawl_dr37t7",
+   "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
+   "summary": "BBC Sport looks at why JJ Gabriel's move from Manchester United to Real Madrid has caused such a stir.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T06:17:59.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc61/live/ebf65340-e4f7-11f1-a8e4-b1e12a49db15.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc61/live/ebf65340-e4f7-11f1-a8e4-b1e12a49db15.jpg",
+   "title_en": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
+   "summary_en": "BBC Sport looks at why JJ Gabriel's move from Manchester United to Real Madrid has caused such a stir.",
+   "share_id": "MN202611_dr37t7z76x"
+  },
   {
    "id": "crawl_map8uo",
    "title": "Ubwato bw’intambara bw’Uburusiya bwononekaye cane mu gitero bikekwa ko cakozwe na drone muri Libya",
@@ -234,5 +274,5 @@
    "share_id": "MN202611_1dt5tu0xy3q"
   }
  ],
- "updated": "2026-11-23T05:53:38.340Z"
+ "updated": "2026-11-23T06:37:01.001Z"
 }
