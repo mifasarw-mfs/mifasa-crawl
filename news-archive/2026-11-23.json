@@ -1,6 +1,6 @@
 {
  "day": "2026-11-23",
- "count": 81,
+ "count": 82,
  "articles": [
   {
    "id": "crawl_1mw1dl",
@@ -44,6 +44,26 @@
    "title_en": "What failure of COP31 reveals about a divided world",
    "summary_en": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
    "share_id": "MN202611_15jblma4i34"
+  },
+  {
+   "id": "crawl_w76dy6",
+   "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
+   "summary": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
+   "link": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T17:14:50.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f36/live/7d4e5560-e758-11f1-b407-33329b1ec67a.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f36/live/7d4e5560-e758-11f1-b407-33329b1ec67a.png",
+   "title_en": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
+   "summary_en": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
+   "share_id": "MN202611_w76dy6zaf0"
   },
   {
    "id": "crawl_89u3qz",
@@ -1664,5 +1684,5 @@
    "share_id": "MN202611_1dt5tu0xy3q"
   }
  ],
- "updated": "2026-11-23T17:44:45.630Z"
+ "updated": "2026-11-23T17:51:44.990Z"
 }
