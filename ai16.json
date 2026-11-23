@@ -6906,6 +6906,78 @@
    ],
    "auto": true,
    "taught": "2026-11-23"
+  },
+  {
+   "id": "ai16_201db0a8_q",
+   "label_rw": "Gukurikirana ibicurane n'umurura",
+   "label_en": "Managing common colds and flu",
+   "patterns_en": [
+    "What causes colds and flu?",
+    "How can you manage cold symptoms?",
+    "Do antibiotics cure colds?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera ibicurane n'umurura?",
+    "Wakurikirana ute ibimenyetso by'ibicurane?",
+    "Ese antibiotike ivura ibicurane?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ibicurane n'umurura ni indwara ziterwa na virusi. Kwirinda bisaba gukaraba intoki kenshi. Kunywa amazi menshi bifasha umubiri. Akaruhuko gafasha mu gukira vuba. Imiti yoroshye ishobora kugabanya ibimenyetso. Nta miti ya antibiotike ivura virusi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Common colds and flu are viral infections. Prevention includes frequent handwashing. Drinking plenty of fluids helps the body. Rest promotes quick recovery. Over-the-counter medications can relieve symptoms. Antibiotics do not cure viruses.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-23"
+  },
+  {
+   "id": "ai16_236682e7_q",
+   "label_rw": "Gukumira no kuvura ubwivumbagatanye bworoheje",
+   "label_en": "Managing minor allergic reactions",
+   "patterns_en": [
+    "What causes minor allergic reactions?",
+    "How can you treat minor skin allergies?",
+    "When should you see a doctor for an allergy?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera ubwivumbagatanye bworoheje?",
+    "Wavura ute ubwivumbagatanye bworoheje ku ruhu?",
+    "Ni ryari ugomba kujya kwa muganga kubera ubwivumbagatanye?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubwivumbagatanye bworoheje bushobora guterwa n'ibiribwa cyangwa se ibintu byo hanze ku ruhu. Akenshi biterwa n'uko umubiri wica cyangwa se urwanya ibintu bimwe na bimwe. Ushobora gukoresha imiti ya antihistamine igabanya uburibye cyangwa se kwirinda ibyo wariye byaguteye ikibazo. Niba ibimenyetso bikomeye, ugomba kujya kwa muganga vuba.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Minor allergic reactions can be caused by certain foods or external skin triggers. They usually occur when the body reacts to specific substances. You can often use antihistamine medications to reduce itching or simply avoid the trigger. If symptoms become severe, you should seek medical attention promptly.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-23"
+  },
+  {
+   "id": "ai16_cb8370be_q",
+   "label_rw": "Akamaro ko kugira isuku no gukoresha neza ubwiherero",
+   "label_en": "Importance of sanitation and latrine hygiene",
+   "patterns_en": [
+    "What causes diseases related to poor sanitation?",
+    "Why is it important to wash hands after using the latrine?",
+    "How can we promote hygiene in public latrines?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera indwara zituruka ku mwanda?",
+    "Kuki ari ingenzi gukaraba intoki nyuma yo kujya mu bwiherero?",
+    "Ni gute twateza imbere isuku mu bwiherero rusange?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kugira isuku no gukoresha neza ubwiherero bifasha mu kwirinda indwara ziterwa n'umwanda nka ruhahwa n'impiswi. Gukaraba intoki n'isabune nyuma yo kwitabira ubwiherero ni ingenzi cyane mu kugabanya ikwirakwizwa ry'udukoko twangiza ubuzima.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Good sanitation and proper latrine use help prevent hygiene-related diseases such as cholera and diarrhea. Washing hands with soap after using the latrine is very important to reduce the spread of harmful germs.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-23"
   }
  ],
  "knowledge": [
@@ -12594,6 +12666,66 @@
     "rainbow",
     "science",
     "ubumenyi"
+   ],
+   "auto": true,
+   "taught": "2026-11-23"
+  },
+  {
+   "id": "ai16_201db0a8",
+   "category": "health",
+   "title_rw": "Gukurikirana ibicurane n'umurura",
+   "title_en": "Managing common colds and flu",
+   "summary_rw": "Ibicurane n'umurura ni indwara ziterwa na virusi. Kwirinda bisaba gukaraba intoki kenshi. Kunywa amazi menshi bifasha umubiri. Akaruhuko gafasha mu gukira vuba. Imiti yoroshye ishobora kugabanya ibimenyetso. Nta miti ya antibiotike ivura virusi.",
+   "summary_en": "Common colds and flu are viral infections. Prevention includes frequent handwashing. Drinking plenty of fluids helps the body. Rest promotes quick recovery. Over-the-counter medications can relieve symptoms. Antibiotics do not cure viruses.",
+   "keywords": [
+    "ibicurane",
+    "colds",
+    "flu",
+    "virus",
+    "ubuzima",
+    "health",
+    "imiti",
+    "medication"
+   ],
+   "auto": true,
+   "taught": "2026-11-23"
+  },
+  {
+   "id": "ai16_236682e7",
+   "category": "health",
+   "title_rw": "Gukumira no kuvura ubwivumbagatanye bworoheje",
+   "title_en": "Managing minor allergic reactions",
+   "summary_rw": "Ubwivumbagatanye bworoheje bushobora guterwa n'ibiribwa cyangwa se ibintu byo hanze ku ruhu. Akenshi biterwa n'uko umubiri wica cyangwa se urwanya ibintu bimwe na bimwe. Ushobora gukoresha imiti ya antihistamine igabanya uburibye cyangwa se kwirinda ibyo wariye byaguteye ikibazo. Niba ibimenyetso bikomeye, ugomba kujya kwa muganga vuba.",
+   "summary_en": "Minor allergic reactions can be caused by certain foods or external skin triggers. They usually occur when the body reacts to specific substances. You can often use antihistamine medications to reduce itching or simply avoid the trigger. If symptoms become severe, you should seek medical attention promptly.",
+   "keywords": [
+    "ubwivumbagatanye",
+    "allergy",
+    "uruhu",
+    "skin",
+    "imiti",
+    "medicine",
+    "ubuzima",
+    "health"
+   ],
+   "auto": true,
+   "taught": "2026-11-23"
+  },
+  {
+   "id": "ai16_cb8370be",
+   "category": "health",
+   "title_rw": "Akamaro ko kugira isuku no gukoresha neza ubwiherero",
+   "title_en": "Importance of sanitation and latrine hygiene",
+   "summary_rw": "Kugira isuku no gukoresha neza ubwiherero bifasha mu kwirinda indwara ziterwa n'umwanda nka ruhahwa n'impiswi. Gukaraba intoki n'isabune nyuma yo kwitabira ubwiherero ni ingenzi cyane mu kugabanya ikwirakwizwa ry'udukoko twangiza ubuzima.",
+   "summary_en": "Good sanitation and proper latrine use help prevent hygiene-related diseases such as cholera and diarrhea. Washing hands with soap after using the latrine is very important to reduce the spread of harmful germs.",
+   "keywords": [
+    "isuku",
+    "ubwiherero",
+    "indwara",
+    "kwirinda",
+    "sanitation",
+    "latrine",
+    "hygiene",
+    "health"
    ],
    "auto": true,
    "taught": "2026-11-23"
