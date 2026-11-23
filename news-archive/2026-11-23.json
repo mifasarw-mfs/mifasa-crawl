@@ -1,7 +1,110 @@
 {
  "day": "2026-11-23",
- "count": 29,
+ "count": 35,
  "articles": [
+  {
+   "id": "crawl_ah1e39",
+   "title": "Volleyball: Amakipe ya Police akomeje kuyobora urutonde rwa shampiyona",
+   "summary": "Mu mpera z’icyumweru dusoje, shampiyona ya volleyball yakomeza hakinwa umunsi wa gatandatu mu cyiciro cy’abagabo n’umunsi kane mu cyiciro cy’abagore aho wasize amakipe ya Police Volleyball club (…)",
+   "link": "https://www.kigalitoday.com/imikino/volleyball/article/volleyball-amakipe-ya-police-akomeje-kuyobora-urutonde-rwa-shampiyona",
+   "url": "https://www.kigalitoday.com/imikino/volleyball/article/volleyball-amakipe-ya-police-akomeje-kuyobora-urutonde-rwa-shampiyona",
+   "date": "2026-11-23T10:40:14.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Volleyball",
+    "Amon B. Nuwamanya"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/93676db1-b6f2-405f-89af-4fd953546cab.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/93676db1-b6f2-405f-89af-4fd953546cab.jpg",
+   "title_rw": "Volleyball: Amakipe ya Police akomeje kuyobora urutonde rwa shampiyona",
+   "summary_rw": "Mu mpera z’icyumweru dusoje, shampiyona ya volleyball yakomeza hakinwa umunsi wa gatandatu mu cyiciro cy’abagabo n’umunsi kane mu cyiciro cy’abagore aho wasize amakipe ya Police Volleyball club (…)",
+   "share_id": "MN202611_ah1e39jm43"
+  },
+  {
+   "id": "crawl_j2k606",
+   "title": "Antibiotics saved my life - then nearly killed me",
+   "summary": "Harriet Davies was given the drugs after falling ill while skiing in France.",
+   "link": "https://www.bbc.co.uk/news/articles/ckvg2elqy5g2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckvg2elqy5g2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T10:33:34.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d76/live/b8950d30-e6ae-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d76/live/b8950d30-e6ae-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "Antibiotics saved my life - then nearly killed me",
+   "summary_en": "Harriet Davies was given the drugs after falling ill while skiing in France.",
+   "share_id": "MN202611_j2k606d2h0"
+  },
+  {
+   "id": "crawl_ulw6kd",
+   "title": "South East Water reports loss after supply issues",
+   "summary": "South East Water records a pre-tax loss of £22.9m in the six months to 30 September.",
+   "link": "https://www.bbc.co.uk/news/articles/c6n90j1qxel8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6n90j1qxel8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T10:19:46.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2480/live/c4c28920-e71c-11f1-914b-6d226d813a52.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2480/live/c4c28920-e71c-11f1-914b-6d226d813a52.jpg",
+   "title_en": "South East Water reports loss after supply issues",
+   "summary_en": "South East Water records a pre-tax loss of £22.9m in the six months to 30 September.",
+   "share_id": "MN202611_ulw6kdp317"
+  },
+  {
+   "id": "crawl_1sp627s",
+   "title": "Name change request",
+   "summary": "Name change request",
+   "link": "https://www.kigalitoday.com/amatangazo/article/name-change-request-79623",
+   "url": "https://www.kigalitoday.com/amatangazo/article/name-change-request-79623",
+   "date": "2026-11-23T10:14:41.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Amatangazo"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/share-1795422447353-b26102909301034ha_page-0001.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/share-1795422447353-b26102909301034ha_page-0001.jpg",
+   "title_rw": "Name change request",
+   "summary_rw": "Name change request",
+   "share_id": "MN202611_1sp627sv4ra"
+  },
+  {
+   "id": "crawl_dlgt3o",
+   "title": "Catering giant to switch stock market listing to US in further blow to UK",
+   "summary": "A growing number of firms have been leaving the UK to list shares in the US in recent years.",
+   "link": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T09:54:04.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d35/live/6c293750-e726-11f1-914b-6d226d813a52.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d35/live/6c293750-e726-11f1-914b-6d226d813a52.jpg",
+   "title_en": "Catering giant to switch stock market listing to US in further blow to UK",
+   "summary_en": "A growing number of firms have been leaving the UK to list shares in the US in recent years.",
+   "share_id": "MN202611_dlgt3o9pki"
+  },
   {
    "id": "crawl_11n7dr9",
    "title": "DRC, Rare Truth From Western Commentator Will Congolese Embrace It?",
@@ -180,6 +283,26 @@
    "title_en": "Pioneer or coach-eater? The complex world of Pozzo's Watford",
    "summary_en": "Pioneering or problematic? Why Gino Pozzo's 14-year Watford ownership is at a crossroads as the club search for their 26th managerial appointment on his watch.",
    "share_id": "MN202611_aqdvcw9uqm"
+  },
+  {
+   "id": "crawl_q30xqo",
+   "title": "De Villiers claims ball-tampering from first 2018 Test",
+   "summary": "Former South Africa batter AB de Villiers says \"there is absolutely no doubt in my mind\" that Australia were altering the ball from the opening Test in 2018.",
+   "link": "https://www.bbc.co.uk/sport/cricket/articles/c607418zlpz4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/c607418zlpz4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T08:08:13.000Z",
+   "source": "BBC Sport Africa",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Sport Africa",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/668e/live/70da5030-e70e-11f1-8eab-2f1116919fa3.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/668e/live/70da5030-e70e-11f1-8eab-2f1116919fa3.jpg",
+   "title_en": "De Villiers claims ball-tampering from first 2018 Test",
+   "summary_en": "Former South Africa batter AB de Villiers says \"there is absolutely no doubt in my mind\" that Australia were altering the ball from the opening Test in 2018.",
+   "share_id": "MN202611_q30xqos8oe"
   },
   {
    "id": "crawl_1b66e8o",
@@ -593,5 +716,5 @@
    "share_id": "MN202611_1dt5tu0xy3q"
   }
  ],
- "updated": "2026-11-23T09:46:49.406Z"
+ "updated": "2026-11-23T10:49:11.797Z"
 }
