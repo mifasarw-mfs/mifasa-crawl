@@ -1,7 +1,70 @@
 {
  "day": "2026-11-23",
- "count": 75,
+ "count": 81,
  "articles": [
+  {
+   "id": "crawl_1mw1dl",
+   "title": "FONERWA igiye kuvugururwa kugira ngo ireke gushingira ku nkunga",
+   "summary": "Minisitiri w’Ibidukikije, Dr Bernadette arakwiye, yabwiye abadepite ko uburyo Ikigega cy’Ibidukikije gikoramo butakijyanye n’ibihe bakaba bakeneye ko iki kigega kigira ikigo cy’ishoramari kigenga (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/fonerwa-igiye-kuvugururwa-kugira-ngo-ireke-gushingira-ku-nkunga",
+   "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/fonerwa-igiye-kuvugururwa-kugira-ngo-ireke-gushingira-ku-nkunga",
+   "date": "2026-11-23T17:36:28.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu Rwanda",
+    "MobileBigStory",
+    "Oswald Niyonzima"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/2026-11-23_19_32_44-_12_rwanda_parliament_rwandaparliamnt___x.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-23_19_32_44-_12_rwanda_parliament_rwandaparliamnt___x.png",
+   "title_rw": "FONERWA igiye kuvugururwa kugira ngo ireke gushingira ku nkunga",
+   "summary_rw": "Minisitiri w’Ibidukikije, Dr Bernadette arakwiye, yabwiye abadepite ko uburyo Ikigega cy’Ibidukikije gikoramo butakijyanye n’ibihe bakaba bakeneye ko iki kigega kigira ikigo cy’ishoramari kigenga (…)",
+   "share_id": "MN202611_1mw1dlr8pj"
+  },
+  {
+   "id": "crawl_15jblma",
+   "title": "What failure of COP31 reveals about a divided world",
+   "summary": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
+   "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T17:24:25.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c7d/live/76349960-e74e-11f1-88dc-f746e0cde621.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c7d/live/76349960-e74e-11f1-88dc-f746e0cde621.jpg",
+   "title_en": "What failure of COP31 reveals about a divided world",
+   "summary_en": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
+   "share_id": "MN202611_15jblma4i34"
+  },
+  {
+   "id": "crawl_89u3qz",
+   "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
+   "summary": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
+   "link": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T17:11:58.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/938d/live/58a5fb00-e762-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/938d/live/58a5fb00-e762-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Faisal Islam: Why Jensen Huang proved too big to fire",
+   "summary_en": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
+   "share_id": "MN202611_89u3qzn07t"
+  },
   {
    "id": "crawl_1hupzwf",
    "title": "Afcon 2025: Maroc na Sénégal barindiriye ingingo ya nyuma y'ubutungane inyuma y'urubanza",
@@ -245,6 +308,26 @@
    "share_id": "MN202611_96w7z5s7cv"
   },
   {
+   "id": "crawl_17rnori",
+   "title": "DR Congo's Bakole to fight Wilder on Fury-Joshua undercard",
+   "summary": "Heavyweight Martin Bakole will face former world champion Deontay Wilder on the undercard of Tyson Fury's fight with Anthony Joshua in Cardiff on 11 December.",
+   "link": "https://www.bbc.co.uk/sport/boxing/articles/cmvg2v0rlzeko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/boxing/articles/cmvg2v0rlzeko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T15:12:52.000Z",
+   "source": "BBC Sport Africa",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Sport Africa",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69de/live/5a9745b0-e74c-11f1-99b6-a35a62fa4264.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69de/live/5a9745b0-e74c-11f1-99b6-a35a62fa4264.png",
+   "title_en": "DR Congo's Bakole to fight Wilder on Fury-Joshua undercard",
+   "summary_en": "Heavyweight Martin Bakole will face former world champion Deontay Wilder on the undercard of Tyson Fury's fight with Anthony Joshua in Cardiff on 11 December.",
+   "share_id": "MN202611_17rnori108s"
+  },
+  {
    "id": "crawl_o8u19r",
    "title": "U Rwanda rugiye gufatanya na Korea guteza imbere AI mu burezi",
    "summary": "U Rwanda rukomeje gushyira imbaraga mu gukoresha ikoranabuhanga rigezweho, by’umwihariko ubwenge buhangano (Artificial Intelligence – AI), mu guteza imbere uburezi no gutegura urubyiruko (…)",
@@ -464,6 +547,26 @@
    "share_id": "MN202611_1wrzkzyshgs"
   },
   {
+   "id": "crawl_m1008c",
+   "title": "India pledges $1.6bn to Nepal in reset of ties",
+   "summary": "As Nepal rebuilds after deadly floods, its prime minister sets contentious issues aside to secure Indian funding, port access and a new train service.",
+   "link": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T13:39:30.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25f9/live/8fa3a390-e71d-11f1-914b-6d226d813a52.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25f9/live/8fa3a390-e71d-11f1-914b-6d226d813a52.jpg",
+   "title_en": "India pledges $1.6bn to Nepal in reset of ties",
+   "summary_en": "As Nepal rebuilds after deadly floods, its prime minister sets contentious issues aside to secure Indian funding, port access and a new train service.",
+   "share_id": "MN202611_m1008cswp6"
+  },
+  {
    "id": "crawl_11vt0c2",
    "title": "Mexican soldiers attacked in wake of drug lord's arrest",
    "summary": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
@@ -482,6 +585,26 @@
    "title_en": "Mexican soldiers attacked in wake of drug lord's arrest",
    "summary_en": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
    "share_id": "MN202611_11vt0c2lwsw"
+  },
+  {
+   "id": "crawl_h1olvo",
+   "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
+   "summary": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
+   "link": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T13:09:52.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87ae/live/24717fd0-e73f-11f1-802a-678be58471bb.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87ae/live/24717fd0-e73f-11f1-802a-678be58471bb.jpg",
+   "title_en": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
+   "summary_en": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
+   "share_id": "MN202611_h1olvohici"
   },
   {
    "id": "crawl_lzustz",
@@ -1541,5 +1664,5 @@
    "share_id": "MN202611_1dt5tu0xy3q"
   }
  ],
- "updated": "2026-11-23T16:51:11.997Z"
+ "updated": "2026-11-23T17:44:45.630Z"
 }
