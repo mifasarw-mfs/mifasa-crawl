@@ -1,7 +1,27 @@
 {
  "day": "2026-11-23",
- "count": 47,
+ "count": 49,
  "articles": [
+  {
+   "id": "crawl_nza4lh",
+   "title": "Watford set to appoint former Romania boss Iordanescu",
+   "summary": "Watford are set to appoint former Romania coach Edward Iordanescu as their new head coach, reports BBC Three Counties Radio.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj7523r0vrp0o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cj7523r0vrp0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T12:36:46.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02d7/live/ff0018d0-e737-11f1-8294-033bd8ee7e95.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02d7/live/ff0018d0-e737-11f1-8294-033bd8ee7e95.jpg",
+   "title_en": "Watford set to appoint former Romania boss Iordanescu",
+   "summary_en": "Watford are set to appoint former Romania coach Edward Iordanescu as their new head coach, reports BBC Three Counties Radio.",
+   "share_id": "MN202611_nza4lh2203"
+  },
   {
    "id": "crawl_mjvhk1",
    "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
@@ -81,6 +101,26 @@
    "title_en": "Search and rescue teams race against time after Nigeria boat tragedy",
    "summary_en": "The government blames overcrowding, poor maintenance, and missing life jackets for boat accidents.",
    "share_id": "MN202611_prm9xtf6en"
+  },
+  {
+   "id": "crawl_ubb5vn",
+   "title": "Ukraine shares video of strikes on Russian ships off Libya",
+   "summary": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
+   "link": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T11:34:10.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc6/live/7a950f50-e738-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc6/live/7a950f50-e738-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "Ukraine shares video of strikes on Russian ships off Libya",
+   "summary_en": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
+   "share_id": "MN202611_ubb5vn7syp"
   },
   {
    "id": "crawl_1a0frss",
@@ -961,5 +1001,5 @@
    "share_id": "MN202611_1dt5tu0xy3q"
   }
  ],
- "updated": "2026-11-23T12:39:41.757Z"
+ "updated": "2026-11-23T12:58:16.245Z"
 }

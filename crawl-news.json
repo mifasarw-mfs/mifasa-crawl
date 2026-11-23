@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_nza4lh",
+  "title": "Watford set to appoint former Romania boss Iordanescu",
+  "summary": "Watford are set to appoint former Romania coach Edward Iordanescu as their new head coach, reports BBC Three Counties Radio.",
+  "link": "https://www.bbc.co.uk/sport/football/articles/cj7523r0vrp0o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cj7523r0vrp0o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-23T12:36:46.000Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02d7/live/ff0018d0-e737-11f1-8294-033bd8ee7e95.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02d7/live/ff0018d0-e737-11f1-8294-033bd8ee7e95.jpg",
+  "title_en": "Watford set to appoint former Romania boss Iordanescu",
+  "summary_en": "Watford are set to appoint former Romania coach Edward Iordanescu as their new head coach, reports BBC Three Counties Radio.",
+  "share_id": "MN202611_nza4lh2203"
+ },
+ {
   "id": "crawl_mjvhk1",
   "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
   "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
@@ -61,7 +81,7 @@
  },
  {
   "id": "crawl_prm9xt",
-  "title": "Search and rescue teams race against time after Nigeria boat tragedy",
+  "title": "Search and rescue teams race against time to find survivors after Nigeria boat tragedy",
   "summary": "The government blames overcrowding, poor maintenance, and missing life jackets for boat accidents.",
   "link": "https://www.bbc.co.uk/news/articles/cq7820xjm49po?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cq7820xjm49po?at_medium=RSS&at_campaign=rss",
@@ -75,9 +95,29 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f67/live/f7d15990-e6fe-11f1-b302-63c5d030cf64.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f67/live/f7d15990-e6fe-11f1-b302-63c5d030cf64.jpg",
-  "title_en": "Search and rescue teams race against time after Nigeria boat tragedy",
+  "title_en": "Search and rescue teams race against time to find survivors after Nigeria boat tragedy",
   "summary_en": "The government blames overcrowding, poor maintenance, and missing life jackets for boat accidents.",
   "share_id": "MN202611_prm9xtf6en"
+ },
+ {
+  "id": "crawl_ubb5vn",
+  "title": "Ukraine shares video of strikes on Russian ships off Libya",
+  "summary": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
+  "link": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-23T11:34:10.000Z",
+  "source": "BBC Africa",
+  "category": "news",
+  "lang": "en",
+  "keywords": [
+   "BBC Africa",
+   "news"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc6/live/7a950f50-e738-11f1-99b6-a35a62fa4264.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc6/live/7a950f50-e738-11f1-99b6-a35a62fa4264.jpg",
+  "title_en": "Ukraine shares video of strikes on Russian ships off Libya",
+  "summary_en": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
+  "share_id": "MN202611_ubb5vn7syp"
  },
  {
   "id": "crawl_1a0frss",
@@ -102,7 +142,7 @@
  },
  {
   "id": "crawl_lok157",
-  "title": "Flights grounded in Belgium due to strike against austerity measures",
+  "title": "Flights and train services cancelled in Belgium due to strike",
   "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
   "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
@@ -114,9 +154,9 @@
    "BBC World",
    "world"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4074/live/80a31490-e72a-11f1-a094-5fdc692f3e33.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4074/live/80a31490-e72a-11f1-a094-5fdc692f3e33.jpg",
-  "title_en": "Flights grounded in Belgium due to strike against austerity measures",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf3/live/3920ed00-e738-11f1-8294-033bd8ee7e95.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf3/live/3920ed00-e738-11f1-8294-033bd8ee7e95.jpg",
+  "title_en": "Flights and train services cancelled in Belgium due to strike",
   "summary_en": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
   "share_id": "MN202611_lok157cxm1"
  },
@@ -472,7 +512,7 @@
  },
  {
   "id": "crawl_11gr3pn",
-  "title": "Doctors begin fresh strike over pay dispute",
+  "title": "Striking doctor says they are advocating for the health service",
   "summary": "It follows a separate 24-hour strike on Friday in which resident doctors took industrial action as part of the same dispute.",
   "link": "https://www.bbc.co.uk/news/articles/cr3eg5vzn875o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cr3eg5vzn875o?at_medium=RSS&at_campaign=rss",
@@ -486,7 +526,7 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a32f/live/1037e510-e729-11f1-914b-6d226d813a52.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a32f/live/1037e510-e729-11f1-914b-6d226d813a52.jpg",
-  "title_en": "Doctors begin fresh strike over pay dispute",
+  "title_en": "Striking doctor says they are advocating for the health service",
   "summary_en": "It follows a separate 24-hour strike on Friday in which resident doctors took industrial action as part of the same dispute.",
   "share_id": "MN202611_11gr3pnk06h"
  },
@@ -613,7 +653,7 @@
  {
   "id": "crawl_aqdvcw",
   "title": "Pioneer or coach-eater? The complex world of Pozzo's Watford",
-  "summary": "Pioneering or problematic? Why Gino Pozzo's 14-year Watford ownership is at a crossroads as the club search for their 26th managerial appointment on his watch.",
+  "summary": "Pioneering or problematic? Why Gino Pozzo's 14-year Watford ownership is at a crossroads as the club search for their 25th managerial appointment on his watch.",
   "link": "https://www.bbc.co.uk/sport/football/articles/cq98z9p66g0xo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/sport/football/articles/cq98z9p66g0xo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-23T08:08:23.000Z",
@@ -627,7 +667,7 @@
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5cb/live/6cddf170-cef5-11f1-93e1-3b657b665bcf.png",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5cb/live/6cddf170-cef5-11f1-93e1-3b657b665bcf.png",
   "title_en": "Pioneer or coach-eater? The complex world of Pozzo's Watford",
-  "summary_en": "Pioneering or problematic? Why Gino Pozzo's 14-year Watford ownership is at a crossroads as the club search for their 26th managerial appointment on his watch.",
+  "summary_en": "Pioneering or problematic? Why Gino Pozzo's 14-year Watford ownership is at a crossroads as the club search for their 25th managerial appointment on his watch.",
   "share_id": "MN202611_aqdvcw9uqm"
  },
  {
@@ -16974,45 +17014,5 @@
   "title_en": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
   "summary_en": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
   "share_id": "MN202611_1mbm42ff0j9"
- },
- {
-  "id": "crawl_2wmq8c",
-  "title": "What's the story with Scotland boss Pocognoli - is it time to go?",
-  "summary": "The sense of drift in this Scotland team can't go on much longer. Is it too late for Sebastien Pocognoli to win back players and fans?",
-  "link": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-17T00:19:58.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0abe/live/50ce4e30-e21e-11f1-a094-5fdc692f3e33.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0abe/live/50ce4e30-e21e-11f1-a094-5fdc692f3e33.jpg",
-  "title_en": "What's the story with Scotland boss Pocognoli - is it time to go?",
-  "summary_en": "The sense of drift in this Scotland team can't go on much longer. Is it too late for Sebastien Pocognoli to win back players and fans?",
-  "share_id": "MN202611_2wmq8cipm2"
- },
- {
-  "id": "crawl_11ht6kx",
-  "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
-  "summary": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
-  "link": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-17T00:09:54.000Z",
-  "source": "BBC Science",
-  "category": "science",
-  "lang": "en",
-  "keywords": [
-   "BBC Science",
-   "science"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1014/live/a44029a0-e1b3-11f1-9a3f-99aca912798e.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1014/live/a44029a0-e1b3-11f1-9a3f-99aca912798e.jpg",
-  "title_en": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
-  "summary_en": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
-  "share_id": "MN202611_11ht6kxb967"
  }
 ]
