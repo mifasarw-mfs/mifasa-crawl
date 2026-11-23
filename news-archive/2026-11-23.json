@@ -1,7 +1,53 @@
 {
  "day": "2026-11-23",
- "count": 84,
+ "count": 86,
  "articles": [
+  {
+   "id": "crawl_gdy4x8",
+   "title": "Perezida Kagame yasezeye kuri Ambasaderi wa Zimbabwe ushoje ikivi",
+   "summary": "Perezida wa Repubulika y’u Rwanda, Paul Kagame, yakiriye Ambasaderi wa Zimbabwe mu Rwanda, Prof. Charity Manyeruke, uri gusoza inshingano ze zo guhagararira igihugu cye mu Rwanda, baganira ku (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/perezida-kagame-yasezeye-kuri-ambasaderi-wa-zimbabwe-ushoje-ikivi",
+   "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/perezida-kagame-yasezeye-kuri-ambasaderi-wa-zimbabwe-ushoje-ikivi",
+   "date": "2026-11-23T19:59:15.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu Rwanda",
+    "MobileBigStory",
+    "Tarib Abdul"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-23_at_20.13_05.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-23_at_20.13_05.jpg",
+   "title_rw": "Perezida Kagame yasezeye kuri Ambasaderi wa Zimbabwe ushoje ikivi",
+   "summary_rw": "Perezida wa Repubulika y’u Rwanda, Paul Kagame, yakiriye Ambasaderi wa Zimbabwe mu Rwanda, Prof. Charity Manyeruke, uri gusoza inshingano ze zo guhagararira igihugu cye mu Rwanda, baganira ku (…)",
+   "share_id": "MN202611_gdy4x82jey"
+  },
+  {
+   "id": "crawl_15vhisv",
+   "title": "Urubyiruko, akazi n'ingufu: Ibyo Perezida Kagame yaganiriye n'umuyobozi wa UNDP",
+   "summary": "Perezida wa Repubulika, Paul Kagame, yakiriye Umuyobozi uhagarariye Ishami ry’Umuryango w’Abibumbye ryita ku Iterambere (UNDP) mu Rwanda, Fatmata Lovetta Sesay, uri gusoza inshingano, baganira ku (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/urubyiruko-akazi-n-ingufu-ibyo-perezida-kagame-yaganiriye-n-umuyobozi-wa-undp",
+   "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/urubyiruko-akazi-n-ingufu-ibyo-perezida-kagame-yaganiriye-n-umuyobozi-wa-undp",
+   "date": "2026-11-23T19:55:44.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu Rwanda",
+    "MobileBigStory",
+    "Tarib Abdul"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-23_at_19.55_19.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-23_at_19.55_19.jpg",
+   "title_rw": "Urubyiruko, akazi n'ingufu: Ibyo Perezida Kagame yaganiriye n'umuyobozi wa UNDP",
+   "summary_rw": "Perezida wa Repubulika, Paul Kagame, yakiriye Umuyobozi uhagarariye Ishami ry’Umuryango w’Abibumbye ryita ku Iterambere (UNDP) mu Rwanda, Fatmata Lovetta Sesay, uri gusoza inshingano, baganira ku (…)",
+   "share_id": "MN202611_15vhisvou6l"
+  },
   {
    "id": "crawl_16yh95b",
    "title": "Britain's Got Talent winner almost missed audition due to Carphone Warehouse shift",
@@ -1724,5 +1770,5 @@
    "share_id": "MN202611_1dt5tu0xy3q"
   }
  ],
- "updated": "2026-11-23T18:37:52.225Z"
+ "updated": "2026-11-23T20:29:25.520Z"
 }
