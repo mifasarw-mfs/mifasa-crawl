@@ -1,7 +1,47 @@
 {
  "day": "2026-11-23",
- "count": 91,
+ "count": 93,
  "articles": [
+  {
+   "id": "crawl_1c568ni",
+   "title": "Janelt scores stunner as Brentford beat 10-man Everton",
+   "summary": "Watch highlights as Brentford earn a comfortable 3-0 win against 10-man Everton in the Premier League, including a great goal by Vitaly Janelt.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T22:31:27.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93de/live/41e45e90-e788-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93de/live/41e45e90-e788-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Janelt scores stunner as Brentford beat 10-man Everton",
+   "summary_en": "Watch highlights as Brentford earn a comfortable 3-0 win against 10-man Everton in the Premier League, including a great goal by Vitaly Janelt.",
+   "share_id": "MN202611_1c568nijk4s"
+  },
+  {
+   "id": "crawl_9boq94",
+   "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+   "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+   "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T22:15:26.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg",
+   "title_en": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+   "summary_en": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+   "share_id": "MN202611_9boq94hmpy"
+  },
   {
    "id": "crawl_uwljoq",
    "title": "Rwanda, Denmark Sign Agreement to Ease Employment Restrictions for Diplomats’ Families",
@@ -1870,5 +1910,5 @@
    "share_id": "MN202611_1dt5tu0xy3q"
   }
  ],
- "updated": "2026-11-23T22:11:47.842Z"
+ "updated": "2026-11-23T22:42:52.232Z"
 }
