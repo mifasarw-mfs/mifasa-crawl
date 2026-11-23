@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_ddod7",
+  "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
+  "summary": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+  "link": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-23T00:49:22.000Z",
+  "source": "BBC Health",
+  "category": "health",
+  "lang": "en",
+  "keywords": [
+   "BBC Health",
+   "health"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
+  "title_en": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
+  "summary_en": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+  "share_id": "MN202611_ddod7amt5"
+ },
+ {
   "id": "crawl_15674ts",
   "title": "What is going on with Poundland?",
   "summary": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
@@ -42,7 +62,7 @@
  {
   "id": "crawl_1dt5tu0",
   "title": "Energy bills will soar - here's how you can ease the pain",
-  "summary": "Household energy bills are about to soar but there are ways to keep a lid on your expenditure.",
+  "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
   "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-23T00:05:29.000Z",
@@ -56,7 +76,7 @@
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg",
   "title_en": "Energy bills will soar - here's how you can ease the pain",
-  "summary_en": "Household energy bills are about to soar but there are ways to keep a lid on your expenditure.",
+  "summary_en": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
   "share_id": "MN202611_1dt5tu0xy3q"
  },
  {
@@ -529,7 +549,7 @@
  {
   "id": "crawl_1dpqtf2",
   "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-  "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+  "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
   "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-22T18:17:59.000Z",
@@ -543,7 +563,7 @@
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
   "title_en": "COP31 fails to reach major climate deal as talks expose deep divisions",
-  "summary_en": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+  "summary_en": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
   "share_id": "MN202611_1dpqtf2jpvw"
  },
  {
@@ -17024,31 +17044,5 @@
   "title_en": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
   "summary_en": "British singer Raye lands 11 nominations while Dolly Parton is recognised two months after her death.",
   "share_id": "MN202611_1cxttidmpz7"
- },
- {
-  "id": "crawl_jgpi5z",
-  "title": "#diamondplatnumz #wcb #Zuchu",
-  "summary": "#diamondplatnumz #wcb #Zuchu",
-  "link": "https://www.youtube.com/shorts/admzaavTJG0",
-  "url": "https://www.youtube.com/shorts/admzaavTJG0",
-  "date": "2026-11-16T14:40:31.000Z",
-  "source": "Diamond Platnumz YouTube",
-  "category": "entertainment",
-  "lang": "rw",
-  "keywords": [
-   "Diamond Platnumz YouTube",
-   "entertainment",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "admzaavTJG0"
-  },
-  "type": "video",
-  "image": "https://i2.ytimg.com/vi/admzaavTJG0/hqdefault.jpg",
-  "thumbnail": "https://i2.ytimg.com/vi/admzaavTJG0/hqdefault.jpg",
-  "title_rw": "#diamondplatnumz #wcb #Zuchu",
-  "summary_rw": "#diamondplatnumz #wcb #Zuchu",
-  "share_id": "MN202611_jgpi5z5fbp"
  }
 ]

@@ -1,7 +1,27 @@
 {
  "day": "2026-11-23",
- "count": 3,
+ "count": 4,
  "articles": [
+  {
+   "id": "crawl_ddod7",
+   "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
+   "summary": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+   "link": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T00:49:22.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
+   "title_en": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
+   "summary_en": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+   "share_id": "MN202611_ddod7amt5"
+  },
   {
    "id": "crawl_15674ts",
    "title": "What is going on with Poundland?",
@@ -63,5 +83,5 @@
    "share_id": "MN202611_1dt5tu0xy3q"
   }
  ],
- "updated": "2026-11-23T00:33:38.341Z"
+ "updated": "2026-11-23T01:49:08.636Z"
 }
