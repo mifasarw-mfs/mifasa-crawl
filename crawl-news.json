@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_prm9xt",
+  "title": "Search and rescue teams race against time after Nigeria boat tragedy",
+  "summary": "The government blames overcrowding, poor maintenance, and missing life jackets for boat accidents.",
+  "link": "https://www.bbc.co.uk/news/articles/cq7820xjm49po?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cq7820xjm49po?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-23T11:38:55.000Z",
+  "source": "BBC Africa",
+  "category": "news",
+  "lang": "en",
+  "keywords": [
+   "BBC Africa",
+   "news"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f67/live/f7d15990-e6fe-11f1-b302-63c5d030cf64.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f67/live/f7d15990-e6fe-11f1-b302-63c5d030cf64.jpg",
+  "title_en": "Search and rescue teams race against time after Nigeria boat tragedy",
+  "summary_en": "The government blames overcrowding, poor maintenance, and missing life jackets for boat accidents.",
+  "share_id": "MN202611_prm9xtf6en"
+ },
+ {
   "id": "crawl_lok157",
   "title": "Flights grounded in Belgium due to strike against austerity measures",
   "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
@@ -16993,25 +17013,5 @@
   "title_en": "The AI start-ups fixing India's broken roads and messy land records",
   "summary_en": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
   "share_id": "MN202611_vq7h5v0dmp"
- },
- {
-  "id": "crawl_hf6x5v",
-  "title": "US bank services returning to normal after major outage",
-  "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
-  "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-16T23:15:21.000Z",
-  "source": "BBC Business",
-  "category": "business",
-  "lang": "en",
-  "keywords": [
-   "BBC Business",
-   "business"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d633/live/6fb04df0-e212-11f1-b9ca-b9964628501b.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d633/live/6fb04df0-e212-11f1-b9ca-b9964628501b.jpg",
-  "title_en": "US bank services returning to normal after major outage",
-  "summary_en": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
-  "share_id": "MN202611_hf6x5vztmp"
  }
 ]

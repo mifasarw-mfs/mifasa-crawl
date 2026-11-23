@@ -1,7 +1,27 @@
 {
  "day": "2026-11-23",
- "count": 42,
+ "count": 43,
  "articles": [
+  {
+   "id": "crawl_prm9xt",
+   "title": "Search and rescue teams race against time after Nigeria boat tragedy",
+   "summary": "The government blames overcrowding, poor maintenance, and missing life jackets for boat accidents.",
+   "link": "https://www.bbc.co.uk/news/articles/cq7820xjm49po?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq7820xjm49po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T11:38:55.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f67/live/f7d15990-e6fe-11f1-b302-63c5d030cf64.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f67/live/f7d15990-e6fe-11f1-b302-63c5d030cf64.jpg",
+   "title_en": "Search and rescue teams race against time after Nigeria boat tragedy",
+   "summary_en": "The government blames overcrowding, poor maintenance, and missing life jackets for boat accidents.",
+   "share_id": "MN202611_prm9xtf6en"
+  },
   {
    "id": "crawl_lok157",
    "title": "Flights grounded in Belgium due to strike against austerity measures",
@@ -860,5 +880,5 @@
    "share_id": "MN202611_1dt5tu0xy3q"
   }
  ],
- "updated": "2026-11-23T11:37:35.193Z"
+ "updated": "2026-11-23T11:46:12.027Z"
 }
