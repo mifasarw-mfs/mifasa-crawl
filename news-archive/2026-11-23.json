@@ -1,7 +1,93 @@
 {
  "day": "2026-11-23",
- "count": 61,
+ "count": 65,
  "articles": [
+  {
+   "id": "crawl_1ctvv32",
+   "title": "Uko Ngabo Christian yabyaje umusaruro ikibazo yagize mu guhahira kuri internet",
+   "summary": "Ikibazo cyo kubona igicuruzwa kuri internet wagitumiza ugasanga kitakiri mu iduka wari ukibonyemo ni cyo cyatumye Ngabo Christian atekereza kubaka urubuga Isokko ruhuza abaguzi n’amaduka (…)",
+   "link": "https://www.kigalitoday.com/Inkuru-Zicukumbuye/Uko-Ngabo-Christian-yabyaje-umusaruro-ikibazo-yagize-mu-guhahira-kuri-internet",
+   "url": "https://www.kigalitoday.com/Inkuru-Zicukumbuye/Uko-Ngabo-Christian-yabyaje-umusaruro-ikibazo-yagize-mu-guhahira-kuri-internet",
+   "date": "2026-11-23T15:27:28.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Inkuru Zicukumbuye",
+    "MobileBigStory",
+    "Ruzindana Janvier"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_21.00_39.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_21.00_39.jpg",
+   "title_rw": "Uko Ngabo Christian yabyaje umusaruro ikibazo yagize mu guhahira kuri internet",
+   "summary_rw": "Ikibazo cyo kubona igicuruzwa kuri internet wagitumiza ugasanga kitakiri mu iduka wari ukibonyemo ni cyo cyatumye Ngabo Christian atekereza kubaka urubuga Isokko ruhuza abaguzi n’amaduka (…)",
+   "share_id": "MN202611_1ctvv32go3g"
+  },
+  {
+   "id": "crawl_96w7z5",
+   "title": "Raya to miss Dortmund game but injury 'not serious'",
+   "summary": "Arsenal goalkeeper David Raya will miss Tuesday's Champions League game against Borussia Dortmund but his shoulder injury will not require an operation.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cjx2rqpr7l9lo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cjx2rqpr7l9lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T15:23:09.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65dc/live/03482e80-e753-11f1-88dc-f746e0cde621.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65dc/live/03482e80-e753-11f1-88dc-f746e0cde621.jpg",
+   "title_en": "Raya to miss Dortmund game but injury 'not serious'",
+   "summary_en": "Arsenal goalkeeper David Raya will miss Tuesday's Champions League game against Borussia Dortmund but his shoulder injury will not require an operation.",
+   "share_id": "MN202611_96w7z5s7cv"
+  },
+  {
+   "id": "crawl_o8u19r",
+   "title": "U Rwanda rugiye gufatanya na Korea guteza imbere AI mu burezi",
+   "summary": "U Rwanda rukomeje gushyira imbaraga mu gukoresha ikoranabuhanga rigezweho, by’umwihariko ubwenge buhangano (Artificial Intelligence – AI), mu guteza imbere uburezi no gutegura urubyiruko (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/u-rwanda-rugiye-gufatanya-na-korea-guteza-imbere-ai-mu-burezi",
+   "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/u-rwanda-rugiye-gufatanya-na-korea-guteza-imbere-ai-mu-burezi",
+   "date": "2026-11-23T15:09:18.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu Rwanda",
+    "MobileBigStory",
+    "Tarib Abdul"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-23_at_16.59_13_1_.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-23_at_16.59_13_1_.jpg",
+   "title_rw": "U Rwanda rugiye gufatanya na Korea guteza imbere AI mu burezi",
+   "summary_rw": "U Rwanda rukomeje gushyira imbaraga mu gukoresha ikoranabuhanga rigezweho, by’umwihariko ubwenge buhangano (Artificial Intelligence – AI), mu guteza imbere uburezi no gutegura urubyiruko (…)",
+   "share_id": "MN202611_o8u19rq9n1"
+  },
+  {
+   "id": "crawl_rtu2k5",
+   "title": "Prominent Zimbabwean preacher arrested on indecent assault allegations",
+   "summary": "Uebert Angel, a British-Zimbabwean national, leads a charismatic church with branches in several countries.",
+   "link": "https://www.bbc.co.uk/news/articles/cxyvdmjr893zo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cxyvdmjr893zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T14:55:14.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caba/live/164c61e0-e73a-11f1-8294-033bd8ee7e95.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caba/live/164c61e0-e73a-11f1-8294-033bd8ee7e95.jpg",
+   "title_en": "Prominent Zimbabwean preacher arrested on indecent assault allegations",
+   "summary_en": "Uebert Angel, a British-Zimbabwean national, leads a charismatic church with branches in several countries.",
+   "share_id": "MN202611_rtu2k5mz0z"
+  },
   {
    "id": "crawl_t88qyj",
    "title": "U Rwanda rushobora kubyaza imyanda ingufu rugendeye ku bunararibonye bwa Danemark",
@@ -1256,5 +1342,5 @@
    "share_id": "MN202611_1dt5tu0xy3q"
   }
  ],
- "updated": "2026-11-23T14:57:19.761Z"
+ "updated": "2026-11-23T15:33:54.242Z"
 }
