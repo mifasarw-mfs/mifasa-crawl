@@ -6978,6 +6978,54 @@
    ],
    "auto": true,
    "taught": "2026-11-23"
+  },
+  {
+   "id": "ai16_8bd42389_q",
+   "label_rw": "Gufata Ingamba mu gihe cy'Igitero cy'Ikoranabuhanga",
+   "label_en": "Cybersecurity Incident Response",
+   "patterns_en": [
+    "What is a cybersecurity incident?",
+    "How do you respond to a cyber attack?",
+    "Why is incident response important?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitero cy'ikoranabuhanga?",
+    "Ni gute wafata ingamba mu gihe cy'igitero cy'ikoranabuhanga?",
+    "Kuki gahunda yo gufata ingamba ari ingenzi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gufata ingamba mu gihe cy'igitero cy'ikoranabuhanga ni gahunda yo gutegura no gukemura ibibazo by'umutekano w'amakuru. Intego yabyo ni ukugabanya ibihombo no gusubiza sisitemu mu buryo bwihuse.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Cybersecurity incident response is a structured approach to preparing for and managing digital security attacks. Its main goal is to minimize damage and restore systems quickly.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-23"
+  },
+  {
+   "id": "ai16_655eb80d_q",
+   "label_rw": "Uburyo bwo Gutegura Porogaramu za Mudasobwa",
+   "label_en": "Software Design Patterns",
+   "patterns_en": [
+    "What are software design patterns?",
+    "How do design patterns help programmers?",
+    "Why do developers use software design patterns?"
+   ],
+   "patterns_rw": [
+    "Uburyo bwo gutegura porogaramu ni iki?",
+    "Ese uburyo bwo gutegura porogaramu bufasha iki abaprogrameri?",
+    "Ni iki gituma abantu bakoresha design patterns?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Uburyo bwo gutegura porogaramu ni ibisubizo byiza byanditse ku bibazo bikunze kwigaragaza mu gihe cyo kwandika porogaramu za mudasobwa. Ibi bifasha abahanga mu bumenyi bwa mudasobwa kwihutisha akazi no kwirinda amakosa.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Software design patterns are well-proven solutions to common problems in software design. They help developers write code faster and avoid common programming mistakes.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-23"
   }
  ],
  "knowledge": [
@@ -12726,6 +12774,46 @@
     "latrine",
     "hygiene",
     "health"
+   ],
+   "auto": true,
+   "taught": "2026-11-23"
+  },
+  {
+   "id": "ai16_8bd42389",
+   "category": "technology",
+   "title_rw": "Gufata Ingamba mu gihe cy'Igitero cy'Ikoranabuhanga",
+   "title_en": "Cybersecurity Incident Response",
+   "summary_rw": "Gufata ingamba mu gihe cy'igitero cy'ikoranabuhanga ni gahunda yo gutegura no gukemura ibibazo by'umutekano w'amakuru. Intego yabyo ni ukugabanya ibihombo no gusubiza sisitemu mu buryo bwihuse.",
+   "summary_en": "Cybersecurity incident response is a structured approach to preparing for and managing digital security attacks. Its main goal is to minimize damage and restore systems quickly.",
+   "keywords": [
+    "cybersecurity",
+    "ikoranabuhanga",
+    "umutekano",
+    "igitero",
+    "incident",
+    "response",
+    "amakuru",
+    "sisitemu"
+   ],
+   "auto": true,
+   "taught": "2026-11-23"
+  },
+  {
+   "id": "ai16_655eb80d",
+   "category": "technology",
+   "title_rw": "Uburyo bwo Gutegura Porogaramu za Mudasobwa",
+   "title_en": "Software Design Patterns",
+   "summary_rw": "Uburyo bwo gutegura porogaramu ni ibisubizo byiza byanditse ku bibazo bikunze kwigaragaza mu gihe cyo kwandika porogaramu za mudasobwa. Ibi bifasha abahanga mu bumenyi bwa mudasobwa kwihutisha akazi no kwirinda amakosa.",
+   "summary_en": "Software design patterns are well-proven solutions to common problems in software design. They help developers write code faster and avoid common programming mistakes.",
+   "keywords": [
+    "porogaramu",
+    "mudasobwa",
+    "uburyo",
+    "gutegeka",
+    "software",
+    "design",
+    "patterns",
+    "code"
    ],
    "auto": true,
    "taught": "2026-11-23"
