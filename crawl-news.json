@@ -1,5 +1,65 @@
 [
  {
+  "id": "crawl_15674ts",
+  "title": "What is going on with Poundland?",
+  "summary": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+  "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-23T00:22:27.000Z",
+  "source": "BBC Business",
+  "category": "business",
+  "lang": "en",
+  "keywords": [
+   "BBC Business",
+   "business"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2b3/live/3c7f3110-d7bf-11f1-a719-bf3dc3a3d5b5.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2b3/live/3c7f3110-d7bf-11f1-a719-bf3dc3a3d5b5.jpg",
+  "title_en": "What is going on with Poundland?",
+  "summary_en": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+  "share_id": "MN202611_15674ts01am"
+ },
+ {
+  "id": "crawl_pmz87x",
+  "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+  "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+  "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-23T00:08:00.000Z",
+  "source": "BBC Business",
+  "category": "business",
+  "lang": "en",
+  "keywords": [
+   "BBC Business",
+   "business"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d7f/live/712502a0-e2cd-11f1-99ed-7de3e5932968.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d7f/live/712502a0-e2cd-11f1-99ed-7de3e5932968.jpg",
+  "title_en": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+  "summary_en": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+  "share_id": "MN202611_pmz87xs4or"
+ },
+ {
+  "id": "crawl_1dt5tu0",
+  "title": "Energy bills will soar - here's how you can ease the pain",
+  "summary": "Household energy bills are about to soar but there are ways to keep a lid on your expenditure.",
+  "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-23T00:05:29.000Z",
+  "source": "BBC Business",
+  "category": "business",
+  "lang": "en",
+  "keywords": [
+   "BBC Business",
+   "business"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg",
+  "title_en": "Energy bills will soar - here's how you can ease the pain",
+  "summary_en": "Household energy bills are about to soar but there are ways to keep a lid on your expenditure.",
+  "share_id": "MN202611_1dt5tu0xy3q"
+ },
+ {
   "id": "crawl_c5a1ll",
   "title": "Did Liverpool 'get lucky' with red card decision?",
   "summary": "Match of the Day pundits Danny Murphy and Ashley Young believe that Liverpool were perhaps \"lucky\" when Manchester United's Leny Yoro was sent off in the 8th-minute at Anfield.",
@@ -6963,12 +7023,12 @@
   "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-20T00:02:07.000Z",
-  "source": "BBC Business",
-  "category": "business",
+  "source": "BBC Technology",
+  "category": "tech",
   "lang": "en",
   "keywords": [
-   "BBC Business",
-   "business"
+   "BBC Technology",
+   "tech"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
@@ -7205,12 +7265,12 @@
   "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-19T21:38:42.000Z",
-  "source": "BBC Business",
-  "category": "business",
+  "source": "BBC Technology",
+  "category": "tech",
   "lang": "en",
   "keywords": [
-   "BBC Business",
-   "business"
+   "BBC Technology",
+   "tech"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
@@ -16990,74 +17050,5 @@
   "title_rw": "#diamondplatnumz #wcb #Zuchu",
   "summary_rw": "#diamondplatnumz #wcb #Zuchu",
   "share_id": "MN202611_jgpi5z5fbp"
- },
- {
-  "id": "crawl_1l90xzl",
-  "title": "Prendergast could miss South Africa game after being cited",
-  "summary": "Ireland fly-half Sam Prendergast is in danger of missing Saturday's Nations Championship match against South Africa after being cited for a tackle against Fiji.",
-  "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c3pw42zrp4peo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c3pw42zrp4peo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-16T14:31:37.000Z",
-  "source": "BBC Sport Africa",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Sport Africa",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cda/live/230309b0-e1c3-11f1-8a52-0b287ff76f43.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cda/live/230309b0-e1c3-11f1-8a52-0b287ff76f43.jpg",
-  "title_en": "Prendergast could miss South Africa game after being cited",
-  "summary_en": "Ireland fly-half Sam Prendergast is in danger of missing Saturday's Nations Championship match against South Africa after being cited for a tackle against Fiji.",
-  "share_id": "MN202611_1l90xzlpkbz"
- },
- {
-  "id": "crawl_16ub3b9",
-  "title": "U Rwanda rushobora kuva muri OIF rugakora ibindi - Aloys Rutabingwa",
-  "summary": "Kongererwa umwaka umwe ku buyobozi bw’Umuryango w’Ibihugu bikoresha Igifaransa (OIF) kuri Louise Mushikiwabo bisobanuye ko azakomeza kuyobora uwo muryango kugeza mu Ugushyingo 2027, aho kuva kuri (…)",
-  "link": "https://www.kigalitoday.com/uko-mbyumva/article/u-rwanda-rushobora-kuva-muri-oif-rugakora-ibindi-aloys-rutabingwa",
-  "url": "https://www.kigalitoday.com/uko-mbyumva/article/u-rwanda-rushobora-kuva-muri-oif-rugakora-ibindi-aloys-rutabingwa",
-  "date": "2026-11-16T14:28:12.000Z",
-  "source": "Kigali Today",
-  "category": "news",
-  "lang": "rw",
-  "keywords": [
-   "Kigali Today",
-   "news",
-   "Uko Mbyumva",
-   "MobileBigStory",
-   "Tarib Abdul"
-  ],
-  "image": "https://www.kigalitoday.com/IMG/png/2026-11-16_16_26_53-afp_6af933691f04-1794716521_jpg_770_513_.png",
-  "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-16_16_26_53-afp_6af933691f04-1794716521_jpg_770_513_.png",
-  "title_rw": "U Rwanda rushobora kuva muri OIF rugakora ibindi - Aloys Rutabingwa",
-  "summary_rw": "Kongererwa umwaka umwe ku buyobozi bw’Umuryango w’Ibihugu bikoresha Igifaransa (OIF) kuri Louise Mushikiwabo bisobanuye ko azakomeza kuyobora uwo muryango kugeza mu Ugushyingo 2027, aho kuva kuri (…)",
-  "share_id": "MN202611_16ub3b9e4bn"
- },
- {
-  "id": "crawl_sja5e6",
-  "title": "Tshisekedi asohoye itangazo ryibasira u Rwanda na Louise nonaha, Dacian Ciolos nawe avuze agahinda k",
-  "summary": "Tshisekedi asohoye itangazo ryibasira u Rwanda na Louise nonaha, Dacian Ciolos nawe avuze agahinda k",
-  "link": "https://www.youtube.com/watch?v=xmKltLKQWqY",
-  "url": "https://www.youtube.com/watch?v=xmKltLKQWqY",
-  "date": "2026-11-16T14:28:12.000Z",
-  "source": "Rocky Entertainment YouTube",
-  "category": "entertainment",
-  "lang": "rw",
-  "keywords": [
-   "Rocky Entertainment YouTube",
-   "entertainment",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "xmKltLKQWqY"
-  },
-  "type": "video",
-  "image": "https://i1.ytimg.com/vi/xmKltLKQWqY/hqdefault.jpg",
-  "thumbnail": "https://i1.ytimg.com/vi/xmKltLKQWqY/hqdefault.jpg",
-  "title_rw": "Tshisekedi asohoye itangazo ryibasira u Rwanda na Louise nonaha, Dacian Ciolos nawe avuze agahinda k",
-  "summary_rw": "Tshisekedi asohoye itangazo ryibasira u Rwanda na Louise nonaha, Dacian Ciolos nawe avuze agahinda k",
-  "share_id": "MN202611_sja5e6aa7g"
  }
 ]
