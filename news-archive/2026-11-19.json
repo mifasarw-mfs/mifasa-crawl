@@ -1,6 +1,6 @@
 {
  "day": "2026-11-19",
- "count": 103,
+ "count": 104,
  "articles": [
   {
    "id": "crawl_178qhsz",
@@ -1552,6 +1552,26 @@
    "share_id": "MN202611_fey2uzqzbt"
   },
   {
+   "id": "crawl_zv4292",
+   "title": "Will Infantino feel he's already won as Fifa challengers confirmed?",
+   "summary": "Fifa has confirmed Philippe Diallo and Kozo Tashima will also stand in next year's presidential election - but can either stop Gianni Infantino from winning?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T10:21:10.000Z",
+   "source": "BBC Sport Africa",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Sport Africa",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/576c/live/d124d9e0-e26a-11f1-b19c-7b42f37bea48.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/576c/live/d124d9e0-e26a-11f1-b19c-7b42f37bea48.jpg",
+   "title_en": "Will Infantino feel he's already won as Fifa challengers confirmed?",
+   "summary_en": "Fifa has confirmed Philippe Diallo and Kozo Tashima will also stand in next year's presidential election - but can either stop Gianni Infantino from winning?",
+   "share_id": "MN202611_zv4292vzno"
+  },
+  {
    "id": "crawl_14tck8i",
    "title": "Player handed eight-year ban for throwing rock at ref",
    "summary": "Ecuadorian footballer Jhon Perlaza is banned for eight years after throwing a stone at an assistant referee during a third-tier match.",
@@ -2095,5 +2115,5 @@
    "share_id": "MN202611_492yq9vv73"
   }
  ],
- "updated": "2026-11-20T16:40:04.751Z"
+ "updated": "2026-11-23T20:43:47.334Z"
 }
