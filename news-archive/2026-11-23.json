@@ -1,7 +1,111 @@
 {
  "day": "2026-11-23",
- "count": 37,
+ "count": 42,
  "articles": [
+  {
+   "id": "crawl_lok157",
+   "title": "Flights grounded in Belgium due to strike against austerity measures",
+   "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
+   "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T11:26:12.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4074/live/80a31490-e72a-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4074/live/80a31490-e72a-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Flights grounded in Belgium due to strike against austerity measures",
+   "summary_en": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
+   "share_id": "MN202611_lok157cxm1"
+  },
+  {
+   "id": "crawl_1uj1wpe",
+   "title": "Nsengiyumva to African Leaders: Rwanda Has a Health Financing Model Worth Emulating",
+   "summary": "ADDIS ABABA – Rwanda has presented its community-based health insurance scheme and its response to the 2024 Marburg outbreak as lessons for African countries seeking to reduce dependence on foreign… The post Nsengiyumva to African Leaders: Rwanda Has a Health Financing Model Worth Emulating appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/nsengiyumva-to-african-leaders-rwanda-has-a-health-financing-model-worth-emulating/",
+   "url": "https://www.ktpress.rw/2026/11/nsengiyumva-to-african-leaders-rwanda-has-a-health-financing-model-worth-emulating/",
+   "date": "2026-11-23T11:24:02.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "National",
+    "latestnews"
+   ],
+   "title_en": "Nsengiyumva to African Leaders: Rwanda Has a Health Financing Model Worth Emulating",
+   "summary_en": "ADDIS ABABA – Rwanda has presented its community-based health insurance scheme and its response to the 2024 Marburg outbreak as lessons for African countries seeking to reduce dependence on foreign… The post Nsengiyumva to African Leaders: Rwanda Has a Health Financing Model Worth Emulating appeared first on KT PRESS .",
+   "share_id": "MN202611_1uj1wpeydtc"
+  },
+  {
+   "id": "crawl_q3phxd",
+   "title": "Presidential villa also hit by water and power cuts, Nigerian leader says",
+   "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
+   "link": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T11:15:16.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg",
+   "title_en": "Presidential villa also hit by water and power cuts, Nigerian leader says",
+   "summary_en": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
+   "share_id": "MN202611_q3phxdiee7"
+  },
+  {
+   "id": "crawl_vz6aqe",
+   "title": "U Rwanda rwasabye ibihugu by'Afurika kwishakamo ubushobozi bwo kwita ku buzima bw'abaturage",
+   "summary": "Minisitiri w’Intebe w’u Rwanda, Dr. Justin Nsengiyumva, yasabye ibihugu bya Afurika gufata iya mbere mu gushaka ubushobozi bwo gutera inkunga inzego z’ubuzima, aho gukomeza kwishingikiriza ku (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/u-rwanda-rwasabye-ibihugu-by-afurika-kwishakamo-ubushobozi-bwo-kwita-ku-buzima-bw-abaturage",
+   "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/u-rwanda-rwasabye-ibihugu-by-afurika-kwishakamo-ubushobozi-bwo-kwita-ku-buzima-bw-abaturage",
+   "date": "2026-11-23T11:14:43.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu Rwanda",
+    "MobileBigStory",
+    "Tarib Abdul"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/day_1_1jpg.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/day_1_1jpg.jpg",
+   "title_rw": "U Rwanda rwasabye ibihugu by'Afurika kwishakamo ubushobozi bwo kwita ku buzima bw'abaturage",
+   "summary_rw": "Minisitiri w’Intebe w’u Rwanda, Dr. Justin Nsengiyumva, yasabye ibihugu bya Afurika gufata iya mbere mu gushaka ubushobozi bwo gutera inkunga inzego z’ubuzima, aho gukomeza kwishingikiriza ku (…)",
+   "share_id": "MN202611_vz6aqeecok"
+  },
+  {
+   "id": "crawl_1tapbv9",
+   "title": "Kabila Rebels Advancing Towards Kigarama in Uvira Territory",
+   "summary": "Taarifa Investigative Desk has learned that the battle hardened Front For Refoundation of Nation (FRN) rebels are currently advancing into Kigarama located within Uvira Territory. Residents of the Ruzizi plains woke up in panic following the advancing fighters. With the fall of Kigarama, FRN rebels would want to enter Bulaga. According to sources, the FRN’s […] The post Kabila Rebels Advancing…",
+   "link": "https://taarifa.rw/2026/11/23/kabila-rebels-advancing-towards-kigarama-in-uvira-territory/",
+   "url": "https://taarifa.rw/2026/11/23/kabila-rebels-advancing-towards-kigarama-in-uvira-territory/",
+   "date": "2026-11-23T11:14:17.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "DRC Special Edition"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/images-2.jpeg?fit=678%2C452&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/images-2.jpeg?fit=678%2C452&ssl=1",
+   "title_en": "Kabila Rebels Advancing Towards Kigarama in Uvira Territory",
+   "summary_en": "Taarifa Investigative Desk has learned that the battle hardened Front For Refoundation of Nation (FRN) rebels are currently advancing into Kigarama located within Uvira Territory. Residents of the Ruzizi plains woke up in panic following the advancing fighters. With the fall of Kigarama, FRN rebels would want to enter Bulaga. According to sources, the FRN’s […] The post Kabila Rebels Advancing…",
+   "share_id": "MN202611_1tapbv93c37"
+  },
   {
    "id": "crawl_1ce07n2",
    "title": "Atletico's Simeone breaks La Liga victories record",
@@ -756,5 +860,5 @@
    "share_id": "MN202611_1dt5tu0xy3q"
   }
  ],
- "updated": "2026-11-23T10:55:54.321Z"
+ "updated": "2026-11-23T11:37:35.193Z"
 }
