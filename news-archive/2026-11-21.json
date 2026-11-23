@@ -1,6 +1,6 @@
 {
  "day": "2026-11-21",
- "count": 85,
+ "count": 86,
  "articles": [
   {
    "id": "crawl_1kb1sjv",
@@ -1139,6 +1139,26 @@
    "share_id": "MN202611_aomgxhfdeb"
   },
   {
+   "id": "crawl_6pyj66",
+   "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
+   "summary": "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary.",
+   "link": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T12:00:03.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c010/live/8fc02730-e5a7-11f1-8df2-d7de7bfd91b9.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c010/live/8fc02730-e5a7-11f1-8df2-d7de7bfd91b9.jpg",
+   "title_en": "Catherine talks openly about how cancer changed her in documentary on BBC",
+   "summary_en": "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary.",
+   "share_id": "MN202611_6pyj66rfn0"
+  },
+  {
    "id": "crawl_pob5o5",
    "title": "Umuhungu w'Umunya-Ghana wiciwe muri Amerika 'yari akwiriye ibyiza cyane' – 'Mayor' Mamdani wa New York",
    "summary": "Mu muhango wo gushyingura uwo muhungu wari ufite imyaka 15 wishwe arashwe mu kwezi gushize, umukuru w'umujyi wa New York, Mamdani, yavuze ijambo ari kumwe na se w'uwo mwana n'abayobozi bakuriye imiryango iharanira uburenganzira.",
@@ -1742,5 +1762,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-23T03:44:20.136Z"
+ "updated": "2026-11-23T08:23:57.079Z"
 }

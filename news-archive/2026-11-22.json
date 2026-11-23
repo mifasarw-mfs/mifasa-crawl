@@ -1,6 +1,6 @@
 {
  "day": "2026-11-22",
- "count": 76,
+ "count": 77,
  "articles": [
   {
    "id": "crawl_c5a1ll",
@@ -481,6 +481,26 @@
    "title_en": "COP31 climate talks fail to reach major deal amid deep divisions",
    "summary_en": "COP31 climate talks fail to make breakthrough on tackling climate change after a row about mentioning fossil fuels.",
    "share_id": "MN202611_1dpqtf2jpvw"
+  },
+  {
+   "id": "crawl_hsmf99",
+   "title": "Long-lost Chevalier landscape found in charity shop",
+   "summary": "Cape Schanck, Victoria, is set to go under the hammer at Olympia Auctions in London on 9 December.",
+   "link": "https://www.bbc.co.uk/news/articles/c32l5z88z15jo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c32l5z88z15jo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T18:09:23.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1352/live/d23d4110-e683-11f1-a8fd-13fffcb9ff5a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1352/live/d23d4110-e683-11f1-a8fd-13fffcb9ff5a.jpg",
+   "title_en": "Long-lost Chevalier landscape found in charity shop",
+   "summary_en": "Cape Schanck, Victoria, is set to go under the hammer at Olympia Auctions in London on 9 December.",
+   "share_id": "MN202611_hsmf99fbq3"
   },
   {
    "id": "crawl_1xvd119",
@@ -1535,5 +1555,5 @@
    "share_id": "MN202611_1n53iebwev5"
   }
  ],
- "updated": "2026-11-23T06:57:38.914Z"
+ "updated": "2026-11-23T08:23:57.078Z"
 }
