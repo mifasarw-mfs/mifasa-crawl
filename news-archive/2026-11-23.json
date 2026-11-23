@@ -1,7 +1,86 @@
 {
  "day": "2026-11-23",
- "count": 70,
+ "count": 74,
  "articles": [
+  {
+   "id": "crawl_1fqw7ci",
+   "title": "'No-one's coming to save us' - but how can Man Utd save themselves?",
+   "summary": "How does Mauricio Pochettino halt Manchester United's desperate slide towards the foot of the Premier League",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck9d7qxxl7w8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ck9d7qxxl7w8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T16:30:59.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca84/live/d15e3100-e75a-11f1-b407-33329b1ec67a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca84/live/d15e3100-e75a-11f1-b407-33329b1ec67a.jpg",
+   "title_en": "'No-one's coming to save us' - but how can Man Utd save themselves?",
+   "summary_en": "How does Mauricio Pochettino halt Manchester United's desperate slide towards the foot of the Premier League",
+   "share_id": "MN202611_1fqw7cio4r4"
+  },
+  {
+   "id": "crawl_1se5g41",
+   "title": "When is the Euro 2028 qualifying draw?",
+   "summary": "Our Ask Me Anything team tell you all you need to know about the Euro 2028 qualifying draw.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cklye3q3jvnwo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cklye3q3jvnwo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T16:25:50.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a2e/live/e27eb270-e750-11f1-a094-5fdc692f3e33.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a2e/live/e27eb270-e750-11f1-a094-5fdc692f3e33.png",
+   "title_en": "When is the Euro 2028 qualifying draw?",
+   "summary_en": "Our Ask Me Anything team tell you all you need to know about the Euro 2028 qualifying draw.",
+   "share_id": "MN202611_1se5g41xdin"
+  },
+  {
+   "id": "crawl_t4ov7o",
+   "title": "Hibs boss Reedijk rejects talk of Easter Road jinx",
+   "summary": "Hibernian manager Marink Reedijk rejects suggestions Easter Road is jinxed after going seven months without a home win in the Premiership.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cr78274gepz0o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cr78274gepz0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T16:17:17.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/952a/live/c0010f00-e754-11f1-88dc-f746e0cde621.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/952a/live/c0010f00-e754-11f1-88dc-f746e0cde621.jpg",
+   "title_en": "Hibs boss Reedijk rejects talk of Easter Road jinx",
+   "summary_en": "Hibernian manager Marink Reedijk rejects suggestions Easter Road is jinxed after going seven months without a home win in the Premiership.",
+   "share_id": "MN202611_t4ov7ogsma"
+  },
+  {
+   "id": "crawl_9twp3o",
+   "title": "For 28 million Starving Congolese, Kinshasa is Serving Up Rwanda as the Menu",
+   "summary": "When 28 million people are facing hunger in the DRC, you would expect the Tshisekedi regime to focus on solutions, mobilize resources, and tackle the structural causes of food insecurity.… The post For 28 million Starving Congolese, Kinshasa is Serving Up Rwanda as the Menu appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/for-28-million-starving-congolese-kinshasa-is-serving-up-rwanda-as-the-menu/",
+   "url": "https://www.ktpress.rw/2026/11/for-28-million-starving-congolese-kinshasa-is-serving-up-rwanda-as-the-menu/",
+   "date": "2026-11-23T16:10:35.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "Voices"
+   ],
+   "title_en": "For 28 million Starving Congolese, Kinshasa is Serving Up Rwanda as the Menu",
+   "summary_en": "When 28 million people are facing hunger in the DRC, you would expect the Tshisekedi regime to focus on solutions, mobilize resources, and tackle the structural causes of food insecurity.… The post For 28 million Starving Congolese, Kinshasa is Serving Up Rwanda as the Menu appeared first on KT PRESS .",
+   "share_id": "MN202611_9twp3ohegi"
+  },
   {
    "id": "crawl_5u1f7v",
    "title": "The rise and fall and rise again of Jensen Huang",
@@ -1442,5 +1521,5 @@
    "share_id": "MN202611_1dt5tu0xy3q"
   }
  ],
- "updated": "2026-11-23T15:56:25.263Z"
+ "updated": "2026-11-23T16:49:36.980Z"
 }
