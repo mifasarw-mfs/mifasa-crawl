@@ -220,8 +220,8 @@
    "BBC Business",
    "business"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/938d/live/58a5fb00-e762-11f1-a094-5fdc692f3e33.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/938d/live/58a5fb00-e762-11f1-a094-5fdc692f3e33.jpg",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc0b/live/456f5c10-e772-11f1-99a1-253766e7ad8b.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc0b/live/456f5c10-e772-11f1-99a1-253766e7ad8b.jpg",
   "title_en": "Faisal Islam: Why Jensen Huang proved too big to fire",
   "summary_en": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
   "share_id": "MN202611_89u3qzn07t"
@@ -784,6 +784,35 @@
   "title_en": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
   "summary_en": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
   "share_id": "MN202611_1wrzkzyshgs"
+ },
+ {
+  "id": "crawl_10eanhj",
+  "title": "Avengers: Doomsday | Final Trailer | In Theaters December 18",
+  "summary": "Team up and stand together. Avengers: Doomsday arrives in theaters everywhere December 18. Get tickets now: https://fandango.com/AvengersDoomsday ► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1 ► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/ Follow on social me",
+  "link": "https://www.youtube.com/watch?v=Wb8Tq_HD4E8",
+  "url": "https://www.youtube.com/watch?v=Wb8Tq_HD4E8",
+  "date": "2026-11-23T14:00:01.000Z",
+  "source": "YouTube Trending Uganda",
+  "category": "entertainment",
+  "lang": "en",
+  "keywords": [
+   "YouTube Trending Uganda",
+   "entertainment",
+   "trending",
+   "marvel",
+   "comics",
+   "video"
+  ],
+  "video": {
+   "provider": "youtube",
+   "id": "Wb8Tq_HD4E8"
+  },
+  "type": "video",
+  "image": "https://i.ytimg.com/vi/Wb8Tq_HD4E8/hqdefault.jpg",
+  "thumbnail": "https://i.ytimg.com/vi/Wb8Tq_HD4E8/hqdefault.jpg",
+  "title_en": "Avengers: Doomsday | Final Trailer | In Theaters December 18",
+  "summary_en": "Team up and stand together. Avengers: Doomsday arrives in theaters everywhere December 18. Get tickets now: https://fandango.com/AvengersDoomsday ► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1 ► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/ Follow on social me",
+  "share_id": "MN202611_10eanhj6qbp"
  },
  {
   "id": "crawl_1pvhbux",
@@ -17055,25 +17084,5 @@
   "title_en": "How new US chip restrictions on South East Asia will hit China",
   "summary_en": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
   "share_id": "MN202611_cmmbyef8f8"
- },
- {
-  "id": "crawl_16uvgrf",
-  "title": "Blackburn boss Mowbray steps back over health issues",
-  "summary": "Blackburn Rovers head coach Tony Mowbray steps back from his role with the Championship club due to health issues.",
-  "link": "https://www.bbc.co.uk/sport/football/articles/c6dx190nkvl4o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c6dx190nkvl4o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-17T10:21:47.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c590/live/c10bc840-e272-11f1-b19c-7b42f37bea48.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c590/live/c10bc840-e272-11f1-b19c-7b42f37bea48.jpg",
-  "title_en": "Blackburn boss Mowbray steps back over health issues",
-  "summary_en": "Blackburn Rovers head coach Tony Mowbray steps back from his role with the Championship club due to health issues.",
-  "share_id": "MN202611_16uvgrfne61"
  }
 ]
