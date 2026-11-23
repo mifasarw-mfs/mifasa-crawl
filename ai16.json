@@ -6858,6 +6858,54 @@
    ],
    "auto": true,
    "taught": "2026-11-23"
+  },
+  {
+   "id": "ai16_8e8ed311_q",
+   "label_rw": "Urugero rw'Ibiryo mu Binyabuzima",
+   "label_en": "Food Webs in Ecosystems",
+   "patterns_en": [
+    "What is a food web in an ecosystem?",
+    "How does energy flow through living organisms?",
+    "Why is ecosystem balance important?"
+   ],
+   "patterns_rw": [
+    "Urugero rw'ibiryo ni iki mu bidukikije?",
+    "Ni gute ingufu zitembera mu binyabuzima?",
+    "Kuki uburinganire bw'ibidukikije ari bingenzi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ibidukikije bigizwe n'ibinyabuzima n'ibidapfa bihura. Urugero rw'ibiryo rwerekana uburyo ingufu zitembera mu binyabuzima. Ibimera bikora ibiryo bikoresha izuba. Amatungo n'inyamaswa birya ibimera n'izindi nyamaswa. Ibi bifasha kubungabunga ubuzima n'umuringanire mu bidukikije.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Ecosystems consist of living organisms interacting with their environment. A food web shows how energy flows through living things. Plants produce food using sunlight. Herbivores and carnivores consume plants and other animals. This process helps maintain life and balance within the ecosystem.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-23"
+  },
+  {
+   "id": "ai16_7c804d7f_q",
+   "label_rw": "Umucyo n'Ibara ry'Umuco",
+   "label_en": "Light and Color Spectrum",
+   "patterns_en": [
+    "What causes a rainbow?",
+    "How many colors are in sunlight?",
+    "How does light separate?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera umukororombya?",
+    "Amabara y'umucyo w'izuba ni angahe?",
+    "Ni gute umucyo utandukana?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Umucyo w'izuba ugizwe n'amabara menshi atandukanye. Iyo umucyo unyuze mu kirahuri cyangwa mu mvura, utandukana ukagaragaza umukororombya ufite amabara arindwi y'ingenzi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Sunlight is composed of many different colors. When light passes through a prism or rain droplets, it separates to reveal a rainbow featuring about seven main colors.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-23"
   }
  ],
  "knowledge": [
@@ -12507,6 +12555,45 @@
     "ropes",
     "baskets",
     "culture"
+   ],
+   "auto": true,
+   "taught": "2026-11-23"
+  },
+  {
+   "id": "ai16_8e8ed311",
+   "category": "science",
+   "title_rw": "Urugero rw'Ibiryo mu Binyabuzima",
+   "title_en": "Food Webs in Ecosystems",
+   "summary_rw": "Ibidukikije bigizwe n'ibinyabuzima n'ibidapfa bihura. Urugero rw'ibiryo rwerekana uburyo ingufu zitembera mu binyabuzima. Ibimera bikora ibiryo bikoresha izuba. Amatungo n'inyamaswa birya ibimera n'izindi nyamaswa. Ibi bifasha kubungabunga ubuzima n'umuringanire mu bidukikije.",
+   "summary_en": "Ecosystems consist of living organisms interacting with their environment. A food web shows how energy flows through living things. Plants produce food using sunlight. Herbivores and carnivores consume plants and other animals. This process helps maintain life and balance within the ecosystem.",
+   "keywords": [
+    "ibidukikije",
+    "ecosystem",
+    "urugero rw'ibiryo",
+    "food web",
+    "ingufu",
+    "energy",
+    "ibinyabuzima"
+   ],
+   "auto": true,
+   "taught": "2026-11-23"
+  },
+  {
+   "id": "ai16_7c804d7f",
+   "category": "science",
+   "title_rw": "Umucyo n'Ibara ry'Umuco",
+   "title_en": "Light and Color Spectrum",
+   "summary_rw": "Umucyo w'izuba ugizwe n'amabara menshi atandukanye. Iyo umucyo unyuze mu kirahuri cyangwa mu mvura, utandukana ukagaragaza umukororombya ufite amabara arindwi y'ingenzi.",
+   "summary_en": "Sunlight is composed of many different colors. When light passes through a prism or rain droplets, it separates to reveal a rainbow featuring about seven main colors.",
+   "keywords": [
+    "umucyo",
+    "light",
+    "ibara",
+    "color",
+    "umukororombya",
+    "rainbow",
+    "science",
+    "ubumenyi"
    ],
    "auto": true,
    "taught": "2026-11-23"
