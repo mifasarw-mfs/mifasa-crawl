@@ -1,7 +1,47 @@
 {
  "day": "2026-11-23",
- "count": 82,
+ "count": 84,
  "articles": [
+  {
+   "id": "crawl_16yh95b",
+   "title": "Britain's Got Talent winner almost missed audition due to Carphone Warehouse shift",
+   "summary": "Tenor Paul Potts would have missed his big chance if a colleague didn't work his Saturday shift.",
+   "link": "https://www.bbc.co.uk/news/articles/cw8dvq431280o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw8dvq431280o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T18:33:43.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea1b/live/381ef450-e1bc-11f1-a339-49d4d3ed4c86.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea1b/live/381ef450-e1bc-11f1-a339-49d4d3ed4c86.jpg",
+   "title_en": "Britain's Got Talent winner almost missed audition due to Carphone Warehouse shift",
+   "summary_en": "Tenor Paul Potts would have missed his big chance if a colleague didn't work his Saturday shift.",
+   "share_id": "MN202611_16yh95ba5m5"
+  },
+  {
+   "id": "crawl_mjm2lh",
+   "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
+   "summary": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
+   "link": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T18:04:20.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a11/live/e201bf70-bb4c-11f1-bc1f-3f186ca4140c.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a11/live/e201bf70-bb4c-11f1-bc1f-3f186ca4140c.jpg",
+   "title_en": "Iranian authorities flog singer who performed without hijab, lawyers say",
+   "summary_en": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
+   "share_id": "MN202611_mjm2lhez2b"
+  },
   {
    "id": "crawl_1mw1dl",
    "title": "FONERWA igiye kuvugururwa kugira ngo ireke gushingira ku nkunga",
@@ -1684,5 +1724,5 @@
    "share_id": "MN202611_1dt5tu0xy3q"
   }
  ],
- "updated": "2026-11-23T17:51:44.990Z"
+ "updated": "2026-11-23T18:37:52.225Z"
 }
