@@ -1,7 +1,73 @@
 {
  "day": "2026-11-23",
- "count": 6,
+ "count": 10,
  "articles": [
+  {
+   "id": "crawl_map8uo",
+   "title": "Ubwato bw’intambara bw’Uburusiya bwononekaye cane mu gitero bikekwa ko cakozwe na drone muri Libya",
+   "summary": "Abategetsi ba Libya ntibavuga uwoba ari inyuma y’ico gitero, ariko amakuru avuga ko abahinga ba Ukraine mu vy'amadrone bariko bakorera mu buseruko bwa Libya.",
+   "link": "https://www.bbc.co.uk/gahuza/live/cq7820x5lk15t?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/gahuza/live/cq7820x5lk15t?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T04:52:44.691Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e577/live/5e087c70-e6f0-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e577/live/5e087c70-e6f0-11f1-99b6-a35a62fa4264.jpg",
+   "title_rw": "Ubwato bw’intambara bw’Uburusiya bwononekaye cane mu gitero bikekwa ko cakozwe na drone muri Libya",
+   "summary_rw": "Abategetsi ba Libya ntibavuga uwoba ari inyuma y’ico gitero, ariko amakuru avuga ko abahinga ba Ukraine mu vy'amadrone bariko bakorera mu buseruko bwa Libya.",
+   "share_id": "MN202611_map8uolvxq"
+  },
+  {
+   "id": "crawl_1at8x4l",
+   "title": "Abamotari, abapolisi n'abacuruzi bo mu masoko bagiye guhugurwa mu gutabara indembe",
+   "summary": "Muri weekend dushoje Minisiteri y’Ubuzima yatangiye gushyira mu bikorwa ivugurura rya serivisi z’ubutabazi bwihuse mu buvuzi (Rwanda Emergency Medical Services – EMS), rigamije kunoza uburyo (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/abamotari-abapolisi-n-abacuruzi-bo-mu-masoko-bagiye-guhugurwa-mu-gutabara-indembe",
+   "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/abamotari-abapolisi-n-abacuruzi-bo-mu-masoko-bagiye-guhugurwa-mu-gutabara-indembe",
+   "date": "2026-11-23T04:03:23.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu Rwanda",
+    "MobileBigStory",
+    "Ruzindana Janvier"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-22_at_22.02_47.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-22_at_22.02_47.jpg",
+   "title_rw": "Abamotari, abapolisi n'abacuruzi bo mu masoko bagiye guhugurwa mu gutabara indembe",
+   "summary_rw": "Muri weekend dushoje Minisiteri y’Ubuzima yatangiye gushyira mu bikorwa ivugurura rya serivisi z’ubutabazi bwihuse mu buvuzi (Rwanda Emergency Medical Services – EMS), rigamije kunoza uburyo (…)",
+   "share_id": "MN202611_1at8x4la903"
+  },
+  {
+   "id": "crawl_1houbkf",
+   "title": "Gukemura ikibazo cya FDLR ni ingenzi mu kugarura amahoro mu karere k'ibiyaga bigari - Minisitiri Biruta",
+   "summary": "Minisitiri w’Umutekano w’Imbere mu Gihugu, Dr Vincent Biruta, yitabiriye ibiganiro bitandukanye mu nama ya Aswan Forum iri kubera mu Misiri, aho yagarutse ku bibazo by’umutekano mu Karere (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/gukemura-ikibazo-cya-fdlr-ni-ingenzi-mu-kugarura-amahoro-mu-karere-k-ibiyaga-bigari-minisitiri-biruta",
+   "url": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/gukemura-ikibazo-cya-fdlr-ni-ingenzi-mu-kugarura-amahoro-mu-karere-k-ibiyaga-bigari-minisitiri-biruta",
+   "date": "2026-11-23T03:56:12.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu mahanga",
+    "MobileBigStory",
+    "Ruzindana Janvier"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/2026-11-23_05_54_43-rwanda_is_seen_in_europe_as_an_ideal_destination_for_rejected_migrants__here_s_w.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-23_05_54_43-rwanda_is_seen_in_europe_as_an_ideal_destination_for_rejected_migrants__here_s_w.png",
+   "title_rw": "Gukemura ikibazo cya FDLR ni ingenzi mu kugarura amahoro mu karere k'ibiyaga bigari - Minisitiri Biruta",
+   "summary_rw": "Minisitiri w’Umutekano w’Imbere mu Gihugu, Dr Vincent Biruta, yitabiriye ibiganiro bitandukanye mu nama ya Aswan Forum iri kubera mu Misiri, aho yagarutse ku bibazo by’umutekano mu Karere (…)",
+   "share_id": "MN202611_1houbkfgox9"
+  },
   {
    "id": "crawl_3ptmkb",
    "title": "RunUp yegukanye igihembo cy'indirimbo ifite amashusho meza muri Afurika muri Galsen Urban Awards",
@@ -44,6 +110,28 @@
    "title_en": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
    "summary_en": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
    "share_id": "MN202611_8apuwvirdp"
+  },
+  {
+   "id": "crawl_18amu0h",
+   "title": "Jyewe ndi umuhungu wa Perezida Kagame - Umunya Nijeriya wiyise Ntakirutimana",
+   "summary": "Jyewe ndi umuhungu wa Perezida Kagame - Umunya Nijeriya wiyise Ntakirutimana",
+   "link": "https://www.kigalitoday.com/amashusho/kt-tv/article/jyewe-ndi-umuhungu-wa-perezida-kagame-umunya-nijeriya-wiyise-ntakirutimana",
+   "url": "https://www.kigalitoday.com/amashusho/kt-tv/article/jyewe-ndi-umuhungu-wa-perezida-kagame-umunya-nijeriya-wiyise-ntakirutimana",
+   "date": "2026-11-23T02:19:00.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "KT TV",
+    "MobileBigStory"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/2026-11-23_06_17_44-_337_ntakirutimana_the_man_behind_the_laughter_-_youtube.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-23_06_17_44-_337_ntakirutimana_the_man_behind_the_laughter_-_youtube.png",
+   "title_rw": "Jyewe ndi umuhungu wa Perezida Kagame - Umunya Nijeriya wiyise Ntakirutimana",
+   "summary_rw": "Jyewe ndi umuhungu wa Perezida Kagame - Umunya Nijeriya wiyise Ntakirutimana",
+   "share_id": "MN202611_18amu0hlde7"
   },
   {
    "id": "crawl_ddod7",
@@ -126,5 +214,5 @@
    "share_id": "MN202611_1dt5tu0xy3q"
   }
  ],
- "updated": "2026-11-23T03:44:20.134Z"
+ "updated": "2026-11-23T04:54:01.739Z"
 }
