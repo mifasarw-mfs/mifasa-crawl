@@ -1,7 +1,46 @@
 {
  "day": "2026-11-23",
- "count": 49,
+ "count": 52,
  "articles": [
+  {
+   "id": "crawl_11vt0c2",
+   "title": "Mexican soldiers attacked in wake of drug lord's arrest",
+   "summary": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
+   "link": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T13:26:36.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c3/live/64308a00-e73d-11f1-802a-678be58471bb.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c3/live/64308a00-e73d-11f1-802a-678be58471bb.jpg",
+   "title_en": "Mexican soldiers attacked in wake of drug lord's arrest",
+   "summary_en": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
+   "share_id": "MN202611_11vt0c2lwsw"
+  },
+  {
+   "id": "crawl_lzustz",
+   "title": "An Open Letter to James Gasana and Nkiko Nsengimana on Their Book, “Rwanda: Dismantling the Hutu-Tutsi-Twa Identity Myth”",
+   "summary": "OPEN LETTER TO Dr. JAMES GASANA AND Dr. NKIKO NSENGIMANA, CO-AUTHORS OF THE BOOK ENTITLED: “Rwanda: Dismantling the Hutu-Tutsi-Twa Identity Myth,” published by L’Harmattan, 2026 Dear Sirs, I followed with… The post An Open Letter to James Gasana and Nkiko Nsengimana on Their Book, “Rwanda: Dismantling the Hutu-Tutsi-Twa Identity Myth” appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/an-open-letter-to-james-gasana-and-nkiko-nsengimana-on-their-book-rwanda-dismantling-the-hutu-tutsi-twa-identity-myth/",
+   "url": "https://www.ktpress.rw/2026/11/an-open-letter-to-james-gasana-and-nkiko-nsengimana-on-their-book-rwanda-dismantling-the-hutu-tutsi-twa-identity-myth/",
+   "date": "2026-11-23T12:58:36.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "Voices"
+   ],
+   "title_en": "An Open Letter to James Gasana and Nkiko Nsengimana on Their Book, “Rwanda: Dismantling the Hutu-Tutsi-Twa Identity Myth”",
+   "summary_en": "OPEN LETTER TO Dr. JAMES GASANA AND Dr. NKIKO NSENGIMANA, CO-AUTHORS OF THE BOOK ENTITLED: “Rwanda: Dismantling the Hutu-Tutsi-Twa Identity Myth,” published by L’Harmattan, 2026 Dear Sirs, I followed with… The post An Open Letter to James Gasana and Nkiko Nsengimana on Their Book, “Rwanda: Dismantling the Hutu-Tutsi-Twa Identity Myth” appeared first on KT PRESS .",
+   "share_id": "MN202611_lzustzi05x"
+  },
   {
    "id": "crawl_nza4lh",
    "title": "Watford set to appoint former Romania boss Iordanescu",
@@ -21,6 +60,26 @@
    "title_en": "Watford set to appoint former Romania boss Iordanescu",
    "summary_en": "Watford are set to appoint former Romania coach Edward Iordanescu as their new head coach, reports BBC Three Counties Radio.",
    "share_id": "MN202611_nza4lh2203"
+  },
+  {
+   "id": "crawl_4r9r7b",
+   "title": "Next data accessed in cyber breach",
+   "summary": "The fashion retailer says there is no evidence customers' personal data was compromised.",
+   "link": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T12:34:07.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/295f/live/f2adb050-e738-11f1-8294-033bd8ee7e95.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/295f/live/f2adb050-e738-11f1-8294-033bd8ee7e95.jpg",
+   "title_en": "Next data accessed in cyber breach",
+   "summary_en": "The fashion retailer says there is no evidence customers' personal data was compromised.",
+   "share_id": "MN202611_4r9r7b2no5"
   },
   {
    "id": "crawl_mjvhk1",
@@ -1001,5 +1060,5 @@
    "share_id": "MN202611_1dt5tu0xy3q"
   }
  ],
- "updated": "2026-11-23T12:58:16.245Z"
+ "updated": "2026-11-23T14:00:17.613Z"
 }
