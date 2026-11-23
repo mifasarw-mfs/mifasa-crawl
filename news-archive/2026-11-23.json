@@ -1,7 +1,27 @@
 {
  "day": "2026-11-23",
- "count": 74,
+ "count": 75,
  "articles": [
+  {
+   "id": "crawl_1hupzwf",
+   "title": "Afcon 2025: Maroc na Sénégal barindiriye ingingo ya nyuma y'ubutungane inyuma y'urubanza",
+   "summary": "Vyitezwe ko Sentare ijejwe ivy'inkino ya Maroc itangaza ko igihugu kimwe hagati ya Sénégal na Maroc ari co catahukanye igikombe.",
+   "link": "https://www.bbc.com/gahuza/articles/c6z0kdylp84jo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/c6z0kdylp84jo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T16:47:33.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/473b/live/8627f400-bd98-11f1-babe-4199b0e7ccea.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/473b/live/8627f400-bd98-11f1-babe-4199b0e7ccea.png",
+   "title_rw": "Afcon 2025: Maroc na Sénégal barindiriye ingingo ya nyuma y'ubutungane inyuma y'urubanza",
+   "summary_rw": "Vyitezwe ko Sentare ijejwe ivy'inkino ya Maroc itangaza ko igihugu kimwe hagati ya Sénégal na Maroc ari co catahukanye igikombe.",
+   "share_id": "MN202611_1hupzwfiwd9"
+  },
   {
    "id": "crawl_1fqw7ci",
    "title": "'No-one's coming to save us' - but how can Man Utd save themselves?",
@@ -1521,5 +1541,5 @@
    "share_id": "MN202611_1dt5tu0xy3q"
   }
  ],
- "updated": "2026-11-23T16:49:36.980Z"
+ "updated": "2026-11-23T16:51:11.997Z"
 }
