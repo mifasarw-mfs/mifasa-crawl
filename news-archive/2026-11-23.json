@@ -1,7 +1,27 @@
 {
  "day": "2026-11-23",
- "count": 52,
+ "count": 54,
  "articles": [
+  {
+   "id": "crawl_1wrzkzy",
+   "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
+   "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
+   "link": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T14:08:50.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/1d07a600-e269-11f1-a094-5fdc692f3e33.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/1d07a600-e269-11f1-a094-5fdc692f3e33.png",
+   "title_en": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
+   "summary_en": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
+   "share_id": "MN202611_1wrzkzyshgs"
+  },
   {
    "id": "crawl_11vt0c2",
    "title": "Mexican soldiers attacked in wake of drug lord's arrest",
@@ -609,6 +629,26 @@
    "share_id": "MN202611_jnuekwh3n2"
   },
   {
+   "id": "crawl_hmmv92",
+   "title": "Watch highlights of the weekend's SPFL action",
+   "summary": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6p3e4388lq1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c6p3e4388lq1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T08:14:17.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb02/live/99001ce0-eb5e-11f0-b5f7-49f0357294ff.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb02/live/99001ce0-eb5e-11f0-b5f7-49f0357294ff.jpg",
+   "title_en": "Watch highlights of the weekend's SPFL action",
+   "summary_en": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2.",
+   "share_id": "MN202611_hmmv9206qc"
+  },
+  {
    "id": "crawl_aqdvcw",
    "title": "Pioneer or coach-eater? The complex world of Pozzo's Watford",
    "summary": "Pioneering or problematic? Why Gino Pozzo's 14-year Watford ownership is at a crossroads as the club search for their 26th managerial appointment on his watch.",
@@ -1060,5 +1100,5 @@
    "share_id": "MN202611_1dt5tu0xy3q"
   }
  ],
- "updated": "2026-11-23T14:00:17.613Z"
+ "updated": "2026-11-23T14:20:00.896Z"
 }
