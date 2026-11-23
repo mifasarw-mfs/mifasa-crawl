@@ -1,6 +1,6 @@
 {
  "day": "2026-11-21",
- "count": 84,
+ "count": 85,
  "articles": [
   {
    "id": "crawl_1kb1sjv",
@@ -154,6 +154,29 @@
    "title_rw": "Indege ya FARDC yarashe na Radiyo y'abaturage",
    "summary_rw": "Ibitero by’indege z’ingabo za Leta ya Repubulika ya Demokarasi ya Congo ndetse n’abo bafatanyije bikomeje kwibasira uduce turimo abasivili gusa, zikabikora zirenze ku masezerano y’agahenge, aho (…)",
    "share_id": "MN202611_pog5i6kav0"
+  },
+  {
+   "id": "crawl_d6e6a7",
+   "title": "Indege ya FARDC yarashe Radiyo y'abaturage",
+   "summary": "Ibitero by’indege z’ingabo za Leta ya Repubulika ya Demokarasi ya Congo ndetse n’abo bafatanyije bikomeje kwibasira uduce turimo abasivili gusa, zikabikora zirenze ku masezerano y’agahenge, aho (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-mahanga/Indege-ya-FARDC-yarashe-Radiyo-y-abaturage",
+   "url": "https://www.kigalitoday.com/amakuru/mu-mahanga/Indege-ya-FARDC-yarashe-Radiyo-y-abaturage",
+   "date": "2026-11-21T22:05:55.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu mahanga",
+    "MobileBigStory",
+    "Mediatrice Uwingabire"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/2026-11-21_22_31_30-h4px2ycialwisahy7zbglw3mki_jpg_750_500_.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-21_22_31_30-h4px2ycialwisahy7zbglw3mki_jpg_750_500_.png",
+   "title_rw": "Indege ya FARDC yarashe Radiyo y'abaturage",
+   "summary_rw": "Ibitero by’indege z’ingabo za Leta ya Repubulika ya Demokarasi ya Congo ndetse n’abo bafatanyije bikomeje kwibasira uduce turimo abasivili gusa, zikabikora zirenze ku masezerano y’agahenge, aho (…)",
+   "share_id": "MN202611_d6e6a7a5nx"
   },
   {
    "id": "crawl_u3jcwa",
@@ -1719,5 +1742,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-22T13:28:14.111Z"
+ "updated": "2026-11-23T03:44:20.136Z"
 }

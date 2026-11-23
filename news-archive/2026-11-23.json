@@ -1,7 +1,50 @@
 {
  "day": "2026-11-23",
- "count": 4,
+ "count": 6,
  "articles": [
+  {
+   "id": "crawl_3ptmkb",
+   "title": "RunUp yegukanye igihembo cy'indirimbo ifite amashusho meza muri Afurika muri Galsen Urban Awards",
+   "summary": "Umuhanzi Nyarwanda Kwizera Emmanuel Prince uzwi nka Run Up, yegukanye igihembo cy’indirimbo ifite amashusho meza yo muri Afurika (Best African Music Video) mu bihembo bya Galsen Urban Awards (…)",
+   "link": "https://www.kigalitoday.com/imyidagaduro/ibirori/article/runup-yegukanye-igihembo-cy-indirimbo-ifite-amashusho-meza-muri-afurika-muri-galsen-urban-awards",
+   "url": "https://www.kigalitoday.com/imyidagaduro/ibirori/article/runup-yegukanye-igihembo-cy-indirimbo-ifite-amashusho-meza-muri-afurika-muri-galsen-urban-awards",
+   "date": "2026-11-23T03:40:24.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Ibirori",
+    "MobileBigStory",
+    "Ruzindana Janvier"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-22_at_21.47_04.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-22_at_21.47_04.jpg",
+   "title_rw": "RunUp yegukanye igihembo cy'indirimbo ifite amashusho meza muri Afurika muri Galsen Urban Awards",
+   "summary_rw": "Umuhanzi Nyarwanda Kwizera Emmanuel Prince uzwi nka Run Up, yegukanye igihembo cy’indirimbo ifite amashusho meza yo muri Afurika (Best African Music Video) mu bihembo bya Galsen Urban Awards (…)",
+   "share_id": "MN202611_3ptmkb1ftl"
+  },
+  {
+   "id": "crawl_8apuwv",
+   "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+   "summary": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
+   "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T02:37:02.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg",
+   "title_en": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+   "summary_en": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
+   "share_id": "MN202611_8apuwvirdp"
+  },
   {
    "id": "crawl_ddod7",
    "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
@@ -83,5 +126,5 @@
    "share_id": "MN202611_1dt5tu0xy3q"
   }
  ],
- "updated": "2026-11-23T01:49:08.636Z"
+ "updated": "2026-11-23T03:44:20.134Z"
 }

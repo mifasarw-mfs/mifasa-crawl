@@ -1,6 +1,6 @@
 {
  "day": "2026-11-22",
- "count": 73,
+ "count": 74,
  "articles": [
   {
    "id": "crawl_c5a1ll",
@@ -81,6 +81,26 @@
    "title_en": "Football Daily",
    "summary_en": "Dale Johnson & Umir Irfan join Rick & Lloyd after Man Utd’s 4-0 defeat at Liverpool.",
    "share_id": "MN202611_6ihdgxahzj"
+  },
+  {
+   "id": "crawl_ve7boy",
+   "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+   "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+   "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T22:49:10.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg",
+   "title_en": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+   "summary_en": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+   "share_id": "MN202611_ve7boy085s"
   },
   {
    "id": "crawl_3ij0mp",
@@ -1475,5 +1495,5 @@
    "share_id": "MN202611_1n53iebwev5"
   }
  ],
- "updated": "2026-11-23T00:09:22.735Z"
+ "updated": "2026-11-23T03:44:20.135Z"
 }
