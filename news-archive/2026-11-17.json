@@ -1,6 +1,6 @@
 {
  "day": "2026-11-17",
- "count": 127,
+ "count": 128,
  "articles": [
   {
    "id": "crawl_53jdjd",
@@ -1527,6 +1527,26 @@
    "share_id": "MN202611_1nku6b7m3pt"
   },
   {
+   "id": "crawl_1nmfd05",
+   "title": "Cass report author tells BBC draft conversion practices bill is not workable",
+   "summary": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
+   "link": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T10:36:21.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64f6/live/4c3df530-e261-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64f6/live/4c3df530-e261-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Cass report author tells BBC draft conversion practices bill is not workable",
+   "summary_en": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
+   "share_id": "MN202611_1nmfd0589gz"
+  },
+  {
    "id": "crawl_zv4292",
    "title": "Has Infantino already won Fifa election as challengers are revealed?",
    "summary": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?",
@@ -2557,5 +2577,5 @@
    "share_id": "MN202611_u3mszmfpgg"
   }
  ],
- "updated": "2026-11-22T23:54:09.625Z"
+ "updated": "2026-11-23T10:55:54.325Z"
 }

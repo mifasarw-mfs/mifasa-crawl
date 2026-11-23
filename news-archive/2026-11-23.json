@@ -1,7 +1,47 @@
 {
  "day": "2026-11-23",
- "count": 35,
+ "count": 37,
  "articles": [
+  {
+   "id": "crawl_1ce07n2",
+   "title": "Atletico's Simeone breaks La Liga victories record",
+   "summary": "Diego Simeone records his 345th La Liga victory as Atletico Madrid manager to set a new mark.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5pv9kkwn3y3o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c5pv9kkwn3y3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T10:48:45.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fa0/live/1a7ae070-e726-11f1-914b-6d226d813a52.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fa0/live/1a7ae070-e726-11f1-914b-6d226d813a52.jpg",
+   "title_en": "Atletico's Simeone breaks La Liga victories record",
+   "summary_en": "Diego Simeone records his 345th La Liga victory as Atletico Madrid manager to set a new mark.",
+   "share_id": "MN202611_1ce07n2s51o"
+  },
+  {
+   "id": "crawl_fvdm5t",
+   "title": "Capita shares plunge and boss steps down as civil service pensions saga drags on",
+   "summary": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
+   "link": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T10:46:56.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d59/live/4828e850-e726-11f1-914b-6d226d813a52.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d59/live/4828e850-e726-11f1-914b-6d226d813a52.jpg",
+   "title_en": "Capita shares plunge and boss steps down as civil service pensions saga drags on",
+   "summary_en": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
+   "share_id": "MN202611_fvdm5t6imn"
+  },
   {
    "id": "crawl_ah1e39",
    "title": "Volleyball: Amakipe ya Police akomeje kuyobora urutonde rwa shampiyona",
@@ -716,5 +756,5 @@
    "share_id": "MN202611_1dt5tu0xy3q"
   }
  ],
- "updated": "2026-11-23T10:49:11.797Z"
+ "updated": "2026-11-23T10:55:54.321Z"
 }
