@@ -6738,6 +6738,126 @@
    ],
    "auto": true,
    "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_97a196a5_q",
+   "label_rw": "Ubwubatsi bwa Kinyarwanda bwo hambere",
+   "label_en": "Traditional Rwandan architectural styles",
+   "patterns_en": [
+    "What were traditional Nyakatsi houses made of?",
+    "What materials were used in traditional Rwandan architecture?",
+    "How were traditional Rwandan homes constructed?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyari kigize inzu za Nyakatsi?",
+    "Ni iziheibikoresho byakoreshwaga mu bwubatsi bwo hambere?",
+    "Ubwubatsi bwa kinyarwanda bwari bumeze gute?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubwubatsi bwo hambere mu Rwanda bwari bushingiye ku nzu z'ibyatsi zizwi nka Nyakatsi. Izi nzu zubatse mu biti, inkoni n'ibyatsi by'igisenge. Abantu bakoreshaga ibikoresho kamere biboneka mu bidukikije ngo bubake aho gutura hatekanye kandi hashyushye.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Traditional Rwandan architecture was primarily based on grass-thatched huts known as Nyakatsi. These structures were built using wooden poles, branches, and thick thatch for roofing. People utilized natural materials available in the environment to build secure and warm living spaces.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-23"
+  },
+  {
+   "id": "ai16_ee420daa_q",
+   "label_rw": "Ubworozi bw'Inzuki mu Rwanda",
+   "label_en": "Traditional Beekeeping in Rwanda",
+   "patterns_en": [
+    "What were traditional beehives made from?",
+    "Where were traditional beehives usually placed?",
+    "How was honey used in early Rwandan culture?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyakoreshwaga mu kuboha imizinga ya kera?",
+    "Imizinga ya kera yashyirwaga he?",
+    "Ubuki bwakoreshwaga mu ki mu Rwanda rwo hambere?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubworozi bw'inzuki bwari ingenzi mu muco nyarwanda. Aborozi bakoreshaga imizinga babohaga mu migano n'ibyatsi. Iyi mizinga bayimanikaga ku biti kugira ngo inzuki zibeho kandi zitange ubuki. Ubuki bwakoreshwaga mu birori no mu buvuzi gakondo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Beekeeping was historically important in Rwandan culture. Beekeepers traditionally made hives out of bamboo and grass. These hives were usually hung in trees to shelter bees and produce honey. Honey was used in ceremonies and traditional medicine.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-23"
+  },
+  {
+   "id": "ai16_b01ba7da_q",
+   "label_rw": "Uko bubakaga ubwato bwo mu Kivu kera",
+   "label_en": "Traditional Rwandan boat building on Lake Kivu",
+   "patterns_en": [
+    "What materials were used to build traditional boats on Lake Kivu?",
+    "What were traditional boats used for on Lake Kivu?",
+    "How did craftsmen shape wood for boats?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyakoreshwaga mu kubaka ubwato kera ku Kivu?",
+    "Ubwato bwa kera bwakorerwagamo iki ku Kivu?",
+    "Abanyarwanda bafataga ibiti bimeze bite ku bwato?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kera, Abanyarwanda bo ku Kivu bubakaga ubwato bifashishije ibiti binini. Babanzaga gushakisha igiti gikomeye, bakagitema, hanyuma bakagihonyora no kukibaza no kugicukura imbere kugira ngo kibe ubwato bworoshye bwajya mu mazi. Ubwato bwakoreshwaga mu burobyi no mu bucuruzi ku Kivu.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Historically, people near Lake Kivu built traditional boats by hollowing out large tree trunks. Craftsmen selected sturdy wood and carved it into canoes that floated well. These wooden boats were commonly used for fishing and transportation on Lake Kivu.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-23"
+  },
+  {
+   "id": "ai16_03d8d439_q",
+   "label_rw": "Ubumenyi bw'ikirere bwo hambere mu Rwanda",
+   "label_en": "Traditional weather forecasting in Rwanda",
+   "patterns_en": [
+    "How did ancestors know that rain was coming?",
+    "Which animals were used to predict seasons?",
+    "How did traditional knowledge help farmers?"
+   ],
+   "patterns_rw": [
+    "Ni gute abakurambere bamenyaga ko imvura igiye kugwa?",
+    "Ni izihe nyamaswa zakoreshwaga mu kumenya ibihe?",
+    "Ubumenyi bwo hambere bwafashaga iki abahinzi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Abakurambere b'Abanyarwanda bamenyaga ibihe by'imvura n'izuba bifashishije ibidukikije. Barebaga imyitwarire y'inyamaswa n'ibiguruka, uburabyo bw'ibiti runaka, ndetse n'imiterere y'ukwezi n'inyenyeri. Ibi byabafashaga gutegura ibikorwa by'ubuhinzi n'ubworozi mu gihe cyiza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Ancestral Rwandans forecasted rain and dry seasons by observing the environment. They watched the behavior of animals and birds, the flowering of specific trees, and the patterns of the moon and stars. This helped them plan agricultural and pastoral activities at the right time.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-23"
+  },
+  {
+   "id": "ai16_a24946dd_q",
+   "label_rw": "Ubuhanzi bwo kuboha mu Rwanda",
+   "label_en": "Traditional fiber arts in Rwanda",
+   "patterns_en": [
+    "What materials were used for traditional rope making?",
+    "What items were made using traditional weaving skills?",
+    "What was the importance of traditional fiber arts?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyakoreshwaga mu kuboha imigozi ya kera?",
+    "Ni ibiki byakorwaga mu bumenyi bwo kuboha mu Rwanda?",
+    "Ubuhanzi bwo kuboha bwari bufite akahe kamaro?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Abanyarwanda bo hambere bakoreshaga ibiti n'ibyatsi bitandukanye kugira ngo babobe imigozi, amaseke n'ibindi bikoresho by'ingenzi mu buzima bwo mu rugo. Ibyo bikoresho byari bifite akamaro kanini mu bworozi, ubuhinzi no mu mibereho isanzwe.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Historically, Rwandans used various plants and grasses to weave ropes, baskets, and other essential household items. These crafts played an important role in livestock farming, agriculture, and daily life.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-23"
   }
  ],
  "knowledge": [
@@ -12290,6 +12410,106 @@
    ],
    "auto": true,
    "taught": "2026-11-22"
+  },
+  {
+   "id": "ai16_97a196a5",
+   "category": "rwanda",
+   "title_rw": "Ubwubatsi bwa Kinyarwanda bwo hambere",
+   "title_en": "Traditional Rwandan architectural styles",
+   "summary_rw": "Ubwubatsi bwo hambere mu Rwanda bwari bushingiye ku nzu z'ibyatsi zizwi nka Nyakatsi. Izi nzu zubatse mu biti, inkoni n'ibyatsi by'igisenge. Abantu bakoreshaga ibikoresho kamere biboneka mu bidukikije ngo bubake aho gutura hatekanye kandi hashyushye.",
+   "summary_en": "Traditional Rwandan architecture was primarily based on grass-thatched huts known as Nyakatsi. These structures were built using wooden poles, branches, and thick thatch for roofing. People utilized natural materials available in the environment to build secure and warm living spaces.",
+   "keywords": [
+    "ubwubatsi",
+    "architecture",
+    "nyakatsi",
+    "kimeza",
+    "urugo",
+    "traditional",
+    "rwanda",
+    "ibyatsi"
+   ],
+   "auto": true,
+   "taught": "2026-11-23"
+  },
+  {
+   "id": "ai16_ee420daa",
+   "category": "rwanda",
+   "title_rw": "Ubworozi bw'Inzuki mu Rwanda",
+   "title_en": "Traditional Beekeeping in Rwanda",
+   "summary_rw": "Ubworozi bw'inzuki bwari ingenzi mu muco nyarwanda. Aborozi bakoreshaga imizinga babohaga mu migano n'ibyatsi. Iyi mizinga bayimanikaga ku biti kugira ngo inzuki zibeho kandi zitange ubuki. Ubuki bwakoreshwaga mu birori no mu buvuzi gakondo.",
+   "summary_en": "Beekeeping was historically important in Rwandan culture. Beekeepers traditionally made hives out of bamboo and grass. These hives were usually hung in trees to shelter bees and produce honey. Honey was used in ceremonies and traditional medicine.",
+   "keywords": [
+    "inzuki",
+    "bees",
+    "ubuki",
+    "honey",
+    "imizinga",
+    "hives",
+    "umuco",
+    "culture"
+   ],
+   "auto": true,
+   "taught": "2026-11-23"
+  },
+  {
+   "id": "ai16_b01ba7da",
+   "category": "rwanda",
+   "title_rw": "Uko bubakaga ubwato bwo mu Kivu kera",
+   "title_en": "Traditional Rwandan boat building on Lake Kivu",
+   "summary_rw": "Kera, Abanyarwanda bo ku Kivu bubakaga ubwato bifashishije ibiti binini. Babanzaga gushakisha igiti gikomeye, bakagitema, hanyuma bakagihonyora no kukibaza no kugicukura imbere kugira ngo kibe ubwato bworoshye bwajya mu mazi. Ubwato bwakoreshwaga mu burobyi no mu bucuruzi ku Kivu.",
+   "summary_en": "Historically, people near Lake Kivu built traditional boats by hollowing out large tree trunks. Craftsmen selected sturdy wood and carved it into canoes that floated well. These wooden boats were commonly used for fishing and transportation on Lake Kivu.",
+   "keywords": [
+    "ubwato",
+    "ikivu",
+    "kera",
+    "uburobyi",
+    "boat",
+    "lake kivu",
+    "tradition",
+    "fishing"
+   ],
+   "auto": true,
+   "taught": "2026-11-23"
+  },
+  {
+   "id": "ai16_03d8d439",
+   "category": "rwanda",
+   "title_rw": "Ubumenyi bw'ikirere bwo hambere mu Rwanda",
+   "title_en": "Traditional weather forecasting in Rwanda",
+   "summary_rw": "Abakurambere b'Abanyarwanda bamenyaga ibihe by'imvura n'izuba bifashishije ibidukikije. Barebaga imyitwarire y'inyamaswa n'ibiguruka, uburabyo bw'ibiti runaka, ndetse n'imiterere y'ukwezi n'inyenyeri. Ibi byabafashaga gutegura ibikorwa by'ubuhinzi n'ubworozi mu gihe cyiza.",
+   "summary_en": "Ancestral Rwandans forecasted rain and dry seasons by observing the environment. They watched the behavior of animals and birds, the flowering of specific trees, and the patterns of the moon and stars. This helped them plan agricultural and pastoral activities at the right time.",
+   "keywords": [
+    "ikirere",
+    "weather",
+    "ubuhinzi",
+    "agriculture",
+    "abakurambere",
+    "ancestors",
+    "amateka",
+    "history"
+   ],
+   "auto": true,
+   "taught": "2026-11-23"
+  },
+  {
+   "id": "ai16_a24946dd",
+   "category": "rwanda",
+   "title_rw": "Ubuhanzi bwo kuboha mu Rwanda",
+   "title_en": "Traditional fiber arts in Rwanda",
+   "summary_rw": "Abanyarwanda bo hambere bakoreshaga ibiti n'ibyatsi bitandukanye kugira ngo babobe imigozi, amaseke n'ibindi bikoresho by'ingenzi mu buzima bwo mu rugo. Ibyo bikoresho byari bifite akamaro kanini mu bworozi, ubuhinzi no mu mibereho isanzwe.",
+   "summary_en": "Historically, Rwandans used various plants and grasses to weave ropes, baskets, and other essential household items. These crafts played an important role in livestock farming, agriculture, and daily life.",
+   "keywords": [
+    "ububoshye",
+    "imigozi",
+    "amaseke",
+    "umuco",
+    "weaving",
+    "ropes",
+    "baskets",
+    "culture"
+   ],
+   "auto": true,
+   "taught": "2026-11-23"
   }
  ]
 }
