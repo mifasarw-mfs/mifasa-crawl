@@ -1,7 +1,87 @@
 {
  "day": "2026-11-23",
- "count": 65,
+ "count": 70,
  "articles": [
+  {
+   "id": "crawl_5u1f7v",
+   "title": "The rise and fall and rise again of Jensen Huang",
+   "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
+   "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T15:49:52.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg",
+   "title_en": "The rise and fall and rise again of Jensen Huang",
+   "summary_en": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
+   "share_id": "MN202611_5u1f7vubop"
+  },
+  {
+   "id": "crawl_1wbcso",
+   "title": "Village's concern over sewage discharge in dry river",
+   "summary": "Campaigners call for restrictions on sewage treatment plant discharging effluent during drought",
+   "link": "https://www.bbc.co.uk/news/articles/c60rkq78g05vo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c60rkq78g05vo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T15:48:07.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50a0/live/5ddd9cc0-e38b-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50a0/live/5ddd9cc0-e38b-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "Village's concern over sewage discharge in dry river",
+   "summary_en": "Campaigners call for restrictions on sewage treatment plant discharging effluent during drought",
+   "share_id": "MN202611_1wbcso8b8m"
+  },
+  {
+   "id": "crawl_uaas5",
+   "title": "Nvidia shares up 30% and tech stocks rally after Jensen Huang returns",
+   "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5% in early trading.",
+   "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T15:39:41.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80fb/live/5a6a1700-e753-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80fb/live/5a6a1700-e753-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "Nvidia shares up 30% and tech stocks rally after Jensen Huang returns",
+   "summary_en": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5% in early trading.",
+   "share_id": "MN202611_uaas57983"
+  },
+  {
+   "id": "crawl_18xwzpn",
+   "title": "I've wanted to crawl under a rock and hide - Pressley",
+   "summary": "Steven Pressley says he felt embarrassed by Dundee's 8-0 \"humiliation\" by Hearts and that there is a \"fragility\" in his squad.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cre3d9j5k4n8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cre3d9j5k4n8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T15:31:57.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7c0/live/2d2107f0-e752-11f1-88dc-f746e0cde621.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7c0/live/2d2107f0-e752-11f1-88dc-f746e0cde621.jpg",
+   "title_en": "I've wanted to crawl under a rock and hide - Pressley",
+   "summary_en": "Steven Pressley says he felt embarrassed by Dundee's 8-0 \"humiliation\" by Hearts and that there is a \"fragility\" in his squad.",
+   "share_id": "MN202611_18xwzpnox49"
+  },
   {
    "id": "crawl_1ctvv32",
    "title": "Uko Ngabo Christian yabyaje umusaruro ikibazo yagize mu guhahira kuri internet",
@@ -24,6 +104,26 @@
    "title_rw": "Uko Ngabo Christian yabyaje umusaruro ikibazo yagize mu guhahira kuri internet",
    "summary_rw": "Ikibazo cyo kubona igicuruzwa kuri internet wagitumiza ugasanga kitakiri mu iduka wari ukibonyemo ni cyo cyatumye Ngabo Christian atekereza kubaka urubuga Isokko ruhuza abaguzi n’amaduka (…)",
    "share_id": "MN202611_1ctvv32go3g"
+  },
+  {
+   "id": "crawl_146fm6j",
+   "title": "IFA 'positive' over upgrades needed for World Cup",
+   "summary": "The Irish Football Association's director of women's football Angela Platt says they are \"still working through\" plans with the Northern Ireland government to ensure there is funding available to make the necessary upgrades to Windsor Park in time for the 2035 World Cup.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crgqx3472depo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/crgqx3472depo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T15:26:23.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dea9/live/8424c170-e74f-11f1-86cc-39a390efba72.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dea9/live/8424c170-e74f-11f1-86cc-39a390efba72.jpg",
+   "title_en": "IFA 'positive' over upgrades needed for World Cup",
+   "summary_en": "The Irish Football Association's director of women's football Angela Platt says they are \"still working through\" plans with the Northern Ireland government to ensure there is funding available to make the necessary upgrades to Windsor Park in time for the 2035 World Cup.",
+   "share_id": "MN202611_146fm6j7jl5"
   },
   {
    "id": "crawl_96w7z5",
@@ -1342,5 +1442,5 @@
    "share_id": "MN202611_1dt5tu0xy3q"
   }
  ],
- "updated": "2026-11-23T15:33:54.242Z"
+ "updated": "2026-11-23T15:56:25.263Z"
 }
