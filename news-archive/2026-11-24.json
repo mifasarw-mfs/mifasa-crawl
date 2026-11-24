@@ -1,7 +1,47 @@
 {
  "day": "2026-11-24",
- "count": 49,
+ "count": 52,
  "articles": [
+  {
+   "id": "crawl_1u2jekw",
+   "title": "Russian governor detained in rare criminal case against regional leader",
+   "summary": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
+   "link": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T12:45:43.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db31/live/1b41ee00-e7f7-11f1-ab60-79086b6495b8.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db31/live/1b41ee00-e7f7-11f1-ab60-79086b6495b8.jpg",
+   "title_en": "Russian governor detained in rare criminal case against regional leader",
+   "summary_en": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
+   "share_id": "MN202611_1u2jekwcb1q"
+  },
+  {
+   "id": "crawl_17afvx",
+   "title": "Bros announce first tour in a decade",
+   "summary": "The twins, from Camberley, will perform in 10-date tour in 2027 including at Wembley Arena.",
+   "link": "https://www.bbc.co.uk/news/articles/cklylrldzqm4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cklylrldzqm4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T12:31:16.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/736c/live/55e05d00-e7ff-11f1-ab60-79086b6495b8.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/736c/live/55e05d00-e7ff-11f1-ab60-79086b6495b8.jpg",
+   "title_en": "Bros announce first tour in a decade",
+   "summary_en": "The twins, from Camberley, will perform in 10-date tour in 2027 including at Wembley Arena.",
+   "share_id": "MN202611_17afvx7ebv"
+  },
   {
    "id": "crawl_yd2iax",
    "title": "Non-league player injured falling down badger hole",
@@ -41,6 +81,26 @@
    "title_en": "Palace docked points for using four sub windows in win",
    "summary_en": "Crystal Palace say they are \"disappointed\" by the ruling which they \"do not agree is reasonable or proportionate\".",
    "share_id": "MN202611_18bjhumbf98"
+  },
+  {
+   "id": "crawl_13sn14k",
+   "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+   "summary": "Naeem Abu Nahel, who had only been in the position for two months, was targeted in western Gaza City, Gaza's interior ministry says.",
+   "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T12:12:48.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "Israeli air strike kills Hamas internal security chief in Gaza",
+   "summary_en": "Naeem Abu Nahel, who had only been in the position for two months, was targeted in western Gaza City, Gaza's interior ministry says.",
+   "share_id": "MN202611_13sn14kfxle"
   },
   {
    "id": "crawl_11eyceh",
@@ -1000,5 +1060,5 @@
    "share_id": "MN202611_12o0ve6trv0"
   }
  ],
- "updated": "2026-11-24T12:46:14.374Z"
+ "updated": "2026-11-24T12:57:49.045Z"
 }
