@@ -7026,6 +7026,30 @@
    ],
    "auto": true,
    "taught": "2026-11-23"
+  },
+  {
+   "id": "ai16_28773bfe_q",
+   "label_rw": "Ubumenyi bw'ibanze ku mukino wo kugenda mu bwato bwa Kayak n",
+   "label_en": "Basics of canoeing and kayaking",
+   "patterns_en": [
+    "What is the difference between a kayak and a canoe?",
+    "What kind of paddle does a kayak use?",
+    "Where is canoeing practiced?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitandukanya kayak na canoe?",
+    "Ubwato bwa kayak bukoresha umusago umeze ute?",
+    "Umukino wo kugenda mu bwato ukorerwa he?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Umukino wo kugenda mu bwato bwa Kayak na Canoe ukoresha ubwato buto hamwe n'imisago yo kwitera amazi. Muri Kayak, umuntu akoresha umusago ufite imitwe ibiri, naho muri Canoe agakoresha umusago w'umutwe umwe. Uyu mukino ukorerwa mu mazi hirya no hino ku isi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Canoeing and kayaking are water sports that involve using small boats and paddles to move across water. In kayaking, a double-bladed paddle is typically used, while canoeing usually involves a single-bladed paddle. These activities are practiced recreationally and competitively worldwide.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-24"
   }
  ],
  "knowledge": [
@@ -12817,6 +12841,26 @@
    ],
    "auto": true,
    "taught": "2026-11-23"
+  },
+  {
+   "id": "ai16_28773bfe",
+   "category": "sports",
+   "title_rw": "Ubumenyi bw'ibanze ku mukino wo kugenda mu bwato bwa Kayak na Canoe",
+   "title_en": "Basics of canoeing and kayaking",
+   "summary_rw": "Umukino wo kugenda mu bwato bwa Kayak na Canoe ukoresha ubwato buto hamwe n'imisago yo kwitera amazi. Muri Kayak, umuntu akoresha umusago ufite imitwe ibiri, naho muri Canoe agakoresha umusago w'umutwe umwe. Uyu mukino ukorerwa mu mazi hirya no hino ku isi.",
+   "summary_en": "Canoeing and kayaking are water sports that involve using small boats and paddles to move across water. In kayaking, a double-bladed paddle is typically used, while canoeing usually involves a single-bladed paddle. These activities are practiced recreationally and competitively worldwide.",
+   "keywords": [
+    "kayak",
+    "canoe",
+    "ubwato",
+    "umusago",
+    "amazi",
+    "sports",
+    "imyidagaduro",
+    "paddles"
+   ],
+   "auto": true,
+   "taught": "2026-11-24"
   }
  ]
 }
