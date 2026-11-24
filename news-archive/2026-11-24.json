@@ -1,7 +1,47 @@
 {
  "day": "2026-11-24",
- "count": 97,
+ "count": 99,
  "articles": [
+  {
+   "id": "crawl_gmkpzz",
+   "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
+   "summary": "More young people in Britain have never had sex, but many are sexting and watching porn.",
+   "link": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T23:38:39.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc18/live/8aec72e0-deb3-11f1-8fb5-a771a656a227.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc18/live/8aec72e0-deb3-11f1-8fb5-a771a656a227.jpg",
+   "title_en": "Third of young Brits have never had sex, but many are sexting and watching porn",
+   "summary_en": "More young people in Britain have never had sex, but many are sexting and watching porn.",
+   "share_id": "MN202611_gmkpzzdmgt"
+  },
+  {
+   "id": "crawl_9t0olt",
+   "title": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
+   "summary": "Manchester City's slick footballing machine is starting to grind to a halt, as displayed in their laborious Champions League draw against Napoli.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T23:17:42.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc72/live/fbc81740-e853-11f1-aa88-031e8213533d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc72/live/fbc81740-e853-11f1-aa88-031e8213533d.jpg",
+   "title_en": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
+   "summary_en": "Manchester City's slick footballing machine is starting to grind to a halt, as displayed in their laborious Champions League draw against Napoli.",
+   "share_id": "MN202611_9t0oltwnzj"
+  },
   {
    "id": "crawl_5uilp",
    "title": "A question of trust in the NHS could be Swinney's most dangerous political moment",
@@ -1973,5 +2013,5 @@
    "share_id": "MN202611_12o0ve6trv0"
   }
  ],
- "updated": "2026-11-24T23:16:07.201Z"
+ "updated": "2026-11-24T23:41:22.526Z"
 }
