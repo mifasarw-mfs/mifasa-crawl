@@ -1,7 +1,27 @@
 {
  "day": "2026-11-24",
- "count": 3,
+ "count": 4,
  "articles": [
+  {
+   "id": "crawl_rdrjrh",
+   "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+   "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+   "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T01:21:41.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f3b/live/388100e0-e7a3-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f3b/live/388100e0-e7a3-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "How Nvidia is reacting to Jensen Huang's return as CEO",
+   "summary_en": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+   "share_id": "MN202611_rdrjrho6uj"
+  },
   {
    "id": "crawl_hk54sz",
    "title": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
@@ -63,5 +83,5 @@
    "share_id": "MN202611_12o0ve6trv0"
   }
  ],
- "updated": "2026-11-24T00:35:19.150Z"
+ "updated": "2026-11-24T03:20:51.567Z"
 }

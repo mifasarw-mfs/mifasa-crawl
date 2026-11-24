@@ -1,17 +1,63 @@
 [
  {
+  "id": "crawl_ayzxia",
+  "title": "Murimo kurya neza",
+  "summary": "Murimo kurya neza",
+  "link": "https://www.youtube.com/shorts/xC9keDAhmQU",
+  "url": "https://www.youtube.com/shorts/xC9keDAhmQU",
+  "date": "2026-11-24T03:05:13.000Z",
+  "source": "Buri Kantu Na Buri Nguni YouTube",
+  "category": "entertainment",
+  "lang": "rw",
+  "keywords": [
+   "Buri Kantu Na Buri Nguni YouTube",
+   "entertainment",
+   "video"
+  ],
+  "video": {
+   "provider": "youtube",
+   "id": "xC9keDAhmQU"
+  },
+  "type": "video",
+  "image": "https://i1.ytimg.com/vi/xC9keDAhmQU/hqdefault.jpg",
+  "thumbnail": "https://i1.ytimg.com/vi/xC9keDAhmQU/hqdefault.jpg",
+  "title_rw": "Murimo kurya neza",
+  "summary_rw": "Murimo kurya neza",
+  "share_id": "MN202611_ayzxiafuo0"
+ },
+ {
+  "id": "crawl_rdrjrh",
+  "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+  "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+  "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-24T01:21:41.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f3b/live/388100e0-e7a3-11f1-99a1-253766e7ad8b.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f3b/live/388100e0-e7a3-11f1-99a1-253766e7ad8b.jpg",
+  "title_en": "How Nvidia is reacting to Jensen Huang's return as CEO",
+  "summary_en": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+  "share_id": "MN202611_rdrjrho6uj"
+ },
+ {
   "id": "crawl_hk54sz",
   "title": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
   "summary": "South African communities tell the BBC of measures they're taking to keep women safe after a wave of horrific killings.",
   "link": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-24T00:02:15.000Z",
-  "source": "BBC Africa",
-  "category": "news",
+  "source": "BBC World",
+  "category": "world",
   "lang": "en",
   "keywords": [
-   "BBC Africa",
-   "news"
+   "BBC World",
+   "world"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2542/live/90680630-e737-11f1-99a1-253766e7ad8b.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2542/live/90680630-e737-11f1-99a1-253766e7ad8b.jpg",
@@ -86,12 +132,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-23T23:10:27.000Z",
-  "source": "BBC Business",
-  "category": "business",
+  "source": "BBC World",
+  "category": "world",
   "lang": "en",
   "keywords": [
-   "BBC Business",
-   "business"
+   "BBC World",
+   "world"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
@@ -138,6 +184,26 @@
   "title_en": "Andrews praises 'versatile' Lewis-Potter",
   "summary_en": "Brentford manager Keith Andrews praises the performance of Keane Lewis-Potter, who scored twice in his side's 4-0 win against Everton.",
   "share_id": "MN202611_5dyktubwb4"
+ },
+ {
+  "id": "crawl_p9ri1o",
+  "title": "Outrage after ICE arrest father and daughter at Seattle airport",
+  "summary": "ICE officers arrested two passengers, a father and daughter, as they were boarding a flight in Seattle on Saturday.",
+  "link": "https://www.bbc.co.uk/news/videos/crd910g5x882o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/videos/crd910g5x882o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-23T22:59:07.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1167/live/142d5c60-e790-11f1-99a1-253766e7ad8b.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1167/live/142d5c60-e790-11f1-99a1-253766e7ad8b.jpg",
+  "title_en": "Outrage after ICE arrest father and daughter at Seattle airport",
+  "summary_en": "ICE officers arrested two passengers, a father and daughter, as they were boarding a flight in Seattle on Saturday.",
+  "share_id": "MN202611_p9ri1oo54q"
  },
  {
   "id": "crawl_eqgjxa",
@@ -300,6 +366,26 @@
   "share_id": "MN202611_sxrfl2jczo"
  },
  {
+  "id": "crawl_1la41th",
+  "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+  "summary": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
+  "link": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-23T21:24:47.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1cd/live/0fff68f0-e776-11f1-a8a9-d7c9e8a923b4.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1cd/live/0fff68f0-e776-11f1-a8a9-d7c9e8a923b4.jpg",
+  "title_en": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+  "summary_en": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
+  "share_id": "MN202611_1la41thwyab"
+ },
+ {
   "id": "crawl_1iburid",
   "title": "De Bruyne's feelings for Man City will 'never change'",
   "summary": "Kevin de Bruyne says he has \"love\" for Manchester City's owners and his feelings for the club will \"never change\" despite being found guilty of breaching the Premier League's financial rules.",
@@ -318,6 +404,26 @@
   "title_en": "De Bruyne's feelings for Man City will 'never change'",
   "summary_en": "Kevin de Bruyne says he has \"love\" for Manchester City's owners and his feelings for the club will \"never change\" despite being found guilty of breaching the Premier League's financial rules.",
   "share_id": "MN202611_1iburidmowz"
+ },
+ {
+  "id": "crawl_8yspdh",
+  "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+  "summary": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide.",
+  "link": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-23T21:03:34.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46f8/live/11f74480-e77a-11f1-978f-df545a5c5c20.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46f8/live/11f74480-e77a-11f1-978f-df545a5c5c20.jpg",
+  "title_en": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+  "summary_en": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide.",
+  "share_id": "MN202611_8yspdhllub"
  },
  {
   "id": "crawl_hoyp1d",
@@ -410,6 +516,26 @@
   "title_rw": "Urubyiruko, akazi n'ingufu: Ibyo Perezida Kagame yaganiriye n'umuyobozi wa UNDP",
   "summary_rw": "Perezida wa Repubulika, Paul Kagame, yakiriye Umuyobozi uhagarariye Ishami ry’Umuryango w’Abibumbye ryita ku Iterambere (UNDP) mu Rwanda, Fatmata Lovetta Sesay, uri gusoza inshingano, baganira ku (…)",
   "share_id": "MN202611_15vhisvou6l"
+ },
+ {
+  "id": "crawl_qzqkbi",
+  "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
+  "summary": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
+  "link": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-23T18:49:19.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cda1/live/ad61f0f0-e76b-11f1-a094-5fdc692f3e33.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cda1/live/ad61f0f0-e76b-11f1-a094-5fdc692f3e33.jpg",
+  "title_en": "First Lady Melania Trump welcomes this year's White House Christmas tree",
+  "summary_en": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
+  "share_id": "MN202611_qzqkbin7ek"
  },
  {
   "id": "crawl_16yh95b",
@@ -770,12 +896,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-23T15:49:52.000Z",
-  "source": "BBC Business",
-  "category": "business",
+  "source": "BBC World",
+  "category": "world",
   "lang": "en",
   "keywords": [
-   "BBC Business",
-   "business"
+   "BBC World",
+   "world"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg",
@@ -1516,12 +1642,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cq7820xjm49po?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cq7820xjm49po?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-23T11:38:55.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Africa",
+  "category": "news",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Africa",
+   "news"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f67/live/f7d15990-e6fe-11f1-b302-63c5d030cf64.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f67/live/f7d15990-e6fe-11f1-b302-63c5d030cf64.jpg",
@@ -1536,12 +1662,12 @@
   "link": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-23T11:34:10.000Z",
-  "source": "BBC Africa",
-  "category": "news",
+  "source": "BBC World",
+  "category": "world",
   "lang": "en",
   "keywords": [
-   "BBC Africa",
-   "news"
+   "BBC World",
+   "world"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc6/live/7a950f50-e738-11f1-99b6-a35a62fa4264.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc6/live/7a950f50-e738-11f1-99b6-a35a62fa4264.jpg",
@@ -1617,12 +1743,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-23T11:15:16.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Africa",
+  "category": "news",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Africa",
+   "news"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg",
@@ -2034,12 +2160,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-23T08:53:01.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Africa",
+  "category": "news",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Africa",
+   "news"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae1f/live/ec9cfdb0-e71f-11f1-914b-6d226d813a52.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae1f/live/ec9cfdb0-e71f-11f1-914b-6d226d813a52.jpg",
@@ -2241,12 +2367,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-23T06:33:50.000Z",
-  "source": "BBC Science",
-  "category": "science",
+  "source": "BBC World",
+  "category": "world",
   "lang": "en",
   "keywords": [
-   "BBC Science",
-   "science"
+   "BBC World",
+   "world"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55f7/live/e38ff1a0-e71f-11f1-99b6-a35a62fa4264.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55f7/live/e38ff1a0-e71f-11f1-99b6-a35a62fa4264.jpg",
@@ -2598,12 +2724,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-23T00:08:00.000Z",
-  "source": "BBC Business",
-  "category": "business",
+  "source": "BBC World",
+  "category": "world",
   "lang": "en",
   "keywords": [
-   "BBC Business",
-   "business"
+   "BBC World",
+   "world"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06d6/live/b3d40440-e712-11f1-a094-5fdc692f3e33.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06d6/live/b3d40440-e712-11f1-a094-5fdc692f3e33.jpg",
@@ -3511,12 +3637,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-22T15:50:13.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Africa",
+  "category": "news",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Africa",
+   "news"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f684/live/02351f90-e74d-11f1-99b6-a35a62fa4264.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f684/live/02351f90-e74d-11f1-99b6-a35a62fa4264.jpg",
@@ -16954,125 +17080,5 @@
   "title_rw": "Mushiki w'aba Chou, icecekere! Urabizi ko tugukunda",
   "summary_rw": "Amakuru amaze iminsi i Kambodia ahashojwe imirimo y’inama ya Francophonie, aratwibutsa cyane inkuru ikomeye y’uburyo Umunyarwandakazi Louise Mushikiwabo yageze ku buyobozi bw’umuryango w’ibihugu (…)",
   "share_id": "MN202611_7uvwuv0s1h"
- },
- {
-  "id": "crawl_180yyyx",
-  "title": "Romario demands Ancelotti sacking as war of words continues",
-  "summary": "Romario - Brazil's fourth-highest scorer behind Neymar, Pele and Ronaldo - publicly demands legendary manager Carlo Ancelotti be relieved of his duties.",
-  "link": "https://www.bbc.co.uk/sport/football/articles/c63rgq02pz9qo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c63rgq02pz9qo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-17T13:10:58.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f0/live/5325dfe0-e278-11f1-99a1-253766e7ad8b.png",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f0/live/5325dfe0-e278-11f1-99a1-253766e7ad8b.png",
-  "title_en": "Romario demands Ancelotti sacking as war of words continues",
-  "summary_en": "Romario - Brazil's fourth-highest scorer behind Neymar, Pele and Ronaldo - publicly demands legendary manager Carlo Ancelotti be relieved of his duties.",
-  "share_id": "MN202611_180yyyxqwdj"
- },
- {
-  "id": "crawl_f68ajh",
-  "title": "Rwanda, Uganda Police Chiefs Sign Framework to Strengthen Security Cooperation",
-  "summary": "The police chiefs of Rwanda and Uganda have signed an implementation framework aimed at strengthening cooperation between the two countries’ law enforcement institutions. The agreement was signed on Tuesday, November… The post Rwanda, Uganda Police Chiefs Sign Framework to Strengthen Security Cooperation appeared first on KT PRESS .",
-  "link": "https://www.ktpress.rw/2026/11/rwanda-uganda-police-chiefs-sign-framework-to-strengthen-security-cooperation/",
-  "url": "https://www.ktpress.rw/2026/11/rwanda-uganda-police-chiefs-sign-framework-to-strengthen-security-cooperation/",
-  "date": "2026-11-17T13:10:12.000Z",
-  "source": "KT Press",
-  "category": "news",
-  "lang": "en",
-  "keywords": [
-   "KT Press",
-   "news",
-   "Regional",
-   "latestnews"
-  ],
-  "title_en": "Rwanda, Uganda Police Chiefs Sign Framework to Strengthen Security Cooperation",
-  "summary_en": "The police chiefs of Rwanda and Uganda have signed an implementation framework aimed at strengthening cooperation between the two countries’ law enforcement institutions. The agreement was signed on Tuesday, November… The post Rwanda, Uganda Police Chiefs Sign Framework to Strengthen Security Cooperation appeared first on KT PRESS .",
-  "share_id": "MN202611_f68ajh9h6j"
- },
- {
-  "id": "crawl_xnz6je",
-  "title": "UK sanctions firms over Israeli West Bank settlements",
-  "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-  "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-17T13:10:06.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
-  "title_en": "UK sanctions firms over Israeli West Bank settlements",
-  "summary_en": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-  "share_id": "MN202611_xnz6jes308"
- },
- {
-  "id": "crawl_h0ohpk",
-  "title": "Hincapie in advanced talks over new Arsenal deal",
-  "summary": "Arsenal are in advanced talks with defender Piero Hincapie over a new contract.",
-  "link": "https://www.bbc.co.uk/sport/football/articles/c6ge39lgyzzzo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c6ge39lgyzzzo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-17T13:09:23.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f33/live/1e7eaf70-e286-11f1-b166-176de21e2352.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f33/live/1e7eaf70-e286-11f1-b166-176de21e2352.jpg",
-  "title_en": "Hincapie in advanced talks over new Arsenal deal",
-  "summary_en": "Arsenal are in advanced talks with defender Piero Hincapie over a new contract.",
-  "share_id": "MN202611_h0ohpkgf46"
- },
- {
-  "id": "crawl_gbnoes",
-  "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-  "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-  "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-17T13:02:17.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d277/live/17a72100-e286-11f1-a094-5fdc692f3e33.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d277/live/17a72100-e286-11f1-a094-5fdc692f3e33.jpg",
-  "title_en": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-  "summary_en": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-  "share_id": "MN202611_gbnoesgkvm"
- },
- {
-  "id": "crawl_1vv84zz",
-  "title": "Man convicted for racist abuse of Real Madrid's Mbappe",
-  "summary": "A man has been convicted of a hate crime after directing racist insults at Real Madrid forward Kylian Mbappe during a La Liga match at Real Oviedo in 2025.",
-  "link": "https://www.bbc.co.uk/sport/football/articles/cjn504vweneyo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cjn504vweneyo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-17T12:56:27.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/703a/live/149159b0-e27f-11f1-bd1e-f9c53347c5a6.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/703a/live/149159b0-e27f-11f1-bd1e-f9c53347c5a6.jpg",
-  "title_en": "Man convicted for racist abuse of Real Madrid's Mbappe",
-  "summary_en": "A man has been convicted of a hate crime after directing racist insults at Real Madrid forward Kylian Mbappe during a La Liga match at Real Oviedo in 2025.",
-  "share_id": "MN202611_1vv84zz02el"
  }
 ]
