@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_1qak5jd",
+  "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+  "summary": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
+  "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-24T05:33:07.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d4/live/df8de260-e7c4-11f1-998f-6307777df073.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d4/live/df8de260-e7c4-11f1-998f-6307777df073.jpg",
+  "title_en": "India's 'cockroach' party leader says he was stopped from flying to UK",
+  "summary_en": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
+  "share_id": "MN202611_1qak5jdd207"
+ },
+ {
   "id": "crawl_9kvjjt",
   "title": "OTAN yiteguriye guhangana n’akaga k'ikigendajuru ca nikleyeri coba kigiye kurungikwa mu kirere n’Uburusiya",
   "summary": "OTAN ivuga ko yiteguye guhangana n’ico cose coza kibangamira ikirere cayo inyuma y’amakuru avuga ko Uburusiya bwoba buriko butegura kurungika mu kirere ikigendajuru ca nikleyeri",
@@ -1195,12 +1215,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cxyvdmjr893zo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cxyvdmjr893zo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-23T14:55:14.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Africa",
+  "category": "news",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Africa",
+   "news"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caba/live/164c61e0-e73a-11f1-8294-033bd8ee7e95.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caba/live/164c61e0-e73a-11f1-8294-033bd8ee7e95.jpg",
@@ -17058,31 +17078,5 @@
   "title_rw": "Dj Flix yibasiye Aisha Ubwoba buratwica 😭Umva ibintu umusore yamukoreye urumirwa🤣",
   "summary_rw": "Ushatse kutuvugisha #0787413998 #MIEempire https://www.instagram.com/mie_empire.rw/ https://www.instagram.com/irenemurindahabi/",
   "share_id": "MN202611_4mawdyb178"
- },
- {
-  "id": "crawl_31t3t6",
-  "title": "November 17, 2026",
-  "summary": "November 17, 2026",
-  "link": "https://www.youtube.com/shorts/cTvNd60g-zY",
-  "url": "https://www.youtube.com/shorts/cTvNd60g-zY",
-  "date": "2026-11-17T13:27:47.000Z",
-  "source": "Diamond Platnumz YouTube",
-  "category": "entertainment",
-  "lang": "rw",
-  "keywords": [
-   "Diamond Platnumz YouTube",
-   "entertainment",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "cTvNd60g-zY"
-  },
-  "type": "video",
-  "image": "https://i4.ytimg.com/vi/cTvNd60g-zY/hqdefault.jpg",
-  "thumbnail": "https://i4.ytimg.com/vi/cTvNd60g-zY/hqdefault.jpg",
-  "title_rw": "November 17, 2026",
-  "summary_rw": "November 17, 2026",
-  "share_id": "MN202611_31t3t690yw"
  }
 ]
