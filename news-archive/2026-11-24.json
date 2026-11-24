@@ -1,7 +1,48 @@
 {
  "day": "2026-11-24",
- "count": 30,
+ "count": 32,
  "articles": [
+  {
+   "id": "crawl_1s9ralv",
+   "title": "Identity Theft Concerns Elevated As Digital Fraud Targets Most Rwandan Consumers",
+   "summary": "A larger section of Rwandan consumers are at a high risk of falling prey to digital scammers according to findings in a survey. Concerns have emerged over growing identity theft and digital fraud while Rwanda continues its rapid digital transformation. New findings from TransUnion’s H2 2026 Update to the Top Fraud Trends Report show that 62% […] The post Identity Theft Concerns Elevated As…",
+   "link": "https://taarifa.rw/2026/11/24/identity-theft-concerns-elevated-as-digital-fraud-targets-most-rwandan-consumers/",
+   "url": "https://taarifa.rw/2026/11/24/identity-theft-concerns-elevated-as-digital-fraud-targets-most-rwandan-consumers/",
+   "date": "2026-11-24T09:53:33.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "National"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261124-115150.jpg?fit=720%2C497&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261124-115150.jpg?fit=720%2C497&ssl=1",
+   "title_en": "Identity Theft Concerns Elevated As Digital Fraud Targets Most Rwandan Consumers",
+   "summary_en": "A larger section of Rwandan consumers are at a high risk of falling prey to digital scammers according to findings in a survey. Concerns have emerged over growing identity theft and digital fraud while Rwanda continues its rapid digital transformation. New findings from TransUnion’s H2 2026 Update to the Top Fraud Trends Report show that 62% […] The post Identity Theft Concerns Elevated As…",
+   "share_id": "MN202611_1s9ralvg89d"
+  },
+  {
+   "id": "crawl_1ceel9v",
+   "title": "MLS side to honour deceased hippo with tifo",
+   "summary": "Major League Soccer side FC Cincinnati will honour Fiona, a hippo that recently died at the city's zoo, with a tifo display at their match with Nashville SC on Saturday.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6n90jrvxrzpo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6n90jrvxrzpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T09:43:38.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b165/live/30869420-e7e1-11f1-82bb-6b3be4dcbf70.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b165/live/30869420-e7e1-11f1-82bb-6b3be4dcbf70.png",
+   "title_en": "MLS side to honour deceased hippo with tifo",
+   "summary_en": "Major League Soccer side FC Cincinnati will honour Fiona, a hippo that recently died at the city's zoo, with a tifo display at their match with Nashville SC on Saturday.",
+   "share_id": "MN202611_1ceel9v6ioh"
+  },
   {
    "id": "crawl_auw2om",
    "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
@@ -615,5 +656,5 @@
    "share_id": "MN202611_12o0ve6trv0"
   }
  ],
- "updated": "2026-11-24T09:40:27.427Z"
+ "updated": "2026-11-24T09:58:31.652Z"
 }
