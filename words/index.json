@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-24T17:45:48.090Z",
+ "updated": "2026-11-24T18:47:27.853Z",
  "letters": {
   "a": {
-   "words": 699,
+   "words": 700,
    "defined": 147
   },
   "b": {
@@ -18,7 +18,7 @@
    "defined": 70
   },
   "e": {
-   "words": 299,
+   "words": 300,
    "defined": 71
   },
   "f": {
@@ -46,7 +46,7 @@
    "defined": 15
   },
   "l": {
-   "words": 222,
+   "words": 223,
    "defined": 54
   },
   "m": {
@@ -106,6 +106,6 @@
    "defined": 2
   }
  },
- "total": 8833,
+ "total": 8836,
  "defined": 1500
 }
