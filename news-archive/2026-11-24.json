@@ -1,6 +1,6 @@
 {
  "day": "2026-11-24",
- "count": 84,
+ "count": 85,
  "articles": [
   {
    "id": "crawl_yr5nel",
@@ -21,6 +21,26 @@
    "title_en": "Nigerian monarch, 92, suspended after sexual assault claims",
    "summary_en": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
    "share_id": "MN202611_yr5nelyjvf"
+  },
+  {
+   "id": "crawl_5ise0i",
+   "title": "18 Districts Get New Mayors, Nine Incumbents Return",
+   "summary": "KIGALI – Eighteen of Rwanda’s 27 districts have elected new mayors, while nine outgoing leaders have secured another five-year term, marking a significant turnover in district leadership following the November… The post 18 Districts Get New Mayors, Nine Incumbents Return appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/18-districts-get-new-mayors-nine-incumbents-return/",
+   "url": "https://www.ktpress.rw/2026/11/18-districts-get-new-mayors-nine-incumbents-return/",
+   "date": "2026-11-24T18:55:09.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "Society",
+    "big-story"
+   ],
+   "title_en": "18 Districts Get New Mayors, Nine Incumbents Return",
+   "summary_en": "KIGALI – Eighteen of Rwanda’s 27 districts have elected new mayors, while nine outgoing leaders have secured another five-year term, marking a significant turnover in district leadership following the November… The post 18 Districts Get New Mayors, Nine Incumbents Return appeared first on KT PRESS .",
+   "share_id": "MN202611_5ise0iagls"
   },
   {
    "id": "crawl_guvrxy",
@@ -1713,5 +1733,5 @@
    "share_id": "MN202611_12o0ve6trv0"
   }
  ],
- "updated": "2026-11-24T19:35:42.410Z"
+ "updated": "2026-11-24T19:54:55.215Z"
 }

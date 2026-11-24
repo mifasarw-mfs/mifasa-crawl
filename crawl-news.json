@@ -6,18 +6,38 @@
   "link": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-24T19:10:31.000Z",
-  "source": "BBC Africa",
-  "category": "news",
+  "source": "BBC World",
+  "category": "world",
   "lang": "en",
   "keywords": [
-   "BBC Africa",
-   "news"
+   "BBC World",
+   "world"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/342b/live/2203fe30-e82f-11f1-917e-35f1674fb52c.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/342b/live/2203fe30-e82f-11f1-917e-35f1674fb52c.jpg",
   "title_en": "Nigerian monarch, 92, suspended after sexual assault claims",
   "summary_en": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
   "share_id": "MN202611_yr5nelyjvf"
+ },
+ {
+  "id": "crawl_5ise0i",
+  "title": "18 Districts Get New Mayors, Nine Incumbents Return",
+  "summary": "KIGALI – Eighteen of Rwanda’s 27 districts have elected new mayors, while nine outgoing leaders have secured another five-year term, marking a significant turnover in district leadership following the November… The post 18 Districts Get New Mayors, Nine Incumbents Return appeared first on KT PRESS .",
+  "link": "https://www.ktpress.rw/2026/11/18-districts-get-new-mayors-nine-incumbents-return/",
+  "url": "https://www.ktpress.rw/2026/11/18-districts-get-new-mayors-nine-incumbents-return/",
+  "date": "2026-11-24T18:55:09.000Z",
+  "source": "KT Press",
+  "category": "news",
+  "lang": "en",
+  "keywords": [
+   "KT Press",
+   "news",
+   "Society",
+   "big-story"
+  ],
+  "title_en": "18 Districts Get New Mayors, Nine Incumbents Return",
+  "summary_en": "KIGALI – Eighteen of Rwanda’s 27 districts have elected new mayors, while nine outgoing leaders have secured another five-year term, marking a significant turnover in district leadership following the November… The post 18 Districts Get New Mayors, Nine Incumbents Return appeared first on KT PRESS .",
+  "share_id": "MN202611_5ise0iagls"
  },
  {
   "id": "crawl_guvrxy",
@@ -2213,7 +2233,8 @@
    "KT Press",
    "news",
    "International",
-   "big-story"
+   "big-story",
+   "latestnews"
   ],
   "title_en": "Rwanda, Denmark Sign Agreement to Ease Employment Restrictions for Diplomats’ Families",
   "summary_en": "COPENHAGEN – Rwanda and Denmark have signed an agreement intended to make it easier for spouses and eligible family members of diplomats serving in either country to take up employment.… The post Rwanda, Denmark Sign Agreement to Ease Employment Restrictions for Diplomats’ Families appeared first on KT PRESS .",
@@ -17092,25 +17113,5 @@
   "title_en": "BBC correspondents discuss historic Trump, Xi and Putin meeting",
   "summary_en": "The BBC’s Laura Bicker, Steve Rosenberg and Nada Tawfik explain everything you need to know ahead of the unprecedented trilateral meeting.",
   "share_id": "MN202611_zualyv372t"
- },
- {
-  "id": "crawl_1eh127m",
-  "title": "Ghana's new $60m presidential jet sparks public outrage",
-  "summary": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
-  "link": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-18T08:08:20.000Z",
-  "source": "BBC Africa",
-  "category": "news",
-  "lang": "en",
-  "keywords": [
-   "BBC Africa",
-   "news"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/377e/live/9eb7bde0-e31b-11f1-81d5-99b8785f3e51.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/377e/live/9eb7bde0-e31b-11f1-81d5-99b8785f3e51.jpg",
-  "title_en": "Ghana's new $60m presidential jet sparks public outrage",
-  "summary_en": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
-  "share_id": "MN202611_1eh127mtyog"
  }
 ]
