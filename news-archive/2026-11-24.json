@@ -1,6 +1,6 @@
 {
  "day": "2026-11-24",
- "count": 94,
+ "count": 95,
  "articles": [
   {
    "id": "crawl_f8njjg",
@@ -1239,6 +1239,26 @@
    "share_id": "MN202611_1s9ralvg89d"
   },
   {
+   "id": "crawl_1r5jkyj",
+   "title": "From dancing on the Tube to being sectioned: Sabrina Bahsoon on her psychosis misdiagnosis",
+   "summary": "The content creator's self-shot videos of her dancing on the London Underground blew up online in 2023.",
+   "link": "https://www.bbc.co.uk/news/articles/c65y1vk4wp7po?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c65y1vk4wp7po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T09:47:20.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18f7/live/8775e830-e813-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18f7/live/8775e830-e813-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "From dancing on the Tube to being sectioned: Sabrina Bahsoon on her psychosis misdiagnosis",
+   "summary_en": "The content creator's self-shot videos of her dancing on the London Underground blew up online in 2023.",
+   "share_id": "MN202611_1r5jkyjchfd"
+  },
+  {
    "id": "crawl_1ceel9v",
    "title": "MLS side to honour deceased hippo with tifo",
    "summary": "Major League Soccer side FC Cincinnati will honour Fiona, a hippo that recently died at the city's zoo, with a tifo display at their match with Nashville SC on Saturday.",
@@ -1913,5 +1933,5 @@
    "share_id": "MN202611_12o0ve6trv0"
   }
  ],
- "updated": "2026-11-24T21:47:27.231Z"
+ "updated": "2026-11-24T22:20:44.206Z"
 }

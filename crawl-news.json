@@ -1474,6 +1474,26 @@
   "share_id": "MN202611_d6nbtlngmv"
  },
  {
+  "id": "crawl_1r5jkyj",
+  "title": "From dancing on the Tube to being sectioned: Sabrina Bahsoon on her psychosis misdiagnosis",
+  "summary": "The content creator's self-shot videos of her dancing on the London Underground blew up online in 2023.",
+  "link": "https://www.bbc.co.uk/news/articles/c65y1vk4wp7po?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c65y1vk4wp7po?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-24T09:47:20.000Z",
+  "source": "BBC Entertainment",
+  "category": "entertainment",
+  "lang": "en",
+  "keywords": [
+   "BBC Entertainment",
+   "entertainment"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18f7/live/8775e830-e813-11f1-99b6-a35a62fa4264.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18f7/live/8775e830-e813-11f1-99b6-a35a62fa4264.jpg",
+  "title_en": "From dancing on the Tube to being sectioned: Sabrina Bahsoon on her psychosis misdiagnosis",
+  "summary_en": "The content creator's self-shot videos of her dancing on the London Underground blew up online in 2023.",
+  "share_id": "MN202611_1r5jkyjchfd"
+ },
+ {
   "id": "crawl_1ceel9v",
   "title": "Dead hippo to be honoured on football club tifo",
   "summary": "Major League Soccer side FC Cincinnati will honour Fiona, a hippo that recently died at the city's zoo, with a tifo display at their match with Nashville SC on Saturday.",
@@ -2757,12 +2777,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-23T18:04:20.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Entertainment",
+  "category": "entertainment",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Entertainment",
+   "entertainment"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a11/live/e201bf70-bb4c-11f1-bc1f-3f186ca4140c.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a11/live/e201bf70-bb4c-11f1-bc1f-3f186ca4140c.jpg",
@@ -17071,31 +17091,5 @@
   "title_rw": "#diamondplatnumz #dance #Mvuayabaraka #Zuchu",
   "summary_rw": "#diamondplatnumz #dance #Mvuayabaraka #Zuchu",
   "share_id": "MN202611_ecmo0y2l6o"
- },
- {
-  "id": "crawl_ecw6cm",
-  "title": "🔴LIVE: AMAKURU YO KU MANYWA || TARIKI 18.11.2026",
-  "summary": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
-  "link": "https://www.youtube.com/watch?v=6zYErbMKXTk",
-  "url": "https://www.youtube.com/watch?v=6zYErbMKXTk",
-  "date": "2026-11-18T09:58:42.000Z",
-  "source": "Radio Rwanda YouTube",
-  "category": "news",
-  "lang": "rw",
-  "keywords": [
-   "Radio Rwanda YouTube",
-   "news",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "6zYErbMKXTk"
-  },
-  "type": "video",
-  "image": "https://i3.ytimg.com/vi/6zYErbMKXTk/hqdefault.jpg",
-  "thumbnail": "https://i3.ytimg.com/vi/6zYErbMKXTk/hqdefault.jpg",
-  "title_rw": "🔴LIVE: AMAKURU YO KU MANYWA || TARIKI 18.11.2026",
-  "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
-  "share_id": "MN202611_ecw6cmwb5w"
  }
 ]
