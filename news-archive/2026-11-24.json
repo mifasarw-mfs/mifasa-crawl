@@ -1,7 +1,128 @@
 {
  "day": "2026-11-24",
- "count": 36,
+ "count": 42,
  "articles": [
+  {
+   "id": "crawl_1xx25b4",
+   "title": "Storms targeting both US coasts threaten to snarl Thanksgiving travel for millions",
+   "summary": "Two storms, including a major Nor'easter on the east coast, are expected to impact millions of people celebrating the holiday with family and friends.",
+   "link": "https://www.bbc.co.uk/weather/articles/c5742nplemnno?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/weather/articles/c5742nplemnno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T11:40:46.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87ac/live/ff54d930-e7df-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87ac/live/ff54d930-e7df-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Storms targeting both US coasts threaten to snarl Thanksgiving travel for millions",
+   "summary_en": "Two storms, including a major Nor'easter on the east coast, are expected to impact millions of people celebrating the holiday with family and friends.",
+   "share_id": "MN202611_1xx25b4g5xa"
+  },
+  {
+   "id": "crawl_bd0djm",
+   "title": "Weak and immature management putting patients at risk at failing health board, review finds",
+   "summary": "A review finds targets and money being prioritised over patient care at Betsi Cadwaladr health board.",
+   "link": "https://www.bbc.co.uk/news/articles/cm3eg5g4l9ggo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm3eg5g4l9ggo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T11:34:01.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aceb/live/90850830-e7f4-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aceb/live/90850830-e7f4-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Weak and immature management putting patients at risk at failing health board, review finds",
+   "summary_en": "A review finds targets and money being prioritised over patient care at Betsi Cadwaladr health board.",
+   "share_id": "MN202611_bd0djmta0g"
+  },
+  {
+   "id": "crawl_5iegmr",
+   "title": "Rwandan Named Best Doctoral Student at CSIR 2026 Awards",
+   "summary": "A Rwandan national has scooped a prestigious award at the Council for Scientific and Industrial Research Excellence in South Africa. Dr. Claudine Nkeragutabara Ndimurukundo, a Rwandan scholar with a PhD in Human Genetics received the Best Doctoral Student Award at the 2026 CSIR Excellence Awards, held on 20 November. The annual awards are Organised by […] The post Rwandan Named Best Doctoral…",
+   "link": "https://taarifa.rw/2026/11/24/rwandan-named-best-doctoral-student-at-csir-2026-awards/",
+   "url": "https://taarifa.rw/2026/11/24/rwandan-named-best-doctoral-student-at-csir-2026-awards/",
+   "date": "2026-11-24T11:28:58.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "National"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261124-132656.jpg?fit=720%2C720&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261124-132656.jpg?fit=720%2C720&ssl=1",
+   "title_en": "Rwandan Named Best Doctoral Student at CSIR 2026 Awards",
+   "summary_en": "A Rwandan national has scooped a prestigious award at the Council for Scientific and Industrial Research Excellence in South Africa. Dr. Claudine Nkeragutabara Ndimurukundo, a Rwandan scholar with a PhD in Human Genetics received the Best Doctoral Student Award at the 2026 CSIR Excellence Awards, held on 20 November. The annual awards are Organised by […] The post Rwandan Named Best Doctoral…",
+   "share_id": "MN202611_5iegmr1b9t"
+  },
+  {
+   "id": "crawl_5rbuh3",
+   "title": "Does Scotland's NHS have a revolving door problem with senior managers?",
+   "summary": "The situation has been compared to \"shuffling of deckchairs on the sinking Titanic\" by the lawyer for an NHS whistleblower.",
+   "link": "https://www.bbc.co.uk/news/articles/cr868183e3njo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cr868183e3njo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T11:14:25.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a751/live/ed0ab5c0-e7f2-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a751/live/ed0ab5c0-e7f2-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Does Scotland's NHS have a revolving door problem with senior managers?",
+   "summary_en": "The situation has been compared to \"shuffling of deckchairs on the sinking Titanic\" by the lawyer for an NHS whistleblower.",
+   "share_id": "MN202611_5rbuh34qxx"
+  },
+  {
+   "id": "crawl_17pw3f6",
+   "title": "Igitero ku bwato bw'Uburusiya muri Libya coba kivuga iki ku ntambara yo muri Ukraine?",
+   "summary": "Igitero ca Ukraine ku bwato bw’intambara bw’Uburusiya ku kivuko co muri Libya congereje ubukana bw’iyi ntambara, nk’uko vyanditswe na Frank Gardner.",
+   "link": "https://www.bbc.com/gahuza/articles/c6vg29yvll44o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/c6vg29yvll44o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T11:13:50.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4b31/live/6b534bd0-e7f9-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4b31/live/6b534bd0-e7f9-11f1-99b6-a35a62fa4264.jpg",
+   "title_rw": "Igitero ku bwato bw'Uburusiya muri Libya coba kivuga iki ku ntambara yo muri Ukraine?",
+   "summary_rw": "Igitero ca Ukraine ku bwato bw’intambara bw’Uburusiya ku kivuko co muri Libya congereje ubukana bw’iyi ntambara, nk’uko vyanditswe na Frank Gardner.",
+   "share_id": "MN202611_17pw3f6ozw0"
+  },
+  {
+   "id": "crawl_14lrb6g",
+   "title": "Republic of Ireland boss Ward signs new contract",
+   "summary": "Republic of Ireland manager Carla Ward signs a contract extension until the conclusion of the side's Euro 2029 campaign.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm4gn31z553go?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm4gn31z553go?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T10:45:30.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfc8/live/272a6460-e7e6-11f1-8b26-c1adae33e7f2.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfc8/live/272a6460-e7e6-11f1-8b26-c1adae33e7f2.jpg",
+   "title_en": "Republic of Ireland boss Ward signs new contract",
+   "summary_en": "Republic of Ireland manager Carla Ward signs a contract extension until the conclusion of the side's Euro 2029 campaign.",
+   "share_id": "MN202611_14lrb6gj8l2"
+  },
   {
    "id": "crawl_t9c14v",
    "title": "CRP Rebels Wreck Havock, Seize Iga-Barrière in Ituri",
@@ -738,5 +859,5 @@
    "share_id": "MN202611_12o0ve6trv0"
   }
  ],
- "updated": "2026-11-24T10:49:18.304Z"
+ "updated": "2026-11-24T11:42:52.406Z"
 }
