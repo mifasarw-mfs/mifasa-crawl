@@ -1,7 +1,67 @@
 {
  "day": "2026-11-24",
- "count": 9,
+ "count": 12,
  "articles": [
+  {
+   "id": "crawl_1xc1du8",
+   "title": "115 days, 39 private-jet flights, one election - Infantino's globetrotting",
+   "summary": "Fifa president Gianni Infantino's globe-trotting by private jet since his plan to sell of a stake in the World Cup has come under scrutiny.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmkgk22w3vlvo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmkgk22w3vlvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T06:16:53.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a18/live/c4779660-e5bc-11f1-a188-ff49e70cc466.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a18/live/c4779660-e5bc-11f1-a188-ff49e70cc466.jpg",
+   "title_en": "115 days, 39 private-jet flights, one election - Infantino's globetrotting",
+   "summary_en": "Fifa president Gianni Infantino's globe-trotting by private jet since his plan to sell of a stake in the World Cup has come under scrutiny.",
+   "share_id": "MN202611_1xc1du8tb8u"
+  },
+  {
+   "id": "crawl_1f86763",
+   "title": "Goats drafted in to tame Greenwich Park slope",
+   "summary": "Bagot goats are used to keep vegetation in check and help preserve the view from the Royal Observatory.",
+   "link": "https://www.bbc.co.uk/news/articles/cq4gn2vde8m8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq4gn2vde8m8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T06:16:51.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a13b/live/0b1bcc00-e75a-11f1-b407-33329b1ec67a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a13b/live/0b1bcc00-e75a-11f1-b407-33329b1ec67a.jpg",
+   "title_en": "Goats drafted in to tame Greenwich Park slope",
+   "summary_en": "Bagot goats are used to keep vegetation in check and help preserve the view from the Royal Observatory.",
+   "share_id": "MN202611_1f86763z3mx"
+  },
+  {
+   "id": "crawl_1k63kbk",
+   "title": "Euro Leagues",
+   "summary": "Freddie Potts discusses his new life in Bruges after leaving West Ham after 16 years.",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pnv96n?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/p0pnv96n?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T06:00:00.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg",
+   "title_en": "Euro Leagues",
+   "summary_en": "Freddie Potts discusses his new life in Bruges after leaving West Ham after 16 years.",
+   "share_id": "MN202611_1k63kbksmv2"
+  },
   {
    "id": "crawl_1qak5jd",
    "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
@@ -190,5 +250,5 @@
    "share_id": "MN202611_12o0ve6trv0"
   }
  ],
- "updated": "2026-11-24T05:52:20.316Z"
+ "updated": "2026-11-24T06:37:27.551Z"
 }
