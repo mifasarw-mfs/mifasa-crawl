@@ -1,7 +1,27 @@
 {
  "day": "2026-11-24",
- "count": 81,
+ "count": 83,
  "articles": [
+  {
+   "id": "crawl_guvrxy",
+   "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+   "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
+   "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T18:21:43.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ec8/live/8b0c59c0-e831-11f1-917e-35f1674fb52c.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ec8/live/8b0c59c0-e831-11f1-917e-35f1674fb52c.jpg",
+   "title_en": "Faisal Islam: Fears over the AI boom haven't gone away",
+   "summary_en": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
+   "share_id": "MN202611_guvrxyooes"
+  },
   {
    "id": "crawl_6c0n08",
    "title": "Igitabu Papa Francis yandikamwo ivyo acamwo buri musi kigaragaza ibivugwa ko yabonye shetani incuro zitatu",
@@ -81,6 +101,26 @@
    "title_en": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
    "summary_en": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
    "share_id": "MN202611_1xgf48880p2"
+  },
+  {
+   "id": "crawl_1v8gn3i",
+   "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+   "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+   "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T16:49:07.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg",
+   "title_en": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+   "summary_en": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+   "share_id": "MN202611_1v8gn3i9jkc"
   },
   {
    "id": "crawl_198yxk0",
@@ -1653,5 +1693,5 @@
    "share_id": "MN202611_12o0ve6trv0"
   }
  ],
- "updated": "2026-11-24T17:41:30.838Z"
+ "updated": "2026-11-24T18:33:30.408Z"
 }

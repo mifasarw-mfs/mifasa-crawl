@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_guvrxy",
+  "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+  "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
+  "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-24T18:21:43.000Z",
+  "source": "BBC Business",
+  "category": "business",
+  "lang": "en",
+  "keywords": [
+   "BBC Business",
+   "business"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ec8/live/8b0c59c0-e831-11f1-917e-35f1674fb52c.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ec8/live/8b0c59c0-e831-11f1-917e-35f1674fb52c.jpg",
+  "title_en": "Faisal Islam: Fears over the AI boom haven't gone away",
+  "summary_en": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
+  "share_id": "MN202611_guvrxyooes"
+ },
+ {
   "id": "crawl_6c0n08",
   "title": "Igitabu Papa Francis yandikamwo ivyo acamwo buri musi kigaragaza ibivugwa ko yabonye shetani incuro zitatu",
   "summary": "Uwo Mwungere yemeza ko hamwe mu ho yaboneye shetani ari \"mu kibanza gitaramutse abaririmvyi baririmbiramwo\", mw'isengero.",
@@ -78,6 +98,26 @@
   "title_en": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
   "summary_en": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
   "share_id": "MN202611_1xgf48880p2"
+ },
+ {
+  "id": "crawl_1v8gn3i",
+  "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+  "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+  "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-24T16:49:07.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg",
+  "title_en": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+  "summary_en": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+  "share_id": "MN202611_1v8gn3i9jkc"
  },
  {
   "id": "crawl_198yxk0",
@@ -207,7 +247,7 @@
  },
  {
   "id": "crawl_1yuv3gu",
-  "title": "Dad calls for 'crisis' education to reduce suicide among men and boys",
+  "title": "'There was no warning sign' - calls for more education to reduce suicide in men and boys",
   "summary": "Seamus Waites says there was \"no warning\" before his 22-year-old son died by suicide 10 years ago.",
   "link": "https://www.bbc.co.uk/news/articles/cmz9dyd4eegeo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cmz9dyd4eegeo?at_medium=RSS&at_campaign=rss",
@@ -221,7 +261,7 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff2e/live/a4696090-e816-11f1-ab42-55d8d8278025.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff2e/live/a4696090-e816-11f1-ab42-55d8d8278025.jpg",
-  "title_en": "Dad calls for 'crisis' education to reduce suicide among men and boys",
+  "title_en": "'There was no warning sign' - calls for more education to reduce suicide in men and boys",
   "summary_en": "Seamus Waites says there was \"no warning\" before his 22-year-old son died by suicide 10 years ago.",
   "share_id": "MN202611_1yuv3gunzxo"
  },
@@ -232,12 +272,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cqdr151xj5ego?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cqdr151xj5ego?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-24T16:02:20.000Z",
-  "source": "BBC Health",
-  "category": "health",
+  "source": "BBC Entertainment",
+  "category": "entertainment",
   "lang": "en",
   "keywords": [
-   "BBC Health",
-   "health"
+   "BBC Entertainment",
+   "entertainment"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfb7/live/f14c6800-e7fb-11f1-ab60-79086b6495b8.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfb7/live/f14c6800-e7fb-11f1-ab60-79086b6495b8.jpg",
@@ -17062,45 +17102,5 @@
   "title_en": "Nigeria approves law allowing states to run their own police",
   "summary_en": "The push for state police comes amid persistent security crises across the country.",
   "share_id": "MN202611_sz5kc7ygt1"
- },
- {
-  "id": "crawl_1rtauh7",
-  "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
-  "summary": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
-  "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-18T07:40:54.000Z",
-  "source": "BBC Business",
-  "category": "business",
-  "lang": "en",
-  "keywords": [
-   "BBC Business",
-   "business"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a59/live/128bd8c0-e35b-11f1-99b6-a35a62fa4264.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a59/live/128bd8c0-e35b-11f1-99b6-a35a62fa4264.jpg",
-  "title_en": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
-  "summary_en": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
-  "share_id": "MN202611_1rtauh73qy1"
- },
- {
-  "id": "crawl_1ljnwmp",
-  "title": "From one of Ajax's future stars to quitting football for music",
-  "summary": "Former Ajax academy player Elikia Mbinga tells BBC Sport how he swapped football for music after playing with some Premier League stars.",
-  "link": "https://www.bbc.co.uk/sport/football/articles/cmly053x643ro?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cmly053x643ro?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-18T07:02:42.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3af/live/99be3c70-cd5d-11f1-b962-b7ff822cde72.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3af/live/99be3c70-cd5d-11f1-b962-b7ff822cde72.jpg",
-  "title_en": "From one of Ajax's future stars to quitting football for music",
-  "summary_en": "Former Ajax academy player Elikia Mbinga tells BBC Sport how he swapped football for music after playing with some Premier League stars.",
-  "share_id": "MN202611_1ljnwmpfu1b"
  }
 ]
