@@ -1,6 +1,6 @@
 {
  "day": "2026-11-23",
- "count": 99,
+ "count": 100,
  "articles": [
   {
    "id": "crawl_vzv0jc",
@@ -21,6 +21,26 @@
    "title_en": "Who has made Troy's Premier League team of the week?",
    "summary_en": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
    "share_id": "MN202611_vzv0jcmxxy"
+  },
+  {
+   "id": "crawl_1eawdhs",
+   "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+   "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+   "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T23:10:27.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
+   "title_en": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+   "summary_en": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+   "share_id": "MN202611_1eawdhsp9ym"
   },
   {
    "id": "crawl_mznx63",
@@ -2030,5 +2050,5 @@
    "share_id": "MN202611_1dt5tu0xy3q"
   }
  ],
- "updated": "2026-11-23T23:41:25.320Z"
+ "updated": "2026-11-24T00:35:19.152Z"
 }
