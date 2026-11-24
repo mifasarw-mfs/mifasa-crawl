@@ -7050,6 +7050,54 @@
    ],
    "auto": true,
    "taught": "2026-11-24"
+  },
+  {
+   "id": "ai16_2c7ca878_q",
+   "label_rw": "Umutekano mu gihe cy'imyuzure n'uburyo bwo kwimuka",
+   "label_en": "Flood safety and evacuation basics",
+   "patterns_en": [
+    "What should you do during a flood?",
+    "Can you walk through floodwaters?",
+    "Where should you evacuate during a flood?"
+   ],
+   "patterns_rw": [
+    "Ni iki wakora mu gihe cy'imyuzure?",
+    "Ese wanyura mu mazi y'imyuzure?",
+    "Wagombaga kwimukira he mu gihe cy'imyuzure?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mu gihe cy'imyuzure, jya ahantu hateye hejuru vuba na vuba. Ntuzanyure mu mazi atembera cyangwa ngo utwarwe n'imodoka mu nzira z'amazi. Witondere insinga z'amashanyarazi ziri hafi y'amazi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "During a flood, move to higher ground immediately. Do not walk or drive through moving floodwaters. Stay away from downed power lines near water.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-24"
+  },
+  {
+   "id": "ai16_b68962a6_q",
+   "label_rw": "Guterura imitwaro iremereye",
+   "label_en": "Lifting heavy objects safely",
+   "patterns_en": [
+    "How do you lift a heavy load safely?",
+    "What are the risks of poor lifting posture?",
+    "How should you prepare to carry something heavy?"
+   ],
+   "patterns_rw": [
+    "Ni gute weterura umutwaro uremera neza?",
+    "Ni izihe ngaruka zo guterura nabi umugongo?",
+    "Witegura ute kwikorera ikintu kiremereye?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Guterura imitwaro iremereye bisaba kwegera umutwaro, kugama amavi, no gukoresha imbaraga z'amaguru aho gukoresha umugongo. Ugomba gufata neza umutwaro kandi ntukagoreke umugongo mu gihe utera intambwe.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Lifting heavy objects safely involves getting close to the load, bending at the knees, and using leg strength rather than the back. You should maintain a firm grip and avoid twisting your spine while moving.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-24"
   }
  ],
  "knowledge": [
@@ -12858,6 +12906,46 @@
     "sports",
     "imyidagaduro",
     "paddles"
+   ],
+   "auto": true,
+   "taught": "2026-11-24"
+  },
+  {
+   "id": "ai16_2c7ca878",
+   "category": "safety",
+   "title_rw": "Umutekano mu gihe cy'imyuzure n'uburyo bwo kwimuka",
+   "title_en": "Flood safety and evacuation basics",
+   "summary_rw": "Mu gihe cy'imyuzure, jya ahantu hateye hejuru vuba na vuba. Ntuzanyure mu mazi atembera cyangwa ngo utwarwe n'imodoka mu nzira z'amazi. Witondere insinga z'amashanyarazi ziri hafi y'amazi.",
+   "summary_en": "During a flood, move to higher ground immediately. Do not walk or drive through moving floodwaters. Stay away from downed power lines near water.",
+   "keywords": [
+    "imyuzure",
+    "umutekano",
+    "kwimuka",
+    "amazi",
+    "flood",
+    "safety",
+    "evacuation",
+    "water"
+   ],
+   "auto": true,
+   "taught": "2026-11-24"
+  },
+  {
+   "id": "ai16_b68962a6",
+   "category": "safety",
+   "title_rw": "Guterura imitwaro iremereye",
+   "title_en": "Lifting heavy objects safely",
+   "summary_rw": "Guterura imitwaro iremereye bisaba kwegera umutwaro, kugama amavi, no gukoresha imbaraga z'amaguru aho gukoresha umugongo. Ugomba gufata neza umutwaro kandi ntukagoreke umugongo mu gihe utera intambwe.",
+   "summary_en": "Lifting heavy objects safely involves getting close to the load, bending at the knees, and using leg strength rather than the back. You should maintain a firm grip and avoid twisting your spine while moving.",
+   "keywords": [
+    "guterura",
+    "lifting",
+    "umutwaro",
+    "load",
+    "umugongo",
+    "back",
+    "amavi",
+    "knees"
    ],
    "auto": true,
    "taught": "2026-11-24"
