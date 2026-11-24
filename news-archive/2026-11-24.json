@@ -1,7 +1,27 @@
 {
  "day": "2026-11-24",
- "count": 83,
+ "count": 84,
  "articles": [
+  {
+   "id": "crawl_yr5nel",
+   "title": "Nigerian monarch, 92, suspended after sexual assault claims",
+   "summary": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
+   "link": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T19:10:31.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/342b/live/2203fe30-e82f-11f1-917e-35f1674fb52c.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/342b/live/2203fe30-e82f-11f1-917e-35f1674fb52c.jpg",
+   "title_en": "Nigerian monarch, 92, suspended after sexual assault claims",
+   "summary_en": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
+   "share_id": "MN202611_yr5nelyjvf"
+  },
   {
    "id": "crawl_guvrxy",
    "title": "Faisal Islam: Fears over the AI boom haven't gone away",
@@ -1693,5 +1713,5 @@
    "share_id": "MN202611_12o0ve6trv0"
   }
  ],
- "updated": "2026-11-24T18:33:30.408Z"
+ "updated": "2026-11-24T19:35:42.410Z"
 }

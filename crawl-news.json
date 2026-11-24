@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_yr5nel",
+  "title": "Nigerian monarch, 92, suspended after sexual assault claims",
+  "summary": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
+  "link": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-24T19:10:31.000Z",
+  "source": "BBC Africa",
+  "category": "news",
+  "lang": "en",
+  "keywords": [
+   "BBC Africa",
+   "news"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/342b/live/2203fe30-e82f-11f1-917e-35f1674fb52c.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/342b/live/2203fe30-e82f-11f1-917e-35f1674fb52c.jpg",
+  "title_en": "Nigerian monarch, 92, suspended after sexual assault claims",
+  "summary_en": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
+  "share_id": "MN202611_yr5nelyjvf"
+ },
+ {
   "id": "crawl_guvrxy",
   "title": "Faisal Islam: Fears over the AI boom haven't gone away",
   "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
@@ -61,8 +81,8 @@
  },
  {
   "id": "crawl_171sce2",
-  "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
-  "summary": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
+  "title": "US attorney general dodges questions about Nvidia investigation",
+  "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
   "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-24T17:04:20.000Z",
@@ -73,10 +93,10 @@
    "BBC World",
    "world"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/982f/live/ca95f8e0-e82b-11f1-88dc-fb4bdfcec8cb.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/982f/live/ca95f8e0-e82b-11f1-88dc-fb4bdfcec8cb.jpg",
-  "title_en": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
-  "summary_en": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+  "title_en": "US attorney general dodges questions about Nvidia investigation",
+  "summary_en": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
   "share_id": "MN202611_171sce2l8uw"
  },
  {
@@ -98,6 +118,36 @@
   "title_en": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
   "summary_en": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
   "share_id": "MN202611_1xgf48880p2"
+ },
+ {
+  "id": "crawl_1132t3d",
+  "title": "DLS27 | OFFICIAL TEASER TRAILER",
+  "summary": "DLS27 will be available December 2026 with new features, visual enhancements, Classic Players and player data. Get ready for the action. #DLS27",
+  "link": "https://www.youtube.com/watch?v=IBpHNWBSJXU",
+  "url": "https://www.youtube.com/watch?v=IBpHNWBSJXU",
+  "date": "2026-11-24T17:00:08.000Z",
+  "source": "YouTube Trending Uganda",
+  "category": "entertainment",
+  "lang": "en",
+  "keywords": [
+   "YouTube Trending Uganda",
+   "entertainment",
+   "trending",
+   "DLS",
+   "Dream League Soccer",
+   "First Touch Games",
+   "video"
+  ],
+  "video": {
+   "provider": "youtube",
+   "id": "IBpHNWBSJXU"
+  },
+  "type": "video",
+  "image": "https://i.ytimg.com/vi/IBpHNWBSJXU/hqdefault.jpg",
+  "thumbnail": "https://i.ytimg.com/vi/IBpHNWBSJXU/hqdefault.jpg",
+  "title_en": "DLS27 | OFFICIAL TEASER TRAILER",
+  "summary_en": "DLS27 will be available December 2026 with new features, visual enhancements, Classic Players and player data. Get ready for the action. #DLS27",
+  "share_id": "MN202611_1132t3dyvxj"
  },
  {
   "id": "crawl_1v8gn3i",
@@ -17062,45 +17112,5 @@
   "title_en": "Ghana's new $60m presidential jet sparks public outrage",
   "summary_en": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
   "share_id": "MN202611_1eh127mtyog"
- },
- {
-  "id": "crawl_dlzhva",
-  "title": "Harry Styles, Billie Eilish, Sam Fender and Cher to headline Glastonbury 2027",
-  "summary": "The festival will also host Cher in the Sunday \"legends\" slot, the unofficial fourth headline set.",
-  "link": "https://www.bbc.co.uk/news/articles/crwy4w381nlpo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/crwy4w381nlpo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-18T07:59:54.000Z",
-  "source": "BBC Entertainment",
-  "category": "entertainment",
-  "lang": "en",
-  "keywords": [
-   "BBC Entertainment",
-   "entertainment"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c012/live/0ebd38d0-e340-11f1-99b6-a35a62fa4264.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c012/live/0ebd38d0-e340-11f1-99b6-a35a62fa4264.jpg",
-  "title_en": "Harry Styles, Billie Eilish, Sam Fender and Cher to headline Glastonbury 2027",
-  "summary_en": "The festival will also host Cher in the Sunday \"legends\" slot, the unofficial fourth headline set.",
-  "share_id": "MN202611_dlzhvasec4"
- },
- {
-  "id": "crawl_sz5kc7",
-  "title": "Nigeria approves law allowing states to run their own police",
-  "summary": "The push for state police comes amid persistent security crises across the country.",
-  "link": "https://www.bbc.co.uk/news/articles/cr20vpq58093o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cr20vpq58093o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-18T07:45:06.000Z",
-  "source": "BBC Africa",
-  "category": "news",
-  "lang": "en",
-  "keywords": [
-   "BBC Africa",
-   "news"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f7/live/b66d0950-e31a-11f1-81d5-99b8785f3e51.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f7/live/b66d0950-e31a-11f1-81d5-99b8785f3e51.jpg",
-  "title_en": "Nigeria approves law allowing states to run their own police",
-  "summary_en": "The push for state police comes amid persistent security crises across the country.",
-  "share_id": "MN202611_sz5kc7ygt1"
  }
 ]
