@@ -1,7 +1,87 @@
 {
  "day": "2026-11-24",
- "count": 12,
+ "count": 16,
  "articles": [
+  {
+   "id": "crawl_1mr52wz",
+   "title": "Two goals in 15 games - what's going on with Gyokeres?",
+   "summary": "Arsenal have made an impressive start to the campaign but it has been a frustrating one for striker Viktor Gyokeres.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cklylr15gr2do?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cklylr15gr2do?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T06:45:27.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d238/live/f4fcc0e0-e76e-11f1-ae0a-d1908652a433.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d238/live/f4fcc0e0-e76e-11f1-ae0a-d1908652a433.jpg",
+   "title_en": "Two goals in 15 games - what's going on with Gyokeres?",
+   "summary_en": "Arsenal have made an impressive start to the campaign but it has been a frustrating one for striker Viktor Gyokeres.",
+   "share_id": "MN202611_1mr52wzx0bl"
+  },
+  {
+   "id": "crawl_1ssdbp3",
+   "title": "Who am I? Plus today's other quizzes",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cke89ve1lnzvo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cke89ve1lnzvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T06:42:40.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+   "title_en": "Who am I? Plus today's other quizzes",
+   "summary_en": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "share_id": "MN202611_1ssdbp3593p"
+  },
+  {
+   "id": "crawl_1wmtm22",
+   "title": "Delia Smith joins opponents of £1.2bn data centre",
+   "summary": "The TV cook and author is worried about the proposed Keswick facility's environmental impact.",
+   "link": "https://www.bbc.co.uk/news/articles/c678200xklgzo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c678200xklgzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T06:36:26.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d51/live/b602fd20-e75d-11f1-b407-33329b1ec67a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d51/live/b602fd20-e75d-11f1-b407-33329b1ec67a.jpg",
+   "title_en": "Delia Smith joins opponents of £1.2bn data centre",
+   "summary_en": "The TV cook and author is worried about the proposed Keswick facility's environmental impact.",
+   "share_id": "MN202611_1wmtm22miiw"
+  },
+  {
+   "id": "crawl_oe27y",
+   "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+   "summary": "Hasina has spoken several times of her desire to return, but this is the first time she has set a date.",
+   "link": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T06:23:01.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5191/live/b1f565b0-e7c1-11f1-b55c-09f84acff1b4.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5191/live/b1f565b0-e7c1-11f1-b55c-09f84acff1b4.jpg",
+   "title_en": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+   "summary_en": "Hasina has spoken several times of her desire to return, but this is the first time she has set a date.",
+   "share_id": "MN202611_oe27yb0nw"
+  },
   {
    "id": "crawl_1xc1du8",
    "title": "115 days, 39 private-jet flights, one election - Infantino's globetrotting",
@@ -250,5 +330,5 @@
    "share_id": "MN202611_12o0ve6trv0"
   }
  ],
- "updated": "2026-11-24T06:37:27.551Z"
+ "updated": "2026-11-24T06:56:45.408Z"
 }
