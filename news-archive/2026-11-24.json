@@ -1,7 +1,30 @@
 {
  "day": "2026-11-24",
- "count": 20,
+ "count": 21,
  "articles": [
+  {
+   "id": "crawl_1g3ssbz",
+   "title": "Ni nde uzacunga amafaranga mashya ya “Rwanda Green Fund”?",
+   "summary": "Umushinga w’itegeko rishya rishyiraho Ikigega k’Ibidukikije “Rwanda Green Fund” uteganya ko iki kigega kizagira ububasha bwagutse bwo gukusanya no gushora imari, harimo gukoresha imari ihuriweho (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/ni-nde-uzacunga-amafaranga-mashya-ya-rwanda-green-fund",
+   "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/ni-nde-uzacunga-amafaranga-mashya-ya-rwanda-green-fund",
+   "date": "2026-11-24T08:10:43.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu Rwanda",
+    "MobileBigStory",
+    "Oswald Niyonzima"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/48963603927_2a8789b763_c.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/48963603927_2a8789b763_c.jpg",
+   "title_rw": "Ni nde uzacunga amafaranga mashya ya “Rwanda Green Fund”?",
+   "summary_rw": "Umushinga w’itegeko rishya rishyiraho Ikigega k’Ibidukikije “Rwanda Green Fund” uteganya ko iki kigega kizagira ububasha bwagutse bwo gukusanya no gushora imari, harimo gukoresha imari ihuriweho (…)",
+   "share_id": "MN202611_1g3ssbzv3il"
+  },
   {
    "id": "crawl_se31q2",
    "title": "First Children's Booker prize reveals shortlist - and its child judges",
@@ -410,5 +433,5 @@
    "share_id": "MN202611_12o0ve6trv0"
   }
  ],
- "updated": "2026-11-24T07:59:22.084Z"
+ "updated": "2026-11-24T08:22:41.843Z"
 }
