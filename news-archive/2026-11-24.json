@@ -1,6 +1,6 @@
 {
  "day": "2026-11-24",
- "count": 42,
+ "count": 43,
  "articles": [
   {
    "id": "crawl_1xx25b4",
@@ -21,6 +21,26 @@
    "title_en": "Storms targeting both US coasts threaten to snarl Thanksgiving travel for millions",
    "summary_en": "Two storms, including a major Nor'easter on the east coast, are expected to impact millions of people celebrating the holiday with family and friends.",
    "share_id": "MN202611_1xx25b4g5xa"
+  },
+  {
+   "id": "crawl_sfsepv",
+   "title": "Glens boss Ferguson apologises after seven-game ban",
+   "summary": "Glentoran manager Duncan Ferguson will be suspended for seven games following his red card in the side's 3-2 defeat by Cliftonville last week.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm0evqv7nyq5o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm0evqv7nyq5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T11:36:18.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e31/live/ab98c410-e7f7-11f1-ab60-79086b6495b8.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e31/live/ab98c410-e7f7-11f1-ab60-79086b6495b8.jpg",
+   "title_en": "Glens boss Ferguson apologises after seven-game ban",
+   "summary_en": "Glentoran manager Duncan Ferguson will be suspended for seven games following his red card in the side's 3-2 defeat by Cliftonville last week.",
+   "share_id": "MN202611_sfsepvkc4h"
   },
   {
    "id": "crawl_bd0djm",
@@ -859,5 +879,5 @@
    "share_id": "MN202611_12o0ve6trv0"
   }
  ],
- "updated": "2026-11-24T11:42:52.406Z"
+ "updated": "2026-11-24T11:49:36.019Z"
 }
