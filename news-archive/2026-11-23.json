@@ -1,6 +1,6 @@
 {
  "day": "2026-11-23",
- "count": 104,
+ "count": 105,
  "articles": [
   {
    "id": "crawl_vzv0jc",
@@ -387,6 +387,26 @@
    "title_rw": "Urubyiruko, akazi n'ingufu: Ibyo Perezida Kagame yaganiriye n'umuyobozi wa UNDP",
    "summary_rw": "Perezida wa Repubulika, Paul Kagame, yakiriye Umuyobozi uhagarariye Ishami ry’Umuryango w’Abibumbye ryita ku Iterambere (UNDP) mu Rwanda, Fatmata Lovetta Sesay, uri gusoza inshingano, baganira ku (…)",
    "share_id": "MN202611_15vhisvou6l"
+  },
+  {
+   "id": "crawl_1q4rnd4",
+   "title": "Rugby Union Weekly",
+   "summary": "Ugo, Danny and Ashy talk watchalongs, plus statement wins for Ireland and England.",
+   "link": "https://www.bbc.co.uk/sounds/play/p0ppjrj3?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/p0ppjrj3?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T19:30:00.000Z",
+   "source": "BBC Sport Africa",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Sport Africa",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0lwzcxx.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0lwzcxx.jpg",
+   "title_en": "Rugby Union Weekly",
+   "summary_en": "Ugo, Danny and Ashy talk watchalongs, plus statement wins for Ireland and England.",
+   "share_id": "MN202611_1q4rnd4gpwm"
   },
   {
    "id": "crawl_qzqkbi",
@@ -2130,5 +2150,5 @@
    "share_id": "MN202611_1dt5tu0xy3q"
   }
  ],
- "updated": "2026-11-24T03:20:51.568Z"
+ "updated": "2026-11-24T14:55:56.569Z"
 }
