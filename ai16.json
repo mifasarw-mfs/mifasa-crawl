@@ -7098,6 +7098,102 @@
    ],
    "auto": true,
    "taught": "2026-11-24"
+  },
+  {
+   "id": "ai16_f2a75136_q",
+   "label_rw": "Kubaza ibibazo mu Kinyarwanda",
+   "label_en": "Asking questions in Kinyarwanda",
+   "patterns_en": [
+    "How do you ask questions in Kinyarwanda?",
+    "What words are used for questioning?",
+    "Does voice intonation rise at the end of a question?"
+   ],
+   "patterns_rw": [
+    "Ni gute babaza ikibazo mu Kinyarwanda?",
+    "Ni ayahe magambo akoreshwa mu kubaza?",
+    "Ese ijwi rirazamuka ku mpera y'ikibazo?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mu Kinyarwanda, kubaza ibibazo bikoresha amagambo yihariye nka 'nde', 'iki', cyangwa 'he'. Ishusho y'ijwi nayo irazamuka ku mpera y'ijambo kugira ngo byerekane ko ari ikibazo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "In Kinyarwanda, asking questions often uses specific interrogative words like who, what, or where. Voice intonation usually rises at the end of a sentence to indicate a question.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-24"
+  },
+  {
+   "id": "ai16_8d370e60_q",
+   "label_rw": "Uko bita ibintu mu Kinyarwanda",
+   "label_en": "Kinyarwanda adjectives and description",
+   "patterns_en": [
+    "What expresses descriptions in Kinyarwanda?",
+    "What role do noun classes play in agreement?",
+    "How are descriptive words structured in Kinyarwanda?"
+   ],
+   "patterns_rw": [
+    "Ni iki gisobanura imiterere y'ikintu mu Kinyarwanda?",
+    "Inteko z'amazina zigira uruhe ruhare ku nshinga cyangwa umugereka?",
+    "Ni gute bavuga ibiranga ikintu mu Kinyarwanda?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mu Kinyarwanda, inshinga cyangwa amazina akoreshwa mu gusobanura ibintu bikurikira amoko y'ibyiciro by'inteko. Hari inteko zinyuranye zifasha kumenya uko ijambo rihinduka rikurikije izina risobanura. Ibi bifasha kuvuga neza no kumvikanisha ubwiza cyangwa ibindi biranga ikintu.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "In Kinyarwanda, adjectives and descriptive words agree with the noun class of the subject. Different noun classes determine the grammatical prefixes used. This agreement system helps express qualities and descriptions accurately.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-24"
+  },
+  {
+   "id": "ai16_0d1c52b3_q",
+   "label_rw": "Ibihe by'ibirimo mu Kinyarwanda",
+   "label_en": "Tense and aspect in Kinyarwanda verbs",
+   "patterns_en": [
+    "What indicates tense in Kinyarwanda?",
+    "How do Kinyarwanda verbs change?",
+    "What are the main tenses in Kinyarwanda?"
+   ],
+   "patterns_rw": [
+    "Ni iki kigaragaza igihe mu Kinyarwanda?",
+    "Ese verbu z'Ikinyarwanda zihinduka zite?",
+    "Ikinyarwanda gifite ibihe bingahe by'ingenzi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ururimi rw'Ikinyarwanda rufite uburyo bwiza bwo kwerekana igihe n'imiterere y'igikorwa. Ibikorwa bishobora kuba biri kuba ubu, byarangiye cyangwa bizaba ejo. Verbu z'Ikinyarwanda zihindura inyuguti kugira ngo zerekane neza igihe cy'igikorwa.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The Kinyarwanda language has a complex system for showing tense and aspect in verbs. Actions can usually be placed in the present, past, or future. Kinyarwanda verbs change their forms to accurately indicate when an action takes place.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-24"
+  },
+  {
+   "id": "ai16_508d9dfb_q",
+   "label_rw": "Amagambo ahuza mu Kinyarwanda",
+   "label_en": "Conjunctions in Kinyarwanda",
+   "patterns_en": [
+    "What is the function of conjunctions in Kinyarwanda?",
+    "Which conjunctions are most commonly used?",
+    "Why are conjunctions important in writing?"
+   ],
+   "patterns_rw": [
+    "Amagambo ahuza akora iki mu Kinyarwanda?",
+    "Ni ayahe magambo ahuza akoreshwa cyane?",
+    "Kuki amagambo ahuza ari ingenzi mu nyandiko?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Amagambo ahuza mu Kinyarwanda ni imigaragarire y'indimi ikoreshwa mu guhuza interuro cyangwa amagambo. Ayo magambo afasha mu gutuma ibitekerezo bisobanuka neza kandi bikagira umurongo mwiza mu gihe cyo kuvuga cyangwa kwandika.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Conjunctions in Kinyarwanda are linguistic elements used to connect clauses, sentences, or words. These words help ensure that ideas are clearly expressed and flow logically during speech or writing.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-24"
   }
  ],
  "knowledge": [
@@ -12946,6 +13042,83 @@
     "back",
     "amavi",
     "knees"
+   ],
+   "auto": true,
+   "taught": "2026-11-24"
+  },
+  {
+   "id": "ai16_f2a75136",
+   "category": "language",
+   "title_rw": "Kubaza ibibazo mu Kinyarwanda",
+   "title_en": "Asking questions in Kinyarwanda",
+   "summary_rw": "Mu Kinyarwanda, kubaza ibibazo bikoresha amagambo yihariye nka 'nde', 'iki', cyangwa 'he'. Ishusho y'ijwi nayo irazamuka ku mpera y'ijambo kugira ngo byerekane ko ari ikibazo.",
+   "summary_en": "In Kinyarwanda, asking questions often uses specific interrogative words like who, what, or where. Voice intonation usually rises at the end of a sentence to indicate a question.",
+   "keywords": [
+    "kinyarwanda",
+    "language",
+    "grammar",
+    "questions",
+    "ururimi",
+    "ibibazo",
+    "amagambo"
+   ],
+   "auto": true,
+   "taught": "2026-11-24"
+  },
+  {
+   "id": "ai16_8d370e60",
+   "category": "language",
+   "title_rw": "Uko bita ibintu mu Kinyarwanda",
+   "title_en": "Kinyarwanda adjectives and description",
+   "summary_rw": "Mu Kinyarwanda, inshinga cyangwa amazina akoreshwa mu gusobanura ibintu bikurikira amoko y'ibyiciro by'inteko. Hari inteko zinyuranye zifasha kumenya uko ijambo rihinduka rikurikije izina risobanura. Ibi bifasha kuvuga neza no kumvikanisha ubwiza cyangwa ibindi biranga ikintu.",
+   "summary_en": "In Kinyarwanda, adjectives and descriptive words agree with the noun class of the subject. Different noun classes determine the grammatical prefixes used. This agreement system helps express qualities and descriptions accurately.",
+   "keywords": [
+    "kinyarwanda",
+    "adjectives",
+    "grammar",
+    "inteko",
+    "indimi",
+    "language",
+    "description"
+   ],
+   "auto": true,
+   "taught": "2026-11-24"
+  },
+  {
+   "id": "ai16_0d1c52b3",
+   "category": "language",
+   "title_rw": "Ibihe by'ibirimo mu Kinyarwanda",
+   "title_en": "Tense and aspect in Kinyarwanda verbs",
+   "summary_rw": "Ururimi rw'Ikinyarwanda rufite uburyo bwiza bwo kwerekana igihe n'imiterere y'igikorwa. Ibikorwa bishobora kuba biri kuba ubu, byarangiye cyangwa bizaba ejo. Verbu z'Ikinyarwanda zihindura inyuguti kugira ngo zerekane neza igihe cy'igikorwa.",
+   "summary_en": "The Kinyarwanda language has a complex system for showing tense and aspect in verbs. Actions can usually be placed in the present, past, or future. Kinyarwanda verbs change their forms to accurately indicate when an action takes place.",
+   "keywords": [
+    "ikinyarwanda",
+    "verbu",
+    "igihe",
+    "ururimi",
+    "grammar",
+    "verbs",
+    "tense",
+    "language"
+   ],
+   "auto": true,
+   "taught": "2026-11-24"
+  },
+  {
+   "id": "ai16_508d9dfb",
+   "category": "language",
+   "title_rw": "Amagambo ahuza mu Kinyarwanda",
+   "title_en": "Conjunctions in Kinyarwanda",
+   "summary_rw": "Amagambo ahuza mu Kinyarwanda ni imigaragarire y'indimi ikoreshwa mu guhuza interuro cyangwa amagambo. Ayo magambo afasha mu gutuma ibitekerezo bisobanuka neza kandi bikagira umurongo mwiza mu gihe cyo kuvuga cyangwa kwandika.",
+   "summary_en": "Conjunctions in Kinyarwanda are linguistic elements used to connect clauses, sentences, or words. These words help ensure that ideas are clearly expressed and flow logically during speech or writing.",
+   "keywords": [
+    "amagambo",
+    "ahuza",
+    "kinyarwanda",
+    "interuro",
+    "ururimi",
+    "conjunctions",
+    "grammar"
    ],
    "auto": true,
    "taught": "2026-11-24"
