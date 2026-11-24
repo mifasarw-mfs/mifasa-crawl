@@ -1,7 +1,87 @@
 {
  "day": "2026-11-24",
- "count": 77,
+ "count": 81,
  "articles": [
+  {
+   "id": "crawl_6c0n08",
+   "title": "Igitabu Papa Francis yandikamwo ivyo acamwo buri musi kigaragaza ibivugwa ko yabonye shetani incuro zitatu",
+   "summary": "Uwo Mwungere yemeza ko hamwe mu ho yaboneye shetani ari \"mu kibanza gitaramutse abaririmvyi baririmbiramwo\", mw'isengero.",
+   "link": "https://www.bbc.com/gahuza/articles/cwe9kxz4x320o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/cwe9kxz4x320o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T17:20:07.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6bfc/live/e3f9d920-e7f2-11f1-ab60-79086b6495b8.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6bfc/live/e3f9d920-e7f2-11f1-ab60-79086b6495b8.jpg",
+   "title_rw": "Igitabu Papa Francis yandikamwo ivyo acamwo buri musi kigaragaza ibivugwa ko yabonye shetani incuro zitatu",
+   "summary_rw": "Uwo Mwungere yemeza ko hamwe mu ho yaboneye shetani ari \"mu kibanza gitaramutse abaririmvyi baririmbiramwo\", mw'isengero.",
+   "share_id": "MN202611_6c0n08tjh2"
+  },
+  {
+   "id": "crawl_k6omh9",
+   "title": "Klopp advice and Iraola confidence boosts Wirtz",
+   "summary": "Florian Wirtz opens up on why it's the best he has felt since joining Liverpool.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c69w91k0j9zeo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c69w91k0j9zeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T17:19:08.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8c1/live/b4c97960-e826-11f1-93d4-6d580946ad80.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8c1/live/b4c97960-e826-11f1-93d4-6d580946ad80.jpg",
+   "title_en": "Klopp advice and Iraola confidence boosts Wirtz",
+   "summary_en": "Florian Wirtz opens up on why it's the best he has felt since joining Liverpool.",
+   "share_id": "MN202611_k6omh9gjvv"
+  },
+  {
+   "id": "crawl_171sce2",
+   "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
+   "summary": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
+   "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T17:04:20.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/982f/live/ca95f8e0-e82b-11f1-88dc-fb4bdfcec8cb.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/982f/live/ca95f8e0-e82b-11f1-88dc-fb4bdfcec8cb.jpg",
+   "title_en": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
+   "summary_en": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
+   "share_id": "MN202611_171sce2l8uw"
+  },
+  {
+   "id": "crawl_1xgf488",
+   "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
+   "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+   "link": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T17:04:00.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e688/live/d1155630-e820-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e688/live/d1155630-e820-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
+   "summary_en": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+   "share_id": "MN202611_1xgf48880p2"
+  },
   {
    "id": "crawl_198yxk0",
    "title": "FA chief signs NDA to view Fifa sell-off plot documents",
@@ -1573,5 +1653,5 @@
    "share_id": "MN202611_12o0ve6trv0"
   }
  ],
- "updated": "2026-11-24T16:39:42.261Z"
+ "updated": "2026-11-24T17:41:30.838Z"
 }
