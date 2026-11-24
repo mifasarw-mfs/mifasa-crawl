@@ -1,6 +1,6 @@
 {
  "day": "2026-11-23",
- "count": 105,
+ "count": 106,
  "articles": [
   {
    "id": "crawl_vzv0jc",
@@ -630,6 +630,26 @@
    "title_en": "Hibs boss Reedijk rejects talk of Easter Road jinx",
    "summary_en": "Hibernian manager Marink Reedijk rejects suggestions Easter Road is jinxed after going seven months without a home win in the Premiership.",
    "share_id": "MN202611_t4ov7ogsma"
+  },
+  {
+   "id": "crawl_178adss",
+   "title": "How important are Nvidia and Jensen Huang to the US economy?",
+   "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+   "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T16:12:35.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
+   "title_en": "How important are Nvidia and Jensen Huang to the US economy?",
+   "summary_en": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+   "share_id": "MN202611_178adss3a9m"
   },
   {
    "id": "crawl_9twp3o",
@@ -2150,5 +2170,5 @@
    "share_id": "MN202611_1dt5tu0xy3q"
   }
  ],
- "updated": "2026-11-24T14:55:56.569Z"
+ "updated": "2026-11-24T16:54:40.490Z"
 }
