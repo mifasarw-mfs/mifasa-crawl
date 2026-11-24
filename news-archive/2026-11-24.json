@@ -1,7 +1,27 @@
 {
  "day": "2026-11-24",
- "count": 91,
+ "count": 94,
  "articles": [
+  {
+   "id": "crawl_f8njjg",
+   "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
+   "summary": "Manchester United and Mauricio Pochettino are furious at how Leny Yoro's red card has been handled by VAR John Brooks and referees' chief Howard Webb",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T21:27:13.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5078/live/783a6be0-e848-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5078/live/783a6be0-e848-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Pochettino leads Man Utd fury at Yoro red card ruling",
+   "summary_en": "Manchester United and Mauricio Pochettino are furious at how Leny Yoro's red card has been handled by VAR John Brooks and referees' chief Howard Webb",
+   "share_id": "MN202611_f8njjgjix6"
+  },
   {
    "id": "crawl_fotdg",
    "title": "Oxford beat Spurs U21s to seal EFL Trophy progress",
@@ -41,6 +61,26 @@
    "title_en": "Tech Life",
    "summary_en": "Experts from around the world plot the progress of AI development every five years.",
    "share_id": "MN202611_1algblv9g4h"
+  },
+  {
+   "id": "crawl_jz7zlq",
+   "title": "Tech Life",
+   "summary": "Experts from around the world plot the progress of AI development every five years.",
+   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T21:00:00.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ppq4sx.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0ppq4sx.jpg",
+   "title_en": "Tech Life",
+   "summary_en": "Experts from around the world plot the progress of AI development every five years.",
+   "share_id": "MN202611_jz7zlqz998"
   },
   {
    "id": "crawl_udta8j",
@@ -101,6 +141,26 @@
    "title_en": "Will I get the £100 energy payment and when will I receive it?",
    "summary_en": "Here is what you need to know about the payment that millions will receive from January.",
    "share_id": "MN202611_rofhs38e8x"
+  },
+  {
+   "id": "crawl_1vwnt8h",
+   "title": "Substance released at concert could be linked to robberies, police say",
+   "summary": "Police are investigating a possible link between the Co-op Live evacuation and reported robberies.",
+   "link": "https://www.bbc.co.uk/news/articles/cqrmgvnzwrm3o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqrmgvnzwrm3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T20:10:14.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/887f/live/11589370-e83e-11f1-917e-35f1674fb52c.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/887f/live/11589370-e83e-11f1-917e-35f1674fb52c.png",
+   "title_en": "Substance released at concert could be linked to robberies, police say",
+   "summary_en": "Police are investigating a possible link between the Co-op Live evacuation and reported robberies.",
+   "share_id": "MN202611_1vwnt8hgppb"
   },
   {
    "id": "crawl_8w10or",
@@ -1853,5 +1913,5 @@
    "share_id": "MN202611_12o0ve6trv0"
   }
  ],
- "updated": "2026-11-24T21:22:46.753Z"
+ "updated": "2026-11-24T21:47:27.231Z"
 }
