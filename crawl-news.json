@@ -1,11 +1,31 @@
 [
  {
-  "id": "crawl_1tygcar",
-  "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-  "summary": "The verdict follows a months-long trial in New York.",
-  "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-24T20:41:54.000Z",
+  "id": "crawl_fotdg",
+  "title": "Oxford beat Spurs U21s to seal EFL Trophy progress",
+  "summary": "Aaron Ramsey's Oxford United beat Tottenham Under-21s to secure one of the final two Jersey Mike's Trophy knockout spots.",
+  "link": "https://www.bbc.co.uk/sport/football/articles/cmx20qn1dqv2o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cmx20qn1dqv2o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-24T21:08:09.000Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2d0/live/80390010-e846-11f1-aa88-031e8213533d.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2d0/live/80390010-e846-11f1-aa88-031e8213533d.jpg",
+  "title_en": "Oxford beat Spurs U21s to seal EFL Trophy progress",
+  "summary_en": "Aaron Ramsey's Oxford United beat Tottenham Under-21s to secure one of the final two Jersey Mike's Trophy knockout spots.",
+  "share_id": "MN202611_fotdgksr6"
+ },
+ {
+  "id": "crawl_1algblv",
+  "title": "Tech Life",
+  "summary": "Experts from around the world plot the progress of AI development every five years.",
+  "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyx?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyx?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-24T21:00:00.000Z",
   "source": "BBC Technology",
   "category": "tech",
   "lang": "en",
@@ -13,8 +33,48 @@
    "BBC Technology",
    "tech"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+  "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ppq4sx.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0ppq4sx.jpg",
+  "title_en": "Tech Life",
+  "summary_en": "Experts from around the world plot the progress of AI development every five years.",
+  "share_id": "MN202611_1algblv9g4h"
+ },
+ {
+  "id": "crawl_udta8j",
+  "title": "Man Utd target Collins - Wednesday's gossip",
+  "summary": "Manchester United target Brentford defender Nathan Collins, Bournemouth price forward Eli Junior Kroupi at £100m and Liverpool close in on new Rio Ngumoha contract.",
+  "link": "https://www.bbc.co.uk/sport/football/articles/cm15en5je9eko?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cm15en5je9eko?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-24T20:51:44.000Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d34b/live/8ee6d700-e840-11f1-a094-5fdc692f3e33.png",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d34b/live/8ee6d700-e840-11f1-a094-5fdc692f3e33.png",
+  "title_en": "Man Utd target Collins - Wednesday's gossip",
+  "summary_en": "Manchester United target Brentford defender Nathan Collins, Bournemouth price forward Eli Junior Kroupi at £100m and Liverpool close in on new Rio Ngumoha contract.",
+  "share_id": "MN202611_udta8jl7n5"
+ },
+ {
+  "id": "crawl_1tygcar",
+  "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+  "summary": "The verdict follows a months-long trial in New York.",
+  "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-24T20:41:54.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
   "title_en": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
   "summary_en": "The verdict follows a months-long trial in New York.",
   "share_id": "MN202611_1tygcar98rl"
@@ -2026,12 +2086,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-24T00:02:15.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Africa",
+  "category": "news",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Africa",
+   "news"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2542/live/90680630-e737-11f1-99a1-253766e7ad8b.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2542/live/90680630-e737-11f1-99a1-253766e7ad8b.jpg",
@@ -17044,74 +17104,5 @@
   "title_en": "Uganda and Petroleum Tycoon Dangote Explore Crude Oil Supply Prospects",
   "summary_en": "The government of Uganda is courting Africa’s richest man Alhaji Aliko Dangote to consider a host of Partnerships in the country’s oil ventures. President Yoweri Museveni and Dangote on Tuesday held discussions on several investment opportunities across energy, petroleum, agriculture and mining. “We also discussed possible investment in the fertiliser industry to ensure regional food […] The post…",
   "share_id": "MN202611_1nz5jdkxgl2"
- },
- {
-  "id": "crawl_8txf79",
-  "title": "Ireland fly-half Prendergast cleared to face South Africa",
-  "summary": "Ireland fly-half Sam Prendergast successfully appeals against citing to make himself available to face South Africa on Saturday.",
-  "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm5y16g1ly0zo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm5y16g1ly0zo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-18T09:22:06.000Z",
-  "source": "BBC Sport Africa",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Sport Africa",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62c0/live/6695aba0-e336-11f1-9479-d17d3e98c29d.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62c0/live/6695aba0-e336-11f1-9479-d17d3e98c29d.jpg",
-  "title_en": "Ireland fly-half Prendergast cleared to face South Africa",
-  "summary_en": "Ireland fly-half Sam Prendergast successfully appeals against citing to make himself available to face South Africa on Saturday.",
-  "share_id": "MN202611_8txf79m1jn"
- },
- {
-  "id": "crawl_mfya2g",
-  "title": "Nyuma yuko serivisi nyinshi z'ikoranabuhanga zihagaze, Rubio avuga ko Amerika itagabweho 'igitero kigambiriwe'",
-  "summary": "Minisitiri w'ububanyi n'amahanga w'Amerika yavuze ko hari \"gihamya zeru\" yo kwemeza ibivugwa ku mbuga za internet ko ihungabana riherutse kuba ryibasiye Microsoft, banki n'ingendo z'indege rifitanye isano.",
-  "link": "https://www.bbc.com/gahuza/articles/cmn80y6vpjgjo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.com/gahuza/articles/cmn80y6vpjgjo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-18T09:10:10.000Z",
-  "source": "BBC Gahuza",
-  "category": "news",
-  "lang": "rw",
-  "keywords": [
-   "BBC Gahuza",
-   "news"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5dde/live/dee0de10-e325-11f1-baab-4b3b35d174b7.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5dde/live/dee0de10-e325-11f1-baab-4b3b35d174b7.jpg",
-  "title_rw": "Nyuma yuko serivisi nyinshi z'ikoranabuhanga zihagaze, Rubio avuga ko Amerika itagabweho 'igitero kigambiriwe'",
-  "summary_rw": "Minisitiri w'ububanyi n'amahanga w'Amerika yavuze ko hari \"gihamya zeru\" yo kwemeza ibivugwa ku mbuga za internet ko ihungabana riherutse kuba ryibasiye Microsoft, banki n'ingendo z'indege rifitanye isano.",
-  "share_id": "MN202611_mfya2gr6ja"
- },
- {
-  "id": "crawl_vnxx22",
-  "title": "NOOB vs PRO: ELECTRONIC STORE BUILD CHALLENGE",
-  "summary": "Today, we're having an electronic store competition! We'll compete to see who's store is the most successful! JJ's focus is high quality products and customer experiences, while Mikey's focus in on super low prices! Who's store would you want to shop at? We hope you enjoy our videos! Have a great day! Maizen Merchandise ► https://shop-maizen.myspreadshop.com/",
-  "link": "https://www.youtube.com/watch?v=9reQNmApNcg",
-  "url": "https://www.youtube.com/watch?v=9reQNmApNcg",
-  "date": "2026-11-18T08:51:04.000Z",
-  "source": "YouTube Trending Kenya",
-  "category": "entertainment",
-  "lang": "en",
-  "keywords": [
-   "YouTube Trending Kenya",
-   "entertainment",
-   "trending",
-   "Minecraft",
-   "Maizen",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "9reQNmApNcg"
-  },
-  "type": "video",
-  "image": "https://i.ytimg.com/vi/9reQNmApNcg/hqdefault.jpg",
-  "thumbnail": "https://i.ytimg.com/vi/9reQNmApNcg/hqdefault.jpg",
-  "title_en": "NOOB vs PRO: ELECTRONIC STORE BUILD CHALLENGE",
-  "summary_en": "Today, we're having an electronic store competition! We'll compete to see who's store is the most successful! JJ's focus is high quality products and customer experiences, while Mikey's focus in on super low prices! Who's store would you want to shop at? We hope you enjoy our videos! Have a great day! Maizen Merchandise ► https://shop-maizen.myspreadshop.com/",
-  "share_id": "MN202611_vnxx22tzw8"
  }
 ]
