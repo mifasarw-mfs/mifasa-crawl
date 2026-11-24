@@ -1,7 +1,87 @@
 {
  "day": "2026-11-24",
- "count": 43,
+ "count": 49,
  "articles": [
+  {
+   "id": "crawl_yd2iax",
+   "title": "Non-league player injured falling down badger hole",
+   "summary": "Cav Miley missed Chelmsford City's draw with Walton and Hersham after spraining an ankle falling down a badger hole.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw0k636m0vr3o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cw0k636m0vr3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T12:31:12.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da19/live/dba64620-e7ff-11f1-99a1-253766e7ad8b.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da19/live/dba64620-e7ff-11f1-99a1-253766e7ad8b.png",
+   "title_en": "Non-league player injured falling down badger hole",
+   "summary_en": "Cav Miley missed Chelmsford City's draw with Walton and Hersham after spraining an ankle falling down a badger hole.",
+   "share_id": "MN202611_yd2iaxufpj"
+  },
+  {
+   "id": "crawl_18bjhum",
+   "title": "Palace docked points for using four sub windows in win",
+   "summary": "Crystal Palace say they are \"disappointed\" by the ruling which they \"do not agree is reasonable or proportionate\".",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c8wy5vy160kpo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c8wy5vy160kpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T12:14:19.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3050/live/a5fbf0d0-e7fd-11f1-ab60-79086b6495b8.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3050/live/a5fbf0d0-e7fd-11f1-ab60-79086b6495b8.jpg",
+   "title_en": "Palace docked points for using four sub windows in win",
+   "summary_en": "Crystal Palace say they are \"disappointed\" by the ruling which they \"do not agree is reasonable or proportionate\".",
+   "share_id": "MN202611_18bjhumbf98"
+  },
+  {
+   "id": "crawl_11eyceh",
+   "title": "Badger cull ruled out by Welsh government after speculation",
+   "summary": "Plaid Cymru ministers rule out mass badger cull as part of new plans to tackle bovine tuberculosis.",
+   "link": "https://www.bbc.co.uk/news/articles/cm930yjy97xyo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm930yjy97xyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T12:01:32.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa52/live/37d695d0-e800-11f1-ab60-79086b6495b8.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa52/live/37d695d0-e800-11f1-ab60-79086b6495b8.jpg",
+   "title_en": "Badger cull ruled out by Welsh government after speculation",
+   "summary_en": "Plaid Cymru ministers rule out mass badger cull as part of new plans to tackle bovine tuberculosis.",
+   "share_id": "MN202611_11eycehr8vb"
+  },
+  {
+   "id": "crawl_22go08",
+   "title": "Car bomb tears through Colombian city wounding more than 20",
+   "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
+   "link": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T11:45:52.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d18/live/326608e0-e7e9-11f1-8b26-c1adae33e7f2.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d18/live/326608e0-e7e9-11f1-8b26-c1adae33e7f2.jpg",
+   "title_en": "Car bomb tears through Colombian city wounding more than 20",
+   "summary_en": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
+   "share_id": "MN202611_22go08dmg6"
+  },
   {
    "id": "crawl_1xx25b4",
    "title": "Storms targeting both US coasts threaten to snarl Thanksgiving travel for millions",
@@ -122,6 +202,26 @@
    "title_rw": "Igitero ku bwato bw'Uburusiya muri Libya coba kivuga iki ku ntambara yo muri Ukraine?",
    "summary_rw": "Igitero ca Ukraine ku bwato bw’intambara bw’Uburusiya ku kivuko co muri Libya congereje ubukana bw’iyi ntambara, nk’uko vyanditswe na Frank Gardner.",
    "share_id": "MN202611_17pw3f6ozw0"
+  },
+  {
+   "id": "crawl_7pdtyv",
+   "title": "Pope Francis' diary reveals claims he saw the devil three times",
+   "summary": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
+   "link": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T11:10:57.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bfc/live/e3f9d920-e7f2-11f1-ab60-79086b6495b8.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bfc/live/e3f9d920-e7f2-11f1-ab60-79086b6495b8.jpg",
+   "title_en": "Pope Francis' diary reveals claims he saw the devil three times",
+   "summary_en": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
+   "share_id": "MN202611_7pdtyv6qfp"
   },
   {
    "id": "crawl_14lrb6g",
@@ -406,6 +506,27 @@
    "title_en": "DR Congo says aircraft missing as rebels claim to shoot down plane",
    "summary_en": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
    "share_id": "MN202611_mmiqhobmyi"
+  },
+  {
+   "id": "crawl_jroe1z",
+   "title": "Senegal Declared Rightful AFCON 2025 Champions",
+   "summary": "Senegal are the rightful Champions of Africa Cup of Nations 2025 and not Morocco, the Court of Arbitration for Sports has overruled. Prof. Ulrich Haas, the President of the Court of Arbitration for Sports Panel in Lausanne, Switzerland announced the ruling on Tuesday. The ruling brings an end to the controversies surrounding the AFCON final […] The post Senegal Declared Rightful AFCON 2025…",
+   "link": "https://taarifa.rw/2026/11/24/senegal-declared-rightful-afcon-2025-champions/",
+   "url": "https://taarifa.rw/2026/11/24/senegal-declared-rightful-afcon-2025-champions/",
+   "date": "2026-11-24T08:34:29.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "Sports"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261124-140253.jpg?fit=720%2C457&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261124-140253.jpg?fit=720%2C457&ssl=1",
+   "title_en": "Senegal Declared Rightful AFCON 2025 Champions",
+   "summary_en": "Senegal are the rightful Champions of Africa Cup of Nations 2025 and not Morocco, the Court of Arbitration for Sports has overruled. Prof. Ulrich Haas, the President of the Court of Arbitration for Sports Panel in Lausanne, Switzerland announced the ruling on Tuesday. The ruling brings an end to the controversies surrounding the AFCON final […] The post Senegal Declared Rightful AFCON 2025…",
+   "share_id": "MN202611_jroe1zl151"
   },
   {
    "id": "crawl_1g3ssbz",
@@ -879,5 +1000,5 @@
    "share_id": "MN202611_12o0ve6trv0"
   }
  ],
- "updated": "2026-11-24T11:49:36.019Z"
+ "updated": "2026-11-24T12:46:14.374Z"
 }
