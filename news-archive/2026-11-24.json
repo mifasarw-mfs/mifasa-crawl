@@ -1,7 +1,27 @@
 {
  "day": "2026-11-24",
- "count": 87,
+ "count": 88,
  "articles": [
+  {
+   "id": "crawl_1tygcar",
+   "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+   "summary": "The verdict follows a months-long trial in New York.",
+   "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T20:41:54.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+   "title_en": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+   "summary_en": "The verdict follows a months-long trial in New York.",
+   "share_id": "MN202611_1tygcar98rl"
+  },
   {
    "id": "crawl_rofhs3",
    "title": "Will I get the £100 energy payment and when will I receive it?",
@@ -1773,5 +1793,5 @@
    "share_id": "MN202611_12o0ve6trv0"
   }
  ],
- "updated": "2026-11-24T20:27:12.115Z"
+ "updated": "2026-11-24T20:44:40.537Z"
 }

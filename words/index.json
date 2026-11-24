@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-24T19:54:56.888Z",
+ "updated": "2026-11-24T20:44:41.924Z",
  "letters": {
   "a": {
-   "words": 700,
+   "words": 701,
    "defined": 147
   },
   "b": {
@@ -30,7 +30,7 @@
    "defined": 40
   },
   "h": {
-   "words": 298,
+   "words": 299,
    "defined": 45
   },
   "i": {
@@ -70,11 +70,11 @@
    "defined": 4
   },
   "r": {
-   "words": 551,
+   "words": 553,
    "defined": 92
   },
   "s": {
-   "words": 715,
+   "words": 717,
    "defined": 166
   },
   "t": {
@@ -106,6 +106,6 @@
    "defined": 2
   }
  },
- "total": 8841,
+ "total": 8847,
  "defined": 1500
 }
