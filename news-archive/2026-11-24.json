@@ -1,7 +1,49 @@
 {
  "day": "2026-11-24",
- "count": 63,
+ "count": 65,
  "articles": [
+  {
+   "id": "crawl_17tlv9d",
+   "title": "U Rwanda rweretse Afurika urugendo rw'uburezi mu kuziba icyuho mu isi y'ubwenge buhangano",
+   "summary": "Raporo ikomeye ku burezi muri Afurika yashimye gahunda y’u Rwanda yo gufasha abanyeshuri kugera ku rwego rukwiye rw’ubumenyi, kwigisha porogaramu za mudasobwa n’ubwenge buhangano (AI), ndetse (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/u-rwanda-rweretse-afurika-urugendo-rw-uburezi-mu-kuziba-icyuho-mu-isi-y-ubwenge-buhangano",
+   "url": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/u-rwanda-rweretse-afurika-urugendo-rw-uburezi-mu-kuziba-icyuho-mu-isi-y-ubwenge-buhangano",
+   "date": "2026-11-24T15:22:47.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu mahanga",
+    "MobileBigStory"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-24_at_16.04_15.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-24_at_16.04_15.jpg",
+   "title_rw": "U Rwanda rweretse Afurika urugendo rw'uburezi mu kuziba icyuho mu isi y'ubwenge buhangano",
+   "summary_rw": "Raporo ikomeye ku burezi muri Afurika yashimye gahunda y’u Rwanda yo gufasha abanyeshuri kugera ku rwego rukwiye rw’ubumenyi, kwigisha porogaramu za mudasobwa n’ubwenge buhangano (AI), ndetse (…)",
+   "share_id": "MN202611_17tlv9dmu1r"
+  },
+  {
+   "id": "crawl_6b0jca",
+   "title": "Land mine casualties soar in Syria, two years after war",
+   "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+   "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T15:17:28.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf76/live/b1401ed0-e816-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf76/live/b1401ed0-e816-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "Land mine casualties soar in Syria, two years after war",
+   "summary_en": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+   "share_id": "MN202611_6b0jcatft4"
+  },
   {
    "id": "crawl_50moo8",
    "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
@@ -1286,5 +1328,5 @@
    "share_id": "MN202611_12o0ve6trv0"
   }
  ],
- "updated": "2026-11-24T14:55:56.567Z"
+ "updated": "2026-11-24T15:30:30.468Z"
 }
