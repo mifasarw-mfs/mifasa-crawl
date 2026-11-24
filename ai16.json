@@ -7194,6 +7194,78 @@
    ],
    "auto": true,
    "taught": "2026-11-24"
+  },
+  {
+   "id": "ai16_42e9ea28_q",
+   "label_rw": "Isoko ry'Ibicuruzwa By'ibanze n'Imari y'Ubucuruzi",
+   "label_en": "Commodity Markets and Trade Finance",
+   "patterns_en": [
+    "What is a commodity market?",
+    "How does trade finance help merchants?",
+    "What are the benefits of using trade finance?"
+   ],
+   "patterns_rw": [
+    "Ni iki gisobanuro cy'isoko ry'ibicuruzwa by'ibanze?",
+    "Imari y'ubucuruzi ifasha ute abacuruzi?",
+    "Ni izihe nyungu zo gukoresha imari y'ubucuruzi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Isoko ry'ibicuruzwa by'ibanze ni ahantu hagurishwa ibintu nka peteroli, zahabu n'ibicuruzwa by'ubuhinzi. Imari y'ubucuruzi itanga inguzanyo n'uburyo bwo kwishyura bufasha abacuruzi kugura no kugurisha ibyo bicuruzwa mpuzamahanga hatabayeho kwitega ibyago byinshi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Commodity markets are platforms where raw materials like oil, gold, and agricultural products are bought and sold. Trade finance provides credit and payment mechanisms that help merchants buy and sell these goods internationally while reducing financial risks.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-24"
+  },
+  {
+   "id": "ai16_5a62044a_q",
+   "label_rw": "Ubugenzuzi bw'Imari n'Inshingano z'Imari y'Umuntu Ku Giti Cy",
+   "label_en": "Auditing and Personal Financial Accountability",
+   "patterns_en": [
+    "Why is personal financial auditing important?",
+    "How can you keep track of your personal financial records?",
+    "How does financial accountability help avoid debt?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma ubugenzuzi bw'imari bw'umuntu ku giti cye ari ngombwa?",
+    "Wafata ute inyandiko z'imari yawe bwite?",
+    "Ese kugenzura imari bifasha ute mu kwirinda imyenda?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubugenzuzi bw'imari bufasha kumenya uko amafaranga akoreshwa neza. Buri muntu agomba kugira uruhare mu kugenzura imari ye kugira ngo agere ku ntego ze z'ubukungu. Gufata neza inyandiko z'imari bituma umuntu amenya aho amafaranga ye ajya kandi bikamurinda imyenda. Ibi bituma agira ubuzima bwiza bw'imari.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Financial auditing helps ensure that money is used properly. Every individual must take responsibility for managing their personal finances to achieve their economic goals. Keeping accurate financial records allows people to track their spending and avoid debt. This promotes overall financial well-weing.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-24"
+  },
+  {
+   "id": "ai16_04b91b7e_q",
+   "label_rw": "Amatsinda y'Isoramari Rusange",
+   "label_en": "Mutual Funds and Collective Investment Schemes",
+   "patterns_en": [
+    "How do mutual funds work?",
+    "Who manages collective investment schemes?",
+    "How are returns distributed to investors?"
+   ],
+   "patterns_rw": [
+    "Isoramari rusange rikora ryari?",
+    "Ni bande bayobora isoramari rusange?",
+    "Inyungu zitunganywa zite mu isoramari rusange?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Isoramari rusange ni uburyo abantu benshi bateranya amafaranga yabo ngo ashorwe mu bikorwa bitandukanye. Ibi bikorwa n'abahanga mu by'imari kugira ngo bunguke bakanagabanya ibyago byo guhomba. Abashoramari bagabana inyungu cyangwa igihombo bitewe n'umugabane buri wese yatanze.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "A mutual fund pools money from many investors to purchase a diversified portfolio of assets. Professional managers oversee the investments to generate returns and minimize risk. Investors share profits or losses in proportion to their holdings.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-24"
   }
  ],
  "knowledge": [
@@ -13119,6 +13191,65 @@
     "ururimi",
     "conjunctions",
     "grammar"
+   ],
+   "auto": true,
+   "taught": "2026-11-24"
+  },
+  {
+   "id": "ai16_42e9ea28",
+   "category": "finance",
+   "title_rw": "Isoko ry'Ibicuruzwa By'ibanze n'Imari y'Ubucuruzi",
+   "title_en": "Commodity Markets and Trade Finance",
+   "summary_rw": "Isoko ry'ibicuruzwa by'ibanze ni ahantu hagurishwa ibintu nka peteroli, zahabu n'ibicuruzwa by'ubuhinzi. Imari y'ubucuruzi itanga inguzanyo n'uburyo bwo kwishyura bufasha abacuruzi kugura no kugurisha ibyo bicuruzwa mpuzamahanga hatabayeho kwitega ibyago byinshi.",
+   "summary_en": "Commodity markets are platforms where raw materials like oil, gold, and agricultural products are bought and sold. Trade finance provides credit and payment mechanisms that help merchants buy and sell these goods internationally while reducing financial risks.",
+   "keywords": [
+    "isoko",
+    "ibicuruzwa",
+    "imari",
+    "ubucuruzi",
+    "market",
+    "commodity",
+    "finance",
+    "trade"
+   ],
+   "auto": true,
+   "taught": "2026-11-24"
+  },
+  {
+   "id": "ai16_5a62044a",
+   "category": "finance",
+   "title_rw": "Ubugenzuzi bw'Imari n'Inshingano z'Imari y'Umuntu Ku Giti Cye",
+   "title_en": "Auditing and Personal Financial Accountability",
+   "summary_rw": "Ubugenzuzi bw'imari bufasha kumenya uko amafaranga akoreshwa neza. Buri muntu agomba kugira uruhare mu kugenzura imari ye kugira ngo agere ku ntego ze z'ubukungu. Gufata neza inyandiko z'imari bituma umuntu amenya aho amafaranga ye ajya kandi bikamurinda imyenda. Ibi bituma agira ubuzima bwiza bw'imari.",
+   "summary_en": "Financial auditing helps ensure that money is used properly. Every individual must take responsibility for managing their personal finances to achieve their economic goals. Keeping accurate financial records allows people to track their spending and avoid debt. This promotes overall financial well-weing.",
+   "keywords": [
+    "imari",
+    "ubugenzuzi",
+    "ubukungu",
+    "ishyirwa",
+    "finance",
+    "audit",
+    "accountability",
+    "money"
+   ],
+   "auto": true,
+   "taught": "2026-11-24"
+  },
+  {
+   "id": "ai16_04b91b7e",
+   "category": "finance",
+   "title_rw": "Amatsinda y'Isoramari Rusange",
+   "title_en": "Mutual Funds and Collective Investment Schemes",
+   "summary_rw": "Isoramari rusange ni uburyo abantu benshi bateranya amafaranga yabo ngo ashorwe mu bikorwa bitandukanye. Ibi bikorwa n'abahanga mu by'imari kugira ngo bunguke bakanagabanya ibyago byo guhomba. Abashoramari bagabana inyungu cyangwa igihombo bitewe n'umugabane buri wese yatanze.",
+   "summary_en": "A mutual fund pools money from many investors to purchase a diversified portfolio of assets. Professional managers oversee the investments to generate returns and minimize risk. Investors share profits or losses in proportion to their holdings.",
+   "keywords": [
+    "isoramari",
+    "amafaranga",
+    "ubukungu",
+    "inyungu",
+    "mutual funds",
+    "investment",
+    "finance"
    ],
    "auto": true,
    "taught": "2026-11-24"
