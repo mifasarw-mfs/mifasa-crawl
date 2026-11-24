@@ -1,7 +1,67 @@
 {
  "day": "2026-11-24",
- "count": 16,
+ "count": 20,
  "articles": [
+  {
+   "id": "crawl_se31q2",
+   "title": "First Children's Booker prize reveals shortlist - and its child judges",
+   "summary": "The eight books in contention include War by Artemis Fowl author Eoin Colfer and Andrew Donkin.",
+   "link": "https://www.bbc.co.uk/news/articles/c65y18gl23gko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c65y18gl23gko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T07:29:37.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/693c/live/38716690-e74d-11f1-88dc-f746e0cde621.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/693c/live/38716690-e74d-11f1-88dc-f746e0cde621.jpg",
+   "title_en": "First Children's Booker prize reveals shortlist - and its child judges",
+   "summary_en": "The eight books in contention include War by Artemis Fowl author Eoin Colfer and Andrew Donkin.",
+   "share_id": "MN202611_se31q2vy6w"
+  },
+  {
+   "id": "crawl_1uvlplo",
+   "title": "What China's Xi could take away from Jensen Huang's return to Nvidia",
+   "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+   "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T07:26:27.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47a8/live/2d61caf0-e7d5-11f1-939f-471cde339c0e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47a8/live/2d61caf0-e7d5-11f1-939f-471cde339c0e.jpg",
+   "title_en": "What China's Xi could take away from Jensen Huang's return to Nvidia",
+   "summary_en": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+   "share_id": "MN202611_1uvlploem2i"
+  },
+  {
+   "id": "crawl_1ka5iwk",
+   "title": "Why has De Bruyne struggled at Napoli as he returns to Man City?",
+   "summary": "Kevin de Bruyne's move to Napoli last summer was supposed to mark a continuation of his glittering decade at Manchester City as he approaches the twilight years of his career.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqglreexkk06o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqglreexkk06o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T06:57:16.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20b6/live/837998e0-e745-11f1-88dc-f746e0cde621.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20b6/live/837998e0-e745-11f1-88dc-f746e0cde621.jpg",
+   "title_en": "Why has De Bruyne struggled at Napoli as he returns to Man City?",
+   "summary_en": "Kevin de Bruyne's move to Napoli last summer was supposed to mark a continuation of his glittering decade at Manchester City as he approaches the twilight years of his career.",
+   "share_id": "MN202611_1ka5iwkxgb6"
+  },
   {
    "id": "crawl_1mr52wz",
    "title": "Two goals in 15 games - what's going on with Gyokeres?",
@@ -270,6 +330,26 @@
    "share_id": "MN202611_rdrjrho6uj"
   },
   {
+   "id": "crawl_4q3t9w",
+   "title": "Britain's landlords are getting bigger. A two-tier rental market may follow",
+   "summary": "Increasing numbers of corporate landlords could usher in big changes for renters",
+   "link": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T00:28:48.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/247a/live/f0d58200-e4d4-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/247a/live/f0d58200-e4d4-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Britain's landlords are getting bigger. A two-tier rental market may follow",
+   "summary_en": "Increasing numbers of corporate landlords could usher in big changes for renters",
+   "share_id": "MN202611_4q3t9wwpqq"
+  },
+  {
    "id": "crawl_hk54sz",
    "title": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
    "summary": "South African communities tell the BBC of measures they're taking to keep women safe after a wave of horrific killings.",
@@ -330,5 +410,5 @@
    "share_id": "MN202611_12o0ve6trv0"
   }
  ],
- "updated": "2026-11-24T06:56:45.408Z"
+ "updated": "2026-11-24T07:59:22.084Z"
 }
