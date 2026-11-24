@@ -1,7 +1,107 @@
 {
  "day": "2026-11-24",
- "count": 25,
+ "count": 30,
  "articles": [
+  {
+   "id": "crawl_auw2om",
+   "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
+   "summary": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
+   "link": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T09:33:00.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18ae/live/af1ca360-e7e6-11f1-8b26-c1adae33e7f2.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18ae/live/af1ca360-e7e6-11f1-8b26-c1adae33e7f2.jpg",
+   "title_en": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
+   "summary_en": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
+   "share_id": "MN202611_auw2omoz5g"
+  },
+  {
+   "id": "crawl_1h3gt8s",
+   "title": "'Urgent action' needed to protect lake",
+   "summary": "Tourism and outdated septic tanks are said to be adding to the ecological decline of Buttermere.",
+   "link": "https://www.bbc.co.uk/news/articles/cr78271e5j91o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cr78271e5j91o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T09:10:43.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c802/live/49133f20-e764-11f1-b407-33329b1ec67a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c802/live/49133f20-e764-11f1-b407-33329b1ec67a.jpg",
+   "title_en": "'Urgent action' needed to protect lake",
+   "summary_en": "Tourism and outdated septic tanks are said to be adding to the ecological decline of Buttermere.",
+   "share_id": "MN202611_1h3gt8s9ppm"
+  },
+  {
+   "id": "crawl_t2125a",
+   "title": "The youngest Premier League goalscorers this season",
+   "summary": "After the stellar performances of Liverpool's Rio Ngumoha and Tottenham's Luca Williams-Barnett, BBC Sport looks at the youngest players to score in the Premier League this season.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T09:10:34.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/329e/live/957cac80-e7c7-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/329e/live/957cac80-e7c7-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "The youngest Premier League goalscorers this season",
+   "summary_en": "After the stellar performances of Liverpool's Rio Ngumoha and Tottenham's Luca Williams-Barnett, BBC Sport looks at the youngest players to score in the Premier League this season.",
+   "share_id": "MN202611_t2125aedmk"
+  },
+  {
+   "id": "crawl_pevx9q",
+   "title": "Watch: Moment troops raid home and capture Mexican drug lord",
+   "summary": "Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years.",
+   "link": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T09:09:41.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d08/live/65108220-e7df-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d08/live/65108220-e7df-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Watch: Moment troops raid home and capture Mexican drug lord",
+   "summary_en": "Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years.",
+   "share_id": "MN202611_pevx9qskcs"
+  },
+  {
+   "id": "crawl_3f4dng",
+   "title": "Barnet forward Noel-Williams charged with rape",
+   "summary": "Isiah Noel-Williams, from St Albans, is remanded in custody charged with three rape offences.",
+   "link": "https://www.bbc.co.uk/news/articles/c8dx1v361vw7o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c8dx1v361vw7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T08:50:17.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dc1/live/d2d49100-e7e1-11f1-82bb-6b3be4dcbf70.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dc1/live/d2d49100-e7e1-11f1-82bb-6b3be4dcbf70.jpg",
+   "title_en": "Barnet forward Noel-Williams charged with rape",
+   "summary_en": "Isiah Noel-Williams, from St Albans, is remanded in custody charged with three rape offences.",
+   "share_id": "MN202611_3f4dngxa4a"
+  },
   {
    "id": "crawl_s0c92t",
    "title": "Meya wacu ni nde?",
@@ -515,5 +615,5 @@
    "share_id": "MN202611_12o0ve6trv0"
   }
  ],
- "updated": "2026-11-24T08:57:04.163Z"
+ "updated": "2026-11-24T09:40:27.427Z"
 }

@@ -1,5 +1,85 @@
 [
  {
+  "id": "crawl_auw2om",
+  "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
+  "summary": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
+  "link": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-24T09:33:00.000Z",
+  "source": "BBC Technology",
+  "category": "tech",
+  "lang": "en",
+  "keywords": [
+   "BBC Technology",
+   "tech"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18ae/live/af1ca360-e7e6-11f1-8b26-c1adae33e7f2.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18ae/live/af1ca360-e7e6-11f1-8b26-c1adae33e7f2.jpg",
+  "title_en": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
+  "summary_en": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
+  "share_id": "MN202611_auw2omoz5g"
+ },
+ {
+  "id": "crawl_1h3gt8s",
+  "title": "'Urgent action' needed to protect lake",
+  "summary": "Tourism and outdated septic tanks are said to be adding to the ecological decline of Buttermere.",
+  "link": "https://www.bbc.co.uk/news/articles/cr78271e5j91o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cr78271e5j91o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-24T09:10:43.000Z",
+  "source": "BBC Science",
+  "category": "science",
+  "lang": "en",
+  "keywords": [
+   "BBC Science",
+   "science"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c802/live/49133f20-e764-11f1-b407-33329b1ec67a.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c802/live/49133f20-e764-11f1-b407-33329b1ec67a.jpg",
+  "title_en": "'Urgent action' needed to protect lake",
+  "summary_en": "Tourism and outdated septic tanks are said to be adding to the ecological decline of Buttermere.",
+  "share_id": "MN202611_1h3gt8s9ppm"
+ },
+ {
+  "id": "crawl_t2125a",
+  "title": "The youngest Premier League goalscorers this season",
+  "summary": "After the stellar performances of Liverpool's Rio Ngumoha and Tottenham's Luca Williams-Barnett, BBC Sport looks at the youngest players to score in the Premier League this season.",
+  "link": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-24T09:10:34.000Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/329e/live/957cac80-e7c7-11f1-99a1-253766e7ad8b.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/329e/live/957cac80-e7c7-11f1-99a1-253766e7ad8b.jpg",
+  "title_en": "The youngest Premier League goalscorers this season",
+  "summary_en": "After the stellar performances of Liverpool's Rio Ngumoha and Tottenham's Luca Williams-Barnett, BBC Sport looks at the youngest players to score in the Premier League this season.",
+  "share_id": "MN202611_t2125aedmk"
+ },
+ {
+  "id": "crawl_pevx9q",
+  "title": "Watch: Moment troops raid home and capture Mexican drug lord",
+  "summary": "Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years.",
+  "link": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-24T09:09:41.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d08/live/65108220-e7df-11f1-a094-5fdc692f3e33.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d08/live/65108220-e7df-11f1-a094-5fdc692f3e33.jpg",
+  "title_en": "Watch: Moment troops raid home and capture Mexican drug lord",
+  "summary_en": "Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years.",
+  "share_id": "MN202611_pevx9qskcs"
+ },
+ {
   "id": "crawl_1gpcp8",
   "title": "\"UMUHATU\" IKIMERA GISHOBORA KUVURA INDWARA ZIRENGA 100",
   "summary": "#dashdashyogacenter SOBANUKIRWA AKAMARO NTAGERERANYWA K'IKIMERA KITWA UMUHATU, UMENYE UBURYO GISHOBORA KUVURA INDWARA NYINSHI CYANE NDETSE KIKABA CYANARIBWA.",
@@ -24,6 +104,26 @@
   "title_rw": "\"UMUHATU\" IKIMERA GISHOBORA KUVURA INDWARA ZIRENGA 100",
   "summary_rw": "#dashdashyogacenter SOBANUKIRWA AKAMARO NTAGERERANYWA K'IKIMERA KITWA UMUHATU, UMENYE UBURYO GISHOBORA KUVURA INDWARA NYINSHI CYANE NDETSE KIKABA CYANARIBWA.",
   "share_id": "MN202611_1gpcp8phii"
+ },
+ {
+  "id": "crawl_3f4dng",
+  "title": "Barnet forward Noel-Williams charged with rape",
+  "summary": "Isiah Noel-Williams, from St Albans, is remanded in custody charged with three rape offences.",
+  "link": "https://www.bbc.co.uk/news/articles/c8dx1v361vw7o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c8dx1v361vw7o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-24T08:50:17.000Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dc1/live/d2d49100-e7e1-11f1-82bb-6b3be4dcbf70.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dc1/live/d2d49100-e7e1-11f1-82bb-6b3be4dcbf70.jpg",
+  "title_en": "Barnet forward Noel-Williams charged with rape",
+  "summary_en": "Isiah Noel-Williams, from St Albans, is remanded in custody charged with three rape offences.",
+  "share_id": "MN202611_3f4dngxa4a"
  },
  {
   "id": "crawl_s0c92t",
@@ -132,7 +232,7 @@
  },
  {
   "id": "crawl_1uvlplo",
-  "title": "What China's Xi could take away from Jensen Huang's return to Nvidia",
+  "title": "What Jensen Huang's return teaches China's Xi about Trump",
   "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
   "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
@@ -146,7 +246,7 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47a8/live/2d61caf0-e7d5-11f1-939f-471cde339c0e.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47a8/live/2d61caf0-e7d5-11f1-939f-471cde339c0e.jpg",
-  "title_en": "What China's Xi could take away from Jensen Huang's return to Nvidia",
+  "title_en": "What Jensen Huang's return teaches China's Xi about Trump",
   "summary_en": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
   "share_id": "MN202611_1uvlploem2i"
  },
@@ -332,8 +432,8 @@
  },
  {
   "id": "crawl_9kvjjt",
-  "title": "OTAN yiteguriye guhangana n’akaga k'ikigendajuru ca nikleyeri coba kigiye kurungikwa mu kirere n’Uburusiya",
-  "summary": "OTAN ivuga ko yiteguye guhangana n’ico cose coza kibangamira ikirere cayo inyuma y’amakuru avuga ko Uburusiya bwoba buriko butegura kurungika mu kirere ikigendajuru ca nikleyeri",
+  "title": "Indege igisirikare ca Congo kivuga ko cabuze yoba ari yo FRN ivuga ko yarashe?",
+  "summary": "FARDC ivuga ko ingabo zirwanira mu kirere zabuze amakuru y’indege yayo ya Cessna 208 ku cyumweru ku mpamvu z'ikirere kibi, mu gihe FRN yoyo ivuga ko yarashe indege yari igiye kubarasa.",
   "link": "https://www.bbc.co.uk/gahuza/live/cmkg540lj8jet?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/gahuza/live/cmkg540lj8jet?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-24T04:30:28.782Z",
@@ -344,10 +444,10 @@
    "BBC Gahuza",
    "news"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c67/live/65345310-e7b9-11f1-99a1-253766e7ad8b.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c67/live/65345310-e7b9-11f1-99a1-253766e7ad8b.jpg",
-  "title_rw": "OTAN yiteguriye guhangana n’akaga k'ikigendajuru ca nikleyeri coba kigiye kurungikwa mu kirere n’Uburusiya",
-  "summary_rw": "OTAN ivuga ko yiteguye guhangana n’ico cose coza kibangamira ikirere cayo inyuma y’amakuru avuga ko Uburusiya bwoba buriko butegura kurungika mu kirere ikigendajuru ca nikleyeri",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ba3/live/30d12a50-e7e4-11f1-99a1-253766e7ad8b.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ba3/live/30d12a50-e7e4-11f1-99a1-253766e7ad8b.jpg",
+  "title_rw": "Indege igisirikare ca Congo kivuga ko cabuze yoba ari yo FRN ivuga ko yarashe?",
+  "summary_rw": "FARDC ivuga ko ingabo zirwanira mu kirere zabuze amakuru y’indege yayo ya Cessna 208 ku cyumweru ku mpamvu z'ikirere kibi, mu gihe FRN yoyo ivuga ko yarashe indege yari igiye kubarasa.",
   "share_id": "MN202611_9kvjjts6mv"
  },
  {
@@ -465,8 +565,8 @@
  },
  {
   "id": "crawl_4q3t9w",
-  "title": "Britain's landlords are getting bigger. A two-tier rental market may follow",
-  "summary": "Increasing numbers of corporate landlords could usher in big changes for renters",
+  "title": "Why the rise of the corporate landlord could lead to a two-tier rental market",
+  "summary": "Companies building flats that they then rent out could usher in big changes for renters",
   "link": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-24T00:28:48.000Z",
@@ -477,10 +577,10 @@
    "BBC Business",
    "business"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/247a/live/f0d58200-e4d4-11f1-a094-5fdc692f3e33.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/247a/live/f0d58200-e4d4-11f1-a094-5fdc692f3e33.jpg",
-  "title_en": "Britain's landlords are getting bigger. A two-tier rental market may follow",
-  "summary_en": "Increasing numbers of corporate landlords could usher in big changes for renters",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8db7/live/089748f0-e7e7-11f1-99b6-a35a62fa4264.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8db7/live/089748f0-e7e7-11f1-99b6-a35a62fa4264.jpg",
+  "title_en": "Why the rise of the corporate landlord could lead to a two-tier rental market",
+  "summary_en": "Companies building flats that they then rent out could usher in big changes for renters",
   "share_id": "MN202611_4q3t9wwpqq"
  },
  {
@@ -2086,11 +2186,11 @@
   "link": "https://www.bbc.co.uk/sport/football/articles/ckjw5jj2l26lo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/sport/football/articles/ckjw5jj2l26lo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-23T11:56:41.000Z",
-  "source": "BBC Sport Africa",
+  "source": "BBC Football",
   "category": "sports",
   "lang": "en",
   "keywords": [
-   "BBC Sport Africa",
+   "BBC Football",
    "sports"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/473b/live/8627f400-bd98-11f1-babe-4199b0e7ccea.png",
@@ -16321,6 +16421,26 @@
   "share_id": "MN202611_143ukm4nh2y"
  },
  {
+  "id": "crawl_1mecc60",
+  "title": "Senegal and Morocco lead Afcon qualifiers but Tunisia protest",
+  "summary": "Senegal, Cameroon and Morocco qualify for the 2027 Africa Cup of Nations, but Nigeria are in trouble, and struggling Tunisia fail with an impassioned penalty protest.",
+  "link": "https://www.bbc.co.uk/sport/football/articles/c5evrgrvw1ezo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c5evrgrvw1ezo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T22:54:51.000Z",
+  "source": "BBC Sport Africa",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Sport Africa",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7391/live/363a56f0-e29a-11f1-8dda-8925a81c3da5.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7391/live/363a56f0-e29a-11f1-8dda-8925a81c3da5.jpg",
+  "title_en": "Senegal and Morocco lead Afcon qualifiers but Tunisia protest",
+  "summary_en": "Senegal, Cameroon and Morocco qualify for the 2027 Africa Cup of Nations, but Nigeria are in trouble, and struggling Tunisia fail with an impassioned penalty protest.",
+  "share_id": "MN202611_1mecc6049km"
+ },
+ {
   "id": "crawl_w21mvp",
   "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
   "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
@@ -16945,131 +17065,5 @@
   "title_en": "William and Kate celebrate Earthshot Prize winners in Mumbai",
   "summary_en": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
   "share_id": "MN202611_s4o8h3h4xx"
- },
- {
-  "id": "crawl_1e849wj",
-  "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-  "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
-  "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-17T17:19:57.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f084/live/ab522920-e29c-11f1-8dda-8925a81c3da5.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f084/live/ab522920-e29c-11f1-8dda-8925a81c3da5.jpg",
-  "title_en": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-  "summary_en": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
-  "share_id": "MN202611_1e849wjx6dd"
- },
- {
-  "id": "crawl_1pmsd8a",
-  "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-  "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
-  "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-17T17:19:56.000Z",
-  "source": "BBC Business",
-  "category": "business",
-  "lang": "en",
-  "keywords": [
-   "BBC Business",
-   "business"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg",
-  "title_en": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-  "summary_en": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
-  "share_id": "MN202611_1pmsd8al9p4"
- },
- {
-  "id": "crawl_whnae4",
-  "title": "Last chance to vote for BBC Women's Footballer of the Year 2026",
-  "summary": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
-  "link": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-17T17:13:24.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg",
-  "title_en": "Last chance to vote for BBC Women's Footballer of the Year 2026",
-  "summary_en": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
-  "share_id": "MN202611_whnae4f7sq"
- },
- {
-  "id": "crawl_1wsuuj9",
-  "title": "AMABANGA YA BLACK BOX, AGASANDUKU GAFATWA NKA MESIYA W’IGICE MU NDEGE",
-  "summary": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
-  "link": "https://www.youtube.com/watch?v=VvIPEMryv80",
-  "url": "https://www.youtube.com/watch?v=VvIPEMryv80",
-  "date": "2026-11-17T17:12:46.000Z",
-  "source": "Mwanafunzi Ismael YouTube",
-  "category": "entertainment",
-  "lang": "rw",
-  "keywords": [
-   "Mwanafunzi Ismael YouTube",
-   "entertainment",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "VvIPEMryv80"
-  },
-  "type": "video",
-  "image": "https://i3.ytimg.com/vi/VvIPEMryv80/hqdefault.jpg",
-  "thumbnail": "https://i3.ytimg.com/vi/VvIPEMryv80/hqdefault.jpg",
-  "title_rw": "AMABANGA YA BLACK BOX, AGASANDUKU GAFATWA NKA MESIYA W’IGICE MU NDEGE",
-  "summary_rw": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
-  "share_id": "MN202611_1wsuuj9qxdf"
- },
- {
-  "id": "crawl_tc4tql",
-  "title": "Brad Pitt and Florence Pugh pitch for James Bond villain role",
-  "summary": "The two A-list stars throw their hats into the ring to be the villain facing Robert Pattinson's 007.",
-  "link": "https://www.bbc.co.uk/news/articles/cq4gnpgl0zkxo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cq4gnpgl0zkxo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-17T16:42:49.000Z",
-  "source": "BBC Entertainment",
-  "category": "entertainment",
-  "lang": "en",
-  "keywords": [
-   "BBC Entertainment",
-   "entertainment"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cca1/live/480e0780-e2ab-11f1-a094-5fdc692f3e33.png",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cca1/live/480e0780-e2ab-11f1-a094-5fdc692f3e33.png",
-  "title_en": "Brad Pitt and Florence Pugh pitch for James Bond villain role",
-  "summary_en": "The two A-list stars throw their hats into the ring to be the villain facing Robert Pattinson's 007.",
-  "share_id": "MN202611_tc4tqlxq7f"
- },
- {
-  "id": "crawl_vcml8n",
-  "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-  "summary": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
-  "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-17T16:42:11.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a331/live/4e364d80-e287-11f1-b166-176de21e2352.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a331/live/4e364d80-e287-11f1-b166-176de21e2352.jpg",
-  "title_en": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-  "summary_en": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
-  "share_id": "MN202611_vcml8nfhph"
  }
 ]
