@@ -1,6 +1,6 @@
 {
  "day": "2026-11-24",
- "count": 101,
+ "count": 103,
  "articles": [
   {
    "id": "crawl_1iz1623",
@@ -81,6 +81,46 @@
    "title_en": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
    "summary_en": "Manchester City's slick footballing machine is starting to grind to a halt, as displayed in their laborious Champions League draw against Napoli.",
    "share_id": "MN202611_9t0oltwnzj"
+  },
+  {
+   "id": "crawl_13a8xfh",
+   "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+   "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+   "link": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T23:05:11.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73d1/live/fd148350-e825-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73d1/live/fd148350-e825-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+   "summary_en": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+   "share_id": "MN202611_13a8xfh1twb"
+  },
+  {
+   "id": "crawl_pqjaao",
+   "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+   "summary": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
+   "link": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T23:03:59.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09b2/live/3e03d020-e824-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09b2/live/3e03d020-e824-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+   "summary_en": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
+   "share_id": "MN202611_pqjaaoc6ri"
   },
   {
    "id": "crawl_5uilp",
@@ -2053,5 +2093,5 @@
    "share_id": "MN202611_12o0ve6trv0"
   }
  ],
- "updated": "2026-11-25T00:00:20.263Z"
+ "updated": "2026-11-25T04:32:54.008Z"
 }
