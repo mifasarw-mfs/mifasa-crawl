@@ -1,7 +1,47 @@
 {
  "day": "2026-11-25",
- "count": 80,
+ "count": 83,
  "articles": [
+  {
+   "id": "crawl_i0i0ml",
+   "title": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
+   "summary": "Ramsay will take the driving seat alongside unnamed co-presenters when the show starts filming next year.",
+   "link": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T16:58:51.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f563/live/292aa8e0-e8f1-11f1-8808-1d4222955d7e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f563/live/292aa8e0-e8f1-11f1-8808-1d4222955d7e.jpg",
+   "title_en": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
+   "summary_en": "Ramsay will take the driving seat alongside unnamed co-presenters when the show starts filming next year.",
+   "share_id": "MN202611_i0i0mlax3f"
+  },
+  {
+   "id": "crawl_wbgqk",
+   "title": "'Best midfielder in the world' - where does Bellingham rank?",
+   "summary": "Jose Mourinho called Real Madrid's Jude Bellingham \"the best midfielder in the world\", but where would you rank him?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmkgdjkr2y70o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmkgdjkr2y70o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T16:46:36.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a9f/live/a0a1a1c0-e8e8-11f1-8808-1d4222955d7e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a9f/live/a0a1a1c0-e8e8-11f1-8808-1d4222955d7e.jpg",
+   "title_en": "'Best midfielder in the world' - where does Bellingham rank?",
+   "summary_en": "Jose Mourinho called Real Madrid's Jude Bellingham \"the best midfielder in the world\", but where would you rank him?",
+   "share_id": "MN202611_wbgqk7g4a"
+  },
   {
    "id": "crawl_z566uu",
    "title": "Confusion and anger - Yoro red card rescinded, but row goes on",
@@ -21,6 +61,26 @@
    "title_en": "Confusion and anger - Yoro red card rescinded, but row goes on",
    "summary_en": "Leny Yoro's red card against Liverpool has prompted an unseemly difference of opinion between Man Utd and Pro Ref.",
    "share_id": "MN202611_z566uuy49g"
+  },
+  {
+   "id": "crawl_17urczq",
+   "title": "Leicester no longer for sale as owner looks to future",
+   "summary": "Leicester owner Khun Aiyawatt 'Top' Srivaddhanaprabha confirms the one-time Premier League title winners are no longer up for sale.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck1l0j77j43eo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ck1l0j77j43eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T16:19:45.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a27/live/39af5f80-e8e7-11f1-8808-1d4222955d7e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a27/live/39af5f80-e8e7-11f1-8808-1d4222955d7e.jpg",
+   "title_en": "Leicester no longer for sale as owner looks to future",
+   "summary_en": "Leicester owner Khun Aiyawatt 'Top' Srivaddhanaprabha confirms the one-time Premier League title winners are no longer up for sale.",
+   "share_id": "MN202611_17urczqjaec"
   },
   {
    "id": "crawl_j55twa",
@@ -1642,5 +1702,5 @@
    "share_id": "MN202611_bihwaeasr8"
   }
  ],
- "updated": "2026-11-25T16:40:09.267Z"
+ "updated": "2026-11-25T17:13:18.919Z"
 }
