@@ -1,7 +1,27 @@
 {
  "day": "2026-11-25",
- "count": 79,
+ "count": 80,
  "articles": [
+  {
+   "id": "crawl_z566uu",
+   "title": "Confusion and anger - Yoro red card rescinded, but row goes on",
+   "summary": "Leny Yoro's red card against Liverpool has prompted an unseemly difference of opinion between Man Utd and Pro Ref.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cvze7y6n2redo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cvze7y6n2redo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T16:28:10.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6250/live/db25bcb0-e8c9-11f1-ac76-db9e97f93d67.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6250/live/db25bcb0-e8c9-11f1-ac76-db9e97f93d67.jpg",
+   "title_en": "Confusion and anger - Yoro red card rescinded, but row goes on",
+   "summary_en": "Leny Yoro's red card against Liverpool has prompted an unseemly difference of opinion between Man Utd and Pro Ref.",
+   "share_id": "MN202611_z566uuy49g"
+  },
   {
    "id": "crawl_j55twa",
    "title": "Poundland collapses putting 11,000 jobs at risk",
@@ -1622,5 +1642,5 @@
    "share_id": "MN202611_bihwaeasr8"
   }
  ],
- "updated": "2026-11-25T16:12:27.926Z"
+ "updated": "2026-11-25T16:40:09.267Z"
 }
