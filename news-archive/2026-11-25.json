@@ -1,7 +1,67 @@
 {
  "day": "2026-11-25",
- "count": 20,
+ "count": 24,
  "articles": [
+  {
+   "id": "crawl_1xazuod",
+   "title": "Are Manchester United this season's Tottenham?",
+   "summary": "Tottenham escaped an unthinkable Premier League relegation last season on the final day, but are Man Utd in danger of being the new Spurs?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T06:22:36.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f7/live/c5b34650-e80f-11f1-ab42-55d8d8278025.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f7/live/c5b34650-e80f-11f1-ab42-55d8d8278025.jpg",
+   "title_en": "Are Manchester United this season's Tottenham?",
+   "summary_en": "Tottenham escaped an unthinkable Premier League relegation last season on the final day, but are Man Utd in danger of being the new Spurs?",
+   "share_id": "MN202611_1xazuodrs2z"
+  },
+  {
+   "id": "crawl_72gtd8",
+   "title": "Huge fly-tip grew undetected over several months",
+   "summary": "The council says the 20-tonne pile of rubbish was dumped over garden fences.",
+   "link": "https://www.bbc.co.uk/news/articles/cqzjr4m9ljzxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqzjr4m9ljzxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T06:14:26.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/335f/live/2ba18d80-e74a-11f1-88dc-f746e0cde621.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/335f/live/2ba18d80-e74a-11f1-88dc-f746e0cde621.jpg",
+   "title_en": "Huge fly-tip grew undetected over several months",
+   "summary_en": "The council says the 20-tonne pile of rubbish was dumped over garden fences.",
+   "share_id": "MN202611_72gtd89pu2"
+  },
+  {
+   "id": "crawl_300hsr",
+   "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+   "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
+   "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T06:00:36.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d025/live/0cb03100-e741-11f1-802a-678be58471bb.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d025/live/0cb03100-e741-11f1-802a-678be58471bb.png",
+   "title_en": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+   "summary_en": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
+   "share_id": "MN202611_300hsrxg8p"
+  },
   {
    "id": "crawl_98fly5",
    "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
@@ -195,6 +255,26 @@
    "title_en": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
    "summary_en": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
    "share_id": "MN202611_186sttllqaf"
+  },
+  {
+   "id": "crawl_15h8e4g",
+   "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
+   "summary": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
+   "link": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T03:28:37.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b78/live/6330c460-e889-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b78/live/6330c460-e889-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
+   "summary_en": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
+   "share_id": "MN202611_15h8e4g0z8e"
   },
   {
    "id": "crawl_dml1hn",
@@ -417,5 +497,5 @@
    "share_id": "MN202611_bihwaeasr8"
   }
  ],
- "updated": "2026-11-25T05:35:43.878Z"
+ "updated": "2026-11-25T06:30:12.971Z"
 }
