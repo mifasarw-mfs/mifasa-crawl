@@ -1,7 +1,67 @@
 {
  "day": "2026-11-25",
- "count": 76,
+ "count": 79,
  "articles": [
+  {
+   "id": "crawl_j55twa",
+   "title": "Poundland collapses putting 11,000 jobs at risk",
+   "summary": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
+   "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T16:03:07.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eda/live/616fb5d0-e8bd-11f1-ac76-db9e97f93d67.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eda/live/616fb5d0-e8bd-11f1-ac76-db9e97f93d67.jpg",
+   "title_en": "Poundland collapses putting 11,000 jobs at risk",
+   "summary_en": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
+   "share_id": "MN202611_j55twayqd4"
+  },
+  {
+   "id": "crawl_d7df28",
+   "title": "Canadian astronaut welcomes baby girl from space station",
+   "summary": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.",
+   "link": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T15:41:39.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19b2/live/aed9cc20-e8e5-11f1-a3b9-79c60ec9ab33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19b2/live/aed9cc20-e8e5-11f1-a3b9-79c60ec9ab33.jpg",
+   "title_en": "Canadian astronaut welcomes baby girl from space station",
+   "summary_en": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.",
+   "share_id": "MN202611_d7df286bj2"
+  },
+  {
+   "id": "crawl_1k79arf",
+   "title": "Kagame, African Leaders Want Continent to Stop Supplying Talent and Start Owning Technology",
+   "summary": "KIGALI – African economies continue to export raw materials for processing elsewhere, while African professionals contribute to technologies whose ownership and commercial returns raise questions about how much value the… The post Kagame, African Leaders Want Continent to Stop Supplying Talent and Start Owning Technology appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/kagame-african-leaders-want-continent-to-stop-supplying-talent-and-start-owning-technology/",
+   "url": "https://www.ktpress.rw/2026/11/kagame-african-leaders-want-continent-to-stop-supplying-talent-and-start-owning-technology/",
+   "date": "2026-11-25T15:33:49.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "National",
+    "latestnews"
+   ],
+   "title_en": "Kagame, African Leaders Want Continent to Stop Supplying Talent and Start Owning Technology",
+   "summary_en": "KIGALI – African economies continue to export raw materials for processing elsewhere, while African professionals contribute to technologies whose ownership and commercial returns raise questions about how much value the… The post Kagame, African Leaders Want Continent to Stop Supplying Talent and Start Owning Technology appeared first on KT PRESS .",
+   "share_id": "MN202611_1k79arf7gbd"
+  },
   {
    "id": "crawl_1um3q1q",
    "title": "US stocks fall further as fears over AI intensify",
@@ -1562,5 +1622,5 @@
    "share_id": "MN202611_bihwaeasr8"
   }
  ],
- "updated": "2026-11-25T15:31:00.928Z"
+ "updated": "2026-11-25T16:12:27.926Z"
 }
