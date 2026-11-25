@@ -1,7 +1,47 @@
 {
  "day": "2026-11-25",
- "count": 18,
+ "count": 20,
  "articles": [
+  {
+   "id": "crawl_98fly5",
+   "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
+   "summary": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart.",
+   "link": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T05:13:44.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62c6/live/0b9efbb0-e88c-11f1-b10e-f37861cef9d5.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62c6/live/0b9efbb0-e88c-11f1-b10e-f37861cef9d5.jpg",
+   "title_en": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
+   "summary_en": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart.",
+   "share_id": "MN202611_98fly58iez"
+  },
+  {
+   "id": "crawl_1gyhtj6",
+   "title": "China's Shenzhou-24 carries Pakistan's first astronaut into space",
+   "summary": "Muhammad Zeeshan Ali, a former fighter pilot, is the first foreigner to join a Chinese crewed space mission.",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2e0j3kx28o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2e0j3kx28o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T04:46:23.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/523e/live/04d6a820-e88f-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/523e/live/04d6a820-e88f-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "China's Shenzhou-24 carries Pakistan's first astronaut into space",
+   "summary_en": "Muhammad Zeeshan Ali, a former fighter pilot, is the first foreigner to join a Chinese crewed space mission.",
+   "share_id": "MN202611_1gyhtj6aq00"
+  },
   {
    "id": "crawl_vs6mxz",
    "title": "Boris Johnson asaba ko ibihugu vy’uburengero birungika ingabo muri Ukraine imbere y’amasezerano y’amahoro",
@@ -377,5 +417,5 @@
    "share_id": "MN202611_bihwaeasr8"
   }
  ],
- "updated": "2026-11-25T04:32:54.006Z"
+ "updated": "2026-11-25T05:35:43.878Z"
 }
