@@ -1,6 +1,6 @@
 {
  "day": "2026-11-24",
- "count": 104,
+ "count": 105,
  "articles": [
   {
    "id": "crawl_1iz1623",
@@ -381,6 +381,26 @@
    "title_en": "Nigerian monarch, 92, suspended after sexual assault claims",
    "summary_en": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
    "share_id": "MN202611_yr5nelyjvf"
+  },
+  {
+   "id": "crawl_zrnrq6",
+   "title": "Archers fans urged to back fight to keep show in city",
+   "summary": "Cast members will be protesting with actors union Equity to ask fans to back their campaign",
+   "link": "https://www.bbc.co.uk/news/articles/ckr5gv4g0pmdo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckr5gv4g0pmdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T19:09:13.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/381e/live/78102330-e82a-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/381e/live/78102330-e82a-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Archers fans urged to back fight to keep show in city",
+   "summary_en": "Cast members will be protesting with actors union Equity to ask fans to back their campaign",
+   "share_id": "MN202611_zrnrq6go70"
   },
   {
    "id": "crawl_5ise0i",
@@ -2113,5 +2133,5 @@
    "share_id": "MN202611_12o0ve6trv0"
   }
  ],
- "updated": "2026-11-25T05:35:43.879Z"
+ "updated": "2026-11-25T06:59:29.268Z"
 }

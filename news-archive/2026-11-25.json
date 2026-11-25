@@ -1,7 +1,67 @@
 {
  "day": "2026-11-25",
- "count": 24,
+ "count": 27,
  "articles": [
+  {
+   "id": "crawl_2vwx4r",
+   "title": "Who am I? Plus today's other quizzes",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cxvg2e6l57j7o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cxvg2e6l57j7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T06:56:11.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+   "title_en": "Who am I? Plus today's other quizzes",
+   "summary_en": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "share_id": "MN202611_2vwx4rswih"
+  },
+  {
+   "id": "crawl_7zsuyj",
+   "title": "Court to rule on South African president's bid to set aside 'Farmgate' report",
+   "summary": "South Africa's former spy chief revealed the theft of large sums of cash, hidden in a sofa, in 2022.",
+   "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T06:41:18.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4f9/live/01698130-e808-11f1-95bb-3f37d3e026b0.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4f9/live/01698130-e808-11f1-95bb-3f37d3e026b0.jpg",
+   "title_en": "Court to rule on South African president's bid to set aside 'Farmgate' report",
+   "summary_en": "South Africa's former spy chief revealed the theft of large sums of cash, hidden in a sofa, in 2022.",
+   "share_id": "MN202611_7zsuyjlrfd"
+  },
+  {
+   "id": "crawl_1vy4lkk",
+   "title": "Blade Runner 2099 not just about AI, say star Hunter Schafer and series creator",
+   "summary": "Hunter Schafer and co-stars say the sci-fi TV show explores more than the idea of robotic consciousness.",
+   "link": "https://www.bbc.co.uk/news/articles/cqpv9kjgy4jno?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqpv9kjgy4jno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T06:28:22.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa20/live/499a3970-e814-11f1-ab42-55d8d8278025.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa20/live/499a3970-e814-11f1-ab42-55d8d8278025.jpg",
+   "title_en": "Blade Runner 2099 not just about AI, say star Hunter Schafer and series creator",
+   "summary_en": "Hunter Schafer and co-stars say the sci-fi TV show explores more than the idea of robotic consciousness.",
+   "share_id": "MN202611_1vy4lkkxi1e"
+  },
   {
    "id": "crawl_1xazuod",
    "title": "Are Manchester United this season's Tottenham?",
@@ -497,5 +557,5 @@
    "share_id": "MN202611_bihwaeasr8"
   }
  ],
- "updated": "2026-11-25T06:30:12.971Z"
+ "updated": "2026-11-25T06:59:29.268Z"
 }
