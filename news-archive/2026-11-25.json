@@ -1,6 +1,6 @@
 {
  "day": "2026-11-25",
- "count": 58,
+ "count": 59,
  "articles": [
   {
    "id": "crawl_qnywqu",
@@ -21,6 +21,26 @@
    "title_en": "Sterling given suspended sentence for dangerous driving",
    "summary_en": "Raheem Sterling was sentenced to 12 months imprisonment, suspended for 18 months, on Wednesday.",
    "share_id": "MN202611_qnywqurt7o"
+  },
+  {
+   "id": "crawl_2islm2",
+   "title": "Raheem Sterling - from national icon to suspended jail sentence",
+   "summary": "Fourteen years after making his Premier League debut at 17, Raheem Sterling has been given a suspended prison sentence.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T12:42:57.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b1/live/4b3ef840-e8a2-11f1-869a-f96fd5660210.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b1/live/4b3ef840-e8a2-11f1-869a-f96fd5660210.png",
+   "title_en": "Raheem Sterling - from national icon to suspended jail sentence",
+   "summary_en": "Fourteen years after making his Premier League debut at 17, Raheem Sterling has been given a suspended prison sentence.",
+   "share_id": "MN202611_2islm2okzs"
   },
   {
    "id": "crawl_3eqeac",
@@ -1199,5 +1219,5 @@
    "share_id": "MN202611_bihwaeasr8"
   }
  ],
- "updated": "2026-11-25T12:51:07.325Z"
+ "updated": "2026-11-25T13:01:29.390Z"
 }

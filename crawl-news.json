@@ -1,5 +1,31 @@
 [
  {
+  "id": "crawl_fi5eer",
+  "title": "AMAKURU YIRIWE AVUGWA HIRYA NO HINO || TARIKI 25 UGUSHYINGO 2026",
+  "summary": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+  "link": "https://www.youtube.com/watch?v=5-hq1T4WVM0",
+  "url": "https://www.youtube.com/watch?v=5-hq1T4WVM0",
+  "date": "2026-11-25T12:59:18.000Z",
+  "source": "Radio Rwanda YouTube",
+  "category": "news",
+  "lang": "rw",
+  "keywords": [
+   "Radio Rwanda YouTube",
+   "news",
+   "video"
+  ],
+  "video": {
+   "provider": "youtube",
+   "id": "5-hq1T4WVM0"
+  },
+  "type": "video",
+  "image": "https://i2.ytimg.com/vi/5-hq1T4WVM0/hqdefault.jpg",
+  "thumbnail": "https://i2.ytimg.com/vi/5-hq1T4WVM0/hqdefault.jpg",
+  "title_rw": "AMAKURU YIRIWE AVUGWA HIRYA NO HINO || TARIKI 25 UGUSHYINGO 2026",
+  "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
+  "share_id": "MN202611_fi5eer5j81"
+ },
+ {
   "id": "crawl_qnywqu",
   "title": "Sterling given suspended sentence for dangerous driving",
   "summary": "Raheem Sterling was sentenced to 12 months imprisonment, suspended for 18 months, on Wednesday.",
@@ -18,6 +44,26 @@
   "title_en": "Sterling given suspended sentence for dangerous driving",
   "summary_en": "Raheem Sterling was sentenced to 12 months imprisonment, suspended for 18 months, on Wednesday.",
   "share_id": "MN202611_qnywqurt7o"
+ },
+ {
+  "id": "crawl_2islm2",
+  "title": "Raheem Sterling - from national icon to suspended jail sentence",
+  "summary": "Fourteen years after making his Premier League debut at 17, Raheem Sterling has been given a suspended prison sentence.",
+  "link": "https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-25T12:42:57.000Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b1/live/4b3ef840-e8a2-11f1-869a-f96fd5660210.png",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b1/live/4b3ef840-e8a2-11f1-869a-f96fd5660210.png",
+  "title_en": "Raheem Sterling - from national icon to suspended jail sentence",
+  "summary_en": "Fourteen years after making his Premier League debut at 17, Raheem Sterling has been given a suspended prison sentence.",
+  "share_id": "MN202611_2islm2okzs"
  },
  {
   "id": "crawl_3eqeac",
@@ -543,12 +589,12 @@
   "link": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-25T10:03:12.000Z",
-  "source": "BBC Technology",
-  "category": "tech",
+  "source": "BBC Business",
+  "category": "business",
   "lang": "en",
   "keywords": [
-   "BBC Technology",
-   "tech"
+   "BBC Business",
+   "business"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde3/live/fa4083e0-e8b6-11f1-9e64-bddd508b9881.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde3/live/fa4083e0-e8b6-11f1-9e64-bddd508b9881.jpg",
@@ -875,8 +921,8 @@
    "BBC Entertainment",
    "entertainment"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa20/live/499a3970-e814-11f1-ab42-55d8d8278025.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa20/live/499a3970-e814-11f1-ab42-55d8d8278025.jpg",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/310e/live/92b53720-e8cf-11f1-99b6-a35a62fa4264.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/310e/live/92b53720-e8cf-11f1-99b6-a35a62fa4264.jpg",
   "title_en": "Blade Runner 2099 not just about AI, say star Hunter Schafer and series creator",
   "summary_en": "Hunter Schafer and co-stars say the sci-fi TV show explores more than the idea of robotic consciousness.",
   "share_id": "MN202611_1vy4lkkxi1e"
@@ -17007,55 +17053,5 @@
   "title_en": "Euro Leagues",
   "summary_en": "Who makes the list of the Top 10 European Strikers of the Century so far?",
   "share_id": "MN202611_1eanmzfcpix"
- },
- {
-  "id": "crawl_6uhxt6",
-  "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-  "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
-  "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-18T21:28:08.000Z",
-  "source": "BBC Business",
-  "category": "business",
-  "lang": "en",
-  "keywords": [
-   "BBC Business",
-   "business"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcc1/live/0bb55690-e36d-11f1-99a1-253766e7ad8b.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcc1/live/0bb55690-e36d-11f1-99a1-253766e7ad8b.jpg",
-  "title_en": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-  "summary_en": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
-  "share_id": "MN202611_6uhxt6aua0"
- },
- {
-  "id": "crawl_ejgxq6",
-  "title": "GTA 6 LAUNCH STREAM! Playing GTA 6 for the First Time",
-  "summary": "Get 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg Follow me on Twitter/X: https://twitter.com/TGGonYT Twitch: https://www.twitch.tv/tgg_gta Instagram: https://www.instagram.com/tee_gee_gee/ Facebook: https://www.facebook.com/TGGonYT/ Join our Discord for help with Business Sales & Heists: https://discord.com/invite/gorillagang My Headset: https://amzn.to/3CJgcBZ My Mou",
-  "link": "https://www.youtube.com/watch?v=xMXp80Cntxw",
-  "url": "https://www.youtube.com/watch?v=xMXp80Cntxw",
-  "date": "2026-11-18T21:25:01.000Z",
-  "source": "YouTube Trending Uganda",
-  "category": "entertainment",
-  "lang": "en",
-  "keywords": [
-   "YouTube Trending Uganda",
-   "entertainment",
-   "trending",
-   "gta 5",
-   "gta online",
-   "gta 6",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "xMXp80Cntxw"
-  },
-  "type": "video",
-  "image": "https://i.ytimg.com/vi/xMXp80Cntxw/hqdefault.jpg",
-  "thumbnail": "https://i.ytimg.com/vi/xMXp80Cntxw/hqdefault.jpg",
-  "title_en": "GTA 6 LAUNCH STREAM! Playing GTA 6 for the First Time",
-  "summary_en": "Get 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg Follow me on Twitter/X: https://twitter.com/TGGonYT Twitch: https://www.twitch.tv/tgg_gta Instagram: https://www.instagram.com/tee_gee_gee/ Facebook: https://www.facebook.com/TGGonYT/ Join our Discord for help with Business Sales & Heists: https://discord.com/invite/gorillagang My Headset: https://amzn.to/3CJgcBZ My Mou",
-  "share_id": "MN202611_ejgxq6h2jg"
  }
 ]
