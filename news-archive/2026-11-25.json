@@ -1,7 +1,67 @@
 {
  "day": "2026-11-25",
- "count": 116,
+ "count": 119,
  "articles": [
+  {
+   "id": "crawl_1d83yhs",
+   "title": "Lammens howler denies Man Utd victory against Sporting in incident-packed game",
+   "summary": "Goalkeeper Senne Lammens endures a topsy-turvy night as Manchester United draw with Sporting.controversial decisions.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6ly5145gg1do?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c6ly5145gg1do?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T22:32:51.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfe2/live/f9aecff0-e91e-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfe2/live/f9aecff0-e91e-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Lammens howler denies Man Utd victory against Sporting in incident-packed game",
+   "summary_en": "Goalkeeper Senne Lammens endures a topsy-turvy night as Manchester United draw with Sporting.controversial decisions.",
+   "share_id": "MN202611_1d83yhsh9z2"
+  },
+  {
+   "id": "crawl_1ktlgh9",
+   "title": "PSG held by Roma as in-form Malen scores again",
+   "summary": "Donyell Malen scores for the fourth Champions League game running as Roma ends Paris St-Germain's 100% start to the competition.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cwvg2832elr4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cwvg2832elr4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T22:27:14.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/174b/live/89b8f780-e91d-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/174b/live/89b8f780-e91d-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "PSG held by Roma as in-form Malen scores again",
+   "summary_en": "Donyell Malen scores for the fourth Champions League game running as Roma ends Paris St-Germain's 100% start to the competition.",
+   "share_id": "MN202611_1ktlgh9yryj"
+  },
+  {
+   "id": "crawl_1jr9cx7",
+   "title": "Terrible Pavlovic own goal gifts Lille shock win against Bayern",
+   "summary": "Bayern Munich suffer their first defeat of the Champions League campaign as Lille find the net twice in three minutes in the second half, including a comical Aleksander Pavlovic own goal, to inflict a huge upset.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cq36gx1g10p6o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cq36gx1g10p6o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T22:24:57.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2605/live/bdc03610-e91d-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2605/live/bdc03610-e91d-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Terrible Pavlovic own goal gifts Lille shock win against Bayern",
+   "summary_en": "Bayern Munich suffer their first defeat of the Champions League campaign as Lille find the net twice in three minutes in the second half, including a comical Aleksander Pavlovic own goal, to inflict a huge upset.",
+   "share_id": "MN202611_1jr9cx7moeh"
+  },
   {
    "id": "crawl_d4q88w",
    "title": "Andy Taylor: Duran Duran's livewire guitarist who was a Wild Boy on stage and off",
@@ -2366,5 +2426,5 @@
    "share_id": "MN202611_bihwaeasr8"
   }
  ],
- "updated": "2026-11-25T22:26:48.650Z"
+ "updated": "2026-11-25T22:45:44.998Z"
 }
