@@ -7457,6 +7457,101 @@
    ],
    "auto": true,
    "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_71c12708_q",
+   "label_rw": "Kwita ku Isuku y'Ukwezi",
+   "label_en": "Managing Menstrual Hygiene",
+   "patterns_en": [
+    "How often should a sanitary pad be changed?",
+    "How can one maintain hygiene during menstruation?",
+    "Why is menstrual hygiene important?"
+   ],
+   "patterns_rw": [
+    "Ni ryari ugomba guhindura igitambaro cy'isuku y'ukwezi?",
+    "Ni gute wakura isuku mu gihe cy'ukwezi?",
+    "Kuki kwita ku isuku y'ukwezi ari ingenzi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kwita ku isuku y'ukwezi bisaba gukaraba n'amazi meza n'isabune no guhindura ibitambaro cyangwa ibikoresho by'isuku buri masaha make. Ibi bifasha kwirinda indwara no kuguma mu buzima bwiza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Managing menstrual hygiene involves washing with clean water and soap, and changing sanitary pads or materials every few hours. This helps prevent infections and supports overall health.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_c65f6805_q",
+   "label_rw": "Gusobanukirwa amaraso make n'ubuke bw'ubyuma",
+   "label_en": "Understanding anemia and iron deficiency",
+   "patterns_en": [
+    "What causes anemia?",
+    "How can iron deficiency be prevented?",
+    "Which foods help increase blood iron?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera amaraso make?",
+    "Twakumira dute amaraso make?",
+    "Ibiribwa bifasha mu kongera amaraso ni ibihe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Amagara make cyangwa amaraso makeiterwa n'uko umubiri ufite uturemangingo tw'amaraso tutahagije. Ubuke bw'ubyuma mu mubiri ni bwo ntandaro nyamukuru y'iyi ndwara. Ibi bitera umunaniro n'intege nke mu mubiri. Kurya ibirimo ubyuma bifasha kwivuza no kwirinda ubu burwayi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Anemia usually occurs when the body lacks enough healthy red blood cells to carry adequate oxygen to tissues. Iron deficiency is the most common cause of this condition. It often leads to fatigue and weakness. Eating iron-rich foods helps prevent and treat this health issue.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_979098cb_q",
+   "label_rw": "Inzoka zo mu nda",
+   "label_en": "Intestinal worms",
+   "patterns_en": [
+    "How can you prevent intestinal worms?",
+    "What causes intestinal worms?",
+    "When should people take deworming medication?"
+   ],
+   "patterns_rw": [
+    "Ni gute wakwirinda inzoka zo mu nda?",
+    "Ni iki gitera inzoka zo mu nda?",
+    "Ni ryari abantu bafataga imiti y'inzoka?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Inzoka zo mu nda ni uburwayi butera nabi ubuzima bw'abantu. Kwirinda bisaba gukaraba intoki n'isabune no kurya ibiryo bishya kandi bitetse neza. Guhabwa imiti yica inzoka buri gihe bifasha mu kurwanya ubu burwayi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Intestinal worms are parasites that can negatively affect health. Prevention usually involves washing hands with soap and eating properly cooked food. Regular deworming medication helps manage and prevent infections.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_f18dbb41_q",
+   "label_rw": "Umunaniro uterwa n'ubushyuhe bukabije",
+   "label_en": "Heat exhaustion",
+   "patterns_en": [
+    "What are the symptoms of heat exhaustion?",
+    "How can you help someone with heat exhaustion?"
+   ],
+   "patterns_rw": [
+    "Ibimenyetso by'umunaniro uterwa n'ubushyuhe ni ibihe?",
+    "Wafasha ute umuntu ufite ubushyuhe bukabije?",
+    "Ni gute wakwirinda umunaniro w'ubushyuhe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Umunaniro uterwa n'ubushyuhe bukabije utera ibimenyetso nko kubira ibyuya byinshi, gucika intege, n'iseseme. Kugira ngo ukire, ugomba kujya mu gicucu cyangwa ahakonje, ukanywa amazi ahagije, kandi ukaruhuka.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Heat exhaustion causes symptoms like heavy sweating, weakness, and nausea. To treat it, move to a cool place, drink plenty of water, and rest.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
   }
  ],
  "knowledge": [
@@ -13599,6 +13694,85 @@
     "heredity",
     "biology",
     "ubumenyi"
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_71c12708",
+   "category": "health",
+   "title_rw": "Kwita ku Isuku y'Ukwezi",
+   "title_en": "Managing Menstrual Hygiene",
+   "summary_rw": "Kwita ku isuku y'ukwezi bisaba gukaraba n'amazi meza n'isabune no guhindura ibitambaro cyangwa ibikoresho by'isuku buri masaha make. Ibi bifasha kwirinda indwara no kuguma mu buzima bwiza.",
+   "summary_en": "Managing menstrual hygiene involves washing with clean water and soap, and changing sanitary pads or materials every few hours. This helps prevent infections and supports overall health.",
+   "keywords": [
+    "isuku",
+    "hygiene",
+    "ukwezi",
+    "menstruation",
+    "ubuzima",
+    "health",
+    "ibikoresho"
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_c65f6805",
+   "category": "health",
+   "title_rw": "Gusobanukirwa amaraso make n'ubuke bw'ubyuma",
+   "title_en": "Understanding anemia and iron deficiency",
+   "summary_rw": "Amagara make cyangwa amaraso makeiterwa n'uko umubiri ufite uturemangingo tw'amaraso tutahagije. Ubuke bw'ubyuma mu mubiri ni bwo ntandaro nyamukuru y'iyi ndwara. Ibi bitera umunaniro n'intege nke mu mubiri. Kurya ibirimo ubyuma bifasha kwivuza no kwirinda ubu burwayi.",
+   "summary_en": "Anemia usually occurs when the body lacks enough healthy red blood cells to carry adequate oxygen to tissues. Iron deficiency is the most common cause of this condition. It often leads to fatigue and weakness. Eating iron-rich foods helps prevent and treat this health issue.",
+   "keywords": [
+    "amaraso",
+    "ubyuma",
+    "ubuzima",
+    "indwara",
+    "anemia",
+    "iron",
+    "health",
+    "blood"
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_979098cb",
+   "category": "health",
+   "title_rw": "Inzoka zo mu nda",
+   "title_en": "Intestinal worms",
+   "summary_rw": "Inzoka zo mu nda ni uburwayi butera nabi ubuzima bw'abantu. Kwirinda bisaba gukaraba intoki n'isabune no kurya ibiryo bishya kandi bitetse neza. Guhabwa imiti yica inzoka buri gihe bifasha mu kurwanya ubu burwayi.",
+   "summary_en": "Intestinal worms are parasites that can negatively affect health. Prevention usually involves washing hands with soap and eating properly cooked food. Regular deworming medication helps manage and prevent infections.",
+   "keywords": [
+    "health",
+    "ubuzima",
+    "worms",
+    "inzoka",
+    "prevention",
+    "gukumira",
+    "hygiene",
+    "isuku"
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_f18dbb41",
+   "category": "health",
+   "title_rw": "Umunaniro uterwa n'ubushyuhe bukabije",
+   "title_en": "Heat exhaustion",
+   "summary_rw": "Umunaniro uterwa n'ubushyuhe bukabije utera ibimenyetso nko kubira ibyuya byinshi, gucika intege, n'iseseme. Kugira ngo ukire, ugomba kujya mu gicucu cyangwa ahakonje, ukanywa amazi ahagije, kandi ukaruhuka.",
+   "summary_en": "Heat exhaustion causes symptoms like heavy sweating, weakness, and nausea. To treat it, move to a cool place, drink plenty of water, and rest.",
+   "keywords": [
+    "ubushyuhe",
+    "heat",
+    "umunaniro",
+    "exhaustion",
+    "amazi",
+    "water",
+    "ubuzima",
+    "health"
    ],
    "auto": true,
    "taught": "2026-11-25"
