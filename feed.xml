@@ -5,15 +5,24 @@
     <link>https://mifasarw.neocities.org/</link>
     <description>Inkuru zigezweho mu Rwanda no ku Isi, na Video za MIFASARW.</description>
     <language>rw</language>
-    <lastBuildDate>Wed, 25 Nov 2026 07:26:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 07:59:42 GMT</lastBuildDate>
     <atom:link href="https://mifasarw.neocities.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Uburusiya: Abasirikare hafi 500.000 bamaze kugwa mu ntambara yo muri Ukraine</title>
+      <link>https://mifasarw.neocities.org/s/MN202611_15phl8tahpn.html</link>
+      <guid isPermaLink="true">https://mifasarw.neocities.org/s/MN202611_15phl8tahpn.html</guid>
+      <pubDate>Wed, 25 Nov 2026 07:59:42 GMT</pubDate>
+      <category>news</category>
+      <description>Ni amakuru yashyizwe hanze, bivugwa ko byakozwe n'abinjiriye Rosstat, ikigo cy'u Burusiya gishinzwe ibarurishamibare, agaragaza uburyo igitero gikomeye cyagabwe kuri Ukraine cyahinduye imiterere y'impfu mu Burusiya. (Isoko: BBC Gahuza)</description>
+      <media:thumbnail url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c446/live/c6772160-e8a5-11f1-99b6-a35a62fa4264.jpg"/>
+    </item>
     <item>
       <title>Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date</title>
       <link>https://mifasarw.neocities.org/s/MN202611_xurba2k7qw.html</link>
       <guid isPermaLink="true">https://mifasarw.neocities.org/s/MN202611_xurba2k7qw.html</guid>
       <pubDate>Wed, 25 Nov 2026 07:26:54 GMT</pubDate>
-      <category>news</category>
-      <description>The son of Zimbabwe's late former President Robert Mugabe has faced multiple legal troubles in the recent past. (Source: BBC Africa)</description>
+      <category>world</category>
+      <description>The son of Zimbabwe's late former President Robert Mugabe has faced multiple legal troubles in the recent past. (Source: BBC World)</description>
       <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4e2/live/505d3ac0-e89e-11f1-88cb-d14f0511e6fd.jpg"/>
     </item>
     <item>
@@ -85,7 +94,7 @@
       <guid isPermaLink="true">https://mifasarw.neocities.org/s/MN202611_1xazuodrs2z.html</guid>
       <pubDate>Wed, 25 Nov 2026 06:22:36 GMT</pubDate>
       <category>sports</category>
-      <description>Tottenham escaped an unthinkable Premier League relegation last season on the final day, but are Man Utd in danger of being the new Spurs? (Source: BBC Football)</description>
+      <description>Tottenham escaped an unthinkable Premier League relegation last season on the final day, but are Manchester United in danger of being the new Spurs? (Source: BBC Football)</description>
       <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f7/live/c5b34650-e80f-11f1-ab42-55d8d8278025.jpg"/>
     </item>
     <item>
@@ -359,7 +368,7 @@
       <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc72/live/fbc81740-e853-11f1-aa88-031e8213533d.jpg"/>
     </item>
     <item>
-      <title>China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds</title>
+      <title>Is China behind a wave of AI fake videos targeting Taiwan?</title>
       <link>https://mifasarw.neocities.org/s/MN202611_13a8xfh1twb.html</link>
       <guid isPermaLink="true">https://mifasarw.neocities.org/s/MN202611_13a8xfh1twb.html</guid>
       <pubDate>Tue, 24 Nov 2026 23:05:11 GMT</pubDate>
@@ -536,15 +545,6 @@
       <category>business</category>
       <description>There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it (Source: BBC Business)</description>
       <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ec8/live/8b0c59c0-e831-11f1-917e-35f1674fb52c.jpg"/>
-    </item>
-    <item>
-      <title>Igitabu Papa Francis yandikamwo ivyo acamwo buri musi kigaragaza ibivugwa ko yabonye shetani incuro zitatu</title>
-      <link>https://mifasarw.neocities.org/s/MN202611_6c0n08tjh2.html</link>
-      <guid isPermaLink="true">https://mifasarw.neocities.org/s/MN202611_6c0n08tjh2.html</guid>
-      <pubDate>Tue, 24 Nov 2026 17:20:07 GMT</pubDate>
-      <category>news</category>
-      <description>Uwo Mwungere yemeza ko hamwe mu ho yaboneye shetani ari &quot;mu kibanza gitaramutse abaririmvyi baririmbiramwo&quot;, mw'isengero. (Isoko: BBC Gahuza)</description>
-      <media:thumbnail url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6bfc/live/e3f9d920-e7f2-11f1-ab60-79086b6495b8.jpg"/>
     </item>
   </channel>
 </rss>
