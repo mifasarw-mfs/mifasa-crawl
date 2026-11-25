@@ -1,7 +1,47 @@
 {
  "day": "2026-11-24",
- "count": 99,
+ "count": 101,
  "articles": [
+  {
+   "id": "crawl_1iz1623",
+   "title": "Bellingham plays down Zidane comparison after wonder goal",
+   "summary": "Jose Mourinho says Jude Bellingham is the best midfielder in the world, but the Real Madrid star played down comparisons to Zinedine Zidane.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T23:54:10.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/204f/live/561f0780-e85e-11f1-8c24-5f78b2492e15.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/204f/live/561f0780-e85e-11f1-8c24-5f78b2492e15.jpg",
+   "title_en": "Bellingham plays down Zidane comparison after wonder goal",
+   "summary_en": "Jose Mourinho says Jude Bellingham is the best midfielder in the world, but the Real Madrid star played down comparisons to Zinedine Zidane.",
+   "share_id": "MN202611_1iz1623t3gp"
+  },
+  {
+   "id": "crawl_1tf8uir",
+   "title": "Arteta says Arsenal need more luck to kill off games",
+   "summary": "Arsenal need more luck to kill off games says manager Mikel Arteta after they are held to a draw by Borussia Dortmund.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c3ewv0kdjlp9o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c3ewv0kdjlp9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T23:44:04.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f58f/live/d9bad6f0-e859-11f1-9b85-e50d1e9de678.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f58f/live/d9bad6f0-e859-11f1-9b85-e50d1e9de678.jpg",
+   "title_en": "Arteta says Arsenal need more luck to kill off games",
+   "summary_en": "Arsenal need more luck to kill off games says manager Mikel Arteta after they are held to a draw by Borussia Dortmund.",
+   "share_id": "MN202611_1tf8uir0rxd"
+  },
   {
    "id": "crawl_gmkpzz",
    "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
@@ -2013,5 +2053,5 @@
    "share_id": "MN202611_12o0ve6trv0"
   }
  ],
- "updated": "2026-11-24T23:41:22.526Z"
+ "updated": "2026-11-25T00:00:20.263Z"
 }
