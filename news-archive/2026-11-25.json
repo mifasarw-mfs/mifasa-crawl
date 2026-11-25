@@ -1,7 +1,134 @@
 {
  "day": "2026-11-25",
- "count": 48,
+ "count": 54,
  "articles": [
+  {
+   "id": "crawl_1ylhugm",
+   "title": "Kagame yasabye urubyiruko rwa Afurika kudategereza ko abandi barugenera ejo hazaza",
+   "summary": "Perezida wa Repubulika, Paul Kagame, yasabye urubyiruko rwa Afurika kudategereza ko hari abandi bazarugenera ejo hazaza, ahubwo ko rukwiye gufata iya mbere mu kwiyubakira ubuzima rwifuza no kugira (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/kagame-yasabye-urubyiruko-rwa-afurika-kudategereza-ko-abandi-barugenera-ejo-hazaza",
+   "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/kagame-yasabye-urubyiruko-rwa-afurika-kudategereza-ko-abandi-barugenera-ejo-hazaza",
+   "date": "2026-11-25T11:42:10.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu Rwanda",
+    "MobileBigStory",
+    "Ernestine Musanabera"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/2026-11-25_13_22_59-_340_live__youthconnekt_africa_26___opening_ceremony___25_november_2026_-_you.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-25_13_22_59-_340_live__youthconnekt_africa_26___opening_ceremony___25_november_2026_-_you.png",
+   "title_rw": "Kagame yasabye urubyiruko rwa Afurika kudategereza ko abandi barugenera ejo hazaza",
+   "summary_rw": "Perezida wa Repubulika, Paul Kagame, yasabye urubyiruko rwa Afurika kudategereza ko hari abandi bazarugenera ejo hazaza, ahubwo ko rukwiye gufata iya mbere mu kwiyubakira ubuzima rwifuza no kugira (…)",
+   "share_id": "MN202611_1ylhugmpqc4"
+  },
+  {
+   "id": "crawl_17icww8",
+   "title": "Kagame Urges Africa to Become Equal Partner in Global AI Development",
+   "summary": "President Paul Kagame has urged African countries to strengthen collaboration, invest in local talent and develop the infrastructure needed to become equal partners in the global development of artificial intelligence (AI) and other emerging technologies. Speaking during the YouthConnekt Africa Summit 2026, Kagame said Africa has the human talent and technical expertise to participate…",
+   "link": "https://taarifa.rw/2026/11/25/kagame-urges-africa-to-become-equal-partner-in-global-ai-development/",
+   "url": "https://taarifa.rw/2026/11/25/kagame-urges-africa-to-become-equal-partner-in-global-ai-development/",
+   "date": "2026-11-25T11:41:00.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "National"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/C8C352AD-3D64-4670-ACC9-94FD123F07A3.jpeg?fit=1281%2C1600&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/C8C352AD-3D64-4670-ACC9-94FD123F07A3.jpeg?fit=1281%2C1600&ssl=1",
+   "title_en": "Kagame Urges Africa to Become Equal Partner in Global AI Development",
+   "summary_en": "President Paul Kagame has urged African countries to strengthen collaboration, invest in local talent and develop the infrastructure needed to become equal partners in the global development of artificial intelligence (AI) and other emerging technologies. Speaking during the YouthConnekt Africa Summit 2026, Kagame said Africa has the human talent and technical expertise to participate…",
+   "share_id": "MN202611_17icww8vjza"
+  },
+  {
+   "id": "crawl_yqo0e6",
+   "title": "Watford appoint Iordanescu as head coach",
+   "summary": "Watford appoint former Romania boss Edward Iordanescu as their new head coach after sacking Alessio Dionisi.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cv1j65j2lw3po?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cv1j65j2lw3po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T11:15:34.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18bc/live/26f95460-e809-11f1-95bb-3f37d3e026b0.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18bc/live/26f95460-e809-11f1-95bb-3f37d3e026b0.jpg",
+   "title_en": "Watford appoint Iordanescu as head coach",
+   "summary_en": "Watford appoint former Romania boss Edward Iordanescu as their new head coach after sacking Alessio Dionisi.",
+   "share_id": "MN202611_yqo0e6fxss"
+  },
+  {
+   "id": "crawl_emeuse",
+   "title": "Umukobwa wo muri Cabo Delgado yashimiye Perezida Kagame na RDF yahaye Mozambique Umutekano",
+   "summary": "Umukobwa ukiri muto wo muri Mozambique witabiriye inama ya YouthConnekt Africa Summit i Kigali, yashimiye Perezida Paul Kagame n’Ingabo z’u Rwanda (RDF) ku ruhare bagize mu kugarura umutekano mu (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/umukobwa-wo-muri-cabo-delgado-yashimiye-perezida-kagame-na-rdf-yahaye-mozambique-umutekano",
+   "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/umukobwa-wo-muri-cabo-delgado-yashimiye-perezida-kagame-na-rdf-yahaye-mozambique-umutekano",
+   "date": "2026-11-25T11:00:17.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu Rwanda",
+    "MobileBigStory",
+    "Oswald Niyonzima"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/2026-11-25_12_50_19-_340_live__youthconnekt_africa_26___opening_ceremony___25_november_2026_-_you.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-25_12_50_19-_340_live__youthconnekt_africa_26___opening_ceremony___25_november_2026_-_you.png",
+   "title_rw": "Umukobwa wo muri Cabo Delgado yashimiye Perezida Kagame na RDF yahaye Mozambique Umutekano",
+   "summary_rw": "Umukobwa ukiri muto wo muri Mozambique witabiriye inama ya YouthConnekt Africa Summit i Kigali, yashimiye Perezida Paul Kagame n’Ingabo z’u Rwanda (RDF) ku ruhare bagize mu kugarura umutekano mu (…)",
+   "share_id": "MN202611_emeuseftks"
+  },
+  {
+   "id": "crawl_1oq6g6l",
+   "title": "Kagame Says Africa’s Young Entrepreneurs Must Break Out of Entrepreneurial Silos",
+   "summary": "KIGALI– Africa’s growing entrepreneurial activity will not automatically translate into stronger businesses and more jobs unless young entrepreneurs learn to work together, President Paul Kagame has said. Speaking at the… The post Kagame Says Africa’s Young Entrepreneurs Must Break Out of Entrepreneurial Silos appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/kagame-says-africas-young-entrepreneurs-must-break-out-of-entrepreneurial-silos/",
+   "url": "https://www.ktpress.rw/2026/11/kagame-says-africas-young-entrepreneurs-must-break-out-of-entrepreneurial-silos/",
+   "date": "2026-11-25T10:59:31.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "National",
+    "big-story"
+   ],
+   "title_en": "Kagame Says Africa’s Young Entrepreneurs Must Break Out of Entrepreneurial Silos",
+   "summary_en": "KIGALI– Africa’s growing entrepreneurial activity will not automatically translate into stronger businesses and more jobs unless young entrepreneurs learn to work together, President Paul Kagame has said. Speaking at the… The post Kagame Says Africa’s Young Entrepreneurs Must Break Out of Entrepreneurial Silos appeared first on KT PRESS .",
+   "share_id": "MN202611_1oq6g6lvdu3"
+  },
+  {
+   "id": "crawl_llxq3e",
+   "title": "Hundreds complain about I'm A Celebrity after Mariella Frostrup called AJ Odudu 'aggressive'",
+   "summary": "More than 800 viewers complain to regulator Ofcom after a row between AJ Odudu and Mariella Frostrup.",
+   "link": "https://www.bbc.co.uk/news/articles/c6ly5v11q194o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6ly5v11q194o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T10:55:07.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4af/live/82a22580-e8c2-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4af/live/82a22580-e8c2-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Hundreds complain about I'm A Celebrity after Mariella Frostrup called AJ Odudu 'aggressive'",
+   "summary_en": "More than 800 viewers complain to regulator Ofcom after a row between AJ Odudu and Mariella Frostrup.",
+   "share_id": "MN202611_llxq3eqmk8"
+  },
   {
    "id": "crawl_lwyd6n",
    "title": "Lincoln sack head coach duo Cohen and Shaw",
@@ -987,5 +1114,5 @@
    "share_id": "MN202611_bihwaeasr8"
   }
  ],
- "updated": "2026-11-25T10:53:05.697Z"
+ "updated": "2026-11-25T11:46:13.046Z"
 }
