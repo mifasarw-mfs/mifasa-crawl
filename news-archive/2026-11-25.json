@@ -1,7 +1,48 @@
 {
  "day": "2026-11-25",
- "count": 33,
+ "count": 35,
  "articles": [
+  {
+   "id": "crawl_lq4d2s",
+   "title": "Why China has sent Pakistan's first astronaut into space",
+   "summary": "China launched its Shenzhou-24 space mission on Wednesday carrying three astronauts to its Tiangong space station, including Pakistan's Muhammad Zeeshan Ali, the first foreigner to join a Chinese crewed space mission.",
+   "link": "https://www.bbc.co.uk/news/videos/c3702x9ejk5ro?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/c3702x9ejk5ro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T09:37:29.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/755a/live/53dbc310-e8b2-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/755a/live/53dbc310-e8b2-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Why China has sent Pakistan's first astronaut into space",
+   "summary_en": "China launched its Shenzhou-24 space mission on Wednesday carrying three astronauts to its Tiangong space station, including Pakistan's Muhammad Zeeshan Ali, the first foreigner to join a Chinese crewed space mission.",
+   "share_id": "MN202611_lq4d2s105u"
+  },
+  {
+   "id": "crawl_1g3km2l",
+   "title": "Rwanda Targets Higher Foreign Exchange Earnings From Avocado Exports",
+   "summary": "Rwanda is stepping up efforts to position avocado as a major foreign exchange earner, with industry stakeholders exploring strategies to increase production, improve quality, attract investment and expand access to international markets. Avocado growers, exporters and officials from the National Agricultural Export Development Board (NAEB) have convened for a three-day meeting to examine…",
+   "link": "https://taarifa.rw/2026/11/25/rwanda-targets-higher-foreign-exchange-earnings-from-avocado-exports/",
+   "url": "https://taarifa.rw/2026/11/25/rwanda-targets-higher-foreign-exchange-earnings-from-avocado-exports/",
+   "date": "2026-11-25T09:10:39.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "Business"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/IMG_8391.jpeg?fit=2560%2C1920&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/IMG_8391.jpeg?fit=2560%2C1920&ssl=1",
+   "title_en": "Rwanda Targets Higher Foreign Exchange Earnings From Avocado Exports",
+   "summary_en": "Rwanda is stepping up efforts to position avocado as a major foreign exchange earner, with industry stakeholders exploring strategies to increase production, improve quality, attract investment and expand access to international markets. Avocado growers, exporters and officials from the National Agricultural Export Development Board (NAEB) have convened for a three-day meeting to examine…",
+   "share_id": "MN202611_1g3km2l395n"
+  },
   {
    "id": "crawl_15phl8t",
    "title": "Uburusiya: Abasirikare hafi 500.000 bamaze kugwa mu ntambara yo muri Ukraine",
@@ -677,5 +718,5 @@
    "share_id": "MN202611_bihwaeasr8"
   }
  ],
- "updated": "2026-11-25T08:32:07.766Z"
+ "updated": "2026-11-25T09:58:42.619Z"
 }
