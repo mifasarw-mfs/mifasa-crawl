@@ -7266,6 +7266,102 @@
    ],
    "auto": true,
    "taught": "2026-11-24"
+  },
+  {
+   "id": "ai16_b48be48d_q",
+   "label_rw": "Ubumenyi bwa gakondo mu kuroba mu mazi y'imbere mu gihugu",
+   "label_en": "Traditional Rwandan fishing techniques on inland waters",
+   "patterns_en": [
+    "What traditional methods were used for fishing in Rwanda?",
+    "What materials were used to make traditional fish traps?",
+    "Why was fishing important to the traditional Rwandan community?"
+   ],
+   "patterns_rw": [
+    "Ni ubuhe buryo bwa gakondo bwakoreshwaga mu kuroba mu Rwanda?",
+    "Ni ibiki byifashishwaga mu gukora imitego y'amafi ya gakondo?",
+    "Kuki kuroba byari ingenzi ku muryango nyarwanda wa gakondo?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Abaturage bo mu Rwanda bakoresaga ubumenyi bwa gakondo mu kuroba mu biyaga n'inzuzi. Bakoreshagaho imitego yabugenewe, insinga ziboshywe n'ibiti, hamwe n'ubwato bwakozwe mu biti byatumaga babona amafi yo kurya no kugurisha mu miryango yabo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "People in Rwanda used traditional knowledge to fish in lakes and rivers. They used specialized traps, woven lines and wooden poles, along with dugout canoes, which allowed them to secure fish for food and trade within their communities.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_ad4da69d_q",
+   "label_rw": "Uburyo bwa Gakondo bwo Gupima no Kubara mu Rwanda",
+   "label_en": "Traditional Measurement and Counting Systems in Rwanda",
+   "patterns_en": [
+    "What body parts were used for traditional measurements?",
+    "How did ancient Rwandans keep track of livestock numbers?",
+    "What tools were used for counting before modern numerals?"
+   ],
+   "patterns_rw": [
+    "Ni ubuhe buryo bwakoreshwaga mu gupima uburebure muri gakondo?",
+    "Ni iki cyakoreshwaga mu kubara amatungo mu Rwanda rwa kera?",
+    "Ni gute Abanyarwanda bafataga intera y'urugendo mbere y'ibipimo bigezweho?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mbere y'uburyo bugezweho, Abanyarwanda bakoreshaga ibice by'umubiri nka intangiriro yo gupima uburebure cyangwa intera. Urugero, intambwe yifashishwaga ku rugendo rurerure, naho ikiganza cyangwa uburebure bw'ukuboko bigakoreshwa ku bintu bifatika. Mu kubara, bakoreshaga ibiti cyangwa amabuye nk'ibimenyetso bifasha mu kubika amakuru y'imibare y'amatungo cyangwa umusaruro.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Before modern systems, Rwandans used body parts to measure length or distance. For example, a pace was used for longer journeys, while a hand span or arm length was used for physical objects. For counting, they typically used sticks or stones as markers to keep track of numbers of livestock or harvest yields.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_e3fd0f92_q",
+   "label_rw": "Ububaji bwa gakondo mu Rwanda",
+   "label_en": "Traditional Rwandan woodwork",
+   "patterns_en": [
+    "What items were made in traditional woodwork?",
+    "What tools were used by traditional woodcarvers?",
+    "How did traditional woodworkers shape timber?"
+   ],
+   "patterns_rw": [
+    "Ni ibiki bikoresho byakozwe mu bubaji bwa gakondo?",
+    "Ni izihe nyubako cyangwa ibintu byakoreshwaga mu bubaji?",
+    "Ni gute ababaji ba gakondo batunganyaga ibiti?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ububaji bwa gakondo mu Rwanda bwakoreshwaga mu gukora ibikoresho byo mu nzu, intebe, n'imizinga y'ubuki hifashishijwe ibiti. Ababaji b'Abanyarwanda bakoreshaga ibikoresho by'amaboko nk'imihoro n'imyonko kugira ngo batunganye ibiti neza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Traditional Rwandan woodwork was used to make household utensils, stools, and beehives using local timber. Rwandan woodcarvers used hand tools like machetes and adzes to carefully shape the wood.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_2f40e5fa_q",
+   "label_rw": "Umuco wo kwakira abashyitsi mu Rwanda",
+   "label_en": "Traditional Rwandan Hospitality",
+   "patterns_en": [
+    "What was traditionally offered to guests in Rwanda?",
+    "What does Rwandan hospitality signify?",
+    "Which values characterized traditional Rwandan welcoming rituals?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyahenerwaga umushyitsi mu Rwanda rwa kera?",
+    "Umuco wo kwakira abashyitsi uvuze iki?",
+    "Ni izihe ndangagaciro zaranze abanyarwanda mu kwakira abashyitsi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mu Rwanda rwa kera, kwakira umushyitsi byari ingenzi cyane. Bamuhaga ikaze, bakamuha amata cyangwa amazi yo kunywa nk' ikimenyetso cy' amahoro no kumwubaha. Ibyo byagaragarizaga ubupfura bw' umuryango.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "In traditional Rwanda, welcoming visitors was very important. Guests were traditionally offered milk or water as a sign of peace, respect, and goodwill, demonstrating the generosity of the household.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
   }
  ],
  "knowledge": [
@@ -13253,6 +13349,85 @@
    ],
    "auto": true,
    "taught": "2026-11-24"
+  },
+  {
+   "id": "ai16_b48be48d",
+   "category": "rwanda",
+   "title_rw": "Ubumenyi bwa gakondo mu kuroba mu mazi y'imbere mu gihugu",
+   "title_en": "Traditional Rwandan fishing techniques on inland waters",
+   "summary_rw": "Abaturage bo mu Rwanda bakoresaga ubumenyi bwa gakondo mu kuroba mu biyaga n'inzuzi. Bakoreshagaho imitego yabugenewe, insinga ziboshywe n'ibiti, hamwe n'ubwato bwakozwe mu biti byatumaga babona amafi yo kurya no kugurisha mu miryango yabo.",
+   "summary_en": "People in Rwanda used traditional knowledge to fish in lakes and rivers. They used specialized traps, woven lines and wooden poles, along with dugout canoes, which allowed them to secure fish for food and trade within their communities.",
+   "keywords": [
+    "kuroba",
+    "fishing",
+    "gakondo",
+    "traditional",
+    "amazi",
+    "waters",
+    "amafi",
+    "fish"
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_ad4da69d",
+   "category": "rwanda",
+   "title_rw": "Uburyo bwa Gakondo bwo Gupima no Kubara mu Rwanda",
+   "title_en": "Traditional Measurement and Counting Systems in Rwanda",
+   "summary_rw": "Mbere y'uburyo bugezweho, Abanyarwanda bakoreshaga ibice by'umubiri nka intangiriro yo gupima uburebure cyangwa intera. Urugero, intambwe yifashishwaga ku rugendo rurerure, naho ikiganza cyangwa uburebure bw'ukuboko bigakoreshwa ku bintu bifatika. Mu kubara, bakoreshaga ibiti cyangwa amabuye nk'ibimenyetso bifasha mu kubika amakuru y'imibare y'amatungo cyangwa umusaruro.",
+   "summary_en": "Before modern systems, Rwandans used body parts to measure length or distance. For example, a pace was used for longer journeys, while a hand span or arm length was used for physical objects. For counting, they typically used sticks or stones as markers to keep track of numbers of livestock or harvest yields.",
+   "keywords": [
+    "gakondo",
+    "gupima",
+    "kubara",
+    "uburebure",
+    "traditional",
+    "measurement",
+    "counting",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_e3fd0f92",
+   "category": "rwanda",
+   "title_rw": "Ububaji bwa gakondo mu Rwanda",
+   "title_en": "Traditional Rwandan woodwork",
+   "summary_rw": "Ububaji bwa gakondo mu Rwanda bwakoreshwaga mu gukora ibikoresho byo mu nzu, intebe, n'imizinga y'ubuki hifashishijwe ibiti. Ababaji b'Abanyarwanda bakoreshaga ibikoresho by'amaboko nk'imihoro n'imyonko kugira ngo batunganye ibiti neza.",
+   "summary_en": "Traditional Rwandan woodwork was used to make household utensils, stools, and beehives using local timber. Rwandan woodcarvers used hand tools like machetes and adzes to carefully shape the wood.",
+   "keywords": [
+    "ububaji",
+    "woodwork",
+    "gakondo",
+    "traditional",
+    "ibiti",
+    "timber",
+    "ubuki",
+    "beehives"
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_2f40e5fa",
+   "category": "rwanda",
+   "title_rw": "Umuco wo kwakira abashyitsi mu Rwanda",
+   "title_en": "Traditional Rwandan Hospitality",
+   "summary_rw": "Mu Rwanda rwa kera, kwakira umushyitsi byari ingenzi cyane. Bamuhaga ikaze, bakamuha amata cyangwa amazi yo kunywa nk' ikimenyetso cy' amahoro no kumwubaha. Ibyo byagaragarizaga ubupfura bw' umuryango.",
+   "summary_en": "In traditional Rwanda, welcoming visitors was very important. Guests were traditionally offered milk or water as a sign of peace, respect, and goodwill, demonstrating the generosity of the household.",
+   "keywords": [
+    "kwakira",
+    "abashyitsi",
+    "umuco",
+    "amata",
+    "amahoro",
+    "hospitality",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
   }
  ]
 }
