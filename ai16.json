@@ -7552,6 +7552,30 @@
    ],
    "auto": true,
    "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_485c7b7b_q",
+   "label_rw": "Amahame y'Ubuhanga bwa Porogaramu zishingiye ku Bintu",
+   "label_en": "Object-Oriented Programming Principles",
+   "patterns_en": [
+    "What are the main principles of object-oriented programming?",
+    "What does inheritance mean in programming?",
+    "Why do developers use object-oriented programming?"
+   ],
+   "patterns_rw": [
+    "Ni ayahe mahame y'ingenzi y'ubuhanga bwa porogaramu zishingiye ku bintu?",
+    "Ubusigarira muri porogaramu bisobanura iki?",
+    "Kuki abaporozeri bakoresha ubuhanga bwa porogaramu zishingiye ku bintu?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubuhanga bwa porogaramu zishingiye ku bintu bufite amahame ane y'ingenzi. Ayo mahame ni uguhisha amakuru, ubusigarira, kwitwara ukundi, n'uburyo bwinshi bwo kwitwara. Afasha abaporozeri gutunganya code no kuyisubiramo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Object-oriented programming is based on four main principles. These principles are encapsulation, inheritance, polymorphism, and abstraction. They help developers organize code and reuse it efficiently.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
   }
  ],
  "knowledge": [
@@ -13773,6 +13797,25 @@
     "water",
     "ubuzima",
     "health"
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_485c7b7b",
+   "category": "technology",
+   "title_rw": "Amahame y'Ubuhanga bwa Porogaramu zishingiye ku Bintu",
+   "title_en": "Object-Oriented Programming Principles",
+   "summary_rw": "Ubuhanga bwa porogaramu zishingiye ku bintu bufite amahame ane y'ingenzi. Ayo mahame ni uguhisha amakuru, ubusigarira, kwitwara ukundi, n'uburyo bwinshi bwo kwitwara. Afasha abaporozeri gutunganya code no kuyisubiramo.",
+   "summary_en": "Object-oriented programming is based on four main principles. These principles are encapsulation, inheritance, polymorphism, and abstraction. They help developers organize code and reuse it efficiently.",
+   "keywords": [
+    "porogaramu",
+    "programming",
+    "ibintu",
+    "objects",
+    "amahame",
+    "principles",
+    "code"
    ],
    "auto": true,
    "taught": "2026-11-25"
