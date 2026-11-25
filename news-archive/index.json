@@ -1,7 +1,12 @@
 {
- "updated": "2026-11-25T00:00:20.285Z",
- "total": 2755,
+ "updated": "2026-11-25T00:51:03.354Z",
+ "total": 2760,
  "days": [
+  {
+   "day": "2026-11-25",
+   "file": "news-archive/2026-11-25.json",
+   "count": 5
+  },
   {
    "day": "2026-11-24",
    "file": "news-archive/2026-11-24.json",
