@@ -1,7 +1,67 @@
 {
  "day": "2026-11-25",
- "count": 83,
+ "count": 88,
  "articles": [
+  {
+   "id": "crawl_10j1ljj",
+   "title": "'Justice for sport' - Afcon reaction as Senegal reinstated as winners",
+   "summary": "Players and officials in Senegal have welcomed the decision to reinstate the West Africans as Afcon 2025 champions, but those in Morocco still contest the decision.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6vg2e32e7vno?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6vg2e32e7vno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T17:32:30.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46c6/live/764fb5d0-e8eb-11f1-8808-1d4222955d7e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46c6/live/764fb5d0-e8eb-11f1-8808-1d4222955d7e.jpg",
+   "title_en": "'Justice for sport' - Afcon reaction as Senegal reinstated as winners",
+   "summary_en": "Players and officials in Senegal have welcomed the decision to reinstate the West Africans as Afcon 2025 champions, but those in Morocco still contest the decision.",
+   "share_id": "MN202611_10j1ljjtiy5"
+  },
+  {
+   "id": "crawl_1j1v88k",
+   "title": "Kinshasa yasavye insiguro Uganda, inyuma y'ivyatangajwe na Gen Muhoozi ku ntambara yo muri RDC",
+   "summary": "Mu vyo Gen Muhoozi yavuze biriko bitera impari, harimwo ko umuhari FRN urongowe na Joseph Kabila, ukwiye kwigarurira vuba akarere ka Walikale.",
+   "link": "https://www.bbc.com/gahuza/articles/ckregn0glwg7o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/ckregn0glwg7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T17:13:32.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8bff/live/c63e8590-e8ef-11f1-8808-1d4222955d7e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8bff/live/c63e8590-e8ef-11f1-8808-1d4222955d7e.jpg",
+   "title_rw": "Kinshasa yasavye insiguro Uganda, inyuma y'ivyatangajwe na Gen Muhoozi ku ntambara yo muri RDC",
+   "summary_rw": "Mu vyo Gen Muhoozi yavuze biriko bitera impari, harimwo ko umuhari FRN urongowe na Joseph Kabila, ukwiye kwigarurira vuba akarere ka Walikale.",
+   "share_id": "MN202611_1j1v88ko4pe"
+  },
+  {
+   "id": "crawl_16olcy",
+   "title": "EFL Trophy holders Luton face Palace U21s in last 32",
+   "summary": "EFL Trophy holders Luton Town will meet Crystal Palace Under-21s in the last 32 of the competition.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckzd9vqed5d7o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ckzd9vqed5d7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T17:12:57.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f8f/live/bd1aa2b0-e8da-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f8f/live/bd1aa2b0-e8da-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "EFL Trophy holders Luton face Palace U21s in last 32",
+   "summary_en": "EFL Trophy holders Luton Town will meet Crystal Palace Under-21s in the last 32 of the competition.",
+   "share_id": "MN202611_16olcykkqo"
+  },
   {
    "id": "crawl_i0i0ml",
    "title": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
@@ -361,6 +421,26 @@
    "title_en": "In Phnom Penh DRC Won Nothing, And Rwanda May Have Put OIF On Firmer Footing",
    "summary_en": "The Democratic Republic of Congo (DRC)’s representatives are frantically filling social news studio that will have them, claiming “victory” at the recently concluded summit of the Organisation internationale de la… The post In Phnom Penh DRC Won Nothing, And Rwanda May Have Put OIF On Firmer Footing appeared first on KT PRESS .",
    "share_id": "MN202611_8ayu5yjjis"
+  },
+  {
+   "id": "crawl_pi4cvj",
+   "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+   "summary": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
+   "link": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T14:06:13.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90a4/live/02d1fbb0-e8d5-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90a4/live/02d1fbb0-e8d5-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "Israeli strike kills senior Hamas security official and family in Gaza City",
+   "summary_en": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
+   "share_id": "MN202611_pi4cvjx9cd"
   },
   {
    "id": "crawl_z1q6rd",
@@ -865,6 +945,26 @@
    "title_rw": "Kagame yasabye urubyiruko kwirinda inzira z'ubusamo",
    "summary_rw": "Perezida Paul Kagame yasabye urubyiruko rwo muri Afurika kwisobanurira inshingano zarwo nk’abagomba kubaka ejo hazaza, aho gutegereza ko hari abandi barubwira icyo rugomba gukora. Ibi Perezida (…)",
    "share_id": "MN202611_1rmwlr7muwx"
+  },
+  {
+   "id": "crawl_1kwn0ik",
+   "title": "Protesters call on Israel to free Palestinian student held without charge",
+   "summary": "Mahdi Tunsi, 26, was taken from his university dormitory earlier this month and has since been held without charge.",
+   "link": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T10:03:42.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3883/live/d69e8c10-e8b7-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3883/live/d69e8c10-e8b7-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Protesters call on Israel to free Palestinian student held without charge",
+   "summary_en": "Mahdi Tunsi, 26, was taken from his university dormitory earlier this month and has since been held without charge.",
+   "share_id": "MN202611_1kwn0ikfwze"
   },
   {
    "id": "crawl_1x9alxq",
@@ -1702,5 +1802,5 @@
    "share_id": "MN202611_bihwaeasr8"
   }
  ],
- "updated": "2026-11-25T17:13:18.919Z"
+ "updated": "2026-11-25T17:43:58.987Z"
 }
