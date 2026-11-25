@@ -1,7 +1,47 @@
 {
  "day": "2026-11-25",
- "count": 105,
+ "count": 107,
  "articles": [
+  {
+   "id": "crawl_fu3nka",
+   "title": "Duran Duran guitarist Andy Taylor dies, aged 65",
+   "summary": "The musician, who co-wrote some of the band's biggest hits, had been treated for prostate cancer.",
+   "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T21:43:46.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf5e/live/c090fb90-e918-11f1-8383-53f283141713.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf5e/live/c090fb90-e918-11f1-8383-53f283141713.jpg",
+   "title_en": "Duran Duran guitarist Andy Taylor dies, aged 65",
+   "summary_en": "The musician, who co-wrote some of the band's biggest hits, had been treated for prostate cancer.",
+   "share_id": "MN202611_fu3nkawk14"
+  },
+  {
+   "id": "crawl_yfiibg",
+   "title": "Ferguson's Glentoran reign hits early turbulence",
+   "summary": "Duncan Ferguson's short tenure at Glentoran is already proving anything but straightforward with just one win so far and the former Everton striker now suspended for seven games.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cxzd9v7457nro?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cxzd9v7457nro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T21:41:00.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c6/live/644041b0-e90f-11f1-8383-53f283141713.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c6/live/644041b0-e90f-11f1-8383-53f283141713.jpg",
+   "title_en": "Ferguson's Glentoran reign hits early turbulence",
+   "summary_en": "Duncan Ferguson's short tenure at Glentoran is already proving anything but straightforward with just one win so far and the former Everton striker now suspended for seven games.",
+   "share_id": "MN202611_yfiibgafq2"
+  },
   {
    "id": "crawl_1fejg4a",
    "title": "Regulator chief 'has stomach' to face Man City",
@@ -2145,5 +2185,5 @@
    "share_id": "MN202611_bihwaeasr8"
   }
  ],
- "updated": "2026-11-25T21:30:12.954Z"
+ "updated": "2026-11-25T21:49:19.535Z"
 }
