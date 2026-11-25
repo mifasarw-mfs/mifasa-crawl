@@ -1,7 +1,47 @@
 {
  "day": "2026-11-25",
- "count": 119,
+ "count": 121,
  "articles": [
+  {
+   "id": "crawl_1twperz",
+   "title": "Martinez secures Inter win against Stuttgart",
+   "summary": "Lautaro Martinez comes off the bench to score as Inter Milan beat Stuttgart and boost their chances of reaching the Champions League knockout stages.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6j9mvjkkzymo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c6j9mvjkkzymo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T23:02:15.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7485/live/5a5ede90-e923-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7485/live/5a5ede90-e923-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Martinez secures Inter win against Stuttgart",
+   "summary_en": "Lautaro Martinez comes off the bench to score as Inter Milan beat Stuttgart and boost their chances of reaching the Champions League knockout stages.",
+   "share_id": "MN202611_1twperzyoa5"
+  },
+  {
+   "id": "crawl_q17ajw",
+   "title": "Long waits 'a tragedy' as thousands seek ADHD and autism assessments",
+   "summary": "A GP warns that long waits for ADHD and autism assessments mean those most in need are not being seen.",
+   "link": "https://www.bbc.co.uk/news/articles/ckvg6gyddx5vo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckvg6gyddx5vo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T23:01:45.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90b6/live/c066d7c0-e8eb-11f1-8808-1d4222955d7e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90b6/live/c066d7c0-e8eb-11f1-8808-1d4222955d7e.jpg",
+   "title_en": "Long waits 'a tragedy' as thousands seek ADHD and autism assessments",
+   "summary_en": "A GP warns that long waits for ADHD and autism assessments mean those most in need are not being seen.",
+   "share_id": "MN202611_q17ajw070q"
+  },
   {
    "id": "crawl_1d83yhs",
    "title": "Lammens howler denies Man Utd victory against Sporting in incident-packed game",
@@ -2426,5 +2466,5 @@
    "share_id": "MN202611_bihwaeasr8"
   }
  ],
- "updated": "2026-11-25T22:45:44.998Z"
+ "updated": "2026-11-25T23:18:59.086Z"
 }
