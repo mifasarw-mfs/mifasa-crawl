@@ -1,7 +1,26 @@
 {
  "day": "2026-11-25",
- "count": 64,
+ "count": 65,
  "articles": [
+  {
+   "id": "crawl_8ayu5y",
+   "title": "In Phnom Penh DRC Won Nothing, And Rwanda May Have Put OIF On Firmer Footing",
+   "summary": "The Democratic Republic of Congo (DRC)’s representatives are frantically filling social news studio that will have them, claiming “victory” at the recently concluded summit of the Organisation internationale de la… The post In Phnom Penh DRC Won Nothing, And Rwanda May Have Put OIF On Firmer Footing appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/in-phnom-penh-drc-won-nothing-and-rwanda-may-have-put-oif-on-firmer-footing/",
+   "url": "https://www.ktpress.rw/2026/11/in-phnom-penh-drc-won-nothing-and-rwanda-may-have-put-oif-on-firmer-footing/",
+   "date": "2026-11-25T14:13:34.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "Voices"
+   ],
+   "title_en": "In Phnom Penh DRC Won Nothing, And Rwanda May Have Put OIF On Firmer Footing",
+   "summary_en": "The Democratic Republic of Congo (DRC)’s representatives are frantically filling social news studio that will have them, claiming “victory” at the recently concluded summit of the Organisation internationale de la… The post In Phnom Penh DRC Won Nothing, And Rwanda May Have Put OIF On Firmer Footing appeared first on KT PRESS .",
+   "share_id": "MN202611_8ayu5yjjis"
+  },
   {
    "id": "crawl_z1q6rd",
    "title": "Trinity Metals Deploys New Technology to Unlock Deeper Mineral Deposits",
@@ -1322,5 +1341,5 @@
    "share_id": "MN202611_bihwaeasr8"
   }
  ],
- "updated": "2026-11-25T14:05:10.461Z"
+ "updated": "2026-11-25T14:23:55.719Z"
 }
