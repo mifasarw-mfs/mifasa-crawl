@@ -7362,6 +7362,101 @@
    ],
    "auto": true,
    "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_a9d0ee72_q",
+   "label_rw": "Gutembera kw'amaraso mu mubiri",
+   "label_en": "Human Blood Circulation",
+   "patterns_en": [
+    "What pumps blood in the body?",
+    "What does blood transport in the human body?",
+    "How does the heart work in blood circulation?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera amaraso mu mubiri?",
+    "Amaraso atwara iki mu mubiri w'umuntu?",
+    "Umutima ukora ute mu gutembera kw'amaraso?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Amaraso atembera mu mubiri w'umuntu yose. Umutima ni wo utera amaraso kugira ngo agere mu ngingo zitandukanye. Amaraso atwara umwuka wa ogisijeni n'intungamubiri mu bice byose by'umubiri. Nanone akura imyanda mu mubiri.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Blood circulates throughout the human body. The heart pumps blood so it reaches different organs. Blood transports oxygen and nutrients to all parts of the body. It also removes waste products from the body.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_48c65196_q",
+   "label_rw": "Ibisigazwa by'ibinyabuzima bya kera n'ihindagurika",
+   "label_en": "Fossils and Evolution",
+   "patterns_en": [
+    "What are fossils?",
+    "How do fossils help scientists?",
+    "How is the age of a fossil determined?"
+   ],
+   "patterns_rw": [
+    "Ibisigazwa ni iki?",
+    "Ni gute ibisigazwa bifasha abahanga mu bumenyi?",
+    "Hafatwa iki ngo hamenyekane imyaka y'ibisigazwa?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ibisigazwa ni ibisigisigi by'ibinyabuzima byabayeho kera cyane bikaba byarabitse mu mabuye. Bifasha abahanga gusobanura uburyo ibinyabuzima byagiye bihinduka kandi bigahuzwa n'ibihe bitandukanye mu mateka y'isi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Fossils are the preserved remains of ancient organisms found in rocks. They help scientists understand how life has changed and adapted over millions of years of Earth's history.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_e25137b4_q",
+   "label_rw": "Kuraguza k'izuba n'ukwezi",
+   "label_en": "Eclipses of the Sun and Moon",
+   "patterns_en": [
+    "What causes a solar eclipse?",
+    "How does a lunar eclipse differ from a solar eclipse?",
+    "When does a solar eclipse happen?"
+   ],
+   "patterns_rw": [
+    "Kuraguza k'izuba bitezwa n'iki?",
+    "Kuraguza k'ukwezi bitandukaniye hehe n'ukw'izuba?",
+    "Ni ryari kuraguza k'izuba bibaho?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kuraguza k'izuba bibaho iyo ukwezi kunyura hagati y'izuba n'isi. Kuraguza k'ukwezi bibaho iyo isi iri hagati y'izuba n'ukwezi. Ibi bintu bibaho bitewe n'uko imibumbe igenda mu kirere.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "A solar eclipse occurs when the Moon passes between the Sun and the Earth. A lunar eclipse happens when the Earth is positioned directly between the Sun and the Moon. These events are natural results of orbital mechanics.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_b4bbff5a_q",
+   "label_rw": "Imiterere y'uturemangingo shingiro n'umurage",
+   "label_en": "Basic Genetics and Heredity",
+   "patterns_en": [
+    "How is heredity passed down?",
+    "What do genes determine?"
+   ],
+   "patterns_rw": [
+    "Uturemangingo shingiro ni iki?",
+    "Amakuru y'umurage aturuka he?",
+    "DNA ikora iki mu mubiri?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Uturemangingo shingiro twitwa DNA twerekana uko ibinyabuzima bisa n'uko bikora. DNA ibonekamo amakuru y'umurage umwana avana ku babyeyi be. Aya makuru ni yo agena ibiranga umuntu nko gufata isura ye cyangwa uburebure bwe.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Genetics is the study of heredity and how traits are passed from parents to offspring. DNA carries the genetic code that determines characteristics such as eye color and height in living organisms.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
   }
  ],
  "knowledge": [
@@ -13425,6 +13520,85 @@
     "amahoro",
     "hospitality",
     "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_a9d0ee72",
+   "category": "science",
+   "title_rw": "Gutembera kw'amaraso mu mubiri",
+   "title_en": "Human Blood Circulation",
+   "summary_rw": "Amaraso atembera mu mubiri w'umuntu yose. Umutima ni wo utera amaraso kugira ngo agere mu ngingo zitandukanye. Amaraso atwara umwuka wa ogisijeni n'intungamubiri mu bice byose by'umubiri. Nanone akura imyanda mu mubiri.",
+   "summary_en": "Blood circulates throughout the human body. The heart pumps blood so it reaches different organs. Blood transports oxygen and nutrients to all parts of the body. It also removes waste products from the body.",
+   "keywords": [
+    "amaraso",
+    "blood",
+    "umutima",
+    "heart",
+    "ogisijeni",
+    "oxygen",
+    "imitsi",
+    "circulation"
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_48c65196",
+   "category": "science",
+   "title_rw": "Ibisigazwa by'ibinyabuzima bya kera n'ihindagurika",
+   "title_en": "Fossils and Evolution",
+   "summary_rw": "Ibisigazwa ni ibisigisigi by'ibinyabuzima byabayeho kera cyane bikaba byarabitse mu mabuye. Bifasha abahanga gusobanura uburyo ibinyabuzima byagiye bihinduka kandi bigahuzwa n'ibihe bitandukanye mu mateka y'isi.",
+   "summary_en": "Fossils are the preserved remains of ancient organisms found in rocks. They help scientists understand how life has changed and adapted over millions of years of Earth's history.",
+   "keywords": [
+    "ibisigazwa",
+    "fossils",
+    "ihindagurika",
+    "evolution",
+    "ubumenyi",
+    "science",
+    "amateka",
+    "history"
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_e25137b4",
+   "category": "science",
+   "title_rw": "Kuraguza k'izuba n'ukwezi",
+   "title_en": "Eclipses of the Sun and Moon",
+   "summary_rw": "Kuraguza k'izuba bibaho iyo ukwezi kunyura hagati y'izuba n'isi. Kuraguza k'ukwezi bibaho iyo isi iri hagati y'izuba n'ukwezi. Ibi bintu bibaho bitewe n'uko imibumbe igenda mu kirere.",
+   "summary_en": "A solar eclipse occurs when the Moon passes between the Sun and the Earth. A lunar eclipse happens when the Earth is positioned directly between the Sun and the Moon. These events are natural results of orbital mechanics.",
+   "keywords": [
+    "izuba",
+    "ukwezi",
+    "isi",
+    "kuraguza",
+    "sun",
+    "moon",
+    "earth",
+    "eclipse"
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_b4bbff5a",
+   "category": "science",
+   "title_rw": "Imiterere y'uturemangingo shingiro n'umurage",
+   "title_en": "Basic Genetics and Heredity",
+   "summary_rw": "Uturemangingo shingiro twitwa DNA twerekana uko ibinyabuzima bisa n'uko bikora. DNA ibonekamo amakuru y'umurage umwana avana ku babyeyi be. Aya makuru ni yo agena ibiranga umuntu nko gufata isura ye cyangwa uburebure bwe.",
+   "summary_en": "Genetics is the study of heredity and how traits are passed from parents to offspring. DNA carries the genetic code that determines characteristics such as eye color and height in living organisms.",
+   "keywords": [
+    "dna",
+    "uturemangingo",
+    "umurage",
+    "genetics",
+    "heredity",
+    "biology",
+    "ubumenyi"
    ],
    "auto": true,
    "taught": "2026-11-25"
