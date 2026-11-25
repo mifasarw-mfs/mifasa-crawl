@@ -1,7 +1,47 @@
 {
  "day": "2026-11-25",
- "count": 90,
+ "count": 93,
  "articles": [
+  {
+   "id": "crawl_so4el0",
+   "title": "Glasner criticises Forest players yet to learn English",
+   "summary": "Nottingham Forest manager Oliver Glasner has questioned why some of his squad cannot speak English after being in the country for a number of years.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T18:32:55.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3f7/live/c0988ec0-e8ee-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3f7/live/c0988ec0-e8ee-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Glasner criticises Forest players yet to learn English",
+   "summary_en": "Nottingham Forest manager Oliver Glasner has questioned why some of his squad cannot speak English after being in the country for a number of years.",
+   "share_id": "MN202611_so4el0wbzm"
+  },
+  {
+   "id": "crawl_1tpgd6u",
+   "title": "BBC appeals against decision to allow Trump's $10bn lawsuit to go ahead",
+   "summary": "The US president is suing the BBC over the way Panorama edited a speech he gave in 2021.",
+   "link": "https://www.bbc.co.uk/news/articles/cwdd1zn9npdpo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwdd1zn9npdpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T18:27:53.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f1e/live/27d88ec0-e8e3-11f1-a3b9-79c60ec9ab33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f1e/live/27d88ec0-e8e3-11f1-a3b9-79c60ec9ab33.jpg",
+   "title_en": "BBC appeals against decision to allow Trump's $10bn lawsuit to go ahead",
+   "summary_en": "The US president is suing the BBC over the way Panorama edited a speech he gave in 2021.",
+   "share_id": "MN202611_1tpgd6u99no"
+  },
   {
    "id": "crawl_tifd25",
    "title": "Uko umuryango International Alert wafashije Abanyarwanda bari barabuze ubutabera i Goma na Bukavu",
@@ -124,6 +164,26 @@
    "title_en": "'Best midfielder in the world' - where does Bellingham rank?",
    "summary_en": "Jose Mourinho called Real Madrid's Jude Bellingham \"the best midfielder in the world\", but where would you rank him?",
    "share_id": "MN202611_wbgqk7g4a"
+  },
+  {
+   "id": "crawl_1edit6s",
+   "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+   "summary": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+   "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T16:42:11.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9436/live/251a8890-e8d5-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9436/live/251a8890-e8d5-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+   "summary_en": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+   "share_id": "MN202611_1edit6sbpnm"
   },
   {
    "id": "crawl_z566uu",
@@ -1845,5 +1905,5 @@
    "share_id": "MN202611_bihwaeasr8"
   }
  ],
- "updated": "2026-11-25T17:58:04.084Z"
+ "updated": "2026-11-25T18:41:27.876Z"
 }
