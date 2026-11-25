@@ -1,7 +1,27 @@
 {
  "day": "2026-11-25",
- "count": 32,
+ "count": 33,
  "articles": [
+  {
+   "id": "crawl_15phl8t",
+   "title": "Uburusiya: Abasirikare hafi 500.000 bamaze kugwa mu ntambara yo muri Ukraine",
+   "summary": "Ni amakuru yashyizwe hanze, bivugwa ko byakozwe n'abinjiriye Rosstat, ikigo cy'u Burusiya gishinzwe ibarurishamibare, agaragaza uburyo igitero gikomeye cyagabwe kuri Ukraine cyahinduye imiterere y'impfu mu Burusiya.",
+   "link": "https://www.bbc.com/gahuza/articles/ckz74lr9dynvo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/ckz74lr9dynvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T07:59:42.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c446/live/c6772160-e8a5-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c446/live/c6772160-e8a5-11f1-99b6-a35a62fa4264.jpg",
+   "title_rw": "Uburusiya: Abasirikare hafi 500.000 bamaze kugwa mu ntambara yo muri Ukraine",
+   "summary_rw": "Ni amakuru yashyizwe hanze, bivugwa ko byakozwe n'abinjiriye Rosstat, ikigo cy'u Burusiya gishinzwe ibarurishamibare, agaragaza uburyo igitero gikomeye cyagabwe kuri Ukraine cyahinduye imiterere y'impfu mu Burusiya.",
+   "share_id": "MN202611_15phl8tahpn"
+  },
   {
    "id": "crawl_xurba2",
    "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
@@ -657,5 +677,5 @@
    "share_id": "MN202611_bihwaeasr8"
   }
  ],
- "updated": "2026-11-25T07:56:23.413Z"
+ "updated": "2026-11-25T08:32:07.766Z"
 }
