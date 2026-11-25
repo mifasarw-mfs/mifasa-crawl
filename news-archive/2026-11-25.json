@@ -1,7 +1,30 @@
 {
  "day": "2026-11-25",
- "count": 88,
+ "count": 90,
  "articles": [
+  {
+   "id": "crawl_tifd25",
+   "title": "Uko umuryango International Alert wafashije Abanyarwanda bari barabuze ubutabera i Goma na Bukavu",
+   "summary": "Mu myaka ibiri ishize, Ishimwe Amon, yambutse umupaka w’u Rwanda jya Kongo aciye I Kamanyola, aho yari agiye kwikorera ibiraka bye byo gusudira. Amaze kwemererwa n’uruhande rushinzwe abinjira (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/Uko-umuryango-International-Alert-wafashije-Abanyarwanda-bari-barabuze-ubutabera-i-Goma-na-Bukavu",
+   "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/Uko-umuryango-International-Alert-wafashije-Abanyarwanda-bari-barabuze-ubutabera-i-Goma-na-Bukavu",
+   "date": "2026-11-25T17:44:54.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu Rwanda",
+    "MobileBigStory",
+    "Jean de la Croix Tabaro"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-24_at_13.21_34_2_.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-24_at_13.21_34_2_.jpg",
+   "title_rw": "Uko umuryango International Alert wafashije Abanyarwanda bari barabuze ubutabera i Goma na Bukavu",
+   "summary_rw": "Mu myaka ibiri ishize, Ishimwe Amon, yambutse umupaka w’u Rwanda jya Kongo aciye I Kamanyola, aho yari agiye kwikorera ibiraka bye byo gusudira. Amaze kwemererwa n’uruhande rushinzwe abinjira (…)",
+   "share_id": "MN202611_tifd25nuwr"
+  },
   {
    "id": "crawl_10j1ljj",
    "title": "'Justice for sport' - Afcon reaction as Senegal reinstated as winners",
@@ -221,6 +244,26 @@
    "title_en": "US stocks fall further as fears over AI intensify",
    "summary_en": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
    "share_id": "MN202611_1um3q1qwmik"
+  },
+  {
+   "id": "crawl_wrw593",
+   "title": "Exeter defender Harper 'honoured' by Kenya cap",
+   "summary": "Exeter City defender Vincent Harper says he has relished the chance to play for Kenya during the international break.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj5y1pkgxq1ro?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cj5y1pkgxq1ro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T15:23:32.000Z",
+   "source": "BBC Sport Africa",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Sport Africa",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0da7/live/59998e30-e8e0-11f1-a3b9-79c60ec9ab33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0da7/live/59998e30-e8e0-11f1-a3b9-79c60ec9ab33.jpg",
+   "title_en": "Exeter defender Harper 'honoured' by Kenya cap",
+   "summary_en": "Exeter City defender Vincent Harper says he has relished the chance to play for Kenya during the international break.",
+   "share_id": "MN202611_wrw593o2np"
   },
   {
    "id": "crawl_5eu59b",
@@ -1802,5 +1845,5 @@
    "share_id": "MN202611_bihwaeasr8"
   }
  ],
- "updated": "2026-11-25T17:43:58.987Z"
+ "updated": "2026-11-25T17:58:04.084Z"
 }
