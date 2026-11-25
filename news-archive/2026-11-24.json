@@ -1,6 +1,6 @@
 {
  "day": "2026-11-24",
- "count": 105,
+ "count": 106,
  "articles": [
   {
    "id": "crawl_1iz1623",
@@ -141,6 +141,26 @@
    "title_en": "A question of trust in the NHS could be Swinney's most dangerous political moment",
    "summary_en": "The Scottish government has to convince the public and political rivals that it has a grip on the problems at NHS Grampian.",
    "share_id": "MN202611_5uilprh1n"
+  },
+  {
+   "id": "crawl_1yd7kjk",
+   "title": "Watch: Flock of turkeys chases woman on Massachusetts pavement",
+   "summary": "The woman said she had to jump into a stranger's car to escape a flock of turkeys that chased her down the sidewalk.",
+   "link": "https://www.bbc.co.uk/news/videos/cknv4mq93gd2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cknv4mq93gd2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T22:07:30.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/183e/live/1983e580-e853-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/183e/live/1983e580-e853-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Watch: Flock of turkeys chases woman on Massachusetts pavement",
+   "summary_en": "The woman said she had to jump into a stranger's car to escape a flock of turkeys that chased her down the sidewalk.",
+   "share_id": "MN202611_1yd7kjk05ni"
   },
   {
    "id": "crawl_mv99zv",
@@ -2133,5 +2153,5 @@
    "share_id": "MN202611_12o0ve6trv0"
   }
  ],
- "updated": "2026-11-25T06:59:29.268Z"
+ "updated": "2026-11-25T07:56:23.422Z"
 }

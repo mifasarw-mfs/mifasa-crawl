@@ -1,7 +1,67 @@
 {
  "day": "2026-11-25",
- "count": 27,
+ "count": 32,
  "articles": [
+  {
+   "id": "crawl_xurba2",
+   "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
+   "summary": "The son of Zimbabwe's late former President Robert Mugabe has faced multiple legal troubles in the recent past.",
+   "link": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T07:26:54.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4e2/live/505d3ac0-e89e-11f1-88cb-d14f0511e6fd.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4e2/live/505d3ac0-e89e-11f1-88cb-d14f0511e6fd.jpg",
+   "title_en": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
+   "summary_en": "The son of Zimbabwe's late former President Robert Mugabe has faced multiple legal troubles in the recent past.",
+   "share_id": "MN202611_xurba2k7qw"
+  },
+  {
+   "id": "crawl_1mj7xdt",
+   "title": "How to unearth young stars, the Bayern Munich way",
+   "summary": "Bayern Munich initially aim to find local young players from Bavaria before looking further afield - here's how they do it.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6702wddqz17o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6702wddqz17o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T07:22:27.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ef6/live/befff4e0-e4f2-11f1-8781-bf15c9202663.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ef6/live/befff4e0-e4f2-11f1-8781-bf15c9202663.jpg",
+   "title_en": "How to unearth young stars, the Bayern Munich way",
+   "summary_en": "Bayern Munich initially aim to find local young players from Bavaria before looking further afield - here's how they do it.",
+   "share_id": "MN202611_1mj7xdtzusf"
+  },
+  {
+   "id": "crawl_1ls6hei",
+   "title": "Nigeria: Umwami gakondo yahagaritswe ku mirimo ye nyuma yo kuregwa ihohotera rishingiye ku gitsina",
+   "summary": "Umwe mu bami gakondo bazwi cyane muri Nigeria, Emir wa Daura, yahagaritswe mu kazi no mu ngendo z'akazi, nyuma y'uko umugenzi w'umukerarugendo ukomoka muri Pologne amushinje kumukorera ihohotera rishingiye ku gitsina.",
+   "link": "https://www.bbc.com/gahuza/articles/cwdr13kgxnx4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/cwdr13kgxnx4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T07:02:39.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7479/live/115270f0-e896-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7479/live/115270f0-e896-11f1-a094-5fdc692f3e33.jpg",
+   "title_rw": "Nigeria: Umwami gakondo yahagaritswe ku mirimo ye nyuma yo kuregwa ihohotera rishingiye ku gitsina",
+   "summary_rw": "Umwe mu bami gakondo bazwi cyane muri Nigeria, Emir wa Daura, yahagaritswe mu kazi no mu ngendo z'akazi, nyuma y'uko umugenzi w'umukerarugendo ukomoka muri Pologne amushinje kumukorera ihohotera rishingiye ku gitsina.",
+   "share_id": "MN202611_1ls6heizdvc"
+  },
   {
    "id": "crawl_2vwx4r",
    "title": "Who am I? Plus today's other quizzes",
@@ -103,6 +163,26 @@
    "share_id": "MN202611_72gtd89pu2"
   },
   {
+   "id": "crawl_vrir45",
+   "title": "UK sent sex offender refugee to African country in undisclosed deal",
+   "summary": "The deal is said to be the first known case of the UK government forcibly resettling a refugee permanently overseas.",
+   "link": "https://www.bbc.co.uk/news/articles/c6z7407zrgwvo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6z7407zrgwvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T06:00:45.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b2/live/e454de40-e89e-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b2/live/e454de40-e89e-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "UK sent sex offender refugee to African country in undisclosed deal",
+   "summary_en": "The deal is said to be the first known case of the UK government forcibly resettling a refugee permanently overseas.",
+   "share_id": "MN202611_vrir45bnkz"
+  },
+  {
    "id": "crawl_300hsr",
    "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
    "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
@@ -121,6 +201,26 @@
    "title_en": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
    "summary_en": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
    "share_id": "MN202611_300hsrxg8p"
+  },
+  {
+   "id": "crawl_1ocf4x8",
+   "title": "Fatbergs, feathers and flocks of sheep - inside the new London Museum",
+   "summary": "The venue's new site at Smithfield Market opens on Saturday following a £437m restoration project.",
+   "link": "https://www.bbc.co.uk/news/articles/cky9708qj7wdo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cky9708qj7wdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T05:50:53.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce98/live/80ea8350-e826-11f1-93d4-6d580946ad80.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce98/live/80ea8350-e826-11f1-93d4-6d580946ad80.jpg",
+   "title_en": "Fatbergs, feathers and flocks of sheep - inside the new London Museum",
+   "summary_en": "The venue's new site at Smithfield Market opens on Saturday following a £437m restoration project.",
+   "share_id": "MN202611_1ocf4x881e2"
   },
   {
    "id": "crawl_98fly5",
@@ -557,5 +657,5 @@
    "share_id": "MN202611_bihwaeasr8"
   }
  ],
- "updated": "2026-11-25T06:59:29.268Z"
+ "updated": "2026-11-25T07:56:23.413Z"
 }
