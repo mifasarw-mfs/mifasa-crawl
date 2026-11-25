@@ -1,6 +1,6 @@
 {
  "day": "2026-11-25",
- "count": 8,
+ "count": 9,
  "articles": [
   {
    "id": "crawl_hn14l7",
@@ -61,6 +61,26 @@
    "title_en": "The rising cost of putting food on the table in India",
    "summary_en": "India's food inflation is broadening, squeezing household budgets.",
    "share_id": "MN202611_kew8kcp516"
+  },
+  {
+   "id": "crawl_1402j7o",
+   "title": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
+   "summary": "More than half a million people have fled their homes since separatist groups demanded independence for Cameroon's English-speaking regions.",
+   "link": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T01:00:36.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dac/live/653c0750-e7d1-11f1-83ab-9953b30aab1f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dac/live/653c0750-e7d1-11f1-83ab-9953b30aab1f.jpg",
+   "title_en": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
+   "summary_en": "More than half a million people have fled their homes since separatist groups demanded independence for Cameroon's English-speaking regions.",
+   "share_id": "MN202611_1402j7ovfoi"
   },
   {
    "id": "crawl_skv75j",
@@ -163,5 +183,5 @@
    "share_id": "MN202611_bihwaeasr8"
   }
  ],
- "updated": "2026-11-25T02:14:52.239Z"
+ "updated": "2026-11-25T03:29:26.366Z"
 }
