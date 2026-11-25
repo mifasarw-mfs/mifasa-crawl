@@ -7576,6 +7576,54 @@
    ],
    "auto": true,
    "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_56f81f0b_q",
+   "label_rw": "Ubumenyi bw'ibirere n'isanzure",
+   "label_en": "Introduction to astronomy and space",
+   "patterns_en": [
+    "What is astronomy?",
+    "What is studied in space science?",
+    "Why is astronomy important?"
+   ],
+   "patterns_rw": [
+    "Ubumenyi bw'ibirere ni iki?",
+    "Ni iki cyigishwa mu isanzure?",
+    "Ese ubumenyi bw'ibirere bufasha iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubumenyi bw'ibirere n'isanzure ni ishami ry'ubumenyi ryiga ibintu byose biri hanze y'umubumbe w'isi. Harimo inyenyeri, imibumbe, n'ibindi bice by'isanzure. Iri shami rifasha abantu gusobanukirwa inkomoko y'Isi n'ibiyikikije.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Astronomy and space science is the scientific study of everything outside Earth's atmosphere. It includes stars, planets, and other celestial objects. This field helps humans understand the origins of Earth and its surroundings.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_a6d856a3_q",
+   "label_rw": "Ubufasha bwa mbere ku ishuri",
+   "label_en": "First aid at school",
+   "patterns_en": [
+    "Why is first aid important at school?",
+    "What supplies are needed for first aid?",
+    "How can students prevent accidents at school?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma ubufasha bwa mbere buba ingenzi ku ishuri?",
+    "Ni ibikoresho ki biba bikenewe mu bufasha bwa mbere?",
+    "Ni gute abanyeshuri bashobora kwirinda imppanuka ku ishuri?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubufasha bwa mbere n'umutekano ku ishuri bifasha abanyeshuri n'abarimu gukumira imppanuka no kwita ku bakomeretse mbere y'uko bajyanwa kwa muganga. Amashuri agomba kugira ibikoresho by'ibanze by'ubufasha bwa mbere.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "First aid and safety basics at school help students and teachers prevent accidents and care for the injured before medical help arrives. Schools usually need to have basic first aid supplies available.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
   }
  ],
  "knowledge": [
@@ -13816,6 +13864,45 @@
     "amahame",
     "principles",
     "code"
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_56f81f0b",
+   "category": "education",
+   "title_rw": "Ubumenyi bw'ibirere n'isanzure",
+   "title_en": "Introduction to astronomy and space",
+   "summary_rw": "Ubumenyi bw'ibirere n'isanzure ni ishami ry'ubumenyi ryiga ibintu byose biri hanze y'umubumbe w'isi. Harimo inyenyeri, imibumbe, n'ibindi bice by'isanzure. Iri shami rifasha abantu gusobanukirwa inkomoko y'Isi n'ibiyikikije.",
+   "summary_en": "Astronomy and space science is the scientific study of everything outside Earth's atmosphere. It includes stars, planets, and other celestial objects. This field helps humans understand the origins of Earth and its surroundings.",
+   "keywords": [
+    "ubumenyi",
+    "ibirere",
+    "isanzure",
+    "inyenyeri",
+    "imibumbe",
+    "astronomy",
+    "space",
+    "science"
+   ],
+   "auto": true,
+   "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_a6d856a3",
+   "category": "education",
+   "title_rw": "Ubufasha bwa mbere ku ishuri",
+   "title_en": "First aid at school",
+   "summary_rw": "Ubufasha bwa mbere n'umutekano ku ishuri bifasha abanyeshuri n'abarimu gukumira imppanuka no kwita ku bakomeretse mbere y'uko bajyanwa kwa muganga. Amashuri agomba kugira ibikoresho by'ibanze by'ubufasha bwa mbere.",
+   "summary_en": "First aid and safety basics at school help students and teachers prevent accidents and care for the injured before medical help arrives. Schools usually need to have basic first aid supplies available.",
+   "keywords": [
+    "ubufasha",
+    "first",
+    "aid",
+    "ishuri",
+    "school",
+    "umutekano",
+    "safety"
    ],
    "auto": true,
    "taught": "2026-11-25"
