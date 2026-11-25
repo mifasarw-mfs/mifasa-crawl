@@ -1,7 +1,67 @@
 {
  "day": "2026-11-25",
- "count": 102,
+ "count": 105,
  "articles": [
+  {
+   "id": "crawl_1fejg4a",
+   "title": "Regulator chief 'has stomach' to face Man City",
+   "summary": "The chair of English football's independent regulator tells MPs he \"has the stomach\" to take potential action against Manchester City.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c65y10z8k59jo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c65y10z8k59jo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T21:27:35.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/894b/live/46715940-e913-11f1-8383-53f283141713.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/894b/live/46715940-e913-11f1-8383-53f283141713.jpg",
+   "title_en": "Regulator chief 'has stomach' to face Man City",
+   "summary_en": "The chair of English football's independent regulator tells MPs he \"has the stomach\" to take potential action against Manchester City.",
+   "share_id": "MN202611_1fejg4abdiw"
+  },
+  {
+   "id": "crawl_1vtnrit",
+   "title": "At least 30 killed in massive fire as fuel truck crashes on Cairo highway",
+   "summary": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+   "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T21:25:14.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49ab/live/4933ad90-e913-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49ab/live/4933ad90-e913-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "At least 30 killed in massive fire as fuel truck crashes on Cairo highway",
+   "summary_en": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+   "share_id": "MN202611_1vtnritgnzn"
+  },
+  {
+   "id": "crawl_2eg1k1",
+   "title": "Liverpool mull Quansah return - Thursday's gossip",
+   "summary": "Liverpool consider return for Jarrell Quansah, Tottenham scout Vangelis Pavlidis and Paris St-Germain target Estevao Willian, plus more",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6n831jk3x4mo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6n831jk3x4mo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T20:57:48.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cda/live/3cd95070-e901-11f1-a094-5fdc692f3e33.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cda/live/3cd95070-e901-11f1-a094-5fdc692f3e33.png",
+   "title_en": "Liverpool mull Quansah return - Thursday's gossip",
+   "summary_en": "Liverpool consider return for Jarrell Quansah, Tottenham scout Vangelis Pavlidis and Paris St-Germain target Estevao Willian, plus more",
+   "share_id": "MN202611_2eg1k1c0xr"
+  },
   {
    "id": "crawl_vr7a5y",
    "title": "French Combat Engineers in Rwanda to Build Anti-IED Capability",
@@ -2085,5 +2145,5 @@
    "share_id": "MN202611_bihwaeasr8"
   }
  ],
- "updated": "2026-11-25T20:31:22.231Z"
+ "updated": "2026-11-25T21:30:12.954Z"
 }
