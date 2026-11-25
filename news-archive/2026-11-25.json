@@ -1,7 +1,47 @@
 {
  "day": "2026-11-25",
- "count": 74,
+ "count": 76,
  "articles": [
+  {
+   "id": "crawl_1um3q1q",
+   "title": "US stocks fall further as fears over AI intensify",
+   "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+   "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T15:24:34.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76b3/live/acdb5650-e8e0-11f1-a3b9-79c60ec9ab33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76b3/live/acdb5650-e8e0-11f1-a3b9-79c60ec9ab33.jpg",
+   "title_en": "US stocks fall further as fears over AI intensify",
+   "summary_en": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+   "share_id": "MN202611_1um3q1qwmik"
+  },
+  {
+   "id": "crawl_5eu59b",
+   "title": "Five Mexicans arrested in Nigeria over $227m meth lab",
+   "summary": "This is the fourth industrial-scale meth laboratory with alleged links to Mexican drug cartels to have been discovered in Nigeria in recent months.",
+   "link": "https://www.bbc.co.uk/news/articles/c6x20lw8955no?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6x20lw8955no?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T15:11:15.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e9a/live/d8c60350-e8e0-11f1-a3b9-79c60ec9ab33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e9a/live/d8c60350-e8e0-11f1-a3b9-79c60ec9ab33.jpg",
+   "title_en": "Five Mexicans arrested in Nigeria over $227m meth lab",
+   "summary_en": "This is the fourth industrial-scale meth laboratory with alleged links to Mexican drug cartels to have been discovered in Nigeria in recent months.",
+   "share_id": "MN202611_5eu59bn1q5"
+  },
   {
    "id": "crawl_4qigug",
    "title": "Kagame Urges Africa to Become Equal Partner in Global AI Development",
@@ -1522,5 +1562,5 @@
    "share_id": "MN202611_bihwaeasr8"
   }
  ],
- "updated": "2026-11-25T15:07:05.919Z"
+ "updated": "2026-11-25T15:31:00.928Z"
 }
