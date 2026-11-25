@@ -1,6 +1,6 @@
 {
  "day": "2026-11-24",
- "count": 106,
+ "count": 107,
  "articles": [
   {
    "id": "crawl_1iz1623",
@@ -461,6 +461,26 @@
    "title_en": "Faisal Islam: Fears over the AI boom haven't gone away",
    "summary_en": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
    "share_id": "MN202611_guvrxyooes"
+  },
+  {
+   "id": "crawl_rmc9nb",
+   "title": "Cas verdict 'good for African football' - Diarra",
+   "summary": "Senegalese football journalist Babacar Diarra says the decision to reinstate Senegal as winners of the 2025 Africa Cup of Nations by the Court of Arbitration for Sport is 'good for African football'.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ck868gq0e67yo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/ck868gq0e67yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T17:58:16.000Z",
+   "source": "BBC Sport Africa",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Sport Africa",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6523/live/ef7ed650-e82f-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6523/live/ef7ed650-e82f-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Cas verdict 'good for African football' - Diarra",
+   "summary_en": "Senegalese football journalist Babacar Diarra says the decision to reinstate Senegal as winners of the 2025 Africa Cup of Nations by the Court of Arbitration for Sport is 'good for African football'.",
+   "share_id": "MN202611_rmc9nbpl4l"
   },
   {
    "id": "crawl_6c0n08",
@@ -2153,5 +2173,5 @@
    "share_id": "MN202611_12o0ve6trv0"
   }
  ],
- "updated": "2026-11-25T07:56:23.422Z"
+ "updated": "2026-11-25T12:51:07.326Z"
 }
