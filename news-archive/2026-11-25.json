@@ -1,7 +1,47 @@
 {
  "day": "2026-11-25",
- "count": 100,
+ "count": 102,
  "articles": [
+  {
+   "id": "crawl_vr7a5y",
+   "title": "French Combat Engineers in Rwanda to Build Anti-IED Capability",
+   "summary": "French military combat engineering experts are in Rwanda to help the Rwanda Defence Force (RDF) develop specialised capabilities to detect, prevent and respond to improvised explosive devices (IEDs), commonly known… The post French Combat Engineers in Rwanda to Build Anti-IED Capability appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/french-combat-engineers-in-rwanda-to-build-anti-ied-capability/",
+   "url": "https://www.ktpress.rw/2026/11/french-combat-engineers-in-rwanda-to-build-anti-ied-capability/",
+   "date": "2026-11-25T20:15:20.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "International",
+    "latestnews"
+   ],
+   "title_en": "French Combat Engineers in Rwanda to Build Anti-IED Capability",
+   "summary_en": "French military combat engineering experts are in Rwanda to help the Rwanda Defence Force (RDF) develop specialised capabilities to detect, prevent and respond to improvised explosive devices (IEDs), commonly known… The post French Combat Engineers in Rwanda to Build Anti-IED Capability appeared first on KT PRESS .",
+   "share_id": "MN202611_vr7a5yzkyc"
+  },
+  {
+   "id": "crawl_w2a30t",
+   "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+   "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
+   "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T19:47:39.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d91d/live/f0a5ecf0-e8fa-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d91d/live/f0a5ecf0-e8fa-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "Israeli judges recommend dropping most serious charges against Netanyahu",
+   "summary_en": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
+   "share_id": "MN202611_w2a30t2zhn"
+  },
   {
    "id": "crawl_1l3cgpj",
    "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
@@ -2045,5 +2085,5 @@
    "share_id": "MN202611_bihwaeasr8"
   }
  ],
- "updated": "2026-11-25T19:39:41.935Z"
+ "updated": "2026-11-25T20:31:22.231Z"
 }
