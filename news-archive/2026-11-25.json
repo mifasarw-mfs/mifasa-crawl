@@ -1,7 +1,67 @@
 {
  "day": "2026-11-25",
- "count": 5,
+ "count": 8,
  "articles": [
+  {
+   "id": "crawl_hn14l7",
+   "title": "Will there be a White Christmas this year?",
+   "summary": "It is just a month until the big day but what do the early signs say about the chances of a white Christmas in the UK?",
+   "link": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T01:03:24.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed6d/live/7d7bb080-e764-11f1-b407-33329b1ec67a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed6d/live/7d7bb080-e764-11f1-b407-33329b1ec67a.jpg",
+   "title_en": "Will there be a White Christmas this year?",
+   "summary_en": "It is just a month until the big day but what do the early signs say about the chances of a white Christmas in the UK?",
+   "share_id": "MN202611_hn14l7j76h"
+  },
+  {
+   "id": "crawl_19a77tq",
+   "title": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
+   "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+   "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T01:03:05.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e638/live/844e1780-e864-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e638/live/844e1780-e864-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
+   "summary_en": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+   "share_id": "MN202611_19a77tq04ak"
+  },
+  {
+   "id": "crawl_kew8kc",
+   "title": "The rising cost of putting food on the table in India",
+   "summary": "India's food inflation is broadening, squeezing household budgets.",
+   "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T01:02:13.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e93a/live/237a32d0-e7d4-11f1-939f-471cde339c0e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e93a/live/237a32d0-e7d4-11f1-939f-471cde339c0e.jpg",
+   "title_en": "The rising cost of putting food on the table in India",
+   "summary_en": "India's food inflation is broadening, squeezing household budgets.",
+   "share_id": "MN202611_kew8kcp516"
+  },
   {
    "id": "crawl_skv75j",
    "title": "US preparing to unveil new tariffs on global trading partners",
@@ -103,5 +163,5 @@
    "share_id": "MN202611_bihwaeasr8"
   }
  ],
- "updated": "2026-11-25T00:51:03.332Z"
+ "updated": "2026-11-25T02:14:52.239Z"
 }
