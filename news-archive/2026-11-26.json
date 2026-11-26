@@ -1,7 +1,47 @@
 {
  "day": "2026-11-26",
- "count": 85,
+ "count": 88,
  "articles": [
+  {
+   "id": "crawl_lbkqg0",
+   "title": "Germany's Freigang given 16-month ban over drugs test issues",
+   "summary": "Germany international Laura Freigang is suspended from football for 16 months over issues relating to three drugs tests.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqlym4rd3y52o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqlym4rd3y52o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T17:12:45.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5436/live/5b4afef0-e9b5-11f1-8d2a-f5d2aabc11cb.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5436/live/5b4afef0-e9b5-11f1-8d2a-f5d2aabc11cb.jpg",
+   "title_en": "Germany's Freigang given 16-month ban over drugs test issues",
+   "summary_en": "Germany international Laura Freigang is suspended from football for 16 months over issues relating to three drugs tests.",
+   "share_id": "MN202611_lbkqg0cnum"
+  },
+  {
+   "id": "crawl_1npaky6",
+   "title": "Huw Edwards gives first interviews since child abuse image conviction",
+   "summary": "The disgraced ex-BBC News presenter will appear in a TV documentary, newspaper interview and podcast.",
+   "link": "https://www.bbc.co.uk/news/articles/c38x05jrjnx7o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c38x05jrjnx7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T17:09:21.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dd8/live/1cae3a30-e9a2-11f1-b880-15b494ba858d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dd8/live/1cae3a30-e9a2-11f1-b880-15b494ba858d.jpg",
+   "title_en": "Huw Edwards gives first interviews since child abuse image conviction",
+   "summary_en": "The disgraced ex-BBC News presenter will appear in a TV documentary, newspaper interview and podcast.",
+   "share_id": "MN202611_1npaky63hf0"
+  },
   {
    "id": "crawl_23jfdb",
    "title": "Fofana has apologised for interview - Alonso",
@@ -183,6 +223,26 @@
    "title_rw": "Burundi: Reta yadugije igiciro c'icayi mu gihe abarimyi basa n'abari badebukiwe",
    "summary_rw": "Haraciye igihe kitari gito abarimyi bidoga ko uburimyi bw'icayi butagishobora kubabeshaho kubera ubuzima buzimvye. Hageze n’igihe bamwe barandura imirima y’ico giterwa kugira bahatere ibishobora kubatunga.",
    "share_id": "MN202611_1is0k9ntgqh"
+  },
+  {
+   "id": "crawl_xi0bxo",
+   "title": "Protesters disrupt Paul Smith's book talk",
+   "summary": "The fashion firm says it is committed to animal welfare following protests at a book tour event.",
+   "link": "https://www.bbc.co.uk/news/articles/cvj6lyz61rpko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cvj6lyz61rpko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T15:14:28.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03fb/live/4c340780-aaa5-11f1-aed2-8d6da8d75094.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03fb/live/4c340780-aaa5-11f1-aed2-8d6da8d75094.jpg",
+   "title_en": "Protesters disrupt Paul Smith's book talk",
+   "summary_en": "The fashion firm says it is committed to animal welfare following protests at a book tour event.",
+   "share_id": "MN202611_xi0bxot8ei"
   },
   {
    "id": "crawl_l163k1",
@@ -1730,5 +1790,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T16:50:57.707Z"
+ "updated": "2026-11-26T17:42:05.115Z"
 }
