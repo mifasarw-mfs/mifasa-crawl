@@ -5,8 +5,17 @@
     <link>https://mifasarw.neocities.org/</link>
     <description>Inkuru zigezweho mu Rwanda no ku Isi, na Video za MIFASARW.</description>
     <language>rw</language>
-    <lastBuildDate>Wed, 25 Nov 2026 23:38:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 00:01:37 GMT</lastBuildDate>
     <atom:link href="https://mifasarw.neocities.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Guitar wars - the transatlantic battle over the Stratocaster</title>
+      <link>https://mifasarw.neocities.org/s/MN202611_xrss11lohv.html</link>
+      <guid isPermaLink="true">https://mifasarw.neocities.org/s/MN202611_xrss11lohv.html</guid>
+      <pubDate>Thu, 26 Nov 2026 00:01:37 GMT</pubDate>
+      <category>business</category>
+      <description>US company Fender is in dispute with a German firm that makes generic versions of its key model. (Source: BBC Business)</description>
+      <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67c1/live/7aa1e2b0-e80b-11f1-99a1-253766e7ad8b.jpg"/>
+    </item>
     <item>
       <title>How Isak and Wirtz are becoming Liverpool's 'big-game players'</title>
       <link>https://mifasarw.neocities.org/s/MN202611_uoxhuaatbk.html</link>
@@ -532,15 +541,6 @@
       <category>world</category>
       <description>The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine. (Source: BBC World)</description>
       <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/263d/live/670b2250-e8df-11f1-a3b9-79c60ec9ab33.jpg"/>
-    </item>
-    <item>
-      <title>New York's annual Thanksgiving Parade threatened by approaching storm</title>
-      <link>https://mifasarw.neocities.org/s/MN202611_d43pgxls27.html</link>
-      <guid isPermaLink="true">https://mifasarw.neocities.org/s/MN202611_d43pgxls27.html</guid>
-      <pubDate>Wed, 25 Nov 2026 14:41:42 GMT</pubDate>
-      <category>science</category>
-      <description>Strong winds and heavy rain are expected to impact celebrations across the USA, with the risk that the famous Macy's Thanksgiving Day parade could be impacted. (Source: BBC Science)</description>
-      <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bf7/live/ebffd790-e8c5-11f1-ac76-db9e97f93d67.jpg"/>
     </item>
   </channel>
 </rss>

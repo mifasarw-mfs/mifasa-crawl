@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_xrss11",
+  "title": "Guitar wars - the transatlantic battle over the Stratocaster",
+  "summary": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
+  "link": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-26T00:01:37.000Z",
+  "source": "BBC Business",
+  "category": "business",
+  "lang": "en",
+  "keywords": [
+   "BBC Business",
+   "business"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67c1/live/7aa1e2b0-e80b-11f1-99a1-253766e7ad8b.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67c1/live/7aa1e2b0-e80b-11f1-99a1-253766e7ad8b.jpg",
+  "title_en": "Guitar wars - the transatlantic battle over the Stratocaster",
+  "summary_en": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
+  "share_id": "MN202611_xrss11lohv"
+ },
+ {
   "id": "crawl_uoxhua",
   "title": "How Isak and Wirtz are becoming Liverpool's 'big-game players'",
   "summary": "Match of the Day's Stephen Warnock and Nedum Onuoha analyse the recent resurgence of Alexander Isak and Florian Wirtz for as they led Liverpool to victory against Club Brugge.debut seasons last year.",
@@ -16981,31 +17001,5 @@
   "title_en": "Will this be the tightest Championship promotion race ever?",
   "summary_en": "With five teams separated by just one point at the top of the Championship, could this be the best season yet?",
   "share_id": "MN202611_10c4etzwc8l"
- },
- {
-  "id": "crawl_18pv6w9",
-  "title": "LIVE 🔴TURI KUMAVI SERVICE With Evangelist Patrick",
-  "summary": "LIVE 🔴TURI KUMAVI SERVICE With Evangelist Patrick",
-  "link": "https://www.youtube.com/watch?v=HrTp9WiKwlo",
-  "url": "https://www.youtube.com/watch?v=HrTp9WiKwlo",
-  "date": "2026-11-19T12:34:53.000Z",
-  "source": "Wamufaransa Comedy YouTube",
-  "category": "entertainment",
-  "lang": "rw",
-  "keywords": [
-   "Wamufaransa Comedy YouTube",
-   "entertainment",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "HrTp9WiKwlo"
-  },
-  "type": "video",
-  "image": "https://i1.ytimg.com/vi/HrTp9WiKwlo/hqdefault.jpg",
-  "thumbnail": "https://i1.ytimg.com/vi/HrTp9WiKwlo/hqdefault.jpg",
-  "title_rw": "LIVE 🔴TURI KUMAVI SERVICE With Evangelist Patrick",
-  "summary_rw": "LIVE 🔴TURI KUMAVI SERVICE With Evangelist Patrick",
-  "share_id": "MN202611_18pv6w9r9qf"
  }
 ]
