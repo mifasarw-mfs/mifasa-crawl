@@ -1,7 +1,29 @@
 {
  "day": "2026-11-26",
- "count": 50,
+ "count": 51,
  "articles": [
+  {
+   "id": "crawl_xg833q",
+   "title": "Abanyarwanda 106 bari bamaze igihe mu mashyamba ya RDC batahutse",
+   "summary": "U Rwanda rwakiriye Abanyarwanda 106 biganjemo abana n’abagore bari bamaze igihe baba mu mashyamba ya Repubulika Iharanira Demokarasi ya Congo (RDC), bavuga ko bari barambiwe ubuzima bushaririye (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/abanyarwanda-106-bari-bamaze-igihe-mu-mashyamba-ya-rdc-batahutse",
+   "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/abanyarwanda-106-bari-bamaze-igihe-mu-mashyamba-ya-rdc-batahutse",
+   "date": "2026-11-26T11:47:55.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu Rwanda",
+    "MobileBigStory"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-26_at_11.14_48.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-26_at_11.14_48.jpg",
+   "title_rw": "Abanyarwanda 106 bari bamaze igihe mu mashyamba ya RDC batahutse",
+   "summary_rw": "U Rwanda rwakiriye Abanyarwanda 106 biganjemo abana n’abagore bari bamaze igihe baba mu mashyamba ya Repubulika Iharanira Demokarasi ya Congo (RDC), bavuga ko bari barambiwe ubuzima bushaririye (…)",
+   "share_id": "MN202611_xg833qtt1w"
+  },
   {
    "id": "crawl_y27zkk",
    "title": "Norse Atlantic suspends all flights as it faces potential collapse",
@@ -1018,5 +1040,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T11:41:13.097Z"
+ "updated": "2026-11-26T11:51:28.014Z"
 }
