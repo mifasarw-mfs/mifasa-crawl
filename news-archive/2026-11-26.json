@@ -1,7 +1,47 @@
 {
  "day": "2026-11-26",
- "count": 89,
+ "count": 92,
  "articles": [
+  {
+   "id": "crawl_1x78quy",
+   "title": "Second court defeat for Trump's deep-sea mining ambitions",
+   "summary": "Second judge rules against Trump administration's plans to lease areas of ocean floor and survey for mining.",
+   "link": "https://www.bbc.co.uk/news/articles/c6y4jyx2m172o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6y4jyx2m172o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T18:22:28.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c748/live/bfd18aa0-e9b1-11f1-859a-37130cd3a1d7.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c748/live/bfd18aa0-e9b1-11f1-859a-37130cd3a1d7.jpg",
+   "title_en": "Second court defeat for Trump's deep-sea mining ambitions",
+   "summary_en": "Second judge rules against Trump administration's plans to lease areas of ocean floor and survey for mining.",
+   "share_id": "MN202611_1x78quy1nbs"
+  },
+  {
+   "id": "crawl_iz9sry",
+   "title": "Calvert-Lewin signs new Leeds deal until 2029",
+   "summary": "England international Dominic Calvert-Lewin signs a new contract to stay with Leeds United until 2029.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T18:00:31.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aba/live/b46ac100-e9ba-11f1-8d2a-f5d2aabc11cb.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aba/live/b46ac100-e9ba-11f1-8d2a-f5d2aabc11cb.jpg",
+   "title_en": "Calvert-Lewin signs new Leeds deal until 2029",
+   "summary_en": "England international Dominic Calvert-Lewin signs a new contract to stay with Leeds United until 2029.",
+   "share_id": "MN202611_iz9sry1q6k"
+  },
   {
    "id": "crawl_10deke6",
    "title": "Did Scotland's departing chief medical officer actually do anything wrong?",
@@ -611,6 +651,26 @@
    "title_rw": "Ibiciro by'ibiribwa ku isoko bizatangira kugabanuka muri Mutarama 2027 - Guverineri wa Banki Nkuru y'u Rwanda",
    "summary_rw": "Guverineri wa Banki nkuru y’igihugu (BNR) Soraya Hakuziyaremye, yagiranye ikiganiro n’abanyamakuru kuri uyu wa Kane tariki 26 Ugushyingo 2026, agaragaza uko politiki y’ifaranga ihagaze, uko (…)",
    "share_id": "MN202611_1b0tb41d3z3"
+  },
+  {
+   "id": "crawl_19ayyed",
+   "title": "New boss appointed to lead Travelodge",
+   "summary": "The new CEO will lead the Thame-based company from 1 December following Jo Boydell's resignation.",
+   "link": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T12:03:49.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7c6/live/aeced5c0-e98c-11f1-9d1c-4dcc8fcde666.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7c6/live/aeced5c0-e98c-11f1-9d1c-4dcc8fcde666.jpg",
+   "title_en": "New boss appointed to lead Travelodge",
+   "summary_en": "The new CEO will lead the Thame-based company from 1 December following Jo Boydell's resignation.",
+   "share_id": "MN202611_19ayyedruv7"
   },
   {
    "id": "crawl_1ifrcse",
@@ -1810,5 +1870,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T17:48:40.147Z"
+ "updated": "2026-11-26T18:30:53.647Z"
 }
