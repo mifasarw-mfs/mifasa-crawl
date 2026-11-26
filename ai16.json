@@ -7792,6 +7792,30 @@
    ],
    "auto": true,
    "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_0e7bdbc3_q",
+   "label_rw": "Kutaringanira kw'Imibare",
+   "label_en": "Mathematical Inequalities",
+   "patterns_en": [
+    "What is a mathematical inequality?",
+    "What symbols are used in inequalities?",
+    "How does it differ from standard equality?"
+   ],
+   "patterns_rw": [
+    "Kutaringanira kw'imibare ni iki?",
+    "Ni ibihe bimenyetso bikoreshwa mu kutaringanira?",
+    "Bitandukanye ute n'uburinganire busanzwe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kutaringanira kw'imibare bigaragaza ko imibare ibiri itangana. Bikoresha ibimenyetso nka kuruta na munsi. Ibi bisobanura ko agaciro kamwe gashobora kuba kutareshya n'ako. Bitandukanye n'uburinganire busanzwe bwerekana ko ibintu bingana.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Mathematical inequalities show that two values are not equal. They usually use symbols like greater than and less than. This means one value can be larger or smaller than another. This differs from standard equality which shows values are equal.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
   }
  ],
  "knowledge": [
@@ -14207,6 +14231,26 @@
     "imyiciro",
     "language",
     "imyitozo"
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_0e7bdbc3",
+   "category": "math",
+   "title_rw": "Kutaringanira kw'Imibare",
+   "title_en": "Mathematical Inequalities",
+   "summary_rw": "Kutaringanira kw'imibare bigaragaza ko imibare ibiri itangana. Bikoresha ibimenyetso nka kuruta na munsi. Ibi bisobanura ko agaciro kamwe gashobora kuba kutareshya n'ako. Bitandukanye n'uburinganire busanzwe bwerekana ko ibintu bingana.",
+   "summary_en": "Mathematical inequalities show that two values are not equal. They usually use symbols like greater than and less than. This means one value can be larger or smaller than another. This differs from standard equality which shows values are equal.",
+   "keywords": [
+    "kutaringanira",
+    "inequality",
+    "imibare",
+    "math",
+    "agaciro",
+    "value",
+    "ibimenyetso",
+    "symbols"
    ],
    "auto": true,
    "taught": "2026-11-26"
