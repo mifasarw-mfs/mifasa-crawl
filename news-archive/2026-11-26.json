@@ -1,6 +1,6 @@
 {
  "day": "2026-11-26",
- "count": 11,
+ "count": 12,
  "articles": [
   {
    "id": "crawl_19s48fy",
@@ -101,6 +101,26 @@
    "title_en": "Divots, howlers and bad decisions - dissecting Man Utd's draw in Lisbon",
    "summary_en": "BBC Sport breaks down the chaos amid Manchester United's rollercoaster Champions League draw against Sporting in Lisbon.",
    "share_id": "MN202611_1i68zap0wpb"
+  },
+  {
+   "id": "crawl_d894d6",
+   "title": "Has global jihadism failed, or is it simply changing shape?",
+   "summary": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
+   "link": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T00:22:18.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae31/live/2d66b8d0-e8d9-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae31/live/2d66b8d0-e8d9-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Has global jihadism failed, or is it simply changing shape?",
+   "summary_en": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
+   "share_id": "MN202611_d894d620u0"
   },
   {
    "id": "crawl_1iy2k05",
@@ -224,5 +244,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T02:25:47.417Z"
+ "updated": "2026-11-26T03:24:25.903Z"
 }
