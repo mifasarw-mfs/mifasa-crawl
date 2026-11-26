@@ -7624,6 +7624,102 @@
    ],
    "auto": true,
    "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_186950b4_q",
+   "label_rw": "Amategeko ya Tennis y'ameza n'uburyo bwo guhinduza umupira",
+   "label_en": "Table tennis rules and spin techniques",
+   "patterns_en": [
+    "What are the basic rules of table tennis?",
+    "How are points scored in table tennis?",
+    "How do spin techniques work in table tennis?"
+   ],
+   "patterns_rw": [
+    "Ni ayahe mategeko y'ibanze ya tennis y'ameza?",
+    "Ni gute amanota atangwa muri tennis y'ameza?",
+    "Uburyo bwo guhinduza umupira bukorwa gute?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Tennis y'ameza ikinirwa ku meza afite urusobe rwo hagati. Umukino utangira batera umupira ukambuka ukagera mu kibanza cy'uwo muhanganye. Intsinzi ishingiye ku manota 11, ariko hagomba kubaho ikinyuranyo cy'amanota abiri. Abakinnyi bakoresha uburyo butandukanye bwo guhinduza umupira kugira ngo uberekeze ahantu hagoye kugarurwa.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Table tennis is played on a table divided by a net. A match is usually won by the first player to reach 11 points with a two-point lead. Players use various spin techniques to make the ball curve and bounce unpredictably, making it harder for the opponent to return.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_8431f228_q",
+   "label_rw": "Imikino yo ku kibaho gifite amapine n'uburinganire",
+   "label_en": "Skateboarding tricks and balance",
+   "patterns_en": [
+    "What is required to learn skateboarding?",
+    "How do skaters jump with the board in the air?",
+    "How much practice does this sport usually take?"
+   ],
+   "patterns_rw": [
+    "Ni iki gisabwa kugira ngo umuntu amenye gukina ikibaho gifite amapine?",
+    "Ni gute abakinnyi basimbuka n'ikibaho mu kirere?",
+    "Ese uyu mukino usaba imyitozo ingana iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gukina ikibaho gifite amapine bisaba ubuhanga mu kugenzura uburinganire no gukora udushya twinshi. Abakinnyi bakoresha amaguru yombi kugira ngo banyeganyeze ikibaho cyangwa basimbuke nacyo mu kirere. Uyu mukino usaba imyitozo myinshi y'igihe kirekire kugira ngo umukinnyi abashe gutsinda inzitizi zitandukanye.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Skateboarding requires advanced balance control and execution of various tricks. Riders use their feet to manipulate the board and perform jumps in the air. Mastering this sport usually takes extensive practice to successfully navigate different obstacles.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_e80f8c18_q",
+   "label_rw": "Ingano y'ikibuga cya Squash n'uburyo bwo gukina",
+   "label_en": "Squash court dimensions and tactics",
+   "patterns_en": [
+    "What are the dimensions of a squash court?",
+    "How is the game of squash played?",
+    "What are the main tactics in squash?"
+   ],
+   "patterns_rw": [
+    "Ikibuga cya Squash kiba gifite ubugari bungana iki?",
+    "Umukino wa Squash ukinwa ute?",
+    "Ni ubuhe buryo bwiza bwo gutsinda muri Squash?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ikibuga cya Squash kiba gifite uburebure bwa metero 9.75 n'ubugari bwa metero 6.40 mu mukino w'abakinnyi babiri. Abakinnyi batera umupira ku rukuta rw'imbere bagamije kubuza uwo bahanganye gusubiza neza. Uburyo bwo gukina busaba kwihuta no kuyobora hagati y'ikibuga.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "A standard singles squash court is about 9.75 meters long and 6.40 meters wide. Players hit the ball against the front wall to make it difficult for their opponent to return. Key tactics include speed and controlling the center of the court.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_5c323a49_q",
+   "label_rw": "Imikino yo kugendera ku farasi n'ibibanze",
+   "label_en": "Equestrian sports and horse riding basics",
+   "patterns_en": [
+    "What are the basics of learning horse riding?",
+    "What sports are played with horses?",
+    "How do you maintain proper posture on a horse?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitangirirwaho mu kwiga kugendera ku farasi?",
+    "Ni iyihe mikino ikorerwa ku farasi?",
+    "Wicaye ute neza ku farasi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imikino yo kugendera ku farasi irimo gusiganwa no gusimbuka inzitizi. Kwiga kugendera ku farasi bisaba kumenya uko wicaye neza, gufata imigozi iyobora ifarasi, no kugendera ku muvuto utandukanye.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Equestrian sports include racing and jumping obstacles. Learning horse riding basics requires maintaining proper posture, holding the reins correctly, and moving at various gaits.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
   }
  ],
  "knowledge": [
@@ -13906,6 +14002,84 @@
    ],
    "auto": true,
    "taught": "2026-11-25"
+  },
+  {
+   "id": "ai16_186950b4",
+   "category": "sports",
+   "title_rw": "Amategeko ya Tennis y'ameza n'uburyo bwo guhinduza umupira",
+   "title_en": "Table tennis rules and spin techniques",
+   "summary_rw": "Tennis y'ameza ikinirwa ku meza afite urusobe rwo hagati. Umukino utangira batera umupira ukambuka ukagera mu kibanza cy'uwo muhanganye. Intsinzi ishingiye ku manota 11, ariko hagomba kubaho ikinyuranyo cy'amanota abiri. Abakinnyi bakoresha uburyo butandukanye bwo guhinduza umupira kugira ngo uberekeze ahantu hagoye kugarurwa.",
+   "summary_en": "Table tennis is played on a table divided by a net. A match is usually won by the first player to reach 11 points with a two-point lead. Players use various spin techniques to make the ball curve and bounce unpredictably, making it harder for the opponent to return.",
+   "keywords": [
+    "tennis y'ameza",
+    "table tennis",
+    "amategeko",
+    "rules",
+    "spin",
+    "umupira",
+    "sport",
+    "imikino"
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_8431f228",
+   "category": "sports",
+   "title_rw": "Imikino yo ku kibaho gifite amapine n'uburinganire",
+   "title_en": "Skateboarding tricks and balance",
+   "summary_rw": "Gukina ikibaho gifite amapine bisaba ubuhanga mu kugenzura uburinganire no gukora udushya twinshi. Abakinnyi bakoresha amaguru yombi kugira ngo banyeganyeze ikibaho cyangwa basimbuke nacyo mu kirere. Uyu mukino usaba imyitozo myinshi y'igihe kirekire kugira ngo umukinnyi abashe gutsinda inzitizi zitandukanye.",
+   "summary_en": "Skateboarding requires advanced balance control and execution of various tricks. Riders use their feet to manipulate the board and perform jumps in the air. Mastering this sport usually takes extensive practice to successfully navigate different obstacles.",
+   "keywords": [
+    "skateboarding",
+    "uburinganire",
+    "balance",
+    "imikino",
+    "sports",
+    "amapine",
+    "tricks"
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_e80f8c18",
+   "category": "sports",
+   "title_rw": "Ingano y'ikibuga cya Squash n'uburyo bwo gukina",
+   "title_en": "Squash court dimensions and tactics",
+   "summary_rw": "Ikibuga cya Squash kiba gifite uburebure bwa metero 9.75 n'ubugari bwa metero 6.40 mu mukino w'abakinnyi babiri. Abakinnyi batera umupira ku rukuta rw'imbere bagamije kubuza uwo bahanganye gusubiza neza. Uburyo bwo gukina busaba kwihuta no kuyobora hagati y'ikibuga.",
+   "summary_en": "A standard singles squash court is about 9.75 meters long and 6.40 meters wide. Players hit the ball against the front wall to make it difficult for their opponent to return. Key tactics include speed and controlling the center of the court.",
+   "keywords": [
+    "squash",
+    "ikibuga",
+    "court",
+    "umukino",
+    "sports",
+    "uburyo",
+    "tactics"
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_5c323a49",
+   "category": "sports",
+   "title_rw": "Imikino yo kugendera ku farasi n'ibibanze",
+   "title_en": "Equestrian sports and horse riding basics",
+   "summary_rw": "Imikino yo kugendera ku farasi irimo gusiganwa no gusimbuka inzitizi. Kwiga kugendera ku farasi bisaba kumenya uko wicaye neza, gufata imigozi iyobora ifarasi, no kugendera ku muvuto utandukanye.",
+   "summary_en": "Equestrian sports include racing and jumping obstacles. Learning horse riding basics requires maintaining proper posture, holding the reins correctly, and moving at various gaits.",
+   "keywords": [
+    "farasi",
+    "horse",
+    "imikino",
+    "sports",
+    "kugendera",
+    "riding",
+    "ubumenyi",
+    "basics"
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
   }
  ]
 }
