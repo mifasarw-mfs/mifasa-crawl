@@ -7888,6 +7888,77 @@
    ],
    "auto": true,
    "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_a6528e8b_q",
+   "label_rw": "Amashyamba mu Rwanda",
+   "label_en": "Forests in Rwanda",
+   "patterns_en": [
+    "Why are forests important in Rwanda?",
+    "What causes deforestation?",
+    "How does the tree planting program work?"
+   ],
+   "patterns_rw": [
+    "Kuki amashyamba ari ingenzi mu Rwanda?",
+    "Ni iki gitera gutema amashyamba?",
+    "Gahunda yo gutera ibiti igenda ite?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "u Rwanda rufite gahunda yo kongera amashyamba kugira ngo rubungabunge ibidukikije. Guverinoma n'abaturage batera ibitibishya buri mwaka. Ibi bifasha guhangana n'imihindagurikire y'ikirere no kurinda ubutaka gutwarwa n'isuri.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Rwanda has initiatives to increase forest cover to protect the environment. The government and citizens plant new trees annually. These efforts help combat climate change and prevent soil erosion.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_1956b869_q",
+   "label_rw": "Ubutaka buhuza ubuhinzi n'ishyamba mu Rwanda",
+   "label_en": "Agroforestry Practices in Rwanda",
+   "patterns_en": [
+    "How does agroforestry help in Rwanda?",
+    "What are the benefits of planting trees with crops?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyitwa ubutaka buhuza ubuhinzi n'ishyamba?",
+    "Ubutaka buhuza ubuhinzi n'ishyamba bufasha iki mu Rwanda?",
+    "Ese ibiti bihingwa n'imyaka bitanga izihe nyungu?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubutaka buhuza ubuhinzi n'ishyamba bufasha mu kurwanya isuri no kongera umusaruro w'ubuhinzi mu Rwanda. Ibiti bihingwa hamwe n'imyaka bitanga ifumbire y'ibimera kandi bikarinda ubutaka kwangirika.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Agroforestry practices help control soil erosion and increase agricultural productivity in Rwanda. Trees planted alongside crops provide organic fertilizer and protect the soil from degradation.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_aed42f65_q",
+   "label_rw": "Ubuhinzi burambye",
+   "label_en": "Sustainable agriculture",
+   "patterns_en": [
+    "What is sustainable agriculture?",
+    "How can we conserve the soil?",
+    "Why is erosion control important?"
+   ],
+   "patterns_rw": [
+    "Ubuhinzi burambye ni iki?",
+    "Ni gute twabungabunga ubutaka?",
+    "Kuki kurwanya isuri ari ingenzi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubuhinzi burambye bufasha mu kurengera ibidukikije no kongera umusaruro w'ubutaka. Bushyira imbere gukoresha neza amazi, kubungabunga ubutaka, no kurwanya isuri. Ibi bituma ubuhinzi bukomeza kuba bwiza mu gihe kizaza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Sustainable agriculture helps protect the environment and increase land productivity. It prioritizes efficient water use, soil conservation, and erosion control. This ensures that agriculture remains viable for the future.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
   }
  ],
  "knowledge": [
@@ -14383,6 +14454,66 @@
     "cultivation",
     "agriculture",
     "nutrition"
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_a6528e8b",
+   "category": "environment",
+   "title_rw": "Amashyamba mu Rwanda",
+   "title_en": "Forests in Rwanda",
+   "summary_rw": "u Rwanda rufite gahunda yo kongera amashyamba kugira ngo rubungabunge ibidukikije. Guverinoma n'abaturage batera ibitibishya buri mwaka. Ibi bifasha guhangana n'imihindagurikire y'ikirere no kurinda ubutaka gutwarwa n'isuri.",
+   "summary_en": "Rwanda has initiatives to increase forest cover to protect the environment. The government and citizens plant new trees annually. These efforts help combat climate change and prevent soil erosion.",
+   "keywords": [
+    "amashyamba",
+    "ibiti",
+    "ibidukikije",
+    "isuri",
+    "forests",
+    "trees",
+    "environment",
+    "erosion"
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_1956b869",
+   "category": "environment",
+   "title_rw": "Ubutaka buhuza ubuhinzi n'ishyamba mu Rwanda",
+   "title_en": "Agroforestry Practices in Rwanda",
+   "summary_rw": "Ubutaka buhuza ubuhinzi n'ishyamba bufasha mu kurwanya isuri no kongera umusaruro w'ubuhinzi mu Rwanda. Ibiti bihingwa hamwe n'imyaka bitanga ifumbire y'ibimera kandi bikarinda ubutaka kwangirika.",
+   "summary_en": "Agroforestry practices help control soil erosion and increase agricultural productivity in Rwanda. Trees planted alongside crops provide organic fertilizer and protect the soil from degradation.",
+   "keywords": [
+    "ubuhinzi",
+    "ishyamba",
+    "isuri",
+    "ubutaka",
+    "agriculture",
+    "agroforestry",
+    "soil",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_aed42f65",
+   "category": "environment",
+   "title_rw": "Ubuhinzi burambye",
+   "title_en": "Sustainable agriculture",
+   "summary_rw": "Ubuhinzi burambye bufasha mu kurengera ibidukikije no kongera umusaruro w'ubutaka. Bushyira imbere gukoresha neza amazi, kubungabunga ubutaka, no kurwanya isuri. Ibi bituma ubuhinzi bukomeza kuba bwiza mu gihe kizaza.",
+   "summary_en": "Sustainable agriculture helps protect the environment and increase land productivity. It prioritizes efficient water use, soil conservation, and erosion control. This ensures that agriculture remains viable for the future.",
+   "keywords": [
+    "ubuhinzi",
+    "agriculture",
+    "ibidukikije",
+    "environment",
+    "amazuko",
+    "soil",
+    "isuri",
+    "conservation"
    ],
    "auto": true,
    "taught": "2026-11-26"
