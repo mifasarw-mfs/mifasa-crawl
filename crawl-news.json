@@ -1,5 +1,31 @@
 [
  {
+  "id": "crawl_1a4atpa",
+  "title": "P&B HIGHTLIGHT",
+  "summary": "P&B HIGHTLIGHT",
+  "link": "https://www.youtube.com/watch?v=T9Bp9GxkqaU",
+  "url": "https://www.youtube.com/watch?v=T9Bp9GxkqaU",
+  "date": "2026-11-26T06:44:02.000Z",
+  "source": "Wamufaransa Comedy YouTube",
+  "category": "entertainment",
+  "lang": "rw",
+  "keywords": [
+   "Wamufaransa Comedy YouTube",
+   "entertainment",
+   "video"
+  ],
+  "video": {
+   "provider": "youtube",
+   "id": "T9Bp9GxkqaU"
+  },
+  "type": "video",
+  "image": "https://i1.ytimg.com/vi/T9Bp9GxkqaU/hqdefault.jpg",
+  "thumbnail": "https://i1.ytimg.com/vi/T9Bp9GxkqaU/hqdefault.jpg",
+  "title_rw": "P&B HIGHTLIGHT",
+  "summary_rw": "P&B HIGHTLIGHT",
+  "share_id": "MN202611_1a4atpa6wjg"
+ },
+ {
   "id": "crawl_6o2es2",
   "title": "'Laughing gas has ended careers' - so how common is it in football?",
   "summary": "After Raheem Sterling's court case, BBC Sport looks at how common the use of nitrous oxide is among footballers.",
@@ -143,8 +169,8 @@
  },
  {
   "id": "crawl_19s48fy",
-  "title": "UK government set to publish new treaties agreed with EU",
-  "summary": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
+  "title": "New UK-EU treaties have 10-year termination clause, BBC understands",
+  "summary": "Text of treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
   "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-26T02:13:00.000Z",
@@ -157,8 +183,8 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbe3/live/d6fe8520-e961-11f1-a094-5fdc692f3e33.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbe3/live/d6fe8520-e961-11f1-a094-5fdc692f3e33.jpg",
-  "title_en": "UK government set to publish new treaties agreed with EU",
-  "summary_en": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
+  "title_en": "New UK-EU treaties have 10-year termination clause, BBC understands",
+  "summary_en": "Text of treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
   "share_id": "MN202611_19s48fyx4ws"
  },
  {
@@ -316,8 +342,8 @@
    "BBC Entertainment",
    "entertainment"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b663/live/9be181d0-e90d-11f1-99a1-253766e7ad8b.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b663/live/9be181d0-e90d-11f1-99a1-253766e7ad8b.jpg",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbcb/live/a9ca7d50-e963-11f1-99a1-253766e7ad8b.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbcb/live/a9ca7d50-e963-11f1-99a1-253766e7ad8b.jpg",
   "title_en": "BBC launches partnership with Met Office for weather coverage",
   "summary_en": "The corporation says the deal will deliver more regional, digital and 10-day forecasts to audiences.",
   "share_id": "MN202611_1io5v3byrk5"
@@ -778,8 +804,8 @@
    "BBC Entertainment",
    "entertainment"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf5e/live/c090fb90-e918-11f1-8383-53f283141713.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf5e/live/c090fb90-e918-11f1-8383-53f283141713.jpg",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcdc/live/8e8b2b50-e965-11f1-99b6-a35a62fa4264.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcdc/live/8e8b2b50-e965-11f1-99b6-a35a62fa4264.jpg",
   "title_en": "Duran Duran guitarist Andy Taylor dies aged 65",
   "summary_en": "The musician, who co-wrote some of the band's biggest hits, had been treated for prostate cancer.",
   "share_id": "MN202611_fu3nkawk14"
@@ -10812,12 +10838,12 @@
   "link": "https://www.bbc.co.uk/news/articles/ckn9wrr75dyeo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/ckn9wrr75dyeo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-21T21:21:57.000Z",
-  "source": "BBC Health",
-  "category": "health",
+  "source": "BBC Entertainment",
+  "category": "entertainment",
   "lang": "en",
   "keywords": [
-   "BBC Health",
-   "health"
+   "BBC Entertainment",
+   "entertainment"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e828/live/0110bda0-bb78-11f1-bc1f-3f186ca4140c.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e828/live/0110bda0-bb78-11f1-bc1f-3f186ca4140c.jpg",
@@ -16937,25 +16963,5 @@
   "title_rw": "Meddy ajya Gukizwa Yarabimbwiye 😳Richard Nick atubwiye byose Tutari tuzi🥰Burya yabaye umusirikare 😳",
   "summary_rw": "Ushatse kutuvugisha #0787413998 #MIEempire https://www.instagram.com/mie_empire.rw/ https://www.instagram.com/irenemurindahabi/",
   "share_id": "MN202611_iczzaw0446"
- },
- {
-  "id": "crawl_kdrwb9",
-  "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-  "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
-  "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-19T15:23:34.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c4/live/c36d8970-e448-11f1-a094-5fdc692f3e33.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c4/live/c36d8970-e448-11f1-a094-5fdc692f3e33.jpg",
-  "title_en": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-  "summary_en": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
-  "share_id": "MN202611_kdrwb9kss3"
  }
 ]
