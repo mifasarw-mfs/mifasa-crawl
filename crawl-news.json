@@ -6,18 +6,38 @@
   "link": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-26T23:08:12.000Z",
-  "source": "BBC Technology",
-  "category": "tech",
+  "source": "BBC Business",
+  "category": "business",
   "lang": "en",
   "keywords": [
-   "BBC Technology",
-   "tech"
+   "BBC Business",
+   "business"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c76/live/9f54a560-e956-11f1-a629-63e812fa871f.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c76/live/9f54a560-e956-11f1-a629-63e812fa871f.jpg",
   "title_en": "Asia made a big AI bet on Nvidia. What happens now?",
   "summary_en": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
   "share_id": "MN202611_1dz2iq2vf6w"
+ },
+ {
+  "id": "crawl_yuh9so",
+  "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+  "summary": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.",
+  "link": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-26T23:03:16.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c9/live/268edc00-e978-11f1-99b6-a35a62fa4264.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c9/live/268edc00-e978-11f1-99b6-a35a62fa4264.jpg",
+  "title_en": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+  "summary_en": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.",
+  "share_id": "MN202611_yuh9so9uwm"
  },
  {
   "id": "crawl_d10udw",
@@ -2366,8 +2386,8 @@
  },
  {
   "id": "crawl_z55nk8",
-  "title": "More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel",
-  "summary": "Massive storms are descending on both US coasts as an estimated 80 million Americans hit the road for Thanksgiving holiday.",
+  "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+  "summary": "Massive storms are descending on both US coasts, bringing wind gusts, downed trees, and power outages for hundreds of thousands of customers.",
   "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-26T03:27:33.000Z",
@@ -2378,10 +2398,10 @@
    "BBC Science",
    "science"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/260a/live/9b64fe90-e9ac-11f1-859a-37130cd3a1d7.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/260a/live/9b64fe90-e9ac-11f1-859a-37130cd3a1d7.jpg",
-  "title_en": "More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel",
-  "summary_en": "Massive storms are descending on both US coasts as an estimated 80 million Americans hit the road for Thanksgiving holiday.",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg",
+  "title_en": "Major Thanksgiving storm brings flooding, flight delays across US",
+  "summary_en": "Massive storms are descending on both US coasts, bringing wind gusts, downed trees, and power outages for hundreds of thousands of customers.",
   "share_id": "MN202611_z55nk8yk12"
  },
  {
@@ -4859,12 +4879,12 @@
   "link": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-25T10:03:12.000Z",
-  "source": "BBC Business",
-  "category": "business",
+  "source": "BBC Technology",
+  "category": "tech",
   "lang": "en",
   "keywords": [
-   "BBC Business",
-   "business"
+   "BBC Technology",
+   "tech"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde3/live/fa4083e0-e8b6-11f1-9e64-bddd508b9881.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde3/live/fa4083e0-e8b6-11f1-9e64-bddd508b9881.jpg",
@@ -6293,12 +6313,12 @@
   "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-24T18:21:43.000Z",
-  "source": "BBC Business",
-  "category": "business",
+  "source": "BBC Technology",
+  "category": "tech",
   "lang": "en",
   "keywords": [
-   "BBC Business",
-   "business"
+   "BBC Technology",
+   "tech"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ec8/live/8b0c59c0-e831-11f1-917e-35f1674fb52c.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ec8/live/8b0c59c0-e831-11f1-917e-35f1674fb52c.jpg",
@@ -6373,12 +6393,12 @@
   "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-24T17:04:20.000Z",
-  "source": "BBC Business",
-  "category": "business",
+  "source": "BBC Technology",
+  "category": "tech",
   "lang": "en",
   "keywords": [
-   "BBC Business",
-   "business"
+   "BBC Technology",
+   "tech"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
@@ -16906,25 +16926,5 @@
   "title_en": "Key questions as Scottish Premiership returns",
   "summary_en": "The Scottish Premiership returns with managers to the fore - this is all you need to know about Saturday's games.",
   "share_id": "MN202611_1kvyglrxub"
- },
- {
-  "id": "crawl_hc64rf",
-  "title": "Legendary Irish League manager Coyle dies aged 80",
-  "summary": "The Irish League's most successful manager Roy Coyle dies at the age of 80.",
-  "link": "https://www.bbc.co.uk/sport/articles/c63eg4x112wqo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/articles/c63eg4x112wqo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-20T13:52:15.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/177b/live/0d80ddc0-e4ec-11f1-9e3c-bf9ef0889b75.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/177b/live/0d80ddc0-e4ec-11f1-9e3c-bf9ef0889b75.jpg",
-  "title_en": "Legendary Irish League manager Coyle dies aged 80",
-  "summary_en": "The Irish League's most successful manager Roy Coyle dies at the age of 80.",
-  "share_id": "MN202611_hc64rfw055"
  }
 ]

@@ -1,6 +1,6 @@
 {
  "day": "2026-11-26",
- "count": 117,
+ "count": 118,
  "articles": [
   {
    "id": "crawl_1dz2iq2",
@@ -21,6 +21,26 @@
    "title_en": "Asia made a big AI bet on Nvidia. What happens now?",
    "summary_en": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
    "share_id": "MN202611_1dz2iq2vf6w"
+  },
+  {
+   "id": "crawl_yuh9so",
+   "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+   "summary": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.",
+   "link": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T23:03:16.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c9/live/268edc00-e978-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c9/live/268edc00-e978-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+   "summary_en": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.",
+   "share_id": "MN202611_yuh9so9uwm"
   },
   {
    "id": "crawl_d10udw",
@@ -2374,5 +2394,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T23:18:11.216Z"
+ "updated": "2026-11-26T23:45:18.869Z"
 }
