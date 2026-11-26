@@ -1,7 +1,27 @@
 {
  "day": "2026-11-26",
- "count": 95,
+ "count": 97,
  "articles": [
+  {
+   "id": "crawl_ebgb76",
+   "title": "Carsley eyes Euros history with England U21s after draw",
+   "summary": "England have won the past two European Under-21 Championships, and Lee Carsley says they will \"go all out\" for a hat-trick.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c97726npre86o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c97726npre86o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T19:35:17.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1924/live/70bc6b80-e9cd-11f1-82cb-3544f07293b5.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1924/live/70bc6b80-e9cd-11f1-82cb-3544f07293b5.jpg",
+   "title_en": "Carsley eyes Euros history with England U21s after draw",
+   "summary_en": "England have won the past two European Under-21 Championships, and Lee Carsley says they will \"go all out\" for a hat-trick.",
+   "share_id": "MN202611_ebgb76cakw"
+  },
   {
    "id": "crawl_hqh45z",
    "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
@@ -1769,6 +1789,26 @@
    "share_id": "MN202611_nwtjt2mg9w"
   },
   {
+   "id": "crawl_1udnmp",
+   "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
+   "summary": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election.",
+   "link": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T00:23:27.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8024/live/53498270-e8e4-11f1-a3b9-79c60ec9ab33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8024/live/53498270-e8e4-11f1-a3b9-79c60ec9ab33.jpg",
+   "title_en": "France's political mainstream risks presidential vote debacle with no clear candidate",
+   "summary_en": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election.",
+   "share_id": "MN202611_1udnmpam2n"
+  },
+  {
    "id": "crawl_1i68zap",
    "title": "Divots, howlers and bad decisions - dissecting Man Utd's draw in Lisbon",
    "summary": "BBC Sport breaks down the chaos amid Manchester United's rollercoaster Champions League draw against Sporting in Lisbon.",
@@ -1930,5 +1970,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T19:35:14.028Z"
+ "updated": "2026-11-26T19:55:56.997Z"
 }
