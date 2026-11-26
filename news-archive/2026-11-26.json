@@ -1,7 +1,47 @@
 {
  "day": "2026-11-26",
- "count": 97,
+ "count": 99,
  "articles": [
+  {
+   "id": "crawl_8m3fuf",
+   "title": "Prices for Rwanda’s Tungsten Rise Over 360%, While Coffee and Tea Shrink",
+   "summary": "Rwanda earned more than seven times as much from tungsten exports in the first half of 2026 as it did during the same period last year. The mineral’s average export… The post Prices for Rwanda’s Tungsten Rise Over 360%, While Coffee and Tea Shrink appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/prices-for-rwandas-tungsten-rise-over-360-while-coffee-and-tea-shrink/",
+   "url": "https://www.ktpress.rw/2026/11/prices-for-rwandas-tungsten-rise-over-360-while-coffee-and-tea-shrink/",
+   "date": "2026-11-26T19:59:52.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "Economy",
+    "big-story"
+   ],
+   "title_en": "Prices for Rwanda’s Tungsten Rise Over 360%, While Coffee and Tea Shrink",
+   "summary_en": "Rwanda earned more than seven times as much from tungsten exports in the first half of 2026 as it did during the same period last year. The mineral’s average export… The post Prices for Rwanda’s Tungsten Rise Over 360%, While Coffee and Tea Shrink appeared first on KT PRESS .",
+   "share_id": "MN202611_8m3fufvd1x"
+  },
+  {
+   "id": "crawl_12ce384",
+   "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+   "summary": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
+   "link": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T19:55:58.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/be7b3450-e9af-11f1-859a-37130cd3a1d7.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/be7b3450-e9af-11f1-859a-37130cd3a1d7.jpg",
+   "title_en": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+   "summary_en": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
+   "share_id": "MN202611_12ce3846zoy"
+  },
   {
    "id": "crawl_ebgb76",
    "title": "Carsley eyes Euros history with England U21s after draw",
@@ -1970,5 +2010,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T19:55:56.997Z"
+ "updated": "2026-11-26T20:29:42.701Z"
 }
