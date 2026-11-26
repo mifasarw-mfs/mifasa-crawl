@@ -1,7 +1,27 @@
 {
  "day": "2026-11-26",
- "count": 10,
+ "count": 11,
  "articles": [
+  {
+   "id": "crawl_19s48fy",
+   "title": "UK government set to publish new treaties agreed with EU",
+   "summary": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
+   "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T02:13:00.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0991/live/fc4bdc70-e933-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0991/live/fc4bdc70-e933-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "UK government set to publish new treaties agreed with EU",
+   "summary_en": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
+   "share_id": "MN202611_19s48fyx4ws"
+  },
   {
    "id": "crawl_1d728qh",
    "title": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
@@ -204,5 +224,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T02:13:43.264Z"
+ "updated": "2026-11-26T02:25:47.417Z"
 }

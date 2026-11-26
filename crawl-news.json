@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_19s48fy",
+  "title": "UK government set to publish new treaties agreed with EU",
+  "summary": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
+  "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-26T02:13:00.000Z",
+  "source": "BBC Business",
+  "category": "business",
+  "lang": "en",
+  "keywords": [
+   "BBC Business",
+   "business"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0991/live/fc4bdc70-e933-11f1-a094-5fdc692f3e33.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0991/live/fc4bdc70-e933-11f1-a094-5fdc692f3e33.jpg",
+  "title_en": "UK government set to publish new treaties agreed with EU",
+  "summary_en": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
+  "share_id": "MN202611_19s48fyx4ws"
+ },
+ {
   "id": "crawl_1d728qh",
   "title": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
   "summary": "Somalia relies heavily on foreign funding and military support for its very survival.",
@@ -16960,31 +16980,5 @@
   "title_rw": "AHO NTITWABA DUKABIRIZA UBUTASI? UGASANGA IGIHUGU KIRAKENNYE ARIKO UMUTUNGO WOSE GISHOBORA MU BUTASI",
   "summary_rw": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
   "share_id": "MN202611_13nwbease8g"
- },
- {
-  "id": "crawl_1k825xp",
-  "title": "LIVE 🔴TURI KUMAVI SERVICE With Evangelist Patrick",
-  "summary": "LIVE 🔴TURI KUMAVI SERVICE With Evangelist Patrick",
-  "link": "https://www.youtube.com/watch?v=ze1VNPDQhjM",
-  "url": "https://www.youtube.com/watch?v=ze1VNPDQhjM",
-  "date": "2026-11-19T14:17:33.000Z",
-  "source": "Wamufaransa Comedy YouTube",
-  "category": "entertainment",
-  "lang": "rw",
-  "keywords": [
-   "Wamufaransa Comedy YouTube",
-   "entertainment",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "ze1VNPDQhjM"
-  },
-  "type": "video",
-  "image": "https://i3.ytimg.com/vi/ze1VNPDQhjM/hqdefault.jpg",
-  "thumbnail": "https://i3.ytimg.com/vi/ze1VNPDQhjM/hqdefault.jpg",
-  "title_rw": "LIVE 🔴TURI KUMAVI SERVICE With Evangelist Patrick",
-  "summary_rw": "LIVE 🔴TURI KUMAVI SERVICE With Evangelist Patrick",
-  "share_id": "MN202611_1k825xpy8rv"
  }
 ]
