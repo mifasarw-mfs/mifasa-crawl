@@ -1,7 +1,27 @@
 {
  "day": "2026-11-26",
- "count": 35,
+ "count": 36,
  "articles": [
+  {
+   "id": "crawl_1amwnrw",
+   "title": "Car finance compensation payments explained",
+   "summary": "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers.",
+   "link": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T09:39:50.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1582/live/8e71e720-a425-11f0-ba96-81d873a15aec.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1582/live/8e71e720-a425-11f0-ba96-81d873a15aec.jpg",
+   "title_en": "Car finance compensation payments explained",
+   "summary_en": "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers.",
+   "share_id": "MN202611_1amwnrwos1m"
+  },
   {
    "id": "crawl_17tmvkm",
    "title": "How Rwanda’s Proposed Return Hub Tests the Meaning of “Humane” Migration Policy",
@@ -707,5 +727,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T09:42:43.589Z"
+ "updated": "2026-11-26T09:54:14.623Z"
 }
