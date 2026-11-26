@@ -7816,6 +7816,78 @@
    ],
    "auto": true,
    "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_6a8ab00d_q",
+   "label_rw": "Gutema no Kubangura Ibiti Byera Imbuto",
+   "label_en": "Pruning and Grafting Fruit Trees",
+   "patterns_en": [
+    "What is the importance of pruning fruit trees?",
+    "How is grafting of fruit trees done?",
+    "When is the best time to prune fruit trees?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera akamaro ko gutema ibiti byera imbuto?",
+    "Kubangura ibiti bikorwa bite?",
+    "Ni ryiza gutangira gutema ibiti byera imbuto?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gutema amashami ashaje bifasha ibiti byera imbuto gukura neza no kwera byinshi. Kubangura bituma ubwoko bwiza bw'igiti buhurizwa n'imizi ikomeye. Ibi bikorwa bituma umusaruro wiyongera kandi imbuto zikagira ubuzima bwiza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Pruning old branches helps fruit trees grow well and yield more fruit. Grafting combines a desirable tree variety with strong roots. These practices generally increase agricultural productivity and improve fruit quality.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_6848dc66_q",
+   "label_rw": "Ubworozi bw'Inkoko",
+   "label_en": "Poultry Farming Management",
+   "patterns_en": [
+    "What is needed in poultry farming?",
+    "How can chicken diseases be prevented?",
+    "What products do poultry provide?"
+   ],
+   "patterns_rw": [
+    "Ni iki gikenewe mu bworozi bw'inkoko?",
+    "Twakumira dute indwara z'inkoko?",
+    "Inkoko zitanga umusaruro ki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubworozi bw'inkoko ni igikorwa cyo korora inkoko kugira ngo havomwe inyama n'amagi. Bisaba kubakira neza, kubaha amazi n'ibiryo bifite intungamubiri, no kubakingira indwara. Ibi bifasha aborozi kubona umusaruro mwiza n'inyungu.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Poultry farming is the practice of raising domestic birds for meat and eggs. Proper management usually requires clean housing, balanced nutrition, fresh water, and regular disease vaccination. These practices help farmers achieve good productivity and profit.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_c7d72d1a_q",
+   "label_rw": "Ubuhinga bwo Guhinga Ubwoba",
+   "label_en": "Mushroom Cultivation",
+   "patterns_en": [
+    "What is needed to successfully cultivate mushrooms?",
+    "What materials are used as substrates for growing mushrooms?",
+    "How long does it take for mushrooms to produce a harvest?"
+   ],
+   "patterns_rw": [
+    "Ni iki gikenewe kugira ngo ubwoba bworoorwe neza?",
+    "Ni ibihe bikoresho bikoreshwa mu guhinga ubwoba?",
+    "Ubwoba bumara igihe kingana iki ngo bwinjirire mu musaruro?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Guhinga ubwoba bisaba ahantu hafite ubuhehere bwiza n'umwijima muto. Ubwoba buhingwa ku bimera byapfuye cyangwa ibishingwa nk'ibishishwa by'umuceri. Bifasha abaturage kubona intungamubiri n'amafaranga mu gihe gito.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Mushroom cultivation requires high humidity and limited light. They are usually grown on organic substrates like agricultural waste such as rice straw. This practice provides quick access to nutrition and income for farmers.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
   }
  ],
  "knowledge": [
@@ -14251,6 +14323,66 @@
     "value",
     "ibimenyetso",
     "symbols"
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_6a8ab00d",
+   "category": "agriculture",
+   "title_rw": "Gutema no Kubangura Ibiti Byera Imbuto",
+   "title_en": "Pruning and Grafting Fruit Trees",
+   "summary_rw": "Gutema amashami ashaje bifasha ibiti byera imbuto gukura neza no kwera byinshi. Kubangura bituma ubwoko bwiza bw'igiti buhurizwa n'imizi ikomeye. Ibi bikorwa bituma umusaruro wiyongera kandi imbuto zikagira ubuzima bwiza.",
+   "summary_en": "Pruning old branches helps fruit trees grow well and yield more fruit. Grafting combines a desirable tree variety with strong roots. These practices generally increase agricultural productivity and improve fruit quality.",
+   "keywords": [
+    "gutema",
+    "kubangura",
+    "imbuto",
+    "ibiti",
+    "ubuhinzi",
+    "umusaruro",
+    "pruning",
+    "grafting"
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_6848dc66",
+   "category": "agriculture",
+   "title_rw": "Ubworozi bw'Inkoko",
+   "title_en": "Poultry Farming Management",
+   "summary_rw": "Ubworozi bw'inkoko ni igikorwa cyo korora inkoko kugira ngo havomwe inyama n'amagi. Bisaba kubakira neza, kubaha amazi n'ibiryo bifite intungamubiri, no kubakingira indwara. Ibi bifasha aborozi kubona umusaruro mwiza n'inyungu.",
+   "summary_en": "Poultry farming is the practice of raising domestic birds for meat and eggs. Proper management usually requires clean housing, balanced nutrition, fresh water, and regular disease vaccination. These practices help farmers achieve good productivity and profit.",
+   "keywords": [
+    "inkoko",
+    "poultry",
+    "ubworozi",
+    "farming",
+    "amagi",
+    "eggs",
+    "inyama",
+    "meat"
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_c7d72d1a",
+   "category": "agriculture",
+   "title_rw": "Ubuhinga bwo Guhinga Ubwoba",
+   "title_en": "Mushroom Cultivation",
+   "summary_rw": "Guhinga ubwoba bisaba ahantu hafite ubuhehere bwiza n'umwijima muto. Ubwoba buhingwa ku bimera byapfuye cyangwa ibishingwa nk'ibishishwa by'umuceri. Bifasha abaturage kubona intungamubiri n'amafaranga mu gihe gito.",
+   "summary_en": "Mushroom cultivation requires high humidity and limited light. They are usually grown on organic substrates like agricultural waste such as rice straw. This practice provides quick access to nutrition and income for farmers.",
+   "keywords": [
+    "ubuhinga",
+    "ubwoba",
+    "ubuhinzi",
+    "intungamubiri",
+    "mushrooms",
+    "cultivation",
+    "agriculture",
+    "nutrition"
    ],
    "auto": true,
    "taught": "2026-11-26"
