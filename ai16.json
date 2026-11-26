@@ -7720,6 +7720,78 @@
    ],
    "auto": true,
    "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_3471a095_q",
+   "label_rw": "Imivugirire y'indome z'amajwi na konsonanti mu Kinyarwanda",
+   "label_en": "Kinyarwanda Consonants and Pronunciation",
+   "patterns_en": [
+    "How many vowels does Kinyarwanda have?",
+    "What determines the pronunciation of Kinyarwanda words?",
+    "What are the characteristics of Kinyarwanda consonants?"
+   ],
+   "patterns_rw": [
+    "Kinyarwanda gifite inyajwi zingahe?",
+    "Ni iki gitera itandukaniro mu mivugirire y'amagambo y'Ikinyarwanda?",
+    "Konsonnanti z'Ikinyarwanda zihariye zite?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kinyarwanda gifite inyajwi eshanu na konsonanti nyinshi zihariye. Imivugirire y'amagambo iterwa n'amajwi y'ibanze hamwe n'itandukaniro ry'amajwi maremare n'amagufi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Kinyarwanda has five vowels and a complex system of consonants. Pronunciation depends on basic sounds and the distinction between short and long vowels.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_7b0e46af_q",
+   "label_rw": "Interuro zihakana mu Kinyarwanda",
+   "label_en": "Negative sentences in Kinyarwanda",
+   "patterns_en": [
+    "How does a sentence become negative in Kinyarwanda?",
+    "What is the difference between affirmative and negative sentences?",
+    "How are verbs negated in Kinyarwanda?"
+   ],
+   "patterns_rw": [
+    "Ni gute interuro ihinduka iyahakana mu Kinyarwanda?",
+    "Ni iki gitandukanya interuro yemeza n'iyahakana?",
+    "Ese inshinga zihakanwa zite mu Kinyarwanda?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mu Kinyarwanda, kugira ngo interuro ibe iyahakana, hakoreshwa umugereka wo guhakana \"nta\" cyangwa se inshamurego \"nt-\" iteranywa ku nshinga. Urugero, niba nshinga ari \"ndagenda\", iyo iyahakanywe ihinduka \"ntagenda\" cyangwa \"sinagenda\" bitewe n'igihe. Ubu buryo bufasha mu kugaragaza ko igikorwa kitakozwe cyangwa kitariho.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "In Kinyarwanda, to make a sentence negative, the negative particle \"nta\" or the negative prefix \"nt-\" is attached to the verb. For example, if the verb is \"ndagenda\" (I am going), the negative form becomes \"ntagenda\" or \"sinagenda\" depending on the tense. This structure helps indicate that an action was not performed or does not exist.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_ff3ad97f_q",
+   "label_rw": "Bamenyamvugo zerekana mu Kinyarwanda",
+   "label_en": "Demonstratives in Kinyarwanda",
+   "patterns_en": [
+    "What are demonstratives in Kinyarwanda?",
+    "How do Kinyarwanda demonstratives change?",
+    "What is the function of demonstratives?"
+   ],
+   "patterns_rw": [
+    "Bamenyamvugo zerekana ni izihe mu Kinyarwanda?",
+    "Bamenyamvugo zerekana zihinduka zite?",
+    "Ese bamenyamvugo zerekana zikoreshwa mu ki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Bamenyamvugo zerekana mu Kinyarwanda zifashishwa mu kugaragaza aho ikintu kiri n'intera iri hagati y'uvuga n'uwo abwira. Zihindagurika bitewe n'ibyiciro by'amazina.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Demonstratives in Kinyarwanda are used to indicate the location of an object and the relative distance between the speaker and the listener. They change forms according to noun classes.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
   }
  ],
  "knowledge": [
@@ -14077,6 +14149,64 @@
     "riding",
     "ubumenyi",
     "basics"
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_3471a095",
+   "category": "language",
+   "title_rw": "Imivugirire y'indome z'amajwi na konsonanti mu Kinyarwanda",
+   "title_en": "Kinyarwanda Consonants and Pronunciation",
+   "summary_rw": "Kinyarwanda gifite inyajwi eshanu na konsonanti nyinshi zihariye. Imivugirire y'amagambo iterwa n'amajwi y'ibanze hamwe n'itandukaniro ry'amajwi maremare n'amagufi.",
+   "summary_en": "Kinyarwanda has five vowels and a complex system of consonants. Pronunciation depends on basic sounds and the distinction between short and long vowels.",
+   "keywords": [
+    "kinyarwanda",
+    "konsonanti",
+    "inyajwi",
+    "imivugirire",
+    "ururimi",
+    "consonants",
+    "vowels",
+    "pronunciation"
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_7b0e46af",
+   "category": "language",
+   "title_rw": "Interuro zihakana mu Kinyarwanda",
+   "title_en": "Negative sentences in Kinyarwanda",
+   "summary_rw": "Mu Kinyarwanda, kugira ngo interuro ibe iyahakana, hakoreshwa umugereka wo guhakana \"nta\" cyangwa se inshamurego \"nt-\" iteranywa ku nshinga. Urugero, niba nshinga ari \"ndagenda\", iyo iyahakanywe ihinduka \"ntagenda\" cyangwa \"sinagenda\" bitewe n'igihe. Ubu buryo bufasha mu kugaragaza ko igikorwa kitakozwe cyangwa kitariho.",
+   "summary_en": "In Kinyarwanda, to make a sentence negative, the negative particle \"nta\" or the negative prefix \"nt-\" is attached to the verb. For example, if the verb is \"ndagenda\" (I am going), the negative form becomes \"ntagenda\" or \"sinagenda\" depending on the tense. This structure helps indicate that an action was not performed or does not exist.",
+   "keywords": [
+    "kinyarwanda",
+    "grammar",
+    "ibikorwa",
+    "ururimi",
+    "guhakana",
+    "language",
+    "verbs"
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_ff3ad97f",
+   "category": "language",
+   "title_rw": "Bamenyamvugo zerekana mu Kinyarwanda",
+   "title_en": "Demonstratives in Kinyarwanda",
+   "summary_rw": "Bamenyamvugo zerekana mu Kinyarwanda zifashishwa mu kugaragaza aho ikintu kiri n'intera iri hagati y'uvuga n'uwo abwira. Zihindagurika bitewe n'ibyiciro by'amazina.",
+   "summary_en": "Demonstratives in Kinyarwanda are used to indicate the location of an object and the relative distance between the speaker and the listener. They change forms according to noun classes.",
+   "keywords": [
+    "bamenyamvugo",
+    "demonstratives",
+    "kinyarwanda",
+    "grammar",
+    "imyiciro",
+    "language",
+    "imyitozo"
    ],
    "auto": true,
    "taught": "2026-11-26"
