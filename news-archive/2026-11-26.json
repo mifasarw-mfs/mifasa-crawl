@@ -1,7 +1,47 @@
 {
  "day": "2026-11-26",
- "count": 106,
+ "count": 108,
  "articles": [
+  {
+   "id": "crawl_15ro8n9",
+   "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
+   "summary": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.",
+   "link": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T22:06:24.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8436/live/1c6edae0-e9dc-11f1-9361-cd8ed0157587.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8436/live/1c6edae0-e9dc-11f1-9361-cd8ed0157587.jpg",
+   "title_en": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
+   "summary_en": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.",
+   "share_id": "MN202611_15ro8n9h543"
+  },
+  {
+   "id": "crawl_1vs5r5y",
+   "title": "Watch: Man and dog narrowly escape powerful king tide in Oregon",
+   "summary": "Both the man and his dog escaped unharmed, the police department says.",
+   "link": "https://www.bbc.co.uk/news/videos/cm4gnje836x2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cm4gnje836x2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T21:51:16.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58d3/live/0b805830-e9e1-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58d3/live/0b805830-e9e1-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Watch: Man and dog narrowly escape powerful king tide in Oregon",
+   "summary_en": "Both the man and his dog escaped unharmed, the police department says.",
+   "share_id": "MN202611_1vs5r5yyc9w"
+  },
   {
    "id": "crawl_1v6gu03",
    "title": "Mohamed bin Zayed Foundation for Humanity igiye gushora miliyoni 135 z'amadolari mu buvuzi muri Afurika",
@@ -2154,5 +2194,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T21:43:55.340Z"
+ "updated": "2026-11-26T22:20:18.192Z"
 }
