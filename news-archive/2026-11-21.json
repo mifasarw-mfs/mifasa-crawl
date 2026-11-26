@@ -1,6 +1,6 @@
 {
  "day": "2026-11-21",
- "count": 87,
+ "count": 88,
  "articles": [
   {
    "id": "crawl_1kb1sjv",
@@ -131,6 +131,26 @@
    "title_en": "Match of the Day",
    "summary_en": "Highlights from seven Premier League games, including leaders Arsenal at Newcastle.",
    "share_id": "MN202611_5mizakt7d6"
+  },
+  {
+   "id": "crawl_1cnoy5h",
+   "title": "Nations Championship finals weekend - who plays who?",
+   "summary": "France will play South Africa in the inaugural Nations Championship final on 29 November - see the confirmed fixtures for finals weekend.",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cgrkpl5x70eo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cgrkpl5x70eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T22:17:23.000Z",
+   "source": "BBC Sport Africa",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Sport Africa",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f050/live/1ab37e40-e1e4-11f1-9f14-b33806cfd783.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f050/live/1ab37e40-e1e4-11f1-9f14-b33806cfd783.jpg",
+   "title_en": "Nations Championship finals weekend - who plays who?",
+   "summary_en": "France will play South Africa in the inaugural Nations Championship final on 29 November - see the confirmed fixtures for finals weekend.",
+   "share_id": "MN202611_1cnoy5h0cw3"
   },
   {
    "id": "crawl_pog5i6",
@@ -1782,5 +1802,5 @@
    "share_id": "MN202611_f2ard43nty"
   }
  ],
- "updated": "2026-11-24T14:55:56.571Z"
+ "updated": "2026-11-26T10:45:59.744Z"
 }

@@ -1,7 +1,68 @@
 {
  "day": "2026-11-26",
- "count": 36,
+ "count": 41,
  "articles": [
+  {
+   "id": "crawl_nq7zig",
+   "title": "Veruschka: Striking images of one of the world's first supermodels, who has died aged 87",
+   "summary": "Veruschka was a model and artist who became one of one of the first global fashion stars in the 1960s.",
+   "link": "https://www.bbc.co.uk/news/articles/cmn50ezxdnewo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmn50ezxdnewo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T10:32:20.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d995/live/d7575180-e977-11f1-acd8-af22a7ebb474.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d995/live/d7575180-e977-11f1-acd8-af22a7ebb474.jpg",
+   "title_en": "Veruschka: Striking images of one of the world's first supermodels, who has died aged 87",
+   "summary_en": "Veruschka was a model and artist who became one of one of the first global fashion stars in the 1960s.",
+   "share_id": "MN202611_nq7zig0vza"
+  },
+  {
+   "id": "crawl_felgiy",
+   "title": "French Military, RDF Engineer Command to Strengthen Cooperation",
+   "summary": "A delegation of French military experts specialising in engineering and explosive ordnance disposal has visited the Rwanda Defence Force (RDF) Engineer Command headquarters, in a move aimed at strengthening cooperation and sharing expertise in military engineering. The delegation was received on November 26, 2026, by the Deputy Commander of RDF Engineer Command, Col Marie Claire […] The post…",
+   "link": "https://taarifa.rw/2026/11/26/french-military-rdf-engineer-command-to-strengthen-cooperation/",
+   "url": "https://taarifa.rw/2026/11/26/french-military-rdf-engineer-command-to-strengthen-cooperation/",
+   "date": "2026-11-26T10:19:48.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "National"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/HX_L0V2WoAAboR5.jpeg?fit=2048%2C1402&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/HX_L0V2WoAAboR5.jpeg?fit=2048%2C1402&ssl=1",
+   "title_en": "French Military, RDF Engineer Command to Strengthen Cooperation",
+   "summary_en": "A delegation of French military experts specialising in engineering and explosive ordnance disposal has visited the Rwanda Defence Force (RDF) Engineer Command headquarters, in a move aimed at strengthening cooperation and sharing expertise in military engineering. The delegation was received on November 26, 2026, by the Deputy Commander of RDF Engineer Command, Col Marie Claire […] The post…",
+   "share_id": "MN202611_felgiyi3t4"
+  },
+  {
+   "id": "crawl_1f8luc2",
+   "title": "Watchdog warns of several concerns in private dentistry market",
+   "summary": "The Competitions and Market Authority says reforms are needed to make sure people get a fair deal.",
+   "link": "https://www.bbc.co.uk/news/articles/c98r7ydp7v0ko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c98r7ydp7v0ko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T09:42:29.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f8f/live/65d6bd90-e97a-11f1-acd8-af22a7ebb474.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f8f/live/65d6bd90-e97a-11f1-acd8-af22a7ebb474.jpg",
+   "title_en": "Watchdog warns of several concerns in private dentistry market",
+   "summary_en": "The Competitions and Market Authority says reforms are needed to make sure people get a fair deal.",
+   "share_id": "MN202611_1f8luc2eqsw"
+  },
   {
    "id": "crawl_1amwnrw",
    "title": "Car finance compensation payments explained",
@@ -546,6 +607,26 @@
    "share_id": "MN202611_1ur3n6xwjnr"
   },
   {
+   "id": "crawl_1ndawdt",
+   "title": "Siya Kolisi on Nations Championship final and Erasmus ban",
+   "summary": "Siya Kolisi, Dave Rennie, Fin Smith and Eddie Jones are all on this bumper preview pod!",
+   "link": "https://www.bbc.co.uk/sounds/play/p0ppynxc?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/p0ppynxc?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T01:00:00.000Z",
+   "source": "BBC Sport Africa",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Sport Africa",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0lwzcxx.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0lwzcxx.jpg",
+   "title_en": "Siya Kolisi on Nations Championship final and Erasmus ban",
+   "summary_en": "Siya Kolisi, Dave Rennie, Fin Smith and Eddie Jones are all on this bumper preview pod!",
+   "share_id": "MN202611_1ndawdtzyxb"
+  },
+  {
    "id": "crawl_dfv2yq",
    "title": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
    "summary": "What are the findings for Mauricio Pochettino after his first two matches as Manchester United manager?",
@@ -564,6 +645,26 @@
    "title_en": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
    "summary_en": "What are the findings for Mauricio Pochettino after his first two matches as Manchester United manager?",
    "share_id": "MN202611_dfv2yqr2cg"
+  },
+  {
+   "id": "crawl_nwtjt2",
+   "title": "Spanish elections: What you need to know and what's at stake",
+   "summary": "After eight years of Socialist-led rule, snap elections are taking place on Sunday with conservative Alberto Núñez Feijóo vying to win office.",
+   "link": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T00:23:49.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/980a/live/67fb7f80-e910-11f1-8383-53f283141713.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/980a/live/67fb7f80-e910-11f1-8383-53f283141713.jpg",
+   "title_en": "Spanish elections: What you need to know and what's at stake",
+   "summary_en": "After eight years of Socialist-led rule, snap elections are taking place on Sunday with conservative Alberto Núñez Feijóo vying to win office.",
+   "share_id": "MN202611_nwtjt2mg9w"
   },
   {
    "id": "crawl_1i68zap",
@@ -727,5 +828,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T09:54:14.623Z"
+ "updated": "2026-11-26T10:45:59.741Z"
 }
