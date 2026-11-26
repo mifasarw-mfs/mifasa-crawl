@@ -1,7 +1,27 @@
 {
  "day": "2026-11-26",
- "count": 76,
+ "count": 77,
  "articles": [
+  {
+   "id": "crawl_12v05y8",
+   "title": "Gahunda ya Musk yo kohereza mu isanzure ibyogajuru miliyoni by'amakuru bya SpaceX yemejwe",
+   "summary": "SpaceX yemera ko \"ibigo by'amakuru byo mu isanzure\" ari bwo buryo buhendutse cyane kandi bukoresha neza ingufu, bwatuma haboneka ingufu zirimo kwiyongera zo gukoresha mudasobwa z'ubwenge buhangano.",
+   "link": "https://www.bbc.com/gahuza/articles/c3y0xqn0d09ko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/c3y0xqn0d09ko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T15:40:46.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg",
+   "title_rw": "Gahunda ya Musk yo kohereza mu isanzure ibyogajuru miliyoni by'amakuru bya SpaceX yemejwe",
+   "summary_rw": "SpaceX yemera ko \"ibigo by'amakuru byo mu isanzure\" ari bwo buryo buhendutse cyane kandi bukoresha neza ingufu, bwatuma haboneka ingufu zirimo kwiyongera zo gukoresha mudasobwa z'ubwenge buhangano.",
+   "share_id": "MN202611_12v05y8t2f2"
+  },
   {
    "id": "crawl_1is0k9n",
    "title": "Burundi: Reta yadugije igiciro c'icayi mu gihe abarimyi basa n'abari badebukiwe",
@@ -1548,5 +1568,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T15:29:15.960Z"
+ "updated": "2026-11-26T15:47:46.822Z"
 }

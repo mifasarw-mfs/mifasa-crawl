@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_12v05y8",
+  "title": "Gahunda ya Musk yo kohereza mu isanzure ibyogajuru miliyoni by'amakuru bya SpaceX yemejwe",
+  "summary": "SpaceX yemera ko \"ibigo by'amakuru byo mu isanzure\" ari bwo buryo buhendutse cyane kandi bukoresha neza ingufu, bwatuma haboneka ingufu zirimo kwiyongera zo gukoresha mudasobwa z'ubwenge buhangano.",
+  "link": "https://www.bbc.com/gahuza/articles/c3y0xqn0d09ko?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.com/gahuza/articles/c3y0xqn0d09ko?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-26T15:40:46.000Z",
+  "source": "BBC Gahuza",
+  "category": "news",
+  "lang": "rw",
+  "keywords": [
+   "BBC Gahuza",
+   "news"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg",
+  "title_rw": "Gahunda ya Musk yo kohereza mu isanzure ibyogajuru miliyoni by'amakuru bya SpaceX yemejwe",
+  "summary_rw": "SpaceX yemera ko \"ibigo by'amakuru byo mu isanzure\" ari bwo buryo buhendutse cyane kandi bukoresha neza ingufu, bwatuma haboneka ingufu zirimo kwiyongera zo gukoresha mudasobwa z'ubwenge buhangano.",
+  "share_id": "MN202611_12v05y8t2f2"
+ },
+ {
   "id": "crawl_1is0k9n",
   "title": "Burundi: Reta yadugije igiciro c'icayi mu gihe abarimyi basa n'abari badebukiwe",
   "summary": "Haraciye igihe kitari gito abarimyi bidoga ko uburimyi bw'icayi butagishobora kubabeshaho kubera ubuzima buzimvye. Hageze n’igihe bamwe barandura imirima y’ico giterwa kugira bahatere ibishobora kubatunga.",
@@ -2523,7 +2543,7 @@
  },
  {
   "id": "crawl_mn318m",
-  "title": "Strabane withdraws from UK Town of Culture bid due to 'great division'",
+  "title": "Mixed reaction as Strabane withdraws from UK Town of Culture bid due to 'great division'",
   "summary": "The County Tyrone town was shortlisted as one of 15 possible locations for the inaugural UK Town of Culture 2028, with the chance to win £3m.",
   "link": "https://www.bbc.co.uk/news/articles/ckg5rz4p7g68o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/ckg5rz4p7g68o?at_medium=RSS&at_campaign=rss",
@@ -2535,9 +2555,9 @@
    "BBC Entertainment",
    "entertainment"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bf9/live/bddfd950-cc50-11f1-9a39-31b474234113.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bf9/live/bddfd950-cc50-11f1-9a39-31b474234113.jpg",
-  "title_en": "Strabane withdraws from UK Town of Culture bid due to 'great division'",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eba4/live/6352fb40-e9ae-11f1-859a-37130cd3a1d7.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eba4/live/6352fb40-e9ae-11f1-859a-37130cd3a1d7.jpg",
+  "title_en": "Mixed reaction as Strabane withdraws from UK Town of Culture bid due to 'great division'",
   "summary_en": "The County Tyrone town was shortlisted as one of 15 possible locations for the inaugural UK Town of Culture 2028, with the chance to win £3m.",
   "share_id": "MN202611_mn318mvxpg"
  },
@@ -16936,25 +16956,5 @@
   "title_en": "'I felt like I was a ghost' - when players miss a season through injury",
   "summary_en": "Not pleasant to be around and staring at a wall for hours after being told you are not going to the World Cup - what's it like for footballers when they miss a season due to serious injury?",
   "share_id": "MN202611_8f887i47l8"
- },
- {
-  "id": "crawl_wr8dw",
-  "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
-  "summary": "The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds.",
-  "link": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-20T06:00:33.000Z",
-  "source": "BBC Business",
-  "category": "business",
-  "lang": "en",
-  "keywords": [
-   "BBC Business",
-   "business"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c60/live/a3312140-e43d-11f1-99b6-a35a62fa4264.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c60/live/a3312140-e43d-11f1-99b6-a35a62fa4264.jpg",
-  "title_en": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
-  "summary_en": "The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds.",
-  "share_id": "MN202611_wr8dwo6tu"
  }
 ]
