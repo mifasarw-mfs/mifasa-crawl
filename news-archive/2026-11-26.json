@@ -1,7 +1,47 @@
 {
  "day": "2026-11-26",
- "count": 12,
+ "count": 14,
  "articles": [
+  {
+   "id": "crawl_18d8w61",
+   "title": "Misiri: Abantu 31 bahitanwe n’umuriro inyuma y’isanganya ry’ikamyo itwara igitoro i Cairo",
+   "summary": "Amashusho yakwiragiye ku mbuga nyagiro yerekana imbeya z’umuriro n’umwotsi mwinshi waduga hejuru mw’ijoro, imodoka nyinshi zari hafi aho zahiye zigatokombera.",
+   "link": "https://www.bbc.co.uk/gahuza/live/ck87939j4l5wt?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/gahuza/live/ck87939j4l5wt?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T04:29:54.075Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a19/live/952f9010-e94a-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a19/live/952f9010-e94a-11f1-a094-5fdc692f3e33.jpg",
+   "title_rw": "Misiri: Abantu 31 bahitanwe n’umuriro inyuma y’isanganya ry’ikamyo itwara igitoro i Cairo",
+   "summary_rw": "Amashusho yakwiragiye ku mbuga nyagiro yerekana imbeya z’umuriro n’umwotsi mwinshi waduga hejuru mw’ijoro, imodoka nyinshi zari hafi aho zahiye zigatokombera.",
+   "share_id": "MN202611_18d8w611h9z"
+  },
+  {
+   "id": "crawl_z55nk8",
+   "title": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
+   "summary": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year.",
+   "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T03:27:33.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a0d/live/c9da76c0-e94c-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a0d/live/c9da76c0-e94c-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
+   "summary_en": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year.",
+   "share_id": "MN202611_z55nk8yk12"
+  },
   {
    "id": "crawl_19s48fy",
    "title": "UK government set to publish new treaties agreed with EU",
@@ -244,5 +284,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T03:24:25.903Z"
+ "updated": "2026-11-26T04:31:17.895Z"
 }

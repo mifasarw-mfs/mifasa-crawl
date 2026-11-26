@@ -1,5 +1,45 @@
 [
  {
+  "id": "crawl_18d8w61",
+  "title": "Misiri: Abantu 31 bahitanwe n’umuriro inyuma y’isanganya ry’ikamyo itwara igitoro i Cairo",
+  "summary": "Amashusho yakwiragiye ku mbuga nyagiro yerekana imbeya z’umuriro n’umwotsi mwinshi waduga hejuru mw’ijoro, imodoka nyinshi zari hafi aho zahiye zigatokombera.",
+  "link": "https://www.bbc.co.uk/gahuza/live/ck87939j4l5wt?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/gahuza/live/ck87939j4l5wt?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-26T04:29:54.075Z",
+  "source": "BBC Gahuza",
+  "category": "news",
+  "lang": "rw",
+  "keywords": [
+   "BBC Gahuza",
+   "news"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a19/live/952f9010-e94a-11f1-a094-5fdc692f3e33.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a19/live/952f9010-e94a-11f1-a094-5fdc692f3e33.jpg",
+  "title_rw": "Misiri: Abantu 31 bahitanwe n’umuriro inyuma y’isanganya ry’ikamyo itwara igitoro i Cairo",
+  "summary_rw": "Amashusho yakwiragiye ku mbuga nyagiro yerekana imbeya z’umuriro n’umwotsi mwinshi waduga hejuru mw’ijoro, imodoka nyinshi zari hafi aho zahiye zigatokombera.",
+  "share_id": "MN202611_18d8w611h9z"
+ },
+ {
+  "id": "crawl_z55nk8",
+  "title": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
+  "summary": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year.",
+  "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-26T03:27:33.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a0d/live/c9da76c0-e94c-11f1-99b6-a35a62fa4264.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a0d/live/c9da76c0-e94c-11f1-99b6-a35a62fa4264.jpg",
+  "title_en": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
+  "summary_en": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year.",
+  "share_id": "MN202611_z55nk8yk12"
+ },
+ {
   "id": "crawl_19s48fy",
   "title": "UK government set to publish new treaties agreed with EU",
   "summary": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
@@ -242,8 +282,8 @@
  },
  {
   "id": "crawl_dbhcg0",
-  "title": "Macy's postpones Thanksgiving parade due to weather",
-  "summary": "The was the first time ever that the iconic celebration - known for its massive balloons floating past the city's skyscrapers - was delayed because of storms.",
+  "title": "Macy's postpones Thanksgiving parade due to severe weather",
+  "summary": "The was the first time ever that the iconic celebration was delayed because of storms. New York expects damaging winds and heavy rainfall over the Thanksgiving holiday.",
   "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-25T23:57:03.000Z",
@@ -254,10 +294,10 @@
    "BBC World",
    "world"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77a3/live/3e055710-e932-11f1-99b6-a35a62fa4264.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77a3/live/3e055710-e932-11f1-99b6-a35a62fa4264.jpg",
-  "title_en": "Macy's postpones Thanksgiving parade due to weather",
-  "summary_en": "The was the first time ever that the iconic celebration - known for its massive balloons floating past the city's skyscrapers - was delayed because of storms.",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d43/live/3a3ebde0-e94d-11f1-bfb6-fd0f1685abfb.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d43/live/3a3ebde0-e94d-11f1-bfb6-fd0f1685abfb.jpg",
+  "title_en": "Macy's postpones Thanksgiving parade due to severe weather",
+  "summary_en": "The was the first time ever that the iconic celebration was delayed because of storms. New York expects damaging winds and heavy rainfall over the Thanksgiving holiday.",
   "share_id": "MN202611_dbhcg0a8wu"
  },
  {
@@ -825,7 +865,7 @@
  {
   "id": "crawl_t8rjqk",
   "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
-  "summary": "The crash was 'like something out of a disaster movie,' the BBC's science editor Rebecca Morelle says.",
+  "summary": "The crash was \"like something out of a disaster movie\", the BBC's science editor Rebecca Morelle says.",
   "link": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-25T19:17:51.000Z",
@@ -839,7 +879,7 @@
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dd3/live/34155b50-e901-11f1-99a1-253766e7ad8b.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dd3/live/34155b50-e901-11f1-99a1-253766e7ad8b.jpg",
   "title_en": "Moment Nasa spacecraft hit asteroid - and what happened next",
-  "summary_en": "The crash was 'like something out of a disaster movie,' the BBC's science editor Rebecca Morelle says.",
+  "summary_en": "The crash was \"like something out of a disaster movie\", the BBC's science editor Rebecca Morelle says.",
   "share_id": "MN202611_t8rjqko6tm"
  },
  {
@@ -3641,12 +3681,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-24T20:41:54.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Technology",
+  "category": "tech",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Technology",
+   "tech"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
@@ -16927,52 +16967,5 @@
   "title_rw": "#diamondplatnumz #Zuchu #MvuaYaBaraka BTS #viral #trending #trendingshorts",
   "summary_rw": "#diamondplatnumz #Zuchu #MvuaYaBaraka BTS #viral #trending #trendingshorts",
   "share_id": "MN202611_17kfqnarltw"
- },
- {
-  "id": "crawl_11fsviw",
-  "title": "Kigali Fight Night Targets Pan-African Spotlight as BK Arena Prepares for Biggest Boxing Showcase",
-  "summary": "Kigali is preparing to host one of its biggest combat sports events yet, with the third edition of Kigali Fight Night set to bring together professional boxers from across Africa at BK Arena on December 10, 2026. Organised by Silverback Sports, the event is expected to attract about 4,000 spectators, marking a major step in […] The post Kigali Fight Night Targets Pan-African Spotlight as BK Arena…",
-  "link": "https://taarifa.rw/2026/11/19/kigali-fight-night-targets-pan-african-spotlight-as-bk-arena-prepares-for-biggest-boxing-showcase/",
-  "url": "https://taarifa.rw/2026/11/19/kigali-fight-night-targets-pan-african-spotlight-as-bk-arena-prepares-for-biggest-boxing-showcase/",
-  "date": "2026-11-19T14:54:40.000Z",
-  "source": "Taarifa Rwanda",
-  "category": "news",
-  "lang": "en",
-  "keywords": [
-   "Taarifa Rwanda",
-   "news",
-   "Sports"
-  ],
-  "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-19-at-16.42.24.jpeg?fit=1279%2C1600&ssl=1",
-  "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-19-at-16.42.24.jpeg?fit=1279%2C1600&ssl=1",
-  "title_en": "Kigali Fight Night Targets Pan-African Spotlight as BK Arena Prepares for Biggest Boxing Showcase",
-  "summary_en": "Kigali is preparing to host one of its biggest combat sports events yet, with the third edition of Kigali Fight Night set to bring together professional boxers from across Africa at BK Arena on December 10, 2026. Organised by Silverback Sports, the event is expected to attract about 4,000 spectators, marking a major step in […] The post Kigali Fight Night Targets Pan-African Spotlight as BK Arena…",
-  "share_id": "MN202611_11fsviw64s6"
- },
- {
-  "id": "crawl_rqlfrp",
-  "title": "LIVE 🔴TURI KUMAVI SERVICE With Evangelist Patrick",
-  "summary": "LIVE 🔴TURI KUMAVI SERVICE With Evangelist Patrick",
-  "link": "https://www.youtube.com/watch?v=_TtIVTJZF7E",
-  "url": "https://www.youtube.com/watch?v=_TtIVTJZF7E",
-  "date": "2026-11-19T14:50:50.000Z",
-  "source": "Wamufaransa Comedy YouTube",
-  "category": "entertainment",
-  "lang": "rw",
-  "keywords": [
-   "Wamufaransa Comedy YouTube",
-   "entertainment",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "_TtIVTJZF7E"
-  },
-  "type": "video",
-  "image": "https://i4.ytimg.com/vi/_TtIVTJZF7E/hqdefault.jpg",
-  "thumbnail": "https://i4.ytimg.com/vi/_TtIVTJZF7E/hqdefault.jpg",
-  "title_rw": "LIVE 🔴TURI KUMAVI SERVICE With Evangelist Patrick",
-  "summary_rw": "LIVE 🔴TURI KUMAVI SERVICE With Evangelist Patrick",
-  "share_id": "MN202611_rqlfrplkkz"
  }
 ]
