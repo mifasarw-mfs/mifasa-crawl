@@ -1,7 +1,67 @@
 {
  "day": "2026-11-26",
- "count": 77,
+ "count": 81,
  "articles": [
+  {
+   "id": "crawl_1qb3bel",
+   "title": "Two Italians killed after Iranian strike in Kuwait",
+   "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+   "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T16:27:09.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png",
+   "title_en": "Two Italians killed after Iranian strike in Kuwait",
+   "summary_en": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+   "share_id": "MN202611_1qb3belw7vf"
+  },
+  {
+   "id": "crawl_1lqg3p",
+   "title": "Fireball steals the show during Thanksgiving drone display in Indiana",
+   "summary": "The glowing object was captured on video as holiday-themed drones illuminated the night sky.",
+   "link": "https://www.bbc.co.uk/news/videos/c6n4e3yypylxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/c6n4e3yypylxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T16:18:30.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfc7/live/da987b80-e9b3-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfc7/live/da987b80-e9b3-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Fireball steals the show during Thanksgiving drone display in Indiana",
+   "summary_en": "The glowing object was captured on video as holiday-themed drones illuminated the night sky.",
+   "share_id": "MN202611_1lqg3pn36r"
+  },
+  {
+   "id": "crawl_n4d1nt",
+   "title": "BK Foundation’s One Million Trees Campaign Reaches Rubavu",
+   "summary": "BK Foundation, in partnership with the Rwanda Rural Rehabilitation Initiative (RWARRI), has planted thousands of trees in Rubavu District as part of a nationwide campaign aimed at restoring degraded land,… The post BK Foundation’s One Million Trees Campaign Reaches Rubavu appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/bk-foundations-one-million-trees-campaign-reaches-rubavu/",
+   "url": "https://www.ktpress.rw/2026/11/bk-foundations-one-million-trees-campaign-reaches-rubavu/",
+   "date": "2026-11-26T16:03:09.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "National",
+    "latestnews"
+   ],
+   "title_en": "BK Foundation’s One Million Trees Campaign Reaches Rubavu",
+   "summary_en": "BK Foundation, in partnership with the Rwanda Rural Rehabilitation Initiative (RWARRI), has planted thousands of trees in Rubavu District as part of a nationwide campaign aimed at restoring degraded land,… The post BK Foundation’s One Million Trees Campaign Reaches Rubavu appeared first on KT PRESS .",
+   "share_id": "MN202611_n4d1nt4clj"
+  },
   {
    "id": "crawl_12v05y8",
    "title": "Gahunda ya Musk yo kohereza mu isanzure ibyogajuru miliyoni by'amakuru bya SpaceX yemejwe",
@@ -722,6 +782,26 @@
    "title_en": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
    "summary_en": "The killings are the latest from a series of near daily attacks by Israel against what it says are Hamas targets.",
    "share_id": "MN202611_bz2lirvhzl"
+  },
+  {
+   "id": "crawl_1lnsi8h",
+   "title": "Politics and peek-a-boo in Australian parliament as senator brings baby to work",
+   "summary": "Senator Lidia Thorpe kept 6-month-old Aaliyah entertained, as her mum Senator Fatima Payman, participated in an online safety bill debate.",
+   "link": "https://www.bbc.co.uk/news/videos/cmvg23djw8v9o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cmvg23djw8v9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T09:49:42.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ce/live/37520f50-e97b-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ce/live/37520f50-e97b-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Politics and peek-a-boo in Australian parliament as senator brings baby to work",
+   "summary_en": "Senator Lidia Thorpe kept 6-month-old Aaliyah entertained, as her mum Senator Fatima Payman, participated in an online safety bill debate.",
+   "share_id": "MN202611_1lnsi8hl3cf"
   },
   {
    "id": "crawl_1f8luc2",
@@ -1568,5 +1648,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T15:47:46.822Z"
+ "updated": "2026-11-26T16:35:45.632Z"
 }
