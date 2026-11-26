@@ -1,7 +1,48 @@
 {
  "day": "2026-11-26",
- "count": 32,
+ "count": 35,
  "articles": [
+  {
+   "id": "crawl_17tmvkm",
+   "title": "How Rwanda’s Proposed Return Hub Tests the Meaning of “Humane” Migration Policy",
+   "summary": "Rwanda has entered a difficult international debate after French MP Prisca Thevenot questioned plans to accommodate some migrants in the country. Foreign Affairs Minister Olivier Nduhungirehe rejected her description of the proposed facilities as “camps.” He pointed to Rwanda’s experience hosting refugees and argued that the country is offering a practical response to a migration […] The post How…",
+   "link": "https://taarifa.rw/2026/11/26/how-rwandas-proposed-return-hub-tests-the-meaning-of-humane-migration-policy/",
+   "url": "https://taarifa.rw/2026/11/26/how-rwandas-proposed-return-hub-tests-the-meaning-of-humane-migration-policy/",
+   "date": "2026-11-26T09:34:21.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "The Big Talk"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/IMG_8439.jpeg?fit=600%2C400&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/IMG_8439.jpeg?fit=600%2C400&ssl=1",
+   "title_en": "How Rwanda’s Proposed Return Hub Tests the Meaning of “Humane” Migration Policy",
+   "summary_en": "Rwanda has entered a difficult international debate after French MP Prisca Thevenot questioned plans to accommodate some migrants in the country. Foreign Affairs Minister Olivier Nduhungirehe rejected her description of the proposed facilities as “camps.” He pointed to Rwanda’s experience hosting refugees and argued that the country is offering a practical response to a migration […] The post How…",
+   "share_id": "MN202611_17tmvkm3iyc"
+  },
+  {
+   "id": "crawl_1sm8s49",
+   "title": "UK signs £8bn deal to ensure submarines are 'warfighting ready'",
+   "summary": "The deal will allow \"work around the clock to get our submarines back out to sea\" , Wes Streeting says.",
+   "link": "https://www.bbc.co.uk/news/articles/cq39gz99l1pyo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq39gz99l1pyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T09:23:46.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29e/live/9a874000-e970-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29e/live/9a874000-e970-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "UK signs £8bn deal to ensure submarines are 'warfighting ready'",
+   "summary_en": "The deal will allow \"work around the clock to get our submarines back out to sea\" , Wes Streeting says.",
+   "share_id": "MN202611_1sm8s491ol3"
+  },
   {
    "id": "crawl_1un3kmi",
    "title": "Rwanda Central Bank Raises Key Rate to 9.5% Amid Surging Inflation",
@@ -101,6 +142,26 @@
    "title_en": "Guinea orders residents to clean up the capital months after deadly rubbish dump collapse",
    "summary_en": "The capital's main rubbish dump has been closed since the disaster, leading to rubbish piling up in the streets.",
    "share_id": "MN202611_1sii0asawrm"
+  },
+  {
+   "id": "crawl_2g06yz",
+   "title": "Thirteen dead as mine disaster highlights illegal hunt for gold",
+   "summary": "Indonesian authorities say another 13 are missing in the illegal gold mine, which flooded on Monday.",
+   "link": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T07:31:24.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f7f/live/77162390-e96e-11f1-848a-0519bc65af50.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f7f/live/77162390-e96e-11f1-848a-0519bc65af50.jpg",
+   "title_en": "Thirteen dead as mine disaster highlights illegal hunt for gold",
+   "summary_en": "Indonesian authorities say another 13 are missing in the illegal gold mine, which flooded on Monday.",
+   "share_id": "MN202611_2g06yzx5ex"
   },
   {
    "id": "crawl_1tugnzv",
@@ -646,5 +707,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T08:53:17.748Z"
+ "updated": "2026-11-26T09:42:43.589Z"
 }
