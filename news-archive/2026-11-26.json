@@ -1,7 +1,27 @@
 {
  "day": "2026-11-26",
- "count": 68,
+ "count": 70,
  "articles": [
+  {
+   "id": "crawl_rkxnwf",
+   "title": "Millions of people to see average monthly mortgage payments rise by £100",
+   "summary": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
+   "link": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T14:00:20.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85b5/live/f4930230-e995-11f1-b880-15b494ba858d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85b5/live/f4930230-e995-11f1-b880-15b494ba858d.jpg",
+   "title_en": "Millions of people to see average monthly mortgage payments rise by £100",
+   "summary_en": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
+   "share_id": "MN202611_rkxnwfqkd9"
+  },
   {
    "id": "crawl_1szenia",
    "title": "JustMarkets Launches Golden Challenge with Gold Rewards and $50,000+ Prize Pool",
@@ -84,6 +104,26 @@
    "title_en": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
    "summary_en": "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
    "share_id": "MN202611_1a8mvwnfsdh"
+  },
+  {
+   "id": "crawl_p25wgi",
+   "title": "Woman whose 'real-life ghost story' inspired TV series reveals scariest encounter",
+   "summary": "Liz Rich reveals what it was like living in one of Britain's most haunted homes in south Wales in 1989.",
+   "link": "https://www.bbc.co.uk/news/articles/c8dx10y676eyo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c8dx10y676eyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T13:27:49.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfa8/live/843df6f0-e98d-11f1-9d1c-4dcc8fcde666.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfa8/live/843df6f0-e98d-11f1-9d1c-4dcc8fcde666.jpg",
+   "title_en": "Woman whose 'real-life ghost story' inspired TV series reveals scariest encounter",
+   "summary_en": "Liz Rich reveals what it was like living in one of Britain's most haunted homes in south Wales in 1989.",
+   "share_id": "MN202611_p25wgiysxc"
   },
   {
    "id": "crawl_1eo40kj",
@@ -1388,5 +1428,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T13:59:51.235Z"
+ "updated": "2026-11-26T14:20:00.663Z"
 }
