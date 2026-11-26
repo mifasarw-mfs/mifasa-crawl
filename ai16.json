@@ -7959,6 +7959,78 @@
    ],
    "auto": true,
    "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_284f3055_q",
+   "label_rw": "Imikino Gakondo mu Rwanda",
+   "label_en": "Traditional Games in Rwanda",
+   "patterns_en": [
+    "What is a well-known traditional game in Rwanda?",
+    "How did traditional games help Rwandans?",
+    "How was Ibisoro played?"
+   ],
+   "patterns_rw": [
+    "Ni uwuhe mukino gakondo uzwi cyane mu Rwanda?",
+    "Imikino gakondo yafashaga iki Abanyarwanda?",
+    "Ibisoro byakinishwaga bite?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imikino gakondo yari ingenzi mu mibereho y'Abanyarwanda. Yafashaga mu kwidagadura no kongera ubumwe. Urugero rwiza ni Ibisoro cyangwa Gusoro, umukino w'ubwenge wakinishwaga amabuye n'imyobo mu itaka. Hari n'indi mikino y'amaboko n'iy'amarasiganwa yafashaga abato kwiga kwihangana.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Traditional games were important in Rwandan culture. They provided entertainment and built community unity. A well-known example is Ibisoro or Gusoro, a strategic board game played with seeds or stones in holes dug in the ground. There were also physical games and racing activities that helped youth learn resilience.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_d1e5b8ac_q",
+   "label_rw": "Ubumenyi bw'ikirere mu Rwanda rwo hambere",
+   "label_en": "Rwandan Traditional Timekeeping",
+   "patterns_en": [
+    "How did ancient Rwandans keep time?",
+    "What guided agricultural seasons in traditional Rwanda?",
+    "How was astronomical knowledge passed down in Rwanda?"
+   ],
+   "patterns_rw": [
+    "Abanyarwanda bo hambere bamenyaga bate igihe?",
+    "Ni iki cyayoboraga ubuhinzi mu Rwanda rwo hambere?",
+    "Ubumenyi bw'ikirere bwafatwaga gute mu muco nyarwanda?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mu Rwanda rwo hambere, abantu bamenyaga igihe bifashishije ibimenyetso byo mu kirere nko kwitegereza izuba, ukwezi, n'inyenyeri runaka. Ibihe by'ubuhinzi byayoborwaga n'aya menyo y'ikirere, bifasha abahinzi kumenya igihe cyo guhinga no gusarura. Abasaza bagiye bihererekanya ubu bumenyi binyuze mu migani n'imigenzo kugira ngo iterambere ry'ubuhinzi rikomeze.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Traditionally, Rwandans kept time by observing natural phenomena, including the position of the sun, the moon phases, and specific stars. The agricultural seasons were guided by these celestial observations, helping farmers determine when to sow and harvest crops. Elders passed down this knowledge orally from generation to generation to maintain community organization and agricultural productivity.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_6027b913_q",
+   "label_rw": "Urugo rw'Umwami",
+   "label_en": "The Royal Court of Rwanda",
+   "patterns_en": [
+    "What was the royal court called?",
+    "What did the royal court consist of?",
+    "What materials were used to build houses at the royal court?"
+   ],
+   "patterns_rw": [
+    "Urugo rw'umwami rwitwaga iki?",
+    "Ni iki cyari kigize urugo rw'umwami?",
+    "Inzu z'ibwami zubakishwaga iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Urugo rw'umwami w'u Rwanda rwari ruzwi nka ibwami. Rwari rugizwe n'inzu nyinshi z'ib nyatsi n'ibiraro by'inka. Izo nzu zari zubatse mu bipangu by'ibiti n'ibyatsi. Ibyo byose byari bigamije kurinda umwami no kwakira abashyitsi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The traditional royal court of Rwanda, known as ibwami, consisted of numerous grass-thatched huts and cattle kraals. These structures were built within enclosures made of wood and grass. The layout was designed to protect the king and host visitors.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
   }
  ],
  "knowledge": [
@@ -14514,6 +14586,64 @@
     "soil",
     "isuri",
     "conservation"
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_284f3055",
+   "category": "culture",
+   "title_rw": "Imikino Gakondo mu Rwanda",
+   "title_en": "Traditional Games in Rwanda",
+   "summary_rw": "Imikino gakondo yari ingenzi mu mibereho y'Abanyarwanda. Yafashaga mu kwidagadura no kongera ubumwe. Urugero rwiza ni Ibisoro cyangwa Gusoro, umukino w'ubwenge wakinishwaga amabuye n'imyobo mu itaka. Hari n'indi mikino y'amaboko n'iy'amarasiganwa yafashaga abato kwiga kwihangana.",
+   "summary_en": "Traditional games were important in Rwandan culture. They provided entertainment and built community unity. A well-known example is Ibisoro or Gusoro, a strategic board game played with seeds or stones in holes dug in the ground. There were also physical games and racing activities that helped youth learn resilience.",
+   "keywords": [
+    "imikino",
+    "games",
+    "ibisoro",
+    "gusoro",
+    "umuco",
+    "culture",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_d1e5b8ac",
+   "category": "culture",
+   "title_rw": "Ubumenyi bw'ikirere mu Rwanda rwo hambere",
+   "title_en": "Rwandan Traditional Timekeeping",
+   "summary_rw": "Mu Rwanda rwo hambere, abantu bamenyaga igihe bifashishije ibimenyetso byo mu kirere nko kwitegereza izuba, ukwezi, n'inyenyeri runaka. Ibihe by'ubuhinzi byayoborwaga n'aya menyo y'ikirere, bifasha abahinzi kumenya igihe cyo guhinga no gusarura. Abasaza bagiye bihererekanya ubu bumenyi binyuze mu migani n'imigenzo kugira ngo iterambere ry'ubuhinzi rikomeze.",
+   "summary_en": "Traditionally, Rwandans kept time by observing natural phenomena, including the position of the sun, the moon phases, and specific stars. The agricultural seasons were guided by these celestial observations, helping farmers determine when to sow and harvest crops. Elders passed down this knowledge orally from generation to generation to maintain community organization and agricultural productivity.",
+   "keywords": [
+    "ikirere",
+    "ubuhinzi",
+    "amateka",
+    "umuco",
+    "timekeeping",
+    "astronomy",
+    "culture",
+    "rwandan"
+   ],
+   "auto": true,
+   "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_6027b913",
+   "category": "culture",
+   "title_rw": "Urugo rw'Umwami",
+   "title_en": "The Royal Court of Rwanda",
+   "summary_rw": "Urugo rw'umwami w'u Rwanda rwari ruzwi nka ibwami. Rwari rugizwe n'inzu nyinshi z'ib nyatsi n'ibiraro by'inka. Izo nzu zari zubatse mu bipangu by'ibiti n'ibyatsi. Ibyo byose byari bigamije kurinda umwami no kwakira abashyitsi.",
+   "summary_en": "The traditional royal court of Rwanda, known as ibwami, consisted of numerous grass-thatched huts and cattle kraals. These structures were built within enclosures made of wood and grass. The layout was designed to protect the king and host visitors.",
+   "keywords": [
+    "ibwami",
+    "umwami",
+    "urugo",
+    "rwanda",
+    "royal",
+    "court",
+    "architecture"
    ],
    "auto": true,
    "taught": "2026-11-26"
