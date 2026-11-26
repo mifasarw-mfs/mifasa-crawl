@@ -1,7 +1,27 @@
 {
  "day": "2026-11-26",
- "count": 8,
+ "count": 9,
  "articles": [
+  {
+   "id": "crawl_1ur3n6x",
+   "title": "California braces for potential Thanksgiving flooding as storms threaten US coasts",
+   "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms, which come as millions of people travel for the holiday.",
+   "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T01:05:47.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6396/live/c71ce590-e919-11f1-8383-53f283141713.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6396/live/c71ce590-e919-11f1-8383-53f283141713.jpg",
+   "title_en": "California braces for potential Thanksgiving flooding as storms threaten US coasts",
+   "summary_en": "Parts of the Canadian province of British Columbia may also be affected by the storms, which come as millions of people travel for the holiday.",
+   "share_id": "MN202611_1ur3n6xwjnr"
+  },
   {
    "id": "crawl_dfv2yq",
    "title": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
@@ -164,5 +184,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T00:50:18.684Z"
+ "updated": "2026-11-26T01:15:01.267Z"
 }
