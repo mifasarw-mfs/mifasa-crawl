@@ -1,7 +1,47 @@
 {
  "day": "2026-11-26",
- "count": 108,
+ "count": 110,
  "articles": [
+  {
+   "id": "crawl_c8xpk3",
+   "title": "Bournemouth 'allowed to dream' as fans book Europa League final hotels",
+   "summary": "Bournemouth are dreaming of winning the Europa League after joining a select band of teams who have won their first five European games.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmq5v84vw818o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmq5v84vw818o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T22:27:52.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/278c/live/15481e30-e9e0-11f1-9361-cd8ed0157587.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/278c/live/15481e30-e9e0-11f1-9361-cd8ed0157587.jpg",
+   "title_en": "Bournemouth 'allowed to dream' as fans book Europa League final hotels",
+   "summary_en": "Bournemouth are dreaming of winning the Europa League after joining a select band of teams who have won their first five European games.",
+   "share_id": "MN202611_c8xpk3toxt"
+  },
+  {
+   "id": "crawl_1vtb7ur",
+   "title": "Euro Leagues",
+   "summary": "Is Jude Bellingham the best midfielder in the world, & even better than Zidane once was?!",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pq4ydb?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/p0pq4ydb?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T22:13:00.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg",
+   "title_en": "Euro Leagues",
+   "summary_en": "Is Jude Bellingham the best midfielder in the world, & even better than Zidane once was?!",
+   "share_id": "MN202611_1vtb7ur0ae9"
+  },
   {
    "id": "crawl_15ro8n9",
    "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
@@ -2194,5 +2234,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T22:20:18.192Z"
+ "updated": "2026-11-26T22:46:19.729Z"
 }
