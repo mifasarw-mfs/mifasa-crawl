@@ -1,7 +1,107 @@
 {
  "day": "2026-11-26",
- "count": 110,
+ "count": 117,
  "articles": [
+  {
+   "id": "crawl_1dz2iq2",
+   "title": "Asia made a big AI bet on Nvidia. What happens now?",
+   "summary": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
+   "link": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T23:08:12.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c76/live/9f54a560-e956-11f1-a629-63e812fa871f.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c76/live/9f54a560-e956-11f1-a629-63e812fa871f.jpg",
+   "title_en": "Asia made a big AI bet on Nvidia. What happens now?",
+   "summary_en": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
+   "share_id": "MN202611_1dz2iq2vf6w"
+  },
+  {
+   "id": "crawl_d10udw",
+   "title": "My partner has ME and it's kept her in bed for five years",
+   "summary": "ME: Campaigners warn people 'can die' without changes to services",
+   "link": "https://www.bbc.co.uk/news/videos/cq8r7yld3jzlo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cq8r7yld3jzlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T23:00:19.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a34/live/90693e80-e983-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a34/live/90693e80-e983-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "My partner has ME and it's kept her in bed for five years",
+   "summary_en": "ME: Campaigners warn people 'can die' without changes to services",
+   "share_id": "MN202611_d10udwxhgy"
+  },
+  {
+   "id": "crawl_e9sh9w",
+   "title": "'We feed and wash her': Severe ME leaves woman bedbound for five years",
+   "summary": "Shauna Chambers said her partner Row was “full of energy” but now cannot tolerate light or noise.",
+   "link": "https://www.bbc.co.uk/news/articles/cwvg2d9dxdjdo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwvg2d9dxdjdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T22:56:41.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67d1/live/511ad830-e9cc-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67d1/live/511ad830-e9cc-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "'We feed and wash her': Severe ME leaves woman bedbound for five years",
+   "summary_en": "Shauna Chambers said her partner Row was “full of energy” but now cannot tolerate light or noise.",
+   "share_id": "MN202611_e9sh9wldqq"
+  },
+  {
+   "id": "crawl_5bmix4",
+   "title": "Floating nature islands installed in parks as Glasgow Games legacy",
+   "summary": "The islands, being planted in five Glasgow parks, are designed to encourage wildlife and help clean the water.",
+   "link": "https://www.bbc.co.uk/news/articles/cwe9kxdm1k4lo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwe9kxdm1k4lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T22:54:18.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e53f/live/7d190c10-e8ee-11f1-8808-1d4222955d7e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e53f/live/7d190c10-e8ee-11f1-8808-1d4222955d7e.jpg",
+   "title_en": "Floating nature islands installed in parks as Glasgow Games legacy",
+   "summary_en": "The islands, being planted in five Glasgow parks, are designed to encourage wildlife and help clean the water.",
+   "share_id": "MN202611_5bmix4ffdy"
+  },
+  {
+   "id": "crawl_1a0rpjt",
+   "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+   "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+   "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T22:49:27.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
+   "title_en": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+   "summary_en": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+   "share_id": "MN202611_1a0rpjtkm0n"
+  },
   {
    "id": "crawl_c8xpk3",
    "title": "Bournemouth 'allowed to dream' as fans book Europa League final hotels",
@@ -61,6 +161,26 @@
    "title_en": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
    "summary_en": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.",
    "share_id": "MN202611_15ro8n9h543"
+  },
+  {
+   "id": "crawl_zejmuo",
+   "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+   "summary": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
+   "link": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T22:06:20.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5957/live/94851140-e9e4-11f1-ab41-f1f84c0c758a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5957/live/94851140-e9e4-11f1-ab41-f1f84c0c758a.jpg",
+   "title_en": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+   "summary_en": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
+   "share_id": "MN202611_zejmuoc7ym"
   },
   {
    "id": "crawl_1vs5r5y",
@@ -305,6 +425,26 @@
    "title_en": "Chief medical officer Gregor Smith resigns on mental health grounds",
    "summary_en": "The 55-year-old, who has served in the position since December 2020, has faced questions over his role in the handling of avoidable deaths at NHS Grampian in recent weeks.",
    "share_id": "MN202611_kovzswsmvy"
+  },
+  {
+   "id": "crawl_dup79s",
+   "title": "What will returning Magill bring to Northern Ireland?",
+   "summary": "As she gears up for her international return, what will Simone Magill bring to Northern Ireland against Greece in Friday's friendly?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm93rdqrgkz2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm93rdqrgkz2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T18:34:20.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08b0/live/e216c380-e9ae-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08b0/live/e216c380-e9ae-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "What will returning Magill bring to Northern Ireland?",
+   "summary_en": "As she gears up for her international return, what will Simone Magill bring to Northern Ireland against Greece in Friday's friendly?",
+   "share_id": "MN202611_dup79sl6ni"
   },
   {
    "id": "crawl_1x78quy",
@@ -2234,5 +2374,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T22:46:19.729Z"
+ "updated": "2026-11-26T23:18:11.216Z"
 }
