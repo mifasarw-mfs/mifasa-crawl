@@ -1,7 +1,27 @@
 [
  {
+  "id": "crawl_1d728qh",
+  "title": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
+  "summary": "Somalia relies heavily on foreign funding and military support for its very survival.",
+  "link": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-26T02:06:10.000Z",
+  "source": "BBC Africa",
+  "category": "news",
+  "lang": "en",
+  "keywords": [
+   "BBC Africa",
+   "news"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96e8/live/f14b1490-dc2b-11f1-a5b1-adf9c8e8d692.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96e8/live/f14b1490-dc2b-11f1-a5b1-adf9c8e8d692.jpg",
+  "title_en": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
+  "summary_en": "Somalia relies heavily on foreign funding and military support for its very survival.",
+  "share_id": "MN202611_1d728qhv57b"
+ },
+ {
   "id": "crawl_1ur3n6x",
-  "title": "California braces for potential Thanksgiving flooding as storms threaten US coasts",
+  "title": "California warns of flooding as king tides peak over Thanksgiving",
   "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms, which come as millions of people travel for the holiday.",
   "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
@@ -15,7 +35,7 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6396/live/c71ce590-e919-11f1-8383-53f283141713.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6396/live/c71ce590-e919-11f1-8383-53f283141713.jpg",
-  "title_en": "California braces for potential Thanksgiving flooding as storms threaten US coasts",
+  "title_en": "California warns of flooding as king tides peak over Thanksgiving",
   "summary_en": "Parts of the Canadian province of British Columbia may also be affected by the storms, which come as millions of people travel for the holiday.",
   "share_id": "MN202611_1ur3n6xwjnr"
  },
@@ -194,8 +214,8 @@
    "BBC World",
    "world"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c21b/live/11998ed0-e914-11f1-8383-53f283141713.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c21b/live/11998ed0-e914-11f1-8383-53f283141713.jpg",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77a3/live/3e055710-e932-11f1-99b6-a35a62fa4264.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77a3/live/3e055710-e932-11f1-99b6-a35a62fa4264.jpg",
   "title_en": "Macy's postpones Thanksgiving parade due to weather",
   "summary_en": "The was the first time ever that the iconic celebration - known for its massive balloons floating past the city's skyscrapers - was delayed because of storms.",
   "share_id": "MN202611_dbhcg0a8wu"
@@ -16966,28 +16986,5 @@
   "title_rw": "LIVE 🔴TURI KUMAVI SERVICE With Evangelist Patrick",
   "summary_rw": "LIVE 🔴TURI KUMAVI SERVICE With Evangelist Patrick",
   "share_id": "MN202611_1k825xpy8rv"
- },
- {
-  "id": "crawl_xxiklo",
-  "title": "U Rwanda rwitabiriye Imurikagurisha Mpuzamahanga ry'Ubukerarugendo bwo ku rwego rwo hejuru, Luxperience 2026",
-  "summary": "U Rwanda rwitabiriye ihuriro, rikaba n’imurikagurisha mpuzamahanga ry’ubukerarugendo bwo ku rwego ruhanitse (Luxperience 2026), ririmo kubera i Sydney muri Australia, kuva ku itariki 17 kugeza (…)",
-  "link": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/u-rwanda-rwitabiriye-imurikagurisha-mpuzamahanga-ry-ubukerarugendo-bwo-ku-rwego-rwo-hejuru-luxperience-2026",
-  "url": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/u-rwanda-rwitabiriye-imurikagurisha-mpuzamahanga-ry-ubukerarugendo-bwo-ku-rwego-rwo-hejuru-luxperience-2026",
-  "date": "2026-11-19T14:11:58.000Z",
-  "source": "Kigali Today",
-  "category": "news",
-  "lang": "rw",
-  "keywords": [
-   "Kigali Today",
-   "news",
-   "Mu mahanga",
-   "MobileBigStory",
-   "Mediatrice Uwingabire"
-  ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-19_at_14.15_35.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-19_at_14.15_35.jpg",
-  "title_rw": "U Rwanda rwitabiriye Imurikagurisha Mpuzamahanga ry'Ubukerarugendo bwo ku rwego rwo hejuru, Luxperience 2026",
-  "summary_rw": "U Rwanda rwitabiriye ihuriro, rikaba n’imurikagurisha mpuzamahanga ry’ubukerarugendo bwo ku rwego ruhanitse (Luxperience 2026), ririmo kubera i Sydney muri Australia, kuva ku itariki 17 kugeza (…)",
-  "share_id": "MN202611_xxiklogewa"
  }
 ]

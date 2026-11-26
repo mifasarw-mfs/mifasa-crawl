@@ -1,7 +1,27 @@
 {
  "day": "2026-11-26",
- "count": 9,
+ "count": 10,
  "articles": [
+  {
+   "id": "crawl_1d728qh",
+   "title": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
+   "summary": "Somalia relies heavily on foreign funding and military support for its very survival.",
+   "link": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T02:06:10.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96e8/live/f14b1490-dc2b-11f1-a5b1-adf9c8e8d692.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96e8/live/f14b1490-dc2b-11f1-a5b1-adf9c8e8d692.jpg",
+   "title_en": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
+   "summary_en": "Somalia relies heavily on foreign funding and military support for its very survival.",
+   "share_id": "MN202611_1d728qhv57b"
+  },
   {
    "id": "crawl_1ur3n6x",
    "title": "California braces for potential Thanksgiving flooding as storms threaten US coasts",
@@ -184,5 +204,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T01:15:01.267Z"
+ "updated": "2026-11-26T02:13:43.264Z"
 }
