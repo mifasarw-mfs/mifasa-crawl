@@ -1,7 +1,127 @@
 {
  "day": "2026-11-26",
- "count": 19,
+ "count": 25,
  "articles": [
+  {
+   "id": "crawl_1sii0as",
+   "title": "Guinea orders residents to clean up the capital months after deadly rubbish dump collapse",
+   "summary": "The capital's main rubbish dump has been closed since the disaster, leading to rubbish piling up in the streets.",
+   "link": "https://www.bbc.co.uk/news/articles/cqwy4377yxnlo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqwy4377yxnlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T07:43:48.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27e3/live/62b728b0-e967-11f1-9656-317cf5039a62.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27e3/live/62b728b0-e967-11f1-9656-317cf5039a62.jpg",
+   "title_en": "Guinea orders residents to clean up the capital months after deadly rubbish dump collapse",
+   "summary_en": "The capital's main rubbish dump has been closed since the disaster, leading to rubbish piling up in the streets.",
+   "share_id": "MN202611_1sii0asawrm"
+  },
+  {
+   "id": "crawl_1tugnzv",
+   "title": "Why KMI Panel frustrates referees too - and impacts their salary",
+   "summary": "For Premier League referees, the KMI Panel is more important than you might realise. It determines a significant portion of their salary.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq20x16zxxzeo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cq20x16zxxzeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T07:28:18.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca44/live/8c9006a0-e7fc-11f1-85d8-8d5c5b3dc8c8.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca44/live/8c9006a0-e7fc-11f1-85d8-8d5c5b3dc8c8.jpg",
+   "title_en": "Why KMI Panel frustrates referees too - and impacts their salary",
+   "summary_en": "For Premier League referees, the KMI Panel is more important than you might realise. It determines a significant portion of their salary.",
+   "share_id": "MN202611_1tugnzv8leh"
+  },
+  {
+   "id": "crawl_tc2pw2",
+   "title": "The Portuguese second-tier team hosting Celtic in Europe",
+   "summary": "Portuguese second-tier side Torreense host Celtic in the Europa League. But how did they end up here?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw99zxvyzj04o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cw99zxvyzj04o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T07:26:12.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5c7/live/e5a471f0-c2fd-11f1-b8c6-6d610e41a5d9.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5c7/live/e5a471f0-c2fd-11f1-b8c6-6d610e41a5d9.jpg",
+   "title_en": "The Portuguese second-tier team hosting Celtic in Europe",
+   "summary_en": "Portuguese second-tier side Torreense host Celtic in the Europa League. But how did they end up here?",
+   "share_id": "MN202611_tc2pw2unao"
+  },
+  {
+   "id": "crawl_1sxcoyu",
+   "title": "DR Congo demands answers over Ugandan general's threats",
+   "summary": "Gen Kainerugaba threatened a rebel takeover of a mineral-rich area in DR Congo in controversial X posts.",
+   "link": "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T07:24:39.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1533/live/659d3900-e964-11f1-82b3-2f50a9074536.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1533/live/659d3900-e964-11f1-82b3-2f50a9074536.jpg",
+   "title_en": "DR Congo demands answers over Ugandan general's threats",
+   "summary_en": "Gen Kainerugaba threatened a rebel takeover of a mineral-rich area in DR Congo in controversial X posts.",
+   "share_id": "MN202611_1sxcoyu5lfo"
+  },
+  {
+   "id": "crawl_eit5ve",
+   "title": "Canada: Bibarutse umwana wa gatatu ari mu isanzure",
+   "summary": "Umunyakanada utwara ibyogajuru, ari mu byishimo nyuma yo kwibaruka umwana we wa gatatu, n'ubwo we n'isi batandukanyijwe n'ibirometero amamiliyoni.",
+   "link": "https://www.bbc.com/gahuza/articles/cwvg26g86z1yo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/cwvg26g86z1yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T06:56:25.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/19b2/live/aed9cc20-e8e5-11f1-a3b9-79c60ec9ab33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/19b2/live/aed9cc20-e8e5-11f1-a3b9-79c60ec9ab33.jpg",
+   "title_rw": "Canada: Bibarutse umwana wa gatatu ari mu isanzure",
+   "summary_rw": "Umunyakanada utwara ibyogajuru, ari mu byishimo nyuma yo kwibaruka umwana we wa gatatu, n'ubwo we n'isi batandukanyijwe n'ibirometero amamiliyoni.",
+   "share_id": "MN202611_eit5vem2c8"
+  },
+  {
+   "id": "crawl_t9ebci",
+   "title": "Who am I? Plus today's other quizzes",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6ly5125qgy9o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6ly5125qgy9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T06:53:51.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+   "title_en": "Who am I? Plus today's other quizzes",
+   "summary_en": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "share_id": "MN202611_t9ebci68r4"
+  },
   {
    "id": "crawl_6o2es2",
    "title": "'Laughing gas has ended careers' - so how common is it in football?",
@@ -386,5 +506,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T06:29:05.412Z"
+ "updated": "2026-11-26T07:54:59.972Z"
 }
