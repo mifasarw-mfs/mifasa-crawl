@@ -1,7 +1,26 @@
 {
  "day": "2026-11-26",
- "count": 60,
+ "count": 61,
  "articles": [
+  {
+   "id": "crawl_sg18ip",
+   "title": "How Tshisekedi’s Zero-sum Diplomacy Poisoned Relations With Kenya",
+   "summary": "When President William Ruto and his Congolese counterpart, Félix Tshisekedi, sat down in Oyo on Sunday, 22 November, under the mediation of Republic of Congo President Denis Sassou-Nguesso, the cameras… The post How Tshisekedi’s Zero-sum Diplomacy Poisoned Relations With Kenya appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/how-tshisekedis-zero-sum-diplomacy-poisoned-relations-with-kenya/",
+   "url": "https://www.ktpress.rw/2026/11/how-tshisekedis-zero-sum-diplomacy-poisoned-relations-with-kenya/",
+   "date": "2026-11-26T12:55:02.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "Voices"
+   ],
+   "title_en": "How Tshisekedi’s Zero-sum Diplomacy Poisoned Relations With Kenya",
+   "summary_en": "When President William Ruto and his Congolese counterpart, Félix Tshisekedi, sat down in Oyo on Sunday, 22 November, under the mediation of Republic of Congo President Denis Sassou-Nguesso, the cameras… The post How Tshisekedi’s Zero-sum Diplomacy Poisoned Relations With Kenya appeared first on KT PRESS .",
+   "share_id": "MN202611_sg18ipffy7"
+  },
   {
    "id": "crawl_fhbjk6",
    "title": "How to follow the Premier League on the BBC this weekend",
@@ -1223,5 +1242,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T12:44:51.156Z"
+ "updated": "2026-11-26T13:00:14.255Z"
 }
