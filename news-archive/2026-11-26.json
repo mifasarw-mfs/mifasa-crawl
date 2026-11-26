@@ -1,7 +1,47 @@
 {
  "day": "2026-11-26",
- "count": 70,
+ "count": 72,
  "articles": [
+  {
+   "id": "crawl_1y6ne3w",
+   "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
+   "summary": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges.",
+   "link": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T14:35:22.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b19/live/49e2b830-e995-11f1-9d1c-4dcc8fcde666.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b19/live/49e2b830-e995-11f1-9d1c-4dcc8fcde666.jpg",
+   "title_en": "Pregnant US inmate escapes in prison vehicle after medical appointment",
+   "summary_en": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges.",
+   "share_id": "MN202611_1y6ne3wgakq"
+  },
+  {
+   "id": "crawl_sttgw8",
+   "title": "When will Poundland close? Five questions about its future",
+   "summary": "Why is Poundland closing down, and what will hapen to staff and suppliers?",
+   "link": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T14:05:27.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e449/live/9d5e65f0-e99e-11f1-b880-15b494ba858d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e449/live/9d5e65f0-e99e-11f1-b880-15b494ba858d.jpg",
+   "title_en": "When will Poundland close? Five questions about its future",
+   "summary_en": "Why is Poundland closing down, and what will hapen to staff and suppliers?",
+   "share_id": "MN202611_sttgw8mdd2"
+  },
   {
    "id": "crawl_rkxnwf",
    "title": "Millions of people to see average monthly mortgage payments rise by £100",
@@ -1428,5 +1468,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T14:20:00.663Z"
+ "updated": "2026-11-26T14:54:30.257Z"
 }
