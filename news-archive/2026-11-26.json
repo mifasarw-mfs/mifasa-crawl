@@ -1,7 +1,27 @@
 {
  "day": "2026-11-26",
- "count": 88,
+ "count": 89,
  "articles": [
+  {
+   "id": "crawl_10deke6",
+   "title": "Did Scotland's departing chief medical officer actually do anything wrong?",
+   "summary": "Sir Gregor Smith has stepped down, citing health reasons, amid a row about failures at NHS Grampian.",
+   "link": "https://www.bbc.co.uk/news/articles/cq4gnjd5l3k4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq4gnjd5l3k4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T17:45:45.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bf1/live/823c5260-e9c0-11f1-8d2a-f5d2aabc11cb.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bf1/live/823c5260-e9c0-11f1-8d2a-f5d2aabc11cb.jpg",
+   "title_en": "Did Scotland's departing chief medical officer actually do anything wrong?",
+   "summary_en": "Sir Gregor Smith has stepped down, citing health reasons, amid a row about failures at NHS Grampian.",
+   "share_id": "MN202611_10deke67gv0"
+  },
   {
    "id": "crawl_lbkqg0",
    "title": "Germany's Freigang given 16-month ban over drugs test issues",
@@ -1790,5 +1810,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T17:42:05.115Z"
+ "updated": "2026-11-26T17:48:40.147Z"
 }

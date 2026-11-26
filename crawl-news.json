@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_10deke6",
+  "title": "Did Scotland's departing chief medical officer actually do anything wrong?",
+  "summary": "Sir Gregor Smith has stepped down, citing health reasons, amid a row about failures at NHS Grampian.",
+  "link": "https://www.bbc.co.uk/news/articles/cq4gnjd5l3k4o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cq4gnjd5l3k4o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-26T17:45:45.000Z",
+  "source": "BBC Health",
+  "category": "health",
+  "lang": "en",
+  "keywords": [
+   "BBC Health",
+   "health"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bf1/live/823c5260-e9c0-11f1-8d2a-f5d2aabc11cb.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bf1/live/823c5260-e9c0-11f1-8d2a-f5d2aabc11cb.jpg",
+  "title_en": "Did Scotland's departing chief medical officer actually do anything wrong?",
+  "summary_en": "Sir Gregor Smith has stepped down, citing health reasons, amid a row about failures at NHS Grampian.",
+  "share_id": "MN202611_10deke67gv0"
+ },
+ {
   "id": "crawl_lbkqg0",
   "title": "Germany's Freigang given 16-month ban over drugs test issues",
   "summary": "Germany international Laura Freigang is suspended from football for 16 months over issues relating to three drugs tests.",
@@ -16950,25 +16970,5 @@
   "title_en": "EFL preview: Evans' gripes & unexpected departures",
   "summary_en": "BBC Sport explores five things to capture your attention this EFL weekend.",
   "share_id": "MN202611_1gmzlbfriq1"
- },
- {
-  "id": "crawl_gpy6jj",
-  "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
-  "summary": "People stocking up on long-life food drove retail sales higher October, according to official data.",
-  "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-20T07:44:29.000Z",
-  "source": "BBC Business",
-  "category": "business",
-  "lang": "en",
-  "keywords": [
-   "BBC Business",
-   "business"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2f3/live/616b7460-e4bd-11f1-bd65-4bcf15946188.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2f3/live/616b7460-e4bd-11f1-bd65-4bcf15946188.jpg",
-  "title_en": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
-  "summary_en": "People stocking up on long-life food drove retail sales higher October, according to official data.",
-  "share_id": "MN202611_gpy6jjr30d"
  }
 ]
