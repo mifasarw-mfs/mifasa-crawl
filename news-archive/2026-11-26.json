@@ -1,7 +1,47 @@
 {
  "day": "2026-11-26",
- "count": 81,
+ "count": 85,
  "articles": [
+  {
+   "id": "crawl_23jfdb",
+   "title": "Fofana has apologised for interview - Alonso",
+   "summary": "Chelsea manager Xabi Alonso says defender Wesley Fofana has apologised for his controversial comments in an interview he gave without permission from the club.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5wy43j1l3rwo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c5wy43j1l3rwo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T16:47:47.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbb6/live/0c620240-e9b8-11f1-8d2a-f5d2aabc11cb.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbb6/live/0c620240-e9b8-11f1-8d2a-f5d2aabc11cb.jpg",
+   "title_en": "Fofana has apologised for interview - Alonso",
+   "summary_en": "Chelsea manager Xabi Alonso says defender Wesley Fofana has apologised for his controversial comments in an interview he gave without permission from the club.",
+   "share_id": "MN202611_23jfdbfer1"
+  },
+  {
+   "id": "crawl_kogzc0",
+   "title": "Icyizere ku babarirwa muri za miliyoni kubera Urukingo rwa HIV ruhendutse rwageze muri Africa",
+   "summary": "Lenacapavir, ni urukingo rutangwa kabiri mu mwaka, rwizewe hafi 100% kurinda virusi itera SIDA",
+   "link": "https://www.bbc.com/gahuza/articles/cky978qg5yypo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/cky978qg5yypo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T16:34:45.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7ec2/live/6c97c050-e986-11f1-b64a-3bc3040b00fe.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7ec2/live/6c97c050-e986-11f1-b64a-3bc3040b00fe.jpg",
+   "title_rw": "Icyizere ku babarirwa muri za miliyoni kubera Urukingo rwa HIV ruhendutse rwageze muri Africa",
+   "summary_rw": "Lenacapavir, ni urukingo rutangwa kabiri mu mwaka, rwizewe hafi 100% kurinda virusi itera SIDA",
+   "share_id": "MN202611_kogzc09vsu"
+  },
   {
    "id": "crawl_1qb3bel",
    "title": "Two Italians killed after Iranian strike in Kuwait",
@@ -81,6 +121,48 @@
    "title_rw": "Gahunda ya Musk yo kohereza mu isanzure ibyogajuru miliyoni by'amakuru bya SpaceX yemejwe",
    "summary_rw": "SpaceX yemera ko \"ibigo by'amakuru byo mu isanzure\" ari bwo buryo buhendutse cyane kandi bukoresha neza ingufu, bwatuma haboneka ingufu zirimo kwiyongera zo gukoresha mudasobwa z'ubwenge buhangano.",
    "share_id": "MN202611_12v05y8t2f2"
+  },
+  {
+   "id": "crawl_186hmz2",
+   "title": "Rwanda’s Bwiza and Bruce Melodie Urged to Promote National Pride Through Music in Zambia",
+   "summary": "Rwanda’s music stars Bwiza and Bruce Melodie have been encouraged to use their growing influence beyond entertainment to promote national pride, strengthen unity among Rwandans abroad and share positive stories about their homeland as they prepare to perform in Zambia. The message was delivered by Rwanda’s Ambassador to Zambia, Emmanuel Bugingo, who welcomed the two […] The post Rwanda’s Bwiza…",
+   "link": "https://taarifa.rw/2026/11/26/rwandas-bwiza-and-bruce-melodie-urged-to-promote-national-pride-through-music-in-zambia/",
+   "url": "https://taarifa.rw/2026/11/26/rwandas-bwiza-and-bruce-melodie-urged-to-promote-national-pride-through-music-in-zambia/",
+   "date": "2026-11-26T15:32:57.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "Entertainment"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-26-at-16.39.42.jpeg?fit=524%2C381&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-26-at-16.39.42.jpeg?fit=524%2C381&ssl=1",
+   "title_en": "Rwanda’s Bwiza and Bruce Melodie Urged to Promote National Pride Through Music in Zambia",
+   "summary_en": "Rwanda’s music stars Bwiza and Bruce Melodie have been encouraged to use their growing influence beyond entertainment to promote national pride, strengthen unity among Rwandans abroad and share positive stories about their homeland as they prepare to perform in Zambia. The message was delivered by Rwanda’s Ambassador to Zambia, Emmanuel Bugingo, who welcomed the two […] The post Rwanda’s Bwiza…",
+   "share_id": "MN202611_186hmz23cx8"
+  },
+  {
+   "id": "crawl_1gn83ha",
+   "title": "French Military Experts Visit RDF Engineer Command to Strengthen Cooperation",
+   "summary": "A delegation of French military experts specialising in engineering and explosive ordnance disposal has visited the Rwanda Defence Force (RDF) Engineer Command headquarters, in a move aimed at strengthening cooperation and sharing expertise in military engineering. The delegation was received on November 26, 2026, by the Deputy Commander of RDF Engineer Command, Col Marie Claire […] The post…",
+   "link": "https://taarifa.rw/2026/11/26/french-military-experts-visit-rdf-engineer-command-to-strengthen-cooperation/",
+   "url": "https://taarifa.rw/2026/11/26/french-military-experts-visit-rdf-engineer-command-to-strengthen-cooperation/",
+   "date": "2026-11-26T15:31:50.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "Defense & Military"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-26-at-11.48.20.jpeg?fit=720%2C431&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-26-at-11.48.20.jpeg?fit=720%2C431&ssl=1",
+   "title_en": "French Military Experts Visit RDF Engineer Command to Strengthen Cooperation",
+   "summary_en": "A delegation of French military experts specialising in engineering and explosive ordnance disposal has visited the Rwanda Defence Force (RDF) Engineer Command headquarters, in a move aimed at strengthening cooperation and sharing expertise in military engineering. The delegation was received on November 26, 2026, by the Deputy Commander of RDF Engineer Command, Col Marie Claire […] The post…",
+   "share_id": "MN202611_1gn83haoqv0"
   },
   {
    "id": "crawl_1is0k9n",
@@ -1648,5 +1730,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T16:35:45.632Z"
+ "updated": "2026-11-26T16:50:57.707Z"
 }
