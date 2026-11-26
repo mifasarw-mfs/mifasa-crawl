@@ -301,8 +301,8 @@
    "BBC Business",
    "business"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbe3/live/d6fe8520-e961-11f1-a094-5fdc692f3e33.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbe3/live/d6fe8520-e961-11f1-a094-5fdc692f3e33.jpg",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
   "title_en": "New UK-EU treaty has 10-year termination clause, BBC understands",
   "summary_en": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
   "share_id": "MN202611_19s48fyx4ws"
@@ -515,12 +515,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-26T00:01:37.000Z",
-  "source": "BBC Business",
-  "category": "business",
+  "source": "BBC Entertainment",
+  "category": "entertainment",
   "lang": "en",
   "keywords": [
-   "BBC Business",
-   "business"
+   "BBC Entertainment",
+   "entertainment"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67c1/live/7aa1e2b0-e80b-11f1-99a1-253766e7ad8b.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67c1/live/7aa1e2b0-e80b-11f1-99a1-253766e7ad8b.jpg",
@@ -1195,6 +1195,26 @@
   "title_en": "Rwanda’s Capital Markets Industry Takes Long-Term Financing Opportunities to Businesses Nationwide",
   "summary_en": "KIGALI – More than 840 enterprises have been reached through a nationwide campaign to introduce businesses to Rwanda’s capital markets, as the country seeks to expand the sources of long-term… The post Rwanda’s Capital Markets Industry Takes Long-Term Financing Opportunities to Businesses Nationwide appeared first on KT PRESS .",
   "share_id": "MN202611_ezn0v5mb1"
+ },
+ {
+  "id": "crawl_4729ng",
+  "title": "James Nelson-Joyce hits back at mayor's TV drama criticism",
+  "summary": "The actor rejected criticism of crime drama This City Is Ours by Mayor Steve Rotheram.",
+  "link": "https://www.bbc.co.uk/news/articles/cmvg24j9wex2o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cmvg24j9wex2o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-25T18:41:27.000Z",
+  "source": "BBC Entertainment",
+  "category": "entertainment",
+  "lang": "en",
+  "keywords": [
+   "BBC Entertainment",
+   "entertainment"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08d8/live/3c1acf50-e8e9-11f1-8808-1d4222955d7e.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08d8/live/3c1acf50-e8e9-11f1-8808-1d4222955d7e.jpg",
+  "title_en": "James Nelson-Joyce hits back at mayor's TV drama criticism",
+  "summary_en": "The actor rejected criticism of crime drama This City Is Ours by Mayor Steve Rotheram.",
+  "share_id": "MN202611_4729ngv64a"
  },
  {
   "id": "crawl_1mn5uro",
@@ -1971,7 +1991,7 @@
  },
  {
   "id": "crawl_1rvmy0o",
-  "title": "NHS Grampian surgeon was ready to operate on patient while recovering from medical procedure",
+  "title": "NHS Grampian surgeon was ready to operate while recovering from medical procedure",
   "summary": "The doctor had to be driven to Dr Gray's hospital in Elgin because he felt unable to drive himself.",
   "link": "https://www.bbc.co.uk/news/articles/cx30g76yvl1zo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cx30g76yvl1zo?at_medium=RSS&at_campaign=rss",
@@ -1985,7 +2005,7 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c42/live/b88e7ac0-dedd-11f1-93e1-3b657b665bcf.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c42/live/b88e7ac0-dedd-11f1-93e1-3b657b665bcf.jpg",
-  "title_en": "NHS Grampian surgeon was ready to operate on patient while recovering from medical procedure",
+  "title_en": "NHS Grampian surgeon was ready to operate while recovering from medical procedure",
   "summary_en": "The doctor had to be driven to Dr Gray's hospital in Elgin because he felt unable to drive himself.",
   "share_id": "MN202611_1rvmy0ofuhi"
  },
@@ -16925,25 +16945,5 @@
   "title_en": "Dutch watchdog tells people not to buy AI smart glasses",
   "summary_en": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
   "share_id": "MN202611_aavijdof07"
- },
- {
-  "id": "crawl_1x1g6ns",
-  "title": "Rare rhino's first steps captured on video at zoo",
-  "summary": "Zookeepers say the rhino's birth is a \"special moment\" for the under-threat one horned species.",
-  "link": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-19T16:28:41.000Z",
-  "source": "BBC Science",
-  "category": "science",
-  "lang": "en",
-  "keywords": [
-   "BBC Science",
-   "science"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d1/live/b7600f70-e418-11f1-b37c-b3a71d7200af.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d1/live/b7600f70-e418-11f1-b37c-b3a71d7200af.jpg",
-  "title_en": "Rare rhino's first steps captured on video at zoo",
-  "summary_en": "Zookeepers say the rhino's birth is a \"special moment\" for the under-threat one horned species.",
-  "share_id": "MN202611_1x1g6ns934m"
  }
 ]

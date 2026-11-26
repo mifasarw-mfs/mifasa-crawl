@@ -1,6 +1,6 @@
 {
  "day": "2026-11-25",
- "count": 129,
+ "count": 130,
  "articles": [
   {
    "id": "crawl_dbhcg0",
@@ -642,6 +642,26 @@
    "title_en": "Rwanda’s Capital Markets Industry Takes Long-Term Financing Opportunities to Businesses Nationwide",
    "summary_en": "KIGALI – More than 840 enterprises have been reached through a nationwide campaign to introduce businesses to Rwanda’s capital markets, as the country seeks to expand the sources of long-term… The post Rwanda’s Capital Markets Industry Takes Long-Term Financing Opportunities to Businesses Nationwide appeared first on KT PRESS .",
    "share_id": "MN202611_ezn0v5mb1"
+  },
+  {
+   "id": "crawl_4729ng",
+   "title": "James Nelson-Joyce hits back at mayor's TV drama criticism",
+   "summary": "The actor rejected criticism of crime drama This City Is Ours by Mayor Steve Rotheram.",
+   "link": "https://www.bbc.co.uk/news/articles/cmvg24j9wex2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmvg24j9wex2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T18:41:27.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08d8/live/3c1acf50-e8e9-11f1-8808-1d4222955d7e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08d8/live/3c1acf50-e8e9-11f1-8808-1d4222955d7e.jpg",
+   "title_en": "James Nelson-Joyce hits back at mayor's TV drama criticism",
+   "summary_en": "The actor rejected criticism of crime drama This City Is Ours by Mayor Steve Rotheram.",
+   "share_id": "MN202611_4729ngv64a"
   },
   {
    "id": "crawl_1mn5uro",
@@ -2626,5 +2646,5 @@
    "share_id": "MN202611_bihwaeasr8"
   }
  ],
- "updated": "2026-11-26T00:50:18.686Z"
+ "updated": "2026-11-26T08:28:20.278Z"
 }
