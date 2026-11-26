@@ -1,7 +1,67 @@
 {
  "day": "2026-11-26",
- "count": 92,
+ "count": 95,
  "articles": [
+  {
+   "id": "crawl_hqh45z",
+   "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+   "summary": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
+   "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T19:26:16.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e81d/live/7ff7f4c0-e9cd-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e81d/live/7ff7f4c0-e9cd-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Watch: Roofs torn off and streets under water as severe weather hits US",
+   "summary_en": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
+   "share_id": "MN202611_hqh45zdr91"
+  },
+  {
+   "id": "crawl_fm01sx",
+   "title": "Referee being 'drunk' claims are 'entirely unfounded'",
+   "summary": "A referee who was replaced at half-time of an Asian Football Confederation (AFC) Champions League Two match denies he was drunk during the fixture.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6x289w0vpr1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6x289w0vpr1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T19:19:49.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d92/live/3f83f370-e9c4-11f1-8d2a-f5d2aabc11cb.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d92/live/3f83f370-e9c4-11f1-8d2a-f5d2aabc11cb.jpg",
+   "title_en": "Referee being 'drunk' claims are 'entirely unfounded'",
+   "summary_en": "A referee who was replaced at half-time of an Asian Football Confederation (AFC) Champions League Two match denies he was drunk during the fixture.",
+   "share_id": "MN202611_fm01sxw16n"
+  },
+  {
+   "id": "crawl_kovzsw",
+   "title": "Chief medical officer Gregor Smith resigns on mental health grounds",
+   "summary": "The 55-year-old, who has served in the position since December 2020, has faced questions over his role in the handling of avoidable deaths at NHS Grampian in recent weeks.",
+   "link": "https://www.bbc.co.uk/news/videos/cme8732p1928o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cme8732p1928o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T18:44:26.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/197f/live/89cab410-e9c8-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/197f/live/89cab410-e9c8-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Chief medical officer Gregor Smith resigns on mental health grounds",
+   "summary_en": "The 55-year-old, who has served in the position since December 2020, has faced questions over his role in the handling of avoidable deaths at NHS Grampian in recent weeks.",
+   "share_id": "MN202611_kovzswsmvy"
+  },
   {
    "id": "crawl_1x78quy",
    "title": "Second court defeat for Trump's deep-sea mining ambitions",
@@ -1870,5 +1930,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T18:30:53.647Z"
+ "updated": "2026-11-26T19:35:14.028Z"
 }
