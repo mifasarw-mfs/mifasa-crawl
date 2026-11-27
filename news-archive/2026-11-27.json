@@ -1,7 +1,47 @@
 {
  "day": "2026-11-27",
- "count": 68,
+ "count": 70,
  "articles": [
+  {
+   "id": "crawl_13bai6v",
+   "title": "Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+   "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+   "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T15:15:19.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15e2/live/1b2535e0-ea76-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15e2/live/1b2535e0-ea76-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+   "summary_en": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+   "share_id": "MN202611_13bai6v3enp"
+  },
+  {
+   "id": "crawl_6w4b45",
+   "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+   "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.",
+   "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T14:55:15.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdb7/live/4aa3b900-ea6b-11f1-a828-d384c0290f6b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdb7/live/4aa3b900-ea6b-11f1-a828-d384c0290f6b.jpg",
+   "title_en": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+   "summary_en": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.",
+   "share_id": "MN202611_6w4b45x7kz"
+  },
   {
    "id": "crawl_qcptkb",
    "title": "'I am not a magician' - what can Maresca's Man City learn from watertight Arsenal?",
@@ -1379,5 +1419,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T14:52:57.267Z"
+ "updated": "2026-11-27T15:26:41.172Z"
 }

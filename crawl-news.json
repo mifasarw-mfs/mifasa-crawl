@@ -1,5 +1,45 @@
 [
  {
+  "id": "crawl_13bai6v",
+  "title": "Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+  "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+  "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-27T15:15:19.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15e2/live/1b2535e0-ea76-11f1-99a1-253766e7ad8b.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15e2/live/1b2535e0-ea76-11f1-99a1-253766e7ad8b.jpg",
+  "title_en": "Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+  "summary_en": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+  "share_id": "MN202611_13bai6v3enp"
+ },
+ {
+  "id": "crawl_6w4b45",
+  "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+  "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.",
+  "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-27T14:55:15.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdb7/live/4aa3b900-ea6b-11f1-a828-d384c0290f6b.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdb7/live/4aa3b900-ea6b-11f1-a828-d384c0290f6b.jpg",
+  "title_en": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+  "summary_en": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.",
+  "share_id": "MN202611_6w4b45x7kz"
+ },
+ {
   "id": "crawl_qcptkb",
   "title": "'I am not a magician' - what can Maresca's Man City learn from watertight Arsenal?",
   "summary": "Manchester City's leaky defence faces one of the most difficult games of the season with a trip to watertight Arsenal, aiming to put right their patchy recent form.",
@@ -587,12 +627,12 @@
   "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-27T10:26:28.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Science",
+  "category": "science",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Science",
+   "science"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/318d/live/6be8b890-ea6b-11f1-99b6-a35a62fa4264.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/318d/live/6be8b890-ea6b-11f1-99b6-a35a62fa4264.jpg",
@@ -1363,7 +1403,7 @@
  },
  {
   "id": "crawl_1fzb55j",
-  "title": "'Craving connection': The young hikers swapping screens for walking groups",
+  "title": "'It feels very therapeutic': The young hikers swapping screens for walking groups",
   "summary": "From hiking in the Peak District hills to the city parks of Leicester - we talk to several young people who've embraced walking groups and feel better for it.",
   "link": "https://www.bbc.co.uk/news/articles/c32l50v7x2v1o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/c32l50v7x2v1o?at_medium=RSS&at_campaign=rss",
@@ -1377,27 +1417,27 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baec/live/bc60a6d0-e9b1-11f1-99a1-253766e7ad8b.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baec/live/bc60a6d0-e9b1-11f1-99a1-253766e7ad8b.jpg",
-  "title_en": "'Craving connection': The young hikers swapping screens for walking groups",
+  "title_en": "'It feels very therapeutic': The young hikers swapping screens for walking groups",
   "summary_en": "From hiking in the Peak District hills to the city parks of Leicester - we talk to several young people who've embraced walking groups and feel better for it.",
   "share_id": "MN202611_1fzb55j41md"
  },
  {
   "id": "crawl_3324tq",
-  "title": "Met Police ruined my life, says Kenyan man wrongly convicted over attack on UK couple",
+  "title": "UK police ruined my life, says Kenyan man wrongly convicted over attack on British couple",
   "summary": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
   "link": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-27T00:48:11.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Africa",
+  "category": "news",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Africa",
+   "news"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cfa/live/2eeecd70-e99f-11f1-b880-15b494ba858d.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cfa/live/2eeecd70-e99f-11f1-b880-15b494ba858d.jpg",
-  "title_en": "Met Police ruined my life, says Kenyan man wrongly convicted over attack on UK couple",
+  "title_en": "UK police ruined my life, says Kenyan man wrongly convicted over attack on British couple",
   "summary_en": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
   "share_id": "MN202611_3324tqz39o"
  },
@@ -16838,45 +16878,5 @@
   "title_en": "Tech Now",
   "summary_en": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
   "share_id": "MN202611_ewb1ipdn67"
- },
- {
-  "id": "crawl_1062bk7",
-  "title": "Tech Now",
-  "summary": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
-  "link": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-21T01:00:00.000Z",
-  "source": "BBC Technology",
-  "category": "tech",
-  "lang": "en",
-  "keywords": [
-   "BBC Technology",
-   "tech"
-  ],
-  "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp14ps.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp14ps.jpg",
-  "title_en": "Tech Now",
-  "summary_en": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
-  "share_id": "MN202611_1062bk7vg2t"
- },
- {
-  "id": "crawl_1ake0rp",
-  "title": "ANC fights to keep control of South Africa's key cities after election setback",
-  "summary": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
-  "link": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-21T00:34:51.000Z",
-  "source": "BBC Africa",
-  "category": "news",
-  "lang": "en",
-  "keywords": [
-   "BBC Africa",
-   "news"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aad1/live/7d1c0de0-e4ff-11f1-a8e4-b1e12a49db15.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aad1/live/7d1c0de0-e4ff-11f1-a8e4-b1e12a49db15.jpg",
-  "title_en": "ANC fights to keep control of South Africa's key cities after election setback",
-  "summary_en": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
-  "share_id": "MN202611_1ake0rp6x8j"
  }
 ]
