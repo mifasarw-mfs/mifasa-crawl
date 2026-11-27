@@ -1,7 +1,50 @@
 {
  "day": "2026-11-27",
- "count": 84,
+ "count": 86,
  "articles": [
+  {
+   "id": "crawl_zfnabw",
+   "title": "Umuryango w'Abagide mu Rwanda wifatanyije n'Akarere ka Bugesera mu bukangurambaga bwo kurwanya ihohotera rikorerwa abana",
+   "summary": "Akarere ka Bugesera hamwe n’Umuryango w’Abagide mu Rwanda ku bufatanye n’Umuryango mpuzamahanga wa ‘Plan International Rwanda’, bari mu bukangurambaga bw’iminsi 16 (guhera ku itariki 25 Ugushyingo (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/umuryango-w-abagide-mu-rwanda-wifatanyije-n-akarere-ka-bugesera-mu-bukangurambaga-bwo-kurwanya-ihohotera-rikorerwa",
+   "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/umuryango-w-abagide-mu-rwanda-wifatanyije-n-akarere-ka-bugesera-mu-bukangurambaga-bwo-kurwanya-ihohotera-rikorerwa",
+   "date": "2026-11-27T17:53:10.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu Rwanda",
+    "MobileBigStory",
+    "Mediatrice Uwingabire"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-27_at_10.11_18.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-27_at_10.11_18.jpg",
+   "title_rw": "Umuryango w'Abagide mu Rwanda wifatanyije n'Akarere ka Bugesera mu bukangurambaga bwo kurwanya ihohotera rikorerwa abana",
+   "summary_rw": "Akarere ka Bugesera hamwe n’Umuryango w’Abagide mu Rwanda ku bufatanye n’Umuryango mpuzamahanga wa ‘Plan International Rwanda’, bari mu bukangurambaga bw’iminsi 16 (guhera ku itariki 25 Ugushyingo (…)",
+   "share_id": "MN202611_zfnabwxs8a"
+  },
+  {
+   "id": "crawl_1ymvl3k",
+   "title": "Emery praises Garnacho attitude after Villa selection snub",
+   "summary": "Aston Villa boss Unai Emery praises Alejandro Garnacho's \"fantastic attitude\" but suggests other players rank ahead of him for selection.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwp9d4eg4n2xo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwp9d4eg4n2xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T17:42:00.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/141e/live/97985990-ea85-11f1-a739-457c2295eaba.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/141e/live/97985990-ea85-11f1-a739-457c2295eaba.jpg",
+   "title_en": "Emery praises Garnacho attitude after Villa selection snub",
+   "summary_en": "Aston Villa boss Unai Emery praises Alejandro Garnacho's \"fantastic attitude\" but suggests other players rank ahead of him for selection.",
+   "share_id": "MN202611_1ymvl3knii6"
+  },
   {
    "id": "crawl_7t3nnu",
    "title": "Amateka y'ikimenyetso cya @ cyahinduye itumanaho ryo kuri murandasi",
@@ -1722,5 +1765,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T17:42:57.415Z"
+ "updated": "2026-11-27T18:31:24.210Z"
 }
