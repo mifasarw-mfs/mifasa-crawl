@@ -1,7 +1,68 @@
 {
  "day": "2026-11-27",
- "count": 61,
+ "count": 64,
  "articles": [
+  {
+   "id": "crawl_1wgouc8",
+   "title": "Rwanda’s First Endovascular Neurosurgeon About to Complete Training",
+   "summary": "Rwanda is gearing up for the country’s First Endovascular Neurosurgeon, Taarifa Investigative Desk reliably reports. Dr Sylvie Inyange is training from Addis Ababa, Ethiopia at the Habari Medical Plaza and Axon Stroke & Spine Center. With the ambition to complete training as an endovascular neurosurgeon, Dr Inyange is getting support from Dr Wondwossen Tekle and […] The post Rwanda’s First…",
+   "link": "https://taarifa.rw/2026/11/27/rwandas-first-endovascular-neurosurgeon-about-to-complete-training/",
+   "url": "https://taarifa.rw/2026/11/27/rwandas-first-endovascular-neurosurgeon-about-to-complete-training/",
+   "date": "2026-11-27T14:14:18.000Z",
+   "source": "Taarifa Rwanda",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "Taarifa Rwanda",
+    "news",
+    "Health"
+   ],
+   "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261127-161034.jpg?fit=720%2C583&ssl=1",
+   "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/Screenshot_20261127-161034.jpg?fit=720%2C583&ssl=1",
+   "title_en": "Rwanda’s First Endovascular Neurosurgeon About to Complete Training",
+   "summary_en": "Rwanda is gearing up for the country’s First Endovascular Neurosurgeon, Taarifa Investigative Desk reliably reports. Dr Sylvie Inyange is training from Addis Ababa, Ethiopia at the Habari Medical Plaza and Axon Stroke & Spine Center. With the ambition to complete training as an endovascular neurosurgeon, Dr Inyange is getting support from Dr Wondwossen Tekle and […] The post Rwanda’s First…",
+   "share_id": "MN202611_1wgouc8pnjq"
+  },
+  {
+   "id": "crawl_9xsb7k",
+   "title": "Dec Donnelly says I'm a Celebrity tension 'became much bigger deal than it should have'",
+   "summary": "The co-hosts discussed tensions that flared between Mariella Frostrup and AJ Odudu on the show.",
+   "link": "https://www.bbc.co.uk/news/articles/c65y1k8qx7q4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c65y1k8qx7q4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T14:06:20.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90cf/live/ea63a4e0-ea53-11f1-b220-b9f21129b546.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90cf/live/ea63a4e0-ea53-11f1-b220-b9f21129b546.jpg",
+   "title_en": "Dec Donnelly says I'm a Celebrity tension 'became much bigger deal than it should have'",
+   "summary_en": "The co-hosts discussed tensions that flared between Mariella Frostrup and AJ Odudu on the show.",
+   "share_id": "MN202611_9xsb7kl7oe"
+  },
+  {
+   "id": "crawl_1j7qakn",
+   "title": "Iordanescu's first Watford interview - what we learned",
+   "summary": "What we learned from new Watford manager Edward Iordanescu's first press conference.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw7726543kyzo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cw7726543kyzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T13:58:15.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/108d/live/59076bc0-ea5e-11f1-a094-5fdc692f3e33.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/108d/live/59076bc0-ea5e-11f1-a094-5fdc692f3e33.png",
+   "title_en": "Iordanescu's first Watford interview - what we learned",
+   "summary_en": "What we learned from new Watford manager Edward Iordanescu's first press conference.",
+   "share_id": "MN202611_1j7qakni7z9"
+  },
   {
    "id": "crawl_o15x3q",
    "title": "Concern over maternity unit move prompts extra paramedic funding",
@@ -1238,5 +1299,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T14:01:43.412Z"
+ "updated": "2026-11-27T14:17:01.605Z"
 }
