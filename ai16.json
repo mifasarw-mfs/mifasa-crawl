@@ -8391,6 +8391,126 @@
    ],
    "auto": true,
    "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_b94ae13f_q",
+   "label_rw": "Uburyo bwo kwamamaza ku bigo biciriritse",
+   "label_en": "Marketing strategies for small businesses",
+   "patterns_en": [
+    "What are affordable marketing methods for small businesses?",
+    "How do social media platforms help businesses?",
+    "How can you attract new customers?"
+   ],
+   "patterns_rw": [
+    "Ni ubuhe buryo bwo kwamamaza buhendutse ku bigo biciriritse?",
+    "Ese imbuga nkoranyambaga zifasha zite ubucuruzi?",
+    "Ni gute wakurura abakiriya bashya?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ibigo biciriritse bikoresha uburyo butandukanye bwo kwamamaza kugira ngo bigere ku bakiriya. Imbuga nkoranyambaga n'ubucuruzi bwa interineti bitanga amaza meza yo kwamamaza ku giciro gito. Kwamamaza binyuze mu bimenyekanisha bwite no gutanga serivisi nziza bifasha mu gukurura abakiriya bashya no guhorana abasanzwe.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Small businesses use various marketing strategies to reach customers. Social media and online platforms usually offer cost-effective ways to advertise. Word of mouth and good customer service also help attract new clients and retain existing ones.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_e92f63ae_q",
+   "label_rw": "Gucunga Ububiko",
+   "label_en": "Inventory Management",
+   "patterns_en": [
+    "What is inventory management?",
+    "Why is managing stock important?",
+    "How can a business improve inventory control?"
+   ],
+   "patterns_rw": [
+    "Gucunga ububiko bisobanura iki?",
+    "Ni iki gituma gucunga ububiko ari ingenzi?",
+    "Uburyo bwiza bwo gucunga ibicuruzwa ni ubuhe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gucunga ububiko ni uburyo bwo kugenzura ibicuruzwa biri mu bubiko kuva biguze kugeza bigurishijwe. Bifasha ibigo kugabanya igihombo no guhaza abakiriya.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Inventory management is the process of overseeing and controlling goods in stock from purchase to sale. It helps businesses reduce waste and satisfy customers.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_cf928aca_q",
+   "label_rw": "Imyitwarire myiza mu bucuruzi",
+   "label_en": "Business ethics and integrity",
+   "patterns_en": [
+    "What is business ethics?",
+    "Why is integrity important in business?",
+    "How can corruption be prevented in commerce?"
+   ],
+   "patterns_rw": [
+    "Imyitwarire myiza mu bucuruzi ni iki?",
+    "Kuki ubunyangamugayo ari ingenzi mu bucuruzi?",
+    "Ni iki cyarinda ruswa mu bucuruzi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imyitwarire myiza mu bucuruzi ni amahame agenga ibikorwa by'ubucuruzi mu kuri no mu bunyangamugayo. Ifasha abacuruzi kubaka icyizere n'abakiriya n'abafatanyabikorwa babo. Irinda ruswa n'ubuhemu mu bucuruzi. Biteza imbere ishoramari rirambye mu gihugu.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Business ethics involves moral principles that guide commercial activities with honesty and fairness. It helps businesses build trust with customers and partners. It prevents corruption and fraud in commerce. This promotes sustainable investment in the country.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_97d482df_q",
+   "label_rw": "Gucunga abakozi",
+   "label_en": "Human resource management basics",
+   "patterns_en": [
+    "What is human resource management?",
+    "Why is human resource management important?",
+    "What are the basic duties of human resources?"
+   ],
+   "patterns_rw": [
+    "Gucunga abakozi bisobanura iki?",
+    "Ni iki gituma gucunga abakozi bikenerwa?",
+    "Ni izihe nshingano z'ibanze z'abashinzwe abakozi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gucunga abakozi ni ugushaka, guhugura no kuyobora abakozi mu kazi. Bituma uruganda cyangwa ikigo bigera ku ntego zabyo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Human resource management involves hiring, training, and guiding employees at work. It helps organizations achieve their goals effectively.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_a8d7469f_q",
+   "label_rw": "Ubwishingizi buciriritse mu Rwanda",
+   "label_en": "Microinsurance in Rwanda",
+   "patterns_en": [
+    "What is microinsurance?",
+    "Who benefits from microinsurance in Rwanda?",
+    "Why is microinsurance important for small business owners?"
+   ],
+   "patterns_rw": [
+    "Ubwishingizi buciriritse ni iki?",
+    "Ni bande bafashwa n'ubwishingizi buciriritse mu Rwanda?",
+    "Kuki ubwishingizi buciriritse ari ingenzi ku bacuruzi bato?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubwishingizi buciriritse bufasha abaturage bafite amikoro make kwikingiraibyago bitandukanye. Butanga serivisi z'ubwishingizi zihura n'ubushobozi bwabo bwo kwishyura amafarangamake. Mu Rwanda, ubu bwishingizi bufasha abahinzi n'abacuruzi bato kwihanganira ibiza cyangwa igihombo mu bucuruzi bwabo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Microinsurance helps low-income populations protect themselves against various risks. It offers insurance services tailored to their payment capacity. In Rwanda, this insurance helps farmers and small business owners cope with disasters or business losses.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
   }
  ],
  "knowledge": [
@@ -15302,6 +15422,103 @@
     "history",
     "u rwanda",
     "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_b94ae13f",
+   "category": "business",
+   "title_rw": "Uburyo bwo kwamamaza ku bigo biciriritse",
+   "title_en": "Marketing strategies for small businesses",
+   "summary_rw": "Ibigo biciriritse bikoresha uburyo butandukanye bwo kwamamaza kugira ngo bigere ku bakiriya. Imbuga nkoranyambaga n'ubucuruzi bwa interineti bitanga amaza meza yo kwamamaza ku giciro gito. Kwamamaza binyuze mu bimenyekanisha bwite no gutanga serivisi nziza bifasha mu gukurura abakiriya bashya no guhorana abasanzwe.",
+   "summary_en": "Small businesses use various marketing strategies to reach customers. Social media and online platforms usually offer cost-effective ways to advertise. Word of mouth and good customer service also help attract new clients and retain existing ones.",
+   "keywords": [
+    "kwamamaza",
+    "ubucuruzi",
+    "abakiriya",
+    "imbuga nkoranyambaga",
+    "marketing",
+    "business",
+    "customers",
+    "social media"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_e92f63ae",
+   "category": "business",
+   "title_rw": "Gucunga Ububiko",
+   "title_en": "Inventory Management",
+   "summary_rw": "Gucunga ububiko ni uburyo bwo kugenzura ibicuruzwa biri mu bubiko kuva biguze kugeza bigurishijwe. Bifasha ibigo kugabanya igihombo no guhaza abakiriya.",
+   "summary_en": "Inventory management is the process of overseeing and controlling goods in stock from purchase to sale. It helps businesses reduce waste and satisfy customers.",
+   "keywords": [
+    "ububiko",
+    "ibicuruzwa",
+    "ubucuruzi",
+    "inventory",
+    "stock",
+    "business"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_cf928aca",
+   "category": "business",
+   "title_rw": "Imyitwarire myiza mu bucuruzi",
+   "title_en": "Business ethics and integrity",
+   "summary_rw": "Imyitwarire myiza mu bucuruzi ni amahame agenga ibikorwa by'ubucuruzi mu kuri no mu bunyangamugayo. Ifasha abacuruzi kubaka icyizere n'abakiriya n'abafatanyabikorwa babo. Irinda ruswa n'ubuhemu mu bucuruzi. Biteza imbere ishoramari rirambye mu gihugu.",
+   "summary_en": "Business ethics involves moral principles that guide commercial activities with honesty and fairness. It helps businesses build trust with customers and partners. It prevents corruption and fraud in commerce. This promotes sustainable investment in the country.",
+   "keywords": [
+    "ubucuruzi",
+    "business",
+    "ubunyangamugayo",
+    "integrity",
+    "amahame",
+    "ethics",
+    "ruswa",
+    "corruption"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_97d482df",
+   "category": "business",
+   "title_rw": "Gucunga abakozi",
+   "title_en": "Human resource management basics",
+   "summary_rw": "Gucunga abakozi ni ugushaka, guhugura no kuyobora abakozi mu kazi. Bituma uruganda cyangwa ikigo bigera ku ntego zabyo.",
+   "summary_en": "Human resource management involves hiring, training, and guiding employees at work. It helps organizations achieve their goals effectively.",
+   "keywords": [
+    "abakozi",
+    "akazi",
+    "employees",
+    "management",
+    "business",
+    "gucunga",
+    "ikigo"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_a8d7469f",
+   "category": "business",
+   "title_rw": "Ubwishingizi buciriritse mu Rwanda",
+   "title_en": "Microinsurance in Rwanda",
+   "summary_rw": "Ubwishingizi buciriritse bufasha abaturage bafite amikoro make kwikingiraibyago bitandukanye. Butanga serivisi z'ubwishingizi zihura n'ubushobozi bwabo bwo kwishyura amafarangamake. Mu Rwanda, ubu bwishingizi bufasha abahinzi n'abacuruzi bato kwihanganira ibiza cyangwa igihombo mu bucuruzi bwabo.",
+   "summary_en": "Microinsurance helps low-income populations protect themselves against various risks. It offers insurance services tailored to their payment capacity. In Rwanda, this insurance helps farmers and small business owners cope with disasters or business losses.",
+   "keywords": [
+    "ubwishingizi",
+    "buciriritse",
+    "ibyago",
+    "ubucuruzi",
+    "rwanda",
+    "microinsurance",
+    "business",
+    "risk"
    ],
    "auto": true,
    "taught": "2026-11-27"
