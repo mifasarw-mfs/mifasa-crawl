@@ -8223,6 +8223,78 @@
    ],
    "auto": true,
    "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_f5a4dd63_q",
+   "label_rw": "Isuku y'intoki no kwirinda indwara",
+   "label_en": "Hand hygiene and disease prevention",
+   "patterns_en": [
+    "How does hand washing prevent disease?",
+    "When should we wash our hands?",
+    "Are clean water and soap enough?"
+   ],
+   "patterns_rw": [
+    "Ni gute gukaraba intoki kurinda indwara?",
+    "Ni ryari dukwiriye gukaraba intoki?",
+    "Ese amazi meza n'isabune bihagije?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gukaraba intoki n'amazi n'isabune bifasha kwirinda indwara zandura nka kolera n'ibicurane. Byongera isuku kandi bikabuza mikorobe gukwirakwira.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Washing hands with soap and water helps prevent infectious diseases like cholera and colds. It improves hygiene and stops germs from spreading.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_99d2d82b_q",
+   "label_rw": "Gusobanukirwa indwara z'ubuhumekero zisanzwe",
+   "label_en": "Understanding common respiratory infections",
+   "patterns_en": [
+    "What causes common respiratory infections?",
+    "How do respiratory infections spread?",
+    "How can you prevent respiratory infections?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera indwara z'ubuhumekero zisanzwe?",
+    "Indwara z'ubuhumekero zanduza zite?",
+    "Wakirinda ute indwara z'ubuhumekero?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Indwara z'ubuhumekero zisanzwe zirimo ibicurane na gripe. Ziterwa na virusi. Zanduza abantu binyuze mu matemba yo mu myanya y'ubuhumekero igihe umuntu yitsamura cyangwa akorora. Kwitunganya no gukaraba intoki n'amazi meza n'isabune bifasha kwirinda izi ndwara.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Common respiratory infections include the common cold and influenza. They are usually caused by viruses. They spread between people through respiratory droplets when an infected person sneezes or coughs. Good hygiene and washing hands with clean water and soap help prevent these infections.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_5987d74b_q",
+   "label_rw": "Akamaro ko kugenda n'amaguru",
+   "label_en": "Benefits of walking",
+   "patterns_en": [
+    "What are the benefits of walking?",
+    "How does walking help the heart?",
+    "Does walking reduce stress?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyiza cyo kugenda n'amaguru?",
+    "Kugenda n'amaguru bifasha bite umutima?",
+    "Ese kugendagenda bigabanya stress?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kugenda n'amaguru buri munsi bifasha mu kugabanya ibyago by'indwara z'umutima. Bituma umubiri ugira imbaraga kandi bikongera ubuzima bwiza. Bizamura imitekerereze kandi bigabanya stress.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Walking daily helps reduce the risk of heart disease. It builds physical strength and improves overall well-being. It also boosts mental health and helps reduce stress.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
   }
  ],
  "knowledge": [
@@ -14996,6 +15068,66 @@
     "electrical",
     "science",
     "ubumenyi"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_f5a4dd63",
+   "category": "health",
+   "title_rw": "Isuku y'intoki no kwirinda indwara",
+   "title_en": "Hand hygiene and disease prevention",
+   "summary_rw": "Gukaraba intoki n'amazi n'isabune bifasha kwirinda indwara zandura nka kolera n'ibicurane. Byongera isuku kandi bikabuza mikorobe gukwirakwira.",
+   "summary_en": "Washing hands with soap and water helps prevent infectious diseases like cholera and colds. It improves hygiene and stops germs from spreading.",
+   "keywords": [
+    "isuku",
+    "intoki",
+    "indwara",
+    "amazi",
+    "isabune",
+    "hygiene",
+    "hands",
+    "disease"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_99d2d82b",
+   "category": "health",
+   "title_rw": "Gusobanukirwa indwara z'ubuhumekero zisanzwe",
+   "title_en": "Understanding common respiratory infections",
+   "summary_rw": "Indwara z'ubuhumekero zisanzwe zirimo ibicurane na gripe. Ziterwa na virusi. Zanduza abantu binyuze mu matemba yo mu myanya y'ubuhumekero igihe umuntu yitsamura cyangwa akorora. Kwitunganya no gukaraba intoki n'amazi meza n'isabune bifasha kwirinda izi ndwara.",
+   "summary_en": "Common respiratory infections include the common cold and influenza. They are usually caused by viruses. They spread between people through respiratory droplets when an infected person sneezes or coughs. Good hygiene and washing hands with clean water and soap help prevent these infections.",
+   "keywords": [
+    "ubuhumekero",
+    "respiratory",
+    "indwara",
+    "infections",
+    "virusi",
+    "viruses",
+    "isuku",
+    "hygiene"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_5987d74b",
+   "category": "health",
+   "title_rw": "Akamaro ko kugenda n'amaguru",
+   "title_en": "Benefits of walking",
+   "summary_rw": "Kugenda n'amaguru buri munsi bifasha mu kugabanya ibyago by'indwara z'umutima. Bituma umubiri ugira imbaraga kandi bikongera ubuzima bwiza. Bizamura imitekerereze kandi bigabanya stress.",
+   "summary_en": "Walking daily helps reduce the risk of heart disease. It builds physical strength and improves overall well-being. It also boosts mental health and helps reduce stress.",
+   "keywords": [
+    "walking",
+    "health",
+    "heart",
+    "exercise",
+    "stress",
+    "kugenda",
+    "ubuzima",
+    "umutima"
    ],
    "auto": true,
    "taught": "2026-11-27"
