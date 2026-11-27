@@ -1,7 +1,27 @@
 {
  "day": "2026-11-27",
- "count": 8,
+ "count": 9,
  "articles": [
+  {
+   "id": "crawl_1nzmubb",
+   "title": "Watch: Truck hangs in the balance after losing control in wet conditions",
+   "summary": "A semi-truck carrying mail was left straddling an off-ramp and an overpass in Toledo, Ohio on Thanksgiving Day during severe weather in the US.",
+   "link": "https://www.bbc.co.uk/news/videos/cq9vwdjp7kw3o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cq9vwdjp7kw3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T04:43:49.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4651/live/dc9656a0-ea1c-11f1-8bf9-cf2ccad635de.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4651/live/dc9656a0-ea1c-11f1-8bf9-cf2ccad635de.jpg",
+   "title_en": "Watch: Truck hangs in the balance after losing control in wet conditions",
+   "summary_en": "A semi-truck carrying mail was left straddling an off-ramp and an overpass in Toledo, Ohio on Thanksgiving Day during severe weather in the US.",
+   "share_id": "MN202611_1nzmubbfff9"
+  },
   {
    "id": "crawl_156j1pg",
    "title": "Trump: Iyo tutaja mu ntambara, Irani iba yarateje amahano ya nikleyeri atagira izina",
@@ -163,5 +183,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T04:38:24.976Z"
+ "updated": "2026-11-27T05:40:56.128Z"
 }
