@@ -1,7 +1,70 @@
 {
  "day": "2026-11-27",
- "count": 43,
+ "count": 46,
  "articles": [
+  {
+   "id": "crawl_k4ihdr",
+   "title": "Imwe mu nka Ramaphosa wa Afurika y'epfo yaguze kwa Museveni yaguze Miliyoni hafi 600 Frw",
+   "summary": "Perezida Yoweli Museveni wa Uganda, yatangaje amakuru avuga ko inka zo mu bwoko bwa Ankole yagurishije kuri mugenzi we Cyril Ramaphosa wa Afurika y’Epfo zororotse cyane, ndetse ubu zikaba ziri (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/imwe-mu-nka-ramaphosa-wa-afurika-y-epfo-yaguze-kwa-museveni-yaguze-miliyoni-hafi-600-frw",
+   "url": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/imwe-mu-nka-ramaphosa-wa-afurika-y-epfo-yaguze-kwa-museveni-yaguze-miliyoni-hafi-600-frw",
+   "date": "2026-11-27T11:25:18.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu mahanga",
+    "MobileBigStory",
+    "Jean de la Croix Tabaro"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/2026-11-27_13_12_58-_3_facebook.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-27_13_12_58-_3_facebook.png",
+   "title_rw": "Imwe mu nka Ramaphosa wa Afurika y'epfo yaguze kwa Museveni yaguze Miliyoni hafi 600 Frw",
+   "summary_rw": "Perezida Yoweli Museveni wa Uganda, yatangaje amakuru avuga ko inka zo mu bwoko bwa Ankole yagurishije kuri mugenzi we Cyril Ramaphosa wa Afurika y’Epfo zororotse cyane, ndetse ubu zikaba ziri (…)",
+   "share_id": "MN202611_k4ihdrv17h"
+  },
+  {
+   "id": "crawl_111t5fe",
+   "title": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
+   "summary": "The pregnant student was murdered after leaving a hotel with a journalist she had contacted to discuss her affair with the governor.",
+   "link": "https://www.bbc.co.uk/news/articles/crx209ekq5xdo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/crx209ekq5xdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T11:22:02.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e38d/live/fde88380-ea46-11f1-b220-b9f21129b546.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e38d/live/fde88380-ea46-11f1-b220-b9f21129b546.jpg",
+   "title_en": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
+   "summary_en": "The pregnant student was murdered after leaving a hotel with a journalist she had contacted to discuss her affair with the governor.",
+   "share_id": "MN202611_111t5fem1w8"
+  },
+  {
+   "id": "crawl_t5a3rp",
+   "title": "EFL preview: Happy Potters and the deathly Hammers",
+   "summary": "BBC Sport explores five things to capture your attention this EFL weekend.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cry49dpy9zdyo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cry49dpy9zdyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T11:03:43.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb36/live/a42f41d0-e997-11f1-99a1-253766e7ad8b.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb36/live/a42f41d0-e997-11f1-99a1-253766e7ad8b.png",
+   "title_en": "EFL preview: Happy Potters and the deathly Hammers",
+   "summary_en": "BBC Sport explores five things to capture your attention this EFL weekend.",
+   "share_id": "MN202611_t5a3rp216b"
+  },
   {
    "id": "crawl_qnwlk7",
    "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
@@ -870,5 +933,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T10:55:47.727Z"
+ "updated": "2026-11-27T11:45:20.032Z"
 }
