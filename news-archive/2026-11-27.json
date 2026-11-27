@@ -1,7 +1,67 @@
 {
  "day": "2026-11-27",
- "count": 20,
+ "count": 23,
  "articles": [
+  {
+   "id": "crawl_wzw6xf",
+   "title": "Guinea-Bissau's military rulers delay return to civilian rule until 2028",
+   "summary": "The announcement comes a year after a military coup with its leaders promising a return to civilian rule within 12 months.",
+   "link": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T08:58:08.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f0c/live/9028aca0-ea3f-11f1-9fc4-ef897a334b75.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f0c/live/9028aca0-ea3f-11f1-9fc4-ef897a334b75.jpg",
+   "title_en": "Guinea-Bissau's military rulers delay return to civilian rule until 2028",
+   "summary_en": "The announcement comes a year after a military coup with its leaders promising a return to civilian rule within 12 months.",
+   "share_id": "MN202611_wzw6xfp3e9"
+  },
+  {
+   "id": "crawl_u0123o",
+   "title": "Why Cambridgeshire derby could be season-defining",
+   "summary": "Peterborough United and Cambridge United are set for a potentially season-defining local derby at London Road.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cxlyl3v8p5e0o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cxlyl3v8p5e0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T08:25:44.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1e2/live/f755d740-e98b-11f1-99b6-a35a62fa4264.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1e2/live/f755d740-e98b-11f1-99b6-a35a62fa4264.png",
+   "title_en": "Why Cambridgeshire derby could be season-defining",
+   "summary_en": "Peterborough United and Cambridge United are set for a potentially season-defining local derby at London Road.",
+   "share_id": "MN202611_u0123oszia"
+  },
+  {
+   "id": "crawl_1mbth0q",
+   "title": "Millions of wives in South Asia unprotected from marital rape - study",
+   "summary": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
+   "link": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T08:13:43.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b15/live/1e1b2100-8200-11ef-a56e-130bd491f2ab.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b15/live/1e1b2100-8200-11ef-a56e-130bd491f2ab.jpg",
+   "title_en": "Millions of wives in South Asia unprotected from marital rape - study",
+   "summary_en": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
+   "share_id": "MN202611_1mbth0qmdhk"
+  },
   {
    "id": "crawl_19i9s1v",
    "title": "What makes or breaks a high press?",
@@ -401,5 +461,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T08:28:49.178Z"
+ "updated": "2026-11-27T09:01:14.484Z"
 }
