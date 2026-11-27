@@ -1,7 +1,27 @@
 {
  "day": "2026-11-27",
- "count": 87,
+ "count": 88,
  "articles": [
+  {
+   "id": "crawl_m3tqz7",
+   "title": "New satellite data shows how fast some African cities are sinking",
+   "summary": "Cities including Lagos and Alexandria are sinking faster than previously thought, a new study shows.",
+   "link": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T19:03:18.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3110/live/92589920-e988-11f1-9d1c-4dcc8fcde666.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3110/live/92589920-e988-11f1-9d1c-4dcc8fcde666.jpg",
+   "title_en": "New satellite data shows how fast some African cities are sinking",
+   "summary_en": "Cities including Lagos and Alexandria are sinking faster than previously thought, a new study shows.",
+   "share_id": "MN202611_m3tqz7mng1"
+  },
   {
    "id": "crawl_1wt32y9",
    "title": "Rare panto programmes owned by 'Freddie Mercury of his time' sell at auction",
@@ -1785,5 +1805,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T18:45:00.860Z"
+ "updated": "2026-11-27T19:31:19.608Z"
 }
