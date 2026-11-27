@@ -1,7 +1,27 @@
 {
  "day": "2026-11-27",
- "count": 103,
+ "count": 105,
  "articles": [
+  {
+   "id": "crawl_l26yez",
+   "title": "Gibbs-White scores twice as Forest beat struggling Chelsea",
+   "summary": "Igor Jesus' stunning volley and two goals from Morgan Gibbs-White help Nottingham Forest beat a struggling Chelsea side, who lose their third Premier League game in a row.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cm5y10n8e737o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cm5y10n8e737o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T22:30:22.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70aa/live/6d1cc8f0-eab1-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70aa/live/6d1cc8f0-eab1-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Gibbs-White scores twice as Forest beat struggling Chelsea",
+   "summary_en": "Igor Jesus' stunning volley and two goals from Morgan Gibbs-White help Nottingham Forest beat a struggling Chelsea side, who lose their third Premier League game in a row.",
+   "share_id": "MN202611_l26yezk9w9"
+  },
   {
    "id": "crawl_1n70e6w",
    "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
@@ -21,6 +41,26 @@
    "title_en": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
    "summary_en": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
    "share_id": "MN202611_1n70e6wtanq"
+  },
+  {
+   "id": "crawl_79r4lt",
+   "title": "The little Welsh town that transformed a Strictly star's career",
+   "summary": "Layton Williams credits living and working in a small Welsh town with transforming his career.",
+   "link": "https://www.bbc.co.uk/news/articles/cx7v2r8nr00mo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cx7v2r8nr00mo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T22:03:22.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a945/live/90f50910-ea5a-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a945/live/90f50910-ea5a-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "The little Welsh town that transformed a Strictly star's career",
+   "summary_en": "Layton Williams credits living and working in a small Welsh town with transforming his career.",
+   "share_id": "MN202611_79r4ltk12n"
   },
   {
    "id": "crawl_4y3h3t",
@@ -2125,5 +2165,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T22:20:55.491Z"
+ "updated": "2026-11-27T22:46:51.350Z"
 }
