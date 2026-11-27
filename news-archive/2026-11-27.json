@@ -1,7 +1,27 @@
 {
  "day": "2026-11-27",
- "count": 7,
+ "count": 8,
  "articles": [
+  {
+   "id": "crawl_156j1pg",
+   "title": "Trump: Iyo tutaja mu ntambara, Irani iba yarateje amahano ya nikleyeri atagira izina",
+   "summary": "Trump avuga ko iyo Reta Zunze Ubumwe za Amerika zitinjira mu ntambara, Irani “yari gukoresha ibirwanisho ruhonyanganda vy’ubumara igatera Israel n’akarere kose\".",
+   "link": "https://www.bbc.co.uk/gahuza/live/c90k6zpmxyx6t?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/gahuza/live/c90k6zpmxyx6t?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T04:35:51.542Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b096/live/80b0ec40-ea14-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b096/live/80b0ec40-ea14-11f1-a094-5fdc692f3e33.jpg",
+   "title_rw": "Trump: Iyo tutaja mu ntambara, Irani iba yarateje amahano ya nikleyeri atagira izina",
+   "summary_rw": "Trump avuga ko iyo Reta Zunze Ubumwe za Amerika zitinjira mu ntambara, Irani “yari gukoresha ibirwanisho ruhonyanganda vy’ubumara igatera Israel n’akarere kose\".",
+   "share_id": "MN202611_156j1pgbmte"
+  },
   {
    "id": "crawl_m48b6t",
    "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
@@ -143,5 +163,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T02:16:26.008Z"
+ "updated": "2026-11-27T04:38:24.976Z"
 }
