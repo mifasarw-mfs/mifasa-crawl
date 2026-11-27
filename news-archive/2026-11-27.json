@@ -1,7 +1,87 @@
 {
  "day": "2026-11-27",
- "count": 73,
+ "count": 77,
  "articles": [
+  {
+   "id": "crawl_gcrizz",
+   "title": "After its record launch, GTA 6 sets its sights on the music charts",
+   "summary": "Several songs on the game's soundtrack are expected to climb the UK's singles chart.",
+   "link": "https://www.bbc.co.uk/news/articles/ckp80d8vz1ego?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckp80d8vz1ego?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T16:18:18.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c7/live/41dad850-ea5f-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c7/live/41dad850-ea5f-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "After its record launch, GTA 6 sets its sights on the music charts",
+   "summary_en": "Several songs on the game's soundtrack are expected to climb the UK's singles chart.",
+   "share_id": "MN202611_gcrizzkfgt"
+  },
+  {
+   "id": "crawl_jxjp72",
+   "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+   "summary": "Paul Mackenzie is found guilty of killing followers, weeks after being jailed for the mass murder of children.",
+   "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T16:06:37.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg",
+   "title_en": "Kenyan doomsday cult leader convicted over further 123 deaths",
+   "summary_en": "Paul Mackenzie is found guilty of killing followers, weeks after being jailed for the mass murder of children.",
+   "share_id": "MN202611_jxjp72clnw"
+  },
+  {
+   "id": "crawl_1w2wtlu",
+   "title": "Spurs' Savio to miss festive fixtures after injury setback",
+   "summary": "Tottenham winger Savio will miss the club's Christmas fixtures with injury and could be out for up to 80 days, manager Roberto de Zerbi confirms.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw4gnm4p3zxlo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cw4gnm4p3zxlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T16:05:30.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9de/live/6b9252d0-ea79-11f1-9888-1b7e4a7a7390.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9de/live/6b9252d0-ea79-11f1-9888-1b7e4a7a7390.jpg",
+   "title_en": "Spurs' Savio to miss festive fixtures after injury setback",
+   "summary_en": "Tottenham winger Savio will miss the club's Christmas fixtures with injury and could be out for up to 80 days, manager Roberto de Zerbi confirms.",
+   "share_id": "MN202611_1w2wtluor0g"
+  },
+  {
+   "id": "crawl_160dww1",
+   "title": "Brazil pushes back on Macron calling its meat 'doped'",
+   "summary": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.",
+   "link": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T15:54:15.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23bb/live/01c67d00-ea73-11f1-a828-d384c0290f6b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23bb/live/01c67d00-ea73-11f1-a828-d384c0290f6b.jpg",
+   "title_en": "Brazil pushes back on Macron calling its meat 'doped'",
+   "summary_en": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.",
+   "share_id": "MN202611_160dww16tcv"
+  },
   {
    "id": "crawl_fi53jh",
    "title": "Arsenal head coach Slegers leaves by mutual consent",
@@ -1479,5 +1559,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T15:46:59.154Z"
+ "updated": "2026-11-27T16:31:47.873Z"
 }
