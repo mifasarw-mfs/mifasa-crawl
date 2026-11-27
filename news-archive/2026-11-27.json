@@ -1,7 +1,27 @@
 {
  "day": "2026-11-27",
- "count": 99,
+ "count": 100,
  "articles": [
+  {
+   "id": "crawl_ian9y4",
+   "title": "'You're not welcome here' - Chelsea's Fofana booed by own fans",
+   "summary": "Chelsea defender Wesley Fofana is booed by his own fans during the Premier League game at Nottingham Forest after a controversial interview.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T21:31:54.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60f7/live/58c8c760-eaa6-11f1-9541-edfa153772c7.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60f7/live/58c8c760-eaa6-11f1-9541-edfa153772c7.jpg",
+   "title_en": "'You're not welcome here' - Chelsea's Fofana booed by own fans",
+   "summary_en": "Chelsea defender Wesley Fofana is booed by his own fans during the Premier League game at Nottingham Forest after a controversial interview.",
+   "share_id": "MN202611_ian9y4f7cq"
+  },
   {
    "id": "crawl_jn1hxd",
    "title": "Champions League to be a factor in Paz move - Saturday's gossip",
@@ -2045,5 +2065,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T21:24:58.940Z"
+ "updated": "2026-11-27T21:46:05.264Z"
 }
