@@ -1,7 +1,87 @@
 {
  "day": "2026-11-27",
- "count": 64,
+ "count": 68,
  "articles": [
+  {
+   "id": "crawl_qcptkb",
+   "title": "'I am not a magician' - what can Maresca's Man City learn from watertight Arsenal?",
+   "summary": "Manchester City's leaky defence faces one of the most difficult games of the season with a trip to watertight Arsenal, aiming to put right their patchy recent form.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cknv47dee54zo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cknv47dee54zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T14:37:58.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/732f/live/7afd3810-e98a-11f1-9d1c-4dcc8fcde666.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/732f/live/7afd3810-e98a-11f1-9d1c-4dcc8fcde666.jpg",
+   "title_en": "'I am not a magician' - what can Maresca's Man City learn from watertight Arsenal?",
+   "summary_en": "Manchester City's leaky defence faces one of the most difficult games of the season with a trip to watertight Arsenal, aiming to put right their patchy recent form.",
+   "share_id": "MN202611_qcptkbhqyx"
+  },
+  {
+   "id": "crawl_1t3nx4w",
+   "title": "Falkirk chase seven in a row at Rangers & Celtic visit Hearts",
+   "summary": "Falkirk's trip to Ibrox and Hearts' home match with Celtic stand out in another crucial Scottish Premiership weekend.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6x2wx4e90jeo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6x2wx4e90jeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T14:37:51.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1894/live/66b4be40-ea3a-11f1-9fc4-ef897a334b75.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1894/live/66b4be40-ea3a-11f1-9fc4-ef897a334b75.jpg",
+   "title_en": "Falkirk chase seven in a row at Rangers & Celtic visit Hearts",
+   "summary_en": "Falkirk's trip to Ibrox and Hearts' home match with Celtic stand out in another crucial Scottish Premiership weekend.",
+   "share_id": "MN202611_1t3nx4wfuji"
+  },
+  {
+   "id": "crawl_1krqsb9",
+   "title": "Man Utd trigger Fernandes' one-year contract extension",
+   "summary": "Manchester United activate an option on captain Bruno Fernandes' contract, extending it until 2028.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T14:37:07.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b71f/live/40130840-ea6d-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b71f/live/40130840-ea6d-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Man Utd trigger Fernandes' one-year contract extension",
+   "summary_en": "Manchester United activate an option on captain Bruno Fernandes' contract, extending it until 2028.",
+   "share_id": "MN202611_1krqsb9ippv"
+  },
+  {
+   "id": "crawl_1txvanl",
+   "title": "'We have no interest in hearing from Huw Edwards', Downing Street says",
+   "summary": "There has been a backlash against new interviews with the disgraced former BBC News presenter.",
+   "link": "https://www.bbc.co.uk/news/articles/c60mdl2y2w3do?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c60mdl2y2w3do?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T14:33:10.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d51b/live/6e67b490-ea66-11f1-a828-d384c0290f6b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d51b/live/6e67b490-ea66-11f1-a828-d384c0290f6b.jpg",
+   "title_en": "'We have no interest in hearing from Huw Edwards', Downing Street says",
+   "summary_en": "There has been a backlash against new interviews with the disgraced former BBC News presenter.",
+   "share_id": "MN202611_1txvanlo74f"
+  },
   {
    "id": "crawl_1wgouc8",
    "title": "Rwanda’s First Endovascular Neurosurgeon About to Complete Training",
@@ -1299,5 +1379,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T14:17:01.605Z"
+ "updated": "2026-11-27T14:52:57.267Z"
 }
