@@ -1,7 +1,67 @@
 {
  "day": "2026-11-27",
- "count": 16,
+ "count": 19,
  "articles": [
+  {
+   "id": "crawl_19i9s1v",
+   "title": "What makes or breaks a high press?",
+   "summary": "A good high press has been the basis for some of the most successful sides in modern football, but what determines whether a press works or fails? And how are the always-adapting Premier League teams exploiting high presses this season?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crgqxn1k283zo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/crgqxn1k283zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T07:17:13.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae39/live/a021d870-e9ae-11f1-859a-37130cd3a1d7.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae39/live/a021d870-e9ae-11f1-859a-37130cd3a1d7.jpg",
+   "title_en": "What makes or breaks a high press?",
+   "summary_en": "A good high press has been the basis for some of the most successful sides in modern football, but what determines whether a press works or fails? And how are the always-adapting Premier League teams exploiting high presses this season?",
+   "share_id": "MN202611_19i9s1v1pgh"
+  },
+  {
+   "id": "crawl_uzg7hg",
+   "title": "Health board chief executive drops new NHS job after critical report",
+   "summary": "Carol Shillabeer had been due to take up a new post at a health board in north west England in 2027.",
+   "link": "https://www.bbc.co.uk/news/articles/c9zr5681k382o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c9zr5681k382o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T06:59:28.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1016/live/96fea520-e012-11f1-b884-a9f52ca7a4b1.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1016/live/96fea520-e012-11f1-b884-a9f52ca7a4b1.jpg",
+   "title_en": "Health board chief executive drops new NHS job after critical report",
+   "summary_en": "Carol Shillabeer had been due to take up a new post at a health board in north west England in 2027.",
+   "share_id": "MN202611_uzg7hg93ya"
+  },
+  {
+   "id": "crawl_kwsjpd",
+   "title": "Is it time to sell Erling Haaland? - FPL gameweek 12 dilemmas",
+   "summary": "BBC Sport's Fantasy Premier League expert Holly Shand gives her answers to some of the biggest dilemmas facing managers in gameweek 12.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cjvg2w35rn63o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cjvg2w35rn63o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T06:58:33.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e06/live/ee299260-e8e6-11f1-8808-1d4222955d7e.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e06/live/ee299260-e8e6-11f1-8808-1d4222955d7e.png",
+   "title_en": "Is it time to sell Erling Haaland? - FPL gameweek 12 dilemmas",
+   "summary_en": "BBC Sport's Fantasy Premier League expert Holly Shand gives her answers to some of the biggest dilemmas facing managers in gameweek 12.",
+   "share_id": "MN202611_kwsjpdkh3z"
+  },
   {
    "id": "crawl_admeaa",
    "title": "What happens now for Bayern Munich and Musiala?",
@@ -321,5 +381,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T07:02:16.481Z"
+ "updated": "2026-11-27T08:02:03.733Z"
 }
