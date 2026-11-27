@@ -6326,6 +6326,26 @@
   "share_id": "MN202611_1w5rm86sffo"
  },
  {
+  "id": "crawl_1mkx3fb",
+  "title": "Tech Life",
+  "summary": "Experts from around the world plot the progress of AI development every five years.",
+  "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-24T21:00:00.000Z",
+  "source": "BBC Technology",
+  "category": "tech",
+  "lang": "en",
+  "keywords": [
+   "BBC Technology",
+   "tech"
+  ],
+  "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ppq4sx.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0ppq4sx.jpg",
+  "title_en": "Tech Life",
+  "summary_en": "Experts from around the world plot the progress of AI development every five years.",
+  "share_id": "MN202611_1mkx3fbfw39"
+ },
+ {
   "id": "crawl_udta8j",
   "title": "Man Utd target Collins - Wednesday's gossip",
   "summary": "Manchester United target Brentford defender Nathan Collins, Bournemouth price forward Eli Junior Kroupi at £100m and Liverpool close in on new Rio Ngumoha contract.",
@@ -16898,26 +16918,5 @@
   "title_en": "Rwanda, Uganda Seek Stronger Trade Ties as Daily Air Link Begins",
   "summary_en": "Rwanda and Uganda are seeking to strengthen economic cooperation and expand private sector partnerships following the introduction of daily flights between Kigali and Entebbe, a development expected to facilitate trade, tourism and investment between the two neighbouring countries. The development was highlighted during the Rwanda–Uganda Trade and Business Forum held in Kigali on Friday, November…",
   "share_id": "MN202611_hfyyr5r9jj"
- },
- {
-  "id": "crawl_14cubv3",
-  "title": "Jeannette Kagame Joins Rwanda, UNICEF in Marking 40 Years of Partnership for Children",
-  "summary": "First Lady Jeannette Kagame has joined government officials, development partners and representatives of children at the Kigali Convention Centre for celebrations marking International Children’s Day and 40 years of cooperation between Rwanda and the United Nations Children’s Fund (UNICEF). The event, held on Friday, November 20, celebrates four decades of collaboration aimed at improving the […]…",
-  "link": "https://taarifa.rw/2026/11/20/jeannette-kagame-joins-rwanda-unicef-in-marking-40-years-of-partnership-for-children/",
-  "url": "https://taarifa.rw/2026/11/20/jeannette-kagame-joins-rwanda-unicef-in-marking-40-years-of-partnership-for-children/",
-  "date": "2026-11-20T14:56:14.000Z",
-  "source": "Taarifa Rwanda",
-  "category": "news",
-  "lang": "en",
-  "keywords": [
-   "Taarifa Rwanda",
-   "news",
-   "Education"
-  ],
-  "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-20-at-15.35.31.jpeg?fit=1024%2C1280&ssl=1",
-  "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-20-at-15.35.31.jpeg?fit=1024%2C1280&ssl=1",
-  "title_en": "Jeannette Kagame Joins Rwanda, UNICEF in Marking 40 Years of Partnership for Children",
-  "summary_en": "First Lady Jeannette Kagame has joined government officials, development partners and representatives of children at the Kigali Convention Centre for celebrations marking International Children’s Day and 40 years of cooperation between Rwanda and the United Nations Children’s Fund (UNICEF). The event, held on Friday, November 20, celebrates four decades of collaboration aimed at improving the […]…",
-  "share_id": "MN202611_14cubv3qk8d"
  }
 ]
