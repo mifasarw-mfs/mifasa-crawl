@@ -1,7 +1,31 @@
 {
  "day": "2026-11-27",
- "count": 88,
+ "count": 89,
  "articles": [
+  {
+   "id": "crawl_tw35si",
+   "title": "Kigali igiye gutera ibiti by'imbuto",
+   "summary": "Ishami ry’Umuryango w’Abibumbye Rishinzwe Ibiribwa n’Ubuhinzi (FAO), ku bufatanye n’Ikigo cy’Igihugu gishinzwe Kubungabunga Ibidukikije (REMA), Ikigo cy’Igihugu gishinzwe Amashyamba (RFA) ndetse (…)",
+   "link": "https://www.kigalitoday.com/agaseke-ka-weekend/mpakugeze/article/kigali-igiye-gutera-ibiti-by-imbuto",
+   "url": "https://www.kigalitoday.com/agaseke-ka-weekend/mpakugeze/article/kigali-igiye-gutera-ibiti-by-imbuto",
+   "date": "2026-11-27T19:46:28.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mpakugeze",
+    "Jean de la Croix Tabaro",
+    "AKW-042",
+    "AKW-042-MAIN"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/54254479898_2ce8bf165d_c.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/54254479898_2ce8bf165d_c.jpg",
+   "title_rw": "Kigali igiye gutera ibiti by'imbuto",
+   "summary_rw": "Ishami ry’Umuryango w’Abibumbye Rishinzwe Ibiribwa n’Ubuhinzi (FAO), ku bufatanye n’Ikigo cy’Igihugu gishinzwe Kubungabunga Ibidukikije (REMA), Ikigo cy’Igihugu gishinzwe Amashyamba (RFA) ndetse (…)",
+   "share_id": "MN202611_tw35si7b5c"
+  },
   {
    "id": "crawl_m3tqz7",
    "title": "New satellite data shows how fast some African cities are sinking",
@@ -1805,5 +1829,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T19:31:19.608Z"
+ "updated": "2026-11-27T19:50:09.925Z"
 }
