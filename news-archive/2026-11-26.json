@@ -1,6 +1,6 @@
 {
  "day": "2026-11-26",
- "count": 120,
+ "count": 121,
  "articles": [
   {
    "id": "crawl_42ivnx",
@@ -302,6 +302,26 @@
    "title_en": "Haaland considers Man City exit - Friday's gossip",
    "summary_en": "Erling Haaland considers Manchester City exit, Liverpool explore Jamal Musiala deal and Manchester United eye move for Maxi Araujo, plus more.",
    "share_id": "MN202611_1gj5mizxjxl"
+  },
+  {
+   "id": "crawl_19l5hjm",
+   "title": "No post-match drug testing in South Africa v New Zealand series",
+   "summary": "No post-match samples was taken from South Africa and New Zealand players during their four-Test series earlier this year.",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c69309lz275wo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c69309lz275wo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T21:20:37.000Z",
+   "source": "BBC Sport Africa",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Sport Africa",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7cf/live/c45f25e0-e9ad-11f1-859a-37130cd3a1d7.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7cf/live/c45f25e0-e9ad-11f1-859a-37130cd3a1d7.jpg",
+   "title_en": "No post-match drug testing in South Africa v New Zealand series",
+   "summary_en": "No post-match samples was taken from South Africa and New Zealand players during their four-Test series earlier this year.",
+   "share_id": "MN202611_19l5hjmu3w0"
   },
   {
    "id": "crawl_1v63j0t",
@@ -2434,5 +2454,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-27T00:54:37.229Z"
+ "updated": "2026-11-27T10:02:47.156Z"
 }
