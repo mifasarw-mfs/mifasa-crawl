@@ -8295,6 +8295,54 @@
    ],
    "auto": true,
    "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_957e3198_q",
+   "label_rw": "Gukurikirana Amakosa muri Porogaramu",
+   "label_en": "Software Bug Tracking",
+   "patterns_en": [
+    "What is software bug tracking?",
+    "Why is tracking software bugs important?",
+    "Who uses bug tracking systems?"
+   ],
+   "patterns_rw": [
+    "Gukurikirana amakosa muri porogaramu ni iki?",
+    "Ni iki gituma gukurikirana amakosa bifite akamaro?",
+    "Ni bande bakoresha ubu buryo bwo gukurikirana amakosa?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gukurikirana amakosa muri porogaramu ni uburyo abanyabugeni bakoresha bamenya, bandika, kandi bakemura ibibazo biboneka muri porogaramu za mudasobwa. Ibi bifasha abakozi gukora neza no kunoza ireme ry'ibikoresho by'ikoranabuhanga.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Software bug tracking is a process developers use to identify, record, and resolve issues found in computer software. This helps teams work efficiently and improves the quality of technology products.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_b66d9738_q",
+   "label_rw": "Browser za Interineti n'Uko Zerekana Amapaji",
+   "label_en": "Web Browsers and Rendering Engines",
+   "patterns_en": [
+    "What allows web browsers to display pages?",
+    "How does a rendering engine work in a browser?",
+    "Which web browsers are most commonly used?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma browser zerekana amapaji ya interineti?",
+    "Moteri yerekana amapaji ikora ute muri browser?",
+    "Ni izihe browser zikoreshwa cyane ku isi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Browser za interoni nka Chrome na Firefox zifashisha moteri zerekana amapaji kugira ngo zisobanure imbuga nka HTML na CSS maze zizerekane uko abakoresha bazibona. Burigihe moteri igena uburyo amashusho n'inyandiko bigaragara kuri mudasipamo cyangwa telefoni.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Web browsers like Chrome and Firefox use rendering engines to interpret web code like HTML and CSS and display pages for users. The engine usually determines how text and images appear on a computer or mobile screen.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
   }
  ],
  "knowledge": [
@@ -15128,6 +15176,45 @@
     "kugenda",
     "ubuzima",
     "umutima"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_957e3198",
+   "category": "technology",
+   "title_rw": "Gukurikirana Amakosa muri Porogaramu",
+   "title_en": "Software Bug Tracking",
+   "summary_rw": "Gukurikirana amakosa muri porogaramu ni uburyo abanyabugeni bakoresha bamenya, bandika, kandi bakemura ibibazo biboneka muri porogaramu za mudasobwa. Ibi bifasha abakozi gukora neza no kunoza ireme ry'ibikoresho by'ikoranabuhanga.",
+   "summary_en": "Software bug tracking is a process developers use to identify, record, and resolve issues found in computer software. This helps teams work efficiently and improves the quality of technology products.",
+   "keywords": [
+    "amakosa",
+    "porogaramu",
+    "ikoranabuhanga",
+    "mudasobwa",
+    "bugs",
+    "software",
+    "tracking"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_b66d9738",
+   "category": "technology",
+   "title_rw": "Browser za Interineti n'Uko Zerekana Amapaji",
+   "title_en": "Web Browsers and Rendering Engines",
+   "summary_rw": "Browser za interoni nka Chrome na Firefox zifashisha moteri zerekana amapaji kugira ngo zisobanure imbuga nka HTML na CSS maze zizerekane uko abakoresha bazibona. Burigihe moteri igena uburyo amashusho n'inyandiko bigaragara kuri mudasipamo cyangwa telefoni.",
+   "summary_en": "Web browsers like Chrome and Firefox use rendering engines to interpret web code like HTML and CSS and display pages for users. The engine usually determines how text and images appear on a computer or mobile screen.",
+   "keywords": [
+    "browser",
+    "interineti",
+    "rendering",
+    "engine",
+    "urubuga",
+    "web",
+    "technology",
+    "ikoranabuhanga"
    ],
    "auto": true,
    "taught": "2026-11-27"
