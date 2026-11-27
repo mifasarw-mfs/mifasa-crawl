@@ -8343,6 +8343,54 @@
    ],
    "auto": true,
    "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_5c7df87d_q",
+   "label_rw": "Amapfa ya Ruzagayura",
+   "label_en": "The Ruzagayura Famine",
+   "patterns_en": [
+    "In which year did the Ruzagayura famine occur?",
+    "What caused the Ruzagayura famine in Rwanda?",
+    "Where did people flee during the Ruzagayura famine?"
+   ],
+   "patterns_rw": [
+    "Amapfa ya Ruzagayura yabaye mu mwaka uwuhe?",
+    "Ni iki cyateye Amapfa ya Ruzagayura mu Rwanda?",
+    "Abaturage bahungiye he kubera amapfa ya Ruzagayura?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Amapfa ya Ruzagayura yari amapfa akomeye cyane yibasiye u Rwanda mu mwaka wa 1943. Iki kiza cyatewe n'imvura nkeya n'igihe cy'amapfa byabayeho mu gihe cy'Ubukoloni bw'Ababiligi. Abaturage benshi b'u Rwanda bishwe n'inzara n'indwara zishingiye ku mirire mibi. Ibi byatumye benshi bahungira mu bihugu by'abaturanyi nka Congo na Uganda.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The Ruzagayura famine was a severe famine that struck Rwanda in 1943. This disaster was caused by drought and food shortages during the Belgian colonial period. Many Rwandan citizens died from hunger and malnutrition-related diseases. This situation forced many people to flee to neighboring countries such as Congo and Uganda.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_fac69c3f_q",
+   "label_rw": "Ubuhanzi bwo Gucura Icyuma mu Rwanda",
+   "label_en": "Traditional Iron Smelting in Rwanda",
+   "patterns_en": [
+    "What was used for iron smelting in ancient Rwanda?",
+    "What were traditional iron tools used for in early Rwanda?",
+    "What role did blacksmiths play in ancient Rwandan society?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyari gifashije mu gucura icyuma mu Rwanda rwa kera?",
+    "Ese ibikoresho by'icyuma byakoreshwaga mu ki mu Rwanda rwa kera?",
+    "Abacuzi bo mu Rwanda rwa kera bakoraga iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubumenyi bwo gucura icyuma bwari ingenzi mu mateka y'u Rwanda rwa kera. Abanyabwenge b'abacuzi bakoreshaga amakara n'ubushyuhe bwinshi mu gutunganya imigunguru y'icyuma. Ibyo bikoresho byagiraga akamaro kanini mu gukora intwaro, ibikoresho by'ubuhinzi n'imitako y'abami n'abaturage.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Traditional iron smelting played a vital role in ancient Rwandan history. Skilled blacksmiths used charcoal and high temperatures to process iron ore. These metal products were essential for making agricultural tools, weapons, and items used by leaders and citizens.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
   }
  ],
  "knowledge": [
@@ -15215,6 +15263,45 @@
     "web",
     "technology",
     "ikoranabuhanga"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_5c7df87d",
+   "category": "history",
+   "title_rw": "Amapfa ya Ruzagayura",
+   "title_en": "The Ruzagayura Famine",
+   "summary_rw": "Amapfa ya Ruzagayura yari amapfa akomeye cyane yibasiye u Rwanda mu mwaka wa 1943. Iki kiza cyatewe n'imvura nkeya n'igihe cy'amapfa byabayeho mu gihe cy'Ubukoloni bw'Ababiligi. Abaturage benshi b'u Rwanda bishwe n'inzara n'indwara zishingiye ku mirire mibi. Ibi byatumye benshi bahungira mu bihugu by'abaturanyi nka Congo na Uganda.",
+   "summary_en": "The Ruzagayura famine was a severe famine that struck Rwanda in 1943. This disaster was caused by drought and food shortages during the Belgian colonial period. Many Rwandan citizens died from hunger and malnutrition-related diseases. This situation forced many people to flee to neighboring countries such as Congo and Uganda.",
+   "keywords": [
+    "amapfa",
+    "ruzagayura",
+    "rwanda",
+    "1943",
+    "inzara",
+    "famine",
+    "history"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_fac69c3f",
+   "category": "history",
+   "title_rw": "Ubuhanzi bwo Gucura Icyuma mu Rwanda",
+   "title_en": "Traditional Iron Smelting in Rwanda",
+   "summary_rw": "Ubumenyi bwo gucura icyuma bwari ingenzi mu mateka y'u Rwanda rwa kera. Abanyabwenge b'abacuzi bakoreshaga amakara n'ubushyuhe bwinshi mu gutunganya imigunguru y'icyuma. Ibyo bikoresho byagiraga akamaro kanini mu gukora intwaro, ibikoresho by'ubuhinzi n'imitako y'abami n'abaturage.",
+   "summary_en": "Traditional iron smelting played a vital role in ancient Rwandan history. Skilled blacksmiths used charcoal and high temperatures to process iron ore. These metal products were essential for making agricultural tools, weapons, and items used by leaders and citizens.",
+   "keywords": [
+    "icyuma",
+    "iron",
+    "ubucuzi",
+    "blacksmith",
+    "amateka",
+    "history",
+    "u rwanda",
+    "rwanda"
    ],
    "auto": true,
    "taught": "2026-11-27"
