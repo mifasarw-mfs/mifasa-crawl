@@ -1,7 +1,47 @@
 {
  "day": "2026-11-27",
- "count": 2,
+ "count": 4,
  "articles": [
+  {
+   "id": "crawl_1fzb55j",
+   "title": "The young hikers finding friendship and fresh air offline",
+   "summary": "From hiking in the Peak District hills to the city parks of Leicester - we talk to several young people who've embraced walking groups and feel better for it.",
+   "link": "https://www.bbc.co.uk/news/articles/c32l50v7x2v1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c32l50v7x2v1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T00:52:34.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baec/live/bc60a6d0-e9b1-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baec/live/bc60a6d0-e9b1-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "The young hikers finding friendship and fresh air offline",
+   "summary_en": "From hiking in the Peak District hills to the city parks of Leicester - we talk to several young people who've embraced walking groups and feel better for it.",
+   "share_id": "MN202611_1fzb55j41md"
+  },
+  {
+   "id": "crawl_14dcvq9",
+   "title": "'Priceless' Duran proves 'the man' but is he papering over cracks at Celtic?",
+   "summary": "Camilo Duran's 15-goal haul this season has made him an invaluable player for a Celtic side fighting for European progression.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c62klz1wwdn7o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c62klz1wwdn7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T00:18:44.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e7/live/1ca69ca0-e9f0-11f1-afc6-7da1c727ad8d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e7/live/1ca69ca0-e9f0-11f1-afc6-7da1c727ad8d.jpg",
+   "title_en": "'Priceless' Duran proves 'the man' but is he papering over cracks at Celtic?",
+   "summary_en": "Camilo Duran's 15-goal haul this season has made him an invaluable player for a Celtic side fighting for European progression.",
+   "share_id": "MN202611_14dcvq94t4v"
+  },
   {
    "id": "crawl_1sjgceo",
    "title": "Inside the control room feeding your weather app",
@@ -43,5 +83,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T00:12:28.373Z"
+ "updated": "2026-11-27T00:54:37.228Z"
 }

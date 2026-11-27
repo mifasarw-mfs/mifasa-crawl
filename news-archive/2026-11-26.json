@@ -1,7 +1,27 @@
 {
  "day": "2026-11-26",
- "count": 119,
+ "count": 120,
  "articles": [
+  {
+   "id": "crawl_42ivnx",
+   "title": "Hearts' European hopes hang by a thread but Vrancken proud",
+   "summary": "Hearts head coach Wouter Vrancken expresses both pride and disappointment after his team came out on the wrong side of a five-goal thriller against Monaco.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqr7g49ej14ko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqr7g49ej14ko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T23:59:43.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f50e/live/fd3df170-e9df-11f1-9361-cd8ed0157587.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f50e/live/fd3df170-e9df-11f1-9361-cd8ed0157587.jpg",
+   "title_en": "Hearts' European hopes hang by a thread but Vrancken proud",
+   "summary_en": "Hearts head coach Wouter Vrancken expresses both pride and disappointment after his team came out on the wrong side of a five-goal thriller against Monaco.",
+   "share_id": "MN202611_42ivnxev1n"
+  },
   {
    "id": "crawl_1lhmjnm",
    "title": "UK to pay 'participation' fee to deliver EU deals",
@@ -2414,5 +2434,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-27T00:12:28.375Z"
+ "updated": "2026-11-27T00:54:37.229Z"
 }
