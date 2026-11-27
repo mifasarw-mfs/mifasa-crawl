@@ -1,7 +1,86 @@
 {
  "day": "2026-11-27",
- "count": 9,
+ "count": 13,
  "articles": [
+  {
+   "id": "crawl_15pnv8z",
+   "title": "When Rwanda Offers to Help Migrants, European Humanity Comes Out of Retirement",
+   "summary": "The hypocrisy surrounding Europe’s migration debate has become increasingly difficult to ignore. For years, migrants and asylum seekers have faced degrading treatment, exclusion, dangerous journeys and inhumane living conditions across… The post When Rwanda Offers to Help Migrants, European Humanity Comes Out of Retirement appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/when-rwanda-offers-to-help-migrants-european-humanity-comes-out-of-retirement/",
+   "url": "https://www.ktpress.rw/2026/11/when-rwanda-offers-to-help-migrants-european-humanity-comes-out-of-retirement/",
+   "date": "2026-11-27T06:32:44.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "Voices"
+   ],
+   "title_en": "When Rwanda Offers to Help Migrants, European Humanity Comes Out of Retirement",
+   "summary_en": "The hypocrisy surrounding Europe’s migration debate has become increasingly difficult to ignore. For years, migrants and asylum seekers have faced degrading treatment, exclusion, dangerous journeys and inhumane living conditions across… The post When Rwanda Offers to Help Migrants, European Humanity Comes Out of Retirement appeared first on KT PRESS .",
+   "share_id": "MN202611_15pnv8zp1w1"
+  },
+  {
+   "id": "crawl_1dm63lh",
+   "title": "Council to set London's highest littering fines",
+   "summary": "Fines for littering will rise from £500 to £750 in Harrow, while fly-tipping will see a £5,000 penalty.",
+   "link": "https://www.bbc.co.uk/news/articles/ckj0590g84nno?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckj0590g84nno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T06:11:37.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4d6/live/8fda62c0-e814-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4d6/live/8fda62c0-e814-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Council to set London's highest littering fines",
+   "summary_en": "Fines for littering will rise from £500 to £750 in Harrow, while fly-tipping will see a £5,000 penalty.",
+   "share_id": "MN202611_1dm63lhz02b"
+  },
+  {
+   "id": "crawl_fi9j9m",
+   "title": "Could housing decide Spain's general election?",
+   "summary": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia.",
+   "link": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T06:09:31.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6e8/live/fb20a6d0-e9cb-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6e8/live/fb20a6d0-e9cb-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "Could housing decide Spain's general election?",
+   "summary_en": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia.",
+   "share_id": "MN202611_fi9j9m66co"
+  },
+  {
+   "id": "crawl_1a2cn2b",
+   "title": "Reform UK pledges to scrap hospital parking fees in England",
+   "summary": "The party says it would compensate NHS trusts for lost fees by charging foreign nationals more for care.",
+   "link": "https://www.bbc.co.uk/news/articles/cw62pn8mdn39o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw62pn8mdn39o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T06:00:41.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9f8/live/450af620-e9fd-11f1-976c-6d185a1abdb9.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9f8/live/450af620-e9fd-11f1-976c-6d185a1abdb9.png",
+   "title_en": "Reform UK pledges to scrap hospital parking fees in England",
+   "summary_en": "The party says it would compensate NHS trusts for lost fees by charging foreign nationals more for care.",
+   "share_id": "MN202611_1a2cn2b5jj5"
+  },
   {
    "id": "crawl_1nzmubb",
    "title": "Watch: Truck hangs in the balance after losing control in wet conditions",
@@ -183,5 +262,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T05:40:56.128Z"
+ "updated": "2026-11-27T06:41:07.538Z"
 }
