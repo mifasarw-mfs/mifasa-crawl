@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_m48b6t",
+  "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+  "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+  "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-27T01:45:30.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg",
+  "title_en": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+  "summary_en": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+  "share_id": "MN202611_m48b6t17nn"
+ },
+ {
   "id": "crawl_1xklkxe",
   "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
   "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
@@ -3500,12 +3520,12 @@
   "link": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-25T19:17:51.000Z",
-  "source": "BBC World",
-  "category": "world",
+  "source": "BBC Science",
+  "category": "science",
   "lang": "en",
   "keywords": [
-   "BBC World",
-   "world"
+   "BBC Science",
+   "science"
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dd3/live/34155b50-e901-11f1-99a1-253766e7ad8b.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dd3/live/34155b50-e901-11f1-99a1-253766e7ad8b.jpg",
@@ -16899,26 +16919,5 @@
   "title_en": "Jeannette Kagame Joins Rwanda, UNICEF in Marking 40 Years of Partnership for Children",
   "summary_en": "First Lady Jeannette Kagame has joined government officials, development partners and representatives of children at the Kigali Convention Centre for celebrations marking International Children’s Day and 40 years of cooperation between Rwanda and the United Nations Children’s Fund (UNICEF). The event, held on Friday, November 20, celebrates four decades of collaboration aimed at improving the […]…",
   "share_id": "MN202611_14cubv3qk8d"
- },
- {
-  "id": "crawl_1v2xsyy",
-  "title": "Mukazayire Urges Kepler College Graduates to Embrace Lifelong Learning and Healthy Living",
-  "summary": "Minister of Sports Nelly Mukazayire has urged graduates of Kepler College to remain open to learning, embrace change and demonstrate resilience as they begin new chapters in their professional and personal lives. She made the remarks during the college’s graduation ceremony, which celebrated 322 graduates from eight African countries, including students who completed programmes offered […] The…",
-  "link": "https://taarifa.rw/2026/11/20/mukazayire-urges-kepler-college-graduates-to-embrace-lifelong-learning-and-healthy-living/",
-  "url": "https://taarifa.rw/2026/11/20/mukazayire-urges-kepler-college-graduates-to-embrace-lifelong-learning-and-healthy-living/",
-  "date": "2026-11-20T14:52:25.000Z",
-  "source": "Taarifa Rwanda",
-  "category": "news",
-  "lang": "en",
-  "keywords": [
-   "Taarifa Rwanda",
-   "news",
-   "Education"
-  ],
-  "image": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-20-at-16.13.08.jpeg?fit=684%2C653&ssl=1",
-  "thumbnail": "https://i0.wp.com/taarifa.rw/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-20-at-16.13.08.jpeg?fit=684%2C653&ssl=1",
-  "title_en": "Mukazayire Urges Kepler College Graduates to Embrace Lifelong Learning and Healthy Living",
-  "summary_en": "Minister of Sports Nelly Mukazayire has urged graduates of Kepler College to remain open to learning, embrace change and demonstrate resilience as they begin new chapters in their professional and personal lives. She made the remarks during the college’s graduation ceremony, which celebrated 322 graduates from eight African countries, including students who completed programmes offered […] The…",
-  "share_id": "MN202611_1v2xsyylxqg"
  }
 ]

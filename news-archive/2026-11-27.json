@@ -1,7 +1,27 @@
 {
  "day": "2026-11-27",
- "count": 6,
+ "count": 7,
  "articles": [
+  {
+   "id": "crawl_m48b6t",
+   "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+   "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+   "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T01:45:30.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg",
+   "title_en": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+   "summary_en": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+   "share_id": "MN202611_m48b6t17nn"
+  },
   {
    "id": "crawl_1xklkxe",
    "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
@@ -123,5 +143,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T01:29:10.365Z"
+ "updated": "2026-11-27T02:16:26.008Z"
 }
