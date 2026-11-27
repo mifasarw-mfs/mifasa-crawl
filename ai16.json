@@ -8582,6 +8582,126 @@
    ],
    "auto": true,
    "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_52171036_q",
+   "label_rw": "Kwitabira Ishuri n'Igihe",
+   "label_en": "School Attendance and Punctuality",
+   "patterns_en": [
+    "Why is school attendance important?",
+    "How does punctuality help a student?",
+    "What are the consequences of missing school?"
+   ],
+   "patterns_rw": [
+    "Kuki kwitabira ishuri ari ngombwa?",
+    "Ni gute kugera ku gihe bifasha umunyeshuri?",
+    "Ingaruka z'ukutitabira ishuri ni izihe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kwitabira ishuri buri munsi no kugera ku kigo ku gihe bifasha abanyeshuri kwiga neza no gutsinda. Bishyiraho imico myiza kandi bigabanya ibyuho mu bumenyi bwabo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Attending school regularly and arriving on time help students learn effectively and succeed. It builds good character and reduces gaps in their knowledge.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_df4e539a_q",
+   "label_rw": "Uburere bwiza n'Ubwubahane mu Ishuri",
+   "label_en": "Classroom Etiquette and Respect",
+   "patterns_en": [
+    "What creates good etiquette in the classroom?",
+    "Why must students respect teachers?",
+    "How do school rules help?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma habaho uburere bwiza mu ishuri?",
+    "Kuki abanyeshuri bagomba kubahana n'abarimu?",
+    "Amategeko y'ishuri afasha iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Uburere bwiza n'ubwubahane bifasha mu gutuma amasomo agenda neza. Abanyeshuri n'abarimu bagomba kubahana no kumvira amategeko y'ishuri. Ibi bituma habaho ibidukikijije byiza byo kwigiramo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Classroom etiquette and respect help ensure lessons run smoothly. Students and teachers must respect each other and follow school rules. This creates a positive environment for learning.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_ab9dc3cf_q",
+   "label_rw": "Gukemura Amakimbirane hagati y'Abanyeshuri",
+   "label_en": "Conflict Resolution among Students",
+   "patterns_en": [
+    "What causes conflicts among students?",
+    "How can students resolve their issues without fighting?",
+    "What is the role of a teacher in conflict resolution?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera amakimbirane hagati y'abanyeshuri?",
+    "Ni gute abanyeshuri bashobora gukemura ibibazo byabo batarinze kurwana?",
+    "Uruhare rw'umwarimu ni uruhe mu gukemura amakimbirane?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gukemura amakimbirane hagati y'abanyeshuri bifasha mu kubaka umutekano ku ishuri. Bituma abanyeshuri biga gukoresha ibiganiro no kumvikana igihe hari icyo batumvikanyeho. Abarimu n'abayobozi b'ibigo bagira uruhare runini mu kubafasha kubona ibisubizo byiza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Conflict resolution among students helps build a safe school environment. It enables students to learn how to use dialogue and reach agreements when disagreements occur. Teachers and school leaders play a major role in helping them find good solutions.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_790522c1_q",
+   "label_rw": "Gutuza n'Gucunga Ihungabana ku Banyeshuri",
+   "label_en": "Mindfulness and Stress Management for Students",
+   "patterns_en": [
+    "What causes stress in students?",
+    "How does mindfulness help students?",
+    "What are simple mindfulness exercises?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera ihungabana ku banyeshuri?",
+    "Gutuza bifasha bite abanyeshuri?",
+    "Ni iyiheimyitozo yoroheje yo gutuza?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gutuza bifasha abanyeshuri kugabanya ihungabana no kongera ubushobozi bwo kwibanda ku byo biga. Imyitozo yoroheje nko guhumeka cyane no gutekereza neza ishobora gufasha abanyeshuri guhangana n'ibibazo by'ishuri buri munsi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Mindfulness helps students reduce stress and improve focus on their studies. Simple practices like deep breathing and positive thinking can help students cope with daily academic challenges.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_69caacb1_q",
+   "label_rw": "Am uniforme y'Ishuri n'Isuku y'Umuntu",
+   "label_en": "School Uniforms and Personal Hygiene",
+   "patterns_en": [
+    "Why do students wear school uniforms?",
+    "What does personal hygiene involve at school?",
+    "How does cleanliness prevent diseases among students?"
+   ],
+   "patterns_rw": [
+    "Kuki abanyeshuri bambara am uniforme?",
+    "Isuku y'umuntu igizwe n'iki ku ishuri?",
+    "Ni gute isuku irinda indwara mu banyeshuri?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Am uniforme y'ishuri n'isuku y'umuntu bifasha abanyeshuri kwiga neza. Am uniforme agaragaza ko abanyeshuri bangana kandi akabafasha kwitwara neza ku ishuri. Isuku y'umuntu irimo koza intoki, kwambara imyenda isa neza, no kwita ku bice by'umubiri. Ibi birinda indwara kandi bituma abanyeshuri bagira ubuzima bwiza mu ishuri.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "School uniforms and personal hygiene help students learn effectively. Uniforms promote equality and proper behavior at school. Personal hygiene includes washing hands, wearing clean clothes, and maintaining body cleanliness. These practices prevent diseases and ensure a healthy environment for students.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
   }
  ],
  "knowledge": [
@@ -15650,6 +15770,105 @@
     "plates",
     "earth",
     "geology"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_52171036",
+   "category": "education",
+   "title_rw": "Kwitabira Ishuri n'Igihe",
+   "title_en": "School Attendance and Punctuality",
+   "summary_rw": "Kwitabira ishuri buri munsi no kugera ku kigo ku gihe bifasha abanyeshuri kwiga neza no gutsinda. Bishyiraho imico myiza kandi bigabanya ibyuho mu bumenyi bwabo.",
+   "summary_en": "Attending school regularly and arriving on time help students learn effectively and succeed. It builds good character and reduces gaps in their knowledge.",
+   "keywords": [
+    "kwitabira",
+    "igihe",
+    "ishuri",
+    "attendance",
+    "punctuality",
+    "school",
+    "uburezi"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_df4e539a",
+   "category": "education",
+   "title_rw": "Uburere bwiza n'Ubwubahane mu Ishuri",
+   "title_en": "Classroom Etiquette and Respect",
+   "summary_rw": "Uburere bwiza n'ubwubahane bifasha mu gutuma amasomo agenda neza. Abanyeshuri n'abarimu bagomba kubahana no kumvira amategeko y'ishuri. Ibi bituma habaho ibidukikijije byiza byo kwigiramo.",
+   "summary_en": "Classroom etiquette and respect help ensure lessons run smoothly. Students and teachers must respect each other and follow school rules. This creates a positive environment for learning.",
+   "keywords": [
+    "ishuri",
+    "ubwubahane",
+    "uburere",
+    "abarimu",
+    "abanyeshuri",
+    "school",
+    "respect",
+    "classroom"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_ab9dc3cf",
+   "category": "education",
+   "title_rw": "Gukemura Amakimbirane hagati y'Abanyeshuri",
+   "title_en": "Conflict Resolution among Students",
+   "summary_rw": "Gukemura amakimbirane hagati y'abanyeshuri bifasha mu kubaka umutekano ku ishuri. Bituma abanyeshuri biga gukoresha ibiganiro no kumvikana igihe hari icyo batumvikanyeho. Abarimu n'abayobozi b'ibigo bagira uruhare runini mu kubafasha kubona ibisubizo byiza.",
+   "summary_en": "Conflict resolution among students helps build a safe school environment. It enables students to learn how to use dialogue and reach agreements when disagreements occur. Teachers and school leaders play a major role in helping them find good solutions.",
+   "keywords": [
+    "amakimbirane",
+    "abanyeshuri",
+    "uburezi",
+    "amahoro",
+    "conflict",
+    "students",
+    "education",
+    "peace"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_790522c1",
+   "category": "education",
+   "title_rw": "Gutuza n'Gucunga Ihungabana ku Banyeshuri",
+   "title_en": "Mindfulness and Stress Management for Students",
+   "summary_rw": "Gutuza bifasha abanyeshuri kugabanya ihungabana no kongera ubushobozi bwo kwibanda ku byo biga. Imyitozo yoroheje nko guhumeka cyane no gutekereza neza ishobora gufasha abanyeshuri guhangana n'ibibazo by'ishuri buri munsi.",
+   "summary_en": "Mindfulness helps students reduce stress and improve focus on their studies. Simple practices like deep breathing and positive thinking can help students cope with daily academic challenges.",
+   "keywords": [
+    "gutuza",
+    "ihungabana",
+    "abanyeshuri",
+    "uburezi",
+    "mindfulness",
+    "stress",
+    "students",
+    "education"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_69caacb1",
+   "category": "education",
+   "title_rw": "Am uniforme y'Ishuri n'Isuku y'Umuntu",
+   "title_en": "School Uniforms and Personal Hygiene",
+   "summary_rw": "Am uniforme y'ishuri n'isuku y'umuntu bifasha abanyeshuri kwiga neza. Am uniforme agaragaza ko abanyeshuri bangana kandi akabafasha kwitwara neza ku ishuri. Isuku y'umuntu irimo koza intoki, kwambara imyenda isa neza, no kwita ku bice by'umubiri. Ibi birinda indwara kandi bituma abanyeshuri bagira ubuzima bwiza mu ishuri.",
+   "summary_en": "School uniforms and personal hygiene help students learn effectively. Uniforms promote equality and proper behavior at school. Personal hygiene includes washing hands, wearing clean clothes, and maintaining body cleanliness. These practices prevent diseases and ensure a healthy environment for students.",
+   "keywords": [
+    "uniforme",
+    "ishuri",
+    "isuku",
+    "ubuzima",
+    "school",
+    "uniform",
+    "hygiene",
+    "health"
    ],
    "auto": true,
    "taught": "2026-11-27"
