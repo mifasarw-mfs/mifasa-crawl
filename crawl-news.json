@@ -1,5 +1,65 @@
 [
  {
+  "id": "crawl_1sjgceo",
+  "title": "Inside the control room feeding your weather app",
+  "summary": "BBC Weather's Matt Taylor takes us on a tour of the Met Office control room.",
+  "link": "https://www.bbc.co.uk/weather/videos/c6y0xq8y757ko?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/weather/videos/c6y0xq8y757ko?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-27T00:09:30.000Z",
+  "source": "BBC Science",
+  "category": "science",
+  "lang": "en",
+  "keywords": [
+   "BBC Science",
+   "science"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f8f/live/d944b3b0-e9a5-11f1-99b6-a35a62fa4264.png",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f8f/live/d944b3b0-e9a5-11f1-99b6-a35a62fa4264.png",
+  "title_en": "Inside the control room feeding your weather app",
+  "summary_en": "BBC Weather's Matt Taylor takes us on a tour of the Met Office control room.",
+  "share_id": "MN202611_1sjgceo25ta"
+ },
+ {
+  "id": "crawl_1qm1qzz",
+  "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+  "summary": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
+  "link": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-27T00:02:19.000Z",
+  "source": "BBC Business",
+  "category": "business",
+  "lang": "en",
+  "keywords": [
+   "BBC Business",
+   "business"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c0e/live/0c8a5940-e7e0-11f1-99a1-253766e7ad8b.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c0e/live/0c8a5940-e7e0-11f1-99a1-253766e7ad8b.jpg",
+  "title_en": "Why is there a shortage of 'wizard' elevator mechanics?",
+  "summary_en": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
+  "share_id": "MN202611_1qm1qzzungt"
+ },
+ {
+  "id": "crawl_1lhmjnm",
+  "title": "UK to pay 'participation' fee to deliver EU deals",
+  "summary": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+  "link": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-26T23:17:12.000Z",
+  "source": "BBC Business",
+  "category": "business",
+  "lang": "en",
+  "keywords": [
+   "BBC Business",
+   "business"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e264/live/8e58c180-e9e5-11f1-ab41-f1f84c0c758a.png",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e264/live/8e58c180-e9e5-11f1-ab41-f1f84c0c758a.png",
+  "title_en": "UK to pay 'participation' fee to deliver EU deals",
+  "summary_en": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+  "share_id": "MN202611_1lhmjnmfg4g"
+ },
+ {
   "id": "crawl_1dz2iq2",
   "title": "Asia made a big AI bet on Nvidia. What happens now?",
   "summary": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
@@ -696,8 +756,8 @@
    "BBC World",
    "world"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ece/live/c83dee70-e9f4-11f1-9c56-b1b6306ef9e3.png",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ece/live/c83dee70-e9f4-11f1-9c56-b1b6306ef9e3.png",
   "title_en": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
   "summary_en": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
   "share_id": "MN202611_1qb3belw7vf"
@@ -2387,7 +2447,7 @@
  {
   "id": "crawl_z55nk8",
   "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-  "summary": "Massive storms are descending on both US coasts, bringing wind gusts, downed trees, and power outages for hundreds of thousands of customers.",
+  "summary": "Massive storms are descending on both US coasts, with wind gusts, heavy rain, downed trees, and power outages for hundreds of thousands of customers.",
   "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-26T03:27:33.000Z",
@@ -2401,7 +2461,7 @@
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg",
   "title_en": "Major Thanksgiving storm brings flooding, flight delays across US",
-  "summary_en": "Massive storms are descending on both US coasts, bringing wind gusts, downed trees, and power outages for hundreds of thousands of customers.",
+  "summary_en": "Massive storms are descending on both US coasts, with wind gusts, heavy rain, downed trees, and power outages for hundreds of thousands of customers.",
   "share_id": "MN202611_z55nk8yk12"
  },
  {
@@ -16864,67 +16924,5 @@
   "title_en": "SFA should not change to pander to clubs - McLeish",
   "summary_en": "St Mirren manager Craig McLeish says it's \"damning\" that Scottish FA chief football officer Craig Mulholland should have to \"pander to clubs\" as he attempts to bring in reforms.",
   "share_id": "MN202611_1tozdwzrbbl"
- },
- {
-  "id": "crawl_7ejs19",
-  "title": "Arteta warns Arsenal players over FPL team news leak",
-  "summary": "Mikel Arteta says his Arsenal players have been warned against inadvertently leaking team news via Fantasy Premier League.",
-  "link": "https://www.bbc.co.uk/sport/football/articles/ck62pz5r16pro?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/articles/ck62pz5r16pro?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-20T14:08:55.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8c0/live/ba1c8130-e4e5-11f1-b039-c1944465024e.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8c0/live/ba1c8130-e4e5-11f1-b039-c1944465024e.jpg",
-  "title_en": "Arteta warns Arsenal players over FPL team news leak",
-  "summary_en": "Mikel Arteta says his Arsenal players have been warned against inadvertently leaking team news via Fantasy Premier League.",
-  "share_id": "MN202611_7ejs19frez"
- },
- {
-  "id": "crawl_xe444d",
-  "title": "Madamu Jeannette Kagame yitabiriye ibirori by'Umunsi Mpuzamahanga w'Abana",
-  "summary": "Madamu Jeannette Kagame yitabiriye ibirori byo kwizihiza Umunsi Mpuzamahanga w’Abana wabereye muri Kigali Convention Centre kuri uyu wa Gatanu. Ni ibirori byahuriranye kandi no kwizihiza imyaka (…)",
-  "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/madamu-jeannette-kagame-yitabiriye-ibirori-by-umunsi-mpuzamahanga-w-abana",
-  "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/madamu-jeannette-kagame-yitabiriye-ibirori-by-umunsi-mpuzamahanga-w-abana",
-  "date": "2026-11-20T13:56:47.000Z",
-  "source": "Kigali Today",
-  "category": "news",
-  "lang": "rw",
-  "keywords": [
-   "Kigali Today",
-   "news",
-   "Mu Rwanda",
-   "MobileBigStory"
-  ],
-  "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_15.38_41.jpg",
-  "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-20_at_15.38_41.jpg",
-  "title_rw": "Madamu Jeannette Kagame yitabiriye ibirori by'Umunsi Mpuzamahanga w'Abana",
-  "summary_rw": "Madamu Jeannette Kagame yitabiriye ibirori byo kwizihiza Umunsi Mpuzamahanga w’Abana wabereye muri Kigali Convention Centre kuri uyu wa Gatanu. Ni ibirori byahuriranye kandi no kwizihiza imyaka (…)",
-  "share_id": "MN202611_xe444dbnsr"
- },
- {
-  "id": "crawl_1kvygl",
-  "title": "Key questions as Scottish Premiership returns",
-  "summary": "The Scottish Premiership returns with managers to the fore - this is all you need to know about Saturday's games.",
-  "link": "https://www.bbc.co.uk/sport/football/articles/c50mdwnn90jyo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c50mdwnn90jyo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-20T13:53:22.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4759/live/ea3780f0-e462-11f1-99a1-253766e7ad8b.png",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4759/live/ea3780f0-e462-11f1-99a1-253766e7ad8b.png",
-  "title_en": "Key questions as Scottish Premiership returns",
-  "summary_en": "The Scottish Premiership returns with managers to the fore - this is all you need to know about Saturday's games.",
-  "share_id": "MN202611_1kvyglrxub"
  }
 ]

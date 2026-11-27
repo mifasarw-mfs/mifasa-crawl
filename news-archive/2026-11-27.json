@@ -1,0 +1,47 @@
+{
+ "day": "2026-11-27",
+ "count": 2,
+ "articles": [
+  {
+   "id": "crawl_1sjgceo",
+   "title": "Inside the control room feeding your weather app",
+   "summary": "BBC Weather's Matt Taylor takes us on a tour of the Met Office control room.",
+   "link": "https://www.bbc.co.uk/weather/videos/c6y0xq8y757ko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/weather/videos/c6y0xq8y757ko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T00:09:30.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f8f/live/d944b3b0-e9a5-11f1-99b6-a35a62fa4264.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f8f/live/d944b3b0-e9a5-11f1-99b6-a35a62fa4264.png",
+   "title_en": "Inside the control room feeding your weather app",
+   "summary_en": "BBC Weather's Matt Taylor takes us on a tour of the Met Office control room.",
+   "share_id": "MN202611_1sjgceo25ta"
+  },
+  {
+   "id": "crawl_1qm1qzz",
+   "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+   "summary": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
+   "link": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T00:02:19.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c0e/live/0c8a5940-e7e0-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c0e/live/0c8a5940-e7e0-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Why is there a shortage of 'wizard' elevator mechanics?",
+   "summary_en": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
+   "share_id": "MN202611_1qm1qzzungt"
+  }
+ ],
+ "updated": "2026-11-27T00:12:28.373Z"
+}

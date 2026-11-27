@@ -1,7 +1,27 @@
 {
  "day": "2026-11-26",
- "count": 118,
+ "count": 119,
  "articles": [
+  {
+   "id": "crawl_1lhmjnm",
+   "title": "UK to pay 'participation' fee to deliver EU deals",
+   "summary": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+   "link": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T23:17:12.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e264/live/8e58c180-e9e5-11f1-ab41-f1f84c0c758a.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e264/live/8e58c180-e9e5-11f1-ab41-f1f84c0c758a.png",
+   "title_en": "UK to pay 'participation' fee to deliver EU deals",
+   "summary_en": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+   "share_id": "MN202611_1lhmjnmfg4g"
+  },
   {
    "id": "crawl_1dz2iq2",
    "title": "Asia made a big AI bet on Nvidia. What happens now?",
@@ -2394,5 +2414,5 @@
    "share_id": "MN202611_xrss11lohv"
   }
  ],
- "updated": "2026-11-26T23:45:18.869Z"
+ "updated": "2026-11-27T00:12:28.375Z"
 }
