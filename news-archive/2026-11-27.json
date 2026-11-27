@@ -1,7 +1,54 @@
 {
  "day": "2026-11-27",
- "count": 82,
+ "count": 84,
  "articles": [
+  {
+   "id": "crawl_7t3nnu",
+   "title": "Amateka y'ikimenyetso cya @ cyahinduye itumanaho ryo kuri murandasi",
+   "summary": "Ikimenyetso cya @, kizwi mu Cyongereza nka At Sign, ni kimwe mu bimenyetso abantu bakoresha cyane muri iki gihe, cyane cyane mu itumanaho rikoresha ikoranabuhanga. Gikunze kugaragara muri aderesi (…)",
+   "link": "https://www.kigalitoday.com/agaseke-ka-weekend/ni-impamo-da/article/amateka-y-ikimenyetso-cya-cyahinduye-itumanaho-ryo-kuri-murandasi",
+   "url": "https://www.kigalitoday.com/agaseke-ka-weekend/ni-impamo-da/article/amateka-y-ikimenyetso-cya-cyahinduye-itumanaho-ryo-kuri-murandasi",
+   "date": "2026-11-27T17:33:18.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Ni Impamo da!",
+    "AKW-042",
+    "AKW-042-MAIN"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-27_at_19.02_37.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-27_at_19.02_37.jpg",
+   "title_rw": "Amateka y'ikimenyetso cya @ cyahinduye itumanaho ryo kuri murandasi",
+   "summary_rw": "Ikimenyetso cya @, kizwi mu Cyongereza nka At Sign, ni kimwe mu bimenyetso abantu bakoresha cyane muri iki gihe, cyane cyane mu itumanaho rikoresha ikoranabuhanga. Gikunze kugaragara muri aderesi (…)",
+   "share_id": "MN202611_7t3nnukh2g"
+  },
+  {
+   "id": "crawl_z2xeau",
+   "title": "Abagore bagize 38% muri Komite Nyobozi z'Uturere, gusa baracyari bake mu nshingano z'Ubukungu",
+   "summary": "Abagore batorewe imyanya 31 muri 81 igize Komite Nyobozi z’Uturere 27 zo mu Rwanda, bangana na 38.3%, mu gihe abagabo bafite imyanya 50, bangana na 61.7%. Iyi mibare ishingiye ku matora yabaye (…)",
+   "link": "https://www.kigalitoday.com/agaseke-ka-weekend/ati-iki/article/abagore-bagize-38-muri-komite-nyobozi-z-uturere-gusa-baracyari-bake-mu-nshingano-z-ubukungu",
+   "url": "https://www.kigalitoday.com/agaseke-ka-weekend/ati-iki/article/abagore-bagize-38-muri-komite-nyobozi-z-uturere-gusa-baracyari-bake-mu-nshingano-z-ubukungu",
+   "date": "2026-11-27T16:49:40.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Ati iki?",
+    "Oswald Niyonzima",
+    "AKW-042",
+    "AKW-042-MAIN"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/2026-11-27_16_11_49-_11_ngoma_district_ngomadistrict___x.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-27_16_11_49-_11_ngoma_district_ngomadistrict___x.png",
+   "title_rw": "Abagore bagize 38% muri Komite Nyobozi z'Uturere, gusa baracyari bake mu nshingano z'Ubukungu",
+   "summary_rw": "Abagore batorewe imyanya 31 muri 81 igize Komite Nyobozi z’Uturere 27 zo mu Rwanda, bangana na 38.3%, mu gihe abagabo bafite imyanya 50, bangana na 61.7%. Iyi mibare ishingiye ku matora yabaye (…)",
+   "share_id": "MN202611_z2xeauv3us"
+  },
   {
    "id": "crawl_1osvnvt",
    "title": "Nindemana: Senateri Emmanuel Havugimana yasobanuye inkomoko y'izina ry'imfura ye",
@@ -1675,5 +1722,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T16:50:39.287Z"
+ "updated": "2026-11-27T17:42:57.415Z"
 }
