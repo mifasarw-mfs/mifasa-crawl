@@ -1,7 +1,67 @@
 {
  "day": "2026-11-27",
- "count": 70,
+ "count": 73,
  "articles": [
+  {
+   "id": "crawl_fi53jh",
+   "title": "Arsenal head coach Slegers leaves by mutual consent",
+   "summary": "Arsenal part company with head coach Renee Slegers by mutual consent after a disappointing start to the season.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T15:43:26.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e62d/live/61999920-ea77-11f1-a828-d384c0290f6b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e62d/live/61999920-ea77-11f1-a828-d384c0290f6b.jpg",
+   "title_en": "Arsenal head coach Slegers leaves by mutual consent",
+   "summary_en": "Arsenal part company with head coach Renee Slegers by mutual consent after a disappointing start to the season.",
+   "share_id": "MN202611_fi53jh12x7"
+  },
+  {
+   "id": "crawl_4n6apn",
+   "title": "'Can't control the weather': Sadness as Macy's Thanksgiving parade postponed",
+   "summary": "Macy's postpones its 100th annual Thanksgiving Day Parade in New York because of severe weather.",
+   "link": "https://www.bbc.co.uk/news/videos/cmx29qd8ew4xo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cmx29qd8ew4xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T15:27:00.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/257b/live/9b91c8f0-ea72-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/257b/live/9b91c8f0-ea72-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "'Can't control the weather': Sadness as Macy's Thanksgiving parade postponed",
+   "summary_en": "Macy's postpones its 100th annual Thanksgiving Day Parade in New York because of severe weather.",
+   "share_id": "MN202611_4n6apn2xsp"
+  },
+  {
+   "id": "crawl_vsgvvo",
+   "title": "John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in",
+   "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+   "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T15:18:51.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg",
+   "title_en": "John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in",
+   "summary_en": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+   "share_id": "MN202611_vsgvvo9sci"
+  },
   {
    "id": "crawl_13bai6v",
    "title": "Marching bands scramble to cover costs after Thanksgiving parade rearranged",
@@ -1419,5 +1479,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T15:26:41.172Z"
+ "updated": "2026-11-27T15:46:59.154Z"
 }

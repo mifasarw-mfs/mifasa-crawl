@@ -1,5 +1,91 @@
 [
  {
+  "id": "crawl_fi53jh",
+  "title": "Arsenal head coach Slegers leaves by mutual consent",
+  "summary": "Arsenal part company with head coach Renee Slegers by mutual consent after a disappointing start to the season.",
+  "link": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-27T15:43:26.000Z",
+  "source": "BBC Football",
+  "category": "sports",
+  "lang": "en",
+  "keywords": [
+   "BBC Football",
+   "sports"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e62d/live/61999920-ea77-11f1-a828-d384c0290f6b.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e62d/live/61999920-ea77-11f1-a828-d384c0290f6b.jpg",
+  "title_en": "Arsenal head coach Slegers leaves by mutual consent",
+  "summary_en": "Arsenal part company with head coach Renee Slegers by mutual consent after a disappointing start to the season.",
+  "share_id": "MN202611_fi53jh12x7"
+ },
+ {
+  "id": "crawl_gm1j0v",
+  "title": "Muzemera twapfuye",
+  "summary": "Muzemera twapfuye",
+  "link": "https://www.youtube.com/shorts/i6TqfAL-KAA",
+  "url": "https://www.youtube.com/shorts/i6TqfAL-KAA",
+  "date": "2026-11-27T15:38:37.000Z",
+  "source": "Buri Kantu Na Buri Nguni YouTube",
+  "category": "entertainment",
+  "lang": "rw",
+  "keywords": [
+   "Buri Kantu Na Buri Nguni YouTube",
+   "entertainment",
+   "video"
+  ],
+  "video": {
+   "provider": "youtube",
+   "id": "i6TqfAL-KAA"
+  },
+  "type": "video",
+  "image": "https://i2.ytimg.com/vi/i6TqfAL-KAA/hqdefault.jpg",
+  "thumbnail": "https://i2.ytimg.com/vi/i6TqfAL-KAA/hqdefault.jpg",
+  "title_rw": "Muzemera twapfuye",
+  "summary_rw": "Muzemera twapfuye",
+  "share_id": "MN202611_gm1j0vhg6l"
+ },
+ {
+  "id": "crawl_4n6apn",
+  "title": "'Can't control the weather': Sadness as Macy's Thanksgiving parade postponed",
+  "summary": "Macy's postpones its 100th annual Thanksgiving Day Parade in New York because of severe weather.",
+  "link": "https://www.bbc.co.uk/news/videos/cmx29qd8ew4xo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/videos/cmx29qd8ew4xo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-27T15:27:00.000Z",
+  "source": "BBC Science",
+  "category": "science",
+  "lang": "en",
+  "keywords": [
+   "BBC Science",
+   "science"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/257b/live/9b91c8f0-ea72-11f1-99a1-253766e7ad8b.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/257b/live/9b91c8f0-ea72-11f1-99a1-253766e7ad8b.jpg",
+  "title_en": "'Can't control the weather': Sadness as Macy's Thanksgiving parade postponed",
+  "summary_en": "Macy's postpones its 100th annual Thanksgiving Day Parade in New York because of severe weather.",
+  "share_id": "MN202611_4n6apn2xsp"
+ },
+ {
+  "id": "crawl_vsgvvo",
+  "title": "John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in",
+  "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+  "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-27T15:18:51.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg",
+  "title_en": "John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in",
+  "summary_en": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+  "share_id": "MN202611_vsgvvo9sci"
+ },
+ {
   "id": "crawl_13bai6v",
   "title": "Marching bands scramble to cover costs after Thanksgiving parade rearranged",
   "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
@@ -13,8 +99,8 @@
    "BBC World",
    "world"
   ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15e2/live/1b2535e0-ea76-11f1-99a1-253766e7ad8b.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15e2/live/1b2535e0-ea76-11f1-99a1-253766e7ad8b.jpg",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4438/live/a0415f90-ea78-11f1-a094-5fdc692f3e33.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4438/live/a0415f90-ea78-11f1-a094-5fdc692f3e33.jpg",
   "title_en": "Marching bands scramble to cover costs after Thanksgiving parade rearranged",
   "summary_en": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
   "share_id": "MN202611_13bai6v3enp"
@@ -16798,85 +16884,5 @@
   "title_rw": "Imvo n'Imvano: Inyuma y'imyaka 25 sentare ya Afrika y'ubuseruko ishinzwe, yashitse ku ki?",
   "summary_rw": "Mu ndwi iheze ni ho sentare y'ishirahamwe ry'ibihugu vya Afrika y'ubuseruko yahimbaza imyaka 25 irangiye iyo sentare ishinzwe.",
   "share_id": "MN202611_1wmetci7egg"
- },
- {
-  "id": "crawl_3mdhbt",
-  "title": "Man convicted of starting Palisades fire in Los Angeles",
-  "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-  "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-21T04:34:00.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8053/live/b01bb4f0-e556-11f1-ad51-c3505e495cd9.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8053/live/b01bb4f0-e556-11f1-ad51-c3505e495cd9.jpg",
-  "title_en": "Man convicted of starting Palisades fire in Los Angeles",
-  "summary_en": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-  "share_id": "MN202611_3mdhbt6dsn"
- },
- {
-  "id": "crawl_1e38hyf",
-  "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-  "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
-  "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-21T04:32:50.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg",
-  "title_en": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-  "summary_en": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
-  "share_id": "MN202611_1e38hyf1ef9"
- },
- {
-  "id": "crawl_jz869",
-  "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
-  "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
-  "link": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-21T01:02:39.000Z",
-  "source": "BBC World",
-  "category": "world",
-  "lang": "en",
-  "keywords": [
-   "BBC World",
-   "world"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce4e/live/03859c80-e56d-11f1-a6ac-55a3d46eac91.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce4e/live/03859c80-e56d-11f1-a6ac-55a3d46eac91.jpg",
-  "title_en": "They were fined $811m for conning detained migrants, but the scams didn't stop",
-  "summary_en": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
-  "share_id": "MN202611_jz869w6m7"
- },
- {
-  "id": "crawl_ewb1ip",
-  "title": "Tech Now",
-  "summary": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
-  "link": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-21T01:00:00.000Z",
-  "source": "BBC Technology",
-  "category": "tech",
-  "lang": "en",
-  "keywords": [
-   "BBC Technology",
-   "tech"
-  ],
-  "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp14ps.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp14ps.jpg",
-  "title_en": "Tech Now",
-  "summary_en": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
-  "share_id": "MN202611_ewb1ipdn67"
  }
 ]
