@@ -1,7 +1,27 @@
 {
  "day": "2026-11-27",
- "count": 86,
+ "count": 87,
  "articles": [
+  {
+   "id": "crawl_1wt32y9",
+   "title": "Rare panto programmes owned by 'Freddie Mercury of his time' sell at auction",
+   "summary": "The life of Henry Paget was the focus of the biopic Madfabulous released earlier this year.",
+   "link": "https://www.bbc.co.uk/news/articles/c5vg2990y1pno?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c5vg2990y1pno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T18:37:54.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca9a/live/3216a050-0b32-11f1-9972-d3f265c101c6.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca9a/live/3216a050-0b32-11f1-9972-d3f265c101c6.jpg",
+   "title_en": "Rare panto programmes owned by 'Freddie Mercury of his time' sell at auction",
+   "summary_en": "The life of Henry Paget was the focus of the biopic Madfabulous released earlier this year.",
+   "share_id": "MN202611_1wt32y9vzf3"
+  },
   {
    "id": "crawl_zfnabw",
    "title": "Umuryango w'Abagide mu Rwanda wifatanyije n'Akarere ka Bugesera mu bukangurambaga bwo kurwanya ihohotera rikorerwa abana",
@@ -1765,5 +1785,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T18:31:24.210Z"
+ "updated": "2026-11-27T18:45:00.860Z"
 }
