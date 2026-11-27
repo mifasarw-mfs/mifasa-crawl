@@ -1,6 +1,6 @@
 {
  "day": "2026-11-27",
- "count": 19,
+ "count": 20,
  "articles": [
   {
    "id": "crawl_19i9s1v",
@@ -261,6 +261,26 @@
    "share_id": "MN202611_m48b6t17nn"
   },
   {
+   "id": "crawl_1o1fihq",
+   "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+   "summary": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
+   "link": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T00:58:49.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3451/live/fbe22210-e9cb-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3451/live/fbe22210-e9cb-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+   "summary_en": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
+   "share_id": "MN202611_1o1fihq8eyk"
+  },
+  {
    "id": "crawl_1xklkxe",
    "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
    "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
@@ -381,5 +401,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T08:02:03.733Z"
+ "updated": "2026-11-27T08:28:49.178Z"
 }
