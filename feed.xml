@@ -5,8 +5,17 @@
     <link>https://mifasarw.neocities.org/</link>
     <description>Inkuru zigezweho mu Rwanda no ku Isi, na Video za MIFASARW.</description>
     <language>rw</language>
-    <lastBuildDate>Fri, 27 Nov 2026 00:52:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 00:54:45 GMT</lastBuildDate>
     <atom:link href="https://mifasarw.neocities.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>I spend £200 a month on fancy meals by myself - would you dine solo?</title>
+      <link>https://mifasarw.neocities.org/s/MN202611_1xklkxeehe8.html</link>
+      <guid isPermaLink="true">https://mifasarw.neocities.org/s/MN202611_1xklkxeehe8.html</guid>
+      <pubDate>Fri, 27 Nov 2026 00:54:45 GMT</pubDate>
+      <category>business</category>
+      <description>Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry. (Source: BBC Business)</description>
+      <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d8d/live/b5d26cb0-e9cd-11f1-a094-5fdc692f3e33.jpg"/>
+    </item>
     <item>
       <title>The young hikers finding friendship and fresh air offline</title>
       <link>https://mifasarw.neocities.org/s/MN202611_1fzb55j41md.html</link>
@@ -15,6 +24,15 @@
       <category>health</category>
       <description>From hiking in the Peak District hills to the city parks of Leicester - we talk to several young people who've embraced walking groups and feel better for it. (Source: BBC Health)</description>
       <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baec/live/bc60a6d0-e9b1-11f1-99a1-253766e7ad8b.jpg"/>
+    </item>
+    <item>
+      <title>Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple</title>
+      <link>https://mifasarw.neocities.org/s/MN202611_3324tqz39o.html</link>
+      <guid isPermaLink="true">https://mifasarw.neocities.org/s/MN202611_3324tqz39o.html</guid>
+      <pubDate>Fri, 27 Nov 2026 00:48:11 GMT</pubDate>
+      <category>news</category>
+      <description>Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu. (Source: BBC Africa)</description>
+      <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cfa/live/2eeecd70-e99f-11f1-b880-15b494ba858d.jpg"/>
     </item>
     <item>
       <title>'Priceless' Duran proves 'the man' but is he papering over cracks at Celtic?</title>
@@ -523,24 +541,6 @@
       <category>business</category>
       <description>Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year. (Source: BBC Business)</description>
       <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db70/live/c33d5240-e999-11f1-a094-5fdc692f3e33.jpg"/>
-    </item>
-    <item>
-      <title>Woman whose 'real-life ghost story' inspired TV series reveals scariest encounter</title>
-      <link>https://mifasarw.neocities.org/s/MN202611_p25wgiysxc.html</link>
-      <guid isPermaLink="true">https://mifasarw.neocities.org/s/MN202611_p25wgiysxc.html</guid>
-      <pubDate>Thu, 26 Nov 2026 13:27:49 GMT</pubDate>
-      <category>entertainment</category>
-      <description>Liz Rich reveals what it was like living in one of Britain's most haunted homes in south Wales in 1989. (Source: BBC Entertainment)</description>
-      <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b33/live/3ec4f290-e9ab-11f1-99b6-a35a62fa4264.jpg"/>
-    </item>
-    <item>
-      <title>Umutungo w'urwego rw'imari mu Rwanda wageze kuri 68% by'Umusaruro Mbumbe w'Igihugu</title>
-      <link>https://mifasarw.neocities.org/s/MN202611_1eo40kj5cg1.html</link>
-      <guid isPermaLink="true">https://mifasarw.neocities.org/s/MN202611_1eo40kj5cg1.html</guid>
-      <pubDate>Thu, 26 Nov 2026 13:24:45 GMT</pubDate>
-      <category>news</category>
-      <description>Banki Nkuru y’u Rwanda (BNR) yatangaje ko umutungo w’urwego rw’imari mu Rwanda wazamutse ukagera ku kigero kingana na 68% by’umusaruro mbumbe w’igihugu (GDP), mu gihe inguzanyo nshya zatanzwe (…) (Isoko: Kigali Today)</description>
-      <media:thumbnail url="https://www.kigalitoday.com/IMG/png/rwanda_finance_district_growth_outlook.png"/>
     </item>
   </channel>
 </rss>

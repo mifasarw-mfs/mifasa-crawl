@@ -1,7 +1,27 @@
 {
  "day": "2026-11-27",
- "count": 4,
+ "count": 6,
  "articles": [
+  {
+   "id": "crawl_1xklkxe",
+   "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+   "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+   "link": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T00:54:45.000Z",
+   "source": "BBC Business",
+   "category": "business",
+   "lang": "en",
+   "keywords": [
+    "BBC Business",
+    "business"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d8d/live/b5d26cb0-e9cd-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d8d/live/b5d26cb0-e9cd-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+   "summary_en": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+   "share_id": "MN202611_1xklkxeehe8"
+  },
   {
    "id": "crawl_1fzb55j",
    "title": "The young hikers finding friendship and fresh air offline",
@@ -21,6 +41,26 @@
    "title_en": "The young hikers finding friendship and fresh air offline",
    "summary_en": "From hiking in the Peak District hills to the city parks of Leicester - we talk to several young people who've embraced walking groups and feel better for it.",
    "share_id": "MN202611_1fzb55j41md"
+  },
+  {
+   "id": "crawl_3324tq",
+   "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+   "summary": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
+   "link": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T00:48:11.000Z",
+   "source": "BBC Africa",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "BBC Africa",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cfa/live/2eeecd70-e99f-11f1-b880-15b494ba858d.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cfa/live/2eeecd70-e99f-11f1-b880-15b494ba858d.jpg",
+   "title_en": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+   "summary_en": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
+   "share_id": "MN202611_3324tqz39o"
   },
   {
    "id": "crawl_14dcvq9",
@@ -83,5 +123,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T00:54:37.228Z"
+ "updated": "2026-11-27T01:29:10.365Z"
 }
