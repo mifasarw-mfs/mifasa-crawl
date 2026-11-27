@@ -8103,6 +8103,126 @@
    ],
    "auto": true,
    "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_f170fb31_q",
+   "label_rw": "Imiterere y'Isi",
+   "label_en": "The Structure of the Earth",
+   "patterns_en": [
+    "How many main layers make up the Earth?",
+    "What is the outer layer of the Earth called?",
+    "What is located at the center of the Earth?"
+   ],
+   "patterns_rw": [
+    "Ni ibyiciro bingahe bigize imiterere y'Isi?",
+    "Igikonje cyo hanze cy'Isi kitwa iki?",
+    "Ni iki kiri mu nda y'Isi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Isi igizwe n'ibyiciro bitatu by'ingenzi. Hari igikonje cyo hanze cyitwa Ubuso cyangwa crust. Hari umubyimba uri hagati witwa mantle. Hanyuma mu nda y'Isi hari igICE cy'imbere cyitwa core.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The Earth is structured into three main layers. There is the outer rocky layer called the crust. There is a thick middle layer called the mantle. Finally, at the center of the Earth is the core.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_eeb8cd07_q",
+   "label_rw": "Ubwirinzi bw'Umubiri",
+   "label_en": "The Immune System",
+   "patterns_en": [
+    "What is the immune system?",
+    "What do white blood cells do?",
+    "How does the body fight harmful pathogens?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera ubwirinzi bw'umubiri?",
+    "Uturemangingo twera tw'amaraso dukora iki?",
+    "Ni gute umubiri urwanya udukoko twangiza?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubwirinzi bw'umubiri ni urwego rw'ingingo n'uturemangingo bifasha umubiri kurwanya indwara n'udukoko twangiza. Izi ngingo zirimo uturemangingo twera tw'amaraso turwanya bagiteri na virusi. Iyo umubiri uhuye n'ikintu kidasanzwe, uturemangingo tw'ubwirinzi turagihangana kugira ngo umubiri ugire ubuzima bwiza.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The immune system is a complex network of cells, tissues, and organs that help the body fight infections and other diseases. White blood cells play a major role by identifying and destroying pathogens like bacteria and viruses. When the body encounters foreign substances, the immune response works to neutralize them and protect overall health.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_a76d563d_q",
+   "label_rw": "Uruyongoyingo rw'Imitsi",
+   "label_en": "The Nervous System",
+   "patterns_en": [
+    "What is the nervous system?",
+    "What are the main parts of the nervous system?",
+    "How does the nervous system control the body?"
+   ],
+   "patterns_rw": [
+    "Uruyongoyingo rw'imitsi ni iki?",
+    "Ibice bikuru by'uruyongoyingo rw'imitsi ni ibihe?",
+    "Uruyongoyingo rw'imitsi ruyobora rute umubiri?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Uruyongoyingo rw'imitsi ni urusobe rw'imitsi n'uturemangingo bitwara amakuru hagati y'ibice bitandukanye by'umubiri. Rugizwe n'urusobe rw'imitsi yo hagati, rurimo ubwonko n'umugozi w'umugongo, hamwe n'urusobe rw'imitsi yo ku mpande. Uru rugero ruyobora imyitwarire, ibitekerezo, n'ibikorwa by'umubiri.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The nervous system is a complex network of nerves and cells that transmit signals between different parts of the body. It includes the central nervous system, consisting of the brain and spinal cord, and the peripheral nervous system. This system controls movements, thoughts, and automatic responses to the environment.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_a2e70484_q",
+   "label_rw": "Inyenyeri n'Imiryango y'Inyenyeri",
+   "label_en": "Stars and Galaxies",
+   "patterns_en": [
+    "What are stars made of?",
+    "What is the name of our galaxy?",
+    "What is a galaxy?"
+   ],
+   "patterns_rw": [
+    "Inyenyeri zigizwe n'iki?",
+    "Umuryango w'inyenyeri dutuyemo witwa nde?",
+    "Imiryango y'inyenyeri ni iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Inyenyeri ni ibintu byaka umuriro biri mu kirere bifite ubushyuhe bwinshi. Zigizwe n'ibyuka by'ubushyuhe bwinshi. Imiryango y'inyenyeri ni amatsinda manini agizwe na miliyoni nyinshi z'inyenyeri hamwe n'umukungugu na gaze. Isi n'izindi moplaneti biri mu muryango w'inyenyeri witwa Milky Way.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Stars are luminous celestial bodies composed of hot plasma held together by gravity. Galaxies are massive systems containing millions or billions of stars, gas, and dust. Our solar system is located within a galaxy known as the Milky Way.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_19823615_q",
+   "label_rw": "Guhindagurika kw'Ingufu",
+   "label_en": "Energy Transformations",
+   "patterns_en": [
+    "What causes energy transformations?",
+    "How does an electric motor transform energy?",
+    "Can energy be completely destroyed?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera guhindagurika kw'ingufu?",
+    "Ingufu zihinduka gute muri moteri?",
+    "Ese ingufu zishobora kuzima burundu?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ingufu ntizishobora kuremwa cyangwa ngo zizime. Ahubwo zihindura isura zivuye ku buryo bumwe zijya ku bundi. Urugero, moteri ihindura ingufu z'amashanyarazi mo ingufu z'imashini.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Energy cannot be created or destroyed. It only changes from one form to another. For example, an electric motor typically transforms electrical energy into mechanical energy.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
   }
  ],
  "knowledge": [
@@ -14776,6 +14896,106 @@
     "travel",
     "imisozi",
     "hills"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_f170fb31",
+   "category": "science",
+   "title_rw": "Imiterere y'Isi",
+   "title_en": "The Structure of the Earth",
+   "summary_rw": "Isi igizwe n'ibyiciro bitatu by'ingenzi. Hari igikonje cyo hanze cyitwa Ubuso cyangwa crust. Hari umubyimba uri hagati witwa mantle. Hanyuma mu nda y'Isi hari igICE cy'imbere cyitwa core.",
+   "summary_en": "The Earth is structured into three main layers. There is the outer rocky layer called the crust. There is a thick middle layer called the mantle. Finally, at the center of the Earth is the core.",
+   "keywords": [
+    "isi",
+    "earth",
+    "ubuso",
+    "crust",
+    "mantle",
+    "core",
+    "ubumenyi",
+    "science"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_eeb8cd07",
+   "category": "science",
+   "title_rw": "Ubwirinzi bw'Umubiri",
+   "title_en": "The Immune System",
+   "summary_rw": "Ubwirinzi bw'umubiri ni urwego rw'ingingo n'uturemangingo bifasha umubiri kurwanya indwara n'udukoko twangiza. Izi ngingo zirimo uturemangingo twera tw'amaraso turwanya bagiteri na virusi. Iyo umubiri uhuye n'ikintu kidasanzwe, uturemangingo tw'ubwirinzi turagihangana kugira ngo umubiri ugire ubuzima bwiza.",
+   "summary_en": "The immune system is a complex network of cells, tissues, and organs that help the body fight infections and other diseases. White blood cells play a major role by identifying and destroying pathogens like bacteria and viruses. When the body encounters foreign substances, the immune response works to neutralize them and protect overall health.",
+   "keywords": [
+    "ubwirinzi",
+    "immune",
+    "uturemangingo",
+    "cells",
+    "indwara",
+    "disease",
+    "amaraso",
+    "blood"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_a76d563d",
+   "category": "science",
+   "title_rw": "Uruyongoyingo rw'Imitsi",
+   "title_en": "The Nervous System",
+   "summary_rw": "Uruyongoyingo rw'imitsi ni urusobe rw'imitsi n'uturemangingo bitwara amakuru hagati y'ibice bitandukanye by'umubiri. Rugizwe n'urusobe rw'imitsi yo hagati, rurimo ubwonko n'umugozi w'umugongo, hamwe n'urusobe rw'imitsi yo ku mpande. Uru rugero ruyobora imyitwarire, ibitekerezo, n'ibikorwa by'umubiri.",
+   "summary_en": "The nervous system is a complex network of nerves and cells that transmit signals between different parts of the body. It includes the central nervous system, consisting of the brain and spinal cord, and the peripheral nervous system. This system controls movements, thoughts, and automatic responses to the environment.",
+   "keywords": [
+    "nervous system",
+    "uruyongoyingo rw'imitsi",
+    "brain",
+    "ubwonko",
+    "nerves",
+    "imitsi",
+    "signals",
+    "amakuru"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_a2e70484",
+   "category": "science",
+   "title_rw": "Inyenyeri n'Imiryango y'Inyenyeri",
+   "title_en": "Stars and Galaxies",
+   "summary_rw": "Inyenyeri ni ibintu byaka umuriro biri mu kirere bifite ubushyuhe bwinshi. Zigizwe n'ibyuka by'ubushyuhe bwinshi. Imiryango y'inyenyeri ni amatsinda manini agizwe na miliyoni nyinshi z'inyenyeri hamwe n'umukungugu na gaze. Isi n'izindi moplaneti biri mu muryango w'inyenyeri witwa Milky Way.",
+   "summary_en": "Stars are luminous celestial bodies composed of hot plasma held together by gravity. Galaxies are massive systems containing millions or billions of stars, gas, and dust. Our solar system is located within a galaxy known as the Milky Way.",
+   "keywords": [
+    "inyenyeri",
+    "stars",
+    "imiryango y'inyenyeri",
+    "galaxies",
+    "milky way",
+    "ijuru",
+    "space",
+    "science"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_19823615",
+   "category": "science",
+   "title_rw": "Guhindagurika kw'Ingufu",
+   "title_en": "Energy Transformations",
+   "summary_rw": "Ingufu ntizishobora kuremwa cyangwa ngo zizime. Ahubwo zihindura isura zivuye ku buryo bumwe zijya ku bundi. Urugero, moteri ihindura ingufu z'amashanyarazi mo ingufu z'imashini.",
+   "summary_en": "Energy cannot be created or destroyed. It only changes from one form to another. For example, an electric motor typically transforms electrical energy into mechanical energy.",
+   "keywords": [
+    "ingufu",
+    "energy",
+    "guhindagurika",
+    "transformation",
+    "amashanyarazi",
+    "electrical",
+    "science",
+    "ubumenyi"
    ],
    "auto": true,
    "taught": "2026-11-27"
