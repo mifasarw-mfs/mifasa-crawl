@@ -1,7 +1,66 @@
 {
  "day": "2026-11-27",
- "count": 13,
+ "count": 16,
  "articles": [
+  {
+   "id": "crawl_admeaa",
+   "title": "What happens now for Bayern Munich and Musiala?",
+   "summary": "Bayern Munich's Jamal Musiala might never return to his previous level and will deal with a medical condition for the rest of his life. What happens next?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmly5j49ypzqo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmly5j49ypzqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T06:54:36.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7f7/live/5d644700-e97e-11f1-acd8-af22a7ebb474.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7f7/live/5d644700-e97e-11f1-acd8-af22a7ebb474.jpg",
+   "title_en": "What happens now for Bayern Munich and Musiala?",
+   "summary_en": "Bayern Munich's Jamal Musiala might never return to his previous level and will deal with a medical condition for the rest of his life. What happens next?",
+   "share_id": "MN202611_admeaaido0"
+  },
+  {
+   "id": "crawl_15zvyya",
+   "title": "Why Global Recognition of Kagame’s Health Leadership Resonates at Home and Beyond",
+   "summary": "When international bodies from the World Health Organization (WHO) honor President Kagame for championing global pandemic prevention and preparedness, to international oncology platforms naming him among the world’s top leaders… The post Why Global Recognition of Kagame’s Health Leadership Resonates at Home and Beyond appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/why-global-recognition-of-kagames-health-leadership-resonates-at-home-and-beyond/",
+   "url": "https://www.ktpress.rw/2026/11/why-global-recognition-of-kagames-health-leadership-resonates-at-home-and-beyond/",
+   "date": "2026-11-27T06:43:48.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "Voices"
+   ],
+   "title_en": "Why Global Recognition of Kagame’s Health Leadership Resonates at Home and Beyond",
+   "summary_en": "When international bodies from the World Health Organization (WHO) honor President Kagame for championing global pandemic prevention and preparedness, to international oncology platforms naming him among the world’s top leaders… The post Why Global Recognition of Kagame’s Health Leadership Resonates at Home and Beyond appeared first on KT PRESS .",
+   "share_id": "MN202611_15zvyyart1s"
+  },
+  {
+   "id": "crawl_1bj5cqv",
+   "title": "Man City owners should be forced to sell, say rival club chiefs",
+   "summary": "Manchester City's owners must be forced to sell the club as punishment for breaking financial rules, senior figures at some Premier League clubs tell BBC Sport.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwp809d7yp4go?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwp809d7yp4go?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T06:38:14.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/483b/live/e37d1e90-e9e0-11f1-9361-cd8ed0157587.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/483b/live/e37d1e90-e9e0-11f1-9361-cd8ed0157587.jpg",
+   "title_en": "Man City owners should be forced to sell, say rival club chiefs",
+   "summary_en": "Manchester City's owners must be forced to sell the club as punishment for breaking financial rules, senior figures at some Premier League clubs tell BBC Sport.",
+   "share_id": "MN202611_1bj5cqvxa5h"
+  },
   {
    "id": "crawl_15pnv8z",
    "title": "When Rwanda Offers to Help Migrants, European Humanity Comes Out of Retirement",
@@ -262,5 +321,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T06:41:07.538Z"
+ "updated": "2026-11-27T07:02:16.481Z"
 }
