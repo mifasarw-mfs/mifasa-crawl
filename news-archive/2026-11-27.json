@@ -1,6 +1,6 @@
 {
  "day": "2026-11-27",
- "count": 35,
+ "count": 43,
  "articles": [
   {
    "id": "crawl_qnwlk7",
@@ -41,6 +41,26 @@
    "title_en": "Botman banned from driving for using phone at wheel",
    "summary_en": "The Newcastle United defender was given a six-month ban at Newcastle Magistrates' Court.",
    "share_id": "MN202611_1w1ctyt5qfn"
+  },
+  {
+   "id": "crawl_3an97l",
+   "title": "Ex media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
+   "summary": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
+   "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T10:28:35.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88cd/live/81fb0990-ea42-11f1-9fc4-ef897a334b75.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88cd/live/81fb0990-ea42-11f1-9fc4-ef897a334b75.jpg",
+   "title_en": "Ex media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
+   "summary_en": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
+   "share_id": "MN202611_3an97lg5of"
   },
   {
    "id": "crawl_1bhljls",
@@ -146,6 +166,46 @@
    "title_rw": "FRN yongereye ibice yafashe muri Teritwari ya Uvira mu gihe yarimo isubiza ibitero yagabweho na FARDC",
    "summary_rw": "Umutwe uhanganye na Leta ya Congo mu Burasirazuba bw’Igihugu, FRN yafashe utundi duce two muri Teritwari Uvira muri Kivu y’Amajyepfo, mu gihe yarimo isubiza ibitero yagabweho n’ingabo za Leta ya (…)",
    "share_id": "MN202611_axva6dlpib"
+  },
+  {
+   "id": "crawl_1dmco3u",
+   "title": "India busts cyberfraud and trafficking network rescuing 164 foreigners",
+   "summary": "Lured by IT job promises, the victims were allegedly forced into cybercrime, police say.",
+   "link": "https://www.bbc.co.uk/news/articles/crkgvjy7q83wo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/crkgvjy7q83wo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T10:01:07.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ba6/live/13325bf0-ea40-11f1-9fc4-ef897a334b75.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ba6/live/13325bf0-ea40-11f1-9fc4-ef897a334b75.jpg",
+   "title_en": "India busts cyberfraud and trafficking network rescuing 164 foreigners",
+   "summary_en": "Lured by IT job promises, the victims were allegedly forced into cybercrime, police say.",
+   "share_id": "MN202611_1dmco3u5kko"
+  },
+  {
+   "id": "crawl_18f4vc9",
+   "title": "Is it a cold, flu or Covid? How to tell the difference",
+   "summary": "How to tell if you have cold, flu or Covid and how to look after yourself.",
+   "link": "https://www.bbc.co.uk/news/articles/cly1rryv2ryo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cly1rryv2ryo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T09:43:38.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56e1/live/0441ff20-d6a4-11f0-8c06-f5d460985095.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56e1/live/0441ff20-d6a4-11f0-8c06-f5d460985095.jpg",
+   "title_en": "Is it a cold, flu or Covid? How to tell the difference",
+   "summary_en": "How to tell if you have cold, flu or Covid and how to look after yourself.",
+   "share_id": "MN202611_18f4vc9wzlz"
   },
   {
    "id": "crawl_ujp64f",
@@ -290,6 +350,26 @@
    "title_en": "Millions of wives in South Asia unprotected from marital rape - study",
    "summary_en": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
    "share_id": "MN202611_1mbth0qmdhk"
+  },
+  {
+   "id": "crawl_18s981b",
+   "title": "Italy's former police chief rejected mafia inquiry allegations before death",
+   "summary": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home.",
+   "link": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T07:28:10.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d573/live/2b6db3a0-e9b8-11f1-8d2a-f5d2aabc11cb.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d573/live/2b6db3a0-e9b8-11f1-8d2a-f5d2aabc11cb.jpg",
+   "title_en": "Italy's former police chief rejected mafia inquiry allegations before death",
+   "summary_en": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home.",
+   "share_id": "MN202611_18s981b24i5"
   },
   {
    "id": "crawl_19i9s1v",
@@ -450,6 +530,26 @@
    "share_id": "MN202611_15pnv8zp1w1"
   },
   {
+   "id": "crawl_1h8ierk",
+   "title": "EU leaders fail to bridge budget splits as talks stall",
+   "summary": "Aid for Ukraine was among the disputes as EU members hope to conclude talks by the end of the year.",
+   "link": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T06:11:55.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a83/live/c35a2570-ea0f-11f1-8868-df2967876f4c.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a83/live/c35a2570-ea0f-11f1-8868-df2967876f4c.jpg",
+   "title_en": "EU leaders fail to bridge budget splits as talks stall",
+   "summary_en": "Aid for Ukraine was among the disputes as EU members hope to conclude talks by the end of the year.",
+   "share_id": "MN202611_1h8ierkbb8e"
+  },
+  {
    "id": "crawl_1dm63lh",
    "title": "Council to set London's highest littering fines",
    "summary": "Fines for littering will rise from £500 to £750 in Harrow, while fly-tipping will see a £5,000 penalty.",
@@ -490,6 +590,26 @@
    "share_id": "MN202611_fi9j9m66co"
   },
   {
+   "id": "crawl_tbpdez",
+   "title": "Leaders clash in final Spain election debate as housing dominates run-in",
+   "summary": "The struggle many face in buying a home has been the biggest issue of a bitter campaign.",
+   "link": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T06:03:39.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5a0/live/2d2b3d80-ea39-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5a0/live/2d2b3d80-ea39-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Leaders clash in final Spain election debate as housing dominates run-in",
+   "summary_en": "The struggle many face in buying a home has been the biggest issue of a bitter campaign.",
+   "share_id": "MN202611_tbpdezi9vt"
+  },
+  {
    "id": "crawl_1a2cn2b",
    "title": "Reform UK pledges to scrap hospital parking fees in England",
    "summary": "The party says it would compensate NHS trusts for lost fees by charging foreign nationals more for care.",
@@ -508,6 +628,46 @@
    "title_en": "Reform UK pledges to scrap hospital parking fees in England",
    "summary_en": "The party says it would compensate NHS trusts for lost fees by charging foreign nationals more for care.",
    "share_id": "MN202611_1a2cn2b5jj5"
+  },
+  {
+   "id": "crawl_1kxr3d5",
+   "title": "Mushroom murderer Erin Patterson launches last-ditch High Court appeal",
+   "summary": "Erin Patterson is serving life in prison for poisoning her relatives with a toxic mushroom lunch in 2023.",
+   "link": "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T05:54:38.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fe1/live/e746c130-ea16-11f1-bb90-c99309416892.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fe1/live/e746c130-ea16-11f1-bb90-c99309416892.jpg",
+   "title_en": "Mushroom murderer Erin Patterson launches last-ditch High Court appeal",
+   "summary_en": "Erin Patterson is serving life in prison for poisoning her relatives with a toxic mushroom lunch in 2023.",
+   "share_id": "MN202611_1kxr3d5jztz"
+  },
+  {
+   "id": "crawl_1gvv032",
+   "title": "Venezuela to scrap law that bars opposition from public office",
+   "summary": "The legislation has been criticised for enabling political persecution since it was introduced two years ago.",
+   "link": "https://www.bbc.co.uk/news/articles/c58j4pw9xjrlo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c58j4pw9xjrlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T05:35:10.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6616/live/f53c94f0-ea1f-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6616/live/f53c94f0-ea1f-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Venezuela to scrap law that bars opposition from public office",
+   "summary_en": "The legislation has been criticised for enabling political persecution since it was introduced two years ago.",
+   "share_id": "MN202611_1gvv032nwjw"
   },
   {
    "id": "crawl_1nzmubb",
@@ -710,5 +870,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T10:47:53.514Z"
+ "updated": "2026-11-27T10:55:47.727Z"
 }
