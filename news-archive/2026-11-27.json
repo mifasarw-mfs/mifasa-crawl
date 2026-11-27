@@ -1,6 +1,6 @@
 {
  "day": "2026-11-27",
- "count": 110,
+ "count": 111,
  "articles": [
   {
    "id": "crawl_7yi676",
@@ -44,6 +44,26 @@
    "title_en": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
    "summary_en": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
    "share_id": "MN202611_1kx230luzhf"
+  },
+  {
+   "id": "crawl_pjye9v",
+   "title": "Wilshere v Ramsey - Arsenal legends treading similar managerial paths",
+   "summary": "Eighteen years after making their Premier League debuts two minutes apart, Jack Wilshere and Aaron Ramsey meet as managers.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm1dvn9w1px4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm1dvn9w1px4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T22:58:49.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bf9/live/42579250-ea73-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bf9/live/42579250-ea73-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Wilshere v Ramsey - Arsenal legends treading similar managerial paths",
+   "summary_en": "Eighteen years after making their Premier League debuts two minutes apart, Jack Wilshere and Aaron Ramsey meet as managers.",
+   "share_id": "MN202611_pjye9vqboh"
   },
   {
    "id": "crawl_1vqq73t",
@@ -2268,5 +2288,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T23:16:09.650Z"
+ "updated": "2026-11-27T23:43:14.935Z"
 }
