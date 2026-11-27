@@ -1,7 +1,74 @@
 {
  "day": "2026-11-27",
- "count": 93,
+ "count": 96,
  "articles": [
+  {
+   "id": "crawl_lip9ms",
+   "title": "Abarwaye Diyabete, SIDA barasaba kongererwa ubumenyi bwo kwiyitaho",
+   "summary": "Abarwayi ba Diyabete n’ababana na Virusi itera Sida barasaba ko hashyirwa imbaraga mu kubongerera ubumenyi n’ubushobozi bwo kwiyitaho, kuko kubura amakuru ahagije ku buryo bwo guhangana n’indwara (…)",
+   "link": "https://www.kigalitoday.com/agaseke-ka-weekend/ati-iki/article/abarwaye-diyabete-sida-barasaba-kongererwa-ubumenyi-bwo-kwiyitaho",
+   "url": "https://www.kigalitoday.com/agaseke-ka-weekend/ati-iki/article/abarwaye-diyabete-sida-barasaba-kongererwa-ubumenyi-bwo-kwiyitaho",
+   "date": "2026-11-27T20:43:00.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Ati iki?",
+    "Tarib Abdul",
+    "AKW-042",
+    "AKW-042-MAIN"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/2026-11-27_22_35_38-images_447_447_.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-27_22_35_38-images_447_447_.png",
+   "title_rw": "Abarwaye Diyabete, SIDA barasaba kongererwa ubumenyi bwo kwiyitaho",
+   "summary_rw": "Abarwayi ba Diyabete n’ababana na Virusi itera Sida barasaba ko hashyirwa imbaraga mu kubongerera ubumenyi n’ubushobozi bwo kwiyitaho, kuko kubura amakuru ahagije ku buryo bwo guhangana n’indwara (…)",
+   "share_id": "MN202611_lip9ms2iw2"
+  },
+  {
+   "id": "crawl_szcwbg",
+   "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+   "summary": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
+   "link": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T20:34:45.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a324/live/235d3bb0-ea97-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a324/live/235d3bb0-ea97-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+   "summary_en": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
+   "share_id": "MN202611_szcwbg5ssa"
+  },
+  {
+   "id": "crawl_wuugbb",
+   "title": "Igisirikare cya Uganda cyasubije RDC iherutse kwamagana amagambo ya General Muhoozi",
+   "summary": "Igisirikare cya Uganda (UPDF) cyatangaje ko kizakomeza gukurikirana abarwanyi b’umutwe w’iterabwoba wa ADF n’abayobozi bawo aho bahungira hose mu Burasirazuba bwa Repubulika Iharanira Demokarasi (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/igisirikare-cya-uganda-cyasubije-rdc-iherutse-kwamagana-amagambo-ya-general-muhoozi",
+   "url": "https://www.kigalitoday.com/amakuru/mu-mahanga/article/igisirikare-cya-uganda-cyasubije-rdc-iherutse-kwamagana-amagambo-ya-general-muhoozi",
+   "date": "2026-11-27T20:29:55.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu mahanga",
+    "MobileBigStory",
+    "Ruzindana Janvier"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/2026-11-27_22_14_10-ff601720-e97c-11f1-99b6-a35a62fa4264.jpg_webp_800_450_.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-27_22_14_10-ff601720-e97c-11f1-99b6-a35a62fa4264.jpg_webp_800_450_.png",
+   "title_rw": "Igisirikare cya Uganda cyasubije RDC iherutse kwamagana amagambo ya General Muhoozi",
+   "summary_rw": "Igisirikare cya Uganda (UPDF) cyatangaje ko kizakomeza gukurikirana abarwanyi b’umutwe w’iterabwoba wa ADF n’abayobozi bawo aho bahungira hose mu Burasirazuba bwa Repubulika Iharanira Demokarasi (…)",
+   "share_id": "MN202611_wuugbb28c5"
+  },
   {
    "id": "crawl_136763w",
    "title": "Rayon Sports itsinze Kiyovu Sports ifata umwanya wa kane by'agateganyo",
@@ -1915,5 +1982,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T20:26:42.844Z"
+ "updated": "2026-11-27T20:46:16.193Z"
 }
