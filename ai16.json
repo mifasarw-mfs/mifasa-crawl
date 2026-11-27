@@ -8031,6 +8031,78 @@
    ],
    "auto": true,
    "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_d019ee75_q",
+   "label_rw": "Ubuvuzi bwa gakondo mu Rwanda",
+   "label_en": "Traditional medicine in Rwanda",
+   "patterns_en": [
+    "What does traditional medicine in Rwanda use?",
+    "How is traditional medicine passed down?",
+    "Why do people use traditional medicine?"
+   ],
+   "patterns_rw": [
+    "Ubuvuzi bwa gakondo mu Rwanda bukoresha iki?",
+    "Imiti ya gakondo ihererekanywa gute?",
+    "Ni iki gituma abantu bitabira ubuvuzi bwa gakondo?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubuvuzi bwa gakondo mu Rwanda bushingiye ku ikoreshwa ry'ibiti n'ibyatsi bifite imiti. Abavuzi ba gakondo bakoresha imizi, amababi n'amavuta y'umwimerere mu kuvura indwara zitandukanye. Ubu buryo bw'ingenzi bwagiye buhererekanywa mu bisekuruza ku buryo bw'umunwa.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Traditional medicine in Rwanda is based on the use of medicinal plants and herbs. Traditional healers use roots, leaves, and natural oils to treat various ailments. This important practice has generally been passed down through generations orally.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_c071ab14_q",
+   "label_rw": "Uburyo bwa gakondo bwo kubara ibihe n'amasaha mu Rwanda",
+   "label_en": "Traditional Rwandan calendar and time reckoning",
+   "patterns_en": [
+    "How did ancient Rwandans measure time?",
+    "What indicated the months in traditional Rwanda?",
+    "How were traditional times of day described?"
+   ],
+   "patterns_rw": [
+    "Ni gute abanyarwanda bo hambere babaraga igihe?",
+    "Ni iki cyagaragazaga ukwezi muri gakondo y'u Rwanda?",
+    "Amagambo y'amasaha ya gakondo yavugwaga ate?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Abanyarwanda bo hambere bafataga igihe bashingiye ku miterere y'ikirere, ukwezi, n'imikorere y'ibiremwa. Umwaka wari ugizwe n'ibihe by'ihinga n'iby'isarura. Masaha yitiranishwaga n'ibikorwa bya buri munsi nk'uko inkoko zirira cyangwa izuba rirenze.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Historically, Rwandans measured time based on weather patterns, the moon cycles, and daily natural activities. The year was divided into agricultural seasons corresponding to planting and harvesting. Time of day was typically estimated using daily events like rooster crows or sunset.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_216b2934_q",
+   "label_rw": "Uburyo bwa Gakondo bwo Kwerekana Inzira mu Rwanda",
+   "label_en": "Traditional Navigation and Orientation in Rwanda",
+   "patterns_en": [
+    "What traditional methods did Rwandans use for navigation?",
+    "How did hills help people find directions in ancient Rwanda?",
+    "How did early travelers avoid getting lost in forests?"
+   ],
+   "patterns_rw": [
+    "Ni ubuhe buryo bwa gakondo abanyarwanda bakoreshaga bamenya inzira?",
+    "Ese imisozi yafashaga gute mu kwerekana icyerekezo mu Rwanda rwa kera?",
+    "Ni gute abantu bagenzuzi ba kera birindaga gutakara mu mashyamba?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Abanyarwanda ba kera bakoreshaga ibintu bitandukanye kugira ngo bamenye icyerekezo n'inzira mu ngendo zabo. Bitaga ku izuba ry’igitondo n'iry'iburengerazuba, imiterere y'imisozi, inzuzi, ndetse n'ibiti bikomeye. Nanone kandi, bazirikanaga ibyerekezo by'imiyaga n'amajwi y'ibintu runaka mu duce tw'icyaro kugira ngo badatakara mu mashyamba cyangwa mu nzira z'amahuriro.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Historically, Rwandans used various natural markers to determine direction and navigate during their journeys. They observed the position of the sun, the topography of hills and rivers, as well as prominent trees. Additionally, they often paid attention to wind patterns and familiar sounds in rural areas to avoid getting lost in forests or at major crossroads.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
   }
  ],
  "knowledge": [
@@ -14647,6 +14719,66 @@
    ],
    "auto": true,
    "taught": "2026-11-26"
+  },
+  {
+   "id": "ai16_d019ee75",
+   "category": "rwanda",
+   "title_rw": "Ubuvuzi bwa gakondo mu Rwanda",
+   "title_en": "Traditional medicine in Rwanda",
+   "summary_rw": "Ubuvuzi bwa gakondo mu Rwanda bushingiye ku ikoreshwa ry'ibiti n'ibyatsi bifite imiti. Abavuzi ba gakondo bakoresha imizi, amababi n'amavuta y'umwimerere mu kuvura indwara zitandukanye. Ubu buryo bw'ingenzi bwagiye buhererekanywa mu bisekuruza ku buryo bw'umunwa.",
+   "summary_en": "Traditional medicine in Rwanda is based on the use of medicinal plants and herbs. Traditional healers use roots, leaves, and natural oils to treat various ailments. This important practice has generally been passed down through generations orally.",
+   "keywords": [
+    "ubuvuzi",
+    "gakondo",
+    "imiti",
+    "ibyatsi",
+    "rwanda",
+    "medicine",
+    "traditional",
+    "herbs"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_c071ab14",
+   "category": "rwanda",
+   "title_rw": "Uburyo bwa gakondo bwo kubara ibihe n'amasaha mu Rwanda",
+   "title_en": "Traditional Rwandan calendar and time reckoning",
+   "summary_rw": "Abanyarwanda bo hambere bafataga igihe bashingiye ku miterere y'ikirere, ukwezi, n'imikorere y'ibiremwa. Umwaka wari ugizwe n'ibihe by'ihinga n'iby'isarura. Masaha yitiranishwaga n'ibikorwa bya buri munsi nk'uko inkoko zirira cyangwa izuba rirenze.",
+   "summary_en": "Historically, Rwandans measured time based on weather patterns, the moon cycles, and daily natural activities. The year was divided into agricultural seasons corresponding to planting and harvesting. Time of day was typically estimated using daily events like rooster crows or sunset.",
+   "keywords": [
+    "gakondo",
+    "ibihe",
+    "igihe",
+    "ukwezi",
+    "calendar",
+    "time",
+    "rwanda",
+    "seasons"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_216b2934",
+   "category": "rwanda",
+   "title_rw": "Uburyo bwa Gakondo bwo Kwerekana Inzira mu Rwanda",
+   "title_en": "Traditional Navigation and Orientation in Rwanda",
+   "summary_rw": "Abanyarwanda ba kera bakoreshaga ibintu bitandukanye kugira ngo bamenye icyerekezo n'inzira mu ngendo zabo. Bitaga ku izuba ry’igitondo n'iry'iburengerazuba, imiterere y'imisozi, inzuzi, ndetse n'ibiti bikomeye. Nanone kandi, bazirikanaga ibyerekezo by'imiyaga n'amajwi y'ibintu runaka mu duce tw'icyaro kugira ngo badatakara mu mashyamba cyangwa mu nzira z'amahuriro.",
+   "summary_en": "Historically, Rwandans used various natural markers to determine direction and navigate during their journeys. They observed the position of the sun, the topography of hills and rivers, as well as prominent trees. Additionally, they often paid attention to wind patterns and familiar sounds in rural areas to avoid getting lost in forests or at major crossroads.",
+   "keywords": [
+    "icyerekezo",
+    "direction",
+    "gakondo",
+    "traditional",
+    "ingendo",
+    "travel",
+    "imisozi",
+    "hills"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
   }
  ]
 }
