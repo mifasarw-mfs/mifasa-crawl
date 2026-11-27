@@ -8511,6 +8511,77 @@
    ],
    "auto": true,
    "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_4f387302_q",
+   "label_rw": "Umukandara w'Umuriro wo mu Nyanja y'Amahoro",
+   "label_en": "The Pacific Ring of Fire",
+   "patterns_en": [
+    "What causes frequent earthquakes in this region?",
+    "Why is it called the Ring of Fire?"
+   ],
+   "patterns_rw": [
+    "Umukandara w'Umuriro uherereye hehe?",
+    "Niuki utera imitingito myinshi muri iki gace?",
+    "Kuki iki gace kitwa umukandara w'umuriro?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Umukandara w'Umuriro ni agace kari hafi y'inyanja ya Pacific. Iki gace kagizwe n'ibirunga byinshi n'imitingito ikomeye. Ni ho hagaragara imitingito myinshi ku isi. Byiterwa no guterana kw'amasahani y'isi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The Ring of Fire is a major area in the basin of the Pacific Ocean. It is associated with a continuous series of oceanic trenches, volcanic arcs, and volcanic belts. It experiences a large number of earthquakes and volcanic eruptions due to plate tectonics.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_89a7a7da_q",
+   "label_rw": "Imiyoboro Ikomeye y'Amazi yo mu Nyanja",
+   "label_en": "Major Ocean Currents",
+   "patterns_en": [
+    "What causes major ocean currents?",
+    "How do ocean currents affect the global climate?",
+    "What drives the movement of seawater in oceans?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera imiyoboro y'amazi yo mu nyanja?",
+    "Imiyoboro y'amazi igira uruhare ki ku kirere?",
+    "Ese imiyoboro y'amazi itembera mu biki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imiyoboro y'amazi yo mu nyanja ni amazi atembera mu nyanja afite icyerekezo kizwi. Iyi miyoboro iterwa n'umuyaga, kuzenguruka kw'isi, n'ubushyuhe bw'amazi. Igira uruhare rukomeye mu kugenga ikirere cy'isi no mu gutwara ubushyuhe ku isi hose.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Ocean currents are continuous movements of seawater driven by wind, Earth's rotation, and water density differences. They play a crucial role in regulating global climate and distributing heat around the world.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_52d70727_q",
+   "label_rw": "Ibisate Bikomeye bigize Isi",
+   "label_en": "Major Tectonic Plates",
+   "patterns_en": [
+    "What causes the movement of the Earth's tectonic plates?",
+    "What geological activities are caused by tectonic plates?",
+    "How many major tectonic plates are there on Earth?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera kwigenda kw'ibisate bigize Isi?",
+    "Ni izihe ngaruka ziterwa n'imyitwarire y'ibisate bya tectonic?",
+    "Ni amateka ki ajyanye n'ibisate bikomeye bigize Isi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Igishishwa cy'Isi kigizwe n'ibisate binini n'ibito byitwa ibisate bya tectonic. Ibisate bikomeye bigize Isi birindwi cyangwa umunani bifite ubunini bunini. Bigenda buhoro cyane ku munsi kuri asthenosphere. Uku kwigenda gutera ibikorwa nk'imitingito y'isi, ibirunga, no kuremwa kw'imisozi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "The Earth's crust is divided into large and small pieces called tectonic plates. There are about seven or eight major tectonic plates. They move very slowly on top of the asthenosphere. This movement causes geological activities such as earthquakes, volcanoes, and the formation of mountains.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
   }
  ],
  "knowledge": [
@@ -15519,6 +15590,66 @@
     "microinsurance",
     "business",
     "risk"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_4f387302",
+   "category": "world",
+   "title_rw": "Umukandara w'Umuriro wo mu Nyanja y'Amahoro",
+   "title_en": "The Pacific Ring of Fire",
+   "summary_rw": "Umukandara w'Umuriro ni agace kari hafi y'inyanja ya Pacific. Iki gace kagizwe n'ibirunga byinshi n'imitingito ikomeye. Ni ho hagaragara imitingito myinshi ku isi. Byiterwa no guterana kw'amasahani y'isi.",
+   "summary_en": "The Ring of Fire is a major area in the basin of the Pacific Ocean. It is associated with a continuous series of oceanic trenches, volcanic arcs, and volcanic belts. It experiences a large number of earthquakes and volcanic eruptions due to plate tectonics.",
+   "keywords": [
+    "imiriro",
+    "ibirunga",
+    "imitingito",
+    "pacific",
+    "isi",
+    "amasahani",
+    "ring",
+    "fire"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_89a7a7da",
+   "category": "world",
+   "title_rw": "Imiyoboro Ikomeye y'Amazi yo mu Nyanja",
+   "title_en": "Major Ocean Currents",
+   "summary_rw": "Imiyoboro y'amazi yo mu nyanja ni amazi atembera mu nyanja afite icyerekezo kizwi. Iyi miyoboro iterwa n'umuyaga, kuzenguruka kw'isi, n'ubushyuhe bw'amazi. Igira uruhare rukomeye mu kugenga ikirere cy'isi no mu gutwara ubushyuhe ku isi hose.",
+   "summary_en": "Ocean currents are continuous movements of seawater driven by wind, Earth's rotation, and water density differences. They play a crucial role in regulating global climate and distributing heat around the world.",
+   "keywords": [
+    "inyanja",
+    "ocean",
+    "amazi",
+    "water",
+    "ikirere",
+    "climate",
+    "ubushyuhe",
+    "heat"
+   ],
+   "auto": true,
+   "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_52d70727",
+   "category": "world",
+   "title_rw": "Ibisate Bikomeye bigize Isi",
+   "title_en": "Major Tectonic Plates",
+   "summary_rw": "Igishishwa cy'Isi kigizwe n'ibisate binini n'ibito byitwa ibisate bya tectonic. Ibisate bikomeye bigize Isi birindwi cyangwa umunani bifite ubunini bunini. Bigenda buhoro cyane ku munsi kuri asthenosphere. Uku kwigenda gutera ibikorwa nk'imitingito y'isi, ibirunga, no kuremwa kw'imisozi.",
+   "summary_en": "The Earth's crust is divided into large and small pieces called tectonic plates. There are about seven or eight major tectonic plates. They move very slowly on top of the asthenosphere. This movement causes geological activities such as earthquakes, volcanoes, and the formation of mountains.",
+   "keywords": [
+    "tectonic",
+    "ibisate",
+    "isi",
+    "imitingito",
+    "ibirunga",
+    "plates",
+    "earth",
+    "geology"
    ],
    "auto": true,
    "taught": "2026-11-27"
