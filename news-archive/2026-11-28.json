@@ -1,7 +1,27 @@
 {
  "day": "2026-11-28",
- "count": 63,
+ "count": 64,
  "articles": [
+  {
+   "id": "crawl_1l5hbb6",
+   "title": "'Companies shouldn't need a child to tell them they're wrong' says girl on plastic toys in magazines",
+   "summary": "Skye Neville was just 10 when she started campaigning against single-use plastic in comics.",
+   "link": "https://www.bbc.co.uk/news/articles/c9p83xpeegz8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c9p83xpeegz8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T17:30:49.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a71/live/cf044520-e0fc-11f1-bf0e-b9e6941e1cc7.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a71/live/cf044520-e0fc-11f1-bf0e-b9e6941e1cc7.jpg",
+   "title_en": "'Companies shouldn't need a child to tell them they're wrong' says girl on plastic toys in magazines",
+   "summary_en": "Skye Neville was just 10 when she started campaigning against single-use plastic in comics.",
+   "share_id": "MN202611_1l5hbb6a7s0"
+  },
   {
    "id": "crawl_1dpvm54",
    "title": "Europe-chasing Leeds can 'dream big' - Farke",
@@ -1285,5 +1305,5 @@
    "share_id": "MN202611_1yioyz2hvfw"
   }
  ],
- "updated": "2026-11-28T17:28:57.703Z"
+ "updated": "2026-11-28T17:36:25.649Z"
 }
