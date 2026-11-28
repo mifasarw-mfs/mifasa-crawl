@@ -1,7 +1,67 @@
 {
  "day": "2026-11-28",
- "count": 34,
+ "count": 37,
  "articles": [
+  {
+   "id": "crawl_1fggbfh",
+   "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+   "summary": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.",
+   "link": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T11:35:34.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f0d/live/51e85220-eb10-11f1-874e-81d351dd336c.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f0d/live/51e85220-eb10-11f1-874e-81d351dd336c.jpg",
+   "title_en": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+   "summary_en": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.",
+   "share_id": "MN202611_1fggbfh97wb"
+  },
+  {
+   "id": "crawl_hfe0qu",
+   "title": "Burundi: Ekleziya yatse Patiri Abeli Nduwimana amabanga yose, inyuma y'uko yinjiye muri politike",
+   "summary": "Ni ubwa mbere mu mateka y'Uburundi habonetse umupatiri, yari akiri mu mabanga, yinjiye icese muri politike.",
+   "link": "https://www.bbc.com/gahuza/articles/cj1dvqr4vr6wo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/cj1dvqr4vr6wo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T11:10:00.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6d47/live/4ecf0330-eb1b-11f1-90b9-a9d17de9c0bd.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6d47/live/4ecf0330-eb1b-11f1-90b9-a9d17de9c0bd.jpg",
+   "title_rw": "Burundi: Ekleziya yatse Patiri Abeli Nduwimana amabanga yose, inyuma y'uko yinjiye muri politike",
+   "summary_rw": "Ni ubwa mbere mu mateka y'Uburundi habonetse umupatiri, yari akiri mu mabanga, yinjiye icese muri politike.",
+   "share_id": "MN202611_hfe0qu6x7o"
+  },
+  {
+   "id": "crawl_1jx7reo",
+   "title": "Women Win Eight Mayoral Seats, Hold 38% of District Leadership Positions",
+   "summary": "The month-long local government electoral season has come to an end, with district leadership teams across Rwanda now fully constituted, except in the three City of Kigali districts of Nyarugenge,… The post Women Win Eight Mayoral Seats, Hold 38% of District Leadership Positions appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/women-win-eight-mayoral-seats-hold-38-of-district-leadership-positions/",
+   "url": "https://www.ktpress.rw/2026/11/women-win-eight-mayoral-seats-hold-38-of-district-leadership-positions/",
+   "date": "2026-11-28T11:00:56.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "Special Reports",
+    "big-story"
+   ],
+   "title_en": "Women Win Eight Mayoral Seats, Hold 38% of District Leadership Positions",
+   "summary_en": "The month-long local government electoral season has come to an end, with district leadership teams across Rwanda now fully constituted, except in the three City of Kigali districts of Nyarugenge,… The post Women Win Eight Mayoral Seats, Hold 38% of District Leadership Positions appeared first on KT PRESS .",
+   "share_id": "MN202611_1jx7reop5b2"
+  },
   {
    "id": "crawl_ehhroi",
    "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
@@ -692,5 +752,5 @@
    "share_id": "MN202611_1yioyz2hvfw"
   }
  ],
- "updated": "2026-11-28T10:43:02.640Z"
+ "updated": "2026-11-28T11:40:47.350Z"
 }
