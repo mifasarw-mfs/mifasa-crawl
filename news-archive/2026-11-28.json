@@ -1,7 +1,27 @@
 {
  "day": "2026-11-28",
- "count": 47,
+ "count": 48,
  "articles": [
+  {
+   "id": "crawl_1i7laij",
+   "title": "England call up Wubben-Moy for World Cup play-off",
+   "summary": "Arsenal defender Lotte Wubben-Moy is called up to the England squad for next month's Women's World Cup play-off ties against Ukraine, with Lauren Hemp and Jess Carter withdrawing.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwe9krv444mjo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwe9krv444mjo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T13:41:04.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3acf/live/179ec7d0-eb32-11f1-90ed-eddb35ebb81a.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3acf/live/179ec7d0-eb32-11f1-90ed-eddb35ebb81a.jpg",
+   "title_en": "England call up Wubben-Moy for World Cup play-off",
+   "summary_en": "Arsenal defender Lotte Wubben-Moy is called up to the England squad for next month's Women's World Cup play-off ties against Ukraine, with Lauren Hemp and Jess Carter withdrawing.",
+   "share_id": "MN202611_1i7laijd7x5"
+  },
   {
    "id": "crawl_137o0sm",
    "title": "Uganda’s Shift Shatters Tshisekedi’s Anti-Rwanda Narrative in Eastern Congo",
@@ -953,5 +973,5 @@
    "share_id": "MN202611_1yioyz2hvfw"
   }
  ],
- "updated": "2026-11-28T13:39:34.024Z"
+ "updated": "2026-11-28T13:56:07.599Z"
 }
