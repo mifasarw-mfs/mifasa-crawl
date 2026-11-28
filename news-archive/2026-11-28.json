@@ -1,7 +1,27 @@
 {
  "day": "2026-11-28",
- "count": 9,
+ "count": 10,
  "articles": [
+  {
+   "id": "crawl_9gai17",
+   "title": "Pharmacies get new powers to swap prescriptions during shortages",
+   "summary": "If a medicine is out of stock, staff can offer the same drug in a different strength or form, like a capsule instead of a pill.",
+   "link": "https://www.bbc.co.uk/news/articles/cw5y1pelzm8ro?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw5y1pelzm8ro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T06:00:11.000Z",
+   "source": "BBC Health",
+   "category": "health",
+   "lang": "en",
+   "keywords": [
+    "BBC Health",
+    "health"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d4d/live/7569eb90-ea5d-11f1-89b9-f318b11567ea.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d4d/live/7569eb90-ea5d-11f1-89b9-f318b11567ea.jpg",
+   "title_en": "Pharmacies get new powers to swap prescriptions during shortages",
+   "summary_en": "If a medicine is out of stock, staff can offer the same drug in a different strength or form, like a capsule instead of a pill.",
+   "share_id": "MN202611_9gai173ei1"
+  },
   {
    "id": "crawl_t43mkl",
    "title": "Kenya: Umukuru w'urushengero rwizera ko umuhero w'isi wegereje yagiriwe n'impfu z'abandi bantu 123",
@@ -183,5 +203,5 @@
    "share_id": "MN202611_1yioyz2hvfw"
   }
  ],
- "updated": "2026-11-28T05:14:33.730Z"
+ "updated": "2026-11-28T06:14:34.748Z"
 }
