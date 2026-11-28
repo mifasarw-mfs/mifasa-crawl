@@ -1,7 +1,50 @@
 {
  "day": "2026-11-28",
- "count": 48,
+ "count": 50,
  "articles": [
+  {
+   "id": "crawl_1jbceaa",
+   "title": "U Rwanda rugiye gutangiza umuti utangwa kabiri mu mwaka mu rwego rwo gukumira SIDA",
+   "summary": "U Rwanda rugiye gutangiza umuti wa Lenacapavir, utangwa mu rushinge kabiri mu mwaka, ugamije gufasha abantu batanduye virusi itera SIDA kwirinda kwandura. Ni gahunda nshya igamije kongera uburyo (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/u-rwanda-rugiye-gutangiza-umuti-utangwa-kabiri-mu-mwaka-mu-rwego-rwo-gukumira-sida",
+   "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/u-rwanda-rugiye-gutangiza-umuti-utangwa-kabiri-mu-mwaka-mu-rwego-rwo-gukumira-sida",
+   "date": "2026-11-28T14:24:54.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu Rwanda",
+    "MobileBigStory",
+    "Jean de la Croix Tabaro"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/2026-11-28_16_22_41-six-month_hiv_prevention_injection_set_for_rollout_by_year-end_-_the_new_times.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-28_16_22_41-six-month_hiv_prevention_injection_set_for_rollout_by_year-end_-_the_new_times.png",
+   "title_rw": "U Rwanda rugiye gutangiza umuti utangwa kabiri mu mwaka mu rwego rwo gukumira SIDA",
+   "summary_rw": "U Rwanda rugiye gutangiza umuti wa Lenacapavir, utangwa mu rushinge kabiri mu mwaka, ugamije gufasha abantu batanduye virusi itera SIDA kwirinda kwandura. Ni gahunda nshya igamije kongera uburyo (…)",
+   "share_id": "MN202611_1jbceaaoc4w"
+  },
+  {
+   "id": "crawl_4qw1he",
+   "title": "Swansea close in on Alexandersson as next boss",
+   "summary": "Swansea City are close to agreeing a deal to appoint Freyr Alexandersson as their new head coach.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwj0579d8jvpo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwj0579d8jvpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T13:56:02.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32da/live/2a878c80-eb30-11f1-8c00-ff7035d56586.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32da/live/2a878c80-eb30-11f1-8c00-ff7035d56586.jpg",
+   "title_en": "Swansea close in on Alexandersson as next boss",
+   "summary_en": "Swansea City are close to agreeing a deal to appoint Freyr Alexandersson as their new head coach.",
+   "share_id": "MN202611_4qw1hes0v4"
+  },
   {
    "id": "crawl_1i7laij",
    "title": "England call up Wubben-Moy for World Cup play-off",
@@ -973,5 +1016,5 @@
    "share_id": "MN202611_1yioyz2hvfw"
   }
  ],
- "updated": "2026-11-28T13:56:07.599Z"
+ "updated": "2026-11-28T14:27:12.600Z"
 }
