@@ -1,7 +1,28 @@
 {
  "day": "2026-11-28",
- "count": 24,
+ "count": 27,
  "articles": [
+  {
+   "id": "crawl_3diriy",
+   "title": "\"Twahagaritse imodoka ya UNAR turamira akana kacu\" Ubuzima bwa Mariya Yohana",
+   "summary": "\"Twahagaritse imodoka ya UNAR turamira akana kacu\" Ubuzima bwa Mariya Yohana",
+   "link": "https://www.kigalitoday.com/amashusho/kt-tv/article/twahagaritse-imodoka-ya-unar-turamira-akana-kacu-ubuzima-bwa-mariya-yohana",
+   "url": "https://www.kigalitoday.com/amashusho/kt-tv/article/twahagaritse-imodoka-ya-unar-turamira-akana-kacu-ubuzima-bwa-mariya-yohana",
+   "date": "2026-11-28T09:25:11.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "KT TV"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/2026-11-28_11_24_04-_348__twahagaritse_imodoka_ya_unar_turamira_akana_kacu__ubuzima_bwa_mariya_yoha.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-28_11_24_04-_348__twahagaritse_imodoka_ya_unar_turamira_akana_kacu__ubuzima_bwa_mariya_yoha.png",
+   "title_rw": "\"Twahagaritse imodoka ya UNAR turamira akana kacu\" Ubuzima bwa Mariya Yohana",
+   "summary_rw": "\"Twahagaritse imodoka ya UNAR turamira akana kacu\" Ubuzima bwa Mariya Yohana",
+   "share_id": "MN202611_3diriyhawo"
+  },
   {
    "id": "crawl_1ee2odi",
    "title": "Guinea-Bissau: Amatora ya perezida yasubitswe mu gihe cy'imyaka ibiri",
@@ -21,6 +42,26 @@
    "title_rw": "Guinea-Bissau: Amatora ya perezida yasubitswe mu gihe cy'imyaka ibiri",
    "summary_rw": "Iryo tangazo rivuga ko gusubika amatora bizatanga igihe gihagije cyo kuyategura neza mu buryo bwizewe, agakorwa binyuze mu mucyo, aho abakandida bose bazahabwa amahirwe angana.",
    "share_id": "MN202611_1ee2odivkuc"
+  },
+  {
+   "id": "crawl_1vl042i",
+   "title": "Actor and comedian PJ Gallagher dies aged 51",
+   "summary": "PJ Gallagher appeared on Irish television for more than two decades with shows including Naked Camera and The Young Offenders.",
+   "link": "https://www.bbc.co.uk/news/articles/cwp83j2k31g3o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwp83j2k31g3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T08:34:16.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b7/live/11b79e90-eb0b-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b7/live/11b79e90-eb0b-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Actor and comedian PJ Gallagher dies aged 51",
+   "summary_en": "PJ Gallagher appeared on Irish television for more than two decades with shows including Naked Camera and The Young Offenders.",
+   "share_id": "MN202611_1vl042it0jc"
   },
   {
    "id": "crawl_1ulxl3t",
@@ -364,6 +405,26 @@
    "share_id": "MN202611_ythyelauvf"
   },
   {
+   "id": "crawl_1ux1q01",
+   "title": "Carly Rae Jepsen's viral hit proves what fans knew all along",
+   "summary": "The Call Me Maybe star returns to the UK Top 40 as her single Run Away With Me gets a GTA VI boost.",
+   "link": "https://www.bbc.co.uk/news/articles/cq3dgp88p744o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq3dgp88p744o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T03:03:36.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f840/live/b254cec0-e9b9-11f1-8d2a-f5d2aabc11cb.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f840/live/b254cec0-e9b9-11f1-8d2a-f5d2aabc11cb.jpg",
+   "title_en": "Carly Rae Jepsen's viral hit proves what fans knew all along",
+   "summary_en": "The Call Me Maybe star returns to the UK Top 40 as her single Run Away With Me gets a GTA VI boost.",
+   "share_id": "MN202611_1ux1q01umgv"
+  },
+  {
    "id": "crawl_xg84xr",
    "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
    "summary": "With an official PC version potentially still months away, fans are getting impatient.",
@@ -484,5 +545,5 @@
    "share_id": "MN202611_1yioyz2hvfw"
   }
  ],
- "updated": "2026-11-28T08:44:19.455Z"
+ "updated": "2026-11-28T09:43:11.421Z"
 }

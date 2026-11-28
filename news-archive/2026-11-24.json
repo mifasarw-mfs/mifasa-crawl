@@ -1,6 +1,6 @@
 {
  "day": "2026-11-24",
- "count": 108,
+ "count": 109,
  "articles": [
   {
    "id": "crawl_1iz1623",
@@ -301,6 +301,26 @@
    "title_en": "Tech Life",
    "summary_en": "Experts from around the world plot the progress of AI development every five years.",
    "share_id": "MN202611_1mkx3fbfw39"
+  },
+  {
+   "id": "crawl_drub6j",
+   "title": "Tech Life",
+   "summary": "Experts from around the world plot the progress of AI development every five years.",
+   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T21:00:00.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ppq4sx.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0ppq4sx.jpg",
+   "title_en": "Tech Life",
+   "summary_en": "Experts from around the world plot the progress of AI development every five years.",
+   "share_id": "MN202611_drub6jkl15"
   },
   {
    "id": "crawl_udta8j",
@@ -2193,5 +2213,5 @@
    "share_id": "MN202611_12o0ve6trv0"
   }
  ],
- "updated": "2026-11-27T02:34:43.241Z"
+ "updated": "2026-11-28T09:43:11.424Z"
 }
