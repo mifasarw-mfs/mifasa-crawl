@@ -9014,6 +9014,150 @@
    ],
    "auto": true,
    "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_22c5c150_q",
+   "label_rw": "Imiterere y'ikirere mu Rwanda",
+   "label_en": "Climate Patterns in Rwanda",
+   "patterns_en": [
+    "What is the climate like in Rwanda?",
+    "How many seasons does Rwanda have?",
+    "What is the average temperature in Rwanda?"
+   ],
+   "patterns_rw": [
+    "Imiterere y'ikirere mu Rwanda imeze ite?",
+    "u Rwanda rugira ibihe bingane iki?",
+    "Ubushyuhe buri rusange mu Rwanda bungana iki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "u Rwanda rufite ikirere cyoroheje cy'imisozi miremire. Ubushyuhe rusange bugereranywa na dogere selisiyusi makumyabiri ku munsi. Igihugu kigira ibihe bine by'ingenzi. Harimo ibihe bibiri by'imvura n'ibihe bibiri by'umye. Imvura nyinshi igwa mu misozi miremire.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Rwanda has a temperate tropical highland climate. Average daily temperatures are usually around twenty degrees Celsius. The country experiences four main seasons. This includes two rainy seasons and two dry seasons. Rainfall is generally highest in mountainous regions.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_5dc5fe16_q",
+   "label_rw": "Inyamaswa ziri mu kaga ko kuzimira mu Rwanda",
+   "label_en": "Endangered Species in Rwanda",
+   "patterns_en": [
+    "What animals are endangered in Rwanda?",
+    "Which national parks host wildlife in Rwanda?",
+    "What measures are taken to protect endangered animals?"
+   ],
+   "patterns_rw": [
+    "Ni izihe nyamaswa ziri mu kaga ko kuzimira mu Rwanda?",
+    "Ni izuhe pariki zibarizwamo inyamaswa zo mu Rwanda?",
+    "Ni izihe ngamba zafashwe zo kurengera inyamaswa?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "U Rwanda rufite inyamaswa nyinshi ziri mu kaga ko kuzimira. Muri zo harimo ingagi zo mu misozi na zimwe mu nyamaswa zo mu Pariki y'Igihugu ya Akagera na Nyungwe. Leta y'u Rwanda yashyizeho ingamba zo kuzirengera no kubungabunga ibidukikije kugira ngo zidashira.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Rwanda has several animal species facing the threat of extinction. These include mountain gorillas and various wildlife in Akagera National Park and Nyungwe. The government of Rwanda has implemented conservation measures to protect them and preserve their natural habitats.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_3e163c30_q",
+   "label_rw": "Pariki y'Igihugu y'Ibirunga",
+   "label_en": "Volcanoes National Park",
+   "patterns_en": [
+    "Where is Volcanoes National Park located in Rwanda?",
+    "What is the main attraction in Volcanoes National Park?",
+    "Why are protected areas important for biodiversity?"
+   ],
+   "patterns_rw": [
+    "Pariki y'Ibirunga iherereye he mu Rwanda?",
+    "Ni iki cy'ingenzi kiranga Pariki y'Ibirunga?",
+    "Kubungabunga pariki bifasha iki mu binyabuzima?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Pariki y'Igihugu y'Ibirunga iri mu majyaruguru y'u Rwanda. Ni ho hatuye ingagi zo mu misozi ziri mu kaga ko kuzimira. Iyi pariki ni ahantu hakingiye hafasha mu kubungabunga urusobe rw'ibinyabuzima n'iterambere ry'ubukerarugendo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Volcanoes National Park is located in northwestern Rwanda. It is a natural habitat for the endangered mountain gorilla. The park is a protected area that plays a crucial role in biodiversity conservation and tourism development.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_a4d0a1fb_q",
+   "label_rw": "Uburyo gakondo bwo kurengera ibidukikije",
+   "label_en": "Traditional Conservation Practices",
+   "patterns_en": [
+    "What traditional methods were used to protect the environment?",
+    "How did sacred trees help conservation?",
+    "How did ancient Rwandans prevent soil erosion?"
+   ],
+   "patterns_rw": [
+    "Ni ubuhe buryo gakondo bwakoreshwaga mu kurengera ibidukikije?",
+    "Ese ibiti biziririjwe byafashaga mu ki?",
+    "Ni gute abanyarwanda bo hambere barwanije isuri?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Abanyarwanda bo hambere bakoreshaga uburyo butandukanye bwo kurengera ibidukikije. Hariho ibiti n'ibyatsi byera ahantu haziririjwe. Ibi byafashaga kubungabunga amashyamba n'amazi. Imiryango kandi yari ifite inshingano zo kurinda imisozi n'ibibaya. Iyi migenzo yafashaga kurinda ubutaka ngo butatwarwa n'isuri.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Ancient Rwandans used various methods to protect the environment. Certain trees and plants grew in sacred sites. These practices helped preserve forests and water sources. Communities also had responsibilities to protect hills and valleys. These traditions helped prevent soil erosion.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_4a7925d8_q",
+   "label_rw": "Uturere tw'amazi n'isoko zayo mu Rwanda",
+   "label_en": "Water Catchment Areas in Rwanda",
+   "patterns_en": [
+    "What are the two main water basins in Rwanda?",
+    "Which forests help protect water sources?",
+    "Why is it important to protect water catchment areas?"
+   ],
+   "patterns_rw": [
+    "Ni ayahe matongo y'amazi abiri akuru mu Rwanda?",
+    "Ni ayahe mashyamba afasha mu kubungabunga amazi?",
+    "Kuki ari ngombwa kurengera uturere tw'amazi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "U Rwanda rufite uturere tw'amazi abiri akuru: icy'Akomoka kuri Nili n'icy'Akomoka kuri Kongo. Amashyamba nka Nyungwe na Gishwati afasha mu kubungabunga izi soko z'amazi. Kurengera ibi bice bifasha mu kurwanya isuri n'imihindagurikire y'ikirere.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Rwanda has two main water catchment areas: the Nile and the Congo basins. Forests like Nyungwe and Gishwati help protect these water sources. Protecting these areas helps prevent soil erosion and mitigates climate change.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_f51635db_q",
+   "label_rw": "Ubukerarugendo bushingiye ku bidukikije mu Rwanda",
+   "label_en": "Ecotourism and Conservation in Rwanda",
+   "patterns_en": [
+    "What is the importance of ecotourism?",
+    "How is the generated revenue used?",
+    "How do local communities benefit from this tourism?"
+   ],
+   "patterns_rw": [
+    "Ubukerarugendo bushingiye ku bidukikije bufite akahe kamaro?",
+    "Amafaranga yinjira akoreshwa iki?",
+    "Ni gute abaturage bungukira muri ubu bukerarugendo?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ubukerarugendo bushingiye ku bidukikije bufasha mu kubungabunga ibidukikije n'inyamaswa mu Rwanda. Buzana amafaranga yifashishwa mu kurinda Pariki y'Igihugu y'Ibirunga n'izindi. Kandi butanga imirimo ku baturage baturiye aho hantu.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Ecotourism helps in protecting the environment and wildlife in Rwanda. It generates revenue used to protect Volcanoes National Park and others. It also provides jobs to local communities living near these areas.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
   }
  ],
  "knowledge": [
@@ -16438,6 +16582,127 @@
     "tools",
     "equipment",
     "maintenance"
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_22c5c150",
+   "category": "environment",
+   "title_rw": "Imiterere y'ikirere mu Rwanda",
+   "title_en": "Climate Patterns in Rwanda",
+   "summary_rw": "u Rwanda rufite ikirere cyoroheje cy'imisozi miremire. Ubushyuhe rusange bugereranywa na dogere selisiyusi makumyabiri ku munsi. Igihugu kigira ibihe bine by'ingenzi. Harimo ibihe bibiri by'imvura n'ibihe bibiri by'umye. Imvura nyinshi igwa mu misozi miremire.",
+   "summary_en": "Rwanda has a temperate tropical highland climate. Average daily temperatures are usually around twenty degrees Celsius. The country experiences four main seasons. This includes two rainy seasons and two dry seasons. Rainfall is generally highest in mountainous regions.",
+   "keywords": [
+    "ikirere",
+    "climate",
+    "imvura",
+    "rain",
+    "ubushyuhe",
+    "temperature",
+    "u rwanda",
+    "rwanda"
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_5dc5fe16",
+   "category": "environment",
+   "title_rw": "Inyamaswa ziri mu kaga ko kuzimira mu Rwanda",
+   "title_en": "Endangered Species in Rwanda",
+   "summary_rw": "U Rwanda rufite inyamaswa nyinshi ziri mu kaga ko kuzimira. Muri zo harimo ingagi zo mu misozi na zimwe mu nyamaswa zo mu Pariki y'Igihugu ya Akagera na Nyungwe. Leta y'u Rwanda yashyizeho ingamba zo kuzirengera no kubungabunga ibidukikije kugira ngo zidashira.",
+   "summary_en": "Rwanda has several animal species facing the threat of extinction. These include mountain gorillas and various wildlife in Akagera National Park and Nyungwe. The government of Rwanda has implemented conservation measures to protect them and preserve their natural habitats.",
+   "keywords": [
+    "inyamaswa",
+    "animals",
+    "kuzimira",
+    "extinction",
+    "rwanda",
+    "ingagi",
+    "gorillas",
+    "ibidukikije",
+    "environment"
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_3e163c30",
+   "category": "environment",
+   "title_rw": "Pariki y'Igihugu y'Ibirunga",
+   "title_en": "Volcanoes National Park",
+   "summary_rw": "Pariki y'Igihugu y'Ibirunga iri mu majyaruguru y'u Rwanda. Ni ho hatuye ingagi zo mu misozi ziri mu kaga ko kuzimira. Iyi pariki ni ahantu hakingiye hafasha mu kubungabunga urusobe rw'ibinyabuzima n'iterambere ry'ubukerarugendo.",
+   "summary_en": "Volcanoes National Park is located in northwestern Rwanda. It is a natural habitat for the endangered mountain gorilla. The park is a protected area that plays a crucial role in biodiversity conservation and tourism development.",
+   "keywords": [
+    "pariki",
+    "park",
+    "ingagi",
+    "gorillas",
+    "u rwanda",
+    "rwanda",
+    "urusobe",
+    "biodiversity"
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_a4d0a1fb",
+   "category": "environment",
+   "title_rw": "Uburyo gakondo bwo kurengera ibidukikije",
+   "title_en": "Traditional Conservation Practices",
+   "summary_rw": "Abanyarwanda bo hambere bakoreshaga uburyo butandukanye bwo kurengera ibidukikije. Hariho ibiti n'ibyatsi byera ahantu haziririjwe. Ibi byafashaga kubungabunga amashyamba n'amazi. Imiryango kandi yari ifite inshingano zo kurinda imisozi n'ibibaya. Iyi migenzo yafashaga kurinda ubutaka ngo butatwarwa n'isuri.",
+   "summary_en": "Ancient Rwandans used various methods to protect the environment. Certain trees and plants grew in sacred sites. These practices helped preserve forests and water sources. Communities also had responsibilities to protect hills and valleys. These traditions helped prevent soil erosion.",
+   "keywords": [
+    "ibidukikije",
+    "environment",
+    "uburyo",
+    "practices",
+    "amashyamba",
+    "forests",
+    "kurengera",
+    "conservation"
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_4a7925d8",
+   "category": "environment",
+   "title_rw": "Uturere tw'amazi n'isoko zayo mu Rwanda",
+   "title_en": "Water Catchment Areas in Rwanda",
+   "summary_rw": "U Rwanda rufite uturere tw'amazi abiri akuru: icy'Akomoka kuri Nili n'icy'Akomoka kuri Kongo. Amashyamba nka Nyungwe na Gishwati afasha mu kubungabunga izi soko z'amazi. Kurengera ibi bice bifasha mu kurwanya isuri n'imihindagurikire y'ikirere.",
+   "summary_en": "Rwanda has two main water catchment areas: the Nile and the Congo basins. Forests like Nyungwe and Gishwati help protect these water sources. Protecting these areas helps prevent soil erosion and mitigates climate change.",
+   "keywords": [
+    "amazi",
+    "water",
+    "isoko",
+    "catchment",
+    "rwanda",
+    "nili",
+    "kongo",
+    "ishyamba"
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_f51635db",
+   "category": "environment",
+   "title_rw": "Ubukerarugendo bushingiye ku bidukikije mu Rwanda",
+   "title_en": "Ecotourism and Conservation in Rwanda",
+   "summary_rw": "Ubukerarugendo bushingiye ku bidukikije bufasha mu kubungabunga ibidukikije n'inyamaswa mu Rwanda. Buzana amafaranga yifashishwa mu kurinda Pariki y'Igihugu y'Ibirunga n'izindi. Kandi butanga imirimo ku baturage baturiye aho hantu.",
+   "summary_en": "Ecotourism helps in protecting the environment and wildlife in Rwanda. It generates revenue used to protect Volcanoes National Park and others. It also provides jobs to local communities living near these areas.",
+   "keywords": [
+    "ubukerarugendo",
+    "ecotourism",
+    "ibidukikije",
+    "environment",
+    "rwanda",
+    "pariki",
+    "park",
+    "conservation"
    ],
    "auto": true,
    "taught": "2026-11-28"
