@@ -1,7 +1,46 @@
 {
  "day": "2026-11-28",
- "count": 45,
+ "count": 47,
  "articles": [
+  {
+   "id": "crawl_137o0sm",
+   "title": "Uganda’s Shift Shatters Tshisekedi’s Anti-Rwanda Narrative in Eastern Congo",
+   "summary": "For years, President Félix Tshisekedi’s survival strategy has rested on a single, exhausted reflex of blaming Kigali for every governance failure, military defeat and internal fracture inside the Democratic Republic… The post Uganda’s Shift Shatters Tshisekedi’s Anti-Rwanda Narrative in Eastern Congo appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/ugandas-shift-shatters-tshisekedis-anti-rwanda-narrative-in-eastern-congo/",
+   "url": "https://www.ktpress.rw/2026/11/ugandas-shift-shatters-tshisekedis-anti-rwanda-narrative-in-eastern-congo/",
+   "date": "2026-11-28T12:53:57.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "Voices"
+   ],
+   "title_en": "Uganda’s Shift Shatters Tshisekedi’s Anti-Rwanda Narrative in Eastern Congo",
+   "summary_en": "For years, President Félix Tshisekedi’s survival strategy has rested on a single, exhausted reflex of blaming Kigali for every governance failure, military defeat and internal fracture inside the Democratic Republic… The post Uganda’s Shift Shatters Tshisekedi’s Anti-Rwanda Narrative in Eastern Congo appeared first on KT PRESS .",
+   "share_id": "MN202611_137o0sme9yc"
+  },
+  {
+   "id": "crawl_g9nros",
+   "title": "Take That say 10th number one album feels as special as first",
+   "summary": "The Manchester group has topped the UK album chart with Dreamers.",
+   "link": "https://www.bbc.co.uk/news/articles/cvlyj7wy7j5go?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cvlyj7wy7j5go?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T12:45:19.000Z",
+   "source": "BBC Entertainment",
+   "category": "entertainment",
+   "lang": "en",
+   "keywords": [
+    "BBC Entertainment",
+    "entertainment"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6c6/live/c2850930-eb22-11f1-bf04-65a057babcf8.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6c6/live/c2850930-eb22-11f1-bf04-65a057babcf8.jpg",
+   "title_en": "Take That say 10th number one album feels as special as first",
+   "summary_en": "The Manchester group has topped the UK album chart with Dreamers.",
+   "share_id": "MN202611_g9nrosgo5m"
+  },
   {
    "id": "crawl_epcrr2",
    "title": "Work in progress but Liverpool find belief again with Iraola",
@@ -914,5 +953,5 @@
    "share_id": "MN202611_1yioyz2hvfw"
   }
  ],
- "updated": "2026-11-28T12:46:14.971Z"
+ "updated": "2026-11-28T13:39:34.024Z"
 }
