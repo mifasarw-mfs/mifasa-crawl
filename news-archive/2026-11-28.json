@@ -1,7 +1,48 @@
 {
  "day": "2026-11-28",
- "count": 27,
+ "count": 29,
  "articles": [
+  {
+   "id": "crawl_83yjfi",
+   "title": "The Ben yakesheje igitaramo mu gusoza Youth Connekt",
+   "summary": "Umuhanzi The Ben, ukunzwe na benshi mu Rwanda kubera indirimbo ze zakunzwe cyane, yaganiriye na Kigali Today #Open Mic, muri YouthConnekt Africa Summit 2026. Yavuze ko yishimiye cyane uko iyi (…)",
+   "link": "https://www.kigalitoday.com/imyidagaduro/ibirori/article/the-ben-yakesheje-igitaramo-mu-gusoza-youth-connekt",
+   "url": "https://www.kigalitoday.com/imyidagaduro/ibirori/article/the-ben-yakesheje-igitaramo-mu-gusoza-youth-connekt",
+   "date": "2026-11-28T09:59:56.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Ibirori"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-27_at_19.22_32.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-27_at_19.22_32.jpg",
+   "title_rw": "The Ben yakesheje igitaramo mu gusoza Youth Connekt",
+   "summary_rw": "Umuhanzi The Ben, ukunzwe na benshi mu Rwanda kubera indirimbo ze zakunzwe cyane, yaganiriye na Kigali Today #Open Mic, muri YouthConnekt Africa Summit 2026. Yavuze ko yishimiye cyane uko iyi (…)",
+   "share_id": "MN202611_83yjfi4wl8"
+  },
+  {
+   "id": "crawl_ngxnsn",
+   "title": "MSF ivuga ko abakozi bayo babiri bishwe mu gitero ca Israel kw'ivuriro muri Gaza",
+   "summary": "Igisirikare ca Israel kivuga ko abo bishwe bari \"ivyihebe\" vy'umuhari Hamas, ariko ico gitero ciyamirijwe n'ishirahamwe ryitaho amagara kw'isi OMS.",
+   "link": "https://www.bbc.com/gahuza/articles/c6jd713kg81xo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.com/gahuza/articles/c6jd713kg81xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T09:48:56.000Z",
+   "source": "BBC Gahuza",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "BBC Gahuza",
+    "news"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b215/live/7a8dcfc0-eacf-11f1-b107-c5fb3c6f82eb.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b215/live/7a8dcfc0-eacf-11f1-b107-c5fb3c6f82eb.jpg",
+   "title_rw": "MSF ivuga ko abakozi bayo babiri bishwe mu gitero ca Israel kw'ivuriro muri Gaza",
+   "summary_rw": "Igisirikare ca Israel kivuga ko abo bishwe bari \"ivyihebe\" vy'umuhari Hamas, ariko ico gitero ciyamirijwe n'ishirahamwe ryitaho amagara kw'isi OMS.",
+   "share_id": "MN202611_ngxnsnqk9h"
+  },
   {
    "id": "crawl_3diriy",
    "title": "\"Twahagaritse imodoka ya UNAR turamira akana kacu\" Ubuzima bwa Mariya Yohana",
@@ -545,5 +586,5 @@
    "share_id": "MN202611_1yioyz2hvfw"
   }
  ],
- "updated": "2026-11-28T09:43:11.421Z"
+ "updated": "2026-11-28T10:10:00.313Z"
 }
