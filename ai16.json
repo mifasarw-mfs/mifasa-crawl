@@ -8798,6 +8798,54 @@
    ],
    "auto": true,
    "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_86deb523_q",
+   "label_rw": "Imbusane n'ibibanza mu Kinyarwanda",
+   "label_en": "Prepositions and locatives in Kinyarwanda",
+   "patterns_en": [
+    "What indicates the location of an object in Kinyarwanda?",
+    "What are the commonly used locative prefixes?",
+    "How do locatives help in grammar?"
+   ],
+   "patterns_rw": [
+    "Ni iki kigaragaza aho ikintu giherereye mu Kinyarwanda?",
+    "Ni izihe ngereka z'ibibanza zikoreshwa cyane?",
+    "Ese imbus zifasha mu ki?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mu Kinyarwanda, ibibanza n'imbusane zerekana aho ikintu giherereye cyangwa icyerekezo cyacyo. Zikoresha ingereka z'ibibanza nka 'ha-', 'ku-', na 'mu-', zikomatanyijwe n'izina ryerekanwa. Ibi bifasha gusobanura neza aho ibintu biherereye mu mwanya.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "In Kinyarwanda, locatives and prepositions indicate the location or direction of something. They typically use locative prefixes such as 'ha-', 'ku-', and 'mu-', combined with the noun. This helps to clearly describe spatial positions.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_cbd85314_q",
+   "label_rw": "Ubwoko bw'amagambo y'abakorerwa mu Kinyarwanda",
+   "label_en": "Passive voice in Kinyarwanda",
+   "patterns_en": [
+    "How does the passive voice work in Kinyarwanda?",
+    "What causes a verb to change in Kinyarwanda?",
+    "Do all verbs have a passive form?"
+   ],
+   "patterns_rw": [
+    "Ubwoko bw'abakorerwa mu Kinyarwanda bukora gute?",
+    "Ni iki gituma inshinga ihinduka mu Kinyarwanda?",
+    "Ese inshinga zose zigira ubwoko bw'abakorerwa?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Mu Kinyarwanda, interuro y'umukozi ihinduka iy'umukorerwa iyo intego yibanda ku wakiriye igikorwa aho kuba uwagikoze. Akenshi inshinga ihindurwa yongeraho inyuguti za passif nka 'w' cyangwa 'ibw'. Ibi bifasha kuvuga neza ibyabaye hatavuzwe uwabikoze buri gihe.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "In Kinyarwanda, an active sentence becomes passive when the focus shifts to the receiver of the action rather than the doer. Usually, the verb is modified by adding passive suffixes like 'w' or 'ibw'. This allows speakers to describe events without always mentioning who performed the action.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
   }
  ],
  "knowledge": [
@@ -16045,6 +16093,44 @@
     "skin",
     "burn",
     "protection"
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_86deb523",
+   "category": "language",
+   "title_rw": "Imbusane n'ibibanza mu Kinyarwanda",
+   "title_en": "Prepositions and locatives in Kinyarwanda",
+   "summary_rw": "Mu Kinyarwanda, ibibanza n'imbusane zerekana aho ikintu giherereye cyangwa icyerekezo cyacyo. Zikoresha ingereka z'ibibanza nka 'ha-', 'ku-', na 'mu-', zikomatanyijwe n'izina ryerekanwa. Ibi bifasha gusobanura neza aho ibintu biherereye mu mwanya.",
+   "summary_en": "In Kinyarwanda, locatives and prepositions indicate the location or direction of something. They typically use locative prefixes such as 'ha-', 'ku-', and 'mu-', combined with the noun. This helps to clearly describe spatial positions.",
+   "keywords": [
+    "kinyarwanda",
+    "grammar",
+    "locatives",
+    "prepositions",
+    "umusango",
+    "ibibanza",
+    "ururimi"
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_cbd85314",
+   "category": "language",
+   "title_rw": "Ubwoko bw'amagambo y'abakorerwa mu Kinyarwanda",
+   "title_en": "Passive voice in Kinyarwanda",
+   "summary_rw": "Mu Kinyarwanda, interuro y'umukozi ihinduka iy'umukorerwa iyo intego yibanda ku wakiriye igikorwa aho kuba uwagikoze. Akenshi inshinga ihindurwa yongeraho inyuguti za passif nka 'w' cyangwa 'ibw'. Ibi bifasha kuvuga neza ibyabaye hatavuzwe uwabikoze buri gihe.",
+   "summary_en": "In Kinyarwanda, an active sentence becomes passive when the focus shifts to the receiver of the action rather than the doer. Usually, the verb is modified by adding passive suffixes like 'w' or 'ibw'. This allows speakers to describe events without always mentioning who performed the action.",
+   "keywords": [
+    "kinyarwanda",
+    "grammar",
+    "passive",
+    "voice",
+    "inshinga",
+    "ururimi",
+    "language"
    ],
    "auto": true,
    "taught": "2026-11-28"
