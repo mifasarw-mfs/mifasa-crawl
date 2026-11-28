@@ -1,7 +1,30 @@
 {
  "day": "2026-11-28",
- "count": 52,
+ "count": 53,
  "articles": [
+  {
+   "id": "crawl_s1exxg",
+   "title": "Ikigo cy'imari ASA International Rwanda Plc na RBC bafatanyije ubukangurambaga bwo gutanga amaraso ku bushake",
+   "summary": "Ikigo cy’imari ASA International (Rwanda) Plc, yateguye ubukangurambaga bw’iminsi ibiri bwo gushishikariza abaturage gutanga amaraso ku bushake, hagamijwe gufasha ibitaro kubona amaraso ahagije (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/asa-international-rwanda-na-rbc-bafatanyije-ubukangurambaga-bwo-gutanga-amaraso-ku-bushake",
+   "url": "https://www.kigalitoday.com/amakuru/mu-rwanda/article/asa-international-rwanda-na-rbc-bafatanyije-ubukangurambaga-bwo-gutanga-amaraso-ku-bushake",
+   "date": "2026-11-28T15:18:18.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu Rwanda",
+    "MobileBigStory",
+    "Jean de la Croix Tabaro"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-28_at_15.58_51_1_.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-28_at_15.58_51_1_.jpg",
+   "title_rw": "Ikigo cy'imari ASA International Rwanda Plc na RBC bafatanyije ubukangurambaga bwo gutanga amaraso ku bushake",
+   "summary_rw": "Ikigo cy’imari ASA International (Rwanda) Plc, yateguye ubukangurambaga bw’iminsi ibiri bwo gushishikariza abaturage gutanga amaraso ku bushake, hagamijwe gufasha ibitaro kubona amaraso ahagije (…)",
+   "share_id": "MN202611_s1exxgfwpu"
+  },
   {
    "id": "crawl_rweymr",
    "title": "Swinney insists Scotland's NHS is safe despite hospital scandal",
@@ -1056,5 +1079,5 @@
    "share_id": "MN202611_1yioyz2hvfw"
   }
  ],
- "updated": "2026-11-28T15:15:03.499Z"
+ "updated": "2026-11-28T15:37:42.354Z"
 }
