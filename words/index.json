@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-28T02:11:50.049Z",
+ "updated": "2026-11-28T03:22:35.768Z",
  "letters": {
   "a": {
    "words": 782,
-   "defined": 171
+   "defined": 176
   },
   "b": {
    "words": 841,
-   "defined": 123
+   "defined": 125
   },
   "c": {
    "words": 716,
-   "defined": 238
+   "defined": 245
   },
   "d": {
    "words": 455,
-   "defined": 146
+   "defined": 150
   },
   "e": {
    "words": 350,
-   "defined": 115
+   "defined": 116
   },
   "f": {
    "words": 406,
@@ -87,7 +87,7 @@
   },
   "v": {
    "words": 120,
-   "defined": 21
+   "defined": 22
   },
   "w": {
    "words": 268,
@@ -107,5 +107,5 @@
   }
  },
  "total": 10158,
- "defined": 1991
+ "defined": 2011
 }
