@@ -8702,6 +8702,30 @@
    ],
    "auto": true,
    "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_3a7d045f_q",
+   "label_rw": "Uburyo bwo Gukoresha Inkoni muri Biyari",
+   "label_en": "Billiards and Pool Cue Techniques",
+   "patterns_en": [
+    "Why is chalk applied to a pool cue tip?",
+    "How does a player hold a billiards cue properly?",
+    "What is essential for executing a good pool shot?"
+   ],
+   "patterns_rw": [
+    "Ni iki gituma bashyira ibicurane ku nkoni ya biyari?",
+    "Ni gute umukinnyi afata inkoni ya biyari neza?",
+    "Ni iki cy'ingenzi mu gutera umupira wa biyari?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Muri biyari, uburyo bwo gufata no gukoresha inkoni burateguwe neza ngo umukinnyi ashobore kuyobora umupira neza. Gusiga ibicurane ku mutwe w'inkoni bifasha kwirinda ko umupira unyerera. Gutera umupira neza bisaba kwitonda mu gufata inkoni no kugorora ukuboko.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "In billiards and pool, proper cue grip and stance techniques are designed to help a player control the cue ball accurately. Applying chalk to the cue tip helps prevent slips during a shot. Good technique requires a stable bridge hand and a smooth, straight stroke.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
   }
  ],
  "knowledge": [
@@ -15872,6 +15896,26 @@
    ],
    "auto": true,
    "taught": "2026-11-27"
+  },
+  {
+   "id": "ai16_3a7d045f",
+   "category": "sports",
+   "title_rw": "Uburyo bwo Gukoresha Inkoni muri Biyari",
+   "title_en": "Billiards and Pool Cue Techniques",
+   "summary_rw": "Muri biyari, uburyo bwo gufata no gukoresha inkoni burateguwe neza ngo umukinnyi ashobore kuyobora umupira neza. Gusiga ibicurane ku mutwe w'inkoni bifasha kwirinda ko umupira unyerera. Gutera umupira neza bisaba kwitonda mu gufata inkoni no kugorora ukuboko.",
+   "summary_en": "In billiards and pool, proper cue grip and stance techniques are designed to help a player control the cue ball accurately. Applying chalk to the cue tip helps prevent slips during a shot. Good technique requires a stable bridge hand and a smooth, straight stroke.",
+   "keywords": [
+    "biyari",
+    "inkoni",
+    "umupira",
+    "uburyo",
+    "billiards",
+    "cue",
+    "shot",
+    "technique"
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
   }
  ]
 }
