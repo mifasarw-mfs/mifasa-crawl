@@ -1,5 +1,65 @@
 [
  {
+  "id": "crawl_125g80c",
+  "title": "Should I get a flu vaccine now?",
+  "summary": "Amid a surge in influenza, health officials are urging people to get a vaccine - but what if you're young and healthy?",
+  "link": "https://www.bbc.co.uk/news/articles/cq8e018jyjngo?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cq8e018jyjngo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-28T01:03:11.000Z",
+  "source": "BBC Health",
+  "category": "health",
+  "lang": "en",
+  "keywords": [
+   "BBC Health",
+   "health"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/267a/live/e3b37190-ea74-11f1-a828-d384c0290f6b.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/267a/live/e3b37190-ea74-11f1-a828-d384c0290f6b.jpg",
+  "title_en": "Should I get a flu vaccine now?",
+  "summary_en": "Amid a surge in influenza, health officials are urging people to get a vaccine - but what if you're young and healthy?",
+  "share_id": "MN202611_125g80c94h6"
+ },
+ {
+  "id": "crawl_y7ae30",
+  "title": "Tech Now",
+  "summary": "Ammie Sekhon looks at robotics that could one day help spacecraft act independently.",
+  "link": "https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-28T01:00:00.000Z",
+  "source": "BBC Technology",
+  "category": "tech",
+  "lang": "en",
+  "keywords": [
+   "BBC Technology",
+   "tech"
+  ],
+  "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pq7bs2.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0pq7bs2.jpg",
+  "title_en": "Tech Now",
+  "summary_en": "Ammie Sekhon looks at robotics that could one day help spacecraft act independently.",
+  "share_id": "MN202611_y7ae308xre"
+ },
+ {
+  "id": "crawl_1ltttl4",
+  "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+  "summary": "A new Bollywood flim spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar.",
+  "link": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-28T00:50:11.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbd/live/d9f6b7b0-e97b-11f1-acd8-af22a7ebb474.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbd/live/d9f6b7b0-e97b-11f1-acd8-af22a7ebb474.jpg",
+  "title_en": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+  "summary_en": "A new Bollywood flim spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar.",
+  "share_id": "MN202611_1ltttl4mq1y"
+ },
+ {
   "id": "crawl_1yioyz2",
   "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
   "summary": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
@@ -164,8 +224,8 @@
  },
  {
   "id": "crawl_1n70e6w",
-  "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
-  "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
+  "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+  "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
   "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
   "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-27T22:03:46.000Z",
@@ -178,8 +238,8 @@
   ],
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg",
   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg",
-  "title_en": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
-  "summary_en": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
+  "title_en": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+  "summary_en": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
   "share_id": "MN202611_1n70e6wtanq"
  },
  {
@@ -16837,71 +16897,5 @@
   "title_rw": "Harahiye 🔥Noneho Aisha Ariyiziye 🔥Ageze Kuri Flix akubita atababariye 🤣",
   "summary_rw": "Ushatse kutuvugisha #0787413998 #MIEempire https://www.instagram.com/mie_empire.rw/ https://www.instagram.com/irenemurindahabi/",
   "share_id": "MN202611_1lc5kql1nkr"
- },
- {
-  "id": "crawl_evd8f3",
-  "title": "🔴LIVE: AMAKURU Y'IJORO || TARIKI 21.11.2026",
-  "summary": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
-  "link": "https://www.youtube.com/watch?v=dQcY5dgLdrw",
-  "url": "https://www.youtube.com/watch?v=dQcY5dgLdrw",
-  "date": "2026-11-21T16:50:01.000Z",
-  "source": "Radio Rwanda YouTube",
-  "category": "news",
-  "lang": "rw",
-  "keywords": [
-   "Radio Rwanda YouTube",
-   "news",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "dQcY5dgLdrw"
-  },
-  "type": "video",
-  "image": "https://i1.ytimg.com/vi/dQcY5dgLdrw/hqdefault.jpg",
-  "thumbnail": "https://i1.ytimg.com/vi/dQcY5dgLdrw/hqdefault.jpg",
-  "title_rw": "🔴LIVE: AMAKURU Y'IJORO || TARIKI 21.11.2026",
-  "summary_rw": "#RBANews #RBAAmakuru #Rwanda Join this channel to get access to perks: @RadioRwanda Umva Radio Rwanda: www.rba.co.rw/radio #RBANews #RBAAmakuru #Rwanda #RBAHafiYawe Click here to SUBSCRIBE : https://www.youtube.com/@RadioRwanda/... Follow us on Twitter: https://twitter.com/rbarwanda https://twitter.com/Radiorwanda_RBA https://twitter.com/RwandaTV https://twitter.com/KC2_RW Follow us on IG:…",
-  "share_id": "MN202611_evd8f3dd8d"
- },
- {
-  "id": "crawl_6r6nm9",
-  "title": "Hormuz swim highlights environmental cost of war",
-  "summary": "Ocean campaigner Lewis Pugh completes Hormuz challenge and warns of lasting environmental damage.",
-  "link": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-21T16:12:31.000Z",
-  "source": "BBC Science",
-  "category": "science",
-  "lang": "en",
-  "keywords": [
-   "BBC Science",
-   "science"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af51/live/b6455810-e5c2-11f1-a188-ff49e70cc466.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af51/live/b6455810-e5c2-11f1-a188-ff49e70cc466.jpg",
-  "title_en": "Hormuz swim highlights environmental cost of war",
-  "summary_en": "Ocean campaigner Lewis Pugh completes Hormuz challenge and warns of lasting environmental damage.",
-  "share_id": "MN202611_6r6nm9zk33"
- },
- {
-  "id": "crawl_1gwqmey",
-  "title": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
-  "summary": "Manchester City spent £327m overhauling their midfield in the summer - but how does Enzo Maresca find the right balance?",
-  "link": "https://www.bbc.co.uk/sport/football/articles/cxe8944j188yo?at_medium=RSS&at_campaign=rss",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cxe8944j188yo?at_medium=RSS&at_campaign=rss",
-  "date": "2026-11-21T16:07:19.000Z",
-  "source": "BBC Football",
-  "category": "sports",
-  "lang": "en",
-  "keywords": [
-   "BBC Football",
-   "sports"
-  ],
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2997/live/fc265c50-e5c0-11f1-a188-ff49e70cc466.jpg",
-  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2997/live/fc265c50-e5c0-11f1-a188-ff49e70cc466.jpg",
-  "title_en": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
-  "summary_en": "Manchester City spent £327m overhauling their midfield in the summer - but how does Enzo Maresca find the right balance?",
-  "share_id": "MN202611_1gwqmeyijtk"
  }
 ]
