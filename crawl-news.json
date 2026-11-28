@@ -1,5 +1,25 @@
 [
  {
+  "id": "crawl_1yioyz2",
+  "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+  "summary": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
+  "link": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
+  "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-28T00:05:17.000Z",
+  "source": "BBC World",
+  "category": "world",
+  "lang": "en",
+  "keywords": [
+   "BBC World",
+   "world"
+  ],
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6add/live/9161e4a0-e9aa-11f1-859a-37130cd3a1d7.jpg",
+  "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6add/live/9161e4a0-e9aa-11f1-859a-37130cd3a1d7.jpg",
+  "title_en": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+  "summary_en": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
+  "share_id": "MN202611_1yioyz2hvfw"
+ },
+ {
   "id": "crawl_7yi676",
   "title": "Umwanditsi w'Umusuwisi yamuritse igitabo kigaragaza uburangare bw'Igihugu cye muri Jenoside yakorewe Abatutsi",
   "summary": "Umusuwisikazi Anne Emery-Torracinta yamuritse igitabo yise Dans l’ombre du génocide des Tutsi. La Suisse et le Rwanda 1950–1994, ugenekereje mu Kinyarwanda bishatse kuvuga ‘Mu gicucu cya Jenoside (…)",
@@ -16883,31 +16903,5 @@
   "title_en": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
   "summary_en": "Manchester City spent £327m overhauling their midfield in the summer - but how does Enzo Maresca find the right balance?",
   "share_id": "MN202611_1gwqmeyijtk"
- },
- {
-  "id": "crawl_16q1zr7",
-  "title": "AMASHUSHO AZAMURA IRARI, YABA AKURURA ABAKILIYA? KUKI ABAMAMAZA BENSHI BAKORESHA ABAKOBWA B'IKIMERO?",
-  "summary": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
-  "link": "https://www.youtube.com/watch?v=tKnFvtDGaTQ",
-  "url": "https://www.youtube.com/watch?v=tKnFvtDGaTQ",
-  "date": "2026-11-21T15:35:49.000Z",
-  "source": "Mwanafunzi Ismael YouTube",
-  "category": "entertainment",
-  "lang": "rw",
-  "keywords": [
-   "Mwanafunzi Ismael YouTube",
-   "entertainment",
-   "video"
-  ],
-  "video": {
-   "provider": "youtube",
-   "id": "tKnFvtDGaTQ"
-  },
-  "type": "video",
-  "image": "https://i1.ytimg.com/vi/tKnFvtDGaTQ/hqdefault.jpg",
-  "thumbnail": "https://i1.ytimg.com/vi/tKnFvtDGaTQ/hqdefault.jpg",
-  "title_rw": "AMASHUSHO AZAMURA IRARI, YABA AKURURA ABAKILIYA? KUKI ABAMAMAZA BENSHI BAKORESHA ABAKOBWA B'IKIMERO?",
-  "summary_rw": "#ibyegeranyo_bya_ismael_mwanafunzi #amakuru #ismaelmwanafunzi #mwanafunzi Dufite WhatsApp channel, wayireba unyuze kuri iyi link: https://whatsapp.com/channel/0029VbBsUWhEQIaqrrhSKk37",
-  "share_id": "MN202611_16q1zr7y2ld"
  }
 ]
