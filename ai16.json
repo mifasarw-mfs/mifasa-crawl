@@ -8918,6 +8918,102 @@
    ],
    "auto": true,
    "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_f5180a63_q",
+   "label_rw": "Gutegura no Gucunga Imitiba y'Ingemwe",
+   "label_en": "Plant Nursery Establishment and Management",
+   "patterns_en": [
+    "What factors are considered when choosing a nursery site?",
+    "What are the main practices for managing a plant nursery?",
+    "Why is regular watering important for seedlings in a nursery?"
+   ],
+   "patterns_rw": [
+    "Ni iki cyitabwaho muguhitamo aho imitiba y'ingemwe izaba?",
+    "Ni izihe nshingano zo gucunga neza imitiba y'ingemwe?",
+    "Kuki kuhira ari ingenzi ku ngemwe ziri mu mitiba?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gutegura imitiba y'ingemwe bisaba guhitamo ahantu heza hafi y'amazi kandi haringaniye. Aho hantu hagomba kuba hafite ubutaka bwiza bufite intungamubiri kandi bworoheje. Gucunga neza imitiba bikubiyemo kuhira mu buryo buhoro buhoro, kurinda udukoko, no kubagara ibyatsi bibi kugira ngo ingemwe zikure neza mb zo guterwa mu murima.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Establishing a plant nursery requires selecting a suitable, flat site close to a water source. The location must have fertile and well-draining soil. Proper nursery management involves regular watering, pest control, and weeding to ensure seedlings grow healthy before transplanting into the main field.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_99be9f0c_q",
+   "label_rw": "Gutunganya Umusaruro w'Ubuhinzi",
+   "label_en": "Agricultural Value Addition and Processing",
+   "patterns_en": [
+    "What is agricultural processing?",
+    "How does value addition benefit farmers?",
+    "Why is processing important for post-harvest loss reduction?"
+   ],
+   "patterns_rw": [
+    "Ni iki gitera gutunganya umusaruro w'ubuhinzi?",
+    "Ese kongera agaciro k'umusaruro bifitiye akahe kamaro abahinzi?",
+    "Ni gute gutunganya umusaruro kurinda ko wangirika?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gutunganya umusaruro w'ubuhinzi bifasha kongera agaciro kawo no kurinda ko wangirika vuba. Ibi bikorwa bituma abahinzi babona amafaranga menshi kandi bigateza imbere ubukungu bw'igihugu.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Agricultural processing helps increase the value of crops and reduces post-harvest losses. These activities usually help farmers earn more income and promote national economic growth.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_0ff712da_q",
+   "label_rw": "Gupima Ubutaka no Gucunga Ubuziranenge Bwabyo",
+   "label_en": "Soil Testing and Fertility Management",
+   "patterns_en": [
+    "Why is soil testing important?",
+    "What does fertilizer add to the soil?",
+    "How do farmers determine what their soil needs?"
+   ],
+   "patterns_rw": [
+    "Kuki gupima ubutaka ari ingenzi?",
+    "Ese ifumbire yongerera iki ubutaka?",
+    "Ni gute abahinzi bamenya icyo ubutaka bwabo bukenera?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gupima ubutaka bifasha abahinzi kumenya intungamubiri zifite n'izibura. Ibi bituma bamenya ifumbire bakoresha kugira ngo umusaruro wiyongere. Mu Rwanda, gahunda zo gupima ubutaka zifasha abaturage guhitamo ibihingwa bijyanye n'akarere kabo.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Soil testing helps farmers determine nutrient levels and deficiencies in their soil. This enables them to apply the correct fertilizers to increase crop yields. In Rwanda, soil testing initiatives help communities choose crops suited to their specific regions.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_c868e79d_q",
+   "label_rw": "Kubungabunga Ibikoresho n'Imashini z'Ubuhinzi",
+   "label_en": "Agricultural Tool and Equipment Maintenance",
+   "patterns_en": [
+    "How can you remove rust from agricultural tools?",
+    "Why is it important to clean farming tools after use?",
+    "Where is the best place to store agricultural machinery?"
+   ],
+   "patterns_rw": [
+    "Ni gute wakura ingese ku bikoresho by'ubuhinzi?",
+    "Kuki ari ngombwa gusukura ibikoresho by'ubuhinzi nyuma yo kubikoresha?",
+    "Heza ho kubika imashini z'ubuhinzi ni he?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Kubungabunga ibikoresho n'imashini z'ubuhinzi bifasha mu kongera igihe bizamarira no kugabanya amafaranga yo kubisimbuza. Aho bikorerwa, abahinzi bagomba gusukura ibikoresho nyuma yo kubikoresha, kubisiga amavuta kugira ngo bitagira ingese, no kubika ahantu humye. Gukora isuzuma ry'imashini buri gihe bituma bitangiza hakiri kare.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Maintaining agricultural tools and equipment helps increase their lifespan and reduces replacement costs. After use, farmers should clean tools, apply oil to prevent rust, and store them in dry places. Regular inspection of machinery helps detect and repair minor issues early.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
   }
  ],
  "knowledge": [
@@ -16262,6 +16358,86 @@
     "math",
     "elements",
     "collection"
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_f5180a63",
+   "category": "agriculture",
+   "title_rw": "Gutegura no Gucunga Imitiba y'Ingemwe",
+   "title_en": "Plant Nursery Establishment and Management",
+   "summary_rw": "Gutegura imitiba y'ingemwe bisaba guhitamo ahantu heza hafi y'amazi kandi haringaniye. Aho hantu hagomba kuba hafite ubutaka bwiza bufite intungamubiri kandi bworoheje. Gucunga neza imitiba bikubiyemo kuhira mu buryo buhoro buhoro, kurinda udukoko, no kubagara ibyatsi bibi kugira ngo ingemwe zikure neza mb zo guterwa mu murima.",
+   "summary_en": "Establishing a plant nursery requires selecting a suitable, flat site close to a water source. The location must have fertile and well-draining soil. Proper nursery management involves regular watering, pest control, and weeding to ensure seedlings grow healthy before transplanting into the main field.",
+   "keywords": [
+    "ingemwe",
+    "imitiba",
+    "ubuhinzi",
+    "ubutaka",
+    "seedlings",
+    "nursery",
+    "agriculture",
+    "soil"
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_99be9f0c",
+   "category": "agriculture",
+   "title_rw": "Gutunganya Umusaruro w'Ubuhinzi",
+   "title_en": "Agricultural Value Addition and Processing",
+   "summary_rw": "Gutunganya umusaruro w'ubuhinzi bifasha kongera agaciro kawo no kurinda ko wangirika vuba. Ibi bikorwa bituma abahinzi babona amafaranga menshi kandi bigateza imbere ubukungu bw'igihugu.",
+   "summary_en": "Agricultural processing helps increase the value of crops and reduces post-harvest losses. These activities usually help farmers earn more income and promote national economic growth.",
+   "keywords": [
+    "ubuhinzi",
+    "umusaruro",
+    "agaciro",
+    "agriculture",
+    "processing",
+    "value",
+    "farmers",
+    "abahinzi"
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_0ff712da",
+   "category": "agriculture",
+   "title_rw": "Gupima Ubutaka no Gucunga Ubuziranenge Bwabyo",
+   "title_en": "Soil Testing and Fertility Management",
+   "summary_rw": "Gupima ubutaka bifasha abahinzi kumenya intungamubiri zifite n'izibura. Ibi bituma bamenya ifumbire bakoresha kugira ngo umusaruro wiyongere. Mu Rwanda, gahunda zo gupima ubutaka zifasha abaturage guhitamo ibihingwa bijyanye n'akarere kabo.",
+   "summary_en": "Soil testing helps farmers determine nutrient levels and deficiencies in their soil. This enables them to apply the correct fertilizers to increase crop yields. In Rwanda, soil testing initiatives help communities choose crops suited to their specific regions.",
+   "keywords": [
+    "ubutaka",
+    "soil",
+    "ifumbire",
+    "fertilizer",
+    "ubuhinzi",
+    "agriculture",
+    "umusaruro",
+    "yield"
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_c868e79d",
+   "category": "agriculture",
+   "title_rw": "Kubungabunga Ibikoresho n'Imashini z'Ubuhinzi",
+   "title_en": "Agricultural Tool and Equipment Maintenance",
+   "summary_rw": "Kubungabunga ibikoresho n'imashini z'ubuhinzi bifasha mu kongera igihe bizamarira no kugabanya amafaranga yo kubisimbuza. Aho bikorerwa, abahinzi bagomba gusukura ibikoresho nyuma yo kubikoresha, kubisiga amavuta kugira ngo bitagira ingese, no kubika ahantu humye. Gukora isuzuma ry'imashini buri gihe bituma bitangiza hakiri kare.",
+   "summary_en": "Maintaining agricultural tools and equipment helps increase their lifespan and reduces replacement costs. After use, farmers should clean tools, apply oil to prevent rust, and store them in dry places. Regular inspection of machinery helps detect and repair minor issues early.",
+   "keywords": [
+    "ubuhinzi",
+    "ibikoresho",
+    "imashini",
+    "kubungabunga",
+    "agriculture",
+    "tools",
+    "equipment",
+    "maintenance"
    ],
    "auto": true,
    "taught": "2026-11-28"
