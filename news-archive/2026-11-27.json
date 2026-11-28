@@ -1,6 +1,6 @@
 {
  "day": "2026-11-27",
- "count": 112,
+ "count": 113,
  "articles": [
   {
    "id": "crawl_7yi676",
@@ -2151,6 +2151,26 @@
    "share_id": "MN202611_m48b6t17nn"
   },
   {
+   "id": "crawl_rpogwt",
+   "title": "Gary Speed: 15 Years On",
+   "summary": "Fifteen years since the passing of Gary Speed, we hear from his family and friends.",
+   "link": "https://www.bbc.co.uk/sounds/play/m0011xv1?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/m0011xv1?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T01:29:00.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0b6bnqj.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0b6bnqj.jpg",
+   "title_en": "Gary Speed: 15 Years On",
+   "summary_en": "Fifteen years since the passing of Gary Speed, we hear from his family and friends.",
+   "share_id": "MN202611_rpogwthlff"
+  },
+  {
    "id": "crawl_1o1fihq",
    "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
    "summary": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
@@ -2311,5 +2331,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-28T07:25:22.702Z"
+ "updated": "2026-11-28T15:15:03.500Z"
 }

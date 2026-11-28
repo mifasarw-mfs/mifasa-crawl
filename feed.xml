@@ -5,8 +5,17 @@
     <link>https://mifasarw.neocities.org/</link>
     <description>Inkuru zigezweho mu Rwanda no ku Isi, na Video za MIFASARW.</description>
     <language>rw</language>
-    <lastBuildDate>Sat, 28 Nov 2026 14:26:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:43:12 GMT</lastBuildDate>
     <atom:link href="https://mifasarw.neocities.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Swinney insists Scotland's NHS is safe despite hospital scandal</title>
+      <link>https://mifasarw.neocities.org/s/MN202611_rweymr7v3l.html</link>
+      <guid isPermaLink="true">https://mifasarw.neocities.org/s/MN202611_rweymr7v3l.html</guid>
+      <pubDate>Sat, 28 Nov 2026 14:43:12 GMT</pubDate>
+      <category>health</category>
+      <description>The first minister urged people to attend medical appointments after a leaked report highlighted avoidable deaths at NHS Grampian. (Source: BBC Health)</description>
+      <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f59/live/5bfce680-eb39-11f1-b514-bbaea63b50f5.jpg"/>
+    </item>
     <item>
       <title>PM Nsengiyumva Wants Every Rwandan Household to Plant Trees</title>
       <link>https://mifasarw.neocities.org/s/MN202611_1hiz8scaniy.html</link>
@@ -533,15 +542,6 @@
       <category>world</category>
       <description>While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them. (Source: BBC World)</description>
       <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6add/live/9161e4a0-e9aa-11f1-859a-37130cd3a1d7.jpg"/>
-    </item>
-    <item>
-      <title>Umwanditsi w'Umusuwisi yamuritse igitabo kigaragaza uburangare bw'Igihugu cye muri Jenoside yakorewe Abatutsi</title>
-      <link>https://mifasarw.neocities.org/s/MN202611_7yi676u4ao.html</link>
-      <guid isPermaLink="true">https://mifasarw.neocities.org/s/MN202611_7yi676u4ao.html</guid>
-      <pubDate>Fri, 27 Nov 2026 23:10:25 GMT</pubDate>
-      <category>news</category>
-      <description>Umusuwisikazi Anne Emery-Torracinta yamuritse igitabo yise Dans l’ombre du génocide des Tutsi. La Suisse et le Rwanda 1950–1994, ugenekereje mu Kinyarwanda bishatse kuvuga ‘Mu gicucu cya Jenoside (…) (Isoko: Kigali Today)</description>
-      <media:thumbnail url="https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-27_at_22.57_31_1_.jpg"/>
     </item>
   </channel>
 </rss>
