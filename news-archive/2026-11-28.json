@@ -1,7 +1,27 @@
 {
  "day": "2026-11-28",
- "count": 50,
+ "count": 51,
  "articles": [
+  {
+   "id": "crawl_1hiz8sc",
+   "title": "PM Nsengiyumva Wants Every Rwandan Household to Plant Trees",
+   "summary": "KAMONYI – Prime Minister Dr. Justin Nsengiyumva has urged every Rwandan household to make tree planting part of its routine. The goal, he said Saturday, is restoring degraded forests and… The post PM Nsengiyumva Wants Every Rwandan Household to Plant Trees appeared first on KT PRESS .",
+   "link": "https://www.ktpress.rw/2026/11/pm-nsengiyumva-wants-every-rwandan-household-to-plant-trees/",
+   "url": "https://www.ktpress.rw/2026/11/pm-nsengiyumva-wants-every-rwandan-household-to-plant-trees/",
+   "date": "2026-11-28T14:26:01.000Z",
+   "source": "KT Press",
+   "category": "news",
+   "lang": "en",
+   "keywords": [
+    "KT Press",
+    "news",
+    "National",
+    "latestnews"
+   ],
+   "title_en": "PM Nsengiyumva Wants Every Rwandan Household to Plant Trees",
+   "summary_en": "KAMONYI – Prime Minister Dr. Justin Nsengiyumva has urged every Rwandan household to make tree planting part of its routine. The goal, he said Saturday, is restoring degraded forests and… The post PM Nsengiyumva Wants Every Rwandan Household to Plant Trees appeared first on KT PRESS .",
+   "share_id": "MN202611_1hiz8scaniy"
+  },
   {
    "id": "crawl_1jbceaa",
    "title": "U Rwanda rugiye gutangiza umuti utangwa kabiri mu mwaka mu rwego rwo gukumira SIDA",
@@ -1016,5 +1036,5 @@
    "share_id": "MN202611_1yioyz2hvfw"
   }
  ],
- "updated": "2026-11-28T14:27:12.600Z"
+ "updated": "2026-11-28T14:39:49.783Z"
 }
