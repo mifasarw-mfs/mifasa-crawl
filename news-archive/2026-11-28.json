@@ -1,7 +1,47 @@
 {
  "day": "2026-11-28",
- "count": 4,
+ "count": 6,
  "articles": [
+  {
+   "id": "crawl_xg84xr",
+   "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+   "summary": "With an official PC version potentially still months away, fans are getting impatient.",
+   "link": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T01:30:50.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98a4/live/a2c48d10-e97d-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98a4/live/a2c48d10-e97d-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+   "summary_en": "With an official PC version potentially still months away, fans are getting impatient.",
+   "share_id": "MN202611_xg84xr11el"
+  },
+  {
+   "id": "crawl_1aicgiy",
+   "title": "Nigeria's 'ultimate hard man' who become an online meme",
+   "summary": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
+   "link": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T01:20:35.000Z",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "keywords": [
+    "BBC World",
+    "world"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c91e/live/0a998920-ea7a-11f1-a094-5fdc692f3e33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c91e/live/0a998920-ea7a-11f1-a094-5fdc692f3e33.jpg",
+   "title_en": "Nigeria's 'ultimate hard man' who become an online meme",
+   "summary_en": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
+   "share_id": "MN202611_1aicgiy5czs"
+  },
   {
    "id": "crawl_125g80c",
    "title": "Should I get a flu vaccine now?",
@@ -83,5 +123,5 @@
    "share_id": "MN202611_1yioyz2hvfw"
   }
  ],
- "updated": "2026-11-28T01:10:33.244Z"
+ "updated": "2026-11-28T02:11:11.082Z"
 }
