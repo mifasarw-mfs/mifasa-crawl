@@ -1,6 +1,6 @@
 {
  "day": "2026-11-27",
- "count": 111,
+ "count": 112,
  "articles": [
   {
    "id": "crawl_7yi676",
@@ -1320,6 +1320,29 @@
    "share_id": "MN202611_k4ihdrv17h"
   },
   {
+   "id": "crawl_jp1x4i",
+   "title": "Imwe mu nka Ramaphosa wa Afurika y'epfo yaguze kwa Museveni yagurishijwe Miliyoni hafi 600 Frw",
+   "summary": "Perezida Yoweli Museveni wa Uganda, yatangaje amakuru avuga ko inka zo mu bwoko bwa Ankole yagurishije kuri mugenzi we Cyril Ramaphosa wa Afurika y’Epfo zororotse cyane, ndetse ubu zikaba ziri (…)",
+   "link": "https://www.kigalitoday.com/amakuru/mu-mahanga/Imwe-mu-nka-Ramaphosa-wa-Afurika-y-epfo-yaguze-kwa-Museveni-yagurishijwe-Miliyoni-hafi-600-Frw",
+   "url": "https://www.kigalitoday.com/amakuru/mu-mahanga/Imwe-mu-nka-Ramaphosa-wa-Afurika-y-epfo-yaguze-kwa-Museveni-yagurishijwe-Miliyoni-hafi-600-Frw",
+   "date": "2026-11-27T11:25:18.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Mu mahanga",
+    "MobileBigStory",
+    "Jean de la Croix Tabaro"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/png/2026-11-27_13_12_58-_3_facebook.png",
+   "thumbnail": "https://www.kigalitoday.com/IMG/png/2026-11-27_13_12_58-_3_facebook.png",
+   "title_rw": "Imwe mu nka Ramaphosa wa Afurika y'epfo yaguze kwa Museveni yagurishijwe Miliyoni hafi 600 Frw",
+   "summary_rw": "Perezida Yoweli Museveni wa Uganda, yatangaje amakuru avuga ko inka zo mu bwoko bwa Ankole yagurishije kuri mugenzi we Cyril Ramaphosa wa Afurika y’Epfo zororotse cyane, ndetse ubu zikaba ziri (…)",
+   "share_id": "MN202611_jp1x4irxe8"
+  },
+  {
    "id": "crawl_111t5fe",
    "title": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
    "summary": "The pregnant student was murdered after leaving a hotel with a journalist she had contacted to discuss her affair with the governor.",
@@ -2288,5 +2311,5 @@
    "share_id": "MN202611_1qm1qzzungt"
   }
  ],
- "updated": "2026-11-27T23:43:14.935Z"
+ "updated": "2026-11-28T07:25:22.702Z"
 }

@@ -1,7 +1,67 @@
 {
  "day": "2026-11-28",
- "count": 10,
+ "count": 13,
  "articles": [
+  {
+   "id": "crawl_1h3is9l",
+   "title": "Who am I? Plus today's other quizzes",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c35y1kgn2l90o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c35y1kgn2l90o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T07:04:56.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+   "title_en": "Who am I? Plus today's other quizzes",
+   "summary_en": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "share_id": "MN202611_1h3is9lapo7"
+  },
+  {
+   "id": "crawl_41ogdt",
+   "title": "'It doesn't come from me' - Eckert irked by Southampton's jibes at Boro",
+   "summary": "Southampton head coach Tonda Eckert stresses that taunts from the club aimed at Championship opponents Middlesbrough do not come from him.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq8e0xrk2gwno?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cq8e0xrk2gwno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T06:54:09.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c79/live/c6402090-eace-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c79/live/c6402090-eace-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "'It doesn't come from me' - Eckert irked by Southampton's jibes at Boro",
+   "summary_en": "Southampton head coach Tonda Eckert stresses that taunts from the club aimed at Championship opponents Middlesbrough do not come from him.",
+   "share_id": "MN202611_41ogdtkfrj"
+  },
+  {
+   "id": "crawl_4f7ulw",
+   "title": "How a football team rebuilt after 19 players died in plane crash",
+   "summary": "How a Brazilian football team rose again after a plane crash that killed most of their players and staff on the way to what should have been the biggest match of their lives.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck0ev91zlwgpo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ck0ev91zlwgpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T06:30:34.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5321/live/168241f0-e98a-11f1-9d1c-4dcc8fcde666.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5321/live/168241f0-e98a-11f1-9d1c-4dcc8fcde666.jpg",
+   "title_en": "How a football team rebuilt after 19 players died in plane crash",
+   "summary_en": "How a Brazilian football team rose again after a plane crash that killed most of their players and staff on the way to what should have been the biggest match of their lives.",
+   "share_id": "MN202611_4f7ulw3tzm"
+  },
   {
    "id": "crawl_9gai17",
    "title": "Pharmacies get new powers to swap prescriptions during shortages",
@@ -203,5 +263,5 @@
    "share_id": "MN202611_1yioyz2hvfw"
   }
  ],
- "updated": "2026-11-28T06:14:34.748Z"
+ "updated": "2026-11-28T07:25:22.701Z"
 }
