@@ -8846,6 +8846,78 @@
    ],
    "auto": true,
    "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_1a3a1944_q",
+   "label_rw": "Intangiriro ku Isano n'Imikorere",
+   "label_en": "Introduction to Functions",
+   "patterns_en": [
+    "What is a function?",
+    "How many outputs does each input have?",
+    "How are functions represented?"
+   ],
+   "patterns_rw": [
+    "Ni iki kitwa isano n'imikorere?",
+    "Ese icyinjira kigira ibyasohoka bingahe?",
+    "Ni gute imikorere yerekanywe?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Isano n'imikorere ni uburyo buhuza umubare w'icyinjira n'umubare w'icyasohoka. Buri cyinjira gifite icyasohoka kimwe gusa. Ishusho cyangwa formula bikoreshwa mu gusobanura imikorere.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "A function is a relation that usually assigns each input to exactly one output. Formulas and graphs are commonly used to represent functions in mathematics.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_aef8116a_q",
+   "label_rw": "Ibipimo n'uburyo bwo kubihindura",
+   "label_en": "Units of Measurement and Conversion",
+   "patterns_en": [
+    "What is the basic unit of length?",
+    "How many meters are in one kilometer?",
+    "Why is unit conversion important?"
+   ],
+   "patterns_rw": [
+    "Ni iki kipimo cy'ibanze cy'uburebure?",
+    "Kilometero imwe ifite metero zingahe?",
+    "Kuki guhindura ibipimo ari ingenzi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Ibipimo bikoreshwa mu gupima uburebure, uburemere, n'igihe. Metero ni urugero rw'igipimo cy'uburebure. Iyo ushaka guhindura igipimo kimwe ukacyerekeza mu kindi, ukoresha imibare igereranyije n'uburyo bwagenwe. Urugero, kilometero imwe ifite metero igihumbi. Ibi bituma ubaze neza ibintu bitandukanye.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Units of measurement are used to measure length, weight, and time. The meter is a standard unit for length. To convert from one unit to another, you use specific mathematical relationships. For example, one kilometer contains one thousand meters. This ensures accurate calculations in various applications.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_b47638c0_q",
+   "label_rw": "Intangiriro ku Mico n'Amatsinda y'Imibare",
+   "label_en": "Introduction to Sets",
+   "patterns_en": [
+    "What is a mathematical set?",
+    "What are the elements of a set?",
+    "How are sets represented?"
+   ],
+   "patterns_rw": [
+    "Itsinda ry'imibare ni iki?",
+    "Abanyamuryango b'itsinda ni iki?",
+    "Twandika dute itsinda ry'imibare?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Itsinda ry'imibare ni icyegeranyo cy'ibintu bifite icyo bihuriyeho. Ibyo bintu bitondekwa mu itsinda bitwa abanyamuryango. Imibare y'umwimerere cyangwa ibindi bintu bishobora kugize itsinda.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "A set is a collection of well-defined objects or numbers. The objects that make up a set are called elements. Sets are fundamental concepts in mathematics used to group related items together.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
   }
  ],
  "knowledge": [
@@ -16131,6 +16203,65 @@
     "inshinga",
     "ururimi",
     "language"
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_1a3a1944",
+   "category": "math",
+   "title_rw": "Intangiriro ku Isano n'Imikorere",
+   "title_en": "Introduction to Functions",
+   "summary_rw": "Isano n'imikorere ni uburyo buhuza umubare w'icyinjira n'umubare w'icyasohoka. Buri cyinjira gifite icyasohoka kimwe gusa. Ishusho cyangwa formula bikoreshwa mu gusobanura imikorere.",
+   "summary_en": "A function is a relation that usually assigns each input to exactly one output. Formulas and graphs are commonly used to represent functions in mathematics.",
+   "keywords": [
+    "imikorere",
+    "isano",
+    "functions",
+    "math",
+    "icyinjira",
+    "icyasohoka",
+    "imibare"
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_aef8116a",
+   "category": "math",
+   "title_rw": "Ibipimo n'uburyo bwo kubihindura",
+   "title_en": "Units of Measurement and Conversion",
+   "summary_rw": "Ibipimo bikoreshwa mu gupima uburebure, uburemere, n'igihe. Metero ni urugero rw'igipimo cy'uburebure. Iyo ushaka guhindura igipimo kimwe ukacyerekeza mu kindi, ukoresha imibare igereranyije n'uburyo bwagenwe. Urugero, kilometero imwe ifite metero igihumbi. Ibi bituma ubaze neza ibintu bitandukanye.",
+   "summary_en": "Units of measurement are used to measure length, weight, and time. The meter is a standard unit for length. To convert from one unit to another, you use specific mathematical relationships. For example, one kilometer contains one thousand meters. This ensures accurate calculations in various applications.",
+   "keywords": [
+    "ibipimo",
+    "gupima",
+    "uburebure",
+    "metero",
+    "units",
+    "measurement",
+    "length",
+    "conversion"
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_b47638c0",
+   "category": "math",
+   "title_rw": "Intangiriro ku Mico n'Amatsinda y'Imibare",
+   "title_en": "Introduction to Sets",
+   "summary_rw": "Itsinda ry'imibare ni icyegeranyo cy'ibintu bifite icyo bihuriyeho. Ibyo bintu bitondekwa mu itsinda bitwa abanyamuryango. Imibare y'umwimerere cyangwa ibindi bintu bishobora kugize itsinda.",
+   "summary_en": "A set is a collection of well-defined objects or numbers. The objects that make up a set are called elements. Sets are fundamental concepts in mathematics used to group related items together.",
+   "keywords": [
+    "itsinda",
+    "imibare",
+    "umunyamuryango",
+    "icyegeranyo",
+    "set",
+    "math",
+    "elements",
+    "collection"
    ],
    "auto": true,
    "taught": "2026-11-28"
