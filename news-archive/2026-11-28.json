@@ -1,7 +1,108 @@
 {
  "day": "2026-11-28",
- "count": 13,
+ "count": 18,
  "articles": [
+  {
+   "id": "crawl_sy0z1t",
+   "title": "I Mageragere barasaba umugoroba wihariye wo kuganira ku ihohoterwa rikorerwa abana",
+   "summary": "Julienne Mukankusi, umubyeyi wo mu kigero cy’imyaka 58 utuye mu Kagari ka Mataba, mu Murenge wa Mageragere, ahangayikishijwe n’abana bakomeje gusambanywa, bamwe bagaterwa inda bakiri bato, mu gihe (…)",
+   "link": "https://www.kigalitoday.com/Inkuru-Zicukumbuye/article/i-mageragere-barasaba-umugoroba-wihariye-wo-kuganira-ku-ihohoterwa-rikorerwa-abana",
+   "url": "https://www.kigalitoday.com/Inkuru-Zicukumbuye/article/i-mageragere-barasaba-umugoroba-wihariye-wo-kuganira-ku-ihohoterwa-rikorerwa-abana",
+   "date": "2026-11-28T07:39:11.000Z",
+   "source": "Kigali Today",
+   "category": "news",
+   "lang": "rw",
+   "keywords": [
+    "Kigali Today",
+    "news",
+    "Inkuru Zicukumbuye"
+   ],
+   "image": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-27_at_20.13_49.jpg",
+   "thumbnail": "https://www.kigalitoday.com/IMG/jpg/whatsapp_image_2026-11-27_at_20.13_49.jpg",
+   "title_rw": "I Mageragere barasaba umugoroba wihariye wo kuganira ku ihohoterwa rikorerwa abana",
+   "summary_rw": "Julienne Mukankusi, umubyeyi wo mu kigero cy’imyaka 58 utuye mu Kagari ka Mataba, mu Murenge wa Mageragere, ahangayikishijwe n’abana bakomeje gusambanywa, bamwe bagaterwa inda bakiri bato, mu gihe (…)",
+   "share_id": "MN202611_sy0z1tao9b"
+  },
+  {
+   "id": "crawl_uopgnw",
+   "title": "Pensions and benefits services still down after 'cyber incident'",
+   "summary": "Experts say the Department for Work and Pensions may have been hit by hackers but the government has not confirmed that.",
+   "link": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T07:36:33.000Z",
+   "source": "BBC Technology",
+   "category": "tech",
+   "lang": "en",
+   "keywords": [
+    "BBC Technology",
+    "tech"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac8/live/f4dc2df0-eafa-11f1-83de-2b6b9d423090.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac8/live/f4dc2df0-eafa-11f1-83de-2b6b9d423090.jpg",
+   "title_en": "Pensions and benefits services still down after 'cyber incident'",
+   "summary_en": "Experts say the Department for Work and Pensions may have been hit by hackers but the government has not confirmed that.",
+   "share_id": "MN202611_uopgnwid4q"
+  },
+  {
+   "id": "crawl_25cgtr",
+   "title": "I watched every Brighton game at Dortmund - Gross",
+   "summary": "Brighton's Pascal Gross shares why he returned after getting his move to Borussia Dortmund.",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cw5y1e747375o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cw5y1e747375o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T07:29:50.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e08/live/726932e0-ea56-11f1-99a1-253766e7ad8b.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e08/live/726932e0-ea56-11f1-99a1-253766e7ad8b.jpg",
+   "title_en": "I watched every Brighton game at Dortmund - Gross",
+   "summary_en": "Brighton's Pascal Gross shares why he returned after getting his move to Borussia Dortmund.",
+   "share_id": "MN202611_25cgtrpsb1"
+  },
+  {
+   "id": "crawl_1ei2uqm",
+   "title": "How dad's embarrassment was making of Gross at Brighton",
+   "summary": "Pascal Gross says his dad 'embarrassment' at him looking for free-kicks played an important part in him becoming the player he is today at Brighton.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm3egnw0y0d0o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm3egnw0y0d0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T07:25:04.000Z",
+   "source": "BBC Football",
+   "category": "sports",
+   "lang": "en",
+   "keywords": [
+    "BBC Football",
+    "sports"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feb8/live/786c73f0-e8ee-11f1-8808-1d4222955d7e.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feb8/live/786c73f0-e8ee-11f1-8808-1d4222955d7e.jpg",
+   "title_en": "How dad's embarrassment was making of Gross at Brighton",
+   "summary_en": "Pascal Gross says his dad 'embarrassment' at him looking for free-kicks played an important part in him becoming the player he is today at Brighton.",
+   "share_id": "MN202611_1ei2uqmus58"
+  },
+  {
+   "id": "crawl_18s46cd",
+   "title": "Viaduct gardens vision on show as group gets access",
+   "summary": "Plans to create five community garden spaces on a disused viaduct in Leamington have been published.",
+   "link": "https://www.bbc.co.uk/news/articles/cw4gnd2gkmzko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw4gnd2gkmzko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T07:22:22.000Z",
+   "source": "BBC Science",
+   "category": "science",
+   "lang": "en",
+   "keywords": [
+    "BBC Science",
+    "science"
+   ],
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d65/live/4155f430-e8db-11f1-a3b9-79c60ec9ab33.jpg",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d65/live/4155f430-e8db-11f1-a3b9-79c60ec9ab33.jpg",
+   "title_en": "Viaduct gardens vision on show as group gets access",
+   "summary_en": "Plans to create five community garden spaces on a disused viaduct in Leamington have been published.",
+   "share_id": "MN202611_18s46cdx2t7"
+  },
   {
    "id": "crawl_1h3is9l",
    "title": "Who am I? Plus today's other quizzes",
@@ -263,5 +364,5 @@
    "share_id": "MN202611_1yioyz2hvfw"
   }
  ],
- "updated": "2026-11-28T07:25:22.701Z"
+ "updated": "2026-11-28T07:47:29.212Z"
 }
