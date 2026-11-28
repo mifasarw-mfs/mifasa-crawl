@@ -8726,6 +8726,78 @@
    ],
    "auto": true,
    "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_abf83374_q",
+   "label_rw": "Umutekano mu gukoresha ibikoresho",
+   "label_en": "Tool safety",
+   "patterns_en": [
+    "What is important for tool safety?",
+    "What should you wear when using tools?",
+    "What should you do before using a tool?"
+   ],
+   "patterns_rw": [
+    "Ni iki cy'ingenzi mu mutekano w'ibikoresho?",
+    "Wambara iki iyo ukoresha ibikoresho?",
+    "Wakora iki mbere yo gukoresha igikoresho?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Gukoresha ibikoresho by'intoki n'iby'amashanyarazi bisaba kwitonda. Ugomba kwambara imyenda y'akazi ikwiye n'ibikoresho birinda nk'amaso n'amaboko. Buri gihe genzura ko ibikoresho bidafite amapfisi cyangwa ibindi bibazo mbere yo kubikoresha.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Using hand and power tools safely requires caution. You should wear appropriate work clothes and protective gear like safety glasses and gloves. Always check that tools are not damaged or faulty before using them.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_1e95f5f0_q",
+   "label_rw": "Guta neza ibikoresho bifite ubutoyora",
+   "label_en": "Safe disposal of sharp objects and needles",
+   "patterns_en": [
+    "How do you dispose of needles safely?",
+    "What container should be used for sharp objects?",
+    "Why is it important to handle syringes carefully?"
+   ],
+   "patterns_rw": [
+    "Ni gute wata inkingo neza?",
+    "Ese wakoresha iki mu gushyiramo ibikoresho bifite ubutoyora?",
+    "Kubera iki ari ngombwa kwitonda mu guta siriringi?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Guta neza ibikoresho bifite ubutoyora nko mu nkingo na siriringi bikemura ibibazo by'impanuka. Abantu bagomba gushyira ibyo bikoresho mu icupa ryagenewe cyangwa se mu isanduku ikomeye kugira ngo batabangamira abandi. Birabujijwe kubita mu myanda isanzwe.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Disposing safely of sharp objects such as needles and syringes prevents accidental injuries. People should place these items in a puncture-resistant container to protect others. It is usually prohibited to throw them in regular household waste.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_b4762fc7_q",
+   "label_rw": "Uburyo bwo kwirinda imirasire y'izuba",
+   "label_en": "Sunburn and UV Protection Measures",
+   "patterns_en": [
+    "How can I prevent sunburn?",
+    "When should I apply sunscreen?",
+    "Why are UV rays harmful to the skin?"
+   ],
+   "patterns_rw": [
+    "Ni gute nakwirinda ubushye bw'izuba?",
+    "Amavuta arinda izuba akoreshwa ute?",
+    "Imirasire y'izuba yangiza ite uruhu?"
+   ],
+   "priority": 3,
+   "answer_rw": [
+    "Imirasire y'izuba ishobora gutera ubushye ku ruhu ndetse n'indwara zikomeye. Kwirinda bisaba kwambara imyenda miremire, gukoresha amavuta arinda izuba, no kuguma mu gicucu cyane cyane hagati ya saa sita n'isasu aho izuba riba rifite imbaraga nyinshi.\n\n⚠️ Ubu bumenyi bwigishijwe na AI, bushobora kwibeshya."
+   ],
+   "answer_en": [
+    "Ultraviolet radiation from the sun can cause skin burns and serious health issues. Protection usually involves wearing protective clothing, applying sunscreen, and staying in the shade during peak midday hours when UV rays are strongest.\n\n⚠️ This knowledge was taught by an AI and may contain mistakes."
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
   }
  ],
  "knowledge": [
@@ -15913,6 +15985,66 @@
     "cue",
     "shot",
     "technique"
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_abf83374",
+   "category": "safety",
+   "title_rw": "Umutekano mu gukoresha ibikoresho",
+   "title_en": "Tool safety",
+   "summary_rw": "Gukoresha ibikoresho by'intoki n'iby'amashanyarazi bisaba kwitonda. Ugomba kwambara imyenda y'akazi ikwiye n'ibikoresho birinda nk'amaso n'amaboko. Buri gihe genzura ko ibikoresho bidafite amapfisi cyangwa ibindi bibazo mbere yo kubikoresha.",
+   "summary_en": "Using hand and power tools safely requires caution. You should wear appropriate work clothes and protective gear like safety glasses and gloves. Always check that tools are not damaged or faulty before using them.",
+   "keywords": [
+    "ibikoresho",
+    "umutekano",
+    "amashanyarazi",
+    "intoki",
+    "tools",
+    "safety",
+    "power",
+    "gear"
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_1e95f5f0",
+   "category": "safety",
+   "title_rw": "Guta neza ibikoresho bifite ubutoyora",
+   "title_en": "Safe disposal of sharp objects and needles",
+   "summary_rw": "Guta neza ibikoresho bifite ubutoyora nko mu nkingo na siriringi bikemura ibibazo by'impanuka. Abantu bagomba gushyira ibyo bikoresho mu icupa ryagenewe cyangwa se mu isanduku ikomeye kugira ngo batabangamira abandi. Birabujijwe kubita mu myanda isanzwe.",
+   "summary_en": "Disposing safely of sharp objects such as needles and syringes prevents accidental injuries. People should place these items in a puncture-resistant container to protect others. It is usually prohibited to throw them in regular household waste.",
+   "keywords": [
+    "inkingo",
+    "siriringi",
+    "imyanda",
+    "umutekano",
+    "needles",
+    "syringes",
+    "waste",
+    "safety"
+   ],
+   "auto": true,
+   "taught": "2026-11-28"
+  },
+  {
+   "id": "ai16_b4762fc7",
+   "category": "safety",
+   "title_rw": "Uburyo bwo kwirinda imirasire y'izuba",
+   "title_en": "Sunburn and UV Protection Measures",
+   "summary_rw": "Imirasire y'izuba ishobora gutera ubushye ku ruhu ndetse n'indwara zikomeye. Kwirinda bisaba kwambara imyenda miremire, gukoresha amavuta arinda izuba, no kuguma mu gicucu cyane cyane hagati ya saa sita n'isasu aho izuba riba rifite imbaraga nyinshi.",
+   "summary_en": "Ultraviolet radiation from the sun can cause skin burns and serious health issues. Protection usually involves wearing protective clothing, applying sunscreen, and staying in the shade during peak midday hours when UV rays are strongest.",
+   "keywords": [
+    "izuba",
+    "uruhu",
+    "ubushye",
+    "imirasire",
+    "sun",
+    "skin",
+    "burn",
+    "protection"
    ],
    "auto": true,
    "taught": "2026-11-28"
